@@ -1,0 +1,284 @@
+{
+  "slug": "leap-year-trivia",
+  "name": "Leap Year",
+  "description": "February 29, leaplings, the Julian and Gregorian calendars, and why we need an extra day every four years.",
+  "processedAt": "2026-05-06T00:00:00Z",
+  "status": "pilot",
+  "questions": [
+    {
+      "q": "On what date does the extra day fall in a leap year?",
+      "choices": ["February 28", "February 29", "March 1", "December 32"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "29 days",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "How many days are in a common (non-leap) year in the Gregorian calendar?",
+      "choices": ["360", "364", "365", "366"],
+      "correct": 2,
+      "category": "Leap Year",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "365 days",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "How many days does February have in a leap year?",
+      "choices": ["28", "29", "30", "31"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "29 days",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "How often does a leap year occur in the Gregorian calendar (basic rule)?",
+      "choices": ["Every 2 years", "Every 4 years", "Every 5 years", "Every 10 years"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Every 4 years",
+        "verified": true,
+        "notes": "With exceptions for centurial years (see other questions)."
+      }
+    },
+    {
+      "q": "Who introduced the original 'every-4-years' leap year system in 46 BC?",
+      "choices": ["Augustus Caesar", "Julius Caesar", "Constantine", "Pope Gregory XIII"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Julius Caesar",
+        "verified": true,
+        "notes": "Created the Julian calendar with help from astronomer Sosigenes of Alexandria."
+      }
+    },
+    {
+      "q": "Which pope reformed the Julian calendar in 1582 to create the Gregorian calendar still in use today?",
+      "choices": ["Gregory I", "Gregory XIII", "Pius V", "Innocent III"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "1582",
+        "verified": true,
+        "notes": "Issued the bull Inter gravissimas in 1582."
+      }
+    },
+    {
+      "q": "What additional rule did the Gregorian calendar add to the Julian system?",
+      "choices": [
+        "Add a leap day every 5 years instead of 4",
+        "Skip leap year in centurial years not divisible by 400",
+        "Add a leap month every 19 years",
+        "Skip leap year in years ending in 7"
+      ],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "He adjusted the leap year rule to skip leap years in centuries not divisible by 400",
+        "verified": true,
+        "notes": "So 1900 was NOT a leap year; 2000 WAS. This corrects the Julian calendar's slight overshoot."
+      }
+    },
+    {
+      "q": "Approximately how long does Earth take to orbit the Sun?",
+      "choices": ["365 days", "365.25 days", "365.2422 days", "366 days"],
+      "correct": 2,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Approximately 365.242190 days",
+        "verified": true,
+        "notes": "The fractional part is why we need leap years; the Gregorian rule averages 365.2425."
+      }
+    },
+    {
+      "q": "What is the affectionate term for someone born on February 29?",
+      "choices": ["Leapfrog", "Leapling", "Leaper", "29-er"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Leaplings",
+        "verified": true,
+        "notes": "Roughly 5 million leaplings live worldwide."
+      }
+    },
+    {
+      "q": "Which Texas town has branded itself the 'Leap Year Capital of the World'?",
+      "choices": ["Anthony, TX", "Marfa, TX", "Bandera, TX", "Luckenbach, TX"],
+      "correct": 0,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Leap Year Capital celebration",
+        "verified": true,
+        "notes": "Anthony — straddling the Texas–New Mexico border — has hosted a Leap Year Festival since 1988."
+      }
+    },
+    {
+      "q": "In Irish folklore, what 'privilege' is traditionally granted to women on February 29?",
+      "choices": [
+        "They can take the day off work",
+        "They can propose marriage to a man",
+        "They lead the local parade",
+        "They wear inverted clothing"
+      ],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "A day when women can propose marriage",
+        "verified": true,
+        "notes": "Sometimes called 'Bachelor's Day' or 'Lady's Privilege'. Original answer mis-labeled this as 'Sadie Hawkins Day' — Sadie Hawkins is a separate, U.S.-comic-strip tradition typically observed in November, not on Feb 29."
+      }
+    },
+    {
+      "q": "Why was February historically chosen as the month to receive the extra leap day?",
+      "choices": [
+        "It was the shortest month",
+        "It honors the Roman god February",
+        "It avoided affecting religious feast days",
+        "It was the warmest month"
+      ],
+      "correct": 0,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "It was the shortest month",
+        "verified": true,
+        "notes": "Going back to ancient Roman calendar reforms — February was already the runt of the year."
+      }
+    },
+    {
+      "q": "Was the year 1900 a leap year in the Gregorian calendar?",
+      "choices": [
+        "Yes",
+        "No, because 1900 isn't divisible by 400",
+        "No, because 1900 isn't divisible by 4",
+        "Only in some countries"
+      ],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "He adjusted the leap year rule to skip leap years in centuries not divisible by 400",
+        "verified": true,
+        "notes": "1900 is divisible by 100 but not 400 → skipped. 2000 IS divisible by 400 → leap year."
+      }
+    },
+    {
+      "q": "Will 2100 be a leap year in the Gregorian calendar?",
+      "choices": [
+        "Yes — divisible by 4",
+        "No — divisible by 100 but not 400",
+        "Yes — only adjusted in 2200",
+        "Only in the Eastern Orthodox calendar"
+      ],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "He adjusted the leap year rule to skip leap years in centuries not divisible by 400",
+        "verified": true,
+        "notes": "Divisible by 100 but not 400 → not a leap year. The next century leap year is 2400."
+      }
+    },
+    {
+      "q": "How many days are in the Ethiopian calendar's 13th month, Pagumē, in a leap year?",
+      "choices": ["3", "5", "6", "10"],
+      "correct": 2,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "It adds an extra day to the 13th month",
+        "verified": true,
+        "notes": "Pagumē usually has 5 days; gains a 6th in leap years."
+      }
+    },
+    {
+      "q": "Which major sporting event reliably falls in leap years?",
+      "choices": ["The Tour de France", "The Summer Olympics", "The Super Bowl", "The Kentucky Derby"],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Leap year",
+        "verified": true,
+        "notes": "Modern Olympics generally on leap years (with rare exceptions like 2020-postponed-to-2021)."
+      }
+    },
+    {
+      "q": "Which U.S. quadrennial event is also held in leap years?",
+      "choices": [
+        "The U.S. Census",
+        "U.S. presidential elections",
+        "The State of the Union",
+        "Daylight Saving renewal"
+      ],
+      "correct": 1,
+      "category": "Leap Year",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Leap year",
+        "verified": true,
+        "notes": "Held every 4 years on leap years; the Census is every 10 (years ending in 0)."
+      }
+    },
+    {
+      "q": "Approximately how much extra time accumulates each year that requires a leap day to correct?",
+      "choices": [
+        "About 6 minutes",
+        "About 1 hour",
+        "About 6 hours",
+        "About 12 hours"
+      ],
+      "correct": 2,
+      "category": "Leap Year",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "5 hours, 48 minutes, and 56 seconds",
+        "verified": true,
+        "notes": "Earth's solar year is 365 days, 5 hours, 48 minutes, 46 seconds — close to 6 hours per year × 4 years ≈ 1 day."
+      }
+    },
+    {
+      "q": "In what year of the 21st century did February 29 fall on a Monday?",
+      "choices": ["2008", "2012", "2016", "2024"],
+      "correct": 2,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Every 4 years, on February 29th",
+        "verified": true,
+        "notes": "Verified: Feb 29, 2016 was a Monday."
+      }
+    },
+    {
+      "q": "Approximately what are the odds of being born on February 29?",
+      "choices": ["1 in 100", "1 in 365", "1 in 1,000", "1 in 1,461"],
+      "correct": 3,
+      "category": "Leap Year",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Leap year",
+        "verified": true,
+        "notes": "1 day out of 1,461 days in 4 years = ~0.0684%."
+      }
+    }
+  ]
+}
