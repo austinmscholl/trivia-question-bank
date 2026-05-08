@@ -1,0 +1,299 @@
+{
+  "slug": "poker-trivia",
+  "name": "Poker",
+  "description": "Texas Hold'em, hand rankings, bluffs, and the World Series of Poker.",
+  "processedAt": "2026-05-07T00:00:00Z",
+  "status": "pilot",
+  "questions": [
+    {
+      "q": "How many cards is each player dealt at the start of a Texas Hold'em hand?",
+      "choices": ["2", "3", "4", "5"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "2",
+        "verified": true,
+        "notes": "Two 'hole' cards face down."
+      }
+    },
+    {
+      "q": "How many community cards are dealt face-up over the course of a Texas Hold'em hand?",
+      "choices": ["3", "5", "7", "9"],
+      "correct": 1,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Flop (3) + Turn (1) + River (1) = 5."
+      }
+    },
+    {
+      "q": "What are the 3 community cards dealt all at once at the start of betting called?",
+      "choices": ["Flop", "Turn", "River", "Burn"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Flop is preceded by a 'burn' card discarded face-down."
+      }
+    },
+    {
+      "q": "What is the 4th community card called?",
+      "choices": ["Turn", "Flop", "River", "Fifth Street"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Also called 'Fourth Street.'"
+      }
+    },
+    {
+      "q": "What is the 5th and final community card called?",
+      "choices": ["River", "Turn", "Sixth Street", "End"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Also called 'Fifth Street.'"
+      }
+    },
+    {
+      "q": "What is the highest possible poker hand?",
+      "choices": [
+        "Royal Flush",
+        "Straight Flush",
+        "Four of a Kind",
+        "Full House"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "A-K-Q-J-10 of the same suit."
+      }
+    },
+    {
+      "q": "What hand beats a flush?",
+      "choices": [
+        "Full House",
+        "Straight",
+        "Three of a Kind",
+        "Two Pair"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Order high→low: SF, 4-of-a-kind, full house, flush, straight, 3-of-a-kind, 2-pair, pair, high card."
+      }
+    },
+    {
+      "q": "Which hand is composed of 5 cards in sequence (e.g. 7-8-9-10-J), NOT all the same suit?",
+      "choices": ["Straight", "Flush", "Full House", "Run"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Straight",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "What is a hand with 3 of one rank + 2 of another (e.g. three Kings + two 7s) called?",
+      "choices": ["Full House", "Two Pair", "Three of a Kind", "Boat House"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Also called a 'boat.'"
+      }
+    },
+    {
+      "q": "What is the forced bet that the player to the left of the dealer must make?",
+      "choices": ["Small Blind", "Ante", "Big Blind", "Straddle"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Big blind sits to the left of small blind, twice the amount."
+      }
+    },
+    {
+      "q": "What does it mean to 'fold' in poker?",
+      "choices": [
+        "Discard your hand and forfeit the pot",
+        "Raise the bet",
+        "Call the previous bet",
+        "Show your cards"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Fold",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "What does 'check' mean?",
+      "choices": [
+        "Pass the action without betting (allowed only when no one has bet)",
+        "Bet half the pot",
+        "Raise to all-in",
+        "Match the previous bet"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "What does it mean to go 'all in'?",
+      "choices": [
+        "Bet your entire stack",
+        "Call any amount",
+        "Show your cards",
+        "Sit out the hand"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "What's the casino's nickname for a pair of aces dealt as hole cards?",
+      "choices": [
+        "Pocket rockets / American Airlines",
+        "Big slick",
+        "Cowboys",
+        "Snowmen"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Big slick = A-K. Cowboys = K-K. Snowmen = 8-8."
+      }
+    },
+    {
+      "q": "What hand is called the 'Dead Man's Hand'?",
+      "choices": [
+        "Aces and Eights (two pair)",
+        "Pocket rockets",
+        "Big slick",
+        "Royal Flush"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Allegedly Wild Bill Hickok's hand when he was shot dead in Deadwood, 1876."
+      }
+    },
+    {
+      "q": "In what year was the first World Series of Poker (WSOP) held in Las Vegas?",
+      "choices": ["1970", "1965", "1980", "1955"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "1970",
+        "verified": true,
+        "notes": "Founded by Benny Binion at Binion's Horseshoe."
+      }
+    },
+    {
+      "q": "Which 2003 unknown amateur made history by winning the WSOP Main Event after qualifying via PokerStars?",
+      "choices": [
+        "Chris Moneymaker",
+        "Phil Hellmuth",
+        "Doyle Brunson",
+        "Daniel Negreanu"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "His win sparked the 'Moneymaker Effect' — online poker boom."
+      }
+    },
+    {
+      "q": "Which Texas-born poker legend has the most WSOP bracelets (17 career)?",
+      "choices": [
+        "Phil Hellmuth",
+        "Doyle Brunson",
+        "Phil Ivey",
+        "Daniel Negreanu"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "17 bracelets through 2024 — most in WSOP history."
+      }
+    },
+    {
+      "q": "Which 1998 Matt Damon film centers on Texas Hold'em and is widely cited as the cult classic of poker movies?",
+      "choices": ["Rounders", "Casino Royale", "21", "Maverick"],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Co-starring Edward Norton."
+      }
+    },
+    {
+      "q": "What does it mean to 'go on tilt' in poker?",
+      "choices": [
+        "Play emotionally / poorly after a bad beat",
+        "Raise all-in",
+        "Win a big pot",
+        "Bluff successfully"
+      ],
+      "correct": 0,
+      "category": "Poker",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Poker",
+        "verified": true,
+        "notes": "Term borrowed from pinball — 'tilting' the machine."
+      }
+    }
+  ]
+}
