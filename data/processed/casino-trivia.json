@@ -35,15 +35,15 @@
       }
     },
     {
-      "q": "What was the name of the first slot machine, invented by Charles Fey in 1895?",
+      "q": "What was the name of the first three-reel slot machine, invented by Charles Fey in 1899?",
       "choices": ["Liberty Bell", "Lucky Star", "Spin City", "Reel Spin"],
       "correct": 0,
       "category": "Casino & Gambling",
       "difficulty": "hard",
       "source": {
-        "original_a": "Bell",
+        "original_a": "Liberty Bell",
         "verified": true,
-        "notes": "Three reels with horseshoes, hearts, diamonds, spades, and a Liberty Bell."
+        "notes": "Three reels with horseshoes, hearts, diamonds, spades, and a Liberty Bell. audit-corrected 2026-05-09: changed year from 1895 to 1899 (Liberty Bell three-reel was invented ~1899; 1895 refers to Fey's earlier 'Card Bell' machine)."
       }
     },
     {
@@ -76,20 +76,20 @@
       }
     },
     {
-      "q": "What number do you need to get in blackjack to win?",
+      "q": "What is the magic number you try to reach (without going over) in blackjack?",
       "choices": [
-        "21 (without going over)",
+        "21",
         "20",
         "25",
-        "Closest to 21"
+        "30"
       ],
       "correct": 0,
       "category": "Casino & Gambling",
       "difficulty": "easy",
       "source": {
-        "original_a": "Casino & Gambling",
+        "original_a": "21",
         "verified": true,
-        "notes": "Going over 21 is 'busting' — automatic loss."
+        "notes": "Going over 21 is 'busting' — automatic loss. audit-corrected 2026-05-09: removed the ambiguous 'Closest to 21' distractor (which is also technically correct) and reworded stem to ask for the target number."
       }
     },
     {
@@ -207,20 +207,20 @@
       }
     },
     {
-      "q": "What term describes a player banned by name from casinos?",
+      "q": "What term specifically describes a player on Nevada's formal name-by-name casino exclusion list?",
       "choices": [
         "In the Black Book",
-        "Blacklisted (general)",
-        "86'd",
-        "All accepted"
+        "Blacklisted",
+        "Comped",
+        "Whaled"
       ],
-      "correct": 3,
+      "correct": 0,
       "category": "Casino & Gambling",
       "difficulty": "hard",
       "source": {
-        "original_a": "Black",
+        "original_a": "In the Black Book",
         "verified": true,
-        "notes": "Nevada's Black Book is the formal exclusion list since 1960."
+        "notes": "Nevada's Black Book (formally the List of Excluded Persons) is the state's formal exclusion list since 1960. audit-corrected 2026-05-09: replaced ambiguous '86'd' / 'All accepted' choices and tightened stem so 'In the Black Book' is uniquely correct."
       }
     },
     {

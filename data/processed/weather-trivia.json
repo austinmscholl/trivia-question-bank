@@ -2,7 +2,7 @@
   "slug": "weather-trivia",
   "name": "Weather",
   "description": "Tornadoes, hurricanes, clouds, climate — meteorology trivia.",
-  "processedAt": "2026-05-07T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -182,15 +182,15 @@
       }
     },
     {
-      "q": "What is the term for the stationary 'eye' at the center of a hurricane?",
+      "q": "What is the term for the calm, clear region at the center of a hurricane?",
       "choices": ["Eye", "Heart", "Calm", "Center"],
       "correct": 0,
       "category": "Weather",
       "difficulty": "easy",
       "source": {
-        "original_a": "Weather",
+        "original_a": "Eye",
         "verified": true,
-        "notes": ""
+        "notes": "audit-corrected 2026-05-09: removed inaccurate 'stationary' descriptor (the eye moves with the storm); the eye is the calm, clear region at a tropical cyclone's center."
       }
     },
     {

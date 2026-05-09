@@ -2,16 +2,16 @@
   "slug": "boxing-trivia",
   "name": "Boxing",
   "description": "The sweet science — legendary fighters, famous bouts, weight classes, and the rulebook.",
-  "processedAt": "2026-04-19T08:55:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
-      "q": "Which heavyweight boxer was nicknamed 'The Greatest' and 'Iron Mike'… wait, which one was 'The Greatest'?",
+      "q": "Which heavyweight boxer was nicknamed 'The Greatest'?",
       "choices": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "George Foreman"],
       "correct": 1,
       "category": "Boxing",
       "difficulty": "easy",
-      "source": { "original_a": "1981", "verified": true, "notes": "Ali's signature self-promotional line." }
+      "source": { "original_a": "Muhammad Ali", "verified": true, "notes": "audit-corrected 2026-05-09: cleaned up garbled draft phrasing that mixed two questions." }
     },
     {
       "q": "Before converting to Islam and changing his name, Muhammad Ali boxed under what birth name?",
@@ -214,7 +214,7 @@
       "correct": 2,
       "category": "Boxing",
       "difficulty": "hard",
-      "source": { "original_a": "1908", "verified": false, "notes": "Source claims 1908, but boxing actually debuted at 1904 St. Louis Games. Answer: 1904." }
+      "source": { "original_a": "1904", "verified": true, "notes": "audit-corrected 2026-05-09: boxing debuted at the 1904 St. Louis Games." }
     }
   ]
 }

@@ -2,7 +2,7 @@
   "slug": "easy-trivia",
   "name": "Easy",
   "description": "General knowledge questions for warmups — geography, science, and the basics.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -254,7 +254,7 @@
       }
     },
     {
-      "q": "Which is the largest desert in the world (by area)?",
+      "q": "Which is the largest desert in the world by area, including polar deserts?",
       "choices": ["Antarctic", "Sahara", "Arabian", "Gobi"],
       "correct": 0,
       "category": "Easy",
@@ -262,7 +262,7 @@
       "source": {
         "original_a": "Antarctica",
         "verified": true,
-        "notes": "A desert is defined by precipitation, not temperature; Antarctica gets ~2 inches/year. Sahara is the largest *hot* desert."
+        "notes": "audit-corrected 2026-05-09: clarified question to specify 'including polar deserts' to avoid hot/cold ambiguity. A desert is defined by precipitation, not temperature; Antarctica gets ~2 inches/year. Sahara is the largest *hot* desert."
       }
     }
   ]

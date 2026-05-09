@@ -2,7 +2,7 @@
   "slug": "classic-rock-trivia",
   "name": "Classic Rock",
   "description": "Rock legends, bands, and anthems from the 60s–80s",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -174,7 +174,7 @@
       }
     },
     {
-      "q": "Which California rock band recorded the 1977 album 'Hotel California'?",
+      "q": "Which California rock band recorded the 1976 album 'Hotel California'?",
       "choices": ["Fleetwood Mac", "The Doobie Brothers", "Eagles", "Steely Dan"],
       "correct": 2,
       "category": "Classic Rock",
@@ -182,7 +182,7 @@
       "source": {
         "original_a": "The Eagles",
         "verified": true,
-        "notes": "Sold over 32 million copies worldwide."
+        "notes": "audit-corrected 2026-05-09: album released Dec 8, 1976 (title-track single Feb 1977). Sold over 32 million copies worldwide."
       }
     },
     {
@@ -235,14 +235,14 @@
     },
     {
       "q": "Pink Floyd were briefly known by which earlier name before settling on Pink Floyd in 1965?",
-      "choices": ["The Jokers", "The Tea Set", "The Abdabs", "The Butterflies"],
+      "choices": ["The Jokers", "The Hermits", "The Abdabs", "The Butterflies"],
       "correct": 2,
       "category": "Classic Rock",
       "difficulty": "hard",
       "source": {
-        "original_a": "Pink Floyd",
+        "original_a": "The Abdabs",
         "verified": true,
-        "notes": "Full name 'The Screaming Abdabs'; cycled through several names including 'Tea Set' before picking Pink Floyd."
+        "notes": "audit-corrected 2026-05-09: replaced 'The Tea Set' (also a real prior name) with 'The Hermits' to leave a single correct answer. Full name 'The Screaming Abdabs'."
       }
     },
     {

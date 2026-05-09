@@ -2,7 +2,7 @@
   "slug": "european-championships-trivia",
   "name": "European Championships",
   "description": "UEFA Euros and international European football",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -258,7 +258,7 @@
       }
     },
     {
-      "q": "Which country, mostly located in Asia but a UEFA member, competes in European football qualifiers?",
+      "q": "Which Central Asian country joined UEFA in 2002 despite being roughly 90% located in Asia?",
       "choices": ["Turkey", "Armenia", "Kazakhstan", "Azerbaijan"],
       "correct": 2,
       "category": "European Championships",
@@ -266,7 +266,7 @@
       "source": {
         "original_a": "Kazakhstan",
         "verified": true,
-        "notes": "Joined UEFA in 2002; about 90% of Kazakhstan's land is in Asia."
+        "notes": "audit-corrected 2026-05-09: stem narrowed to Central Asia + 2002 UEFA admission to uniquely identify Kazakhstan (Turkey/Armenia/Azerbaijan are also largely in Asia)."
       }
     }
   ]

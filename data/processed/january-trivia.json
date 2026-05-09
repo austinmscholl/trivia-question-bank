@@ -2,7 +2,7 @@
   "slug": "january-trivia",
   "name": "January",
   "description": "New Year's, Janus, MLK Day, the inauguration — the first month of the year, named for the two-faced god.",
-  "processedAt": "2026-05-06T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -42,15 +42,15 @@
       }
     },
     {
-      "q": "What is January's birth flower?",
-      "choices": ["Carnation", "Tulip", "Snowdrop", "Daisy"],
+      "q": "In British tradition, what is January's birth flower?",
+      "choices": ["Iris", "Tulip", "Snowdrop", "Daisy"],
       "correct": 2,
       "category": "January",
       "difficulty": "hard",
       "source": {
         "original_a": "Snowdrop (Galanthus)",
         "verified": true,
-        "notes": "Carnation is a frequent secondary January flower."
+        "notes": "audit-corrected 2026-05-09: replaced 'Carnation' distractor (also a defensible American-tradition January flower) with 'Iris'; specified British tradition so Snowdrop is unambiguously correct."
       }
     },
     {

@@ -2,7 +2,7 @@
   "slug": "election-trivia",
   "name": "Election",
   "description": "Voting systems, historical firsts, and U.S. presidential trivia.",
-  "processedAt": "2026-05-06T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -254,15 +254,15 @@
       }
     },
     {
-      "q": "Which Australian state requires voters to cast a ballot in elections (compulsory voting), with a fine for noncompliance?",
-      "choices": ["All Australian states (federal law)", "Western Australia only", "Tasmania only", "None — voting is voluntary"],
+      "q": "Which country requires its citizens to vote in elections, fining noncompliance?",
+      "choices": ["Australia", "Canada", "United Kingdom", "New Zealand"],
       "correct": 0,
       "category": "Election",
       "difficulty": "hard",
       "source": {
-        "original_a": "Western Australia",
+        "original_a": "Australia",
         "verified": true,
-        "notes": "Compulsory voting is a federal law in Australia at federal and state levels — not state-specific. Original answer was incorrect."
+        "notes": "audit-corrected 2026-05-09: reframed from misleading 'Which Australian state' (compulsory voting is national law via Commonwealth Electoral Act 1924, not state-specific)."
       }
     }
   ]

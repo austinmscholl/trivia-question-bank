@@ -239,20 +239,20 @@
       }
     },
     {
-      "q": "What's the term for a pitcher who throws a complete game with no hits allowed?",
+      "q": "What's the basic term for a pitcher who throws a complete game with no hits allowed (but may include walks or errors)?",
       "choices": [
         "No-hitter",
-        "Perfect game (no baserunners at all)",
-        "Both — perfect game is a no-hitter PLUS no walks/errors",
-        "Shutout"
+        "Perfect game",
+        "Shutout",
+        "Quality start"
       ],
-      "correct": 2,
+      "correct": 0,
       "category": "MLB Baseball",
       "difficulty": "medium",
       "source": {
-        "original_a": "MLB Baseball",
+        "original_a": "No-hitter",
         "verified": true,
-        "notes": "A perfect game is the most exclusive — only 24 in modern MLB history."
+        "notes": "audit-corrected 2026-05-09: changed correct answer to 'No-hitter' and clarified stem. A perfect game is a stricter no-hitter (no baserunners allowed at all) — only 24 in modern MLB history."
       }
     },
     {

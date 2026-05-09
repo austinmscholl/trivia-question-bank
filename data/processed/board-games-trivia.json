@@ -2,7 +2,7 @@
   "slug": "board-games-trivia",
   "name": "Board Games",
   "description": "Monopoly, Scrabble, Chess, Catan, and the dice-and-paper classics.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -47,15 +47,15 @@
       }
     },
     {
-      "q": "What's the highest-scoring single tile in Scrabble (10 points)?",
-      "choices": ["Q or Z (both 10)", "X", "J", "K"],
+      "q": "Which two letters are the highest-scoring tiles (10 points each) in Scrabble?",
+      "choices": ["Q and Z", "X and J", "J and K", "K and X"],
       "correct": 0,
       "category": "Board Games",
       "difficulty": "medium",
       "source": {
-        "original_a": "K",
+        "original_a": "Q and Z",
         "verified": true,
-        "notes": "K is only 5 points. Q and Z are both 10."
+        "notes": "audit-corrected 2026-05-09: reworded for clarity; Q and Z are both worth 10 points."
       }
     },
     {

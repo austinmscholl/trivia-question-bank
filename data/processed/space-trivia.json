@@ -2,7 +2,7 @@
   "slug": "space-trivia",
   "name": "Space & Astronomy",
   "description": "The solar system, space missions, and cosmic science",
-  "processedAt": "2026-04-16T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -99,7 +99,7 @@
       "correct": 1,
       "category": "Space & Astronomy",
       "difficulty": "easy",
-      "source": { "original_a": "Neptune", "verified": true, "notes": "All four gas giants have rings. Saturn's are by far the most visible from Earth." }
+      "source": { "original_a": "Saturn", "verified": true, "notes": "audit-corrected 2026-05-09: original_a was erroneously 'Neptune'; corrected to 'Saturn'. All four gas giants have rings, but Saturn's are by far the most visible from Earth." }
     },
     {
       "q": "The study of stars' physical properties and chemical composition is known as what?",
@@ -142,12 +142,12 @@
       "source": { "original_a": "Texas", "verified": true, "notes": "Located in Houston. Launches happen in Florida (Kennedy Space Center), but Johnson controls the missions." }
     },
     {
-      "q": "Element sodium is the second most abundant element found on which planet's surface?",
+      "q": "Sodium is the second most abundant element in which planet's thin exosphere?",
       "choices": ["Mars", "Mercury", "Venus", "Saturn"],
       "correct": 1,
       "category": "Space & Astronomy",
       "difficulty": "hard",
-      "source": { "original_a": "Sodium", "verified": true, "notes": "After oxygen. Mercury has a thin sodium-rich exosphere." }
+      "source": { "original_a": "Sodium", "verified": true, "notes": "audit-corrected 2026-05-09: reworded from 'on which planet's surface' to 'in which planet's thin exosphere' — Mercury's surface is dominated by oxygen/magnesium/silicon (per MESSENGER GRS); sodium's notable abundance is in the exosphere, after oxygen." }
     },
     {
       "q": "What is the innermost layer of the Sun called, where nuclear fusion takes place?",

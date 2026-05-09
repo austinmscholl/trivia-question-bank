@@ -100,32 +100,32 @@
       }
     },
     {
-      "q": "What yo-yo-like Bandai craze swept the world in 1996-97?",
-      "choices": ["Tamagotchi (already a hit)", "Tickle Me Elmo", "Furby", "Pog"],
-      "correct": 1,
+      "q": "What Bandai virtual-pet device, spun off into a 1997 anime, became a 1997-launched rival to Tamagotchi?",
+      "choices": ["Digimon", "Tickle Me Elmo", "Furby", "Pokémon Pikachu"],
+      "correct": 0,
       "category": "Classic Toys",
       "difficulty": "medium",
       "source": {
-        "original_a": "Classic Toys",
+        "original_a": "Digimon",
         "verified": true,
-        "notes": "Tickle Me Elmo (Tyco) was the 1996 Christmas craze; Furby (Tiger) was 1998. Tamagotchi was 1996-97 craze."
+        "notes": "audit-corrected 2026-05-09: replaced incorrect 'Tickle Me Elmo' answer (Tyco, plush, not Bandai). Digimon ('Digital Monsters') launched as a Bandai virtual-pet device in 1997 (boys' counterpart to Tamagotchi) and spun off into the popular 1999 anime."
       }
     },
     {
-      "q": "What 1980s plush toy line by American Greetings became a hit cartoon series?",
+      "q": "Which 1981 American Greetings plush toy line — colorful bears with belly-badge symbols — became a hit cartoon series?",
       "choices": [
         "Care Bears",
-        "Strawberry Shortcake",
-        "Rainbow Brite",
-        "All accepted (American Greetings did all 3)"
+        "Pound Puppies",
+        "Popples",
+        "My Little Pony"
       ],
-      "correct": 3,
+      "correct": 0,
       "category": "Classic Toys",
       "difficulty": "hard",
       "source": {
-        "original_a": "American Greetings",
+        "original_a": "Care Bears",
         "verified": true,
-        "notes": "All three were major 80s American Greetings property launches."
+        "notes": "audit-corrected 2026-05-09: replaced meta 'all accepted' answer with single Care Bears answer plus real distractors. Care Bears were created by American Greetings in 1981 (with Kenner producing plush) and spawned the 1985-88 animated series."
       }
     },
     {
@@ -158,20 +158,20 @@
       }
     },
     {
-      "q": "What G.I. Joe was the first to be called 'America's Movable Fighting Man' in 1964?",
+      "q": "Which Hasbro toy launched in 1964 was the first to be called 'America's Movable Fighting Man'?",
       "choices": [
-        "G.I. Joe (Hasbro)",
-        "Action Man (UK)",
-        "Both — Action Man was the UK rebrand of G.I. Joe",
-        "Toy Soldier"
+        "G.I. Joe",
+        "Action Man",
+        "Major Matt Mason",
+        "Stretch Armstrong"
       ],
-      "correct": 2,
+      "correct": 0,
       "category": "Classic Toys",
       "difficulty": "hard",
       "source": {
-        "original_a": "Action Man",
+        "original_a": "G.I. Joe",
         "verified": true,
-        "notes": "G.I. Joe launched 1964. Action Man was the UK licensed version starting 1966."
+        "notes": "audit-corrected 2026-05-09: removed meta 'both' option. G.I. Joe launched by Hasbro in 1964 with the 'America's Movable Fighting Man' slogan; Action Man was Palitoy's UK licensed rebrand starting 1966."
       }
     },
     {
@@ -238,7 +238,7 @@
       }
     },
     {
-      "q": "What 1985 plastic-coated stuffed dolls came with adoption certificates?",
+      "q": "What 1983-launched cloth-and-vinyl Coleco doll line came with adoption certificates?",
       "choices": [
         "Cabbage Patch Kids",
         "Care Bears",
@@ -249,9 +249,9 @@
       "category": "Classic Toys",
       "difficulty": "medium",
       "source": {
-        "original_a": "Classic Toys",
+        "original_a": "Cabbage Patch Kids",
         "verified": true,
-        "notes": "Released 1983, became the 1983 Christmas mob craze."
+        "notes": "audit-corrected 2026-05-09: corrected stem — Cabbage Patch Kids are cloth/vinyl (not plastic-coated), originated by Xavier Roberts ('Little People') in 1978 and mass-produced by Coleco starting 1983, peaking 1983-84 (not 1985)."
       }
     },
     {
@@ -267,32 +267,32 @@
       }
     },
     {
-      "q": "What 1990s-era circular hyperlite-plastic disc collectible became a schoolyard craze?",
-      "choices": ["Pogs", "Tazos", "Slammers", "Both Pogs and Tazos accepted"],
-      "correct": 3,
+      "q": "What 1990s-era circular cardboard disc collectible — originally based on Hawaiian juice-bottle caps — became a schoolyard craze?",
+      "choices": ["Pogs", "Tazos", "Slammers", "Crazy Bones"],
+      "correct": 0,
       "category": "Classic Toys",
       "difficulty": "medium",
       "source": {
-        "original_a": "Classic Toys",
+        "original_a": "Pogs",
         "verified": true,
-        "notes": "Pog was POG = Passion fruit-Orange-Guava juice in Hawaii; the bottle caps inspired the game."
+        "notes": "audit-corrected 2026-05-09: removed meta 'both accepted' option and fixed material descriptor — Pogs are cardboard (not plastic). 'POG' = Passion fruit-Orange-Guava juice in Hawaii; the bottle caps inspired the game."
       }
     },
     {
-      "q": "What 1959 Mattel toy let kids build small cars from plastic interlocking parts?",
+      "q": "In what year did Mattel introduce Hot Wheels, its iconic die-cast toy car line?",
       "choices": [
-        "Lincoln Logs (1916, predates Lego)",
-        "Erector Set",
-        "K'Nex",
-        "Construx"
+        "1959",
+        "1968",
+        "1972",
+        "1985"
       ],
       "correct": 1,
       "category": "Classic Toys",
       "difficulty": "hard",
       "source": {
-        "original_a": "Classic Toys",
+        "original_a": "1968",
         "verified": true,
-        "notes": "Erector Set (1913 by A.C. Gilbert) is the metal beam classic. Lincoln Logs (1916) by John Lloyd Wright."
+        "notes": "audit-corrected 2026-05-09: replaced fabricated '1959 Mattel plastic-interlocking-cars toy' premise (no such product). Hot Wheels launched May 1968 as Mattel's challenge to Matchbox."
       }
     }
   ]

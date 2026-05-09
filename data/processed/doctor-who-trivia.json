@@ -2,7 +2,7 @@
   "slug": "doctor-who-trivia",
   "name": "Doctor Who",
   "description": "The long-running BBC sci-fi series about a time-traveling alien with a blue box.",
-  "processedAt": "2026-04-21T22:35:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -155,7 +155,7 @@
       "correct": 1,
       "category": "Doctor Who",
       "difficulty": "medium",
-      "source": { "original_a": "Jessica", "verified": true, "notes": "Played by Karen Gillan." }
+      "source": { "original_a": "Amy Pond / Amelia Pond", "verified": true, "notes": "audit-corrected 2026-05-09: fixed original_a metadata (was 'Jessica'). Played by Karen Gillan." }
     },
     {
       "q": "What is the Doctor's 'go-to' alias when pretending to be human?",
@@ -250,11 +250,11 @@
     },
     {
       "q": "Each Time Lord gets how many regenerations under classic series mythology?",
-      "choices": ["5", "7", "12 (or 13 lives)", "Unlimited"],
+      "choices": ["5", "7", "12 regenerations (13 incarnations total)", "Unlimited"],
       "correct": 2,
       "category": "Doctor Who",
       "difficulty": "hard",
-      "source": { "original_a": "Doctor Who", "verified": true, "notes": "12 regenerations (13 total bodies) — the limit was later extended in-story." }
+      "source": { "original_a": "12 regenerations / 13 incarnations", "verified": true, "notes": "audit-corrected 2026-05-09: clarified 12 regenerations vs 13 incarnations to avoid '13 lives' ambiguity. Limit was later extended in-story." }
     }
   ]
 }

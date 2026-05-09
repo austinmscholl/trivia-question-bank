@@ -2,7 +2,7 @@
   "slug": "august-trivia",
   "name": "August",
   "description": "Augustus Caesar's namesake month — Perseids, Hiroshima, MLK's dream, and the dog days of summer.",
-  "processedAt": "2026-05-06T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -215,15 +215,15 @@
       }
     },
     {
-      "q": "Which 'Lonely Hearts Club Band' Beatles album was released in August 1969?",
-      "choices": ["Abbey Road", "Let It Be", "Help!", "Sgt. Pepper's Lonely Hearts Club Band"],
+      "q": "On August 8, 1969, the Beatles famously crossed which London street for their iconic album cover photo?",
+      "choices": ["Abbey Road", "Penny Lane", "Carnaby Street", "Baker Street"],
       "correct": 0,
       "category": "August",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "source": {
-        "original_a": "August",
+        "original_a": "Abbey Road",
         "verified": true,
-        "notes": "Abbey Road came out August 1969 (UK)."
+        "notes": "audit-corrected 2026-05-09: original Q falsely claimed an August 1969 'Lonely Hearts Club Band' album; replaced with the August 8, 1969 zebra-crossing photo fact."
       }
     },
     {

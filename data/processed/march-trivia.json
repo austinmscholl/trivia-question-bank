@@ -2,12 +2,17 @@
   "slug": "march-trivia",
   "name": "March (the month)",
   "description": "St. Patrick's Day, March Madness, equinox, the Ides — facts about the third month.",
-  "processedAt": "2026-05-07T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
       "q": "Which Roman god is the month of March named after?",
-      "choices": ["Mars", "Mercury", "Jupiter", "Neptune"],
+      "choices": [
+        "Mars",
+        "Mercury",
+        "Jupiter",
+        "Neptune"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "medium",
@@ -19,7 +24,12 @@
     },
     {
       "q": "What was the Latin name for March?",
-      "choices": ["Martius", "Aprilis", "Maius", "Februarius"],
+      "choices": [
+        "Martius",
+        "Aprilis",
+        "Maius",
+        "Februarius"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "hard",
@@ -31,7 +41,12 @@
     },
     {
       "q": "Which date is associated with the assassination of Julius Caesar in 44 BCE — 'Beware the Ides of March'?",
-      "choices": ["March 15", "March 1", "March 21", "March 31"],
+      "choices": [
+        "March 15",
+        "March 1",
+        "March 21",
+        "March 31"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "medium",
@@ -43,7 +58,12 @@
     },
     {
       "q": "Around what date is the spring (vernal) equinox in the Northern Hemisphere?",
-      "choices": ["March 20-21", "March 1", "March 31", "March 15"],
+      "choices": [
+        "March 20-21",
+        "March 1",
+        "March 31",
+        "March 15"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "medium",
@@ -55,7 +75,12 @@
     },
     {
       "q": "On which date is St. Patrick's Day celebrated?",
-      "choices": ["March 17", "March 1", "March 25", "March 21"],
+      "choices": [
+        "March 17",
+        "March 1",
+        "March 25",
+        "March 21"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "easy",
@@ -84,7 +109,12 @@
     },
     {
       "q": "What is March's birth flower?",
-      "choices": ["Daffodil", "Tulip", "Daisy", "Rose"],
+      "choices": [
+        "Daffodil",
+        "Tulip",
+        "Daisy",
+        "Rose"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "medium",
@@ -96,7 +126,12 @@
     },
     {
       "q": "Which is March's birthstone — a blue gem also said to symbolize courage?",
-      "choices": ["Aquamarine", "Sapphire", "Topaz", "Turquoise"],
+      "choices": [
+        "Aquamarine",
+        "Sapphire",
+        "Topaz",
+        "Turquoise"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "medium",
@@ -227,7 +262,12 @@
     },
     {
       "q": "How many days does March have?",
-      "choices": ["31", "30", "29", "28"],
+      "choices": [
+        "31",
+        "30",
+        "29",
+        "28"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "easy",
@@ -238,24 +278,7 @@
       }
     },
     {
-      "q": "Which famous Caesar warning is associated with March 15?",
-      "choices": [
-        "Beware the Ides of March",
-        "Et tu, Brute",
-        "Veni, vidi, vici",
-        "The die is cast"
-      ],
-      "correct": 0,
-      "category": "March (the month)",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "March (the month)",
-        "verified": true,
-        "notes": "From Shakespeare's 'Julius Caesar' (1599)."
-      }
-    },
-    {
-      "q": "Which March holiday honors workers' rights and corned beef + cabbage?",
+      "q": "Which March holiday is associated with corned beef and cabbage in the U.S.?",
       "choices": [
         "St. Patrick's Day",
         "May Day",
@@ -266,14 +289,19 @@
       "category": "March (the month)",
       "difficulty": "easy",
       "source": {
-        "original_a": "March (the month)",
+        "original_a": "St. Patrick's Day",
         "verified": true,
-        "notes": "Corned beef & cabbage is more Irish-American than authentically Irish."
+        "notes": "audit-corrected 2026-05-09: dropped inaccurate 'workers' rights' framing (St. Patrick's Day is a Christian feast / Irish cultural celebration). Corned beef & cabbage is more Irish-American than authentically Irish."
       }
     },
     {
       "q": "Which March-celebrated Hindu festival of colors involves throwing colored powders?",
-      "choices": ["Holi", "Diwali", "Navratri", "Ganesh Chaturthi"],
+      "choices": [
+        "Holi",
+        "Diwali",
+        "Navratri",
+        "Ganesh Chaturthi"
+      ],
       "correct": 0,
       "category": "March (the month)",
       "difficulty": "medium",
@@ -281,18 +309,6 @@
         "original_a": "March (the month)",
         "verified": true,
         "notes": "Celebrated on the full moon of Phalguna (typically March)."
-      }
-    },
-    {
-      "q": "March is named after the Roman god of what?",
-      "choices": ["War", "Love", "Wisdom", "Wine"],
-      "correct": 0,
-      "category": "March (the month)",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "March (the month)",
-        "verified": true,
-        "notes": "Mars."
       }
     }
   ]

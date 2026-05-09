@@ -1,62 +1,417 @@
 {
-  "slug": "frozen-trivia",
+  "slug": "frozen-trivia-question-trivia",
   "name": "Frozen",
-  "description": "Disney's 2013 smash animated musical — Anna, Elsa, Olaf, and a kingdom trapped in eternal winter.",
-  "processedAt": "2026-04-22T01:15:00Z",
+  "description": "Disney's Frozen films, Arendelle, Elsa & Anna, and the songs the world can't unhear.",
+  "processedAt": "2026-05-09T08:00:00Z",
   "status": "pilot",
   "questions": [
     {
-      "q": "What is the name of Elsa's younger sister and the film's co-protagonist?",
-      "choices": ["Anna", "Ana", "Arya", "Astrid"],
+      "q": "What is the name of the fictional kingdom in 'Frozen'?",
+      "choices": [
+        "Arendelle",
+        "Corona",
+        "Atlantica",
+        "Agrabah"
+      ],
       "correct": 0,
       "category": "Frozen",
       "difficulty": "easy",
-      "source": { "original_a": "Kristen Bell", "verified": true, "notes": "Voiced by Kristen Bell." }
+      "source": {
+        "original_a": "Arendelle",
+        "verified": true,
+        "notes": "Inspired by Norway."
+      }
+    },
+    {
+      "q": "Who are the two royal sisters at the heart of 'Frozen'?",
+      "choices": [
+        "Elsa and Anna",
+        "Anna and Aurora",
+        "Elsa and Belle",
+        "Rapunzel and Anna"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": ""
+      }
     },
     {
       "q": "What magical power does Elsa possess?",
       "choices": [
-        "Controlling fire",
-        "Controlling ice and snow",
-        "Healing",
-        "Time control"
+        "Control over fire",
+        "Control over ice and snow",
+        "Telekinesis",
+        "Time travel"
       ],
       "correct": 1,
       "category": "Frozen",
       "difficulty": "easy",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Elsa freezes her kingdom accidentally in the first film." }
+      "source": {
+        "original_a": "Control over ice",
+        "verified": true,
+        "notes": ""
+      }
     },
     {
-      "q": "Who voices Elsa in the original English version of Frozen?",
-      "choices": ["Kristen Bell", "Idina Menzel", "Adele Dazeem", "Kristin Chenoweth"],
+      "q": "Which Hans Christian Andersen fairy tale loosely inspired 'Frozen'?",
+      "choices": [
+        "The Little Match Girl",
+        "The Snow Queen",
+        "The Little Mermaid",
+        "Thumbelina"
+      ],
       "correct": 1,
       "category": "Frozen",
-      "difficulty": "easy",
-      "source": { "original_a": "Idina Menzel", "verified": true, "notes": "Menzel also originated Elphaba in Wicked on Broadway." }
+      "difficulty": "medium",
+      "source": {
+        "original_a": "The Snow Queen",
+        "verified": true,
+        "notes": "Andersen's 1844 fairy tale."
+      }
     },
     {
-      "q": "What is the name of Anna's childhood-favorite snowman, reanimated by Elsa's magic?",
-      "choices": ["Frosty", "Olaf", "Oswald", "Oliver"],
-      "correct": 1,
-      "category": "Frozen",
-      "difficulty": "easy",
-      "source": { "original_a": "Josh Gad", "verified": true, "notes": "Voiced by Josh Gad." }
-    },
-    {
-      "q": "What is the name of the rugged ice-harvester who helps Anna find Elsa?",
-      "choices": ["Kristoff", "Hans", "Klaus", "Sven"],
+      "q": "What is the name of Kristoff's loyal reindeer?",
+      "choices": [
+        "Sven",
+        "Sterling",
+        "Snowball",
+        "Olaf"
+      ],
       "correct": 0,
       "category": "Frozen",
       "difficulty": "easy",
-      "source": { "original_a": "Jonathan Groff", "verified": true, "notes": "Voiced by Jonathan Groff." }
+      "source": {
+        "original_a": "Sven",
+        "verified": true,
+        "notes": ""
+      }
     },
     {
-      "q": "What is the name of Kristoff's best friend, a reindeer?",
-      "choices": ["Olaf", "Sven", "Rudolph", "Bjorn"],
+      "q": "Which character is a magical talking snowman who loves summer?",
+      "choices": [
+        "Sven",
+        "Olaf",
+        "Marshmallow",
+        "Pabbie"
+      ],
       "correct": 1,
       "category": "Frozen",
       "difficulty": "easy",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Sven 'talks' through Kristoff doing the voice." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Voiced by Josh Gad."
+      }
+    },
+    {
+      "q": "Who is revealed as the true villain in the original 'Frozen'?",
+      "choices": [
+        "Prince Hans",
+        "Kristoff",
+        "Duke of Weselton",
+        "King Runeard"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Prince Hans",
+        "verified": true,
+        "notes": "13th Prince of the Southern Isles."
+      }
+    },
+    {
+      "q": "What act of love thaws Anna's frozen heart at the climax?",
+      "choices": [
+        "True love's kiss",
+        "Anna's sacrifice for her sister",
+        "Elsa's magic",
+        "Olaf's hug"
+      ],
+      "correct": 1,
+      "category": "Frozen",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "An act of true love",
+        "verified": true,
+        "notes": "Anna jumps in front of Elsa to take Hans's sword strike — sisterly love is the act."
+      }
+    },
+    {
+      "q": "Who voices Elsa in the 'Frozen' films?",
+      "choices": [
+        "Idina Menzel",
+        "Kristen Bell",
+        "Mandy Moore",
+        "Demi Lovato"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Demi Lovato performs the Disney Channel-style end-credits version of 'Let It Go.'"
+      }
+    },
+    {
+      "q": "Who voices Anna in the 'Frozen' films?",
+      "choices": [
+        "Kristen Bell",
+        "Idina Menzel",
+        "Anna Kendrick",
+        "Mandy Moore"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "Who wrote the original songs for 'Frozen' (including 'Let It Go')?",
+      "choices": [
+        "Robert Lopez and Kristen Anderson-Lopez",
+        "Alan Menken",
+        "Howard Ashman and Tim Rice",
+        "Lin-Manuel Miranda"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Robert Lopez and Kristen Anderson-Lopez",
+        "verified": true,
+        "notes": "Husband-wife duo; Robert is one of the few EGOT winners."
+      }
+    },
+    {
+      "q": "Which 'Frozen' song won the Academy Award for Best Original Song in 2014?",
+      "choices": [
+        "Let It Go",
+        "Do You Want to Build a Snowman?",
+        "Love Is an Open Door",
+        "For the First Time in Forever"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Let It Go",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "What Academy Award did 'Frozen' (2013) win in addition to Best Original Song?",
+      "choices": [
+        "Best Picture",
+        "Best Animated Feature",
+        "Best Visual Effects",
+        "Best Sound"
+      ],
+      "correct": 1,
+      "category": "Frozen",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "Who co-directed 'Frozen' with Chris Buck and became Disney Animation's first female director?",
+      "choices": [
+        "Jennifer Lee",
+        "Brenda Chapman",
+        "Vicky Jenson",
+        "Pamela Ribon"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Jennifer Lee",
+        "verified": true,
+        "notes": "Lee later became Disney Animation's CCO."
+      }
+    },
+    {
+      "q": "What is Kristoff's profession?",
+      "choices": [
+        "Reindeer trainer",
+        "Ice harvester",
+        "Stable boy",
+        "Sailor"
+      ],
+      "correct": 1,
+      "category": "Frozen",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Ice harvester",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "What is the name of the giant snow monster Elsa creates to guard her ice palace?",
+      "choices": [
+        "Marshmallow",
+        "Frosty",
+        "Snowy",
+        "Olaf"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Marshmallow",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "In 'Frozen 2', what is the name of the salamander-like fire spirit Elsa befriends?",
+      "choices": [
+        "Bruni",
+        "Nokk",
+        "Pabbie",
+        "Mattias"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Bruni",
+        "verified": true,
+        "notes": ""
+      }
+    },
+    {
+      "q": "In 'Frozen 2', what magical horse-like water spirit does Elsa tame?",
+      "choices": [
+        "Nokk",
+        "Bruni",
+        "Selkie",
+        "Sven"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Norwegian/Scottish folklore: the Nøkk."
+      }
+    },
+    {
+      "q": "What is the name of the indigenous people from the Enchanted Forest in 'Frozen 2'?",
+      "choices": [
+        "Northuldra",
+        "Sami",
+        "Vanir",
+        "Dóttir"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Inspired by the Sámi people of northern Scandinavia."
+      }
+    },
+    {
+      "q": "Did 'Frozen' (2013) become the highest-grossing animated film of all time during its theatrical run?",
+      "choices": [
+        "Yes — surpassing Toy Story 3 in 2014, held #1 until The Lion King (2019)",
+        "No, never reached #1",
+        "Yes, but only domestically",
+        "Yes, briefly, surpassed within months"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "audit-corrected 2026-05-09: Toy Story 3 (2010) still held the record at Frozen's 2013 release; Frozen surpassed it in early 2014. Reworded to reflect 'during theatrical run.' Held the all-time animated record from 2014 until Lion King (2019)."
+      }
+    },
+    {
+      "q": "What is the name of Elsa's younger sister and the film's co-protagonist?",
+      "choices": [
+        "Anna",
+        "Ana",
+        "Arya",
+        "Astrid"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Kristen Bell",
+        "verified": true,
+        "notes": "Voiced by Kristen Bell."
+      }
+    },
+    {
+      "q": "What is the name of Anna's childhood-favorite snowman, reanimated by Elsa's magic?",
+      "choices": [
+        "Frosty",
+        "Olaf",
+        "Oswald",
+        "Oliver"
+      ],
+      "correct": 1,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Josh Gad",
+        "verified": true,
+        "notes": "Voiced by Josh Gad."
+      }
+    },
+    {
+      "q": "What is the name of the rugged ice-harvester who helps Anna find Elsa?",
+      "choices": [
+        "Kristoff",
+        "Hans",
+        "Klaus",
+        "Sven"
+      ],
+      "correct": 0,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Jonathan Groff",
+        "verified": true,
+        "notes": "Voiced by Jonathan Groff."
+      }
+    },
+    {
+      "q": "What is the name of Kristoff's best friend, a reindeer?",
+      "choices": [
+        "Olaf",
+        "Sven",
+        "Rudolph",
+        "Bjorn"
+      ],
+      "correct": 1,
+      "category": "Frozen",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Sven 'talks' through Kristoff doing the voice."
+      }
     },
     {
       "q": "Which Oscar-winning power ballad does Elsa sing after fleeing Arendelle?",
@@ -69,54 +424,28 @@
       "correct": 1,
       "category": "Frozen",
       "difficulty": "easy",
-      "source": { "original_a": "Let It Go", "verified": true, "notes": "Won Best Original Song at the 2014 Oscars." }
+      "source": {
+        "original_a": "Let It Go",
+        "verified": true,
+        "notes": "Won Best Original Song at the 2014 Oscars."
+      }
     },
     {
       "q": "The kingdom of Arendelle is inspired by which country's landscape?",
-      "choices": ["Iceland", "Norway", "Denmark", "Sweden"],
-      "correct": 1,
-      "category": "Frozen",
-      "difficulty": "medium",
-      "source": { "original_a": "Norway and Scandinavian culture", "verified": true, "notes": "Bergen was a key reference for art direction." }
-    },
-    {
-      "q": "Which Hans Christian Andersen story loosely inspired Frozen?",
       "choices": [
-        "The Snow Queen",
-        "The Little Match Girl",
-        "The Little Mermaid",
-        "Thumbelina"
-      ],
-      "correct": 0,
-      "category": "Frozen",
-      "difficulty": "medium",
-      "source": { "original_a": "Hans Christian Andersen's 'The Snow Queen'", "verified": true, "notes": "Disney had tried adapting it for decades." }
-    },
-    {
-      "q": "Who directed Frozen, making Disney Animation history as the first woman director of a full-length animated feature for the studio?",
-      "choices": [
-        "Brenda Chapman",
-        "Jennifer Lee",
-        "Mindy Johnson",
-        "Patty Jenkins"
+        "Iceland",
+        "Norway",
+        "Denmark",
+        "Sweden"
       ],
       "correct": 1,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Jennifer Lee", "verified": true, "notes": "Lee co-directed with Chris Buck." }
-    },
-    {
-      "q": "Who co-directed Frozen alongside Jennifer Lee?",
-      "choices": [
-        "Chris Buck",
-        "Ron Clements",
-        "John Lasseter",
-        "Byron Howard"
-      ],
-      "correct": 0,
-      "category": "Frozen",
-      "difficulty": "medium",
-      "source": { "original_a": "Chris Buck and Jennifer Lee", "verified": true, "notes": "Buck also directed Tarzan (1999)." }
+      "source": {
+        "original_a": "Norway and Scandinavian culture",
+        "verified": true,
+        "notes": "Bergen was a key reference for art direction."
+      }
     },
     {
       "q": "Who wrote the songs for Frozen, including 'Let It Go'?",
@@ -129,20 +458,11 @@
       "correct": 0,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Robert Lopez and Kristen Anderson-Lopez", "verified": true, "notes": "The married couple also wrote songs for Coco and WandaVision." }
-    },
-    {
-      "q": "Who voices villainous Prince Hans?",
-      "choices": [
-        "Santino Fontana",
-        "Jonathan Groff",
-        "Chris Pine",
-        "Alan Tudyk"
-      ],
-      "correct": 0,
-      "category": "Frozen",
-      "difficulty": "medium",
-      "source": { "original_a": "Santino Fontana", "verified": true, "notes": "Fontana also sings 'Love Is an Open Door.'" }
+      "source": {
+        "original_a": "Robert Lopez and Kristen Anderson-Lopez",
+        "verified": true,
+        "notes": "The married couple also wrote songs for Coco and WandaVision."
+      }
     },
     {
       "q": "What is the name of the southern island kingdom Hans is from?",
@@ -155,7 +475,11 @@
       "correct": 1,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Hans is the youngest of 13 brothers." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Hans is the youngest of 13 brothers."
+      }
     },
     {
       "q": "Which duchy's visiting Duke makes Elsa extremely wary, voiced by Alan Tudyk?",
@@ -168,7 +492,11 @@
       "correct": 1,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Alan Tudyk", "verified": true, "notes": "Anna and Elsa repeatedly call him 'the Duke of Weaseltown.'" }
+      "source": {
+        "original_a": "Alan Tudyk",
+        "verified": true,
+        "notes": "Anna and Elsa repeatedly call him 'the Duke of Weaseltown.'"
+      }
     },
     {
       "q": "What act of love breaks Elsa's curse on Anna?",
@@ -181,7 +509,11 @@
       "correct": 1,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Subverts the traditional 'true love's kiss' Disney formula." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Subverts the traditional 'true love's kiss' Disney formula."
+      }
     },
     {
       "q": "What is Olaf's biggest dream in Frozen, humorously at odds with his physical form?",
@@ -194,23 +526,45 @@
       "correct": 1,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "'In Summer' is Olaf's signature song." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "'In Summer' is Olaf's signature song."
+      }
     },
     {
       "q": "What year was the original Frozen released?",
-      "choices": ["2011", "2013", "2015", "2017"],
+      "choices": [
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
       "correct": 1,
       "category": "Frozen",
       "difficulty": "medium",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Released November 27, 2013." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Released November 27, 2013."
+      }
     },
     {
       "q": "Frozen II was released in what year, continuing the saga?",
-      "choices": ["2017", "2018", "2019", "2021"],
+      "choices": [
+        "2017",
+        "2018",
+        "2019",
+        "2021"
+      ],
       "correct": 2,
       "category": "Frozen",
       "difficulty": "hard",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Released November 22, 2019." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Released November 22, 2019."
+      }
     },
     {
       "q": "Frozen was the first animated film to cross which box-office milestone?",
@@ -223,7 +577,11 @@
       "correct": 1,
       "category": "Frozen",
       "difficulty": "hard",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "It was the highest-grossing animated film ever at the time." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "It was the highest-grossing animated film ever at the time."
+      }
     },
     {
       "q": "At the 2014 Oscars telecast, John Travolta famously botched Idina Menzel's name as what?",
@@ -236,15 +594,28 @@
       "correct": 0,
       "category": "Frozen",
       "difficulty": "hard",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Still reference in pop culture as the 'Adele Dazeem' moment." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Still reference in pop culture as the 'Adele Dazeem' moment."
+      }
     },
     {
       "q": "Frozen the Broadway Musical opened in which year?",
-      "choices": ["2015", "2017", "2018", "2020"],
+      "choices": [
+        "2015",
+        "2017",
+        "2018",
+        "2020"
+      ],
       "correct": 2,
       "category": "Frozen",
       "difficulty": "hard",
-      "source": { "original_a": "Frozen", "verified": true, "notes": "Opened March 22, 2018 at the St. James Theatre." }
+      "source": {
+        "original_a": "Frozen",
+        "verified": true,
+        "notes": "Opened March 22, 2018 at the St. James Theatre."
+      }
     }
   ]
 }

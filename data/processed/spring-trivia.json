@@ -2,7 +2,7 @@
   "slug": "spring-trivia",
   "name": "Spring",
   "description": "Vernal equinox, cherry blossoms, March-May — the season of rebirth.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -77,14 +77,14 @@
     },
     {
       "q": "Which Japanese springtime tradition involves picnicking under blooming cherry trees?",
-      "choices": ["Hanami", "Sakura", "Both — but Hanami is the activity name", "Yatai"],
-      "correct": 2,
+      "choices": ["Hanami", "Sakura", "Origami", "Yatai"],
+      "correct": 0,
       "category": "Spring",
       "difficulty": "medium",
       "source": {
-        "original_a": "Spring",
+        "original_a": "Hanami",
         "verified": true,
-        "notes": "Hanami means 'flower viewing.' Sakura means 'cherry blossom.'"
+        "notes": "Hanami means 'flower viewing' (the activity); Sakura means 'cherry blossom' (the tree itself). audit-corrected 2026-05-09: removed awkward 'Both' meta-answer; replaced with a clearly-wrong 'Origami' distractor and made Hanami the direct correct answer."
       }
     },
     {
@@ -147,14 +147,14 @@
     },
     {
       "q": "Which white flower is typical of early spring, often pushing up through snow?",
-      "choices": ["Snowdrop", "Tulip", "Daffodil", "Crocus"],
+      "choices": ["Snowdrop", "Tulip", "Daffodil", "Sunflower"],
       "correct": 0,
       "category": "Spring",
       "difficulty": "medium",
       "source": {
-        "original_a": "Spring",
+        "original_a": "Snowdrop",
         "verified": true,
-        "notes": "Genus Galanthus."
+        "notes": "Genus Galanthus. audit-corrected 2026-05-09: replaced 'Crocus' distractor (which is also widely cited as a snow-pushing early-spring flower) with 'Sunflower' to avoid ambiguity."
       }
     },
     {

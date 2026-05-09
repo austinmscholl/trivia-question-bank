@@ -2,7 +2,7 @@
   "slug": "super-bowl-trivia",
   "name": "Super Bowl",
   "description": "The NFL's championship game — history, MVPs, halftime shows",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -110,12 +110,12 @@
       "source": { "original_a": "Pittsburgh Steelers", "verified": true, "notes": "Super Bowl XXXVI in Feb 2002. Schedule shifted after the post-9/11 season." }
     },
     {
-      "q": "Who was named the MVP of Super Bowl XLI (2007), the first African-American coach to win a Super Bowl?",
+      "q": "Who was MVP of Super Bowl XLI (2007), in which Tony Dungy became the first Black head coach to win a Super Bowl?",
       "choices": ["Tony Dungy", "Peyton Manning", "Jerry Rice", "Herm Edwards"],
       "correct": 1,
       "category": "Super Bowl",
       "difficulty": "hard",
-      "source": { "original_a": "Joe Montana", "verified": true, "notes": "Peyton Manning won MVP. Tony Dungy coached Indianapolis Colts to the win — first Black head coach to win." }
+      "source": { "original_a": "Peyton Manning", "verified": true, "notes": "audit-corrected 2026-05-09: rewrote stem so the relative clause clearly attaches to Dungy (the coach) rather than implying Manning was the African-American coach. Peyton Manning won MVP; Tony Dungy coached Indianapolis Colts to the win." }
     },
     {
       "q": "Which NFL MVP is known for the phrase 'Omaha!' called at the line of scrimmage?",
@@ -158,12 +158,12 @@
       "source": { "original_a": "Green Bay Packers", "verified": true, "notes": "Defeated 49ers 25-22 in overtime. Patrick Mahomes won his third SB MVP." }
     },
     {
-      "q": "What is the name of the annual US tradition of consuming an estimated 1.4 billion chicken wings on Super Bowl Sunday?",
-      "choices": ["Snack Sunday", "Super Bowl Sunday", "Game Day", "The Big Game"],
+      "q": "Approximately how many chicken wings do Americans consume on Super Bowl Sunday, per the National Chicken Council?",
+      "choices": ["140 million", "1.4 billion", "14 billion", "140 billion"],
       "correct": 1,
       "category": "Super Bowl",
-      "difficulty": "easy",
-      "source": { "original_a": "Pittsburgh Steelers", "verified": true, "notes": "Second-highest food consumption day in US after Thanksgiving. ~12.5M pizzas, 150M hot dogs too." }
+      "difficulty": "medium",
+      "source": { "original_a": "1.4 billion", "verified": true, "notes": "audit-corrected 2026-05-09: replaced tautological 'name of the tradition' question with the wing-count factoid. Super Bowl Sunday is the second-highest food-consumption day in the US after Thanksgiving (also ~12.5M pizzas, ~150M hot dogs)." }
     }
   ]
 }

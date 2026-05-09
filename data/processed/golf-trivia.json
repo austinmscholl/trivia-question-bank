@@ -2,7 +2,7 @@
   "slug": "golf-trivia",
   "name": "Golf",
   "description": "The courses, the majors, and the legends of golf",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -35,7 +35,7 @@
       "correct": 0,
       "category": "Golf",
       "difficulty": "easy",
-      "source": { "original_a": "Par", "verified": true, "notes": "Short for 'professional average result.' A full course is typically par 72." }
+      "source": { "original_a": "Par", "verified": true, "notes": "A full course is typically par 72. The term 'par' comes from the late-1800s usage meaning 'equality' or 'equal value' (originally a stock-market term). audit-corrected 2026-05-09: removed false 'professional average result' backronym." }
     },
     {
       "q": "What is one stroke under par on a hole called?",
@@ -118,12 +118,12 @@
       "source": { "original_a": "18", "verified": true, "notes": "Oldest golf course in the world. Hosts The Open Championship in rotation." }
     },
     {
-      "q": "What is a hole-in-one on a par 4 (or par 5) hole called?",
+      "q": "What is a hole-in-one on a par 4 hole called?",
       "choices": ["Eagle", "Double eagle", "Albatross", "Hole-in-one"],
       "correct": 2,
       "category": "Golf",
       "difficulty": "medium",
-      "source": { "original_a": "Par", "verified": true, "notes": "Extremely rare. Also called 'double eagle' in the US." }
+      "source": { "original_a": "Albatross", "verified": true, "notes": "Three under par on a single hole. Also called 'double eagle' in the US. (A hole-in-one on a par 5 is 4 under par and is called a 'condor'.) audit-corrected 2026-05-09: removed 'or par 5' from stem because that scenario is a condor, not an albatross." }
     },
     {
       "q": "Which club is typically used for the longest distance off the tee?",

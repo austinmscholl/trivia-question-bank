@@ -2,7 +2,7 @@
   "slug": "brands-worldwide-trivia",
   "name": "Brands Worldwide",
   "description": "Logos, founders, taglines — the world's most iconic brands.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -23,15 +23,15 @@
         "Computing-Tabulating-Recording Company",
         "Tabulating Machine Company",
         "International Tabulators",
-        "Both first two names accepted (CTR formed by merging TMC + 2 others)"
+        "Hollerith Computing Co."
       ],
-      "correct": 3,
+      "correct": 0,
       "category": "Brands Worldwide",
       "difficulty": "hard",
       "source": {
-        "original_a": "Tabulating Machine Company",
+        "original_a": "Computing-Tabulating-Recording Company",
         "verified": true,
-        "notes": "Renamed IBM in 1924."
+        "notes": "audit-corrected 2026-05-09: IBM was founded as CTR in 1911 (a merger of TMC + 2 others); TMC was a predecessor. Fixed correct index from 3 to 0; replaced bogus 'both' option with 'Hollerith Computing Co.' distractor. Renamed IBM in 1924."
       }
     },
     {

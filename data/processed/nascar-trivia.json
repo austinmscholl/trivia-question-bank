@@ -2,7 +2,7 @@
   "slug": "nascar-trivia",
   "name": "NASCAR",
   "description": "Stock car racing, the Daytona 500, Petty, Earnhardt, Gordon and the Cup.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -219,12 +219,12 @@
       }
     },
     {
-      "q": "Which famous Tennessee track is the smallest in the NASCAR Cup Series?",
+      "q": "Which famous Tennessee short track is known for high-banked, half-mile racing in the NASCAR Cup Series?",
       "choices": [
         "Bristol Motor Speedway",
-        "Martinsville",
-        "Richmond",
-        "Daytona"
+        "Nashville Superspeedway",
+        "Richmond Raceway",
+        "Daytona International Speedway"
       ],
       "correct": 0,
       "category": "NASCAR",
@@ -232,7 +232,7 @@
       "source": {
         "original_a": "NASCAR",
         "verified": true,
-        "notes": "0.533-mile high-banked oval. Martinsville is 0.526 — actually shortest by length, but Bristol's geometry is tighter."
+        "notes": "audit-corrected 2026-05-09: removed misleading 'smallest in NASCAR' framing (Martinsville at 0.526 mi is shorter than Bristol's 0.533 mi). Bristol is a 0.533-mile high-banked oval in Tennessee."
       }
     },
     {

@@ -41,7 +41,12 @@
     },
     {
       "q": "Who is the famously brooding hero of 'Wuthering Heights'?",
-      "choices": ["Heathcliff", "Mr. Darcy", "Mr. Rochester", "Jay Gatsby"],
+      "choices": [
+        "Heathcliff",
+        "Mr. Darcy",
+        "Mr. Rochester",
+        "Jay Gatsby"
+      ],
       "correct": 0,
       "category": "Romance Novels",
       "difficulty": "medium",
@@ -104,7 +109,12 @@
     },
     {
       "q": "Which Stephenie Meyer character is human protagonist Bella Swan's father?",
-      "choices": ["Charlie", "Phil", "Carlisle", "Sam"],
+      "choices": [
+        "Charlie",
+        "Phil",
+        "Carlisle",
+        "Sam"
+      ],
       "correct": 0,
       "category": "Romance Novels",
       "difficulty": "medium",
@@ -132,20 +142,20 @@
       }
     },
     {
-      "q": "Who is the highest-selling romance author of all time, with hundreds of millions of books sold?",
+      "q": "Who is widely credited as the highest-selling romance author of all time, with an estimated 750 million+ books sold?",
       "choices": [
         "Nora Roberts",
         "Danielle Steel",
-        "Both have over 500M sold globally",
+        "Nicholas Sparks",
         "Barbara Cartland"
       ],
-      "correct": 2,
+      "correct": 3,
       "category": "Romance Novels",
       "difficulty": "hard",
       "source": {
-        "original_a": "Romance Novels",
+        "original_a": "Barbara Cartland",
         "verified": true,
-        "notes": "Both Roberts and Steel have over 500M+ sold. Cartland is also in the conversation with 750M+."
+        "notes": "audit-corrected 2026-05-09: changed correct answer to Cartland (~750M-1B copies, widely credited as the all-time top-selling romance author) and replaced 'Both' option with Nicholas Sparks."
       }
     },
     {
@@ -218,7 +228,12 @@
     },
     {
       "q": "Which Charlotte Brontë novel features the orphan Jane and the brooding Mr. Rochester?",
-      "choices": ["Jane Eyre", "Villette", "Shirley", "The Professor"],
+      "choices": [
+        "Jane Eyre",
+        "Villette",
+        "Shirley",
+        "The Professor"
+      ],
       "correct": 0,
       "category": "Romance Novels",
       "difficulty": "easy",
@@ -311,23 +326,6 @@
         "original_a": "Romance Novels",
         "verified": true,
         "notes": "First book published 2000. Series premiered December 2020."
-      }
-    },
-    {
-      "q": "Which 1992 Pulitzer-winning novel features Robert Kincaid and Francesca Johnson?",
-      "choices": [
-        "The Bridges of Madison County",
-        "Beloved",
-        "The English Patient",
-        "Snow Falling on Cedars"
-      ],
-      "correct": 0,
-      "category": "Romance Novels",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Romance Novels",
-        "verified": true,
-        "notes": "Bridges was not Pulitzer-winning — but is the most-recognized romance bestseller of 1992 with these characters."
       }
     }
   ]

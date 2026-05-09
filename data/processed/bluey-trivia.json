@@ -2,7 +2,7 @@
   "slug": "bluey-trivia",
   "name": "Bluey",
   "description": "The Australian animated children's series about a Blue Heeler family and their imaginative play",
-  "processedAt": "2026-04-18T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -247,14 +247,14 @@
     },
     {
       "q": "What breed is Lucky, the amiable dog next door?",
-      "choices": ["Labrador", "Golden Retriever", "Cocker Spaniel", "Yellow Lab"],
-      "correct": 1,
+      "choices": ["Yellow Labrador", "Golden Retriever", "Cocker Spaniel", "Beagle"],
+      "correct": 0,
       "category": "Bluey",
       "difficulty": "hard",
       "source": {
-        "original_a": "Golden Retriever",
+        "original_a": "Yellow Labrador",
         "verified": true,
-        "notes": "Both Pat (Lucky's dad) and Lucky are Golden Retrievers."
+        "notes": "Both Pat (Lucky's dad) and Lucky are Yellow Labrador Retrievers per official Bluey character pages. audit-corrected 2026-05-09: changed correct answer from 'Golden Retriever' to 'Yellow Labrador' and replaced duplicate 'Yellow Lab' distractor with 'Beagle'."
       }
     },
     {

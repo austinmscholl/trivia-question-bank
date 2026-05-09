@@ -2,7 +2,7 @@
   "slug": "boston-trivia",
   "name": "Boston",
   "description": "Boston, Massachusetts — history, culture, and sports",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -259,14 +259,14 @@
     },
     {
       "q": "Approximately what fraction of Boston's modern land area was created through historical landfill projects?",
-      "choices": ["One-tenth", "One-fifth", "One-third", "More than two-thirds"],
-      "correct": 3,
+      "choices": ["About one-sixth", "One-third", "One-half", "More than two-thirds"],
+      "correct": 0,
       "category": "Boston",
       "difficulty": "hard",
       "source": {
-        "original_a": "More than two-thirds",
+        "original_a": "About one-sixth",
         "verified": true,
-        "notes": "Back Bay, South End, and much of downtown sit on reclaimed land."
+        "notes": "audit-corrected 2026-05-09: National Geographic and other sources cite ~1/6 of the city as filled/made land. Back Bay, South End, and much of downtown sit on reclaimed land."
       }
     }
   ]

@@ -2,7 +2,7 @@
   "slug": "coffee-trivia",
   "name": "Coffee",
   "description": "Beans, brews, and baristas — from Kaldi's goats in Ethiopia to the global chains of today.",
-  "processedAt": "2026-04-21T22:25:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -121,13 +121,13 @@
       "choices": [
         "About the same",
         "10-20% more",
-        "40-50% more",
-        "About 3x more"
+        "About twice as much (~2x)",
+        "About 5x more"
       ],
       "correct": 2,
       "category": "Coffee",
       "difficulty": "medium",
-      "source": { "original_a": "Robusta beans", "verified": true, "notes": "Robusta: ~2.2% caffeine vs Arabica's ~1.2%." }
+      "source": { "original_a": "Robusta beans", "verified": true, "notes": "audit-corrected 2026-05-09: Robusta ~2.2-2.7% vs Arabica ~1.2-1.5% caffeine — roughly 2x, not 3x. Distractors retuned." }
     },
     {
       "q": "What is the name for coffee beans that have been harvested but not yet roasted?",

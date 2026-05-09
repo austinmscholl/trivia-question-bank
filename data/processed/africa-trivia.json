@@ -2,7 +2,7 @@
   "slug": "africa-trivia",
   "name": "Africa",
   "description": "Capitals, landmarks, the Sahara, the Nile, and the world's second-largest continent.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -238,15 +238,15 @@
       }
     },
     {
-      "q": "Near which modern Tunisian city were the ruins of ancient Carthage located?",
-      "choices": ["Tunis", "Carthage (modern town also exists)", "Both A and B are accepted", "Sfax"],
-      "correct": 2,
+      "q": "Near which modern Tunisian capital city are the ruins of ancient Carthage located?",
+      "choices": ["Tunis", "Sfax", "Sousse", "Kairouan"],
+      "correct": 0,
       "category": "Africa",
       "difficulty": "hard",
       "source": {
         "original_a": "Tunis",
         "verified": true,
-        "notes": "Modern town of Carthage is a Tunis suburb."
+        "notes": "audit-corrected 2026-05-09: removed 'Both A and B' meta-option. Carthage ruins lie in the modern town of Carthage, a suburb of Tunis."
       }
     },
     {

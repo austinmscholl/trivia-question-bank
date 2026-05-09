@@ -2,7 +2,7 @@
   "slug": "eurovision-trivia",
   "name": "Eurovision",
   "description": "Europe's annual song contest — winners, hosts, and iconic moments",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -70,12 +70,12 @@
       "source": { "original_a": "Graham Norton", "verified": true, "notes": "Took over from Terry Wogan in 2009. Irish broadcaster." }
     },
     {
-      "q": "In which country was Eurovision 2022 held (following Ukraine's scheduled hosting being disrupted by war)?",
+      "q": "In which country was Eurovision 2023 held (after Ukraine's scheduled hosting was disrupted by war)?",
       "choices": ["Ukraine", "Italy", "United Kingdom", "Germany"],
       "correct": 2,
       "category": "Eurovision",
       "difficulty": "medium",
-      "source": { "original_a": "Kiev", "verified": true, "notes": "2023 contest held in Liverpool, UK on behalf of Ukraine after Russia's invasion." }
+      "source": { "original_a": "Kiev", "verified": true, "notes": "audit-corrected 2026-05-09: year fixed from 2022 to 2023 — held in Liverpool, UK on behalf of Ukraine after Russia's invasion." }
     },
     {
       "q": "Which Norwegian violinist-singer won Eurovision 2009 with 'Fairytale'?",
@@ -110,12 +110,12 @@
       "source": { "original_a": "Sweden", "verified": true, "notes": "Stage name of Thomas Neuwirth. Austria's first win since 1966." }
     },
     {
-      "q": "Which country has participated in every Eurovision Song Contest since 1956?",
-      "choices": ["UK", "Germany (with some exceptions)", "Italy", "Switzerland"],
+      "q": "Which country has the most Eurovision Song Contest appearances overall?",
+      "choices": ["UK", "Germany", "Italy", "Switzerland"],
       "correct": 1,
       "category": "Eurovision",
       "difficulty": "hard",
-      "source": { "original_a": "Sweden", "verified": true, "notes": "Germany has the most appearances (though technically missed 1996). UK first entered 1957." }
+      "source": { "original_a": "Sweden", "verified": true, "notes": "audit-corrected 2026-05-09: rephrased — no country participated in literally every year (Germany missed 1996). Germany has the most overall appearances." }
     },
     {
       "q": "What is the maximum number of points any country can receive from another country's combined jury + televote in modern Eurovision?",
@@ -150,12 +150,12 @@
       "source": { "original_a": "Sweden", "verified": true, "notes": "Since 2016, jury and public vote announced separately, creating more dramatic reveals." }
     },
     {
-      "q": "What is the opening phrase typically shouted before Eurovision's big hosted announcement 'Europe, Start Voting Now!'?",
-      "choices": ["'Europe, good evening'", "'Europe, Welcome'", "'Douze points'", "Eurovision is back!"],
-      "correct": 1,
+      "q": "What is the iconic Eurovision host greeting traditionally given at the start of the show?",
+      "choices": ["'Good evening, Europe'", "'Europe, Welcome'", "'Douze points'", "'Eurovision is back!'"],
+      "correct": 0,
       "category": "Eurovision",
       "difficulty": "hard",
-      "source": { "original_a": "Graham Norton", "verified": true, "notes": "Traditional opening/closing elements vary by year. 'Good evening Europe' is the iconic host greeting." }
+      "source": { "original_a": "Graham Norton", "verified": true, "notes": "audit-corrected 2026-05-09: fixed correct answer to 'Good evening, Europe' — the iconic Eurovision host greeting." }
     },
     {
       "q": "What was Celine Dion's winning Eurovision country in 1988?",

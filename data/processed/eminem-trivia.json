@@ -2,7 +2,7 @@
   "slug": "eminem-trivia",
   "name": "Eminem",
   "description": "Slim Shady, Marshall, the Real Slim Shady — the Detroit rapper's records and lore.",
-  "processedAt": "2026-05-07T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -23,15 +23,15 @@
       }
     },
     {
-      "q": "Which Detroit suburb did Eminem grow up in (referenced in '8 Mile')?",
-      "choices": ["Detroit / 8 Mile area", "Flint", "Lansing", "Ann Arbor"],
+      "q": "Eminem grew up in (or near) which Michigan city, referenced in '8 Mile'?",
+      "choices": ["Detroit", "Flint", "Lansing", "Ann Arbor"],
       "correct": 0,
       "category": "Eminem",
       "difficulty": "easy",
       "source": {
         "original_a": "Detroit",
         "verified": true,
-        "notes": "Born in St. Joseph, Missouri but raised in Detroit."
+        "notes": "audit-corrected 2026-05-09: removed misleading 'suburb' framing; born in St. Joseph, Missouri but raised in Detroit (and Warren, a suburb)."
       }
     },
     {

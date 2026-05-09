@@ -1,169 +1,570 @@
 {
-  "slug": "ocean-trivia",
+  "slug": "free-the-ocean-trivia",
   "name": "Oceans",
-  "description": "The seas, the sea life, and marine geography",
-  "processedAt": "2026-04-16T00:00:00Z",
+  "description": "Marine biology, ocean geography, sea creatures and the science of the deep blue.",
+  "processedAt": "2026-05-09T07:11:48.156Z",
   "status": "pilot",
   "questions": [
     {
-      "q": "Approximately what percentage of Earth's surface is covered by oceans?",
-      "choices": ["50%", "60%", "70%", "80%"],
+      "q": "Roughly what percentage of Earth's surface is covered by ocean?",
+      "choices": [
+        "51%",
+        "61%",
+        "71%",
+        "81%"
+      ],
       "correct": 2,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "70.8%", "verified": true, "notes": "~70.8%. Covering about 361 million square kilometers." }
+      "source": {
+        "original_a": "71 percent",
+        "verified": true,
+        "notes": ""
+      }
     },
     {
-      "q": "Which is the largest ocean in the world?",
-      "choices": ["Atlantic", "Indian", "Arctic", "Pacific"],
-      "correct": 3,
+      "q": "What is the largest animal ever known to have lived on Earth?",
+      "choices": [
+        "African elephant",
+        "Whale shark",
+        "Blue whale",
+        "Argentinosaurus"
+      ],
+      "correct": 2,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "Pacific Ocean", "verified": true, "notes": "~165 million km². Named by Ferdinand Magellan, meaning 'peaceful sea.'" }
+      "source": {
+        "original_a": "Blue Whale",
+        "verified": true,
+        "notes": "Up to ~100 ft long and 200 tons."
+      }
     },
     {
-      "q": "Which is the smallest of Earth's major oceans?",
-      "choices": ["Arctic Ocean", "Indian Ocean", "Southern Ocean", "Atlantic Ocean"],
+      "q": "What is the name of the deepest known point in the world ocean?",
+      "choices": [
+        "Challenger Deep",
+        "Tonga Trench",
+        "Java Trench",
+        "Sirena Deep"
+      ],
       "correct": 0,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Arctic Ocean", "verified": true, "notes": "14.06 million km². Largely covered by sea ice year-round." }
+      "source": {
+        "original_a": "Challenger Deep",
+        "verified": true,
+        "notes": "Part of the Mariana Trench, ~10,935 m below sea level."
+      }
     },
     {
-      "q": "What is the name of the deepest known point in any ocean?",
-      "choices": ["Sirena Deep", "Horizon Deep", "Challenger Deep", "Vityaz Deep"],
-      "correct": 2,
+      "q": "What is the average salinity of seawater?",
+      "choices": [
+        "3.5%",
+        "5%",
+        "10%",
+        "15%"
+      ],
+      "correct": 0,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Challenger Deep", "verified": true, "notes": "In the Mariana Trench. ~10,935 meters (35,876 feet) deep. Named after HMS Challenger." }
+      "source": {
+        "original_a": "35 grams of salt per kilogram of seawater",
+        "verified": true,
+        "notes": "≈ 35 ppt (parts per thousand)."
+      }
     },
     {
-      "q": "What percentage of the Earth's water is contained in its oceans?",
-      "choices": ["60%", "75%", "85%", "97%"],
+      "q": "Approximately what percentage of Earth's water is salty/saline?",
+      "choices": [
+        "52%",
+        "70%",
+        "85%",
+        "97.5%"
+      ],
       "correct": 3,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "97%", "verified": true, "notes": "~97% saltwater. Only ~3% is fresh water, most locked in glaciers." }
+      "source": {
+        "original_a": "97.5 percent",
+        "verified": true,
+        "notes": ""
+      }
     },
     {
-      "q": "In which ocean is the largest trench, the Mariana Trench, located?",
-      "choices": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
-      "correct": 2,
+      "q": "Which microscopic organisms produce roughly half the oxygen in Earth's atmosphere?",
+      "choices": [
+        "Phytoplankton",
+        "Coral",
+        "Krill",
+        "Kelp"
+      ],
+      "correct": 0,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Pacific Ocean", "verified": true, "notes": "East of the Mariana Islands in the Western Pacific. Crescent-shaped." }
+      "source": {
+        "original_a": "Phytoplankton",
+        "verified": true,
+        "notes": "More than all rainforests combined."
+      }
+    },
+    {
+      "q": "Which sea creature is widely considered the most intelligent invertebrate?",
+      "choices": [
+        "Octopus",
+        "Lobster",
+        "Sea star",
+        "Coral polyp"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Octopus",
+        "verified": true,
+        "notes": "Tool use, problem solving, mimicry."
+      }
+    },
+    {
+      "q": "Which fish has both eyes on the same side of its body as an adult?",
+      "choices": [
+        "Pufferfish",
+        "Flounder",
+        "Mahi-mahi",
+        "Cod"
+      ],
+      "correct": 1,
+      "category": "Oceans",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Flounder",
+        "verified": true,
+        "notes": "Hatch with one eye on each side; one eye migrates as it matures."
+      }
+    },
+    {
+      "q": "What sea mammal is sometimes nicknamed 'the sea cow'?",
+      "choices": [
+        "Manatee",
+        "Walrus",
+        "Seal",
+        "Otter"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Manatee",
+        "verified": true,
+        "notes": "Together with dugongs."
+      }
+    },
+    {
+      "q": "Which marine reptile is the world's largest living reptile?",
+      "choices": [
+        "Saltwater (estuarine) crocodile",
+        "Komodo dragon",
+        "Leatherback turtle",
+        "Anaconda"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Estuarine Crocodile",
+        "verified": true,
+        "notes": "Males can exceed 6 m and 1,000 kg."
+      }
+    },
+    {
+      "q": "Which is the world's largest flatfish?",
+      "choices": [
+        "Halibut",
+        "Sole",
+        "Plaice",
+        "Turbot"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Halibut",
+        "verified": true,
+        "notes": "Pacific halibut can reach over 8 ft and 500 lbs."
+      }
+    },
+    {
+      "q": "Which Jovian moon is widely thought to harbor a salty subsurface ocean?",
+      "choices": [
+        "Europa",
+        "Io",
+        "Callisto",
+        "Ganymede"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Europa (Jupiter's moon)",
+        "verified": true,
+        "notes": "Ganymede also has subsurface water but Europa is the prime astrobiology target."
+      }
+    },
+    {
+      "q": "Which Saturnian moon is famous for ice plumes erupting from its south pole, suggesting a subsurface ocean?",
+      "choices": [
+        "Titan",
+        "Enceladus",
+        "Mimas",
+        "Iapetus"
+      ],
+      "correct": 1,
+      "category": "Oceans",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Enceladus",
+        "verified": true,
+        "notes": "Plumes discovered by Cassini in 2005."
+      }
+    },
+    {
+      "q": "Which is the largest of Earth's five oceans?",
+      "choices": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Southern"
+      ],
+      "correct": 2,
+      "category": "Oceans",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Oceans",
+        "verified": true,
+        "notes": "Pacific covers ~46% of all ocean area."
+      }
+    },
+    {
+      "q": "Which is the smallest of Earth's five oceans?",
+      "choices": [
+        "Arctic",
+        "Atlantic",
+        "Indian",
+        "Southern"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Oceans",
+        "verified": true,
+        "notes": "Arctic Ocean — about 1.4× the size of the U.S."
+      }
+    },
+    {
+      "q": "Which large coral reef system off Australia is the world's largest living structure?",
+      "choices": [
+        "Great Barrier Reef",
+        "Belize Barrier Reef",
+        "Red Sea Coral Reef",
+        "New Caledonia Barrier"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Coral",
+        "verified": true,
+        "notes": "Over 2,300 km long."
+      }
+    },
+    {
+      "q": "What is the term for cyclic wind- and current-driven warm/cool fluctuations in the equatorial Pacific?",
+      "choices": [
+        "El Niño-Southern Oscillation (ENSO)",
+        "North Atlantic Oscillation",
+        "Indian Ocean Dipole",
+        "Gulf Stream cycle"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Oceanic temperature distribution shifts",
+        "verified": true,
+        "notes": "El Niño = warm phase, La Niña = cool phase."
+      }
+    },
+    {
+      "q": "What is the term for the sinking of carbon-rich organic material from the surface to the deep ocean?",
+      "choices": [
+        "Thermohaline cycle",
+        "Biological pump",
+        "Marine respiration",
+        "Carbon spiral"
+      ],
+      "correct": 1,
+      "category": "Oceans",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Biological pump",
+        "verified": true,
+        "notes": "Crucial process for ocean carbon sequestration."
+      }
+    },
+    {
+      "q": "What tiny shrimp-like crustacean is a primary food source for baleen whales?",
+      "choices": [
+        "Krill",
+        "Copepods",
+        "Brine shrimp",
+        "Amphipods"
+      ],
+      "correct": 0,
+      "category": "Oceans",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Krill",
+        "verified": true,
+        "notes": "Antarctic krill (Euphausia superba) is the most abundant by biomass."
+      }
+    },
+    {
+      "q": "Which sea turtle, the largest in the world, can dive deeper than 1,000 m?",
+      "choices": [
+        "Loggerhead",
+        "Green sea turtle",
+        "Hawksbill",
+        "Leatherback"
+      ],
+      "correct": 3,
+      "category": "Oceans",
+      "difficulty": "hard",
+      "source": {
+        "original_a": "Sea Turtle",
+        "verified": true,
+        "notes": "Leatherback can exceed 7 ft long and 2,000 lbs."
+      }
+    },
+    {
+      "q": "Approximately what percentage of Earth's surface is covered by oceans?",
+      "choices": [
+        "50%",
+        "60%",
+        "70%",
+        "80%"
+      ],
+      "correct": 2,
+      "category": "Oceans",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "70.8%",
+        "verified": true,
+        "notes": "~70.8%. Covering about 361 million square kilometers."
+      }
     },
     {
       "q": "What is the longest mountain range on Earth, almost entirely underwater?",
-      "choices": ["The Andes", "The Mid-Ocean Ridge", "The Himalayas", "The Rockies"],
+      "choices": [
+        "The Andes",
+        "The Mid-Ocean Ridge",
+        "The Himalayas",
+        "The Rockies"
+      ],
       "correct": 1,
       "category": "Oceans",
       "difficulty": "hard",
-      "source": { "original_a": "Mid-Ocean Ridge", "verified": true, "notes": "Over 65,000 km long. Forms by seafloor spreading at tectonic plate boundaries." }
+      "source": {
+        "original_a": "Mid-Ocean Ridge",
+        "verified": true,
+        "notes": "Over 65,000 km long. Forms by seafloor spreading at tectonic plate boundaries."
+      }
     },
     {
       "q": "Which ocean current is famous for influencing the climate of Western Europe?",
-      "choices": ["Gulf Stream", "California Current", "Humboldt Current", "Kuroshio"],
+      "choices": [
+        "Gulf Stream",
+        "California Current",
+        "Humboldt Current",
+        "Kuroshio"
+      ],
       "correct": 0,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Gulf Stream in the Atlantic Ocean", "verified": true, "notes": "Warm current from Gulf of Mexico up the east coast of N. America and across Atlantic." }
+      "source": {
+        "original_a": "Gulf Stream in the Atlantic Ocean",
+        "verified": true,
+        "notes": "Warm current from Gulf of Mexico up the east coast of N. America and across Atlantic."
+      }
     },
     {
       "q": "What do we call the rise and fall of sea levels caused by the Moon's gravity?",
-      "choices": ["Waves", "Tides", "Currents", "Tsunamis"],
+      "choices": [
+        "Waves",
+        "Tides",
+        "Currents",
+        "Tsunamis"
+      ],
       "correct": 1,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "Tides", "verified": true, "notes": "Sun also contributes. Spring tides (new/full moon) are strongest; neap tides (quarter moon) weakest." }
+      "source": {
+        "original_a": "Tides",
+        "verified": true,
+        "notes": "Sun also contributes. Spring tides (new/full moon) are strongest; neap tides (quarter moon) weakest."
+      }
     },
     {
       "q": "The scientific study of the oceans is called what?",
-      "choices": ["Oceanography", "Hydrology", "Marine biology", "Geology"],
+      "choices": [
+        "Oceanography",
+        "Hydrology",
+        "Marine biology",
+        "Geology"
+      ],
       "correct": 0,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "70.8%", "verified": true, "notes": "A branch of Earth science. Includes physical, chemical, biological, and geological oceanography." }
-    },
-    {
-      "q": "What is the term for the amount of salt dissolved in seawater?",
-      "choices": ["Density", "Salinity", "Saturation", "Concentration"],
-      "correct": 1,
-      "category": "Oceans",
-      "difficulty": "easy",
-      "source": { "original_a": "Salinity", "verified": true, "notes": "Average ocean salinity is ~35 parts per thousand (3.5%)." }
+      "source": {
+        "original_a": "70.8%",
+        "verified": true,
+        "notes": "A branch of Earth science. Includes physical, chemical, biological, and geological oceanography."
+      }
     },
     {
       "q": "Which ocean was designated as the fifth ocean by the IHO in 2000 (though disputed)?",
-      "choices": ["Antarctic Ocean", "Southern Ocean", "Polar Ocean", "Austral Ocean"],
+      "choices": [
+        "Antarctic Ocean",
+        "Southern Ocean",
+        "Polar Ocean",
+        "Austral Ocean"
+      ],
       "correct": 1,
       "category": "Oceans",
       "difficulty": "hard",
-      "source": { "original_a": "Southern Ocean", "verified": true, "notes": "Surrounds Antarctica. National Geographic officially recognized it as the 5th ocean in 2021." }
+      "source": {
+        "original_a": "Southern Ocean",
+        "verified": true,
+        "notes": "Surrounds Antarctica. National Geographic officially recognized it as the 5th ocean in 2021."
+      }
     },
     {
       "q": "What type of sea creature is a whale shark?",
-      "choices": ["A whale", "A dolphin", "A fish", "A mammal"],
+      "choices": [
+        "A whale",
+        "A dolphin",
+        "A fish",
+        "A mammal"
+      ],
       "correct": 2,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Pacific Ocean", "verified": true, "notes": "Despite the name, it's the largest fish species, not a whale. Filter feeder." }
+      "source": {
+        "original_a": "Pacific Ocean",
+        "verified": true,
+        "notes": "Despite the name, it's the largest fish species, not a whale. Filter feeder."
+      }
     },
     {
       "q": "Coral reefs are primarily made of what?",
-      "choices": ["Rock", "Seaweed", "Calcium carbonate", "Sand"],
+      "choices": [
+        "Rock",
+        "Seaweed",
+        "Calcium carbonate",
+        "Sand"
+      ],
       "correct": 2,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Challenger Deep", "verified": true, "notes": "Formed by colonies of tiny animals called coral polyps secreting calcium carbonate." }
+      "source": {
+        "original_a": "Challenger Deep",
+        "verified": true,
+        "notes": "Formed by colonies of tiny animals called coral polyps secreting calcium carbonate."
+      }
     },
     {
       "q": "Which seagoing creatures use echolocation to navigate and find food?",
-      "choices": ["Sharks", "Octopuses", "Dolphins", "Sea turtles"],
+      "choices": [
+        "Sharks",
+        "Octopuses",
+        "Dolphins",
+        "Sea turtles"
+      ],
       "correct": 2,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "Tides", "verified": true, "notes": "Send out clicks and listen to echoes. Bats also use echolocation." }
-    },
-    {
-      "q": "What is the largest coral reef system in the world?",
-      "choices": ["The Belize Barrier Reef", "The Great Barrier Reef", "The Mesoamerican Reef", "The Red Sea Coral Reef"],
-      "correct": 1,
-      "category": "Oceans",
-      "difficulty": "easy",
-      "source": { "original_a": "Pacific Ocean", "verified": true, "notes": "Off the coast of Queensland, Australia. ~2,300 km long. Visible from space." }
+      "source": {
+        "original_a": "Tides",
+        "verified": true,
+        "notes": "Send out clicks and listen to echoes. Bats also use echolocation."
+      }
     },
     {
       "q": "Why does the ocean appear blue?",
-      "choices": ["Reflects the sky", "Absorbs red light", "Plankton pigment", "Dissolved salts"],
+      "choices": [
+        "Reflects the sky",
+        "Absorbs red light",
+        "Plankton pigment",
+        "Dissolved salts"
+      ],
       "correct": 1,
       "category": "Oceans",
       "difficulty": "medium",
-      "source": { "original_a": "Absorption of Red Light", "verified": true, "notes": "Water absorbs red wavelengths and scatters blue. Sky reflection adds to the effect." }
+      "source": {
+        "original_a": "Absorption of Red Light",
+        "verified": true,
+        "notes": "Water absorbs red wavelengths and scatters blue. Sky reflection adds to the effect."
+      }
     },
     {
       "q": "What is the body of water separating the UK from continental Europe called?",
-      "choices": ["The North Sea", "The Irish Sea", "The Celtic Sea", "The English Channel"],
+      "choices": [
+        "The North Sea",
+        "The Irish Sea",
+        "The Celtic Sea",
+        "The English Channel"
+      ],
       "correct": 3,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "Gulf Stream in the Atlantic Ocean", "verified": true, "notes": "Narrowest point: ~34 km (21 miles) at the Strait of Dover. Chunnel runs under it." }
+      "source": {
+        "original_a": "Gulf Stream in the Atlantic Ocean",
+        "verified": true,
+        "notes": "Narrowest point: ~34 km (21 miles) at the Strait of Dover. Chunnel runs under it."
+      }
     },
     {
       "q": "Which saltwater body is famous for being 9 times saltier than the ocean, letting swimmers float?",
-      "choices": ["The Mediterranean Sea", "The Red Sea", "The Great Salt Lake", "The Dead Sea"],
+      "choices": [
+        "The Mediterranean Sea",
+        "The Red Sea",
+        "The Great Salt Lake",
+        "The Dead Sea"
+      ],
       "correct": 3,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "Salinity", "verified": true, "notes": "Technically a lake, not a sea. ~34% salinity vs ocean's 3.5%." }
+      "source": {
+        "original_a": "Salinity",
+        "verified": true,
+        "notes": "Technically a lake, not a sea. ~34% salinity vs ocean's 3.5%."
+      }
     },
     {
       "q": "What is an oceanic tsunami primarily caused by?",
-      "choices": ["Strong winds", "High tides", "Underwater earthquakes", "Rogue waves"],
+      "choices": [
+        "Strong winds",
+        "High tides",
+        "Underwater earthquakes",
+        "Rogue waves"
+      ],
       "correct": 2,
       "category": "Oceans",
       "difficulty": "easy",
-      "source": { "original_a": "Pacific Ocean", "verified": true, "notes": "Also caused by volcanic eruptions or underwater landslides. Can travel 500+ mph." }
+      "source": {
+        "original_a": "Pacific Ocean",
+        "verified": true,
+        "notes": "Also caused by volcanic eruptions or underwater landslides. Can travel 500+ mph."
+      }
     }
   ]
 }

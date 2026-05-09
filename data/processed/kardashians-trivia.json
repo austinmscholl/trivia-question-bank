@@ -304,20 +304,20 @@
       }
     },
     {
-      "q": "What city/neighborhood is the Kardashian-Jenner family most associated with?",
+      "q": "Which two adjacent suburbs of Los Angeles is the Kardashian-Jenner family clustered in?",
       "choices": [
-        "Calabasas, California",
-        "Beverly Hills",
-        "Hidden Hills",
-        "Both Calabasas and Hidden Hills are accurate"
+        "Calabasas and Hidden Hills",
+        "Beverly Hills and Bel Air",
+        "Malibu and Pacific Palisades",
+        "Brentwood and Santa Monica"
       ],
-      "correct": 3,
+      "correct": 0,
       "category": "The Kardashians",
       "difficulty": "medium",
       "source": {
-        "original_a": "Beverly Hills, California.",
+        "original_a": "Calabasas and Hidden Hills",
         "verified": true,
-        "notes": "Family residences cluster in the Calabasas / Hidden Hills area of greater LA."
+        "notes": "audit-corrected 2026-05-09: reframed to ask for the two-suburb cluster directly, removing the meta 'both are accurate' option that could read as marking single-city answers wrong."
       }
     }
   ]

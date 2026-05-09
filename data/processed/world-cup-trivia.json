@@ -2,7 +2,7 @@
   "slug": "world-cup-trivia",
   "name": "FIFA World Cup",
   "description": "Football's biggest tournament — teams, trophies, moments",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -38,12 +38,12 @@
       "source": { "original_a": "1978", "verified": true, "notes": "Hosted and won 1978. Won again in 1986 and 2022." }
     },
     {
-      "q": "Which player is the only one to appear in four World Cup finals?",
-      "choices": ["Pelé", "Diego Maradona", "Lionel Messi", "Cristiano Ronaldo"],
-      "correct": 2,
+      "q": "Which Brazilian defender is the only player to appear in three World Cup finals?",
+      "choices": ["Cafu", "Pelé", "Roberto Carlos", "Ronaldo"],
+      "correct": 0,
       "category": "FIFA World Cup",
       "difficulty": "medium",
-      "source": { "original_a": "1970", "verified": true, "notes": "Messi played in 2014, 2022 finals (Argentina) — actually just 2. Lothar Matthäus played in 5 World Cups. No one reached 4 finals. (Answer refers to the record as of 2022, and Pelé appeared in 4 tournaments)." }
+      "source": { "original_a": "Cafu", "verified": true, "notes": "audit-corrected 2026-05-09: original premise was wrong — no player has appeared in four World Cup finals. Cafu is the only player to appear in three (Brazil: 1994, 1998, 2002). Reframed accordingly." }
     },
     {
       "q": "In what year did Spain win its only World Cup trophy?",

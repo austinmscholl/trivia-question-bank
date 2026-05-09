@@ -2,7 +2,7 @@
   "slug": "silly-trivia",
   "name": "Silly Facts",
   "description": "Strange-but-true bits of trivia from across the universe.",
-  "processedAt": "2026-05-07T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -189,20 +189,20 @@
       }
     },
     {
-      "q": "Which dessert was reportedly named after a French queen — though the queen never actually said 'let them eat...' it?",
+      "q": "Which famous phrase is misattributed to French queen Marie Antoinette, who almost certainly never said it?",
       "choices": [
-        "Cake (Marie Antoinette)",
-        "Croissant (Catherine de Medici)",
-        "Tart Tatin (Anne of Brittany)",
-        "Mille-feuille (Empress Eugénie)"
+        "Let them eat cake",
+        "L'état, c'est moi",
+        "Après moi, le déluge",
+        "Je ne regrette rien"
       ],
       "correct": 0,
       "category": "Silly Facts",
       "difficulty": "hard",
       "source": {
-        "original_a": "Silly Facts",
+        "original_a": "Let them eat cake",
         "verified": true,
-        "notes": "'Qu'ils mangent de la brioche' — there's no evidence Marie Antoinette ever said this."
+        "notes": "audit-corrected 2026-05-09: replaced false premise that 'cake' is named after Marie Antoinette. Original French 'Qu'ils mangent de la brioche' predates her; no evidence she ever said it."
       }
     },
     {

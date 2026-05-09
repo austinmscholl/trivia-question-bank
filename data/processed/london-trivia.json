@@ -2,7 +2,7 @@
   "slug": "london-trivia",
   "name": "London",
   "description": "The Thames, Tube, towers, and Whitehall — facts about Britain's capital city.",
-  "processedAt": "2026-05-06T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -236,20 +236,20 @@
       }
     },
     {
-      "q": "What is the name of London's prehistoric stone-clad financial district?",
+      "q": "What is the name of London's historic financial district, also nicknamed 'the Square Mile'?",
       "choices": [
         "The City",
-        "The Square Mile",
-        "Both A & B",
-        "Westminster"
+        "Canary Wharf",
+        "Westminster",
+        "Mayfair"
       ],
-      "correct": 2,
+      "correct": 0,
       "category": "London",
       "difficulty": "medium",
       "source": {
-        "original_a": "London",
+        "original_a": "The City of London",
         "verified": true,
-        "notes": "The City of London (or simply 'the City') is also nicknamed 'the Square Mile.'"
+        "notes": "audit-corrected 2026-05-09: replaced misleading 'prehistoric stone-clad' wording (City of London is Roman/medieval) and reworked choices so 'The City' is uniquely correct."
       }
     },
     {

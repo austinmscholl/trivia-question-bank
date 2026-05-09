@@ -2,7 +2,7 @@
   "slug": "tennis-trivia",
   "name": "Tennis",
   "description": "Grand Slams, legendary players, and tennis history",
-  "processedAt": "2026-04-17T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -75,7 +75,7 @@
       "correct": 2,
       "category": "Tennis",
       "difficulty": "medium",
-      "source": { "original_a": "12", "verified": true, "notes": "23 Grand Slams. Retired September 2022. One behind Margaret Court's all-time record of 24." }
+      "source": { "original_a": "23", "verified": true, "notes": "audit-corrected 2026-05-09: fixed inconsistent original_a metadata (was '12'). 23 Grand Slams. Retired September 2022. One behind Margaret Court's all-time record of 24." }
     },
     {
       "q": "Which Spanish player is dubbed the 'King of Clay' for his dominance at the French Open?",
@@ -126,12 +126,12 @@
       "source": { "original_a": "Roger Federer", "verified": true, "notes": "Named after African-American tennis champion. Part of the Billie Jean King National Tennis Center." }
     },
     {
-      "q": "In 2008, Rafael Nadal became only the second man to win which combination in one year?",
-      "choices": ["French Open, Wimbledon, Olympics", "Career Grand Slam", "All 4 Slams in one year", "Davis Cup + Wimbledon"],
+      "q": "In 2008, Rafael Nadal completed the 'Channel Slam' — winning which two titles in the same calendar year, joining Rod Laver and Björn Borg?",
+      "choices": ["French Open and Wimbledon", "Wimbledon and US Open", "Australian Open and French Open", "French Open and Olympics"],
       "correct": 0,
       "category": "Tennis",
       "difficulty": "hard",
-      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "Joined Andre Agassi as the only men to do this triple." }
+      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "audit-corrected 2026-05-09: reframed away from 'second man… FO+W+Olympics' (Agassi never did this in one year). Nadal's 2008 Channel Slam (FO+W same year) made him the third man to do it after Laver (1969) and Borg (1978-80)." }
     },
     {
       "q": "Which annual team event is the oldest international tennis competition?",

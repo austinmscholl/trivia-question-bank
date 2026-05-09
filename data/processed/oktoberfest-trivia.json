@@ -2,7 +2,7 @@
   "slug": "oktoberfest-trivia",
   "name": "Oktoberfest",
   "description": "Bavaria's beer festival — its royal origin, traditions, tents, and hearty stats.",
-  "processedAt": "2026-05-06T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -254,20 +254,20 @@
       }
     },
     {
-      "q": "Which Bavarian Saint is associated with Oktoberfest, with his feast day at the start of the festival?",
+      "q": "The Theresienwiese — Munich's Oktoberfest fairground — is named for which person?",
       "choices": [
-        "St. Michael",
-        "St. Hubertus",
-        "St. Maria (Bavarian patroness)",
-        "Theresienwiese has no patron saint"
+        "Saint Theresa of Ávila",
+        "Princess Therese of Saxe-Hildburghausen",
+        "Empress Maria Theresa",
+        "Saint Thérèse of Lisieux"
       ],
-      "correct": 2,
+      "correct": 1,
       "category": "Oktoberfest",
       "difficulty": "hard",
       "source": {
-        "original_a": "Oktoberfest",
+        "original_a": "Princess Therese of Saxe-Hildburghausen",
         "verified": true,
-        "notes": "The Theresienwiese is named for Princess Therese; the festival begins with a parade ending at the Bavaria statue."
+        "notes": "audit-corrected 2026-05-09: replaced dubious saint-feast-day premise. Theresienwiese is named for Princess Therese, whose 1810 wedding to Crown Prince Ludwig I started Oktoberfest."
       }
     }
   ]

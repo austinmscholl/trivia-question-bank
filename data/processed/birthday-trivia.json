@@ -2,7 +2,7 @@
   "slug": "birthday-trivia",
   "name": "Birthdays",
   "description": "Cake, candles, and customs — birthday traditions from around the world.",
-  "processedAt": "2026-05-06T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -112,15 +112,15 @@
       }
     },
     {
-      "q": "Which famously rich U.S. holiday is the most popular birthday gift item — and the largest single gift category in the world?",
+      "q": "What is the most popular birthday gift item in the U.S. — also the world's largest single greeting-card category?",
       "choices": ["Cards", "Flowers", "Cake", "Money"],
       "correct": 0,
       "category": "Birthdays",
       "difficulty": "medium",
       "source": {
-        "original_a": "Birthdays",
+        "original_a": "Cards",
         "verified": true,
-        "notes": "Birthdays are the #1 card-sending occasion in the U.S. — over 7 billion sold annually."
+        "notes": "audit-corrected 2026-05-09: rewrote nonsensical stem; birthdays are the #1 card-sending occasion in the U.S. — over 7 billion sold annually."
       }
     },
     {
@@ -206,20 +206,20 @@
       }
     },
     {
-      "q": "Which celebrity duo's 'Happy Birthday' jingle was a 1981 chart hit?",
+      "q": "Whose 1980/1981 single 'Happy Birthday' was written to lobby for a Martin Luther King Jr. holiday?",
       "choices": [
-        "Stevie Wonder (solo)",
+        "Marvin Gaye",
         "Stevie Wonder",
-        "Beyoncé",
-        "Whitney Houston"
+        "Lionel Richie",
+        "Smokey Robinson"
       ],
       "correct": 1,
       "category": "Birthdays",
       "difficulty": "hard",
       "source": {
-        "original_a": "Birthdays",
+        "original_a": "Stevie Wonder",
         "verified": true,
-        "notes": "Stevie Wonder's 'Happy Birthday' (1980) was written to lobby for a Martin Luther King Jr. holiday."
+        "notes": "audit-corrected 2026-05-09: removed duplicate 'Stevie Wonder' option and 'duo' framing; Stevie Wonder's 'Happy Birthday' (Hotter than July, 1980) lobbied for the MLK Jr. holiday."
       }
     },
     {
@@ -271,13 +271,13 @@
     {
       "q": "Which day of the year is the most common birthday in the U.S., per CDC data?",
       "choices": ["September 9", "September 14", "October 5", "December 25"],
-      "correct": 1,
+      "correct": 0,
       "category": "Birthdays",
       "difficulty": "hard",
       "source": {
-        "original_a": "Birthdays",
+        "original_a": "September 9",
         "verified": true,
-        "notes": "Mid-September births dominate; ~9 months after the December holidays."
+        "notes": "audit-corrected 2026-05-09: per CDC 1994-2014 data, September 9 is the single most common U.S. birthday; mid-September dominates (~9 months after December holidays)."
       }
     }
   ]

@@ -2,7 +2,7 @@
   "slug": "nature-trivia",
   "name": "Nature & Wildlife",
   "description": "Plants, ecosystems, and creatures of the wild",
-  "processedAt": "2026-04-16T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -151,11 +151,11 @@
     },
     {
       "q": "Angora wool comes from which animal?",
-      "choices": ["Rabbit", "Sheep", "Goat", "Both A and C"],
-      "correct": 3,
+      "choices": ["Rabbit", "Sheep", "Goat", "Llama"],
+      "correct": 0,
       "category": "Nature & Wildlife",
       "difficulty": "hard",
-      "source": { "original_a": "Rabbit", "verified": true, "notes": "Angora rabbits and Angora goats are different animals — both produce Angora wool/mohair." }
+      "source": { "original_a": "Rabbit", "verified": true, "notes": "audit-corrected 2026-05-09: tightened to single-correct answer — by common usage, 'angora wool' refers to fiber from the Angora rabbit. Fiber from Angora goats is called 'mohair', not angora wool." }
     },
     {
       "q": "A young shark is called what?",

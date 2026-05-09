@@ -2,7 +2,7 @@
   "slug": "fun-facts-trivia",
   "name": "Fun Facts",
   "description": "Weird trivia, world records, and the kind of facts you whip out at a party.",
-  "processedAt": "2026-05-08T00:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -96,9 +96,9 @@
       "q": "Which English word has no vowels (excluding Y)?",
       "choices": [
         "Rhythms",
-        "Crystal",
-        "Cyst",
-        "Ply"
+        "Plant",
+        "Sting",
+        "Brick"
       ],
       "correct": 0,
       "category": "Fun Facts",
@@ -106,7 +106,7 @@
       "source": {
         "original_a": "Rhythms",
         "verified": true,
-        "notes": "All-consonant words usually require Y as a semi-vowel — 'rhythms' uses Y."
+        "notes": "audit-corrected 2026-05-09: replaced distractors Crystal/Cyst/Ply (which also lack vowels except Y) with words containing true vowels. All-consonant words usually require Y as a semi-vowel — 'rhythms' uses Y."
       }
     },
     {
@@ -268,14 +268,14 @@
     },
     {
       "q": "What's the British nickname for police officers, derived from Sir Robert Peel?",
-      "choices": ["Bobbies", "Coppers", "Constables", "Peelers"],
+      "choices": ["Bobbies", "Coppers", "Constables", "Tommies"],
       "correct": 0,
       "category": "Fun Facts",
       "difficulty": "medium",
       "source": {
         "original_a": "Bobbies",
         "verified": true,
-        "notes": "'Peelers' was an earlier term, also from Robert Peel."
+        "notes": "audit-corrected 2026-05-09: replaced 'Peelers' (also a valid Peel-derived nickname) with 'Tommies' (British soldiers). 'Bobbies' is the modern nickname; from Robert Peel's first name."
       }
     },
     {

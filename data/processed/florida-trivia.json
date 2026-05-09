@@ -2,7 +2,7 @@
   "slug": "florida-trivia",
   "name": "Florida",
   "description": "The Sunshine State — beaches, theme parks, the Everglades, and the tip of the lower-48.",
-  "processedAt": "2026-04-21T23:00:00Z",
+  "processedAt": "2026-05-09T00:00:00Z",
   "status": "pilot",
   "questions": [
     {
@@ -200,12 +200,12 @@
       "source": { "original_a": "Florida", "verified": true, "notes": "The Florida Panhandle is the northwestern strip bordering Alabama and Georgia." }
     },
     {
-      "q": "Florida has the country's third-longest coastline after Alaska and which other U.S. state?",
-      "choices": ["California", "Hawaii", "Texas", "North Carolina"],
-      "correct": 1,
+      "q": "Which U.S. state has the second-longest coastline (after Alaska)?",
+      "choices": ["California", "Hawaii", "Texas", "Florida"],
+      "correct": 3,
       "category": "Florida",
       "difficulty": "hard",
-      "source": { "original_a": "Florida", "verified": true, "notes": "Hawaii is second; Florida is third by general coastline." }
+      "source": { "original_a": "Florida", "verified": true, "notes": "audit-corrected 2026-05-09: original premise was false — Florida is actually 2nd (after Alaska) by NOAA shoreline (~8,436 mi); Hawaii is not 2nd. Reframed to ask about 2nd-longest." }
     },
     {
       "q": "Which 1821 treaty transferred Florida from Spain to the United States?",
