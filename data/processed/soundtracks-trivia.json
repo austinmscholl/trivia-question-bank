@@ -1,273 +1,2471 @@
 {
   "slug": "soundtracks-trivia",
-  "name": "Movie Soundtracks",
-  "description": "Iconic film soundtracks, composers, and Academy Award-winning songs",
-  "processedAt": "2026-04-18T00:00:00Z",
-  "status": "pilot",
+  "name": "Soundtracks",
+  "processedAt": "2026-05-24T20:43:43.728Z",
   "questions": [
     {
-      "q": "Who sang 'My Heart Will Go On' from the 1997 film Titanic?",
-      "choices": ["Mariah Carey", "Celine Dion", "Whitney Houston", "Shania Twain"],
+      "q": "Which 1997 James Cameron film featured Celine Dion's 'My Heart Will Go On' as its iconic theme song?",
+      "choices": [
+        "The Perfect Storm",
+        "Titanic",
+        "Deep Blue Sea",
+        "Poseidon"
+      ],
       "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Celine Dion",
-        "verified": true,
-        "notes": "Composed by James Horner with lyrics by Will Jennings; won Best Original Song."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Bee Gees-heavy 1977 disco soundtrack became one of the best-selling albums of all time?",
-      "choices": ["Grease", "Saturday Night Fever", "Flashdance", "Footloose"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Saturday Night Fever",
-        "verified": true,
-        "notes": "Includes 'Stayin' Alive', 'How Deep Is Your Love', and 'Night Fever'."
-      }
-    },
-    {
-      "q": "Which Whitney Houston power-ballad from The Bodyguard (1992) topped charts globally?",
-      "choices": ["I Have Nothing", "I Will Always Love You", "Run to You", "I'm Every Woman"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "I Will Always Love You",
-        "verified": true,
-        "notes": "Originally written and recorded by Dolly Parton in 1973."
-      }
-    },
-    {
-      "q": "'Eye of the Tiger' by Survivor served as the theme for which Rocky installment?",
-      "choices": ["Rocky II", "Rocky III", "Rocky IV", "Rocky V"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Rocky III",
-        "verified": true,
-        "notes": "Released 1982; commissioned by Sylvester Stallone after the Rolling Stones declined."
-      }
-    },
-    {
-      "q": "Ray Parker Jr.'s iconic 1984 theme song accompanies which supernatural comedy film?",
-      "choices": ["Beetlejuice", "Ghostbusters", "Gremlins", "Poltergeist"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ghostbusters",
-        "verified": true,
-        "notes": "Nominated for Best Original Song; Huey Lewis later sued over similarity to 'I Want a New Drug'."
-      }
-    },
-    {
-      "q": "'Don't You (Forget About Me)' by Simple Minds is the defining anthem of which 1985 John Hughes film?",
-      "choices": ["Ferris Bueller's Day Off", "The Breakfast Club", "Sixteen Candles", "Pretty in Pink"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The Breakfast Club",
-        "verified": true,
-        "notes": "Simple Minds initially didn't want to record it — it wasn't their composition."
-      }
-    },
-    {
-      "q": "Which Disney film gave us 'Let It Go,' the 2013 Best Original Song Oscar winner?",
-      "choices": ["Tangled", "Frozen", "Moana", "Brave"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Frozen",
-        "verified": true,
-        "notes": "Composed by Kristen Anderson-Lopez and Robert Lopez; performed by Idina Menzel."
-      }
-    },
-    {
-      "q": "Phil Collins won an Oscar for 'You'll Be in My Heart,' the love theme from which 1999 Disney animated feature?",
-      "choices": ["The Lion King", "Mulan", "Tarzan", "Hercules"],
-      "correct": 2,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Tarzan",
-        "verified": true,
-        "notes": "Collins performed nearly all the songs in the film."
-      }
-    },
-    {
-      "q": "Bryan Adams's '(Everything I Do) I Do It for You' was the love theme for which 1991 film?",
-      "choices": ["Braveheart", "Robin Hood: Prince of Thieves", "Dances with Wolves", "The Last of the Mohicans"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Robin Hood: Prince of Thieves",
-        "verified": true,
-        "notes": "Spent 16 weeks at #1 in the UK."
-      }
-    },
-    {
-      "q": "Which composer has scored Star Wars, Indiana Jones, Jurassic Park, and the first three Harry Potter films?",
-      "choices": ["Hans Zimmer", "John Williams", "Danny Elfman", "James Horner"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "John Williams",
-        "verified": true,
-        "notes": "Won five Academy Awards across his career."
-      }
-    },
-    {
-      "q": "Which composer scored Christopher Nolan's The Dark Knight, Inception, and Interstellar?",
-      "choices": ["John Williams", "Hans Zimmer", "Howard Shore", "Alexandre Desplat"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Hans Zimmer",
-        "verified": true,
-        "notes": "Won a second Best Original Score Oscar for Dune (2021)."
-      }
-    },
-    {
-      "q": "Kenny Loggins's 'Danger Zone' and Berlin's 'Take My Breath Away' are signature tracks from which 1986 film?",
-      "choices": ["An Officer and a Gentleman", "Top Gun", "The Right Stuff", "Iron Eagle"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Top Gun",
-        "verified": true,
-        "notes": "'Take My Breath Away' won the 1986 Best Original Song Oscar."
-      }
-    },
-    {
-      "q": "Seal's 'Kiss From a Rose' was featured on the soundtrack of which 1995 superhero sequel?",
-      "choices": ["Batman", "Batman Returns", "Batman Forever", "Batman & Robin"],
-      "correct": 2,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Batman Forever",
-        "verified": true,
-        "notes": "Won the 1995 Grammy for Record of the Year."
-      }
-    },
-    {
-      "q": "Bill Medley and Jennifer Warnes won a Best Original Song Oscar for '(I've Had) The Time of My Life' from which film?",
-      "choices": ["Footloose", "Flashdance", "Dirty Dancing", "Staying Alive"],
-      "correct": 2,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dirty Dancing",
-        "verified": true,
-        "notes": "1987; the final dance scene anthem."
-      }
-    },
-    {
-      "q": "An Urge Overkill cover of which Neil Diamond song plays during the overdose scene in Pulp Fiction?",
-      "choices": ["Sweet Caroline", "Cracklin' Rosie", "Girl, You'll Be a Woman Soon", "America"],
-      "correct": 2,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Girl, You'll Be a Woman Soon",
-        "verified": true,
-        "notes": "Urge Overkill recorded it for an EP in 1992; Tarantino featured it in 1994."
-      }
-    },
-    {
-      "q": "Underworld's 'Born Slippy .NUXX' featured prominently in the closing of which 1996 Danny Boyle film?",
-      "choices": ["28 Days Later", "Trainspotting", "Shallow Grave", "Sunshine"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Trainspotting",
-        "verified": true,
-        "notes": "Re-popularized the song and revived Underworld's career."
-      }
-    },
-    {
-      "q": "Michael Sembello's 'Maniac' was a chart-topping hit from which 1983 dance film?",
-      "choices": ["Footloose", "Flashdance", "Staying Alive", "Fame"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Flashdance",
-        "verified": true,
-        "notes": "Originally written about a serial killer before being rewritten for the film."
-      }
-    },
-    {
-      "q": "Which composer/lyricist duo won the 1961 Best Original Song Oscar for 'Moon River' from Breakfast at Tiffany's?",
-      "choices": ["Henry Mancini and Johnny Mercer", "Elmer Bernstein and Sammy Cahn", "Max Steiner and Mack David", "Bernard Herrmann and Alan Bergman"],
+      "q": "What is the name of the iconic theme song from the 1984 film 'Ghostbusters'?",
+      "choices": [
+        "Who You Gonna Call?",
+        "Ain't Afraid of No Ghost",
+        "Ghost in the Machine",
+        "Spectral Vision"
+      ],
       "correct": 0,
-      "category": "Movie Soundtracks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Henry Mancini and Johnny Mercer",
-        "verified": true,
-        "notes": "Performed in the film by Audrey Hepburn."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Composer Howard Shore won multiple Oscars for scoring which early-2000s fantasy trilogy?",
-      "choices": ["Harry Potter", "The Lord of the Rings", "Pirates of the Caribbean", "The Chronicles of Narnia"],
+      "q": "Which animated Disney film from 2013 features Idina Menzel singing 'Let It Go'?",
+      "choices": [
+        "Tangled",
+        "Frozen",
+        "Moana",
+        "Encanto"
+      ],
       "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "The Lord of the Rings",
-        "verified": true,
-        "notes": "Won Best Original Score for Fellowship (2001) and Return of the King (2003)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "'Streets of Philadelphia' earned Bruce Springsteen a Best Original Song Oscar for which 1993 film?",
-      "choices": ["The Firm", "Philadelphia", "A Few Good Men", "The Pelican Brief"],
-      "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Philadelphia",
-        "verified": true,
-        "notes": "Directed by Jonathan Demme; starred Tom Hanks in his Oscar-winning role."
-      }
+      "q": "In the 1986 film 'Top Gun', which band performed the love theme 'Take My Breath Away'?",
+      "choices": [
+        "Berlin",
+        "Bon Jovi",
+        "Def Leppard",
+        "Mötley Crüe"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Prince composed the soundtrack for which 1989 Tim Burton superhero film?",
-      "choices": ["Beetlejuice", "Batman", "Edward Scissorhands", "Dick Tracy"],
+      "q": "Which 1983 dance film featured the Michael Sembello song 'Maniac' on its soundtrack?",
+      "choices": [
+        "Fame",
+        "Flashdance",
+        "Footloose",
+        "Dirty Dancing"
+      ],
       "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Batman",
-        "verified": true,
-        "notes": "Spawned 'Batdance' and a full Prince album."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Curtis Mayfield's seminal 1972 soundtrack album accompanied which groundbreaking blaxploitation film?",
-      "choices": ["Shaft", "Super Fly", "Foxy Brown", "Cleopatra Jones"],
+      "q": "What is the title of the theme song that plays at the beginning of the TV series 'Friends'?",
+      "choices": [
+        "Could I Be Any More Grateful",
+        "I'll Be There for You",
+        "Smelly Cat",
+        "The One Where They Meet"
+      ],
       "correct": 1,
-      "category": "Movie Soundtracks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Super Fly",
-        "verified": true,
-        "notes": "Nominated for a Grammy; contains 'Pusherman' and 'Freddie's Dead'."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1977 disco film had a soundtrack that became the second best-selling album of all time for many years?",
+      "choices": [
+        "Studio 54",
+        "Saturday Night Fever",
+        "Thank God It's Friday",
+        "The Last Days of Disco"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who performed the power ballad 'Hungry Eyes' featured on the 'Dirty Dancing' soundtrack?",
+      "choices": [
+        "Patrick Swayze",
+        "Eric Carmen",
+        "Bill Medley",
+        "Jennifer Warnes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1995 animated film features the song 'When You Believe' performed by Whitney Houston and Mariah Carey?",
+      "choices": [
+        "Aladdin",
+        "The Prince of Egypt",
+        "Pocahontas",
+        "Hercules"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Fresh Prince character's theme song that played at the start of the '90s TV series?",
+      "choices": [
+        "Big Willie Style",
+        "The Fresh Prince of Bel-Air Theme",
+        "In West Philadelphia",
+        "Welcome to Bel-Air"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1989 film 'Batman', which artist performed the dark, gothic theme song 'Batdance'?",
+      "choices": [
+        "Prince",
+        "Michael Jackson",
+        "David Bowie",
+        "U2"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1994 film directed by Quentin Tarantino features 'Stuck in the Middle with You' by Stealers Wheel?",
+      "choices": [
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Jackie Brown",
+        "Kill Bill"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British actor and songwriter performed 'She's Like the Wind' on the 'Dirty Dancing' soundtrack?",
+      "choices": [
+        "Patrick Swayze",
+        "Johnny Castle",
+        "Richard Gere",
+        "Andrew McCarthy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1990 film 'Goodfellas', which classic rock song by Derek and the Dominos plays during a famous scene?",
+      "choices": [
+        "Sympathy for the Devil",
+        "Layla",
+        "Money",
+        "Jumpin' Jack Flash"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1994 film rom-com features Ronan Keating's 'When You Say Nothing At All' on its soundtrack?",
+      "choices": [
+        "Love Actually",
+        "Four Weddings and a Funeral",
+        "Notting Hill",
+        "Sleepless in Seattle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical duo famously wrote songs like 'Edelweiss' and 'Some Enchanted Evening' for Broadway?",
+      "choices": [
+        "Gilbert and Sullivan",
+        "Rodgers and Hammerstein",
+        "Lerner and Loewe",
+        "Kander and Ebb"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1984 film about a high school student features 'Dancing in the Sheets' by Shalamar?",
+      "choices": [
+        "Footloose",
+        "Sixteen Candles",
+        "The Breakfast Club",
+        "Splash"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1988 film 'Coming to America', which artist performed the theme song 'Sexual Chocolate'?",
+      "choices": [
+        "Eddie Murphy",
+        "Luther Vandross",
+        "The Time",
+        "Prince"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1974 disaster film featured the John Williams orchestral score that became one of the most iconic themes ever?",
+      "choices": [
+        "The Poseidon Adventure",
+        "The Towering Inferno",
+        "Earthquake",
+        "Airport 1975"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1960s animated Disney film features the song 'A Spoonful of Sugar' performed by Julie Andrews?",
+      "choices": [
+        "Mary Poppins",
+        "The Sound of Music",
+        "Cinderella",
+        "Sleeping Beauty"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney animated film featured Elton John composing the Academy Award-winning song 'Circle of Life'?",
+      "choices": [
+        "The Lion King",
+        "Beauty and the Beast",
+        "Aladdin",
+        "Hercules"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the iconic theme song performed by The Fresh Prince of Bel-Air?",
+      "choices": [
+        "Welcome to Bel-Air",
+        "The Fresh Prince Theme",
+        "Now This Is a Story All About How My Life Got Flipped-Turned Into a Situation",
+        "West Philadelphia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer scored the 'Jaws' theme, one of the most recognizable film music pieces of all time?",
+      "choices": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "Thomas Newman"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which James Bond film does the title song 'Skyfall' appear?",
+      "choices": [
+        "Casino Royale",
+        "Skyfall",
+        "Spectre",
+        "Quantum of Solace"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Celine Dion power ballad became famous as the theme for the 1997 film 'Titanic'?",
+      "choices": [
+        "My Heart Will Go On",
+        "The Power of Love",
+        "All By Myself",
+        "A New Day Has Come"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What song did Lady Gaga perform in 'A Star Is Born' that won the Academy Award for Best Original Song?",
+      "choices": [
+        "Born This Way",
+        "Shallow",
+        "Bad Romance",
+        "Million Reasons"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which band performed 'Eye of the Tiger,' the theme song for the 1982 film 'Rocky III'?",
+      "choices": [
+        "Queen",
+        "Survivor",
+        "The Who",
+        "Led Zeppelin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the magical spell song that Idina Menzel performs in Disney's 'Frozen'?",
+      "choices": [
+        "Into the Unknown",
+        "Let It Go",
+        "The Next Right Thing",
+        "Show Yourself"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer created the 'Star Wars' theme, one of cinema's most iconic musical pieces?",
+      "choices": [
+        "John Williams",
+        "Alan Silvestri",
+        "James Newton Howard",
+        "Danny Elfman"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1992 film 'Aladdin,' which pop star performed the song 'A Whole New World'?",
+      "choices": [
+        "Brad Kane and Lea Salonga",
+        "Will Smith and DJ Jazzy Jeff",
+        "MC Hammer",
+        "Vanilla Ice"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British rock band performed 'We Don't Talk About Bruno' in the 2021 Disney film 'Encanto'?",
+      "choices": [
+        "The Rolling Stones",
+        "Castañuela (from the film's cast)",
+        "Queen",
+        "Radiohead"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the theme song of the long-running TV series 'Game of Thrones'?",
+      "choices": [
+        "Winter Is Coming",
+        "The Rains of Castamere",
+        "Game of Thrones Theme",
+        "Dracarys"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which film featured the unforgettable song 'Somewhere Over the Rainbow' performed by Judy Garland?",
+      "choices": [
+        "Singin' in the Rain",
+        "The Wizard of Oz",
+        "Meet Me in St. Louis",
+        "Easter Parade"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who composed the 'Harry Potter' film theme music?",
+      "choices": [
+        "Danny Elfman",
+        "John Williams",
+        "Hans Zimmer",
+        "Thomas Newman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which artist performed 'I Will Always Love You' for the 1992 film 'The Bodyguard'?",
+      "choices": [
+        "Tina Turner",
+        "Whitney Houston",
+        "Aretha Franklin",
+        "Diana Ross"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What song does Pink perform in the 2010 animated film 'Despicable Me' sequel?",
+      "choices": [
+        "Happy",
+        "Funhouse",
+        "Just Give Me a Reason",
+        "Raise Your Glass"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1988 film 'Dirty Dancing,' what is the iconic song performed by Patrick Swayze and Jennifer Beals?",
+      "choices": [
+        "She's Like the Wind",
+        "Time of My Life",
+        "Hungry Eyes",
+        "Do You Love Me"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer scored the music for the entire Marvel Cinematic Universe 'Avengers' films?",
+      "choices": [
+        "John Williams",
+        "Alan Silvestri",
+        "Hans Zimmer",
+        "Thomas Newman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the opening theme song of the 'Rocky' franchise, composed by Bill Conti?",
+      "choices": [
+        "Survivor",
+        "Gonna Fly Now",
+        "Eye of the Tiger",
+        "No Easy Way Out"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pop star performed 'How Far I'll Go' in Disney's 2016 film 'Moana'?",
+      "choices": [
+        "Dwayne Johnson",
+        "Auli'i Cravalho",
+        "Opetaia Foa'i",
+        "Mark Mancina"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1997 disaster film featured Aerosmith's power ballad as its theme song?",
+      "choices": [
+        "Deep Impact",
+        "Armageddon",
+        "Titanic",
+        "The Core"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the main theme song from the 1984 film Ghostbusters?",
+      "choices": [
+        "Who You Gonna Call?",
+        "Bustin' Makes Me Feel Good",
+        "Ghostly Encounters",
+        "Spirit Catcher"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1985 film became famous for featuring Simple Minds' song 'Don't You (Forget About Me)'?",
+      "choices": [
+        "Ferris Bueller's Day Off",
+        "The Breakfast Club",
+        "Sixteen Candles",
+        "Pretty in Pink"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1990 film Ghost, which classic song plays during the famous pottery wheel scene?",
+      "choices": [
+        "Unchained Melody",
+        "At Last",
+        "The Time of My Life",
+        "Unforgettable"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1987 film featured Survivor's 'Eye of the Tiger' in a famous training montage sequence?",
+      "choices": [
+        "Rocky II",
+        "Rocky III",
+        "Rocky IV",
+        "Rocky Balboa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What song by Bonnie Tyler appears in the 1984 film Footloose?",
+      "choices": [
+        "Total Eclipse of the Heart",
+        "I Need a Hero",
+        "Holding Out for a Hero",
+        "Against All Odds"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1990 Martin Scorsese film is known for featuring 'Layla' by Derek and the Dominos?",
+      "choices": [
+        "Casino",
+        "The Irishman",
+        "Goodfellas",
+        "Raging Bull"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 2013 animated Disney film does Idina Menzel sing 'Let It Go'?",
+      "choices": [
+        "Tangled",
+        "Moana",
+        "Frozen",
+        "Encanto"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1992 film soundtrack features the song 'I Will Always Love You' performed by Whitney Houston?",
+      "choices": [
+        "Waiting to Exhale",
+        "The Bodyguard",
+        "Dreamgirls",
+        "Lady Sings the Blues"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the theme song for the HBO series Game of Thrones?",
+      "choices": [
+        "Winter Is Coming",
+        "Game of Thrones Main Title",
+        "The Iron Throne",
+        "Seven Kingdoms"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1994 film starring Julia Roberts features Roxette's 'It Must Have Been Love'?",
+      "choices": [
+        "Steel Magnolias",
+        "My Best Friend's Wedding",
+        "Pretty Woman",
+        "Erin Brockovich"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 1996 film does Seal perform the song 'Kiss From a Rose'?",
+      "choices": [
+        "Batman Forever",
+        "Batman Returns",
+        "Batman Begins",
+        "The Dark Knight"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1992 film features a cover version of 'I'll Be There for You' by The Rembrandts, later used as the TV theme?",
+      "choices": [
+        "Friends: The Movie",
+        "Six of a Kind",
+        "Friends with Money",
+        "This is the version from the TV show"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What composer created the iconic main title theme for the film series Lord of the Rings?",
+      "choices": [
+        "John Williams",
+        "Hans Zimmer",
+        "Howard Shore",
+        "James Newton Howard"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1983 film features Harold Faltermeyer's synth-heavy track 'Axel F'?",
+      "choices": [
+        "Top Gun",
+        "Lethal Weapon",
+        "Beverly Hills Cop",
+        "Miami Vice"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 2001 musical film does Christina Aguilera perform 'Lady Marmalade' alongside Lil' Kim and Mýa?",
+      "choices": [
+        "Hairspray",
+        "Dreamgirls",
+        "Moulin Rouge!",
+        "Chicago"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1988 film features the synthesizer score by Howard Shore that made it even more unsettling?",
+      "choices": [
+        "The Thing",
+        "The Fly",
+        "An American Werewolf in London",
+        "Videodrome"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What song appears as the theme to the 1995 film Clueless?",
+      "choices": [
+        "Bitter Sweet Symphony",
+        "No Scrubs",
+        "Teenage Dirtbag",
+        "Kids"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1971 blaxploitation film features Curtis Mayfield's legendary soul soundtrack?",
+      "choices": [
+        "Shaft",
+        "Superfly",
+        "Coffy",
+        "The Mack"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 1994 Coen Brothers film set in Mississippi, which folk singer performed 'O Death' and other songs?",
+      "choices": [
+        "Dolly Parton",
+        "Alison Krauss",
+        "Emmy Lou Harris",
+        "Gillian Welch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1994 film soundtrack featured Elton John's Oscar-winning ballad 'Circle of Life'?",
+      "choices": [
+        "The Lion King",
+        "Aladdin",
+        "Pocahontas",
+        "Beauty and the Beast"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What iconic song by Ray Parker Jr. plays during the opening credits of the 1984 comedy 'Ghostbusters'?",
+      "choices": [
+        "Supernatural Love",
+        "Ghostbusters",
+        "Spirit in the Sky",
+        "Monster Mash"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1997 James Cameron film featured Celine Dion and James Horner's 'My Heart Will Go On'?",
+      "choices": [
+        "Aliens",
+        "The Abyss",
+        "Titanic",
+        "True Lies"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 1977 blockbuster did John Williams compose the famous orchestral theme for a space opera?",
+      "choices": [
+        "Close Encounters of the Third Kind",
+        "Star Wars",
+        "Superman",
+        "Jaws"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 2001 film featured Christina Aguilera and Lil' Kim performing the Patti LaBelle remake 'Lady Marmalade'?",
+      "choices": [
+        "Save the Last Dance",
+        "Center Stage",
+        "Moulin Rouge!",
+        "Hairspray"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What song by Demi Lovato became the signature ballad of the 2013 animated film 'Frozen'?",
+      "choices": [
+        "Let It Go",
+        "Into the Unknown",
+        "Love Is an Open Door",
+        "For the First Time in Forever"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1985 teen comedy featured 'Don't You (Forget About Me)' by Simple Minds as its unforgettable theme?",
+      "choices": [
+        "Ferris Bueller's Day Off",
+        "The Breakfast Club",
+        "Sixteen Candles",
+        "The Sure Thing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 1990 romantic drama did 'Unchained Melody' become famous again thanks to a pottery wheel scene?",
+      "choices": [
+        "Flatliners",
+        "Ghost",
+        "Awakenings",
+        "Days of Thunder"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1970s disco film soundtrack became one of the best-selling albums of all time?",
+      "choices": [
+        "Grease",
+        "Saturday Night Fever",
+        "Hairspray",
+        "Tommy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the song sung by Mariah Carey and Whitney Houston in the 1998 animated film 'The Prince of Egypt'?",
+      "choices": [
+        "When You Believe",
+        "I Will Always Love You",
+        "A Whole New World",
+        "Can You Feel the Love Tonight"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Quentin Tarantino film from 1994 featured Kilo's 'Jungle Boogie' and other soul tracks?",
+      "choices": [
+        "Kill Bill Vol. 1",
+        "Pulp Fiction",
+        "Inglourious Basterds",
+        "Django Unchained"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 1989 Disney film did 'Kiss the Girl' and 'Under the Sea' become instant classics?",
+      "choices": [
+        "Aladdin",
+        "The Little Mermaid",
+        "Beauty and the Beast",
+        "Cinderella"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the TV series known for opening with Alabama 3's 'Woke Up This Morning'?",
+      "choices": [
+        "Breaking Bad",
+        "The Sopranos",
+        "Mad Men",
+        "Game of Thrones"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1993 Steven Spielberg film featured John Williams' iconic theme for a prehistoric adventure?",
+      "choices": [
+        "Jurassic Park",
+        "Schindler's List",
+        "Saving Private Ryan",
+        "War Horse"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which 1971 film did Curtis Mayfield compose and perform the soul soundtrack 'Superfly'?",
+      "choices": [
+        "Shaft",
+        "Superfly",
+        "Coffy",
+        "Foxy Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer scored the orchestral theme for the 1978 film 'Midnight Express,' which became one of the most recognizable instrumental pieces in cinema history?",
+      "choices": [
+        "Giorgio Moroder",
+        "Vangelis",
+        "John Williams",
+        "Ennio Morricone"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1985 film 'Back to the Future,' which band performed the iconic theme song that would become synonymous with time travel in pop culture?",
+      "choices": [
+        "Huey Lewis and the News",
+        "The Cars",
+        "Devo",
+        "Talking Heads"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese composer created the haunting, minimalist score for the 1997 film 'The Last Emperor' directed by Bernardo Bertolucci?",
+      "choices": [
+        "Tan Dun",
+        "Yo-Yo Ma",
+        "Kitaro",
+        "Ryoji Yoshitake"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In David Lynch's 1986 film 'Blue Velvet,' which mysterious singer performs the film's opening number 'In Dreams'?",
+      "choices": [
+        "Roy Orbison",
+        "Bing Crosby",
+        "Frank Sinatra",
+        "Dean Martin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer scored the groundbreaking 1977 film 'Suspiria,' creating a progressive rock-influenced score featuring the band Goblin?",
+      "choices": [
+        "Dario Argento",
+        "Giallo Piero",
+        "Claudio Simonetti",
+        "Ennio Morricone"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1998 film 'The Truman Show,' which composer created the cheerful, omnipresent orchestral score that becomes increasingly unsettling?",
+      "choices": [
+        "Danny Elfman",
+        "Philip Glass",
+        "Burkeman Burkett",
+        "Christoph Young"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which post-punk band created the distinctive synth-driven score for the 1979 horror film 'Alien' directed by Ridley Scott?",
+      "choices": [
+        "Kraftwerk",
+        "Throbbing Gristle",
+        "Joy Division",
+        "Depeche Mode"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Tarantino's 'Kill Bill Vol. 1' (2003), which Japanese band performed the film's iconic whistle-heavy theme song 'The Green Hornet'?",
+      "choices": [
+        "The 5.6.7.8s",
+        "Yoshida Daikiti and His Panda Shop",
+        "Takeshi Terauchi",
+        "Pontiacs"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which minimalist composer created the sparse, piano-driven score for the 1993 film 'The Piano' directed by Jane Campion?",
+      "choices": [
+        "Michael Nyman",
+        "Ryoji Yoshitake",
+        "Arvo Pärt",
+        "Philip Glass"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1987 film 'Dirty Dancing,' which hit song was written specifically for the film and performed by Patrick Swayze and Wendy Fraser?",
+      "choices": [
+        "The Time of My Life",
+        "She's Like the Wind",
+        "Hungry Eyes",
+        "Do You Love Me"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Grammy Award-winning composer created the complex, layered score for the 2014 film 'Interstellar' directed by Christopher Nolan?",
+      "choices": [
+        "Hans Zimmer",
+        "Alexandre Desplat",
+        "Trent Reznor",
+        "Jóhann Jóhannsson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1984 film 'The Killing Fields,' which Cambodian-American musician performed the haunting instrumental 'The Killing Fields Theme'?",
+      "choices": [
+        "Mike Oldfield",
+        "Vangelis",
+        "John Williams",
+        "Ennio Morricone"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British post-punk revival band created the aggressive, angular score for the 2007 film 'There Will Be Blood' directed by Paul Thomas Anderson?",
+      "choices": [
+        "Radiohead",
+        "Muse",
+        "Interpol",
+        "The Killers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Stanley Kubrick's 2001: A Space Odyssey (1968), which classical piece by Richard Strauss opens the film and became the definitive space opera theme?",
+      "choices": [
+        "Also sprach Zarathustra",
+        "Licht Symphony",
+        "Zarathustra Overture",
+        "Cosmic Waltz"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which psychedelic rock band created the orchestral score for the 1967 film 'The Graduate,' featuring the hit song 'Mrs. Robinson'?",
+      "choices": [
+        "Simon and Garfunkel",
+        "The Doors",
+        "Jefferson Airplane",
+        "The Monkees"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2002 film 'The Ring,' which experimental composer created the ominous, minimalist score featuring the infamous seven-day countdown theme?",
+      "choices": [
+        "Hans Zimmer",
+        "Akira Ifukube",
+        "Dario Marianelli",
+        "Katsuro Tsukamoto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which legendary spaghetti western composer created the iconic guitar-driven theme for the 1966 film 'The Good, the Bad and the Ugly'?",
+      "choices": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "Gianni Morandi",
+        "Carlo Savina"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1975 film 'One Flew Over the Cuckoo's Nest,' which composer created the haunting, atonal score reflecting the film's psychiatric setting?",
+      "choices": [
+        "Jack Nitzsche",
+        "John Williams",
+        "Jerry Goldsmith",
+        "Lalo Schifrin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which synthesizer pioneer created the pulsing, electronic score for the 1981 film 'Blow Out' directed by Brian De Palma?",
+      "choices": [
+        "Giorgio Moroder",
+        "Kraftwerk",
+        "Jean-Michel Jarre",
+        "Vangelis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Akira Kurosawa's 1954 film 'Seven Samurai,' which acclaimed Japanese composer created the traditional yet dynamic orchestral score?",
+      "choices": [
+        "Fumio Hayasaka",
+        "Tenji Mizoguchi",
+        "Akira Ifukube",
+        "Masaru Sato"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1986 John Hughes teen comedy featured a prominent New Wave soundtrack with Orchestral Manoeuvres in the Dark's \"If You Leave\"?",
+      "choices": [
+        "Ferris Bueller's Day Off",
+        "Pretty in Pink",
+        "The Breakfast Club",
+        "Sixteen Candles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What 1994 Quentin Tarantino film featured surf rock and a famous adrenaline shot scene, with a soundtrack anchored by the Centurions' \"Bullwinkle Part II\"?",
+      "choices": [
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Jackie Brown",
+        "Kill Bill Vol. 1"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Academy Award-winning composer created the minimalist, repetitive orchestral score for the 1979 science fiction horror film \"Alien\"?",
+      "choices": [
+        "Jerry Goldsmith",
+        "John Williams",
+        "Vangelis",
+        "Giorgio Moroder"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2001 film \"Donnie Darko,\" whose orchestral piece \"The Killing Moon\" was reimagined as the iconic haunting theme throughout the film?",
+      "choices": [
+        "Echo & the Bunnymen",
+        "Joy Division",
+        "The Cure",
+        "Bauhaus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1982 Ridley Scott film featured a synth-heavy score by Vangelis that became synonymous with cyberpunk aesthetics?",
+      "choices": [
+        "Blade Runner",
+        "Tron",
+        "The Last Starfighter",
+        "Wargames"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the composer who scored all three original \"Back to the Future\" films between 1985 and 1990?",
+      "choices": [
+        "Alan Silvestri",
+        "Danny Elfman",
+        "James Horner",
+        "Hans Zimmer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1997 James Cameron blockbuster featured James Horner's sweeping orchestral score that won the Academy Award for Best Original Dramatic Score?",
+      "choices": [
+        "Titanic",
+        "True Lies",
+        "Aliens",
+        "The Terminator"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1983 film \"Flashdance\" featured which Giorgio Moroder and Keith Forsey composition as its signature dance anthem?",
+      "choices": [
+        "\"Flashdance... What a Feeling\"",
+        "\"Take Your Time (Do It Right)\"",
+        "\"Maniac\"",
+        "\"Irene\""
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1999 Wachowskis science fiction film featured Don Davis creating a distinctive blend of orchestral and electronic music to accompany its revolutionary action sequences?",
+      "choices": [
+        "The Matrix",
+        "Dark City",
+        "eXistenZ",
+        "Sphere"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What 1985 David Lynch film featured the haunting, surreal soundtrack by Angelo Badalamenti that established their legendary collaboration?",
+      "choices": [
+        "Blue Velvet",
+        "Eraserhead",
+        "The Elephant Man",
+        "Wild at Heart"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1988 film \"Rain Man,\" Hans Zimmer composed a sparse, repetitive piano-based score that appeared on which record label's compilation?",
+      "choices": [
+        "Capitol Records",
+        "Warner Bros. Records",
+        "MCA Records",
+        "RCA Records"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which legendary composer scored both \"Jaws\" and \"Close Encounters of the Third Kind\" in the 1970s for Steven Spielberg?",
+      "choices": [
+        "John Williams",
+        "Maurice Jarre",
+        "Jerry Goldsmith",
+        "Nino Rota"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1993 film \"In the Line of Fire\" featured a jazzy, noir-influenced score by which acclaimed composer known for suspenseful underscore?",
+      "choices": [
+        "Ennio Morricone",
+        "John Barry",
+        "Elmer Bernstein",
+        "Quincy Jones"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What 1975 Milos Forman film featured a rock and roll-infused soundtrack that included compositions by The Who?",
+      "choices": [
+        "One Flew Over the Cuckoo's Nest",
+        "Hair",
+        "Tommy",
+        "Phantom of the Paradise"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Akira Kurosawa samurai epic from 1954 featured a minimalist orchestral score by Fumio Hayasaka that influenced Western film composers?",
+      "choices": [
+        "Seven Samurai",
+        "Rashomon",
+        "Harakiri",
+        "Sanjuro"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 2005 film \"Brokeback Mountain\" featured which Canadian composer's melancholic strings arrangement that earned an Academy Award nomination?",
+      "choices": [
+        "Gustavo Santaolalla",
+        "Hans Zimmer",
+        "Patrick Doyle",
+        "Alexandre Desplat"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1968 Stanley Kubrick film featured a controversial score heavily reliant on existing classical music including Richard Strauss compositions?",
+      "choices": [
+        "2001: A Space Odyssey",
+        "A Clockwork Orange",
+        "Full Metal Jacket",
+        "Dr. Strangelove"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What 1991 Jonathan Demme thriller featured a haunting synthesizer score by Scott Irvine alongside the film's infamous opening credits sequence?",
+      "choices": [
+        "The Silence of the Lambs",
+        "Married... with Children",
+        "Philadelphia",
+        "Something Wild"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1980 Martin Scorsese film featured primarily pre-existing songs rather than an original score, with Sid Vicious's \"My Way\" appearing in the final credits?",
+      "choices": [
+        "Raging Bull",
+        "Taxi Driver",
+        "The King of Comedy",
+        "After Hours"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What 1997 Gus Van Sant film featured Elliott Smith's sparse indie rock songs woven throughout its narrative about Seattle street life?",
+      "choices": [
+        "Good Will Hunting",
+        "Drugstore Cowboy",
+        "My Own Private Idaho",
+        "Even Cowgirls Get the Blues"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer scored both the original Star Wars trilogy and the Harry Potter film series?",
+      "choices": [
+        "John Williams",
+        "Hans Zimmer",
+        "James Newton Howard",
+        "Alexandre Desplat"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the haunting instrumental theme composed by Ennio Morricone for 'The Good, the Bad and the Ugly' (1966)?",
+      "choices": [
+        "Theme from the West",
+        "Ecstasy of Gold",
+        "Desert Showdown",
+        "Gunslinger's Ballad"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Quentin Tarantino film does Dick Dale's surf rock instrumental 'Misirlou' appear prominently in the opening scene?",
+      "choices": [
+        "Kill Bill Vol. 1",
+        "Pulp Fiction",
+        "Inglourious Basterds",
+        "Reservoir Dogs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British electronic musician composed the innovative synthesizer score for 'Blade Runner' in 1982?",
+      "choices": [
+        "Brian Eno",
+        "Vangelis",
+        "Giorgio Moroder",
+        "Kraftwerk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theme song by Isaac Hayes that plays during the opening credits of 'Shaft' (1971)?",
+      "choices": [
+        "Who's That Cat?",
+        "Black Moses Rising",
+        "Shaft",
+        "Soul Serenade"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film's soundtrack features Radiohead's 'Exit Music (For a Film)' as a closing track, despite the song being written for a different movie?",
+      "choices": [
+        "Baz Luhrmann's Romeo + Juliet",
+        "The Social Network",
+        "Inception",
+        "Fight Club"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Requiem for a Dream' (2000), what composer created the repetitive, minimalist score using orchestral instruments?",
+      "choices": [
+        "Clint Mansell",
+        "Trent Reznor",
+        "Jon Hopkins",
+        "Ryoji Ikeda"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian composer, famous for spaghetti Western scores, created the theme for 'The Good, the Bad and the Ugly'?",
+      "choices": [
+        "Ennio Morricone",
+        "Nino Rota",
+        "Piero Piccioni",
+        "Armando Trovaioli"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the title of the two-disc soundtrack album released for 'The Matrix' (1999), which includes songs by Rage Against the Machine and The Prodigy?",
+      "choices": [
+        "Enter the Matrix",
+        "The Matrix Reloaded",
+        "The Matrix Revolutions",
+        "The Matrix: The Album"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which David Bowie album served as the official soundtrack for the 1986 film 'Labyrinth'?",
+      "choices": [
+        "Let's Dance",
+        "Scary Monsters",
+        "Labyrinth",
+        "Never Let Me Down"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1994 film 'Forrest Gump', which song by Lynyrd Skynyrd is featured during the Vietnam War scenes?",
+      "choices": [
+        "Gimme Three Steps",
+        "Sweet Home Alabama",
+        "Tuesday's Gone",
+        "Simple Man"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer won an Academy Award for Best Original Score for 'The Last Temptation of Christ' (1988)?",
+      "choices": [
+        "Tangerine Dream",
+        "Peter Gabriel",
+        "Hans Zimmer",
+        "Giorgio Moroder"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the orchestral suite composed by Thomas Holkenborg (Junkie XL) for 'Mad Max: Fury Road' (2015)?",
+      "choices": [
+        "Desert Storm Suite",
+        "Fury Suite",
+        "War Rig Theme",
+        "Chase Through the Wasteland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hip-hop artist produced the majority of the soundtrack for 'Hustle & Flow' (2005), which featured the hit 'It's Hard Out Here for a Pimp'?",
+      "choices": [
+        "Timbaland",
+        "DJ Paul",
+        "Pharrell Williams",
+        "Neptunes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Juno' (2007), which indie rock band's song 'Anyone Else But You' plays during the end credits and became synonymous with the film?",
+      "choices": [
+        "The Moldy Peaches",
+        "Kimya Dawson",
+        "Neutral Milk Hotel",
+        "Animal Collective"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer is credited for scoring both 'The Lion King' (1994) and 'Aladdin' (1992) with orchestral arrangements?",
+      "choices": [
+        "Alan Menken",
+        "Hans Zimmer",
+        "Tim Rice",
+        "Elton John"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary instrument featured in the score of 'Crouching Tiger, Hidden Dragon' (2000), composed by Yo-Yo Ma and Tan Dun?",
+      "choices": [
+        "Erhu",
+        "Pipa",
+        "Guzheng",
+        "Bamboo flute"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which glam rock band recorded the entire soundtrack album for 'The Rocky Horror Picture Show' (1975)?",
+      "choices": [
+        "David Bowie and the Spiders from Mars",
+        "Roxy Music",
+        "Rocky Horror cast featuring Richard O'Brien",
+        "T. Rex"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Drive' (2011), which synth-pop band's song 'A Real Hero' (featuring The Weeknd) plays over the film's final sequence?",
+      "choices": [
+        "College",
+        "M83",
+        "The Midnight",
+        "Kavinsky"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer created the minimalist piano-based score for 'The Piano' (1993), using only piano and orchestral arrangements?",
+      "choices": [
+        "Michael Nyman",
+        "Philip Glass",
+        "John Williams",
+        "Patrick Doyle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer's sweeping orchestral score for The Last of the Mohicans became synonymous with 1990s adventure cinema?",
+      "choices": [
+        "James Horner",
+        "Trevor Jones",
+        "Hans Zimmer",
+        "John Williams"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the haunting instrumental theme composed by Trent Reznor and Atticus Ross that won an Academy Award for The Social Network?",
+      "choices": [
+        "Digital Dreams",
+        "The Hand That Feeds",
+        "Immigrant Song",
+        "Hand Covers Bruise"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which shoegaze-adjacent band provided the atmospheric score for the 1993 film Trainspotting, distinct from the film's pop soundtrack compilations?",
+      "choices": [
+        "Slowdive",
+        "My Bloody Valentine",
+        "Leftfield",
+        "Portishead"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Vangelis's synthesizer-driven Blade Runner score debut alongside Ridley Scott's noir-tinged sci-fi masterpiece?",
+      "choices": [
+        "1980",
+        "1982",
+        "1984",
+        "1986"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian progressive rock composer crafted the operatic score for Dario Argento's 1977 horror film Suspiria?",
+      "choices": [
+        "Ennio Morricone",
+        "Goblin",
+        "Gian Giorgio Moroder",
+        "Claudio Simonetti"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary instrumental theme composer Cliff Martinez used to define the cold aesthetic of Nicolas Winding Refn's 2011 film Drive?",
+      "choices": [
+        "Electric piano and strings",
+        "Synthesizers and drum machines",
+        "Orchestral brass",
+        "Guitar and bass"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which filmmaker's frequent collaborator Michael Giacchino composed the bombastic score that became the primary theme for the 2009 Star Trek reboot?",
+      "choices": [
+        "Christopher Nolan",
+        "J.J. Abrams",
+        "Denis Villeneuve",
+        "Alex Garland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1985 film Back to the Future, which legendary composer created the iconic main theme that has become synonymous with time travel in pop culture?",
+      "choices": [
+        "John Williams",
+        "Alan Silvestri",
+        "Jerry Goldsmith",
+        "Michael Kamen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Welsh composer's minimalist score for There Will Be Blood earned an Oscar nomination in 2008, despite containing no orchestral arrangements?",
+      "choices": [
+        "Dario Marianelli",
+        "Jonny Greenwood",
+        "Nick Cave",
+        "Clint Mansell"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the avant-garde ensemble that Ryoji Ikeda composed the severe, minimalist score for in the 2009 film A Prophet?",
+      "choices": [
+        "Merzbow",
+        "The Cinematic Orchestra",
+        "Alva Noto",
+        "Fennesz"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Radiohead member composed an orchestral score for Paul Thomas Anderson's 2017 film Phantom Thread?",
+      "choices": [
+        "Thom Yorke",
+        "Jonny Greenwood",
+        "Colin Greenwood",
+        "Ed O'Brien"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1977 Daft Punk-influenced synthwave aesthetic, which legendary Italian composer's work for Suspiria established the template for horror film soundtracks?",
+      "choices": [
+        "Giorgio Moroder",
+        "Goblin",
+        "Riz Ortolani",
+        "Piero Umiliani"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer's sparse, repetitive score for the 2014 film Inherent Vice channeled 1970s California detective noir aesthetics?",
+      "choices": [
+        "Cliff Martinez",
+        "Jon Brion",
+        "Michael Giacchino",
+        "Trent Reznor"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What experimental electronic music artist composed the dissonant, atonal score for David Lynch's 1986 film Eraserhead?",
+      "choices": [
+        "Ryoji Ikeda",
+        "Peter Ivers",
+        "John Cage",
+        "Laurie Spiegel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese composer's meditative, string-based score for the 1997 film Cure established a template for Japanese horror cinema aesthetics?",
+      "choices": [
+        "Takagi Masakatsu",
+        "Shigeru Umebayashi",
+        "Shiro Sagisu",
+        "Keita Horiuchi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1997 James Cameron disaster film features Celine Dion's award-winning ballad as its iconic theme song?",
+      "choices": [
+        "Titanic",
+        "The Perfect Storm",
+        "Deep Blue Sea",
+        "Poseidon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What song by The Supremes serves as the opening theme to which 1960s spy comedy film series?",
+      "choices": [
+        "Austin Powers",
+        "Get Smart",
+        "The Man from U.N.C.L.E.",
+        "Barbarella"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1984 film's synthesizer-driven score by Giorgio Moroder won the Academy Award for Best Original Score?",
+      "choices": [
+        "Flashdance",
+        "Footloose",
+        "Splash",
+        "Back to the Future"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the haunting violin-led score for the 1994 film 'Schindler's List'?",
+      "choices": [
+        "John Williams",
+        "Hans Zimmer",
+        "Itzhak Perlman",
+        "Steven Spielberg"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animated Disney film from 1992 features 'A Whole New World,' composed by Alan Menken and Tim Rice?",
+      "choices": [
+        "Aladdin",
+        "Beauty and the Beast",
+        "The Lion King",
+        "Pocahontas"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the fictional planet's theme song in the 1997 film 'The Fifth Element,' composed by Éric Serra?",
+      "choices": [
+        "Diva Dance",
+        "Supreme Being",
+        "Korben's Theme",
+        "Leeloo's Symphony"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hip-hop artist released the soundtrack album to ' 8 Mile' in 2002, which also starred him in the lead role?",
+      "choices": [
+        "Eminem",
+        "50 Cent",
+        "Dr. Dre",
+        "Jay-Z"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What British rock band performed 'The Man with the Child in His Eyes' for the 1985 film 'Goonies'?",
+      "choices": [
+        "Kate Bush",
+        "The Cure",
+        "Depeche Mode",
+        "New Order"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1994 Quentin Tarantino film features a famous dance scene set to Chuck Berry's 'You Never Can Tell'?",
+      "choices": [
+        "Pulp Fiction",
+        "Reservoir Dogs",
+        "Jackie Brown",
+        "Kill Bill Vol. 1"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the iconic two-note theme for the 1975 thriller 'Jaws'?",
+      "choices": [
+        "John Williams",
+        "Ennio Morricone",
+        "Bernard Herrmann",
+        "Jerry Goldsmith"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 2001 film directed by Baz Luhrmann features Elton John's 'Your Song' in a cabaret performance scene?",
+      "choices": [
+        "Moulin Rouge!",
+        "Chicago",
+        "Dreamgirls",
+        "Hairspray"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What electronic music duo created the pulsing soundtrack for the 1996 cult film 'Trainspotting'?",
+      "choices": [
+        "Underworld",
+        "Chemical Brothers",
+        "The Prodigy",
+        "Fatboy Slim"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 2000 martial arts film features a soundtrack dominated by Wu-Tang Clan and other hip-hop artists?",
+      "choices": [
+        "Crouching Tiger, Hidden Dragon",
+        "Kill Bill Vol. 1",
+        "Romeo Must Die",
+        "Hero"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What song by OutKast appears prominently in the 2005 film 'The Wedding Crashers'?",
+      "choices": [
+        "Hey Ya Ya",
+        "Ms. Jackson",
+        "The Way You Move",
+        "Rosa Parks"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1987 film about a soldier's funeral features the traditional military trumpet piece 'Taps' as part of its emotional climax?",
+      "choices": [
+        "Platoon",
+        "Full Metal Jacket",
+        "Hamburger Hill",
+        "We Were Soldiers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who performed the theme song 'Skyfall' for the 2012 James Bond film of the same name?",
+      "choices": [
+        "Adele",
+        "Shirley Bassey",
+        "Chris Cornell",
+        "Billie Eilish"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1979 dance film's soundtrack album topped the Billboard 200 chart and became the best-selling soundtrack album of the decade?",
+      "choices": [
+        "Saturday Night Fever",
+        "Grease",
+        "Flashdance",
+        "Footloose"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What composer created the minimalist piano score for the 2010 film 'The Social Network'?",
+      "choices": [
+        "Trent Reznor and Atticus Ross",
+        "Hans Zimmer",
+        "Dario Marianelli",
+        "Alexandre Desplat"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1998 animated action film features a hip-hop-influenced soundtrack with music by various artists including Fatboy Slim?",
+      "choices": [
+        "Mulan",
+        "Antz",
+        "A Bug's Life",
+        "The Prince of Egypt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the main theme composed by John Barry for the 1962 James Bond film 'Dr. No'?",
+      "choices": [
+        "The James Bond Theme",
+        "No Time to Die",
+        "Goldfinger",
+        "From Russia with Love"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer won an Academy Award for scoring the Indiana Jones films?",
+      "choices": [
+        "John Williams",
+        "Hans Zimmer",
+        "James Horner",
+        "Danny Elfman"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the Titanic soundtrack, featuring 'My Heart Will Go On,' released?",
+      "choices": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist performed 'The Power of Love' for the Back to the Future soundtrack?",
+      "choices": [
+        "Huey Lewis and the News",
+        "The Huey Lewis Band",
+        "Lewis & the News",
+        "Huey & Friends"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the haunting violin score for Schindler's List?",
+      "choices": [
+        "John Williams",
+        "James Horner",
+        "Randy Newman",
+        "Terence Blanchard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film featured Lionel Richie's 'Hello' as its signature ballad in 1986?",
+      "choices": [
+        "White Nights",
+        "An American Tail",
+        "The Fly",
+        "Top Gun"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the composer who scored all three original Star Wars trilogy films?",
+      "choices": [
+        "John Williams",
+        "Hans Zimmer",
+        "Jerry Goldsmith",
+        "Basil Poledouris"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kate Bush song became famous through its use in the Stranger Things soundtrack?",
+      "choices": [
+        "Running Up That Hill",
+        "Cloudbusting",
+        "Don't Give Up",
+        "The Dreaming"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who performed 'Against All Odds' for the 1984 film of the same name?",
+      "choices": [
+        "Phil Collins",
+        "Genesis",
+        "Peter Gabriel",
+        "Eric Clapton"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film's soundtrack featured Trent Reznor and Atticus Ross's original composition?",
+      "choices": [
+        "The Girl with the Dragon Tattoo",
+        "Gone Girl",
+        "The Social Network",
+        "Nightcrawler"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Prince compose 'Let's Go Crazy' exclusively for the Purple Rain film?",
+      "choices": [
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Rogers and Hammerstein musical features the song 'Some Enchanted Evening'?",
+      "choices": [
+        "South Pacific",
+        "The King and I",
+        "Carousel",
+        "Oklahoma!"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the Oscar-winning score for Brokeback Mountain?",
+      "choices": [
+        "Enrico Morricone",
+        "Gustavo Santaolalla",
+        "Hans Zimmer",
+        "John Williams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which David Bowie song was featured prominently in the Muppet Christmas Carol soundtrack?",
+      "choices": [
+        "Life on Mars",
+        "The Muppet Christmas Carol Theme",
+        "Golden Years",
+        "Rebel Rebel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary instrument featured in Ennio Morricone's theme for The Good, the Bad and the Ugly?",
+      "choices": [
+        "Ocarina",
+        "Harmonica",
+        "Theremin",
+        "Sitar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer created the minimalist score for the film Requiem for a Dream?",
+      "choices": [
+        "Clint Mansell",
+        "Trent Reznor",
+        "Hans Zimmer",
+        "John Murphy"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who sang 'A Whole New World' for Disney's Aladdin animated film?",
+      "choices": [
+        "Brad Kane and Lea Salonga",
+        "Robin Williams",
+        "Scott Weinger",
+        "Linda Larkin"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Hans Zimmer score features the track 'Time' as its climactic piece?",
+      "choices": [
+        "Inception",
+        "Interstellar",
+        "The Dark Knight Rises",
+        "Dunkirk"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What song did Elton John perform for The Lion King's original soundtrack?",
+      "choices": [
+        "Circle of Life",
+        "Hakuna Matata",
+        "Can You Feel the Love Tonight",
+        "The Lion Sleeps Tonight"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film featured Vangelis's synthesizer-driven score that won the Academy Award in 1982?",
+      "choices": [
+        "Blade Runner",
+        "Chariots of Fire",
+        "Tron",
+        "The Right Stuff"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the adventurous score for Jurassic Park that uses a full orchestra?",
+      "choices": [
+        "John Williams",
+        "Jerry Goldsmith",
+        "Hans Zimmer",
+        "James Horner"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film composer won the Academy Award for Best Original Score for the 1994 animated feature 'The Lion King'?",
+      "choices": [
+        "John Williams",
+        "Elton John",
+        "Hans Zimmer",
+        "Danny Elfman"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1989 film 'When Harry Met Sally,' what iconic piano piece plays during the famous deli scene?",
+      "choices": [
+        "Clair de Lune",
+        "Für Elise",
+        "Rhapsody in Blue",
+        "The Four Seasons"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the main theme composed by John Williams for the original 'Jaws' film in 1975?",
+      "choices": [
+        "The Shark Attack",
+        "The Jaws Theme",
+        "Amity Island",
+        "The Great White"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which rock band performed 'Don't You Forget About Me' for the 1985 film 'The Breakfast Club'?",
+      "choices": [
+        "New Order",
+        "Simple Minds",
+        "The Human League",
+        "Duran Duran"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1988 film 'Coming to America,' which musical artist performed the theme song 'Coming to America'?",
+      "choices": [
+        "Prince",
+        "James Brown",
+        "Lionel Richie",
+        "Luther Vandross"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer created the distinctive theme for the 1978 horror film 'Halloween'?",
+      "choices": [
+        "Wojciech Kilar",
+        "John Carpenter",
+        "Ennio Morricone",
+        "Tangerine Dream"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What song by Phil Collins served as the theme for the 1988 animated film 'Oliver & Company'?",
+      "choices": [
+        "Why Should I Worry",
+        "Against All Odds",
+        "In the Air Tonight",
+        "One More Night"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which band performed 'Eye of the Tiger' for the 1982 film 'Rocky III'?",
+      "choices": [
+        "Survivor",
+        "Journey",
+        "Foreigner",
+        "REO Speedwagon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1997 film 'The Full Monty,' which 1970s song by Hot Chocolate becomes central to the plot?",
+      "choices": [
+        "Disco Inferno",
+        "You Sexy Thing",
+        "Come On Eileen",
+        "Night Fever"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist performed 'Circle of Life' for the 1994 film 'The Lion King'?",
+      "choices": [
+        "Tina Turner",
+        "Carmen Twillie",
+        "Elton John",
+        "Billy Joel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the instrumental theme song from the 1975 film 'One Flew Over the Cuckoo's Nest'?",
+      "choices": [
+        "Nurse Ratched's Theme",
+        "The Asylum",
+        "Jack Nitzsche's Theme",
+        "Over the Cuckoo's Nest"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film featured the song 'Against All Odds (Take a Look at Me Now)' by Phil Collins in 1984?",
+      "choices": [
+        "Beverly Hills Cop",
+        "Against All Odds",
+        "Footloose",
+        "Ghostbusters"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1982 film 'An Officer and a Gentleman,' which song by Joe Cocker and Jennifer Warnes is a love duet?",
+      "choices": [
+        "Up Where We Belong",
+        "Right Time for Love",
+        "Flying Away",
+        "Heart and Soul"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which electronic music composer scored the 1984 film 'The Terminator'?",
+      "choices": [
+        "Giorgio Moroder",
+        "Brad Fiedel",
+        "John Carpenter",
+        "Vangelis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What song by Prince served as the theme for the 1989 film 'Batman'?",
+      "choices": [
+        "Batdance",
+        "Purple Rain",
+        "When Doves Cry",
+        "Let's Go Crazy"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1985 film 'Back to the Future,' who composed the iconic orchestral theme?",
+      "choices": [
+        "John Williams",
+        "Alan Silvestri",
+        "Jerry Goldsmith",
+        "James Horner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1976 film by Sylvester Stallone features the training montage song 'Gonna Fly Now'?",
+      "choices": [
+        "Rambo",
+        "Rocky",
+        "Cop Land",
+        "Demolition Man"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the theme song from the 1977 film 'Saturday Night Fever' by the Bee Gees?",
+      "choices": [
+        "Stayin' Alive",
+        "Night Fever",
+        "How Deep Is Your Love",
+        "Jive Talkin'"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer wrote the sweeping orchestral score for the 1985 film 'Out of Africa'?",
+      "choices": [
+        "John Barry",
+        "James Horner",
+        "Maurice Jarre",
+        "Ennio Morricone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which iconic 1980s film about a wealthy businessman and a street performer featured the enduring power ballad 'Up Where We Belong' by Joe Dante?",
+      "choices": [
+        "An Officer and a Gentleman",
+        "Pretty Woman",
+        "Working Girl",
+        "Wall Street"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1997 film 'The Peacemaker,' which artist performed the theme song 'Give Me Just One Night (Una Noche)'?",
+      "choices": [
+        "Santana",
+        "Enrique Iglesias",
+        "Ricky Martin",
+        "Luis Miguel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Elton John composition from 'The Lion King' won the Academy Award for Best Original Song in 1995?",
+      "choices": [
+        "Circle of Life",
+        "Can You Feel the Love Tonight",
+        "Hakuna Matata",
+        "He Lives in You"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 2005 film 'Walk the Line' featured the title track performed by which legendary country artist?",
+      "choices": [
+        "Waylon Jennings",
+        "Johnny Cash",
+        "Willie Nelson",
+        "Merle Haggard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which punk rock anthem by The Clash appeared on the 'Clash of the Titans' soundtrack album in 1980?",
+      "choices": [
+        "London Calling",
+        "Rock the Casbah",
+        "Should I Stay or Should I Go",
+        "Train in Vain"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Hairspray' (2007), which actor and singer performed the musical number 'Welcome to the 60s'?",
+      "choices": [
+        "Zac Efron",
+        "John Travolta",
+        "Christopher Walken",
+        "Queen Latifah"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 1988 action film 'Die Hard' featured a Christmas-themed score composed by which acclaimed film composer?",
+      "choices": [
+        "John Williams",
+        "Alan Silvestri",
+        "Michael Kamen",
+        "Hans Zimmer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which synthwave track by A Perfect Circle appeared on 'The Crow' soundtrack in 1994?",
+      "choices": [
+        "Judith",
+        "Weak and Powerless",
+        "Hungry for Heaven",
+        "The Noose"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 2001 film 'Pearl Harbor' featured which band performing an original song for the soundtrack?",
+      "choices": [
+        "Nickelback",
+        "Aerosmith",
+        "Creed",
+        "Three Days Grace"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish band's song 'All That You Can't Leave Behind' served as the theme for the 2002 FIFA World Cup?",
+      "choices": [
+        "The Cranberries",
+        "U2",
+        "Sinéad O'Connor",
+        "Thin Lizzy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 2006 film 'Pirates of the Caribbean: Dead Man's Chest,' composer Hans Zimmer created a theme primarily using which unconventional instrument?",
+      "choices": [
+        "Didgeridoo",
+        "Hurdy-gurdy",
+        "Theremin",
+        "Glass harmonica"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The soundtrack to 'Slumdog Millionaire' (2008) was composed by which British-Indian musician?",
+      "choices": [
+        "Ravi Shankar",
+        "Anoushka Shankar",
+        "A.R. Rahman",
+        "Nitin Sawhney"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kate Bush track was prominently featured in the 'Stranger Things' Season 4 finale, introducing it to new audiences?",
+      "choices": [
+        "Cloudbusting",
+        "Running Up That Hill",
+        "Babooshka",
+        "Don't Give Up"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 1994 film 'Forrest Gump' featured a memorable scene set to which 1960s Simon & Garfunkel composition?",
+      "choices": [
+        "The Sound of Silence",
+        "Mrs. Robinson",
+        "Cecilia",
+        "Homeward Bound"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer created the iconic five-note motif in 'Close Encounters of the Third Kind' (1977)?",
+      "choices": [
+        "John Barry",
+        "John Williams",
+        "Jerry Goldsmith",
+        "James Horner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

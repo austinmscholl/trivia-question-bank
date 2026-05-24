@@ -1,273 +1,2647 @@
 {
   "slug": "cooking-trivia",
   "name": "Cooking",
-  "description": "Cooking techniques, ingredients, and world dishes",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.480Z",
   "questions": [
     {
-      "q": "Which nut is the main ingredient in French macarons?",
-      "choices": ["Hazelnut", "Almond", "Walnut", "Pistachio"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Almonds",
-        "verified": true,
-        "notes": "Ground almonds plus meringue form the shells."
-      }
-    },
-    {
-      "q": "Feta is a type of which food?",
-      "choices": ["Bread", "Cured meat", "Cheese", "Olive"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cheese",
-        "verified": true,
-        "notes": "Brined curd cheese traditionally from Greece, made from sheep or sheep/goat milk."
-      }
-    },
-    {
-      "q": "Kimchi, a spicy fermented vegetable dish, originates from which country?",
-      "choices": ["Korea", "Japan", "China", "Thailand"],
+      "q": "What is the primary ingredient in hummus?",
+      "choices": [
+        "chickpeas",
+        "tahini",
+        "lentils",
+        "white beans"
+      ],
       "correct": 0,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Korea",
-        "verified": true,
-        "notes": "Typically made with napa cabbage and chili pepper paste (gochugaru)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Gnocchi are small dumplings typically made from which ingredient, originating in which country?",
-      "choices": ["Rice, Japan", "Semolina, Greece", "Potato, Italy", "Wheat, France"],
+      "q": "Which cooking method involves submerging food in hot liquid to cook it?",
+      "choices": [
+        "roasting",
+        "boiling",
+        "grilling",
+        "braising"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of cheese is traditionally used to make French onion soup?",
+      "choices": [
+        "cheddar",
+        "gruyere",
+        "brie",
+        "camembert"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited with inventing pasta?",
+      "choices": [
+        "Spain",
+        "Greece",
+        "Italy",
+        "France"
+      ],
       "correct": 2,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italy",
-        "verified": true,
-        "notes": "'Gnocchi di patate' are the most common."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Pancetta is an Italian version of which cured meat?",
-      "choices": ["Ham", "Bacon", "Sausage", "Salami"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bacon",
-        "verified": true,
-        "notes": "Pork belly cured with salt and spices."
-      }
-    },
-    {
-      "q": "The squeaky cheese Halloumi originates on which Mediterranean island?",
-      "choices": ["Crete", "Malta", "Cyprus", "Sicily"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cyprus",
-        "verified": true,
-        "notes": "Has a high melting point, perfect for grilling."
-      }
-    },
-    {
-      "q": "Which vegetable is added to eggs to make a Spanish tortilla (tortilla de patatas)?",
-      "choices": ["Spinach", "Potato", "Tomato", "Bell pepper"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Potato",
-        "verified": true,
-        "notes": "Fried potatoes and onions bound in egg."
-      }
-    },
-    {
-      "q": "The expensive spice saffron comes from the stigmas of which flower?",
-      "choices": ["Tulip", "Rose", "Crocus", "Marigold"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Saffron",
-        "verified": true,
-        "notes": "It takes about 150,000 flowers to produce 1 kg of saffron."
-      }
-    },
-    {
-      "q": "Kippers are a cured, smoked variety of which fish?",
-      "choices": ["Salmon", "Mackerel", "Herring", "Cod"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Herring",
-        "verified": true,
-        "notes": "Split from tail to head, gutted, salted, and cold-smoked."
-      }
-    },
-    {
-      "q": "Blinis are small savory pancakes traditionally from which country?",
-      "choices": ["Ukraine", "Poland", "Russia", "Hungary"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Russia",
-        "verified": true,
-        "notes": "Often served with caviar, sour cream, or smoked salmon."
-      }
-    },
-    {
-      "q": "The Christmas cake 'Panettone' originates from which country?",
-      "choices": ["Germany", "Italy", "Austria", "France"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italy",
-        "verified": true,
-        "notes": "Originated in Milan; sweet, tall, and studded with dried fruit."
-      }
-    },
-    {
-      "q": "Cavolo Nero is a type of what leafy green?",
-      "choices": ["Spinach", "Kale", "Chard", "Lettuce"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cabbage",
-        "verified": true,
-        "notes": "Also called Tuscan kale or lacinato kale."
-      }
-    },
-    {
-      "q": "The French cooking term 'en papillote' means wrapping food in what before baking?",
-      "choices": ["Foil", "Parchment paper", "Salt crust", "Dough"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Paper",
-        "verified": true,
-        "notes": "French for 'in parchment'; steams the food in its own juices."
-      }
-    },
-    {
-      "q": "The Spanish cheese Manchego is traditionally made from the milk of which animal?",
-      "choices": ["Cow", "Sheep", "Goat", "Buffalo"],
-      "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Sheep",
-        "verified": true,
-        "notes": "From sheep of the Manchega breed in La Mancha, Spain."
-      }
-    },
-    {
-      "q": "Wasabi, often served with sushi, is also known as what?",
-      "choices": ["Japanese horseradish", "Japanese mustard", "Japanese mint", "Japanese ginger"],
+      "q": "What ingredient gives soy sauce its salty, savory flavor?",
+      "choices": [
+        "salt fermented with soybeans",
+        "sea salt only",
+        "miso paste",
+        "fish sauce"
+      ],
       "correct": 0,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Wasabi",
-        "verified": true,
-        "notes": "Most 'wasabi' served outside Japan is actually dyed horseradish."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Blueberries are native to which continent?",
-      "choices": ["Europe", "North America", "South America", "Asia"],
+      "q": "In baking, what does 'folding' mean?",
+      "choices": [
+        "beating ingredients vigorously",
+        "gently combining ingredients without deflating",
+        "pressing dough flat",
+        "rolling ingredients together"
+      ],
       "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "North America",
-        "verified": true,
-        "notes": "One of the few fruits native to North America."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The chili-based piri-piri (peri-peri) style of cooking originated in which country?",
-      "choices": ["Mozambique", "Portugal", "South Africa", "Angola"],
+      "q": "Which herb is the main ingredient in traditional pesto?",
+      "choices": [
+        "oregano",
+        "basil",
+        "parsley",
+        "thyme"
+      ],
       "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Portugal",
-        "verified": true,
-        "notes": "Developed by Portuguese settlers using African bird's eye chilis."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Irish dish 'colcannon' is mashed potato mixed with which other vegetable?",
-      "choices": ["Peas", "Cabbage/kale", "Leek", "Carrot"],
+      "q": "What is the cooking technique called when you cook food quickly over very high heat in a small amount of oil?",
+      "choices": [
+        "simmering",
+        "steaming",
+        "stir-frying",
+        "poaching"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which vegetable is the main ingredient in the Spanish dish gazpacho?",
+      "choices": [
+        "cucumber",
+        "tomato",
+        "bell pepper",
+        "zucchini"
+      ],
       "correct": 1,
-      "category": "Cooking",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cabbage",
-        "verified": true,
-        "notes": "Often served with butter and bacon on Halloween in Ireland."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Before the 17th century, carrots were predominantly which color?",
-      "choices": ["White", "Yellow", "Orange", "Purple"],
+      "q": "What is the name of the cooking method where food is cooked slowly in its own juices or in liquid?",
+      "choices": [
+        "braising",
+        "blanching",
+        "searing",
+        "frying"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fish is traditionally used to make sushi?",
+      "choices": [
+        "salmon",
+        "halibut",
+        "any raw fish",
+        "cod"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient is added to cream to make crème fraîche?",
+      "choices": [
+        "vinegar",
+        "buttermilk or lactic acid bacteria",
+        "lemon juice",
+        "salt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which grain is used to make risotto?",
+      "choices": [
+        "arborio rice",
+        "long-grain white rice",
+        "wild rice",
+        "brown rice"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient in guacamole?",
+      "choices": [
+        "avocado",
+        "lime juice",
+        "cilantro",
+        "tomato"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is famous for making feta cheese?",
+      "choices": [
+        "Turkey",
+        "Italy",
+        "Greece",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cooking technique involves removing the skin from tomatoes or nuts by briefly boiling them?",
+      "choices": [
+        "blanching",
+        "scorching",
+        "wilting",
+        "charring"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which spice comes from the dried stigmas of a crocus flower?",
+      "choices": [
+        "turmeric",
+        "saffron",
+        "paprika",
+        "cumin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the base ingredient in traditional Spanish paella?",
+      "choices": [
+        "short-grain rice",
+        "pasta",
+        "barley",
+        "couscous"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which acid is commonly added to ceviche to 'cook' the raw fish?",
+      "choices": [
+        "vinegar",
+        "lime or lemon juice",
+        "wine",
+        "apple cider"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the French cooking technique where vegetables are cut into small, uniform cubes?",
+      "choices": [
+        "julienne",
+        "brunoise",
+        "chiffonade",
+        "mince"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the cooking technique where food is cooked quickly in a small amount of hot oil or butter in a shallow pan?",
+      "choices": [
+        "Braising",
+        "Sautéing",
+        "Poaching",
+        "Steaming"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of pastry dough is used to make éclairs and profiteroles?",
+      "choices": [
+        "Puff pastry",
+        "Choux pastry",
+        "Phyllo pastry",
+        "Shortcrust pastry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What grain is polenta primarily made from?",
+      "choices": [
+        "Wheat",
+        "Rice",
+        "Corn",
+        "Barley"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Gnocchi, small potato dumplings, originated in which country?",
+      "choices": [
+        "France",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of nut is the primary ingredient in traditional French macarons?",
+      "choices": [
+        "Hazelnuts",
+        "Almonds",
+        "Walnuts",
+        "Pistachios"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mediterranean island is famous for producing halloumi cheese?",
+      "choices": [
+        "Greece",
+        "Crete",
+        "Cyprus",
+        "Malta"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is the Greek dip taramasalata?",
+      "choices": [
+        "Orange",
+        "Pink",
+        "White",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Manchego cheese is traditionally made from the milk of which animal?",
+      "choices": [
+        "Goats",
+        "Sheep",
+        "Cows",
+        "Buffalo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cooking method involves slowly cooking food in liquid at low temperature for an extended period?",
+      "choices": [
+        "Roasting",
+        "Braising",
+        "Grilling",
+        "Frying"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is added to dishes to make them set or gel?",
+      "choices": [
+        "Cornstarch",
+        "Gelatin",
+        "Agar agar",
+        "Flour"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of rice is the traditional choice for making risotto?",
+      "choices": [
+        "Basmati",
+        "Jasmine",
+        "Arborio",
+        "Long-grain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Irish dish made by mixing colcannon traditionally made from?",
+      "choices": [
+        "Potatoes and cabbage",
+        "Potatoes and carrots",
+        "Turnips and onions",
+        "Potatoes and leeks"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of meat can be spatchcocked, or split open for cooking on a grill?",
+      "choices": [
+        "Duck",
+        "Chicken",
+        "Turkey",
+        "Pheasant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Poussin refers to which type of meat?",
+      "choices": [
+        "Fish",
+        "Lamb",
+        "Chicken",
+        "Rabbit"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient in a classic chocolate mousse?",
+      "choices": [
+        "Cream",
+        "Chocolate",
+        "Eggs",
+        "Sugar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A coulis is a smooth sauce traditionally made from which type of food?",
+      "choices": [
+        "Vegetables",
+        "Meat",
+        "Fruit",
+        "Herbs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the French term for a small, delicate pastry typically filled with cream or jam?",
+      "choices": [
+        "Tarte",
+        "Petit four",
+        "Macaron",
+        "Mille-feuille"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Feta is a traditional cheese made in which region?",
+      "choices": [
+        "Italy",
+        "France",
+        "Greece",
+        "Spain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Plantain is an unsweet relative of which tropical fruit?",
+      "choices": [
+        "Mango",
+        "Pineapple",
+        "Banana",
+        "Coconut"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which grain, popular in modern cooking, originates from South America and is considered a complete protein?",
+      "choices": [
+        "Amaranth",
+        "Quinoa",
+        "Teff",
+        "Millet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient used to make traditional pesto sauce?",
+      "choices": [
+        "Basil",
+        "Oregano",
+        "Thyme",
+        "Rosemary"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking technique involves submerging food in hot oil or fat?",
+      "choices": [
+        "Grilling",
+        "Frying",
+        "Steaming",
+        "Poaching"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of pasta is shaped like long, thin ribbons?",
+      "choices": [
+        "Rigatoni",
+        "Fettuccine",
+        "Farfalle",
+        "Penne"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited with originating the dish risotto?",
+      "choices": [
+        "France",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient in traditional guacamole?",
+      "choices": [
+        "Tomato",
+        "Avocado",
+        "Lime",
+        "Cilantro"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which baking ingredient helps dough rise by producing carbon dioxide gas?",
+      "choices": [
+        "Salt",
+        "Sugar",
+        "Baking powder",
+        "Vanilla extract"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the cooking technique where you brown meat quickly in a hot pan before slow-cooking it?",
+      "choices": [
+        "Poaching",
+        "Searing",
+        "Steaming",
+        "Blanching"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which herb is commonly used in Mediterranean cooking and has needle-like leaves?",
+      "choices": [
+        "Basil",
+        "Rosemary",
+        "Cilantro",
+        "Dill"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional thickening agent used in French gravies and sauces?",
+      "choices": [
+        "Cornstarch",
+        "Arrowroot",
+        "Roux",
+        "Gelatin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which vegetable is the main ingredient in traditional hummus?",
+      "choices": [
+        "Lentil",
+        "Chickpea",
+        "Black bean",
+        "Pea"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cooking method involves cooking food in a steamer basket over boiling water?",
+      "choices": [
+        "Frying",
+        "Roasting",
+        "Steaming",
+        "Broiling"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary grain used to make traditional risotto?",
+      "choices": [
+        "Arborio rice",
+        "Jasmine rice",
+        "Basmati rice",
+        "Wild rice"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking technique involves cooking food gently in liquid just below boiling point?",
+      "choices": [
+        "Boiling",
+        "Poaching",
+        "Frying",
+        "Grilling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of milk is traditionally used to make Greek yogurt?",
+      "choices": [
+        "Sheep's milk",
+        "Goat's milk",
+        "Cow's milk",
+        "Camel's milk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ingredient is used to give soy sauce its salty, savory flavor?",
+      "choices": [
+        "Fermented soybeans",
+        "Sea salt",
+        "Vinegar",
+        "Caramel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the cooking vessel traditionally used to make wok cooking?",
+      "choices": [
+        "Skillet",
+        "Wok",
+        "Dutch oven",
+        "Saucepan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking technique involves exposing food directly to dry heat from above?",
+      "choices": [
+        "Roasting",
+        "Broiling",
+        "Steaming",
+        "Poaching"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient gives traditional Belgian waffles their characteristic crispy exterior?",
+      "choices": [
+        "Yeast",
+        "Butter",
+        "Eggs",
+        "Sugar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of salt is commonly used in baking and is known for its fine, uniform crystals?",
+      "choices": [
+        "Sea salt",
+        "Rock salt",
+        "Table salt",
+        "Himalayan pink salt"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary thickening agent used in a traditional French béchamel sauce?",
+      "choices": [
+        "Cornstarch",
+        "Butter and flour",
+        "Egg yolks",
+        "Cream"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking method involves slowly simmering food in liquid at just below boiling point?",
+      "choices": [
+        "Poaching",
+        "Broiling",
+        "Searing",
+        "Steaming"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of meat is prosciutto?",
+      "choices": [
+        "Beef",
+        "Pork",
+        "Chicken",
+        "Duck"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mediterranean herb is commonly used in Italian cooking and pairs well with tomatoes?",
+      "choices": [
+        "Dill",
+        "Basil",
+        "Tarragon",
+        "Chives"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Spanish dish made with rice, saffron, and seafood or meat?",
+      "choices": [
+        "Risotto",
+        "Paella",
+        "Pilaf",
+        "Jambalaya"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which baking ingredient is used to help dough rise and create a light, fluffy texture?",
+      "choices": [
+        "Salt",
+        "Sugar",
+        "Yeast",
+        "Oil"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call the cooking technique of exposing food to direct, intense heat from above?",
+      "choices": [
+        "Broiling",
+        "Roasting",
+        "Baking",
+        "Simmering"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited as the birthplace of the croissant pastry?",
+      "choices": [
+        "France",
+        "Austria",
+        "Italy",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient gives traditional Greek tzatziki sauce its tangy flavor?",
+      "choices": [
+        "Lemon juice",
+        "Yogurt",
+        "Vinegar",
+        "Sour cream"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking tool is used to separate eggs into yolks and whites?",
+      "choices": [
+        "Whisk",
+        "Tongs",
+        "Egg separator",
+        "Spatula"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking method uses steam to cook food without direct contact with boiling water?",
+      "choices": [
+        "Boiling",
+        "Steaming",
+        "Poaching",
+        "Blanching"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of pepper is used to make paprika, a common spice in Hungarian cuisine?",
+      "choices": [
+        "Black pepper",
+        "Bell pepper",
+        "Chili pepper",
+        "White pepper"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which French dessert consists of layers of sponge cake, buttercream, and jam?",
+      "choices": [
+        "Tiramisu",
+        "Mille-feuille",
+        "Genoise cake",
+        "Eclair"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient in traditional pesto sauce?",
+      "choices": [
+        "Basil",
+        "Parsley",
+        "Spinach",
+        "Arugula"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cooking technique involves cooking food in a small amount of oil or fat in a shallow pan?",
+      "choices": [
+        "Deep frying",
+        "Sautéing",
+        "Steaming",
+        "Boiling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Japanese soup made with fermented soybean paste?",
+      "choices": [
+        "Miso soup",
+        "Ramen",
+        "Dashi",
+        "Tonkotsu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which metal is commonly used to line baking sheets and prevent sticking?",
+      "choices": [
+        "Copper",
+        "Aluminum foil",
+        "Stainless steel",
+        "Iron"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What thickening agent is used in Asian cooking to create glossy sauces?",
+      "choices": [
+        "Flour",
+        "Cornstarch",
+        "Gelatin",
+        "Arrowroot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ingredient is traditionally used to make macarons, delicate French sandwich cookies?",
+      "choices": [
+        "Walnuts",
+        "Hazelnuts",
+        "Almond flour",
+        "Peanut flour"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited with originating the breakfast cereal muesli?",
+      "choices": [
+        "Germany",
+        "Switzerland",
+        "Austria",
+        "Denmark"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What vegetable is the main ingredient in the Swiss dish rösti?",
+      "choices": [
+        "Carrot",
+        "Onion",
+        "Potato",
+        "Turnip"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which French cooking technique involves cooking food in its own juices within a sealed container at low temperature?",
+      "choices": [
+        "Confit",
+        "Étuver",
+        "Braisé",
+        "Poché"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the emulsified sauce made from egg yolks, oil, and lemon juice or vinegar?",
+      "choices": [
+        "Béchamel",
+        "Mayonnaise",
+        "Hollandaise",
+        "Velouté"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Chinese cooking, what is the name of the technique where ingredients are briefly cooked in a wok at very high heat with constant stirring?",
+      "choices": [
+        "Stir-frying",
+        "Chao",
+        "Wok tossing",
+        "Deep-frying"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which spice, derived from the bark of a cinnamon tree native to Sri Lanka, is more delicate and expensive than cassia cinnamon?",
+      "choices": [
+        "Cassia",
+        "True cinnamon",
+        "Saigon cinnamon",
+        "Indonesian cinnamon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Spanish cooking technique where food is cooked slowly in olive oil at a low temperature, typically 130-180°C?",
+      "choices": [
+        "Al ajillo",
+        "Confitado",
+        "Asado",
+        "A la plancha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which molecule, formed when proteins and sugars are heated together, is responsible for browning in the Maillard reaction?",
+      "choices": [
+        "Melanoidin",
+        "Caramelene",
+        "Dextrin",
+        "Pyrazine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional Japanese dashi broth typically made from kombu seaweed and which other ingredient?",
+      "choices": [
+        "Shiitake mushrooms",
+        "Bonito flakes",
+        "Kelp",
+        "Anchovy paste"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which acid is commonly used in cooking to denature proteins and cook fish without heat in dishes like ceviche?",
+      "choices": [
+        "Acetic acid",
+        "Citric acid",
+        "Lactic acid",
+        "Malic acid"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Italian cured meat made from the hind leg of a pig, aged for at least 12 months?",
+      "choices": [
+        "Prosciutto San Daniele",
+        "Guanciale",
+        "Pancetta",
+        "Speck"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In pastry work, what is the term for the process of whisking egg whites with sugar to create a stable foam used in meringues?",
+      "choices": [
+        "Whipping",
+        "Folding",
+        "Beating",
+        "Tempering"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French term describes a mixture of butter and flour cooked together to form a paste used as a thickening agent?",
+      "choices": [
+        "Liaison",
+        "Beurre manié",
+        "Roux",
+        "Velouté"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Vietnamese fish sauce made from fermented anchovies and salt?",
+      "choices": [
+        "Mam tom",
+        "Nam pla",
+        "Nuoc mam",
+        "Tsuyu"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In molecular gastronomy, which gelling agent derived from seaweed is used to create spheres and foams?",
+      "choices": [
+        "Gelatin",
+        "Agar-agar",
+        "Pectin",
+        "Xanthan gum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cut of beef is known for its marbling and comes from the short loin, prized for grilling and broiling?",
+      "choices": [
+        "Ribeye",
+        "New York strip",
+        "Porterhouse",
+        "Filet mignon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Thai cooking technique called when ingredients are pounded together in a mortar and pestle to release oils and flavors?",
+      "choices": [
+        "Grinding",
+        "Crushing",
+        "Muddling",
+        "Pounding"
+      ],
       "correct": 3,
-      "category": "Cooking",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Carrot",
-        "verified": true,
-        "notes": "Orange carrots were bred in the Netherlands in the 1600s."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which slow-cooking French technique involves cooking meat for a long time in liquid at a low temperature?",
-      "choices": ["Sautéing", "Grilling", "Braising", "Blanching"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Braise",
-        "verified": true,
-        "notes": "Great for tough cuts like oxtail or lamb shank."
-      }
+      "q": "Which cheese from the Loire Valley in France is made from goat's milk and has a distinctive pyramid shape?",
+      "choices": [
+        "Valencay",
+        "Selles-sur-Cher",
+        "Banon",
+        "Pouligny-Saint-Pierre"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
     },
     {
-      "q": "Sous vide cooking involves sealing food in a bag and cooking it in what?",
-      "choices": ["A smoker", "A pressure cooker", "A temperature-controlled water bath", "A rotating spit"],
-      "correct": 2,
-      "category": "Cooking",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Sous vide",
-        "verified": true,
-        "notes": "French for 'under vacuum'."
-      }
+      "q": "In fermentation, what is the name of the organism responsible for converting sugars into lactic acid in sauerkraut production?",
+      "choices": [
+        "Saccharomyces cerevisiae",
+        "Lactobacillus plantarum",
+        "Acetobacter aceti",
+        "Leuconostoc mesenteroides"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "'Nduja' is a spreadable spicy type of what?",
-      "choices": ["Sausage", "Cheese", "Butter", "Jam"],
+      "q": "Which Portuguese cooking technique uses clay pots and involves slow cooking with wine and aromatics?",
+      "choices": [
+        "Cataplana",
+        "Cataplan",
+        "Panela de barro",
+        "Cazuela"
+      ],
       "correct": 0,
-      "category": "Cooking",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Sausage",
-        "verified": true,
-        "notes": "From Calabria, Italy; made with pork and Calabrian chilis."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Japanese cooking term for the technique of simmering ingredients gently until they are just tender?",
+      "choices": [
+        "Nimono",
+        "Agemono",
+        "Yakimono",
+        "Mushimono"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which enzyme, found naturally in pineapple and papaya, is commonly used in marinades to tenderize meat?",
+      "choices": [
+        "Amylase",
+        "Bromelain",
+        "Papain",
+        "Lipase"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the French culinary term for the technique of cooking food gently in fat at a low temperature, typically used for poultry or game?",
+      "choices": [
+        "Confit",
+        "Braise",
+        "Poach",
+        "Sauté"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which amino acid is created when proteins are heated in the presence of reducing sugars, producing the browning effect known as the Maillard reaction?",
+      "choices": [
+        "Lysine",
+        "Melanoidin",
+        "Glutamate",
+        "Proline"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the emulsification technique where egg yolks are whisked with oil drop by drop to create a creamy sauce, commonly used in béarnaise?",
+      "choices": [
+        "Tempering",
+        "Emulsifying",
+        "Whipping",
+        "Folding"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Spherification is a molecular gastronomy technique that uses sodium alginate and which other chemical to create liquid-filled spheres?",
+      "choices": [
+        "Calcium chloride",
+        "Sodium nitrate",
+        "Potassium hydroxide",
+        "Magnesium sulfate"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional French cooking, what is the name of the aromatic vegetable combination of celery, carrot, and onion used as a base for stocks and sauces?",
+      "choices": [
+        "Bouquet garni",
+        "Mirepoix",
+        "Court-bouillon",
+        "Persillade"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the specific name for the technique of cooking food in its own juices or fat in a sealed container at controlled low temperature, often in a water bath?",
+      "choices": [
+        "Sous vide",
+        "Bain-marie",
+        "Rôtisserie",
+        "Flambage"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which binding agent derived from fish bladders was traditionally used to clarify wines and broths before being largely replaced by modern alternatives?",
+      "choices": [
+        "Isinglass",
+        "Gelatin",
+        "Agar",
+        "Pectin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the French term for the process of cooking vegetables in boiling salted water without a lid to preserve their color?",
+      "choices": [
+        "À la vapeur",
+        "À l'anglaise",
+        "À la braise",
+        "À la plancha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In pastry-making, what is the ratio of flour to butter in a traditional French pâte brisée (shortcrust pastry)?",
+      "choices": [
+        "3:1",
+        "2:1",
+        "4:1",
+        "5:2"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese cooking technique involves grilling food over a charcoal fire at a very high temperature, similar to yakitori?",
+      "choices": [
+        "Robata",
+        "Teppanyaki",
+        "Sukiyaki",
+        "Shabu-shabu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Turkish cooking method that uses a vertical rotating spit to cook meat, which influenced the creation of the doner kebab?",
+      "choices": [
+        "Cevap",
+        "Döner",
+        "Şiş",
+        "Kebap"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical French cuisine, what is the name of the mother sauce made from béchamel and stock that forms the base for many other sauces?",
+      "choices": [
+        "Sauce Allemande",
+        "Sauce Espagnole",
+        "Sauce Hollandaise",
+        "Sauce Velouté"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the specific cooking temperature range, in Celsius, at which a medium-rare beef steak should reach its internal core?",
+      "choices": [
+        "52-55°C",
+        "60-65°C",
+        "45-50°C",
+        "66-71°C"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian pasta shape's name derives from the Latin word for 'little tongues' and is traditionally used in seafood dishes?",
+      "choices": [
+        "Linguine",
+        "Pappardelle",
+        "Tagliatelle",
+        "Fettuccine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Portuguese cooking technique where meat or fish is marinated in wine, vinegar, and spices before cooking, originally used for preservation?",
+      "choices": [
+        "Escabeche",
+        "Ceviche",
+        "Escabèche",
+        "Marinada"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In molecular gastronomy, what is the name of the hydrocolloid derived from kelp seaweed that is used as a thickening and gelling agent?",
+      "choices": [
+        "Sodium alginate",
+        "Xanthan gum",
+        "Carrageenan",
+        "Psyllium husk"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum internal temperature in Fahrenheit that poultry must reach to ensure food safety according to USDA guidelines?",
+      "choices": [
+        "160°F",
+        "165°F",
+        "170°F",
+        "155°F"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cooking method, popular in Chinese cuisine, involves cooking food quickly in a small amount of hot oil over high heat while constantly stirring?",
+      "choices": [
+        "Stir-frying",
+        "Deep-frying",
+        "Pan-frying",
+        "Shallow-frying"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Spanish culinary term for the practice of slow-cooking food in its own fat until it becomes extremely tender, similar to French confit?",
+      "choices": [
+        "Guiso",
+        "Estofado",
+        "Confitado",
+        "Cocción"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In pastry-making, what is the precise meaning of 'tempering' when applied to chocolate, involving heating, cooling, and reheating?",
+      "choices": [
+        "Melting chocolate evenly",
+        "Stabilizing cocoa butter crystals into the desired polymorph",
+        "Whipping air into melted chocolate",
+        "Combining chocolate with other ingredients"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary emulsifying agent that prevents hollandaise sauce from breaking?",
+      "choices": [
+        "Egg yolks",
+        "Cornstarch",
+        "Gelatin",
+        "Soy lecithin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In French culinary tradition, what is the name of the mother sauce made from a roux and fish or seafood stock?",
+      "choices": [
+        "Velouté",
+        "Normande",
+        "Espagnole",
+        "Béchamel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Italian technique of cooking pasta until it has a slight firmness when bitten called?",
+      "choices": [
+        "Al dente",
+        "Pasta cruda",
+        "Risotto",
+        "Cottura rapida"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cooking method involves submerging food in oil heated to approximately 350-375°F?",
+      "choices": [
+        "Deep frying",
+        "Poaching",
+        "Braising",
+        "Steaming"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the French pastry cream used as a filling in éclairs and cream puffs?",
+      "choices": [
+        "Crème pâtissière",
+        "Crème brûlée",
+        "Crème anglaise",
+        "Crème chantilly"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In molecular gastronomy, what spherical technique involves creating caviar-like pearls from flavored liquids using sodium alginate?",
+      "choices": [
+        "Spherification",
+        "Foamification",
+        "Gelification",
+        "Crystallization"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum internal temperature in Fahrenheit that ground beef must reach to be considered safely cooked?",
+      "choices": [
+        "160",
+        "145",
+        "155",
+        "170"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which root vegetable is the primary ingredient in the Eastern European dish borscht?",
+      "choices": [
+        "Beet",
+        "Turnip",
+        "Parsnip",
+        "Rutabaga"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Provençal fish stew traditionally served with rouille and crusty bread?",
+      "choices": [
+        "Bouillabaisse",
+        "Cioppino",
+        "Cacciucco",
+        "Brodetto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In baking, what is the process called when butter is rubbed into flour to create a crumbly mixture?",
+      "choices": [
+        "Cutting in",
+        "Creaming",
+        "Folding",
+        "Tempering"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which spice is derived from the dried stigmas of the Crocus sativus flower?",
+      "choices": [
+        "Saffron",
+        "Turmeric",
+        "Cardamom",
+        "Cumin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional Japanese cooking technique that uses a clay pot and an open flame at the table called?",
+      "choices": [
+        "Nabemono",
+        "Teppanyaki",
+        "Teriyaki",
+        "Yakitori"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In wine cooking, what is the process of reducing wine to concentrate its flavor called?",
+      "choices": [
+        "Reduction",
+        "Decanting",
+        "Deglazing",
+        "Flambéing"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which acid is traditionally used in ceviche to denature and cook raw fish?",
+      "choices": [
+        "Lime juice",
+        "Rice vinegar",
+        "White wine",
+        "Lemon juice"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Spanish cooking technique that uses a wide paella pan over an open flame?",
+      "choices": [
+        "À la brasa",
+        "Al horno",
+        "A fuego lento",
+        "En papillote"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In cheesemaking, what is the coagulated milk solid that forms when acid or rennet is added to milk called?",
+      "choices": [
+        "Curd",
+        "Whey",
+        "Butterfat",
+        "Casein"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cooking method involves cooking food in its own juices inside a sealed container without added liquid?",
+      "choices": [
+        "En papillote",
+        "Braising",
+        "Poaching",
+        "Steaming"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Middle Eastern spice blend typically containing sumac, sesame seeds, and thyme?",
+      "choices": [
+        "Za'atar",
+        "Dukkah",
+        "Baharat",
+        "Ras el hanout"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In pastry work, what is the technique of gradually beating air into egg whites to create volume called?",
+      "choices": [
+        "Whipping",
+        "Folding",
+        "Tempering",
+        "Creaming"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which culinary term refers to the browning of meat surfaces through high-heat cooking to develop flavor compounds?",
+      "choices": [
+        "Maillard reaction",
+        "Caramelization",
+        "Carryover cooking",
+        "Fond"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional thickening agent used in French mother sauces like béchamel and velouté?",
+      "choices": [
+        "Cornstarch",
+        "Roux",
+        "Gelatin",
+        "Egg yolk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese cooking technique involves simmering ingredients in a broth made with dashi, soy sauce, and mirin?",
+      "choices": [
+        "Sukiyaki",
+        "Nimono",
+        "Yakimono",
+        "Agemono"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Chinese cooking technique where food is briefly cooked in boiling water, then finished in a flavorful sauce?",
+      "choices": [
+        "Stir-frying",
+        "Blanching and saucing",
+        "Water-passing",
+        "Poaching"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In French cuisine, what is the term for a reduction made by cooking meat or fish bones and vegetables in liquid to create a concentrated stock?",
+      "choices": [
+        "Consommé",
+        "Fond",
+        "Glace",
+        "Remoulade"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of yeast is traditionally used to create the sour flavor in true San Francisco sourdough bread?",
+      "choices": [
+        "Saccharomyces cerevisiae",
+        "Lactobacillus sanfranciscensis",
+        "Candida milleri",
+        "Torulaspora delbrueckii"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian cooking method involves coating food in flour, then pan-frying it in butter or oil until golden?",
+      "choices": [
+        "Alla milanese",
+        "Saltimbocca",
+        "Osso buco",
+        "Cacciatora"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the culinary term for the white, gelatinous substance that rises to the top of stock during cooking?",
+      "choices": [
+        "Scum",
+        "Raft",
+        "Impurities",
+        "Foam"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional French pâtisserie, what is the name of the meringue made with egg whites and hot sugar syrup?",
+      "choices": [
+        "French meringue",
+        "Swiss meringue",
+        "Italian meringue",
+        "Cooked meringue"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary starch that prevents rice grains from sticking together when making traditional risotto?",
+      "choices": [
+        "Amylose",
+        "Amylopectin",
+        "Starch granules",
+        "Carbohydrates"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which spice is the dried stigma of the Crocus sativus flower and is one of the most expensive ingredients per gram?",
+      "choices": [
+        "Cardamom",
+        "Saffron",
+        "Clove",
+        "Nutmeg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What cooking vessel is traditionally used in Indian cuisine to prepare biryani with the dum pukht method of sealed cooking?",
+      "choices": [
+        "Karahi",
+        "Handi",
+        "Tawa",
+        "Degchi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In sous vide cooking, what temperature range is typically used for medium-rare beef?",
+      "choices": [
+        "129-135°F (54-57°C)",
+        "140-145°F (60-63°C)",
+        "150-155°F (65-68°C)",
+        "160-165°F (71-74°C)"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Middle Eastern condiment made from tahini, chickpeas, and lemon juice?",
+      "choices": [
+        "Baba ganoush",
+        "Muhammara",
+        "Hummus",
+        "Tabbouleh"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cooking technique involves using a torch or broiler to caramelize the surface of a dish like crème brûlée?",
+      "choices": [
+        "Gratinéing",
+        "Glazing",
+        "Torching",
+        "Finishing"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Spanish culinary term for a quick pan-fry preparation of small pieces of meat or seafood?",
+      "choices": [
+        "Sauté",
+        "Saltado",
+        "Tapa",
+        "Sofrito"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In charcuterie, what is the curing salt mixture known as that contains sodium nitrite or potassium nitrite?",
+      "choices": [
+        "Pickling salt",
+        "Prague Powder",
+        "Sea salt cure",
+        "Mineral cure"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Thai curry paste that gets its red color from dried red chilies and contains garlic, shallots, and lemongrass?",
+      "choices": [
+        "Green curry paste",
+        "Red curry paste",
+        "Massaman curry paste",
+        "Panang curry paste"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Portuguese sauce made from garlic, red chili peppers, and paprika is traditionally served with grilled meats?",
+      "choices": [
+        "Chimichurri",
+        "Peri-peri",
+        "Romesco",
+        "Aioli"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In molecular gastronomy, what is the spherification technique that uses sodium alginate and calcium chloride to create?",
+      "choices": [
+        "Foams",
+        "Airs",
+        "Caviar pearls",
+        "Gels"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional Korean cooking method where ingredients are marinated in soy-based sauce and grilled over charcoal?",
+      "choices": [
+        "Jjim",
+        "Jorim",
+        "Gui",
+        "Bokkeum"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French cooking technique involves cooking meat in its own fat at a low temperature until it becomes extremely tender, traditionally used for duck or pork?",
+      "choices": [
+        "Confit",
+        "Rillette",
+        "Terrine",
+        "Pâté"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the emulsification technique used to create hollandaise sauce?",
+      "choices": [
+        "Tempering",
+        "Beurre blanc",
+        "Mounting",
+        "Whisking egg yolks with melted butter"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cooking method involves browning meat or vegetables quickly in a very hot pan before braising?",
+      "choices": [
+        "Deglazing",
+        "Searing",
+        "Poaching",
+        "Blanching"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the French term for a mixture of diced onions, celery, and carrots used as a flavor base?",
+      "choices": [
+        "Beurre blanc",
+        "Mirepoix",
+        "Duxelles",
+        "Soffritto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In baking, what ingredient is used to activate baking soda and create lift in cakes?",
+      "choices": [
+        "Sugar",
+        "Salt",
+        "Acidic ingredients like buttermilk or lemon juice",
+        "Vanilla extract"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cooking vessel used in Asian cuisines for stir-frying?",
+      "choices": [
+        "Tagine",
+        "Dutch oven",
+        "Wok",
+        "Cast iron skillet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spice comes from the dried stigma of the Crocus sativus flower?",
+      "choices": [
+        "Turmeric",
+        "Saffron",
+        "Cumin",
+        "Cinnamon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional thickening agent used in French béarnaise sauce?",
+      "choices": [
+        "Cornstarch",
+        "Flour",
+        "Egg yolks",
+        "Beurre manié"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In bread baking, what does 'proofing' refer to?",
+      "choices": [
+        "Testing the oven temperature",
+        "Allowing dough to rise before baking",
+        "Checking for mold",
+        "Measuring flour accuracy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cut of beef is best suited for slow cooking due to its high collagen content?",
+      "choices": [
+        "Filet mignon",
+        "Chuck roast",
+        "Ribeye steak",
+        "Tenderloin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What cooking technique involves wrapping food in parchment paper and steaming it in an oven?",
+      "choices": [
+        "En papillote",
+        "Sous vide",
+        "Confit",
+        "Poaching"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In traditional Indian cooking, what is the name of the cooking method that uses a clay oven?",
+      "choices": [
+        "Tandoori",
+        "Karahi",
+        "Biryani",
+        "Samosa"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ingredient is essential for making authentic parmigiano-reggiano cheese?",
+      "choices": [
+        "Goat's milk",
+        "Buffalo milk",
+        "Cow's milk from specific regions of Italy",
+        "Sheep's milk"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the minimum internal temperature for safely cooked pork according to food safety guidelines?",
+      "choices": [
+        "145°F (63°C)",
+        "160°F (71°C)",
+        "165°F (74°C)",
+        "180°F (82°C)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which acid is commonly used in marinades to tenderize meat?",
+      "choices": [
+        "Citric acid",
+        "Acetic acid",
+        "Enzymatic acid from pineapple or papaya",
+        "Lactic acid"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cooking method where meat is slowly cooked in its own fat until tender?",
+      "choices": [
+        "Braising",
+        "Confit",
+        "Poaching",
+        "Stewing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In pastry making, what does 'tempering chocolate' refer to?",
+      "choices": [
+        "Measuring chocolate by temperature",
+        "Cooling melted chocolate to a specific temperature to stabilize cocoa butter crystals",
+        "Heating chocolate in a double boiler",
+        "Mixing chocolate with cream"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in traditional chimichurri sauce from Argentina?",
+      "choices": [
+        "Basil and garlic",
+        "Cilantro and lime",
+        "Parsley and vinegar",
+        "Oregano and olive oil"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which seafood item is traditionally used to make bouillabaisse, a French fish stew?",
+      "choices": [
+        "Only salmon",
+        "A variety of Mediterranean fish and shellfish",
+        "Only lobster",
+        "Exclusively mussels"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the correct water-to-rice ratio for cooking long-grain white rice using the absorption method?",
+      "choices": [
+        "1 cup rice to 1.5 cups water",
+        "1 cup rice to 2 cups water",
+        "1 cup rice to 3 cups water",
+        "1 cup rice to 1 cup water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cooking technique where meat is cooked slowly in red wine with pearl onions and mushrooms?",
+      "choices": [
+        "Coq au vin",
+        "Beef Bourguignon",
+        "Blanquette de veau",
+        "Pot-au-feu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Southeast Asian condiment is made from fermented fish and is a staple ingredient in many dishes?",
+      "choices": [
+        "Soy sauce",
+        "Fish sauce",
+        "Oyster sauce",
+        "Hoisin sauce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Panettone is a traditional sweet bread originating from which Italian city?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Milan",
+        "Florence"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What cooking method involves submerging food in hot oil at a precise temperature to achieve a crispy exterior?",
+      "choices": [
+        "Poaching",
+        "Deep frying",
+        "Steaming",
+        "Braising"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Miso paste, a staple in Japanese cuisine, is traditionally made by fermenting which legume?",
+      "choices": [
+        "Chickpeas",
+        "Lentils",
+        "Soybeans",
+        "Black beans"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the technique of beating egg whites until stiff peaks form?",
+      "choices": [
+        "Whipping",
+        "Whisking",
+        "Folding",
+        "Beating"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gremolata is a traditional Italian garnish made with lemon zest, garlic, and which herb?",
+      "choices": [
+        "Basil",
+        "Oregano",
+        "Parsley",
+        "Thyme"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cooking process where food is briefly cooked in boiling salted water and then immediately plunged into ice water?",
+      "choices": [
+        "Blanching",
+        "Parboiling",
+        "Scalding",
+        "Shocking"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Dukkah is a spice blend from which North African country?",
+      "choices": [
+        "Morocco",
+        "Tunisia",
+        "Egypt",
+        "Libya"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of sugar is commonly used in meringues for its fine, powdery texture?",
+      "choices": [
+        "Demerara sugar",
+        "Muscovado sugar",
+        "Castor sugar",
+        "Turbinado sugar"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In French cuisine, what is the term for a clear soup made from meat, fish, or vegetable stock?",
+      "choices": [
+        "Consommé",
+        "Bouillon",
+        "Bisque",
+        "Velouté"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ingredient is responsible for the distinctive pink color in traditional gravlax?",
+      "choices": [
+        "Paprika",
+        "Curing salt with nitrates",
+        "Beetroot juice",
+        "Food coloring"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tempura is a Japanese frying technique that uses which type of batter?",
+      "choices": [
+        "Beer batter",
+        "Light, airy batter",
+        "Cornstarch batter",
+        "Yeast-based batter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in chimichurri, a popular Argentine sauce?",
+      "choices": [
+        "Cilantro",
+        "Parsley",
+        "Basil",
+        "Oregano"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cooking method involves slowly heating ingredients together to extract maximum flavor from bones and connective tissue?",
+      "choices": [
+        "Roasting",
+        "Stock-making",
+        "Sautéing",
+        "Grilling"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the sweet Spanish wine often used in cooking and served as a dessert wine?",
+      "choices": [
+        "Rioja",
+        "Sherry",
+        "Vermouth",
+        "Sangria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pommes Anna is a French potato dish traditionally cooked in which type of cookware?",
+      "choices": [
+        "Cast iron skillet",
+        "Copper pot",
+        "Crepe pan",
+        "Dutch oven"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the technique called when you gently combine two mixtures, typically folding a lighter mixture into a heavier one?",
+      "choices": [
+        "Whisking",
+        "Beating",
+        "Folding",
+        "Stirring"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Saffron, one of the most expensive spices, comes from which part of the crocus flower?",
+      "choices": [
+        "Petals",
+        "Stigma",
+        "Stem",
+        "Root"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian rice variety is specifically cultivated for risotto due to its high starch content and ability to absorb liquid while maintaining its shape?",
+      "choices": [
+        "Carnaroli",
+        "Arborio",
+        "Vialone Nero",
+        "Bomba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the culinary term for the process of cooking vegetables quickly in a small amount of oil over high heat while stirring constantly?",
+      "choices": [
+        "Sautéing",
+        "Braising",
+        "Blanching",
+        "Poaching"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Béchamel sauce, one of the five French mother sauces, is made by combining a roux with which liquid?",
+      "choices": [
+        "Beef stock",
+        "Chicken stock",
+        "Milk",
+        "White wine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Southeast Asian condiment is made from fermented fish and is a key ingredient in many Thai and Vietnamese dishes?",
+      "choices": [
+        "Soy sauce",
+        "Fish sauce",
+        "Oyster sauce",
+        "Miso paste"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cooking method where food is submerged in rapidly boiling salted water for a brief period, then immediately cooled in ice water?",
+      "choices": [
+        "Parboiling",
+        "Blanching",
+        "Simmering",
+        "Scalding"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tempering is a critical technique in chocolate making that involves heating and cooling chocolate to achieve what desirable property?",
+      "choices": [
+        "Smoothness",
+        "Shine and snap",
+        "Sweetness",
+        "Bitterness"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fresh herb, commonly used in Italian cuisine, is a key ingredient in pesto alongside pine nuts, garlic, and olive oil?",
+      "choices": [
+        "Oregano",
+        "Thyme",
+        "Basil",
+        "Rosemary"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the French cooking technique where meat is browned before being slow-cooked in liquid with vegetables and aromatics?",
+      "choices": [
+        "Sautéing",
+        "Braising",
+        "Roasting",
+        "Grilling"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Panettone is a traditional sweet bread from which country, typically consumed during the winter holiday season?",
+      "choices": [
+        "France",
+        "Spain",
+        "Italy",
+        "Austria"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cooking show, which premiered in 2009, features amateur home cooks competing in three rounds of challenges judged by food experts?",
+      "choices": [
+        "The Great British Bake Off",
+        "MasterChef",
+        "Hell's Kitchen",
+        "The Taste"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in traditional Japanese miso paste?",
+      "choices": [
+        "Rice vinegar",
+        "Fermented soybeans",
+        "Sesame seeds",
+        "Nori seaweed"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In French cuisine, what is the term for a mixture of diced vegetables (typically onion, celery, and carrot) used as an aromatic base for soups and stews?",
+      "choices": [
+        "Bouquet garni",
+        "Mirepoix",
+        "Court-bouillon",
+        "Fond"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spice, derived from the dried stigmas of a crocus flower, is known for its distinctive golden color and high cost?",
+      "choices": [
+        "Turmeric",
+        "Saffron",
+        "Cumin",
+        "Coriander"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technique involves pouring hot fat or oil over food to cook it while it remains partially submerged in liquid?",
+      "choices": [
+        "Confit",
+        "Poaching",
+        "Steaming",
+        "Boiling"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Couscous, a staple grain in North African cuisine, is traditionally made from which grain?",
+      "choices": [
+        "Barley",
+        "Millet",
+        "Semolina wheat",
+        "Farro"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cooking show features professional chefs competing in elimination-style rounds where they must prepare dishes based on mystery ingredients?",
+      "choices": [
+        "Iron Chef",
+        "Chopped",
+        "The Next Iron Chef",
+        "Iron Chef America"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the creamy French sauce made with mayonnaise, herbs, and hard-boiled eggs, often served with cold seafood or asparagus?",
+      "choices": [
+        "Hollandaise",
+        "Béarnaise",
+        "Sauce Verte",
+        "Tartar sauce"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chinese cooking technique involves coating food lightly with cornstarch or egg white before frying to create a protective coating?",
+      "choices": [
+        "Oil-blanching",
+        "Velveting",
+        "Stir-frying",
+        "Deep-frying"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Daikon is a large, mild-flavored radish commonly used in Asian cuisine that originates from which continent?",
+      "choices": [
+        "Europe",
+        "South America",
+        "Asia",
+        "Africa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Spanish appetizer consisting of small portions of food served on bread or crackers, typically paired with wine?",
+      "choices": [
+        "Tapa",
+        "Tapas",
+        "Bocadillo",
+        "Empanada"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French cooking technique involves cooking food slowly in its own fat or oil at a low temperature?",
+      "choices": [
+        "Confit",
+        "Braise",
+        "Poach",
+        "Sauté"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary base ingredient in a traditional Spanish gazpacho?",
+      "choices": [
+        "Cucumber",
+        "Tomato",
+        "Beet",
+        "Squash"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Saffron, the world's most expensive spice by weight, comes from which part of a crocus flower?",
+      "choices": [
+        "Petal",
+        "Stigma",
+        "Stamen",
+        "Sepal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In baking, what does the term 'mise en place' mean?",
+      "choices": [
+        "Resting the dough",
+        "Having all ingredients prepared and measured beforehand",
+        "Folding ingredients gently",
+        "Allowing dough to rise"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian pasta shape's name literally translates to 'little tubes'?",
+      "choices": [
+        "Rigatoni",
+        "Penne",
+        "Ziti",
+        "Cannelloni"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary emulsifying ingredient in a traditional hollandaise sauce?",
+      "choices": [
+        "Cream",
+        "Egg yolk",
+        "Mustard",
+        "Cornstarch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Wasabi, commonly served with sushi, is the grated root of a plant from which region?",
+      "choices": [
+        "East Asia",
+        "India",
+        "Middle East",
+        "Southeast Asia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cut of beef comes from the shoulder area and is ideal for slow-cooking stews?",
+      "choices": [
+        "Ribeye",
+        "Chuck",
+        "Tenderloin",
+        "Sirloin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cooking method where food is cooked by surrounding it with steam?",
+      "choices": [
+        "Braising",
+        "Steaming",
+        "Poaching",
+        "Stewing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In French cuisine, what is a 'brunoise' cut of vegetables?",
+      "choices": [
+        "Thin slices",
+        "Very small uniform cubes",
+        "Long thin sticks",
+        "Rough chunks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Southeast Asian ingredient is a fermented shrimp paste commonly used in Thai and Vietnamese cooking?",
+      "choices": [
+        "Fish sauce",
+        "Shrimp paste",
+        "Soy sauce",
+        "Oyster sauce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of sugar is used to make rock candy?",
+      "choices": [
+        "Granulated sugar",
+        "Brown sugar",
+        "Superfine sugar",
+        "Muscovado sugar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which herb, commonly used in Italian cooking, has purple-tinged leaves and is a member of the mint family?",
+      "choices": [
+        "Oregano",
+        "Basil",
+        "Thyme",
+        "Marjoram"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In pastry-making, what does the term 'tempering' refer to when working with chocolate?",
+      "choices": [
+        "Heating it slowly",
+        "Cooling and reheating it to specific temperatures for a glossy finish",
+        "Mixing it with butter",
+        "Whipping it with air"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cooking method involves submerging food in hot oil at a high temperature?",
+      "choices": [
+        "Poaching",
+        "Sautéing",
+        "Deep frying",
+        "Braising"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary grain used to make traditional couscous?",
+      "choices": [
+        "Barley",
+        "Durum wheat semolina",
+        "Farro",
+        "Millet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In baking, what does 'creaming' butter and sugar accomplish?",
+      "choices": [
+        "Separates the fat from water",
+        "Incorporates air and creates a light texture",
+        "Melts the butter",
+        "Prevents the dough from rising"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which white Italian cheese is traditionally made from water buffalo's milk?",
+      "choices": [
+        "Ricotta",
+        "Mozzarella di Bufala",
+        "Mascarpone",
+        "Provolone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Japanese cooking technique where ingredients are grilled over an open flame at the table?",
+      "choices": [
+        "Yakitori",
+        "Teppanyaki",
+        "Yakiniku",
+        "Okonomiyaki"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spice comes from the bark of a cinnamon tree and is used in both sweet and savory dishes?",
+      "choices": [
+        "Nutmeg",
+        "Cinnamon",
+        "Clove",
+        "Allspice"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In French cuisine, what is the name of the mother sauce made from a roux and chicken or veal stock?",
+      "choices": [
+        "Béchamel",
+        "Velouté",
+        "Hollandaise",
+        "Espagnole"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

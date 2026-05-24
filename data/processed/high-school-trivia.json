@@ -1,188 +1,406 @@
 {
   "slug": "high-school-trivia",
-  "name": "High School General Knowledge",
-  "description": "The greatest hits of high-school curriculum: history, lit, science, and math.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "name": "High School",
+  "processedAt": "2026-05-24T20:43:43.570Z",
   "questions": [
     {
-      "q": "Who was U.S. President during World War I (1914-1918)?",
-      "choices": ["Theodore Roosevelt", "Woodrow Wilson", "Warren Harding", "Calvin Coolidge"],
-      "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Woodrow Wilson",
-        "verified": true,
-        "notes": "Wilson served 1913-1921; brought the U.S. into the war in April 1917."
-      }
-    },
-    {
-      "q": "Whose 1914 assassination triggered the chain of events leading to WWI?",
+      "q": "In which year did the Berlin Wall fall?",
       "choices": [
-        "Kaiser Wilhelm II",
-        "Archduke Franz Ferdinand",
-        "Czar Nicholas II",
-        "Tsar Alexander II"
+        "1987",
+        "1989",
+        "1991",
+        "1985"
       ],
       "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The assassination of Archduke Franz Ferdinand",
-        "verified": true,
-        "notes": "Killed June 28, 1914 in Sarajevo by Gavrilo Princip."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which event ended World War II in 1945?",
+      "q": "Which Disney movie features a character named Simba?",
       "choices": [
-        "Japan's surrender (V-J Day)",
-        "Germany's surrender",
-        "Hitler's death",
-        "The Battle of Okinawa"
+        "The Jungle Book",
+        "The Lion King",
+        "Aladdin",
+        "Beauty and the Beast"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Declaration of Independence get signed?",
+      "choices": [
+        "1774",
+        "1776",
+        "1778",
+        "1780"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the average of the numbers 5, 10, and 15?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is known as the Land of Kangaroos?",
+      "choices": [
+        "New Zealand",
+        "Australia",
+        "Papua New Guinea",
+        "Fiji"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main gas that makes up Earth's atmosphere?",
+      "choices": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the volume of a cube with sides of length 4 units?",
+      "choices": [
+        "16 cubic units",
+        "64 cubic units",
+        "256 cubic units",
+        "4 cubic units"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President led the nation during World War I?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Woodrow Wilson",
+        "William Howard Taft"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the standard form of a quadratic equation?",
+      "choices": [
+        "a + bx + c = 0",
+        "ax² + bx + c = 0",
+        "ax + b² + c = 0",
+        "a²x + b + c = 0"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the formula for the circumference of a circle with radius r?",
+      "choices": [
+        "πr²",
+        "2πr",
+        "πr",
+        "πd²"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fantasy novel series features owls delivering letters to the main character?",
+      "choices": [
+        "Percy Jackson",
+        "The Chronicles of Narnia",
+        "Harry Potter",
+        "A Darker Shade of Magic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the title of the first Harry Potter book in its original British release?",
+      "choices": [
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Sorcerer's Stone",
+        "Harry Potter and the Magical Stone",
+        "Harry Potter and the Secret Chamber"
       ],
       "correct": 0,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The surrender of Japan in 1945",
-        "verified": true,
-        "notes": "Germany surrendered May 8, 1945 (V-E); Japan surrendered Sept 2, 1945."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who was U.S. President during the Cuban Missile Crisis in 1962?",
+      "q": "What is the area of a rectangle with dimensions 5 by 3?",
       "choices": [
-        "Dwight Eisenhower",
+        "8 square units",
+        "15 square units",
+        "16 square units",
+        "25 square units"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is known as the 'Father of the U.S. Constitution'?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "James Madison",
+        "Benjamin Franklin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these is the world's largest island?",
+      "choices": [
+        "Iceland",
+        "Great Britain",
+        "Greenland",
+        "Madagascar"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The assassination of which Archduke triggered the start of World War I?",
+      "choices": [
+        "Archduke Ludwig",
+        "Archduke Franz Ferdinand",
+        "Archduke Rudolf",
+        "Archduke Otto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which part of the human body contains the most bones?",
+      "choices": [
+        "Spine",
+        "Legs",
+        "Hands",
+        "Feet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a prime number?",
+      "choices": [
+        "A number divisible by 2",
+        "A whole number greater than 1 with no positive divisors other than 1 and itself",
+        "A number that ends in 1",
+        "A number divisible by 10"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the probability of flipping a fair coin and getting heads?",
+      "choices": [
+        "1/4",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President is depicted on the one-dollar bill?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "Alexander Hamilton"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Shakespeare play features the tragic lovers Romeo and Juliet?",
+      "choices": [
+        "Hamlet",
+        "Macbeth",
+        "Romeo and Juliet",
+        "A Midsummer Night's Dream"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Christopher Columbus sail to the Americas?",
+      "choices": [
+        "1490",
+        "1492",
+        "1495",
+        "1500"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has the most populous city in the world by metro area?",
+      "choices": [
+        "China",
+        "Japan",
+        "India",
+        "Indonesia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney film features the song 'Let It Go'?",
+      "choices": [
+        "Tangled",
+        "Moana",
+        "Frozen",
+        "The Little Mermaid"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President led the country during World War I?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "Warren G. Harding",
+        "William McKinley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President faced the Cuban Missile Crisis in 1962?",
+      "choices": [
+        "Dwight D. Eisenhower",
         "John F. Kennedy",
         "Lyndon B. Johnson",
         "Richard Nixon"
       ],
       "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "John F. Kennedy",
-        "verified": true,
-        "notes": "October 16-28, 1962."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Founding Father is known as 'Father of the Constitution'?",
+      "q": "Which NBA team is most associated with Michael Jordan's championship era?",
       "choices": [
-        "Thomas Jefferson",
-        "George Washington",
-        "James Madison",
-        "Benjamin Franklin"
+        "Los Angeles Lakers",
+        "Boston Celtics",
+        "Chicago Bulls",
+        "Miami Heat"
       ],
       "correct": 2,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "James Madison",
-        "verified": true,
-        "notes": "Madison drafted much of the Constitution and the Bill of Rights."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which is the largest planet in our solar system?",
-      "choices": ["Saturn", "Neptune", "Jupiter", "Earth"],
-      "correct": 2,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Jupiter",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which is the closest planet to the Sun?",
-      "choices": ["Mercury", "Venus", "Earth", "Mars"],
-      "correct": 0,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Mercury",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many bones are in an adult human body?",
-      "choices": ["106", "186", "206", "306"],
-      "correct": 2,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "206",
-        "verified": true,
-        "notes": "Babies are born with ~270 bones; many fuse during growth."
-      }
-    },
-    {
-      "q": "What is the chemical symbol for gold?",
-      "choices": ["Go", "Gd", "Au", "Ag"],
-      "correct": 2,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Au",
-        "verified": true,
-        "notes": "From Latin 'aurum.' Ag = silver."
-      }
-    },
-    {
-      "q": "Which gas is most abundant in Earth's atmosphere (~78%)?",
-      "choices": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
-      "correct": 2,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Nitrogen",
-        "verified": true,
-        "notes": "Oxygen is ~21%; argon is ~1%."
-      }
-    },
-    {
-      "q": "What is the chemical formula for table salt?",
-      "choices": ["NaCl", "KCl", "CaCO3", "H2SO4"],
-      "correct": 0,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "NaCl",
-        "verified": true,
-        "notes": "Sodium chloride."
-      }
-    },
-    {
-      "q": "Which Shakespeare play features the line 'To be, or not to be'?",
-      "choices": ["Macbeth", "Hamlet", "Romeo and Juliet", "Othello"],
+      "q": "An acute angle measures less than how many degrees?",
+      "choices": [
+        "45 degrees",
+        "90 degrees",
+        "180 degrees",
+        "360 degrees"
+      ],
       "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Hamlet",
-        "verified": true,
-        "notes": "Act III, Scene I."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote 'To Kill a Mockingbird,' the 1960 novel about Scout, Jem, and Atticus Finch?",
-      "choices": ["Harper Lee", "Mark Twain", "F. Scott Fitzgerald", "Truman Capote"],
+      "q": "What is 15% of 200?",
+      "choices": [
+        "20",
+        "30",
+        "45",
+        "60"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is the capital of California?",
+      "choices": [
+        "Los Angeles",
+        "San Francisco",
+        "Sacramento",
+        "San Diego"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does H₂O represent?",
+      "choices": [
+        "Hydrogen peroxide",
+        "Water",
+        "Hydrogen oxide",
+        "Helium oxide"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is home to Big Ben and double-decker buses?",
+      "choices": [
+        "France",
+        "Germany",
+        "United Kingdom",
+        "Canada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is known for being the fastest land runner on Earth?",
+      "choices": [
+        "Gazelle",
+        "Greyhound",
+        "Cheetah",
+        "Pronghorn antelope"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the novel 'The Catcher in the Rye,' what is the name of the teenage protagonist who narrates the story?",
+      "choices": [
+        "Holden Caulfield",
+        "Phineas Forester",
+        "Salinger Marks",
+        "David Copperfield"
+      ],
       "correct": 0,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Harper Lee",
-        "verified": true,
-        "notes": "Won the Pulitzer Prize in 1961."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote 'The Great Gatsby'?",
+      "q": "Which author wrote the 'Harry Potter' series, introducing the wizarding world to millions of readers worldwide?",
+      "choices": [
+        "Stephen King",
+        "J.K. Rowling",
+        "George R.R. Martin",
+        "Suzanne Collins"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In chemistry, what is the formal name for the compound commonly known as quicklime?",
+      "choices": [
+        "Calcium oxide",
+        "Sodium hydroxide",
+        "Magnesium carbonate",
+        "Potassium chloride"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American author wrote 'The Great Gatsby,' originally titled 'Trimalchio in West Egg'?",
       "choices": [
         "Ernest Hemingway",
         "F. Scott Fitzgerald",
@@ -190,95 +408,1272 @@
         "William Faulkner"
       ],
       "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "F. Scott Fitzgerald",
-        "verified": true,
-        "notes": "1925, Jazz Age tragedy."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Who wrote the 'Lord of the Rings' trilogy?",
+      "q": "What is the only planet in our solar system that rotates clockwise when viewed from above the North Pole?",
       "choices": [
-        "J.R.R. Tolkien",
-        "C.S. Lewis",
-        "George R.R. Martin",
-        "Stephen King"
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Uranus"
       ],
-      "correct": 0,
-      "category": "High School General Knowledge",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "J.R.R. Tolkien",
-        "verified": true,
-        "notes": "Published 1954-1955."
-      }
-    },
-    {
-      "q": "Who is the rebellious teenage protagonist of 'The Catcher in the Rye'?",
-      "choices": [
-        "Holden Caulfield",
-        "Jay Gatsby",
-        "Atticus Finch",
-        "Huck Finn"
-      ],
-      "correct": 0,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Holden Caulfield",
-        "verified": true,
-        "notes": "1951 novel by J.D. Salinger."
-      }
-    },
-    {
-      "q": "What is the smallest prime number?",
-      "choices": ["1", "2", "3", "0"],
       "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "2",
-        "verified": true,
-        "notes": "Also the only even prime."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What do the interior angles of any quadrilateral sum to?",
-      "choices": ["180°", "270°", "360°", "540°"],
+      "q": "In European history, the Peace of Westphalia in 1648 primarily ended which conflict?",
+      "choices": [
+        "The Hundred Years' War",
+        "The Thirty Years' War",
+        "The War of Spanish Succession",
+        "The English Civil War"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mathematical concept describes a sequence where each term after the first is found by multiplying the previous term by a fixed constant?",
+      "choices": [
+        "Arithmetic sequence",
+        "Geometric sequence",
+        "Fibonacci sequence",
+        "Harmonic sequence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary function of the corpus callosum in the human brain?",
+      "choices": [
+        "Regulating heart rate",
+        "Facilitating communication between brain hemispheres",
+        "Producing cerebrospinal fluid",
+        "Controlling sleep cycles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian composer wrote the ballet 'The Rite of Spring,' which famously caused a riot at its 1913 premiere?",
+      "choices": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Sergei Rachmaninoff",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In physics, what term describes the minimum energy required to remove an electron from an atom in its ground state?",
+      "choices": [
+        "Kinetic energy",
+        "Ionization energy",
+        "Binding energy",
+        "Activation energy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British author wrote the epistolary novel 'Dracula,' published in 1897?",
+      "choices": [
+        "Thomas Hardy",
+        "Bram Stoker",
+        "H.G. Wells",
+        "Robert Louis Stevenson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical symbol for the element with atomic number 74?",
+      "choices": [
+        "Ta",
+        "Re",
+        "W",
+        "Os"
+      ],
       "correct": 2,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "360 degrees",
-        "verified": true,
-        "notes": "Triangle: 180°; Pentagon: 540°."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What is the area of a triangle with base 10 and height 5?",
-      "choices": ["20", "25", "50", "100"],
+      "q": "Which French Revolution-era event marked the storming of a royal residence on October 5-6, 1789?",
+      "choices": [
+        "The storming of the Bastille",
+        "The march on Versailles",
+        "The Tennis Court Oath",
+        "The Reign of Terror"
+      ],
       "correct": 1,
-      "category": "High School General Knowledge",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "25",
-        "verified": true,
-        "notes": "Area = ½ × base × height = ½ × 10 × 5 = 25."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What is the value of 7! (7 factorial)?",
-      "choices": ["49", "120", "720", "5040"],
+      "q": "In geometry, what is the sum of interior angles in a regular polygon with 12 sides?",
+      "choices": [
+        "1800 degrees",
+        "1440 degrees",
+        "2160 degrees",
+        "1620 degrees"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which organ in the human body is responsible for filtering blood and producing urine?",
+      "choices": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Spleen"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the philosophical position that denies the existence of objective truth?",
+      "choices": [
+        "Relativism",
+        "Solipsism",
+        "Nominalism",
+        "Determinism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American president was impeached twice during their single term in office?",
+      "choices": [
+        "Richard Nixon",
+        "Andrew Johnson",
+        "Donald Trump",
+        "Bill Clinton"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In organic chemistry, what functional group contains a carbon-nitrogen triple bond?",
+      "choices": [
+        "Amine",
+        "Amide",
+        "Nitrile",
+        "Nitro"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which modernist poet wrote 'The Waste Land,' published in 1922?",
+      "choices": [
+        "Ezra Pound",
+        "T.S. Eliot",
+        "William Carlos Williams",
+        "E.E. Cummings"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the astronomical term for the point in an orbit closest to the Sun?",
+      "choices": [
+        "Aphelion",
+        "Perihelion",
+        "Perigee",
+        "Apogee"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which theorem states that the square of the hypotenuse equals the sum of squares of the other two sides in a right triangle?",
+      "choices": [
+        "Fermat's Last Theorem",
+        "Pythagorean Theorem",
+        "Thales' Theorem",
+        "Stewart's Theorem"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval European history, what was the feudal arrangement called whereby vassals pledged allegiance to a lord in exchange for protection?",
+      "choices": [
+        "Manorialism",
+        "Feudalism",
+        "Serfdom",
+        "Primogeniture"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'To Kill a Mockingbird,' what is the name of the reclusive neighbor who ultimately saves Scout and Jem from Bob Ewell's attack?",
+      "choices": [
+        "Boo Radley",
+        "Mayella Ewell",
+        "Calpurnia",
+        "Miss Maudie Atkinson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NBA team did Michael Jordan lead to six championship titles across two three-peat dynasties?",
+      "choices": [
+        "Los Angeles Lakers",
+        "Chicago Bulls",
+        "Boston Celtics",
+        "Miami Heat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Harry Potter book series, what is the name of the potion that allows a person to assume the physical form of another?",
+      "choices": [
+        "Veritaserum",
+        "Felix Felicis",
+        "Polyjuice Potion",
+        "Amortentia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the area of a triangle with a base of 14 units and a height of 8 units?",
+      "choices": [
+        "56 square units",
+        "112 square units",
+        "44 square units",
+        "28 square units"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek epic poem, attributed to Homer, chronicles the ten-year journey of Odysseus returning home from the Trojan War?",
+      "choices": [
+        "The Iliad",
+        "The Odyssey",
+        "The Aeneid",
+        "Beowulf"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the RMS Titanic sink after striking an iceberg in the North Atlantic?",
+      "choices": [
+        "1910",
+        "1912",
+        "1915",
+        "1908"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical symbol for the element with atomic number 79, historically prized as a precious metal?",
+      "choices": [
+        "Gd",
+        "Au",
+        "Ag",
+        "Pt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President was assassinated by John Wilkes Booth at Ford's Theatre in 1865?",
+      "choices": [
+        "Andrew Johnson",
+        "James A. Garfield",
+        "Abraham Lincoln",
+        "William McKinley"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mathematics, what is the sum of all interior angles in a pentagon?",
+      "choices": [
+        "540 degrees",
+        "720 degrees",
+        "360 degrees",
+        "900 degrees"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary source of energy that drives photosynthesis in plants?",
+      "choices": [
+        "Water from the soil",
+        "Carbon dioxide from the air",
+        "Sunlight",
+        "Nitrogen from the atmosphere"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Great Gatsby,' what color is the light at the end of Daisy's dock that Gatsby stares at longingly?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country was divided into East and West zones following World War II until reunification in 1990?",
+      "choices": [
+        "Poland",
+        "Austria",
+        "Germany",
+        "Czechoslovakia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the quadratic formula used to solve equations of the form ax² + bx + c = 0?",
+      "choices": [
+        "x = -b ± √(b² - 4ac) / 2a",
+        "x = b ± √(b² + 4ac) / 2a",
+        "x = -b ± √(4ac - b²) / a",
+        "x = b / 2a ± √c"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which gas comprises approximately 78% of Earth's atmosphere by volume?",
+      "choices": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Pride and Prejudice,' what is the first name of Mr. Darcy, the male protagonist?",
+      "choices": [
+        "Edward",
+        "William",
+        "Charles",
+        "Fitzwilliam"
+      ],
       "correct": 3,
-      "category": "High School General Knowledge",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "5040",
-        "verified": true,
-        "notes": "7×6×5×4×3×2×1 = 5040."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the mathematical constant represented by the Greek letter π (pi) rounded to four decimal places?",
+      "choices": [
+        "2.7182",
+        "1.4142",
+        "3.1416",
+        "2.2361"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'Wuthering Heights' under the pseudonym 'Ellis Bell' during the Victorian era?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "George Eliot"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the periodic table, which element has the highest atomic number that occurs naturally?",
+      "choices": [
+        "Radon",
+        "Francium",
+        "Uranium",
+        "Plutonium"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the device used to measure atmospheric pressure, invented by Evangelista Torricelli in 1643?",
+      "choices": [
+        "Thermometer",
+        "Barometer",
+        "Anemometer",
+        "Hygrometer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the novel 'To Kill a Mockingbird,' what is the real first name of the character known as 'Scout'?",
+      "choices": [
+        "Jean Louise",
+        "Jeanne",
+        "Judith",
+        "Joyce"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which element has the highest melting point of all metals?",
+      "choices": [
+        "Tungsten",
+        "Platinum",
+        "Titanium",
+        "Chromium"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In calculus, what is the derivative of e^x with respect to x?",
+      "choices": [
+        "e^x",
+        "x·e^(x-1)",
+        "e^(x-1)",
+        "1/e^x"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President's administration faced the Iran-Contra scandal?",
+      "choices": [
+        "Ronald Reagan",
+        "George H. W. Bush",
+        "Richard Nixon",
+        "Gerald Ford"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In George Orwell's '1984,' what is the name of the totalitarian superstate that serves as the primary setting?",
+      "choices": [
+        "Oceania",
+        "Eurasia",
+        "Eastasia",
+        "Pangaea"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical formula for hydrochloric acid?",
+      "choices": [
+        "HCl",
+        "H₂Cl",
+        "HCl₂",
+        "H₃Cl"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of the Treaty of Versailles, which country was required to pay the largest reparations after World War I?",
+      "choices": [
+        "Germany",
+        "Austria-Hungary",
+        "Ottoman Empire",
+        "Bulgaria"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the vertex form of a quadratic equation?",
+      "choices": [
+        "y = a(x - h)² + k",
+        "y = ax² + bx + c",
+        "y = a(x - r₁)(x - r₂)",
+        "y = mx + b"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which novel by Jane Austen was first published under the author attribution 'A Lady'?",
+      "choices": [
+        "Sense and Sensibility",
+        "Pride and Prejudice",
+        "Emma",
+        "Persuasion"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the scientific name for the process by which plants convert light energy into chemical energy?",
+      "choices": [
+        "Photosynthesis",
+        "Chemosynthesis",
+        "Cellular respiration",
+        "Fermentation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Soviet leader initiated the policy of 'glasnost' in the 1980s?",
+      "choices": [
+        "Mikhail Gorbachev",
+        "Leonid Brezhnev",
+        "Nikita Khrushchev",
+        "Joseph Stalin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In organic chemistry, what functional group consists of a carbon atom double-bonded to an oxygen atom?",
+      "choices": [
+        "Carbonyl",
+        "Carboxyl",
+        "Hydroxyl",
+        "Ether"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Shakespearean tragedy features the character Iago as a primary antagonist?",
+      "choices": [
+        "Othello",
+        "Hamlet",
+        "Macbeth",
+        "King Lear"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the limiting reagent in a chemical reaction?",
+      "choices": [
+        "The reactant that is completely consumed and determines the amount of product formed",
+        "The reactant present in the largest quantity",
+        "The reactant that is least reactive",
+        "The product of the reaction"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which modernist poet wrote 'The Waste Land'?",
+      "choices": [
+        "T.S. Eliot",
+        "Ezra Pound",
+        "W.B. Yeats",
+        "Robert Frost"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the force that causes objects to accelerate toward the center of a circular path?",
+      "choices": [
+        "Centripetal force",
+        "Centrifugal force",
+        "Tangential force",
+        "Normal force"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Great Gatsby', what color is the light at the end of Daisy's dock that symbolizes Gatsby's yearning?",
+      "choices": [
+        "Green",
+        "Yellow",
+        "Blue",
+        "White"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which treaty formally ended World War I and imposed reparations on Germany?",
+      "choices": [
+        "Treaty of Versailles",
+        "Treaty of Brest-Litovsk",
+        "Treaty of Trianon",
+        "Treaty of Saint-Germain"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Shakespeare's 'Macbeth', what is the name of the Scottish general who becomes king through murder?",
+      "choices": [
+        "Banquo",
+        "Macduff",
+        "Macbeth",
+        "Malcolm"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical symbol for the element with atomic number 79?",
+      "choices": [
+        "Ag",
+        "Au",
+        "Al",
+        "As"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. Supreme Court case in 1954 declared 'separate but equal' education unconstitutional?",
+      "choices": [
+        "Marbury v. Madison",
+        "Brown v. Board of Education",
+        "Plessy v. Ferguson",
+        "Gideon v. Wainwright"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'To Kill a Mockingbird', what is the first name of Scout's father, the defense attorney?",
+      "choices": [
+        "Harper",
+        "Atticus",
+        "Jem",
+        "Jack"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Shakespearean play features the witches' prophecy that 'none of woman born shall harm Macbeth'?",
+      "choices": [
+        "Hamlet",
+        "Othello",
+        "Macbeth",
+        "King Lear"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the Berlin Wall fall, marking a symbolic end to the Cold War?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the human circulatory system, which chamber of the heart pumps oxygenated blood to the body?",
+      "choices": [
+        "Right atrium",
+        "Left atrium",
+        "Right ventricle",
+        "Left ventricle"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'The Catcher in the Rye', narrated by the troubled teenager Holden Caulfield?",
+      "choices": [
+        "Ernest Hemingway",
+        "J.D. Salinger",
+        "Kurt Vonnegut",
+        "Jack Kerouac"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'To Kill a Mockingbird,' what is the name of the town where the story takes place?",
+      "choices": [
+        "Maycomb",
+        "Monroeville",
+        "Mockingbird Falls",
+        "Finch County"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President's face appears on the penny?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Harry Potter series, what is the name of the magical bank in London?",
+      "choices": [
+        "Diagon Vault",
+        "Gringotts",
+        "Wizarding Reserve",
+        "Enchanted Bank"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In mathematics, what do you call two lines that never intersect and maintain equal distance?",
+      "choices": [
+        "Perpendicular lines",
+        "Parallel lines",
+        "Tangent lines",
+        "Intersecting lines"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ocean is the largest by surface area?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the solution to the equation 3x - 5 = 10?",
+      "choices": [
+        "x = 3",
+        "x = 5",
+        "x = 7",
+        "x = 15"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the average of 5, 10, 15, and 20?",
+      "choices": [
+        "12",
+        "12.5",
+        "13",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Moon landing occur?",
+      "choices": [
+        "1967",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary language spoken in Brazil?",
+      "choices": [
+        "Spanish",
+        "Portuguese",
+        "English",
+        "French"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the quadratic formula, what does the discriminant b² - 4ac determine about the equation's solutions?",
+      "choices": [
+        "The number and nature of real solutions",
+        "The sum of the solutions",
+        "The product of the solutions",
+        "The vertex of the parabola"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President signed the Declaration of Independence and later became the nation's third president?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical composition of rust that forms on iron exposed to oxygen and water?",
+      "choices": [
+        "Fe₂O₃",
+        "FeO",
+        "Fe₃O₄",
+        "FeCl₂"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European capital city is divided by the Danube River and was formed by merging three cities in 1873?",
+      "choices": [
+        "Vienna, Austria",
+        "Budapest, Hungary",
+        "Belgrade, Serbia",
+        "Bratislava, Slovakia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the solar system, which planet has the most visible rings composed primarily of ice and rock?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author created the dystopian novel '1984' featuring the totalitarian state of Oceania?",
+      "choices": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Margaret Atwood"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In U.S. history, the assassination of which political figure in 1865 marked a pivotal moment in Reconstruction?",
+      "choices": [
+        "Andrew Johnson",
+        "William McKinley",
+        "Abraham Lincoln",
+        "James Garfield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the invisible line that divides the Earth into the Northern and Southern Hemispheres?",
+      "choices": [
+        "Prime Meridian",
+        "International Date Line",
+        "Equator",
+        "Tropic of Cancer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mathematical constant, approximately 3.14159, represents the ratio of a circle's circumference to its diameter?",
+      "choices": [
+        "Phi (φ)",
+        "Pi (π)",
+        "Euler's number (e)",
+        "Golden ratio (Φ)"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the American Civil War, which general commanded the Confederate Army of Northern Virginia?",
+      "choices": [
+        "Jefferson Davis",
+        "Robert E. Lee",
+        "Braxton Bragg",
+        "Joseph Johnston"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for a triangle with all three sides of equal length?",
+      "choices": [
+        "Isosceles triangle",
+        "Right triangle",
+        "Equilateral triangle",
+        "Scalene triangle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country is home to both the Alps and the Danube River?",
+      "choices": [
+        "Germany",
+        "Austria",
+        "Slovakia",
+        "Switzerland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In cell biology, which organelle is responsible for producing energy in the form of ATP?",
+      "choices": [
+        "Ribosome",
+        "Mitochondrion",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What historical event in 1969 marked humanity's first successful moon landing?",
+      "choices": [
+        "Gemini 8 mission",
+        "Apollo 11 mission",
+        "Skylab launch",
+        "Apollo 13 mission"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'Pride and Prejudice', a novel centered on the Bennet family in Regency-era England?",
+      "choices": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Emily Dickinson",
+        "George Eliot"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In chemistry, what is the name of the scale used to measure how acidic or basic a substance is?",
+      "choices": [
+        "Molarity scale",
+        "Electronegativity scale",
+        "pH scale",
+        "Density scale"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President declared war on poverty and implemented the Great Society programs during the 1960s?",
+      "choices": [
+        "Harry Truman",
+        "Dwight Eisenhower",
+        "Lyndon B. Johnson",
+        "Richard Nixon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the rate at which velocity changes over time in physics?",
+      "choices": [
+        "Velocity",
+        "Acceleration",
+        "Momentum",
+        "Force"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In geometry, what is the sum of all interior angles in a hexagon?",
+      "choices": [
+        "540 degrees",
+        "720 degrees",
+        "900 degrees",
+        "1080 degrees"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Shakespeare's 'Hamlet,' what is the name of Hamlet's father, the murdered king?",
+      "choices": [
+        "Claudius",
+        "Fortinbras",
+        "Ghost",
+        "Gertrude"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical symbol for the element commonly used in car batteries?",
+      "choices": [
+        "Pb",
+        "Zn",
+        "Cd",
+        "Li"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In geometry, what is the sum of interior angles in a pentagon?",
+      "choices": [
+        "540 degrees",
+        "720 degrees",
+        "900 degrees",
+        "360 degrees"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which novel by George Orwell features the character Big Brother?",
+      "choices": [
+        "Animal Farm",
+        "1984",
+        "Burmese Days",
+        "Keep the Aspidistra Flying"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the supercontinent that existed approximately 300 million years ago?",
+      "choices": [
+        "Laurasia",
+        "Gondwana",
+        "Pangaea",
+        "Panthalassa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which amendment to the U.S. Constitution abolished slavery?",
+      "choices": [
+        "Thirteenth Amendment",
+        "Fourteenth Amendment",
+        "Fifteenth Amendment",
+        "Tenth Amendment"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym 'pH' stand for in chemistry?",
+      "choices": [
+        "Power of Hydrogen",
+        "Potential of Hydrogen",
+        "Pressure of Hydrogen",
+        "Proportion Hydrogen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of mitochondria in a cell?",
+      "choices": [
+        "Protein synthesis",
+        "Energy production",
+        "DNA storage",
+        "Photosynthesis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which historical event is marked as the beginning of World War II in Europe?",
+      "choices": [
+        "The invasion of Poland in 1939",
+        "The Munich Agreement in 1938",
+        "The remilitarization of the Rhineland in 1936",
+        "The annexation of Austria in 1938"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which greenhouse gas is produced by the decomposition of organic matter in wetlands?",
+      "choices": [
+        "Carbon dioxide",
+        "Methane",
+        "Nitrous oxide",
+        "Sulfur dioxide"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the novel 'Pride and Prejudice,' what is Mr. Darcy's first name?",
+      "choices": [
+        "Edward",
+        "William",
+        "Fitzwilliam",
+        "Charles"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of Napoleon's military campaigns resulted in his first major defeat?",
+      "choices": [
+        "The Italian Campaign",
+        "The Russian Campaign",
+        "The Egyptian Campaign",
+        "The Peninsular War"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym 'DNA' stand for?",
+      "choices": [
+        "Deoxyribonucleic Acid",
+        "Diribonucleic Acid",
+        "Deoxyribose Nucleotide Acid",
+        "Dynamic Nuclear Acid"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the solution to the equation 2x + 5 = 17?",
+      "choices": [
+        "x = 6",
+        "x = 12",
+        "x = 11",
+        "x = 22"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which novel by Jane Austen features the character Emma Woodhouse?",
+      "choices": [
+        "Sense and Sensibility",
+        "Emma",
+        "Persuasion",
+        "Mansfield Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the layer of Earth's atmosphere closest to the surface?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Hamlet,' which two minor characters are sent to spy on the prince but ultimately meet their own demise?",
+      "choices": [
+        "Fortinbras and Laertes",
+        "Rosencrantz and Guildenstern",
+        "Horatio and Marcellus",
+        "Polonius and Ophelia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. president was in office during the majority of the Vietnam War?",
+      "choices": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Harry Truman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Fibonacci sequence, what is the next number after 5 and 8?",
+      "choices": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient civilization constructed the Great Pyramids of Giza?",
+      "choices": [
+        "Mesopotamians",
+        "Ancient Egyptians",
+        "Phoenicians",
+        "Nubians"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which four nations make up the United Kingdom?",
+      "choices": [
+        "England, Scotland, Ireland, and Wales",
+        "England, Scotland, Wales, and Northern Ireland",
+        "England, Ireland, Wales, and Cornwall",
+        "England, Scotland, Northern Ireland, and the Isle of Man"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the immediate trigger for the outbreak of World War I in 1914?",
+      "choices": [
+        "The sinking of the Lusitania",
+        "The assassination of Archduke Franz Ferdinand",
+        "Germany's invasion of Belgium",
+        "The formation of the Triple Alliance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did President John F. Kennedy handle the Cuban Missile Crisis?",
+      "choices": [
+        "1960",
+        "1961",
+        "1962",
+        "1963"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

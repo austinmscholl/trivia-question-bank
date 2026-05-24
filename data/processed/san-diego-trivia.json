@@ -1,65 +1,1536 @@
 {
   "slug": "san-diego-trivia",
   "name": "San Diego",
-  "description": "San Diego, California — history, geography, culture, and a tuna-fishing legacy.",
-  "processedAt": "2026-04-19T08:10:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.704Z",
   "questions": [
     {
       "q": "San Diego is the second-most populous city in which U.S. state?",
-      "choices": ["Arizona", "California", "Texas", "Oregon"],
+      "choices": [
+        "Arizona",
+        "California",
+        "Texas",
+        "Oregon"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "California", "verified": true, "notes": "After Los Angeles." }
+      "difficulty": "easy"
     },
     {
       "q": "San Diego sits just north of which major Mexican city across the U.S. border?",
-      "choices": ["Ensenada", "Mexicali", "Tijuana", "Rosarito"],
+      "choices": [
+        "Ensenada",
+        "Mexicali",
+        "Tijuana",
+        "Rosarito"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "San Diego", "verified": true, "notes": "San Ysidro Port of Entry connects the two." }
+      "difficulty": "easy"
     },
     {
       "q": "Which world-famous zoo calls Balboa Park in San Diego its home?",
-      "choices": ["Bronx Zoo", "San Diego Zoo", "Lincoln Park Zoo", "Brookfield Zoo"],
+      "choices": [
+        "Bronx Zoo",
+        "San Diego Zoo",
+        "Lincoln Park Zoo",
+        "Brookfield Zoo"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "The San Diego Zoo", "verified": true, "notes": "Grew out of the 1915 Panama-California Exposition." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Navy-centered body of water sits at the heart of the city?",
-      "choices": ["Mission Bay", "Puget Sound", "San Diego Bay", "La Jolla Cove"],
+      "choices": [
+        "Mission Bay",
+        "Puget Sound",
+        "San Diego Bay",
+        "La Jolla Cove"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "San Diego Bay", "verified": true, "notes": "Major U.S. Navy installation." }
+      "difficulty": "easy"
     },
     {
       "q": "Which NFL team called San Diego home before relocating to Los Angeles in 2017?",
-      "choices": ["Rams", "Raiders", "49ers", "Chargers"],
+      "choices": [
+        "Rams",
+        "Raiders",
+        "49ers",
+        "Chargers"
+      ],
       "correct": 3,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "San Diego", "verified": true, "notes": "Founded 1960 as the Los Angeles Chargers; San Diego 1961-2016." }
+      "difficulty": "easy"
     },
     {
       "q": "Which public research university in San Diego is part of the University of California system?",
-      "choices": ["San Diego State University", "UC Santa Cruz", "UC San Diego", "University of San Diego"],
+      "choices": [
+        "San Diego State University",
+        "UC Santa Cruz",
+        "UC San Diego",
+        "University of San Diego"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "UC San Diego", "verified": true, "notes": "Founded 1960 in La Jolla." }
+      "difficulty": "easy"
     },
     {
       "q": "Which MLB team plays its home games at Petco Park in downtown San Diego?",
-      "choices": ["Dodgers", "Giants", "Padres", "Athletics"],
+      "choices": [
+        "Dodgers",
+        "Giants",
+        "Padres",
+        "Athletics"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "easy",
-      "source": { "original_a": "The San Diego Zoo", "verified": true, "notes": "San Diego Padres, NL West." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Treaty of Guadalupe Hidalgo formally transfer San Diego from Mexico to the United States?",
+      "choices": [
+        "1846",
+        "1848",
+        "1850",
+        "1852"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish explorer is credited with first claiming San Diego Bay for Spain in 1542?",
+      "choices": [
+        "Hernán Cortés",
+        "Juan Rodríguez Cabrillo",
+        "Gaspar de Portolá",
+        "Francisco Vázquez de Coronado"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Mission San Diego de Alcalá established?",
+      "choices": [
+        "1769",
+        "1775",
+        "1782",
+        "1797"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What rank does San Diego hold among the most populous cities in the United States?",
+      "choices": [
+        "Fifth",
+        "Sixth",
+        "Seventh",
+        "Eighth"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "San Diego is the second-largest city in which U.S. state?",
+      "choices": [
+        "Texas",
+        "Arizona",
+        "California",
+        "Nevada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which San Diego neighborhood was built up by Italian immigrant fishermen working in the tuna canning industry?",
+      "choices": [
+        "Little Italy",
+        "North Park",
+        "Ocean Beach",
+        "Mission Hills"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many members serve on the San Diego City Council?",
+      "choices": [
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the large downtown venue built to attract conventions and major events to San Diego?",
+      "choices": [
+        "San Diego Exhibition Hall",
+        "San Diego Convention Center",
+        "Civic Center Complex",
+        "Downtown Events Plaza"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major cultural park in San Diego was originally built for the Panama–California Exposition?",
+      "choices": [
+        "Balboa Park",
+        "Torrey Pines State Natural Reserve",
+        "Mission Bay Park",
+        "Kate Sessions Memorial Park"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which San Diego company built Charles Lindbergh's Spirit of St. Louis aircraft in 1927?",
+      "choices": [
+        "Douglas Aircraft",
+        "Ryan Airlines",
+        "Consolidated Aircraft",
+        "Rohr Aircraft"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What annual natural phenomenon off the San Diego coast draws visitors hoping to observe marine mammals migrating?",
+      "choices": [
+        "Dolphin breeding season",
+        "Gray whale migration",
+        "Sea lion gathering",
+        "Shark tracking season"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dense urban neighborhood lies directly northeast of Balboa Park?",
+      "choices": [
+        "Hillcrest",
+        "North Park",
+        "University Heights",
+        "Normal Heights"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which San Diego museum is famous for housing the historic sailing ship Star of India?",
+      "choices": [
+        "San Diego History Center",
+        "USS Midway Museum",
+        "Maritime Museum of San Diego",
+        "Naval Heritage Museum"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of terrain and vegetation historically dominated much of the San Diego area before urban development?",
+      "choices": [
+        "Temperate rainforest and redwoods",
+        "Desert scrubland",
+        "Coastal sage scrub and chaparral",
+        "Wetlands and marshes"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Petco Park open, marking a major downtown San Diego redevelopment milestone?",
+      "choices": [
+        "2000",
+        "2002",
+        "2004",
+        "2006"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which county is San Diego the seat of?",
+      "choices": [
+        "Orange County",
+        "Riverside County",
+        "San Diego County",
+        "Kern County"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which historic San Diego neighborhood served as the location of the original Kumeyaay village of Kosa'aay?",
+      "choices": [
+        "Old Town",
+        "Little Italy",
+        "Gaslamp Quarter",
+        "Ocean Beach"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major category of industries is most important to San Diego's modern economy?",
+      "choices": [
+        "Agriculture and mining",
+        "Military, defense, tourism, and trade",
+        "Oil and gas production",
+        "Entertainment and gambling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which historic San Diego district underwent major revival and redevelopment during the 1980s?",
+      "choices": [
+        "Old Town",
+        "Mission Hills",
+        "Gaslamp Quarter",
+        "Balboa Park"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did San Diego become incorporated as a pueblo?",
+      "choices": [
+        "1821",
+        "1834",
+        "1846",
+        "1850"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was San Diego incorporated as a city under the United States?",
+      "choices": [
+        "1848",
+        "1850",
+        "1852",
+        "1855"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of San Diego's regional planning agency?",
+      "choices": [
+        "SCAG",
+        "SANDAG",
+        "SDPB",
+        "RCOG"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain is the highest point within the city of San Diego?",
+      "choices": [
+        "Black Mountain",
+        "Cowles Mountain",
+        "San Miguel Mountain",
+        "Soledad Mountain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What title is San Diego known by for being the first European landing site on the West Coast of the United States?",
+      "choices": [
+        "Gateway of the West",
+        "Birthplace of California",
+        "First American Port",
+        "Western Discovery Site"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major park in San Diego was built for the Panama–California and California Pacific Expositions?",
+      "choices": [
+        "Seaport Park",
+        "Balboa Park",
+        "Torrey Pines State Reserve",
+        "Mission Bay Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the demonym used for residents of San Diego?",
+      "choices": [
+        "San Diegan",
+        "San Diegoite",
+        "San Diegan Islander",
+        "Diegoan"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which industry earned San Diego the historical reputation of being the 'tuna capital of the world'?",
+      "choices": [
+        "Sardine fishing",
+        "Tuna fishing and canning",
+        "Whale hunting",
+        "Shellfish harvesting"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What form of mayoral governance did San Diego transition to in 2006?",
+      "choices": [
+        "Weak mayor system",
+        "City manager system",
+        "Strong mayor government",
+        "Council presidency"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did a Kumeyaay revolt force Mission San Diego de Alcalá to relocate up the San Diego River?",
+      "choices": [
+        "1765",
+        "1775",
+        "1785",
+        "1795"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which two mountain ranges rise to the east of San Diego?",
+      "choices": [
+        "Sierra Nevada and San Gabriel Mountains",
+        "Cuyamaca Mountains and Laguna Mountains",
+        "Peninsular Ranges and Transverse Ranges",
+        "Santa Rosa Mountains and San Jacinto Mountains"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate average annual rainfall along the coast of San Diego?",
+      "choices": [
+        "5 inches",
+        "10.65 inches",
+        "15 inches",
+        "20 inches"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which local museum is known for displaying historic ships, including the Star of India?",
+      "choices": [
+        "Fleet Science Center",
+        "Maritime Museum of San Diego",
+        "San Diego History Center",
+        "Naval Heritage Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the frequent coastal cloud cover that occurs during late spring and early summer in San Diego?",
+      "choices": [
+        "Coastal haze",
+        "June gloom",
+        "Marine layer fog",
+        "Summer mist"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which aircraft company, founded in 1925, built Charles Lindbergh's Spirit of St. Louis in 1927?",
+      "choices": [
+        "Douglas Aircraft",
+        "Ryan Airlines",
+        "Consolidated Aircraft",
+        "Rohr Aircraft"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What geographic feature is Point Loma known as in relation to San Diego?",
+      "choices": [
+        "A coastal island",
+        "A hilly peninsula west of downtown",
+        "A mountain ridge",
+        "A bay inlet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which canyon preserve north of Torrey Pines features canyons and freshwater streams?",
+      "choices": [
+        "Guy Fleming Canyon",
+        "Los Peñasquitos Canyon Preserve",
+        "Anza-Borrego Canyon",
+        "Hellhole Canyon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major wildfire event occurred in San Diego in October 2003, causing extensive home damage?",
+      "choices": [
+        "The Paradise Fire",
+        "The Cedar Fire",
+        "The Harris Fire",
+        "The Witch Fire"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of climate is commonly attributed to San Diego, featuring warm, dry summers and mild winters?",
+      "choices": [
+        "Tropical climate",
+        "Desert climate",
+        "Mediterranean climate",
+        "Temperate oceanic climate"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which annual event in San Diego highlights the city's prominence in the craft beer industry?",
+      "choices": [
+        "San Diego Wine Festival",
+        "San Diego Beer Week",
+        "Pacific Brewing Expo",
+        "West Coast Craft Fair"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name given to residents of San Diego?",
+      "choices": [
+        "San Diegan",
+        "San Diegan Islander",
+        "San Diegoer",
+        "Diegoan"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large urban cultural park in San Diego was originally the site of the 1915 Panama–California Exposition?",
+      "choices": [
+        "Balboa Park",
+        "Torrey Pines State Natural Reserve",
+        "Mission Trails Regional Park",
+        "Los Peñasquitos Canyon Preserve"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Mission San Diego de Alcalá founded?",
+      "choices": [
+        "1755",
+        "1769",
+        "1805",
+        "1848"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which world-class zoo originated from exhibits at the 1915 Panama–California Exposition in San Diego?",
+      "choices": [
+        "San Diego Zoo Safari Park",
+        "San Diego Zoo",
+        "SeaWorld San Diego",
+        "Legoland California"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the large bay that includes a major U.S. naval base and commercial port in San Diego?",
+      "choices": [
+        "Mission Bay",
+        "San Diego Bay",
+        "False Bay",
+        "Coronado Bay"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which San Diego neighborhood was historically shaped by Italian immigrant fishermen in the local tuna canning industry?",
+      "choices": [
+        "Little Mexico",
+        "Little Italy",
+        "Little Portugal",
+        "Little Spain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the highest point in the city of San Diego?",
+      "choices": [
+        "Mount Soledad",
+        "Cowles Mountain",
+        "Black Mountain",
+        "Pomerado Road Peak"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dense urban community in San Diego lies just northeast of Balboa Park?",
+      "choices": [
+        "North Park",
+        "University Heights",
+        "Hillcrest",
+        "South Park"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate annual rainfall along the coast of San Diego?",
+      "choices": [
+        "Around 5 inches",
+        "Around 10.65 inches",
+        "Around 20 inches",
+        "Around 35 inches"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the U.S. formally gain California, including San Diego, from Mexico?",
+      "choices": [
+        "1821",
+        "1835",
+        "1848",
+        "1852"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which museum features the USS Midway aircraft carrier as a floating exhibit on San Diego's waterfront?",
+      "choices": [
+        "USS Midway Museum",
+        "Naval Aircraft Museum",
+        "Fleet Science Center",
+        "Maritime Museum of San Diego"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "San Diego is the seat of which county?",
+      "choices": [
+        "Orange County",
+        "San Diego County",
+        "Riverside County",
+        "Los Angeles County"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major redevelopment event took place in San Diego in 2004 to further transform the downtown area?",
+      "choices": [
+        "The opening of the Convention Center",
+        "The opening of Petco Park",
+        "The renovation of Horton Plaza",
+        "The construction of the Bay Bridge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large convention venue was constructed downtown to boost tourism and events in San Diego?",
+      "choices": [
+        "Petco Park",
+        "San Diego Convention Center",
+        "Balboa Park Pavilion",
+        "Embarcadero Conference Hall"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate elevation of Cowles Mountain, the highest point in San Diego?",
+      "choices": [
+        "Around 1,000 feet",
+        "Around 1,591 feet",
+        "Around 2,200 feet",
+        "Around 3,000 feet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which regional planning agency serves the San Diego area?",
+      "choices": [
+        "SCAG",
+        "SANDAG",
+        "CAAG",
+        "SDPD"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which architectural style is prominent in Balboa Park's museum buildings?",
+      "choices": [
+        "Art Deco",
+        "Spanish/Baroque",
+        "Modernist",
+        "Gothic Revival"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname is San Diego commonly called due to its role as the first European landing site on the West Coast of the United States?",
+      "choices": [
+        "Gateway to the West",
+        "Birthplace of California",
+        "Pacific Jewel",
+        "American Riviera"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish explorer gave San Diego Bay its name in 1602?",
+      "choices": [
+        "Juan Rodríguez Cabrillo",
+        "Sebastián Vizcaíno",
+        "Gaspar de Portolá",
+        "Miguel López de Legazpi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major cultural and recreational park in downtown San Diego was originally built for two international expositions in the early 20th century?",
+      "choices": [
+        "Mission Trails Regional Park",
+        "Balboa Park",
+        "Torrey Pines State Natural Reserve",
+        "Los Peñasquitos Canyon Preserve"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "San Diego is known for its warm, dry summers and mild winters. What type of climate classification does this represent?",
+      "choices": [
+        "Tropical savanna",
+        "Humid subtropical",
+        "Mediterranean",
+        "Desert"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major aircraft manufacturer, headquartered in San Diego, built Charles Lindbergh's famous Spirit of St. Louis in 1927?",
+      "choices": [
+        "Douglas Aircraft",
+        "Ryan Airlines",
+        "Consolidated Aircraft",
+        "Lockheed Martin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many recognized community planning areas does the City of San Diego encompass?",
+      "choices": [
+        "15",
+        "28",
+        "52",
+        "73"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Kumeyaay village that formed the basis for the settlement that became present-day Old Town San Diego?",
+      "choices": [
+        "Tipai",
+        "Kosa'aay",
+        "Yuma",
+        "Diegueno"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which SR-163 highway park and canyon divides Balboa Park, often cited as America's oldest 'freeway in a park'?",
+      "choices": [
+        "Mission Valley",
+        "Cabrillo Canyon",
+        "Mission Gorge",
+        "Sorrento Valley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In October 2003, a devastating wildfire burned a significant portion of San Diego County. What was it called?",
+      "choices": [
+        "The Camp Fire",
+        "The Cedar Fire",
+        "The Witch Fire",
+        "The Station Fire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What rare pine species, native to the cliffs north of La Jolla, gave its name to a state natural reserve there?",
+      "choices": [
+        "Bishop Pine",
+        "Torrey Pine",
+        "Coulter Pine",
+        "Bristlecone Pine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1986 Tom Cruise blockbuster opens with Navy F-14s flying over San Diego and its bay?",
+      "choices": [
+        "Top Gun",
+        "Days of Thunder",
+        "A Few Good Men",
+        "Mission: Impossible"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Spanish explorer Sebastián Vizcaíno formally name the bay and surrounding area 'San Diego de Alcalá'?",
+      "choices": [
+        "1542",
+        "1602",
+        "1687",
+        "1769"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Kumeyaay settlement served as the foundation for present-day Old Town San Diego?",
+      "choices": [
+        "Tipay",
+        "Kosa'aay",
+        "Cosoy",
+        "Tejon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate elevation in feet of Cowles Mountain, San Diego's most prominent urban peak?",
+      "choices": [
+        "1,200",
+        "1,591",
+        "1,847",
+        "2,100"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two mountain ranges form a natural eastern boundary and create the transition to desert regions?",
+      "choices": [
+        "Sierra Nevada and Peninsular Range",
+        "Cuyamaca and Laguna Mountains",
+        "Jacinto and San Bernardino Ranges",
+        "Tehama and Trinity Ranges"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During which decade did San Diego earn the title 'tuna capital of the world' due to its industrial fishing operations?",
+      "choices": [
+        "1920s–1930s",
+        "1940s–1950s",
+        "1960s–1970s",
+        "1980s–1990s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What climatic phenomenon, occurring in late spring and early summer, creates persistent coastal cloud cover in San Diego?",
+      "choices": [
+        "June gloom",
+        "Marine layer inversion",
+        "Santa Ana effect",
+        "Coastal stratus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which rare tree species is specifically protected within Torrey Pines State Natural Reserve?",
+      "choices": [
+        "Coast Live Oak",
+        "Torrey Pine",
+        "Monterey Cypress",
+        "Coulter Pine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the San Diego Zoo established as a permanent institution following the Panama–California Exposition?",
+      "choices": [
+        "1915",
+        "1916",
+        "1919",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Petco Park, which opened in 2004, serves as the home stadium for which Major League Baseball franchise?",
+      "choices": [
+        "San Diego Padres",
+        "San Francisco Giants",
+        "Los Angeles Dodgers",
+        "Oakland Athletics"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fault zones near San Diego are classified as part of the larger San Andreas Fault system?",
+      "choices": [
+        "Elsinore and Garlock",
+        "Rose Canyon and Point Loma",
+        "San Clemente and Coronado",
+        "Compton and Newport-Inglewood"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What approximate average annual rainfall is recorded along San Diego's coastal areas?",
+      "choices": [
+        "7.5 inches",
+        "10.65 inches",
+        "15.3 inches",
+        "18.8 inches"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1912 civil rights conflict in San Diego centered on free-speech restrictions and involved the Industrial Workers of the World?",
+      "choices": [
+        "The Watts Riots",
+        "The San Diego free speech fight",
+        "The Palmer Raids",
+        "The Sacco-Vanzetti case"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Among United States cities by population, what is San Diego's ranking as of the early 21st century?",
+      "choices": [
+        "Fifth",
+        "Sixth",
+        "Eighth",
+        "Tenth"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What political composition characterized the San Diego City Council as of recent years?",
+      "choices": [
+        "10–0 Republican majority",
+        "8–1 Democratic majority",
+        "6–3 Democratic majority",
+        "5–4 Republican majority"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mayor of San Diego resigned in 2013 following multiple sexual harassment allegations?",
+      "choices": [
+        "Jerry Sanders",
+        "Bob Filner",
+        "Kevin Faulconer",
+        "Todd Gloria"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "San Diego serves as the county seat for which county, with a total population of approximately 3.3 million?",
+      "choices": [
+        "Orange County",
+        "Riverside County",
+        "San Diego County",
+        "Kern County"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two major international expositions were held in Balboa Park, leaving behind Spanish/Baroque-style buildings?",
+      "choices": [
+        "Panama–Pacific and Panama–American",
+        "Panama–California and California Pacific",
+        "California–Nevada and San Diego World's Fair",
+        "Pacific International and California State Fair"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In response to post–Cold War military cutbacks, which economic sectors did San Diego city leaders prioritize for diversification?",
+      "choices": [
+        "Agriculture and real estate development",
+        "Research, science, and tourism",
+        "Manufacturing and retail",
+        "Technology startups and entertainment"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What indigenous plant communities historically dominated the San Diego landscape before urbanization?",
+      "choices": [
+        "Redwood forests and oak woodlands",
+        "Coastal sage scrub and chaparral",
+        "Desert scrubland and creosote bush",
+        "Grassland prairie and wetlands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which regional planning and transportation agency serves as San Diego's coordinating body for growth and development?",
+      "choices": [
+        "Southern California Association of Governments",
+        "SANDAG",
+        "San Diego Metro Planning Board",
+        "California Regional Council"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Juan Rodríguez Cabrillo first claim San Diego Bay for Spain?",
+      "choices": [
+        "1542",
+        "1602",
+        "1769",
+        "1821"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Franciscan missionary served as the chronicler during the first overland expedition to establish a settlement in San Diego in 1769?",
+      "choices": [
+        "Junípero Serra",
+        "Juan Crespí",
+        "Luis Jayme",
+        "Vicente Santa María"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rose Canyon and Point Loma fault zones near San Diego are components of which major fault system?",
+      "choices": [
+        "Elsinore Fault",
+        "San Andreas Fault system",
+        "Newport-Inglewood Fault",
+        "Garlock Fault"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did San Diego transition from a council-manager system to strong mayor governance?",
+      "choices": [
+        "2000",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which treaty concluded the Mexican-American War and formally ceded San Diego to the United States?",
+      "choices": [
+        "Treaty of Velasco",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Cahuenga",
+        "Adams-Onís Treaty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What military conflict occurred in the San Pasqual Valley in 1846 between American forces and Californio lancers?",
+      "choices": [
+        "Battle of San Diego",
+        "Battle of Pico",
+        "Battle of San Pasqual",
+        "Battle of Carrizo"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1912 San Diego event involved Industrial Workers of the World protesting restrictions on public assembly and speech?",
+      "choices": [
+        "The Bread and Roses strike",
+        "The San Diego free speech fight",
+        "The Wobblies Convention",
+        "The Industrial Assembly"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Maritime Museum of San Diego features which historic full-rigged merchant ship dating to 1863?",
+      "choices": [
+        "USS Midway",
+        "Star of India",
+        "HMS Bounty",
+        "Flying Cloud"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which San Diego neighborhood historically developed as a center for Italian immigrant fishermen involved in the tuna canning industry?",
+      "choices": [
+        "North Park",
+        "Little Italy",
+        "Ocean Beach",
+        "Pacific Beach"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Torrey Pines State Natural Reserve in San Diego is specifically designated to protect which rare endemic species?",
+      "choices": [
+        "Torrey Pine tree",
+        "San Diego goldenstar",
+        "California gnatcatcher",
+        "Least Bell's vireo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary purpose of the two major expositions held in Balboa Park in 1915 and 1935?",
+      "choices": [
+        "To showcase agricultural innovations",
+        "To commemorate California statehood",
+        "To celebrate the opening of the Panama Canal and regional development",
+        "To host international trade agreements"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major technology corporation headquartered in San Diego pioneered wireless mobile standards and became a dominant employer in the region?",
+      "choices": [
+        "Broadcom",
+        "Qualcomm",
+        "Entropic Communications",
+        "Websense"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "San Diego's regional planning agency, which coordinates transportation and growth management across the metropolitan area, is abbreviated as which acronym?",
+      "choices": [
+        "SCAG",
+        "SANDAG",
+        "SACOG",
+        "BART"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wildfire in October 2003 caused extensive property damage and a significant surge in emergency room visits throughout San Diego County?",
+      "choices": [
+        "Harris Fire",
+        "Cedar Fire",
+        "Witch Creek Fire",
+        "Lilac Fire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Los Peñasquitos Canyon Preserve, located north of Torrey Pines, is characterized by which hydrological feature that is rare in the San Diego region?",
+      "choices": [
+        "Saltwater marshes",
+        "Underground aquifers",
+        "Freshwater streams and springs",
+        "Tidal lagoons"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "UC San Diego's academic reputation is particularly strong in which fields, reflecting the region's technological and research economy?",
+      "choices": [
+        "Agriculture and forestry",
+        "Engineering, sciences, and biomedical research",
+        "Performing arts and music",
+        "Fashion and design"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The San Diego-Tijuana transborder metropolitan region ranks as the second-most populous of its kind in which hemisphere?",
+      "choices": [
+        "Eastern",
+        "Northern",
+        "Western",
+        "Southern"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which urban community in San Diego is geographically positioned north of Mission Valley and south of Marine Corps Air Station Miramar?",
+      "choices": [
+        "University City",
+        "Kearny Mesa",
+        "Clairemont",
+        "Sorrento Valley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "San Diego's Latin motto 'Semper Vigilans' translates to which English phrase?",
+      "choices": [
+        "Forever Growing",
+        "Always Vigilant",
+        "By the Sea",
+        "United We Stand"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ryan Airlines, the San Diego-based aircraft manufacturer, construct the Spirit of St. Louis for Charles Lindbergh?",
+      "choices": [
+        "1926",
+        "1927",
+        "1928",
+        "1929"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate elevation in feet of Cowles Mountain, one of San Diego's prominent peaks?",
+      "choices": [
+        "1,391 feet",
+        "1,491 feet",
+        "1,591 feet",
+        "1,691 feet"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was San Diego's city charter reestablished after having been previously revoked?",
+      "choices": [
+        "1885",
+        "1887",
+        "1889",
+        "1891"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which architectural style characterizes the Spanish/Baroque buildings in Balboa Park that remain from the international expositions?",
+      "choices": [
+        "Moorish Revival",
+        "Spanish Colonial Revival",
+        "Art Deco",
+        "Mission Revival"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many recognized community planning areas comprise the City of San Diego's administrative divisions?",
+      "choices": [
+        "42",
+        "47",
+        "52",
+        "58"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which national forest lies approximately a half-hour drive east from downtown San Diego?",
+      "choices": [
+        "San Bernardino National Forest",
+        "Cleveland National Forest",
+        "Los Padres National Forest",
+        "Sequoia National Forest"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What notable preserve north of Torrey Pines features canyons and freshwater streams in San Diego?",
+      "choices": [
+        "Sutherland Dam Preserve",
+        "Los Peñasquitos Canyon Preserve",
+        "San Dieguito River Valley Conservancy",
+        "Spreckels Organ Pavilion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which community in San Diego is geographically positioned north of Mission Valley and south of Marine Corps Air Station Miramar?",
+      "choices": [
+        "Clairemont",
+        "Kearny Mesa",
+        "Sorrento Valley",
+        "University City"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the United States formally acquire California, including San Diego, from Mexico?",
+      "choices": [
+        "1846",
+        "1847",
+        "1848",
+        "1849"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which iconic downtown San Diego building held the distinction of being the city's tallest structure until 1963?",
+      "choices": [
+        "US Grant Hotel",
+        "El Cortez Hotel",
+        "San Diego Trust Bank Building",
+        "Copley Building"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During which decades did the two major international expositions take place in what is now Balboa Park?",
+      "choices": [
+        "1905 and 1925",
+        "1910 and 1930",
+        "1915 and 1935",
+        "1920 and 1940"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which immigrant groups notably dominated the tuna fishing and canning industries in San Diego historically?",
+      "choices": [
+        "Chinese and Portuguese",
+        "Japanese and Italian",
+        "Mexican and Spanish",
+        "Korean and Greek"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scenic coastal neighborhood in San Diego is distinguished by its rugged shoreline and proximity to a major UC research campus?",
+      "choices": [
+        "Pacific Beach",
+        "Mission Beach",
+        "La Jolla",
+        "Ocean Beach"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year was San Diego formally incorporated as a city under United States jurisdiction?",
+      "choices": [
+        "1848",
+        "1849",
+        "1850",
+        "1851"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Among the eight most populous cities in the United States, in what rank does San Diego fall?",
+      "choices": [
+        "Sixth",
+        "Seventh",
+        "Eighth",
+        "Ninth"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major urban cultural park was originally developed as the venue for international expositions in 1915 and 1935?",
+      "choices": [
+        "Mission Trails Regional Park",
+        "Balboa Park",
+        "Kate O. Sessions Memorial Park",
+        "Spreckels Park"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state natural reserve in San Diego is specifically protected for its population of rare Torrey Pines?",
+      "choices": [
+        "Los Peñasquitos Canyon Preserve",
+        "Torrey Pines State Natural Reserve",
+        "Lake Sutherland Park",
+        "San Elijo Lagoon Ecological Reserve"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What central planning concept from San Diego's 2008 General Plan emphasized urban development around distinct neighborhoods rather than sprawl?",
+      "choices": [
+        "Urban Villages Initiative",
+        "City of Villages concept",
+        "Neighborhood Growth Plan",
+        "District Development Model"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dense urban community in San Diego is positioned immediately northeast of Balboa Park?",
+      "choices": [
+        "Mid-City",
+        "North Park",
+        "Hillcrest",
+        "Bankers Hill"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Sebastián Vizcaíno name the bay and surrounding area 'San Diego de Alcalá'?",
+      "choices": [
+        "1587",
+        "1602",
+        "1619",
+        "1642"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which historic ship, now part of the Maritime Museum collection, was built in 1863 and remains the oldest active sailing vessel in the world?",
+      "choices": [
+        "USS Midway",
+        "HMS Victory",
+        "Star of India",
+        "Constitution"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was San Diego's city charter reestablished after having been revoked?",
+      "choices": [
+        "1850",
+        "1875",
+        "1889",
+        "1902"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following best describes the architectural style of Balboa Park's museum buildings, constructed during the Panama–California Exposition?",
+      "choices": [
+        "Art Deco and Modernism",
+        "Spanish Baroque and Colonial Revival",
+        "Gothic Revival",
+        "Greek Neoclassical"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1912 free speech conflict in San Diego primarily involved protests by which labor organization?",
+      "choices": [
+        "American Federation of Labor (AFL)",
+        "Industrial Workers of the World (IWW)",
+        "United Mine Workers",
+        "Knights of Labor"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many recognized community planning areas comprise the City of San Diego's administrative divisions?",
+      "choices": [
+        "28",
+        "42",
+        "52",
+        "67"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Kumeyaay village settlement formed the historical basis for present-day Old Town San Diego?",
+      "choices": [
+        "Kosa'aay",
+        "Tipai",
+        "Yuma",
+        "Cahuenga"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
     },
     {
       "q": "Which Spanish explorer first claimed San Diego Bay for Spain in 1542?",
@@ -70,17 +1541,18 @@
         "Francisco de Ulloa"
       ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "Juan Rodríguez Cabrillo", "verified": true, "notes": "Portuguese-born explorer in Spanish service." }
+      "difficulty": "medium"
     },
     {
       "q": "The first of California's 21 Spanish missions was founded at San Diego in what year?",
-      "choices": ["1602", "1769", "1821", "1848"],
+      "choices": [
+        "1602",
+        "1769",
+        "1821",
+        "1848"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "1769", "verified": true, "notes": "Mission San Diego de Alcalá, founded by Junípero Serra." }
+      "difficulty": "medium"
     },
     {
       "q": "Which treaty ceded San Diego, along with the rest of California, from Mexico to the United States?",
@@ -91,57 +1563,73 @@
         "Gadsden Purchase"
       ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "Treaty of Guadalupe Hidalgo", "verified": true, "notes": "Ended the Mexican-American War, 1848." }
+      "difficulty": "medium"
     },
     {
       "q": "What is the highest point within the San Diego city limits?",
-      "choices": ["Mount Soledad", "Cowles Mountain", "Mount Helix", "Kwaay Paay Peak"],
+      "choices": [
+        "Mount Soledad",
+        "Cowles Mountain",
+        "Mount Helix",
+        "Kwaay Paay Peak"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "Cowles Mountain", "verified": true, "notes": "Inside Mission Trails Regional Park, roughly 1,592 ft." }
+      "difficulty": "medium"
     },
     {
       "q": "Which large urban park, home to many museums and the zoo, grew out of expositions held in 1915 and 1935?",
-      "choices": ["Presidio Park", "Mission Bay Park", "Balboa Park", "Embarcadero Park"],
+      "choices": [
+        "Presidio Park",
+        "Mission Bay Park",
+        "Balboa Park",
+        "Embarcadero Park"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "Balboa Park", "verified": true, "notes": "1,200+ acres; Panama-California Exposition, then California Pacific International Exposition." }
+      "difficulty": "medium"
     },
     {
       "q": "Which San Diego–Tijuana border crossing is often the busiest land border crossing in the Western Hemisphere?",
-      "choices": ["Otay Mesa", "San Ysidro Port of Entry", "Tecate", "Calexico"],
+      "choices": [
+        "Otay Mesa",
+        "San Ysidro Port of Entry",
+        "Tecate",
+        "Calexico"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "The San Ysidro Port of Entry", "verified": true, "notes": "Handles tens of millions of crossings per year." }
+      "difficulty": "medium"
     },
     {
       "q": "What is the city of San Diego's Latin motto, which translates to 'Always Vigilant'?",
-      "choices": ["Semper Fidelis", "Semper Vigilans", "Semper Paratus", "Semper Liberi"],
+      "choices": [
+        "Semper Fidelis",
+        "Semper Vigilans",
+        "Semper Paratus",
+        "Semper Liberi"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "Semper Vigilans", "verified": true, "notes": "Adopted due to the city's long naval and military presence." }
+      "difficulty": "medium"
     },
     {
       "q": "During much of the 20th century, San Diego was known as what 'Capital of the World'?",
-      "choices": ["Sardine", "Salmon", "Tuna", "Shrimp"],
+      "choices": [
+        "Sardine",
+        "Salmon",
+        "Tuna",
+        "Shrimp"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "Tuna fishing and canning", "verified": true, "notes": "Tuna fleet peaked mid-century; Bumble Bee and Chicken of the Sea were locally based." }
+      "difficulty": "medium"
     },
     {
       "q": "Which beach community, just north of downtown San Diego, is home to the Scripps Institution of Oceanography?",
-      "choices": ["Coronado", "Del Mar", "La Jolla", "Pacific Beach"],
+      "choices": [
+        "Coronado",
+        "Del Mar",
+        "La Jolla",
+        "Pacific Beach"
+      ],
       "correct": 2,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "San Diego", "verified": true, "notes": "Scripps — part of UC San Diego — is in La Jolla." }
+      "difficulty": "medium"
     },
     {
       "q": "The late-spring and early-summer coastal fog over San Diego is colloquially known by which pair of nicknames?",
@@ -152,9 +1640,7 @@
         "September Smoke"
       ],
       "correct": 0,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "June gloom (or May gray)", "verified": true, "notes": "Result of the marine layer." }
+      "difficulty": "medium"
     },
     {
       "q": "Which famous 19th-century San Diego hotel is said to have inspired the title castle of The Wizard of Oz author L. Frank Baum's later novels?",
@@ -165,41 +1651,634 @@
         "Hotel Circle"
       ],
       "correct": 0,
-      "category": "San Diego",
-      "difficulty": "medium",
-      "source": { "original_a": "San Diego", "verified": true, "notes": "The 'Hotel Del,' opened 1888 on Coronado." }
+      "difficulty": "medium"
     },
     {
-      "q": "Which SR-163 highway park and canyon divides Balboa Park, often cited as America's oldest 'freeway in a park'?",
-      "choices": ["Mission Valley", "Cabrillo Canyon", "Mission Gorge", "Sorrento Valley"],
+      "q": "In what year was Mission San Diego de Alcalá, the first Spanish mission in California, established?",
+      "choices": [
+        "1765",
+        "1769",
+        "1773",
+        "1781"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "hard",
-      "source": { "original_a": "Balboa Park", "verified": true, "notes": "Cabrillo Freeway through Cabrillo Canyon." }
+      "difficulty": "medium"
     },
     {
-      "q": "In October 2003, a devastating wildfire burned a significant portion of San Diego County. What was it called?",
-      "choices": ["The Camp Fire", "The Cedar Fire", "The Witch Fire", "The Station Fire"],
+      "q": "Which aircraft manufacturer, headquartered in San Diego, constructed Charles Lindbergh's famous Spirit of St. Louis in 1927?",
+      "choices": [
+        "Douglas Aircraft",
+        "Ryan Airlines",
+        "Consolidated Aircraft",
+        "Rohr Inc."
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "hard",
-      "source": { "original_a": "The Cedar Fire (wildfire)", "verified": true, "notes": "Then the largest wildfire in California history at the time." }
+      "difficulty": "medium"
     },
     {
-      "q": "What rare pine species, native to the cliffs north of La Jolla, gave its name to a state natural reserve there?",
-      "choices": ["Bishop Pine", "Torrey Pine", "Coulter Pine", "Bristlecone Pine"],
+      "q": "What is the name of the busiest U.S.-Mexico land border crossing located between San Diego and Tijuana?",
+      "choices": [
+        "Otay Mesa Port of Entry",
+        "San Ysidro Port of Entry",
+        "Tijuana River Port of Entry",
+        "Imperial Beach Border Station"
+      ],
       "correct": 1,
-      "category": "San Diego",
-      "difficulty": "hard",
-      "source": { "original_a": "Torrey Pines State Natural Reserve", "verified": true, "notes": "Pinus torreyana, one of the rarest pines in the U.S." }
+      "difficulty": "medium"
     },
     {
-      "q": "Which 1986 Tom Cruise blockbuster opens with Navy F-14s flying over San Diego and its bay?",
-      "choices": ["Top Gun", "Days of Thunder", "A Few Good Men", "Mission: Impossible"],
+      "q": "Which major downtown San Diego stadium, opened in 2004, helped revitalize the waterfront district?",
+      "choices": [
+        "Qualcomm Stadium",
+        "Petco Park",
+        "San Diego Sports Arena",
+        "Del Mar Fairgrounds"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate elevation of Cowles Mountain, the highest point within San Diego city limits?",
+      "choices": [
+        "1,200 feet",
+        "1,591 feet",
+        "1,900 feet",
+        "2,100 feet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which urban pioneer and developer is credited with promoting a 'New Town' development that became modern Downtown San Diego in the 1860s-1870s?",
+      "choices": [
+        "William Heath Davis",
+        "Alonzo Horton",
+        "John D. Spreckels",
+        "George Marston"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the United States formally gain control of California, including San Diego, through the Treaty of Guadalupe Hidalgo?",
+      "choices": [
+        "1846",
+        "1848",
+        "1850",
+        "1852"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which scenic coastal neighborhood of San Diego is known for its dramatic rocky cliffs, upscale residences, and proximity to UC San Diego?",
+      "choices": [
+        "Pacific Beach",
+        "La Jolla",
+        "Ocean Beach",
+        "Coronado"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major cultural phenomenon occurs annually off the San Diego coast, drawing tourists interested in observing marine mammals during their migration?",
+      "choices": [
+        "Dolphin spawning season",
+        "Gray whale migration and whale-watching",
+        "Sea turtle nesting",
+        "Shark breeding aggregation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two major expositions were held in Balboa Park to celebrate San Diego's development and heritage?",
+      "choices": [
+        "1905 and 1925",
+        "1910 and 1930",
+        "1915 and 1935",
+        "1920 and 1940"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the characteristic thick coastal fog that frequently blankets San Diego's beaches during late spring and early summer months?",
+      "choices": [
+        "The June drift",
+        "June gloom",
+        "May marine",
+        "The marine wall"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which notable 1912 labor protest in San Diego involved the Industrial Workers of the World and centered on free speech rights?",
+      "choices": [
+        "The Dockworker's Strike",
+        "The San Diego free speech fight",
+        "The Harbor Union Uprising",
+        "The Wobblies' March"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Among major U.S. cities by population, what is San Diego's approximate ranking?",
+      "choices": [
+        "Fifth",
+        "Sixth",
+        "Seventh",
+        "Eighth"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish explorer named the bay and surrounding area 'San Diego de Alcalá' during a 1602 expedition?",
+      "choices": [
+        "Juan Rodríguez Cabrillo",
+        "Sebastián Vizcaíno",
+        "Gaspar de Portolá",
+        "Francisco Vásquez de Coronado"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate average annual rainfall measured along the San Diego coast?",
+      "choices": [
+        "5 inches",
+        "10.65 inches",
+        "15 inches",
+        "20 inches"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was San Diego formally incorporated as a city under United States governance?",
+      "choices": [
+        "1848",
+        "1850",
+        "1869",
+        "1875"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which large convention and entertainment venue, constructed downtown, significantly boosted San Diego's status as a tourist and events destination?",
+      "choices": [
+        "Spreckels Theatre",
+        "San Diego Convention Center",
+        "Del Mar Fairgrounds",
+        "Copley Symphony Hall"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Latin motto of San Diego, meaning 'Always Vigilant'?",
+      "choices": [
+        "Semper Fidelis",
+        "Semper Vigilans",
+        "Semper Fortis",
+        "Semper Civitas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which maritime museum in San Diego is famous for preserving and displaying the historic merchant ship Star of India?",
+      "choices": [
+        "USS Midway Museum",
+        "Maritime Museum of San Diego",
+        "San Diego Naval History Center",
+        "Fleet Science Center"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which climatic classification is most commonly used to describe San Diego's weather pattern of warm, dry summers and mild, wet winters?",
+      "choices": [
+        "Subtropical humid climate",
+        "Desert climate",
+        "Hot-summer Mediterranean climate",
+        "Temperate oceanic climate"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did explorer Sebastián Vizcaíno name the bay and surrounding area 'San Diego de Alcalá'?",
+      "choices": [
+        "1542",
+        "1602",
+        "1769",
+        "1821"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which international exposition held in Balboa Park in 1915 featured Spanish and Baroque-style architecture?",
+      "choices": [
+        "California Pacific International Exposition",
+        "Panama–California Exposition",
+        "San Diego World's Fair",
+        "Pacific International Exposition"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate elevation of Cowles Mountain, one of San Diego's prominent natural landmarks?",
+      "choices": [
+        "1,100 feet",
+        "1,591 feet",
+        "2,000 feet",
+        "2,500 feet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which San Diego neighborhood is bordered by Mission Valley to the south and Marine Corps Air Station Miramar to the north?",
+      "choices": [
+        "Pacific Beach",
+        "Kearny Mesa",
+        "Clairemont",
+        "College Area"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What industry earned San Diego the historical nickname of the 'tuna capital of the world'?",
+      "choices": [
+        "Sardine fishing",
+        "Tuna fishing and canning",
+        "Whale processing",
+        "Seafood distribution"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which regional planning agency serves as San Diego's primary governmental coordination body?",
+      "choices": [
+        "Southern California Association of Planners",
+        "SANDAG",
+        "San Diego Regional Council",
+        "California Coastal Commission"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary factor that accelerated San Diego's population growth during the 1940s?",
+      "choices": [
+        "Gold discovery in nearby mountains",
+        "Agricultural development",
+        "Military and defense-related activities",
+        "Oil industry expansion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which San Diego mayor resigned in 2013 amid multiple sexual harassment allegations?",
+      "choices": [
+        "Jerry Sanders",
+        "Bob Filner",
+        "Kevin Faulconer",
+        "Maureen O'Connor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the United States formally acquire San Diego and California through the Treaty of Guadalupe Hidalgo?",
+      "choices": [
+        "1821",
+        "1835",
+        "1848",
+        "1865"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which UC system university is a leading public research institution located in San Diego?",
+      "choices": [
+        "UC Berkeley",
+        "UC San Diego",
+        "UC Riverside",
+        "UC Santa Barbara"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the 2020 census, approximately what was San Diego's population?",
+      "choices": [
+        "900,000",
+        "1.1 million",
+        "1.4 million",
+        "1.8 million"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of Mediterranean climate characterizes San Diego's weather patterns?",
+      "choices": [
+        "Cold-winter Mediterranean",
+        "Hot-summer Mediterranean",
+        "Tropical Mediterranean",
+        "Arid desert climate"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which scenic coastal neighborhood in San Diego is known for its rugged shoreline and proximity to UC research facilities?",
+      "choices": [
+        "Mission Beach",
+        "Pacific Beach",
+        "La Jolla",
+        "Ocean Beach"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What name is given to the narrow geographic strip that connects San Diego's southern neighborhoods to the rest of the city?",
+      "choices": [
+        "The Peninsula",
+        "The Connector",
+        "The Narrow Strip at the bottom of San Diego Bay",
+        "The Causeway"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which vegetation types historically dominated the San Diego area before urban development?",
+      "choices": [
+        "Desert scrub and sagebrush",
+        "Coastal sage scrub and chaparral",
+        "Grassland and prairie",
+        "Coniferous forest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What urban development concept introduced in San Diego's 2008 General Plan emphasized neighborhood diversity and walkability?",
+      "choices": [
+        "Transit-Oriented Development",
+        "Smart Growth Initiative",
+        "City of Villages",
+        "Urban Revitalization Plan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major natural feature contains multiple trails and separates eastern San Diego from more developed areas?",
+      "choices": [
+        "Torrey Pines State Reserve",
+        "Mission Trails Regional Park",
+        "Anza-Borrego Desert",
+        "Cleveland National Forest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1912, which labor organization led a major free-speech protest movement in San Diego?",
+      "choices": [
+        "American Federation of Labor",
+        "Industrial Workers of the World",
+        "United Mine Workers",
+        "Congress of Industrial Organizations"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was Mission San Diego de Alcalá established by Spanish missionaries?",
+      "choices": [
+        "1769",
+        "1781",
+        "1795",
+        "1803"
+      ],
       "correct": 0,
-      "category": "San Diego",
-      "difficulty": "hard",
-      "source": { "original_a": "San Diego", "verified": true, "notes": "Largely filmed at NAS Miramar, San Diego." }
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did San Diego officially become incorporated as a city under United States jurisdiction?",
+      "choices": [
+        "1835",
+        "1850",
+        "1880",
+        "1912"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major sports venue, completed in 2004, became a catalyst for downtown San Diego's urban renewal?",
+      "choices": [
+        "Qualcomm Stadium",
+        "Petco Park",
+        "San Diego Convention Center",
+        "Viejas Arena"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "San Diego is the seat of which California county, home to approximately 3.3 million residents?",
+      "choices": [
+        "Orange County",
+        "San Diego County",
+        "Riverside County",
+        "Los Angeles County"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately what rank does San Diego hold among the most populous cities in the United States?",
+      "choices": [
+        "5th",
+        "8th",
+        "12th",
+        "15th"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which San Diego airport is recognized as the busiest single-runway airport in the entire United States?",
+      "choices": [
+        "San Diego International Airport",
+        "Montgomery Field",
+        "Brown Field",
+        "Gillespie Field"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During which decade did San Diego experience major urban renewal that revived the historic Gaslamp Quarter and opened Horton Plaza?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which large natural bay in San Diego serves as the location for a major U.S. naval base and commercial shipping port?",
+      "choices": [
+        "Mission Bay",
+        "San Diego Bay",
+        "False Bay",
+        "Coronado Bay"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What significant free-speech protest occurred in San Diego in 1912, led by members of the Industrial Workers of the World?",
+      "choices": [
+        "The San Diego Free Speech Fight",
+        "The Harbor Strike",
+        "The Wobblies Uprising",
+        "The Pacific Labor Revolt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which immigrant group, particularly from Japan and Italy, historically dominated San Diego's tuna fishing and canning industries?",
+      "choices": [
+        "Chinese fishermen",
+        "German cannery workers",
+        "Japanese and Italian fishermen",
+        "Portuguese whalers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of the Kumeyaay village that served as the foundation for the settlement in present-day Old Town San Diego?",
+      "choices": [
+        "Kosa'aay",
+        "Tipai",
+        "Tepeme",
+        "Ysleta"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which San Diego neighborhood is historically recognized for its strong Italian immigrant heritage connected to the fishing industry?",
+      "choices": [
+        "Ocean Beach",
+        "Pacific Beach",
+        "Little Italy",
+        "North Park"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Mexico gain independence from Spain, making San Diego part of Alta California?",
+      "choices": [
+        "1810",
+        "1815",
+        "1821",
+        "1836"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During which year did the United States formally acquire California, including San Diego, from Mexico?",
+      "choices": [
+        "1846",
+        "1848",
+        "1850",
+        "1853"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which private university in San Diego was founded by the Catholic Church and remains religiously affiliated?",
+      "choices": [
+        "San Diego State University",
+        "University of San Diego",
+        "California State University San Marcos",
+        "Point Loma Nazarene University"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What annual event celebrating San Diego's craft beer industry typically occurs in November?",
+      "choices": [
+        "San Diego Beer Festival",
+        "San Diego Beer Week",
+        "Pacific Brew Expo",
+        "California Craft Beer Summit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which maritime museum in San Diego features the preserved historic sailing ship Star of India?",
+      "choices": [
+        "USS Midway Museum",
+        "Maritime Museum of San Diego",
+        "San Diego Navy Pier Museum",
+        "Pacific Fleet Heritage Center"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What natural seasonal phenomenon off the San Diego coast draws visitors annually to observe migrating cetaceans?",
+      "choices": [
+        "Dolphin breeding season",
+        "Gray whale migration",
+        "Sea lion gatherings",
+        "Shark migration patterns"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which destructive wildfire in October 2003 caused extensive residential damage throughout San Diego and overwhelmed local emergency services?",
+      "choices": [
+        "The Witch Fire",
+        "The Cedar Fire",
+        "The Harris Fire",
+        "The Paradise Fire"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

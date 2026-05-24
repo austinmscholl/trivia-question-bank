@@ -1,249 +1,2317 @@
 {
   "slug": "dance-trivia",
   "name": "Dance",
-  "description": "Ballet, tap, salsa, hip-hop — across cultures and centuries.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.486Z",
   "questions": [
     {
-      "q": "Which king of France is widely credited as the founder of classical ballet?",
-      "choices": ["Louis XIV", "Louis XVI", "François I", "Napoleon"],
+      "q": "Which dance style is performed with metal-soled shoes that create rhythmic sounds?",
+      "choices": [
+        "Ballet",
+        "Tap dance",
+        "Salsa",
+        "Contemporary"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary focus of ballroom dance competitions?",
+      "choices": [
+        "Speed and athleticism",
+        "Elegance, synchronization, and performance quality",
+        "Freestyle improvisation",
+        "Solo technical difficulty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classical dance form originated in 16th-century European courts?",
+      "choices": [
+        "Tap dance",
+        "Jazz dance",
+        "Ballet",
+        "Hip hop"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Indian cultural dance form is traditionally performed during harvest celebrations?",
+      "choices": [
+        "Kathak",
+        "Bhangra",
+        "Odissi",
+        "Kathakali"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 20th-century dancer pioneered the development of modern dance as a rebellion against classical ballet?",
+      "choices": [
+        "Martha Graham",
+        "Isadora Duncan",
+        "George Balanchine",
+        "Rudolf Nureyev"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of a line dance where participants perform coordinated steps together?",
+      "choices": [
+        "Square dance",
+        "Waltz",
+        "Tango",
+        "Foxtrot"
+      ],
       "correct": 0,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Louis XIV",
-        "verified": true,
-        "notes": "He danced ballet himself and founded the Académie Royale de Danse in 1661."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year was the world's first ballet academy, the Académie Royale de Danse, founded?",
-      "choices": ["1581", "1661", "1750", "1801"],
+      "q": "Which Latin dance style is characterized by energetic, rhythmic hip and foot movements?",
+      "choices": [
+        "Tango",
+        "Salsa",
+        "Samba",
+        "Merengue"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1661",
-        "verified": true,
-        "notes": "Founded in Paris by Louis XIV."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What time signature is used for the waltz?",
-      "choices": ["2/4", "3/4", "4/4", "6/8"],
-      "correct": 1,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "3/4 time signature",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which country's Carnival celebrations are most associated with the samba?",
-      "choices": ["Argentina", "Cuba", "Brazil", "Colombia"],
+      "q": "What is the primary purpose of folk dancing in traditional European culture?",
+      "choices": [
+        "Professional performance only",
+        "Religious ceremonies exclusively",
+        "Social bonding and celebration",
+        "Military training"
+      ],
       "correct": 2,
-      "category": "Dance",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Samba",
-        "verified": true,
-        "notes": "Especially Rio de Janeiro's Carnival."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which classical Indian dance form is named for its origins in Tamil Nadu?",
-      "choices": ["Kathak", "Bharatanatyam", "Odissi", "Kuchipudi"],
+      "q": "Which ancient text from India codified knowledge about dance and drama?",
+      "choices": [
+        "Vedas",
+        "Natya Shastra",
+        "Ramayana",
+        "Bhagavad Gita"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bharatanatyam",
-        "verified": true,
-        "notes": "One of eight classical Indian dance forms recognized by the Sangeet Natak Akademi."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "From which region of India does the upbeat folk dance Bhangra originate?",
-      "choices": ["Kerala", "West Bengal", "Punjab", "Gujarat"],
-      "correct": 2,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Bhangra",
-        "verified": true,
-        "notes": "Original answer mis-identified Bhangra as 'South American' — it is from Punjab, India / Pakistan."
-      }
-    },
-    {
-      "q": "Which Tchaikovsky ballet tells the story of Princess Odette, who is cursed to live as a swan?",
-      "choices": ["The Nutcracker", "Swan Lake", "Sleeping Beauty", "Giselle"],
+      "q": "What style of dance emphasizes rhythmic personal expression and has roots in African American culture?",
+      "choices": [
+        "Classical ballet",
+        "Jazz dance",
+        "Irish step dancing",
+        "Flamenco"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The Nutcracker",
-        "verified": true,
-        "notes": "Original answer was incorrect: Swan Lake (1877) tells the swan story; The Nutcracker (1892) is a different Tchaikovsky ballet."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which type of dance is performed in shoes with metal plates on the toe and heel?",
-      "choices": ["Ballet", "Tap", "Flamenco", "Modern"],
+      "q": "Which type of dance competition allows performers to showcase multiple styles such as jazz, tap, and ballet?",
+      "choices": [
+        "Ballet competition",
+        "Multi-style dance competition",
+        "Tap only tournament",
+        "Solo classical event"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Tap dance",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which legendary American dancer, nicknamed 'Bojangles', helped popularize tap dance in early 20th-century film?",
-      "choices": ["Fred Astaire", "Gene Kelly", "Bill Robinson", "Sammy Davis Jr."],
-      "correct": 2,
-      "category": "Dance",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bill Robinson",
-        "verified": true,
-        "notes": "Bill 'Bojangles' Robinson (1878–1949)."
-      }
-    },
-    {
-      "q": "The 'Dancing Plague of 1518' famously broke out in which European city?",
-      "choices": ["Vienna", "Strasbourg", "Brussels", "Florence"],
+      "q": "What Middle Eastern dance form is characterized by undulating body movements and hip work?",
+      "choices": [
+        "Flamenco",
+        "Belly dance",
+        "Hora",
+        "Tango"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mass hysteria caused by uncontrollable dancing",
-        "verified": true,
-        "notes": "An outbreak of involuntary dancing in Strasbourg (then in the Holy Roman Empire) lasting weeks."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Michael Jackson's 1983 music video popularized which dance style with its iconic group choreography?",
-      "choices": ["Voguing", "Zombie / horror dance", "Krumping", "Locking"],
+      "q": "Which famous American dancer made significant contributions to tap dance in early 20th-century film?",
+      "choices": [
+        "Gene Kelly",
+        "Bill Robinson",
+        "Fred Astaire",
+        "James Cagney"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Thriller by Michael Jackson",
-        "verified": true,
-        "notes": "Choreographed by Michael Peters."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Hip-hop dance evolved primarily from which cultural context?",
-      "choices": ["European ballet halls", "African-American and Latino youth culture in 1970s NYC", "1990s Tokyo street fashion", "1960s London mod scene"],
+      "q": "What is a key rhythmic technique used in tap dance involving quick foot movements?",
+      "choices": [
+        "Pirouette",
+        "Ball change",
+        "Arabesque",
+        "Relevé"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Hip hop dance",
-        "verified": true,
-        "notes": "Born in the Bronx alongside hip-hop music; styles include breaking, locking, popping."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which traditional Irish dance is typically set to fast 6/8 music?",
-      "choices": ["Reel", "Hornpipe", "Jig", "Slip"],
-      "correct": 2,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Irish folk music",
-        "verified": true,
-        "notes": "Reels are 4/4; jigs are 6/8."
-      }
-    },
-    {
-      "q": "What is the term for a couples dance with a partner-swap, prompts called by a 'caller', commonly seen at country gatherings?",
-      "choices": ["Line dance", "Square dance", "Polka", "Cha-cha"],
+      "q": "Which television show brought competitive dance into mainstream entertainment in the 2000s?",
+      "choices": [
+        "Dancing with the Stars",
+        "So You Think You Can Dance",
+        "World of Dance",
+        "The X Factor"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Square dance",
-        "verified": true,
-        "notes": "The official folk dance of more than 20 U.S. states."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "From which European region did the polka dance originate in the 19th century?",
-      "choices": ["Bohemia (Czech lands)", "Bavaria", "Andalusia", "Provence"],
+      "q": "What archaeological site in India shows evidence of dancers from approximately 10,000 years ago?",
+      "choices": [
+        "Mohenjo-daro",
+        "Bhimbetka",
+        "Harappa",
+        "Lothal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style involves freestyle movements performed in urban streets and public spaces?",
+      "choices": [
+        "Ballroom",
+        "Street dance",
+        "Ballet",
+        "Waltz"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary goal of a dancer participating in a competitive dance event?",
+      "choices": [
+        "To earn money only",
+        "To demonstrate skill and creativity in a judged environment",
+        "To socialize exclusively",
+        "To teach other dancers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish dance form is known for its passionate movements, rhythmic footwork, and hand gestures?",
+      "choices": [
+        "Flamenco",
+        "Paso doble",
+        "Jota",
+        "Bolero"
+      ],
       "correct": 0,
-      "category": "Dance",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Folk dance in Europe",
-        "verified": true,
-        "notes": "Originated in Bohemia (modern-day Czech Republic) around 1830."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Latin dance, originating in Argentina, is known for its dramatic close-hold and the 'slow-slow-quick-quick-slow' rhythm?",
-      "choices": ["Salsa", "Tango", "Bachata", "Merengue"],
+      "q": "What musical instrument traditionally accompanies belly dance performances?",
+      "choices": [
+        "Guitar",
+        "Violin",
+        "Oud or drums",
+        "Piano"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary time signature used in waltz dancing?",
+      "choices": [
+        "2/4 time",
+        "3/4 time",
+        "4/4 time",
+        "6/8 time"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Tango",
-        "verified": true,
-        "notes": "Originated in Buenos Aires and Montevideo in the late 1800s."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Middle Eastern dance is characterized by isolated hip and torso movements?",
-      "choices": ["Dabke", "Belly dance", "Whirling dervish", "Khaleegy"],
+      "q": "Which dance style is traditionally performed during harvest celebrations in Punjab, India?",
+      "choices": [
+        "Kathak",
+        "Bhangra",
+        "Kathakali",
+        "Odissi"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Belly dance",
-        "verified": true,
-        "notes": "Also known as 'raqs sharqi' (Arabic for 'eastern dance')."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 20th-century dance form, pioneered by Martha Graham, broke from classical ballet's strict technique?",
-      "choices": ["Modern dance", "Jazz dance", "Hip-hop", "Krumping"],
+      "q": "What is the primary country of origin for flamenco dancing?",
+      "choices": [
+        "Portugal",
+        "Mexico",
+        "Spain",
+        "Italy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance form became iconic to African-American culture during the 20th century?",
+      "choices": [
+        "Ballet",
+        "Tap dance",
+        "Jazz dance",
+        "Contemporary dance"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Latin American dance is known for its energetic hip movements and originated in Brazil?",
+      "choices": [
+        "Tango",
+        "Samba",
+        "Salsa",
+        "Merengue"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous tap dancer was known for his contributions to tap dance in American film during the early 20th century?",
+      "choices": [
+        "Gene Kelly",
+        "Bill Robinson",
+        "Fred Astaire",
+        "James Cagney"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main purpose of social dances like the waltz and polka?",
+      "choices": [
+        "Religious worship",
+        "Social interaction and entertainment",
+        "Theatrical performance only",
+        "Military training"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style emphasizes self-expression and emotional storytelling and developed in the 20th century?",
+      "choices": [
+        "Classical ballet",
+        "Modern dance",
+        "Folk dance",
+        "Ballroom dance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional Polish dance is commonly performed at social celebrations and features a lively 2/4 rhythm?",
+      "choices": [
+        "Waltz",
+        "Mazurka",
+        "Polka",
+        "Foxtrot"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance form is performed in two-person coordination and is popular at North American social events?",
+      "choices": [
+        "Hip hop",
+        "Ballet",
+        "Square dance",
+        "Breakdancing"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What music video from the 1980s helped popularize a specific dance style among mainstream audiences?",
+      "choices": [
+        "Beat It by Michael Jackson",
+        "Thriller by Michael Jackson",
+        "Like a Virgin by Madonna",
+        "Take On Me by a-ha"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Académie Royale de Danse, the first ballet academy, established?",
+      "choices": [
+        "1661",
+        "1689",
+        "1720",
+        "1756"
+      ],
       "correct": 0,
-      "category": "Dance",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Modern dance",
-        "verified": true,
-        "notes": "Graham's company is the oldest American dance company (founded 1926)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "On the toes — what is the ballet technique of dancing on the very tips of the toes called?",
-      "choices": ["Plié", "Pointe work", "Pirouette", "Arabesque"],
+      "q": "What is a defining characteristic of Latin dances such as salsa and cha-cha?",
+      "choices": [
+        "Slow, graceful movements",
+        "Energetic, rhythmic footwork",
+        "Symmetrical partner positioning",
+        "Minimal hip movement"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Pointe work",
-        "verified": true,
-        "notes": "Performed in specially-reinforced 'pointe shoes'."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which is the oldest known archaeological site to depict dance, with rock paintings roughly 10,000 years old?",
-      "choices": ["Lascaux (France)", "Bhimbetka (India)", "Altamira (Spain)", "Chauvet (France)"],
+      "q": "Which dance style emerged in the 1970s alongside the rise of disco music?",
+      "choices": [
+        "Swing dancing",
+        "Disco dancing",
+        "Jitterbug",
+        "Lindy hop"
+      ],
       "correct": 1,
-      "category": "Dance",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bhimbetka",
-        "verified": true,
-        "notes": "Bhimbetka rock shelters in central India; UNESCO World Heritage Site."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ancient Egyptian civilization depicted dancers in tomb paintings dating back to approximately 3300 BC?",
+      "choices": [
+        "Ptolemaic Egypt",
+        "Old Kingdom Egypt",
+        "Middle Kingdom Egypt",
+        "New Kingdom Egypt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style focuses on freestyle movements and is commonly performed in urban street environments?",
+      "choices": [
+        "Classical ballet",
+        "Street dance",
+        "Ballroom dance",
+        "Traditional folk dance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary music style associated with jazz dance?",
+      "choices": [
+        "Country music",
+        "Jazz music",
+        "Classical music",
+        "Folk music"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which television competition show brought competitive dance into mainstream entertainment starting in 2005?",
+      "choices": [
+        "Dancing with the Stars",
+        "So You Think You Can Dance",
+        "The Greatest Dancer",
+        "World of Dance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional purpose of folk dances performed in European communities?",
+      "choices": [
+        "Military combat training",
+        "Social bonding and celebration",
+        "Religious conversion",
+        "Commercial entertainment only"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous ballroom dance is characterized by smooth, flowing movements and originated in England?",
+      "choices": [
+        "Quickstep",
+        "Foxtrot",
+        "Tango",
+        "Viennese waltz"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style is most commonly performed wearing pointe shoes?",
+      "choices": [
+        "Ballet",
+        "Tap dance",
+        "Jazz dance",
+        "Salsa"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary percussion instrument used in tap dancing?",
+      "choices": [
+        "The dancer's metal-soled shoes",
+        "A wooden block",
+        "Drums",
+        "Maracas"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what country did the waltz originate as a ballroom dance?",
+      "choices": [
+        "Austria",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Michael Jackson music video features the iconic moonwalk dance move?",
+      "choices": [
+        "Thriller",
+        "Beat It",
+        "Billie Jean",
+        "Bad"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the time signature used in traditional waltz music?",
+      "choices": [
+        "3/4",
+        "4/4",
+        "2/4",
+        "6/8"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Indian classical dance form is known for its intricate footwork and hand gestures?",
+      "choices": [
+        "Bharatanatyam",
+        "Tango",
+        "Flamenco",
+        "Hip-hop"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'choreography' refer to in dance?",
+      "choices": [
+        "The creation and arrangement of dance movements",
+        "The speed at which dancers move",
+        "The type of music used",
+        "The costume design"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style emerged in the early 20th century and emphasized emotional expression over rigid technique?",
+      "choices": [
+        "Modern dance",
+        "Ballet",
+        "Waltz",
+        "Square dance"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional rhythm pattern of the tango?",
+      "choices": [
+        "Slow-slow-quick-quick-slow",
+        "Quick-quick-slow",
+        "Even beats throughout",
+        "Waltz rhythm"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous American dancer is known for popularizing tap dancing in Hollywood films during the 1930s?",
+      "choices": [
+        "Fred Astaire",
+        "Gene Kelly",
+        "Bill Robinson",
+        "James Cagney"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary purpose of social ballroom dances like the waltz?",
+      "choices": [
+        "To allow couples to interact while moving to music",
+        "To showcase athletic ability",
+        "To tell a specific story",
+        "To exercise solo"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Caribbean and Latin American dance is performed to upbeat, syncopated music?",
+      "choices": [
+        "Salsa",
+        "Waltz",
+        "Tango",
+        "Foxtrot"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary characteristic that distinguishes ballet from most other dance styles?",
+      "choices": [
+        "The use of pointe work and turned-out leg positions",
+        "The use of tap shoes",
+        "The performance of only one dancer at a time",
+        "The absence of music"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century did ballet develop as a European court spectacle?",
+      "choices": [
+        "16th century",
+        "14th century",
+        "18th century",
+        "20th century"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional Punjabi dance is typically performed during harvest celebrations in India?",
+      "choices": [
+        "Bhangra",
+        "Bharatanatyam",
+        "Kathak",
+        "Kathakali"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style has roots in African American culture and emphasizes rhythmic, improvisational movements?",
+      "choices": [
+        "Jazz dance",
+        "Ballet",
+        "Tango",
+        "Ballroom"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ancient Greek term refers to the choral dances performed in theatrical productions?",
+      "choices": [
+        "Choros",
+        "Choreia",
+        "Chorus",
+        "Chorale"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish flamenco dance is known for passionate, rhythmic footwork and emotional expression?",
+      "choices": [
+        "Flamenco",
+        "Tango",
+        "Salsa",
+        "Samba"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a type of dance competition that typically features multiple styles such as ballet, jazz, and tap?",
+      "choices": [
+        "Multi-style competition",
+        "Dance battle",
+        "Performance festival",
+        "Recital"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance movement involves rapidly shifting weight from the ball of the foot to the heel?",
+      "choices": [
+        "Ball change",
+        "Shuffle",
+        "Flap",
+        "Cramp roll"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what time signature is the waltz typically danced?",
+      "choices": [
+        "2/4 time",
+        "3/4 time",
+        "4/4 time",
+        "6/8 time"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dance style is most famously associated with Michael Jackson's 'Thriller' music video?",
+      "choices": [
+        "Hip-hop",
+        "Jazz dance",
+        "Tap dance",
+        "Contemporary dance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What percussion instrument do tap dancers wear on their shoes to create rhythmic sounds?",
+      "choices": [
+        "Cymbals",
+        "Bells",
+        "Metal plates",
+        "Wooden blocks"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Latin American dance style is characterized by quick hip movements and is popular at social parties?",
+      "choices": [
+        "Tango",
+        "Cha-cha",
+        "Foxtrot",
+        "Quickstep"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Indian classical dance form known for its intricate footwork and hand gestures?",
+      "choices": [
+        "Kathak",
+        "Bharatanatyam",
+        "Odissi",
+        "Kathakali"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century was the Académie Royale de Danse, the first official ballet academy, established?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Brazilian dance form is most prominently featured during Carnival celebrations?",
+      "choices": [
+        "Bossa nova",
+        "Samba",
+        "Forró",
+        "Capoeira"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary characteristic that distinguishes modern dance from classical ballet?",
+      "choices": [
+        "Use of pointe shoes",
+        "Emphasis on personal freedom and emotional expression",
+        "Formal court settings",
+        "Strict adherence to predetermined movements"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Middle Eastern dance form is characterized by undulating hip and torso movements?",
+      "choices": [
+        "Dabke",
+        "Belly dance",
+        "Hora",
+        "Debka"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary purpose of ballroom dance competitions?",
+      "choices": [
+        "To teach beginners basic steps",
+        "To showcase elegance, synchronization, and performance quality",
+        "To raise money for charity",
+        "To preserve historical dance traditions"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In classical ballet, what is the term for the turned-out position of the legs where the feet form a straight line?",
+      "choices": [
+        "En dehors",
+        "En dedans",
+        "En ligne",
+        "En pointe"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 20th-century American choreographer created the dance technique that emphasizes a flat back and lateral movement?",
+      "choices": [
+        "Alvin Ailey",
+        "Martha Graham",
+        "George Balanchine",
+        "Jerome Robbins"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Viennese waltz, what is the characteristic number of beats per measure that defines its time signature?",
+      "choices": [
+        "2/4",
+        "3/4",
+        "4/4",
+        "6/8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the hip movement in Cuban motion that is fundamental to Latin ballroom styles like rumba and cha-cha?",
+      "choices": [
+        "Contra-body movement",
+        "Figure eight",
+        "Cuban motion",
+        "Hip sway"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish step dance competition, established in 1929, became the world's largest international Irish dance championship?",
+      "choices": [
+        "Fleadh Cheoil",
+        "Oireachtas",
+        "World Irish Dancing Championships",
+        "All-Ireland Dancing Championship"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In contemporary dance, what is the pedagogical approach developed by Laban that analyzes movement through effort and shape?",
+      "choices": [
+        "Horton Technique",
+        "Laban Movement Analysis",
+        "Release Technique",
+        "Viewpoints"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Brazilian dance form that combines African rhythms with Portuguese music and is performed in a 2/4 time signature?",
+      "choices": [
+        "Forró",
+        "Frevo",
+        "Samba",
+        "Axé"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In flamenco dancing, what is the term for the rhythmic hand clapping that accompanies the dancer?",
+      "choices": [
+        "Taconeo",
+        "Palmas",
+        "Falsetas",
+        "Compás"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian Imperial Ballet choreographer created the choreography for 'The Nutcracker' in 1892?",
+      "choices": [
+        "Michel Fokine",
+        "Lev Ivanov",
+        "Pyotr Ilyich Tchaikovsky",
+        "Enrico Cecchetti"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In hip-hop dance, what is the signature footwork style that involves rapid weight shifts and intricate stepping patterns originating from New York?",
+      "choices": [
+        "Popping",
+        "Locking",
+        "Breaking",
+        "Krumping"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the sustained, continuous movement of a dancer's body through space without stopping?",
+      "choices": [
+        "Flow",
+        "Momentum",
+        "Legato",
+        "Portage"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Kathak, the classical dance form of India, what is the term for the rhythmic footwork and the dancer's interaction with the tabla drum?",
+      "choices": [
+        "Mudra",
+        "Taal",
+        "Abhinaya",
+        "Kavya"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ballets Russes choreographer revolutionized ballet in the early 1900s with works like 'The Firebird' and 'Petrushka'?",
+      "choices": [
+        "Vaslav Nijinsky",
+        "Michel Fokine",
+        "Sergei Diaghilev",
+        "George Balanchine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In West African dance traditions, what is the characteristic use of the torso that remains relatively still while the hips and legs move with complex rhythms?",
+      "choices": [
+        "Isolation",
+        "Grounding",
+        "Articulation",
+        "Suspension"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the ballroom dance that originated in Argentina and is characterized by a quick, sharp, staccato rhythm?",
+      "choices": [
+        "Paso doble",
+        "Quickstep",
+        "Foxtrot",
+        "Jive"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical Javanese court dance, what is the primary aesthetic principle emphasizing smooth, controlled, and inward-focused movement?",
+      "choices": [
+        "Rasa",
+        "Alus",
+        "Riang",
+        "Halus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American modern dance pioneer established the technique emphasizing contraction and release of the torso?",
+      "choices": [
+        "Martha Graham",
+        "José Limón",
+        "Merce Cunningham",
+        "Paul Taylor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the quickstep ballroom dance, what is the distinctive hopping action performed on the balls of the feet called?",
+      "choices": [
+        "Chassé",
+        "Feather step",
+        "Hop",
+        "Pivot"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the folk dance circle formation performed in traditional Balkan, Greek, and Middle Eastern cultures?",
+      "choices": [
+        "Hora",
+        "Kolo",
+        "Horan",
+        "Rondo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Japanese butoh dance, what philosophical concept involving darkness, stillness, and transformation is central to its aesthetic?",
+      "choices": [
+        "Wabi-sabi",
+        "Yohaku no bi",
+        "Ankoku butoh",
+        "Ma"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Académie Royale de Danse, the first formalized ballet academy, established in France?",
+      "choices": [
+        "1661",
+        "1685",
+        "1672",
+        "1650"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Natya Shastra, an ancient Sanskrit text from India, primarily documents which classical dance form's techniques and theory?",
+      "choices": [
+        "Kathak",
+        "Bharatanatyam",
+        "Kathakali",
+        "Odissi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which famous tap dancer pioneered the 'buck-and-wing' style and starred in multiple films during the early 20th century?",
+      "choices": [
+        "Bill Robinson",
+        "Fred Astaire",
+        "Gene Kelly",
+        "James Cagney"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the characteristic time signature used in Viennese waltz choreography?",
+      "choices": [
+        "2/4 time",
+        "3/4 time",
+        "4/4 time",
+        "6/8 time"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The archaeological site of Bhimbetka in India contains rock paintings depicting dancers dating back approximately how many years?",
+      "choices": [
+        "5,000 years",
+        "10,000 years",
+        "15,000 years",
+        "7,500 years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical ballet, what is the term for the position where a dancer stands on the tips of their toes?",
+      "choices": [
+        "Relevé",
+        "Pointe",
+        "Arabesque",
+        "Attitude"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which contemporary dance movement, emerging in the 1960s, emphasized improvisation and pedestrian movement over classical technique?",
+      "choices": [
+        "Postmodern dance",
+        "Jazz dance",
+        "Contemporary ballet",
+        "Neo-classical dance"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional rhythm pattern that defines the tango, characterized by specific accents on specific beats?",
+      "choices": [
+        "Quick-quick-slow-slow",
+        "Slow-slow-quick-quick-slow",
+        "Slow-quick-quick-slow",
+        "Quick-slow-slow-quick"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Bharatanatyam dance, what is the term for the rhythmic syllables spoken or sung to accompany footwork?",
+      "choices": [
+        "Mudra",
+        "Tala",
+        "Solkattu",
+        "Rasa"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ballet, first choreographed by Pyotr Ilyich Tchaikovsky's contemporary Marius Petipa, tells the story of Swan Lake?",
+      "choices": [
+        "The Nutcracker",
+        "Swan Lake",
+        "Sleeping Beauty",
+        "Giselle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific footwork technique in tap dance involves striking the floor with the ball and heel of the shoe in rapid succession?",
+      "choices": [
+        "Shuffle",
+        "Flap",
+        "Cramp roll",
+        "Riff"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In hip-hop dance culture, what term describes freestyle competitive battles where dancers take turns performing?",
+      "choices": [
+        "Cypher",
+        "Battle circle",
+        "Freestyle ring",
+        "Cypher battle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What dance style originated in Cuba and is characterized by Cuban motion, which results from a specific hip action?",
+      "choices": [
+        "Mambo",
+        "Salsa",
+        "Rumba",
+        "Cha-cha-cha"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African dance form, performed at celebrations and ceremonies, features synchronized group movements and call-and-response patterns?",
+      "choices": [
+        "Juba",
+        "Capoeira",
+        "Adowa",
+        "Gumboot dancing"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical ballet vocabulary, what term describes a position where one leg is extended behind the body at a 90-degree angle?",
+      "choices": [
+        "Developé",
+        "Attitude",
+        "Arabesque",
+        "Extension"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What Japanese traditional dance form, developed in the Edo period, is typically performed by geishas and uses fans or other props?",
+      "choices": [
+        "Butoh",
+        "Bon Odori",
+        "Nihon Buyo",
+        "Hachioji Oroshi"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In contemporary dance, what term describes the relationship between movement and music in which the dancer responds to silence or counterpoint?",
+      "choices": [
+        "Musicality",
+        "Syncopation",
+        "Countermusic",
+        "Rhythmic displacement"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional formation called when Irish dancers perform in synchronized lines during competitive step dancing?",
+      "choices": [
+        "Ceili",
+        "Set dancing",
+        "Reel formation",
+        "Line stepping"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Kathak dance tradition of North India, what is the principal rhythmic framework that guides the dancer's performance?",
+      "choices": [
+        "Rasa",
+        "Tala",
+        "Laya",
+        "Mudra"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What avant-garde dance movement, originating in Germany in the 1970s, emphasized raw physicality and emotional expression through grotesque imagery?",
+      "choices": [
+        "Tanztheater",
+        "Tanzmoderne",
+        "Expressionist dance",
+        "Neue Tanz"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical ballet, what is the term for the technique of dancing on the tips of the toes using reinforced pointe shoes?",
+      "choices": [
+        "Relevé",
+        "En pointe",
+        "Arabesque",
+        "Pirouette"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which avant-garde dance company, founded by Merce Cunningham in 1953, revolutionized modern dance by separating movement from musical accompaniment?",
+      "choices": [
+        "Alvin Ailey American Dance Theater",
+        "Merce Cunningham Dance Company",
+        "American Ballet Theatre",
+        "New York City Ballet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Portuguese folk dance that shares its name with a fado music style and features partner work with characteristic hand clapping?",
+      "choices": [
+        "Vira",
+        "Moda",
+        "Ponto",
+        "Fadista"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Bharatanatyam classical Indian dance tradition, what is the name of the opening invocation piece that honors the deity of the dance space?",
+      "choices": [
+        "Tillana",
+        "Alarippu",
+        "Pushpanjali",
+        "Varnam"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German choreographer and dance theorist pioneered Tanztheater (dance theater) in the 1970s, blending theatrical elements with contemporary dance?",
+      "choices": [
+        "Pina Bausch",
+        "Kurt Jooss",
+        "Mary Wigman",
+        "Oskar Schlemmer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the sustained upright posture and controlled movement quality characteristic of Kathak, the North Indian classical dance form?",
+      "choices": [
+        "Tribhanga",
+        "Samabhanga",
+        "Abhinaya",
+        "Nritta"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ballroom dance competitions, which Latin dance is characterized by Cuban motion and a side-together-side weight transfer pattern?",
+      "choices": [
+        "Quickstep",
+        "Rumba",
+        "Jive",
+        "Paso Doble"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the traditional Japanese dance form performed by geishas that involves refined hand gestures and mimetic storytelling?",
+      "choices": [
+        "Noh",
+        "Kabuki Odori",
+        "Maimai",
+        "Buyo"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian Imperial Ballet dancer defected to the West in 1961 and became one of the greatest male dancers of the 20th century?",
+      "choices": [
+        "Sergei Diaghilev",
+        "Rudolf Nureyev",
+        "Vaslav Nijinsky",
+        "George Balanchine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In hip-hop dance culture, what is the term for the foundational footwork style performed on the ground, characterized by intricate legwork and freezes?",
+      "choices": [
+        "Locking",
+        "Popping",
+        "Breaking",
+        "Krumping"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Argentine dance movement that emerged in the late 19th century and is known for its close partner embrace and improvised movements?",
+      "choices": [
+        "Milonga",
+        "Tango",
+        "Calesita",
+        "Habanera"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British choreographer created the ballet 'Giselle' in 1841 and is considered a founder of the Romantic ballet era?",
+      "choices": [
+        "Jean Coralli",
+        "Jules Perrot",
+        "Adolphe Adam",
+        "Marie Taglioni"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Flamenco dance, what is the term for the rhythmic hand clapping that accompanies the dancer and guitarist?",
+      "choices": [
+        "Tacón",
+        "Palmas",
+        "Compás",
+        "Falseta"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary characteristic that distinguishes the Kuchipudi classical dance form of India from other Indian dance traditions in terms of costume and performance space?",
+      "choices": [
+        "It is performed exclusively on a raised wooden platform",
+        "Dancers wear only simple white clothing",
+        "It incorporates speaking dialogue and dramatic narratives",
+        "It requires the performer to dance inside a large metal cage"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dance movement, characterized by rapid muscle contractions and body isolation, was popularized by dancers like Don Campbell and Boogaloo Sam in the 1970s?",
+      "choices": [
+        "Popping",
+        "Locking",
+        "Waving",
+        "Tutting"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ballet, what is the name of the position where the dancer stands with weight evenly distributed on both legs and both feet turned outward?",
+      "choices": [
+        "Tendu",
+        "First position",
+        "Fourth position",
+        "Plié"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term used in contemporary dance for the technique of transferring weight between body parts while maintaining contact with the floor?",
+      "choices": [
+        "Contracting",
+        "Contraction",
+        "Floor work",
+        "Weight sharing"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Mexican folk dance, historically performed at celebrations and featuring pairs of dancers with intricate footwork, shares its name with a type of traditional clothing?",
+      "choices": [
+        "Jarabe Tapatío",
+        "Zapateado",
+        "Huapango",
+        "Jarana"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Odissi classical dance from India, what is the characteristic three-part body posture known as the foundational stance?",
+      "choices": [
+        "Samabhanga",
+        "Tribhanga",
+        "Ahava",
+        "Mudra"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Irish step dance competition that has been held annually since 1929 and is the world's largest international dance competition?",
+      "choices": [
+        "Fleadh Cheoil",
+        "Oireachtas",
+        "World Irish Dancing Championships",
+        "An Coimisiún le Rincí Gealach"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ballet, what is the term for the position where a dancer stands on the tips of their toes using specially reinforced pointe shoes?",
+      "choices": [
+        "En relevé",
+        "Sur le pointe",
+        "En pointe",
+        "Relevé tendu"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Argentine tango dancer and choreographer, known for revolutionary interpretations of the form, founded the Grupo Coloniales in the 1980s?",
+      "choices": [
+        "Juan Carlos Copes",
+        "Astor Piazzolla",
+        "Milena Plebs",
+        "Gustavo Naveira"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Kathak, one of India's eight classical dance forms, what is the name of the rhythmic footwork patterns that accompany the tabla?",
+      "choices": [
+        "Tarang",
+        "Tatkaar",
+        "Thaat",
+        "Teermanam"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary musical interval structure that defines the rhythm of a traditional Scottish reel in folk dance?",
+      "choices": [
+        "4/4 time with syncopated beats",
+        "Duple meter at approximately 120 beats per minute",
+        "3/4 time signature in waltz tempo",
+        "6/8 time with dotted rhythms"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Laban Movement Analysis system, which of the following is NOT one of the four motion factors used to describe movement quality?",
+      "choices": [
+        "Weight",
+        "Space",
+        "Flow",
+        "Percussion"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 20th-century modern dance pioneer developed the technique of 'contraction and release' as a fundamental principle of movement?",
+      "choices": [
+        "Martha Graham",
+        "Alvin Ailey",
+        "Merce Cunningham",
+        "George Balanchine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical Javanese court dance, what is the aesthetic principle emphasizing smooth, controlled, and inward-focused movement?",
+      "choices": [
+        "Laya",
+        "Halus",
+        "Rasa",
+        "Mudra"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the specific name for the Ukrainian folk dance characterized by high, explosive kicks performed primarily by male dancers?",
+      "choices": [
+        "Hopak",
+        "Kasachok",
+        "Trembita",
+        "Pzhavela"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In hip-hop dance, which foundational move, popularized in the 1970s Bronx, involves rotating the torso while keeping the hips stationary?",
+      "choices": [
+        "Popping",
+        "Locking",
+        "Breaking",
+        "Waving"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish flamenco dancer and choreographer, active in the mid-20th century, is credited with elevating flamenco to concert hall status and modernizing its aesthetic?",
+      "choices": [
+        "Carmen Amaya",
+        "Antonio Gades",
+        "Joaquín Cortés",
+        "Sara Baras"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which country did the tango dance originate in the late 19th century?",
+      "choices": [
+        "Brazil",
+        "Argentina",
+        "Spain",
+        "Cuba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary footwear feature that distinguishes tap dance from other dance styles?",
+      "choices": [
+        "Rubber soles for grip",
+        "Metal plates attached to the bottom of shoes",
+        "Soft leather construction",
+        "Elevated heels for balance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian classical dance form is traditionally performed in temples and is known for its intricate hand gestures called mudras?",
+      "choices": [
+        "Bhangra",
+        "Bharatanatyam",
+        "Kathak",
+        "Odissi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ballroom dancing, what is the name of the basic step pattern in waltz consisting of three counts?",
+      "choices": [
+        "Box step",
+        "Pivot turn",
+        "Chassé",
+        "Promenade"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Spanish flamenco dance is characterized by rapid footwork and a passionate, dramatic style?",
+      "choices": [
+        "Paso doble",
+        "Tangos",
+        "Alegrías",
+        "Rumba"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which contemporary dance movement emerged from African-American communities in the 1970s and emphasizes popping, locking, and freestyle movements?",
+      "choices": [
+        "Krumping",
+        "Breaking",
+        "House dancing",
+        "Voguing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Irish step dancing, dancers maintain their arms in what position relative to their body?",
+      "choices": [
+        "Raised above the head",
+        "Swinging freely at the sides",
+        "Held stiffly at the sides",
+        "Crossed over the chest"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the time signature typically used in a traditional waltz?",
+      "choices": [
+        "2/4 time",
+        "3/4 time",
+        "4/4 time",
+        "6/8 time"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dance style, originating in Jamaica, is characterized by movements where dancers lower their body toward the ground with knees bent?",
+      "choices": [
+        "Dancehall",
+        "Reggaeton",
+        "Kumina",
+        "Mento"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ballet, what term describes a movement where a dancer rises onto the tips of their toes?",
+      "choices": [
+        "Arabesque",
+        "En pointe",
+        "Battement",
+        "Pirouette"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary purpose of a choreographer in a dance production?",
+      "choices": [
+        "To perform all solos",
+        "To design and create the movement sequences",
+        "To manage the dance company's finances",
+        "To train new dancers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Middle Eastern dance form features movements that emphasize hip, torso, and arm articulation?",
+      "choices": [
+        "Debke",
+        "Belly dance",
+        "Hora",
+        "Dervish whirling"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In swing dancing, what is the basic counting pattern used by dancers to stay in rhythm?",
+      "choices": [
+        "1-2-3-4",
+        "1-2-3, 5-6-7",
+        "1-2, 3-4-5-6",
+        "Syncopated only"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Brazilian dance form, performed during Carnival celebrations, features samba schools competing with elaborate floats and choreography?",
+      "choices": [
+        "Forró",
+        "Capoeira",
+        "Samba enredo",
+        "Tropicália"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Kathak, a classical Indian dance form, what is the primary focus of the dancer's footwork?",
+      "choices": [
+        "Upper body movements only",
+        "Rhythmic patterns created by foot strikes and bells",
+        "Arm movements and spins",
+        "Head and facial expressions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Eastern European dance is traditionally performed in a line or circle and features high kicks and energetic movements?",
+      "choices": [
+        "Polka",
+        "Hora",
+        "Mazurka",
+        "Czardas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What salsa dance move involves a partner spinning while the other partner maintains their frame and position?",
+      "choices": [
+        "Spot turn",
+        "Cross-body lead",
+        "Underarm turn",
+        "Hook turn"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In modern dance, which pioneer is known for developing a technique emphasizing the use of gravity and floor work?",
+      "choices": [
+        "George Balanchine",
+        "Martha Graham",
+        "Merce Cunningham",
+        "Jerome Robbins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional costume worn by male flamenco dancers called?",
+      "choices": [
+        "Bolero",
+        "Traje de flamenca",
+        "Suit of lights",
+        "Traje corto"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Argentine tango, what term describes the intimate connection and communication between two dancing partners?",
+      "choices": [
+        "Abrazo",
+        "Entrada",
+        "Salida",
+        "Desplante"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pioneering dancer of the early 20th century is credited with developing modern dance as a distinct art form emphasizing personal expression over rigid technique?",
+      "choices": [
+        "Isadora Duncan",
+        "Anna Pavlova",
+        "Martha Graham",
+        "George Balanchine"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ballroom dancing, what is the characteristic rhythm pattern of the tango?",
+      "choices": [
+        "Slow-slow-quick-quick-slow",
+        "Quick-quick-slow-quick-quick",
+        "Slow-quick-quick-slow-slow",
+        "Quick-slow-slow-quick-quick"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Brazilian dance form, originally developed in Rio de Janeiro in the early 20th century, features rapid hip movements and became famous through Carnival celebrations?",
+      "choices": [
+        "Capoeira",
+        "Samba",
+        "Forró",
+        "Axé"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tap dancing legend of the 1930s-1950s was known for his innovative choreography and smooth footwork in films alongside Ginger Rogers?",
+      "choices": [
+        "Gene Kelly",
+        "Fred Astaire",
+        "Bill Robinson",
+        "Donald O'Connor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What dance style, originating in Spain's Andalusia region, is characterized by passionate arm movements, intricate footwork, and emotional expression?",
+      "choices": [
+        "Paso Doble",
+        "Bolero",
+        "Flamenco",
+        "Jota"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In hip-hop dance culture, what term describes a one-on-one competitive dance encounter where dancers take turns improvising moves?",
+      "choices": [
+        "Cypher",
+        "Battle",
+        "Cipher",
+        "Freestyle circle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ancient Indian text, written around the 2nd century BCE, is considered the foundational manual for classical Indian dance and drama?",
+      "choices": [
+        "Bhagavad Gita",
+        "Natya Shastra",
+        "Rigveda",
+        "Upanishads"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Latin American partner dance, originating in Cuba, is known for its syncopated rhythm and smooth hip movements performed in closed position?",
+      "choices": [
+        "Salsa",
+        "Mambo",
+        "Son Cubano",
+        "Cha-cha-cha"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary metal component attached to tap shoes that creates the distinctive rhythmic sound during performance?",
+      "choices": [
+        "Aluminum plates",
+        "Steel taps",
+        "Copper rings",
+        "Iron cleats"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chinese cultural dance, traditionally performed during lunar new year celebrations, requires a long fabric costume operated by multiple performers?",
+      "choices": [
+        "Lion dance",
+        "Dragon dance",
+        "Phoenix dance",
+        "Crane dance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What dance form emerged in African-American communities in the early 20th century and combines elements of African movement, European style, and syncopated rhythms?",
+      "choices": [
+        "Modern dance",
+        "Contemporary dance",
+        "Jazz dance",
+        "Swing dance"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In classical ballet, what is the term for the technique of rising onto the tips of the toes using special pointe shoes?",
+      "choices": [
+        "Élevé",
+        "Sur le cou-de-pied",
+        "En pointe",
+        "Relevé"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which disco dance move, popularized by John Travolta in the 1977 film Saturday Night Fever, involves pointing alternately toward opposite sides?",
+      "choices": [
+        "The hustle",
+        "The Bus Stop",
+        "The pointing dance",
+        "The Bee Gees step"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Korean martial art shares movement principles with Korean dance and involves synchronized group performances with weapons?",
+      "choices": [
+        "Taekwondo",
+        "Hapkido",
+        "Salpuri",
+        "Samulnori"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In contemporary dance, what movement technique did Merce Cunningham pioneer that separates dance movement from musical accompaniment?",
+      "choices": [
+        "Chance choreography",
+        "Contact improvisation",
+        "Release technique",
+        "Postmodern decoupling"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Irish step dance that gained international popularity through shows like Riverdance, featuring rapid leg movements with a stiff upper body?",
+      "choices": [
+        "Ceili dancing",
+        "Sean-nós",
+        "Irish step dancing",
+        "Hornpipe"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ballroom dance competitions, what dance is characterized by long flowing movements and is performed to Viennese waltz-style music?",
+      "choices": [
+        "Quickstep",
+        "Foxtrot",
+        "Waltz",
+        "Tango"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Argentine dance originated in the late 19th century in working-class neighborhoods and is known for its dramatic posturing and intricate footwork?",
+      "choices": [
+        "Milonga",
+        "Tango",
+        "Chacarera",
+        "Zamba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American choreographer of the mid-20th century is famous for creating the technique of 'release technique' that emphasizes natural gravity and efficient movement?",
+      "choices": [
+        "Alvin Ailey",
+        "Paul Taylor",
+        "David Gordon",
+        "Steve Paxton"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In K-pop and Korean street dance, what is the term for the coordinated group performance style that emphasizes synchronized movements and formation changes?",
+      "choices": [
+        "Synchronized dance",
+        "Formation dance",
+        "Freestyle choreography",
+        "Group coordination dance"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country did the tango dance originate during the late 19th century?",
+      "choices": [
+        "Brazil",
+        "Argentina",
+        "Spain",
+        "Cuba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary footwear worn by ballet dancers to achieve the characteristic rise en pointe?",
+      "choices": [
+        "Soft canvas slippers",
+        "Pointe shoes",
+        "Leather jazz shoes",
+        "Tap shoes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian classical dance form is traditionally performed by women and features rapid foot movements called tatta?",
+      "choices": [
+        "Kathak",
+        "Bharatanatyam",
+        "Kathakali",
+        "Odissi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Michael Jackson first publicly perform the moonwalk on television?",
+      "choices": [
+        "1981",
+        "1983",
+        "1985",
+        "1987"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ballroom dance competitions, which of these is classified as a Latin dance rather than a Standard dance?",
+      "choices": [
+        "Waltz",
+        "Foxtrot",
+        "Pasodoble",
+        "Tango"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which early 20th-century American dancer is credited with pioneering modern dance as a distinct art form?",
+      "choices": [
+        "Martha Graham",
+        "Isadora Duncan",
+        "George Balanchine",
+        "Jerome Robbins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional time signature most commonly used in waltz music?",
+      "choices": [
+        "2/4",
+        "3/4",
+        "4/4",
+        "6/8"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Flamenco dancing originated in which region of Spain?",
+      "choices": [
+        "Catalonia",
+        "Basque Country",
+        "Andalusia",
+        "Valencia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dance style, originating in Africa and developed in the American South, emphasizes improvisation and jazz rhythms?",
+      "choices": [
+        "Swing dance",
+        "Jazz dance",
+        "Hip-hop dance",
+        "Breakdancing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In hip-hop dance culture, what is the name of the dance move involving spinning on one's back or head?",
+      "choices": [
+        "Popping",
+        "Locking",
+        "Breaking",
+        "Freezing"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Irish dance form became widely popular worldwide after the 1994 show 'Riverdance'?",
+      "choices": [
+        "Clogging",
+        "Step dancing",
+        "Ceili dancing",
+        "Soft-shoe dancing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which choreographer created 'The Rite of Spring' ballet that caused a famous riot at its 1913 premiere?",
+      "choices": [
+        "George Balanchine",
+        "Michel Fokine",
+        "Vaslav Nijinsky",
+        "Igor Stravinsky"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary characteristic that distinguishes contemporary dance from classical ballet?",
+      "choices": [
+        "Use of pointe shoes",
+        "Emphasis on floor work and gravity",
+        "Structured symmetry",
+        "Court-like etiquette"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In swing dance, what is the basic structure called that most swing moves are built upon?",
+      "choices": [
+        "Triple step",
+        "Rock step",
+        "Box step",
+        "Waltz frame"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What percussion instrument is essential to the performance of flamenco dancing?",
+      "choices": [
+        "Castanets",
+        "Cowbells",
+        "Tambourines",
+        "Finger cymbals"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which choreographer, known for his neoclassical ballet style, founded New York City Ballet in 1948?",
+      "choices": [
+        "Jerome Robbins",
+        "George Balanchine",
+        "Alvin Ailey",
+        "Bob Fosse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the fundamental basic step of salsa dancing, typically counted in how many beats?",
+      "choices": [
+        "4 beats",
+        "8 beats",
+        "6 beats",
+        "12 beats"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did breakdancing emerge as a significant cultural movement in New York City?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What dance style, characterized by rapid body isolations and fluid movements, emerged in 1970s California?",
+      "choices": [
+        "Locking",
+        "Popping",
+        "Waving",
+        "Tutting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian ballet company, founded in 1909, became famous for introducing innovative choreography and costumes to European audiences?",
+      "choices": [
+        "Bolshoi Ballet",
+        "Mariinsky Ballet",
+        "Ballets Russes",
+        "Russian State Ballet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian classical dance form is traditionally performed by a single dancer and emphasizes intricate footwork combined with hand gestures called mudras?",
+      "choices": [
+        "Kathak",
+        "Bharatanatyam",
+        "Kathakali",
+        "Odissi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for a structured sequence of movements and transitions that a dancer performs in a competitive or performance setting?",
+      "choices": [
+        "Improvisation",
+        "Routine",
+        "Movement phrase",
+        "Technique drill"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Contemporary dance, which emerged in the mid-20th century, is most closely associated with which principle of movement?",
+      "choices": [
+        "Rigid posture and turnout",
+        "Free-flowing movement and personal expression",
+        "Synchronized group formations",
+        "Rhythmic footwork patterns"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Argentine tango is traditionally danced in what type of embrace between partners?",
+      "choices": [
+        "Open frame with arm's length distance",
+        "Closed frame with bodies in close contact",
+        "Side-by-side with no physical contact",
+        "One partner leading from behind"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country did the Paso Doble, a dramatic marching dance, originate?",
+      "choices": [
+        "Mexico",
+        "Cuba",
+        "Spain",
+        "Argentina"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary musical characteristic that distinguishes reggaeton dance from other Latin dances?",
+      "choices": [
+        "Fast waltz time signature",
+        "Distinctive dembow rhythm",
+        "Tango syncopation",
+        "Samba samba beat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Lindy Hop, a swing dance that became popular in the 1930s and 1940s, originated in which American city?",
+      "choices": [
+        "New Orleans, Louisiana",
+        "Chicago, Illinois",
+        "New York City, New York",
+        "Kansas City, Missouri"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ballet, what is the term for the technique of a dancer rising onto the tips of their toes using specially reinforced shoes?",
+      "choices": [
+        "Pirouette",
+        "Relevé",
+        "En pointe",
+        "Arabesque"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dance style, originating from the Caribbean island of Trinidad, features elaborate feathered costumes and rhythmic hip movements?",
+      "choices": [
+        "Merengue",
+        "Calypso",
+        "Limbo",
+        "Carnival dance"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary role of a choreographer in a dance production?",
+      "choices": [
+        "To perform the lead role in the dance",
+        "To judge the technical skill of dancers",
+        "To create and arrange the movement sequences and overall artistic vision",
+        "To manage the administrative and financial aspects"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,169 +1,2581 @@
 {
   "slug": "pokemon-trivia",
-  "name": "Pokémon",
-  "description": "Gotta know 'em all — types, evolutions, and trainers",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Pokemon",
+  "processedAt": "2026-05-24T20:43:43.683Z",
   "questions": [
     {
-      "q": "Which Pokémon is #001 in the National Pokédex?",
-      "choices": ["Pikachu", "Mew", "Bulbasaur", "Charmander"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Grass/Poison type. Evolves to Ivysaur, then Venusaur." }
-    },
-    {
-      "q": "What type is Pikachu, the franchise's mascot?",
-      "choices": ["Fighting", "Psychic", "Electric", "Normal"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Electric", "verified": true, "notes": "#025. Evolves from Pichu (needs happiness) and into Raichu (via Thunder Stone)." }
-    },
-    {
-      "q": "What is Charmander's Pokémon type?",
-      "choices": ["Water", "Fire", "Grass", "Dragon"],
-      "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Fire", "verified": true, "notes": "Pure Fire type. Evolves into Charmeleon then Charizard (Fire/Flying)." }
-    },
-    {
-      "q": "What does Ivysaur evolve into?",
-      "choices": ["Bulbasaur", "Venusaur", "Blastoise", "Charizard"],
-      "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Venusaur", "verified": true, "notes": "Ivysaur evolves at level 32 into Venusaur." }
-    },
-    {
-      "q": "How many Pokémon were in the original Pokémon Red and Blue games?",
-      "choices": ["100", "151", "251", "386"],
-      "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Generation 1. Mew was added as a rare event Pokémon (#151)." }
-    },
-    {
-      "q": "Who created the Pokémon franchise?",
-      "choices": ["Shigeru Miyamoto", "Satoshi Tajiri", "Masahiro Sakurai", "Hideo Kojima"],
-      "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Inspired by his childhood bug-collecting hobby. Founded Game Freak in 1989." }
-    },
-    {
-      "q": "In what year were the first Pokémon games (Red and Green) released in Japan?",
-      "choices": ["1992", "1996", "1999", "2001"],
-      "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "February 27, 1996 in Japan. Red and Blue released in North America in 1998." }
-    },
-    {
-      "q": "What is the name of the main protagonist in the Pokémon anime?",
-      "choices": ["Red", "Gary Oak", "Ash Ketchum", "Brock"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Known as Satoshi in Japan. From Pallet Town in Kanto. Finally became a Pokémon Master in 2022 (26 years later!)." }
-    },
-    {
-      "q": "In what region do the original Pokémon Red and Blue games take place?",
-      "choices": ["Johto", "Hoenn", "Kanto", "Sinnoh"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Based on the real Kantō region of Japan. Main cities: Pallet Town, Cerulean, Celadon." }
-    },
-    {
-      "q": "Who is the Pokémon professor in the original Kanto region?",
-      "choices": ["Professor Elm", "Professor Birch", "Professor Oak", "Professor Rowan"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Samuel Oak. Gary Oak's grandfather. Specializes in Pokémon-human relationships." }
-    },
-    {
-      "q": "What are the names of the Team Rocket trio that chases Ash Ketchum in the anime?",
-      "choices": ["Jessie, James, and Meowth", "Butch, Cassidy, and Team Rocket Grunt", "Proton, Petrel, and Ariana", "Giovanni, Archer, and Attila"],
+      "q": "What is the name of Ash Ketchum's hometown where he began his Pokémon journey?",
+      "choices": [
+        "Pallet Town",
+        "Pewter City",
+        "Viridian City",
+        "Cerulean City"
+      ],
       "correct": 0,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Their catchphrase: 'Prepare for trouble... and make it double!'" }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the dual type of Bulbasaur?",
-      "choices": ["Grass/Fire", "Grass/Water", "Grass/Poison", "Grass/Fighting"],
+      "q": "Which type of Pokémon is Pikachu?",
+      "choices": [
+        "Water",
+        "Electric",
+        "Fire",
+        "Grass"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What region is primarily controlled by Team Rocket?",
+      "choices": [
+        "Johto",
+        "Hoenn",
+        "Kanto",
+        "Sinnoh"
+      ],
       "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Venusaur", "verified": true, "notes": "Unique typing among starter Pokémon. The only Grass/Poison starter line." }
+      "difficulty": "easy"
     },
     {
-      "q": "Psyduck is which Pokémon type?",
-      "choices": ["Water", "Psychic", "Water/Psychic", "Fighting/Psychic"],
+      "q": "What item does Pikachu need to evolve into Raichu?",
+      "choices": [
+        "Fire Stone",
+        "Water Stone",
+        "Thunder Stone",
+        "Moon Stone"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Into what Pokémon does Charmander evolve when it reaches level 16?",
+      "choices": [
+        "Charmeleon",
+        "Charizard",
+        "Flareon",
+        "Arcanine"
+      ],
       "correct": 0,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Water", "verified": true, "notes": "Despite the 'Psy' in its name, Psyduck is pure Water type. Misty's famous Pokémon." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Pokémon is the 'genetic clone' created by scientists, serving as the main antagonist of the first movie?",
-      "choices": ["Mew", "Mewtwo", "Ditto", "Deoxys"],
+      "q": "What type of Pokémon is Turtwig?",
+      "choices": [
+        "Water",
+        "Grass",
+        "Ground",
+        "Rock"
+      ],
       "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "#150. A clone of Mew. Psychic-type legendary." }
+      "difficulty": "easy"
     },
     {
-      "q": "What are the three original Kanto starter Pokémon?",
-      "choices": ["Pikachu, Eevee, Charmander", "Bulbasaur, Charmander, Squirtle", "Chikorita, Cyndaquil, Totodile", "Treecko, Torchic, Mudkip"],
+      "q": "What is the famous catchphrase associated with Pokémon trainers?",
+      "choices": [
+        "Catch them fast!",
+        "Gotta Catch 'Em All!",
+        "Train them well!",
+        "Battle them now!"
+      ],
       "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Grass, Fire, and Water. The pattern of 3 starter types repeats in every generation." }
+      "difficulty": "easy"
     },
     {
-      "q": "What Pokémon is Ash's starter in the anime series?",
-      "choices": ["Charmander", "Bulbasaur", "Squirtle", "Pikachu"],
+      "q": "What type of Pokémon is Caterpie?",
+      "choices": [
+        "Grass",
+        "Bug",
+        "Poison",
+        "Normal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Into what Pokémon does Pidgey evolve when it reaches level 18?",
+      "choices": [
+        "Pidgeotto",
+        "Pidgeot",
+        "Spearow",
+        "Fearow"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Team Rocket members are known as the main troublemakers in the animated series?",
+      "choices": [
+        "Blaine and Sabrina",
+        "Jessie and James",
+        "Koga and Janine",
+        "Brock and Misty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Slugma?",
+      "choices": [
+        "Electric",
+        "Ground",
+        "Fire",
+        "Rock"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What item does Jigglypuff need to evolve into Wigglytuff?",
+      "choices": [
+        "Fire Stone",
+        "Moon Stone",
+        "Sun Stone",
+        "Dusk Stone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region is the primary setting for Team Aqua's operations?",
+      "choices": [
+        "Kanto",
+        "Johto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Vulpix?",
+      "choices": [
+        "Normal",
+        "Ground",
+        "Fire",
+        "Electric"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Team Aqua leader?",
+      "choices": [
+        "Magma",
+        "Archie",
+        "Maxie",
+        "Wallace"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Into what Pokémon does Cyndaquil evolve when it reaches level 14?",
+      "choices": [
+        "Typhlosion",
+        "Quilava",
+        "Arcanine",
+        "Rapidash"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Drowzee?",
+      "choices": [
+        "Normal",
+        "Psychic",
+        "Ghost",
+        "Dark"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Into what Pokémon does Metapod evolve when it reaches level 10?",
+      "choices": [
+        "Butterfree",
+        "Beedrill",
+        "Scyther",
+        "Heracross"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Tyrogue?",
+      "choices": [
+        "Normal",
+        "Fighting",
+        "Rock",
+        "Ground"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region is the primary setting for Team Flare's operations?",
+      "choices": [
+        "Unova",
+        "Kalos",
+        "Alola",
+        "Galar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Pikachu?",
+      "choices": [
+        "Electric",
+        "Water",
+        "Fire",
+        "Grass"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon evolves into Charizard?",
+      "choices": [
+        "Bulbasaur",
+        "Charmander",
+        "Squirtle",
+        "Pidgeot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary type of Squirtle?",
+      "choices": [
+        "Grass",
+        "Water",
+        "Ice",
+        "Ground"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which item does Pikachu need to evolve into Raichu?",
+      "choices": [
+        "Fire Stone",
+        "Thunder Stone",
+        "Water Stone",
+        "Leaf Stone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What region is home to Team Rocket?",
+      "choices": [
+        "Johto",
+        "Kanto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon is known as the Electric Mouse?",
+      "choices": [
+        "Raichu",
+        "Pachirisu",
+        "Pikachu",
+        "Mareep"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Bulbasaur?",
+      "choices": [
+        "Poison",
+        "Grass/Poison",
+        "Water/Grass",
+        "Fire/Grass"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon evolves from Oddish?",
+      "choices": [
+        "Vileplume",
+        "Gloom",
+        "Bellossom",
+        "Exeggcute"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Drowzee?",
+      "choices": [
+        "Ghost",
+        "Psychic",
+        "Dark",
+        "Poison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon is a small fire-type lizard that starts in Kanto?",
+      "choices": [
+        "Growlithe",
+        "Charmander",
+        "Vulpix",
+        "Ponyta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Pidgeot?",
+      "choices": [
+        "Normal/Flying",
+        "Flying/Psychic",
+        "Normal/Ground",
+        "Flying/Water"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon evolves into Jigglypuff?",
+      "choices": [
+        "Igglybuff",
+        "Wigglytuff",
+        "Clefable",
+        "Chansey"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Totodile?",
+      "choices": [
+        "Water",
+        "Water/Ground",
+        "Ice/Water",
+        "Fire/Water"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which evolution stone turns Gloom into Vileplume?",
+      "choices": [
+        "Fire Stone",
+        "Leaf Stone",
+        "Moon Stone",
+        "Sun Stone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Turtwig?",
+      "choices": [
+        "Water",
+        "Ground",
+        "Grass",
+        "Rock"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon evolves into Parasect?",
+      "choices": [
+        "Paras",
+        "Venonat",
+        "Exeggcute",
+        "Bellsprout"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Cyndaquil?",
+      "choices": [
+        "Fire",
+        "Fire/Ground",
+        "Fire/Electric",
+        "Normal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon has both Bug and Poison types?",
+      "choices": [
+        "Weedle",
+        "Venonat",
+        "Paras",
+        "Scyther"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the final evolution of Spearow?",
+      "choices": [
+        "Pidgeot",
+        "Fearow",
+        "Aerodactyl",
+        "Dragonite"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon is a small round balloon with big eyes?",
+      "choices": [
+        "Wigglytuff",
+        "Jigglypuff",
+        "Chansey",
+        "Clefable"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which electric-type Pokémon is Ash Ketchum's most iconic companion?",
+      "choices": [
+        "Electabuzz",
+        "Pikachu",
+        "Raichu",
+        "Magneton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the term 'Pokémon' stand for?",
+      "choices": [
+        "Power Monsters",
+        "Pocket Monsters",
+        "Pokéball Monsters",
+        "Player Monsters"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Charmander evolves into Charmeleon, and Charmeleon evolves into what fire-type Pokémon?",
+      "choices": [
+        "Infernape",
+        "Charizard",
+        "Moltres",
+        "Typhlosion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first Pokémon in the National Pokédex?",
+      "choices": [
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Bulbasaur is primarily what type of Pokémon?",
+      "choices": [
+        "Poison",
+        "Grass",
+        "Water",
+        "Psychic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which water-type Pokémon is famous for evolving from the weak Magikarp?",
+      "choices": [
+        "Lapras",
+        "Gyarados",
+        "Blastoise",
+        "Dragonite"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Squirtle is the water-type starter Pokémon from which original region?",
+      "choices": [
+        "Johto",
+        "Hoenn",
+        "Kanto",
+        "Sinnoh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What item does a Pokémon trainer use to catch wild Pokémon?",
+      "choices": [
+        "Potion",
+        "Pokéball",
+        "Antidote",
+        "Repel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Cyndaquil is the fire-type starter from which Pokémon region?",
+      "choices": [
+        "Kanto",
+        "Johto",
+        "Hoenn",
+        "Unova"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the organization led by Cyrus that seeks to remake the universe?",
+      "choices": [
+        "Team Rocket",
+        "Team Magma",
+        "Team Galactic",
+        "Team Plasma"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon type is Oddish classified as?",
+      "choices": [
+        "Grass",
+        "Poison",
+        "Grass/Poison",
+        "Bug/Grass"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the final evolution of Bulbasaur?",
+      "choices": [
+        "Ivysaur",
+        "Venusaur",
+        "Vileplume",
+        "Bellossom"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Totodile is a water-type starter Pokémon that evolves into what Pokémon at level 18?",
+      "choices": [
+        "Feraligatr",
+        "Croconaw",
+        "Blastoise",
+        "Swampert"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon type would be super effective against a water-type Pokémon?",
+      "choices": [
+        "Fire",
+        "Electric",
+        "Grass",
+        "Both Electric and Grass"
+      ],
       "correct": 3,
-      "category": "Pokémon",
-      "difficulty": "easy",
-      "source": { "original_a": "Electric", "verified": true, "notes": "Given by Professor Oak because Ash was late. Ash refuses to put him in a Poké Ball." }
+      "difficulty": "easy"
     },
     {
-      "q": "How many Eevee evolutions existed as of the end of Generation 8?",
-      "choices": ["5", "7", "8", "9"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "hard",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Leafeon, Glaceon, Sylveon." }
+      "q": "What type is Turtwig, the grass-type starter from Sinnoh?",
+      "choices": [
+        "Grass",
+        "Grass/Water",
+        "Grass/Ground",
+        "Grass/Steel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Pokémon Gold and Silver introduced which new region?",
-      "choices": ["Hoenn", "Sinnoh", "Johto", "Unova"],
-      "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "2nd", "verified": true, "notes": "Released 1999 (Japan) / 2000 (US). 100 new Pokémon. Based on Japan's Kansai region." }
-    },
-    {
-      "q": "Which company co-owns The Pokémon Company alongside Nintendo and Game Freak?",
-      "choices": ["Bandai Namco", "Creatures Inc.", "Capcom", "Konami"],
+      "q": "In the original Pokémon Red and Blue games, how many badge types must a trainer collect to challenge the Elite Four?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
       "correct": 1,
-      "category": "Pokémon",
-      "difficulty": "hard",
-      "source": { "original_a": "Bulbasaur", "verified": true, "notes": "Founded 1998. Creatures Inc. handles the Pokémon Trading Card Game." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Pokémon generation was featured at the launch of Pokémon GO in July 2016?",
-      "choices": ["Generation 2 (Johto, 100 Pokémon)", "Generation 3 (Hoenn)", "Generation 1 (the original 151)", "Generation 4 (Sinnoh)"],
+      "q": "Which fire-type Pokémon is known for being a monkey or ape-like creature from the Sinnoh region?",
+      "choices": [
+        "Infernape",
+        "Chimchar",
+        "Monferno",
+        "Charizard"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What stone evolution item is needed to evolve Pikachu into Raichu?",
+      "choices": [
+        "Fire Stone",
+        "Thunder Stone",
+        "Water Stone",
+        "Moon Stone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Ash Ketchum's first Pokémon that he receives at the start of his journey?",
+      "choices": [
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which elemental Stone does Pikachu need to evolve into Raichu?",
+      "choices": [
+        "Fire Stone",
+        "Thunder Stone",
+        "Water Stone",
+        "Moon Stone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What region did Ash Ketchum begin his Pokémon adventure in?",
+      "choices": [
+        "Johto",
+        "Kanto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Charmander?",
+      "choices": [
+        "Water",
+        "Grass",
+        "Fire",
+        "Electric"
+      ],
       "correct": 2,
-      "category": "Pokémon",
-      "difficulty": "medium",
-      "source": { "original_a": "Generation 1 (the original 151)", "verified": true, "notes": "audit-corrected 2026-05-09: reframed to ask which generation, not 'a Pokémon.' Released July 2016 by Niantic with the original 151 Generation 1 Pokémon (a few like Mew/Mewtwo/legendary birds were not catchable at launch)." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which organization is known for blasting off and chasing Ash throughout the series?",
+      "choices": [
+        "Team Aqua",
+        "Team Magma",
+        "Team Rocket",
+        "Team Plasma"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the English slogan of the Pokémon franchise that encourages trainers to catch every Pokémon?",
+      "choices": [
+        "Catch Them All!",
+        "Gotta Catch 'Em All!",
+        "Find Them All!",
+        "Train Them All!"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type is Squirtle, one of the original starter Pokémon?",
+      "choices": [
+        "Grass",
+        "Water",
+        "Ground",
+        "Ice"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon evolves from Charmander when it reaches level 16?",
+      "choices": [
+        "Charizard",
+        "Charmeleon",
+        "Blastoise",
+        "Venusaur"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Bulbasaur?",
+      "choices": [
+        "Grass/Poison",
+        "Water/Poison",
+        "Electric/Poison",
+        "Fire/Poison"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon is famous for saying its own name repeatedly in the anime?",
+      "choices": [
+        "Meowth",
+        "Jigglypuff",
+        "Pikachu",
+        "Psyduck"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What item do you use to evolve Eevee into Vaporeon?",
+      "choices": [
+        "Thunder Stone",
+        "Fire Stone",
+        "Water Stone",
+        "Leaf Stone"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon is a Bug/Poison type that evolves from Venonat?",
+      "choices": [
+        "Venomoth",
+        "Vileplume",
+        "Victreebel",
+        "Venusaur"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Sandshrew?",
+      "choices": [
+        "Rock",
+        "Ground",
+        "Steel",
+        "Bug"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which starter Pokémon is a Grass type?",
+      "choices": [
+        "Charmander",
+        "Squirtle",
+        "Bulbasaur",
+        "Pikachu"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which iconic Pokémon is known as the Electric-type mascot of the franchise?",
+      "choices": [
+        "Raichu",
+        "Pikachu",
+        "Electabuzz",
+        "Magneton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Poliwag?",
+      "choices": [
+        "Psychic",
+        "Water",
+        "Electric",
+        "Bug"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon evolves from Abra when traded to another trainer?",
+      "choices": [
+        "Alakazam",
+        "Machamp",
+        "Golem",
+        "Gengar"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of Pokémon is Geodude?",
+      "choices": [
+        "Rock/Ground",
+        "Rock/Steel",
+        "Ground/Steel",
+        "Rock/Electric"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokémon is a Ghost type that evolves from Haunter when traded?",
+      "choices": [
+        "Gengar",
+        "Misdreavus",
+        "Banette",
+        "Spiritomb"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the final evolution of Charmander?",
+      "choices": [
+        "Charmeleon",
+        "Charizard",
+        "Dragonite",
+        "Blastoise"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which region does Ash Ketchum begin his Pokémon journey?",
+      "choices": [
+        "Johto",
+        "Hoenn",
+        "Kanto",
+        "Sinnoh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Generation IV, which Pokémon evolves into Electivire when exposed to a Thunder Stone?",
+      "choices": [
+        "Elekid",
+        "Electabuzz",
+        "Voltorb",
+        "Mareep"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the base stat total of Mewtwo in its original form?",
+      "choices": [
+        "600",
+        "680",
+        "700",
+        "720"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon is the only known evolution of Eevee that is a Steel-type?",
+      "choices": [
+        "Umbreon",
+        "Espeon",
+        "Bronzor",
+        "Registeel"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which generation was the Pokémon Ability system first introduced?",
+      "choices": [
+        "Generation I",
+        "Generation II",
+        "Generation III",
+        "Generation IV"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the National Pokédex number of Alakazam?",
+      "choices": [
+        "63",
+        "65",
+        "64",
+        "66"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which move has the highest base power among all physical Normal-type moves?",
+      "choices": [
+        "Hyper Beam",
+        "Explosion",
+        "Take Down",
+        "Double-Edge"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type is Spiritomb, the Pokémon said to be composed of 108 spirits?",
+      "choices": [
+        "Ghost/Dark",
+        "Ghost/Psychic",
+        "Dark/Psychic",
+        "Ghost/Steel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation V, which Pokémon evolves into Volcarona when leveled up while knowing a particular move type?",
+      "choices": [
+        "Larvesta",
+        "Pupitar",
+        "Metapod",
+        "Swinub"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which legendary Pokémon is associated with the creation of the Sinnoh region's lakes?",
+      "choices": [
+        "Giratina",
+        "Dialga",
+        "Palkia",
+        "Azelf"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the signature move of Sableye that was introduced in Generation III?",
+      "choices": [
+        "Shadow Ball",
+        "Shadow Sneak",
+        "Shadow Claw",
+        "Shadow Force"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Pokémon types resist the Water-type move in terms of type matchups?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon has the Pokédex number 149 and requires a high friendship value to evolve?",
+      "choices": [
+        "Dragonair",
+        "Dratini",
+        "Gible",
+        "Bagon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Generation I games, what is the exact catch rate of Mewtwo?",
+      "choices": [
+        "30",
+        "15",
+        "45",
+        "60"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon evolution line includes a Pokémon that splits into two different forms at a specific level?",
+      "choices": [
+        "Wurmple",
+        "Slowpoke",
+        "Tyrogue",
+        "Eevee"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What hidden ability does Dragonite possess in Generation V and beyond?",
+      "choices": [
+        "Multiscale",
+        "Shed Skin",
+        "Marvel Scale",
+        "Mold Breaker"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Generation introduced the double battle format to the main series Pokémon games?",
+      "choices": [
+        "Generation II",
+        "Generation III",
+        "Generation IV",
+        "Generation V"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only Pokémon that learns Sketch as a level-up move?",
+      "choices": [
+        "Smeargle",
+        "Ditto",
+        "Mew",
+        "Porygon2"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In competitive battling, which Pokémon held the title of fastest in Generation I before the introduction of Choice Scarf?",
+      "choices": [
+        "Alakazam",
+        "Electrode",
+        "Ninjask",
+        "Aerodactyl"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon requires trading while holding a specific item to evolve into Porygon2?",
+      "choices": [
+        "Porygon",
+        "Porygon-Z",
+        "Magnemite",
+        "Haunter"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary type weakness of the legendary Pokémon Lugia?",
+      "choices": [
+        "Electric",
+        "Dark",
+        "Rock",
+        "Ghost"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation IV, which Pokémon evolves into Garchomp when leveled up to level 48 after being caught in the Sinnoh region?",
+      "choices": [
+        "Gible",
+        "Bagon",
+        "Dratini",
+        "Axew"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the signature move of Dialga, the Legendary Pokémon from Pokémon Diamond and Pearl?",
+      "choices": [
+        "Roar of Time",
+        "Spacial Rend",
+        "Judgment",
+        "Close Combat"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon Champion in the Unova region is known for using a team centered around Dragon-type Pokémon?",
+      "choices": [
+        "Iris",
+        "Elesa",
+        "Alder",
+        "Clay"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Pokémon Red and Blue, what is the name of the Gym Leader who specializes in Psychic-type Pokémon in Saffron City?",
+      "choices": [
+        "Sabrina",
+        "Erika",
+        "Blaine",
+        "Giovanni"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon requires a Prism Scale held while being traded in order to evolve into Huntail or Gorebyss?",
+      "choices": [
+        "Clamperl",
+        "Shellder",
+        "Slowbro",
+        "Seadra"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type combination does Aegislash possess?",
+      "choices": [
+        "Steel/Ghost",
+        "Steel/Psychic",
+        "Steel/Dark",
+        "Steel/Fairy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation V, which Pokémon is the final evolution of the Snivy line?",
+      "choices": [
+        "Serperior",
+        "Servine",
+        "Emboar",
+        "Samurott"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon Professor appears as the protagonist in Pokémon Legends: Arceus?",
+      "choices": [
+        "Laventon",
+        "Sycamore",
+        "Birch",
+        "Juniper"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Psychic-type Legendary Pokémon that is the mascot of Pokémon FireRed version?",
+      "choices": [
+        "Mewtwo",
+        "Articuno",
+        "Zapdos",
+        "Moltres"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon is the only one that can naturally learn the move Synchronoise as a level-up move in Generation V?",
+      "choices": [
+        "Espeon",
+        "Umbreon",
+        "Alakazam",
+        "Mewtwo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Pokémon Gold and Silver, which Gym Leader in Ecruteak City specializes in Ghost-type Pokémon?",
+      "choices": [
+        "Morty",
+        "Bugsy",
+        "Whitney",
+        "Jasmine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the base stat total of Alakazam in its original form from Generation I?",
+      "choices": [
+        "500",
+        "515",
+        "525",
+        "510"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon's Pokedex number is #149, making it the penultimate Dragon-type in Generation I?",
+      "choices": [
+        "Dragonair",
+        "Dragonite",
+        "Dratini",
+        "Seadra"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation VI, Mega Evolving which Pokémon results in it gaining the Fairy type?",
+      "choices": [
+        "Mawile",
+        "Ampharos",
+        "Tyranitar",
+        "Venusaur"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon is known as the result of a failed genetic experiment and is considered a duplicate of Mew?",
+      "choices": [
+        "Mewtwo",
+        "Ditto",
+        "Porygon",
+        "Magnemite"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type is Corviknight, the regional bird Pokémon of the Galar region?",
+      "choices": [
+        "Flying/Steel",
+        "Flying/Normal",
+        "Flying/Dark",
+        "Flying/Psychic"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Pokémon Black and White, which Legendary Pokémon serves as the mascot of the Black version?",
+      "choices": [
+        "Reshiram",
+        "Zekrom",
+        "Kyurem",
+        "Victini"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon evolves into Weavile when leveled up at night while holding a Razor Claw?",
+      "choices": [
+        "Sneasel",
+        "Swinub",
+        "Mantyke",
+        "Pichu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Hidden Ability of Greninja in Generation VI?",
+      "choices": [
+        "Protean",
+        "Torrent",
+        "Battle Bond",
+        "Water Absorb"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Pokémon Sun and Moon, which Totem Pokémon in Akala Island's Wailele Festival has a stat boost at the start of battle?",
+      "choices": [
+        "Togedemaru",
+        "Bewear",
+        "Marowak",
+        "Salazzle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation IV, which Pokémon evolution requires exposure to a Dawn Stone rather than leveling up or trading?",
+      "choices": [
+        "Roserade",
+        "Togekiss",
+        "Porygon-Z",
+        "Electivire"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon holds the National Pokédex number 025, making it one of the earliest Electric-type entries?",
+      "choices": [
+        "Voltorb",
+        "Pikachu",
+        "Magnemite",
+        "Electabuzz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Generation I games, which Psychic-type Pokémon has the highest base Special stat at 120?",
+      "choices": [
+        "Alakazam",
+        "Slowbro",
+        "Jynx",
+        "Exeggutor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Feebas requires high friendship and a specific condition to evolve into Milotic—what is that condition in Generation III?",
+      "choices": [
+        "Maximum Attack stat",
+        "High Beauty contest ribbons",
+        "Learning Dragon Tail move",
+        "Leveling in Mt. Moon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Legendary Pokémon from Generation II must be encountered in a Burned Tower after resurrecting Ho-Oh or Lugia?",
+      "choices": [
+        "Raikou",
+        "Entei",
+        "Suicune",
+        "Celebi"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation V, what is the base stat total of Hydreigon, the Dragon-Dark-type pseudo-legendary?",
+      "choices": [
+        "600",
+        "580",
+        "620",
+        "640"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Porygon2 first appeared in which Pokémon generation, and what item is required to evolve it into Porygon-Z?",
+      "choices": [
+        "Gen II with Up-Grade",
+        "Gen III with Dubious Disc",
+        "Gen II with Dubious Disc",
+        "Gen IV with Up-Grade"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon is the only known Pokémon that can learn the move Transform naturally through leveling?",
+      "choices": [
+        "Ditto",
+        "Mew",
+        "Smeargle",
+        "Metronome"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation III, Rayquaza is encountered in the Sky Pillar at what level with what Dragon-type move as its signature attack?",
+      "choices": [
+        "Level 70, Dragon Pulse",
+        "Level 70, Outrage",
+        "Level 45, Dragon Dance",
+        "Level 65, Draco Meteor"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon holds the distinction of being the only pure Fairy-type introduced in Generation VI that is not a legendary or mythical Pokémon?",
+      "choices": [
+        "Azumarill",
+        "Mawile",
+        "Clefable",
+        "Gardevoir"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation II, which Pokémon must be evolved during nighttime to become Umbreon rather than Espeon?",
+      "choices": [
+        "Eevee",
+        "Growlithe",
+        "Slowpoke",
+        "Staryu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Salamence requires what evolution condition after Shelgon reaches level 50 in Generation III?",
+      "choices": [
+        "Trading with Dragon Scale",
+        "High friendship",
+        "Leveling to level 50",
+        "Learning Dragon Dance"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Generation I Pokémon has a base Speed stat of 120, tied for the fastest Pokémon at that time?",
+      "choices": [
+        "Lapras",
+        "Nidoking",
+        "Electrode",
+        "Aerodactyl"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation IV, Crobat's evolution from Golbat requires what specific friendship condition?",
+      "choices": [
+        "High friendship during day",
+        "High friendship during night",
+        "Exactly 220 friendship points",
+        "Friendship above 150 after learning Poison Powder"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon introduced in Generation V is the only Bug-Steel-type Pokémon evolution line?",
+      "choices": [
+        "Scizor",
+        "Forretress",
+        "Escavalier",
+        "Heracross"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Red and Blue versions, which Pokémon can be obtained as a starter Pokémon from Professor Oak?",
+      "choices": [
+        "Pikachu",
+        "Squirtle",
+        "Eevee",
+        "Jigglypuff"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tyrogue evolves into three different Pokémon depending on stats—what stat must be higher than the others to evolve into Hitmonlee?",
+      "choices": [
+        "Special Attack",
+        "Attack",
+        "Speed",
+        "Defense"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation III, which Pokémon is the only Steel-type that is also a legendary with a base stat total of 580?",
+      "choices": [
+        "Metagross",
+        "Registeel",
+        "Jirachi",
+        "Beldum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Generation I Poison-type Pokémon is known for being the heaviest Bug-type Pokémon when fully evolved?",
+      "choices": [
+        "Weezing",
+        "Muk",
+        "Arbok",
+        "Vileplume"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation V's Unova region, which Pokémon serves as the pseudo-legendary of the generation with a base stat total of 600?",
+      "choices": [
+        "Haxorus",
+        "Deino",
+        "Larvesta",
+        "Pawniard"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation IV, what is the base stat total of Garchomp, the pseudo-legendary Dragon/Ground-type?",
+      "choices": [
+        "580",
+        "600",
+        "620",
+        "640"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon was the first to receive a Mega Evolution form in the official games?",
+      "choices": [
+        "Charizard",
+        "Mewtwo",
+        "Venusaur",
+        "Blastoise"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Hidden Ability of Dragonite?",
+      "choices": [
+        "Multiscale",
+        "Shed Skin",
+        "Marvel Scale",
+        "Intimidate"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which generation was the Fairy-type officially introduced to the Pokémon type system?",
+      "choices": [
+        "Generation III",
+        "Generation IV",
+        "Generation V",
+        "Generation VI"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What move does Alakazam learn as its signature move upon reaching a certain level?",
+      "choices": [
+        "Psychic",
+        "Recover",
+        "Trick",
+        "Teleport"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon species has the highest Special Attack base stat as of Generation VIII?",
+      "choices": [
+        "Alakazam",
+        "Mewtwo",
+        "Espeon",
+        "Porygon2"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the evolution method for Feebas into Milotic in Generation III?",
+      "choices": [
+        "Level up with high friendship",
+        "Trade while holding a King's Rock",
+        "Level up while knowing Dragon Pulse",
+        "Use a Water Stone"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Alola region, which Pokémon received a Regional Form that changed it to Water/Fairy-type?",
+      "choices": [
+        "Vulpix",
+        "Raichu",
+        "Sandshrew",
+        "Exeggcutor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the base power of the move Dragon Dance?",
+      "choices": [
+        "60",
+        "75",
+        "0",
+        "90"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon is the only known Pokémon that can naturally learn Sketch as a move?",
+      "choices": [
+        "Smeargle",
+        "Porygon-Z",
+        "Ditto",
+        "Mew"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What typing does Aegislash have in its Shield Forme?",
+      "choices": [
+        "Steel/Psychic",
+        "Steel/Ghost",
+        "Ghost/Psychic",
+        "Steel/Dark"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In competitive Pokémon, which ability prevents stat drops from an opponent's moves?",
+      "choices": [
+        "Filter",
+        "Solid Rock",
+        "Marvel Scale",
+        "Unaware"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the weight of Wailord in kilograms?",
+      "choices": [
+        "360",
+        "398",
+        "450",
+        "540"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon was introduced in Generation II as a pre-evolution of Scyther?",
+      "choices": [
+        "Gligar",
+        "Scizor",
+        "Scyther",
+        "Scraggy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only Pokémon that can learn the move V-Create naturally through level-up?",
+      "choices": [
+        "Victini",
+        "Reshiram",
+        "Rayquaza",
+        "Salamence"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Generation V, what is the National Pokédex number of Zekrom?",
+      "choices": [
+        "643",
+        "644",
+        "645",
+        "646"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the base critical hit rate of the move Stone Edge?",
+      "choices": [
+        "12.5%",
+        "25%",
+        "33.3%",
+        "50%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokémon is able to learn Spore as a level-up move before reaching its final evolution?",
+      "choices": [
+        "Parasect",
+        "Vileplume",
+        "Paras",
+        "Bulbasaur"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Pokémon series, what is the National Pokédex number of Pikachu?",
+      "choices": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon does Squirtle evolve into at level 16?",
+      "choices": [
+        "Wartortle",
+        "Blastoise",
+        "Aquarion",
+        "Shellfish"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of Pokémon is Alakazam primarily classified as?",
+      "choices": [
+        "Psychic",
+        "Electric",
+        "Ghost",
+        "Steel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gym leader in the Kanto region specializes in Poison-type Pokémon?",
+      "choices": [
+        "Koga",
+        "Sabrina",
+        "Blaine",
+        "Erika"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What move does Metapod learn at level 12?",
+      "choices": [
+        "Confusion",
+        "String Shot",
+        "Harden",
+        "Tackle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Generation II, which legendary Pokémon is associated with the tower in Ecruteak City?",
+      "choices": [
+        "Raikou",
+        "Ho-Oh",
+        "Entei",
+        "Lugia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the evolved form of Slowpoke when exposed to a Water Stone?",
+      "choices": [
+        "Slowking",
+        "Slowbro",
+        "Lapras",
+        "Dewgong"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon trainer serves as the rival to Ash Ketchum in the Kanto region?",
+      "choices": [
+        "Brock",
+        "Gary Oak",
+        "Misty",
+        "Professor Oak"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type is the move Earthquake?",
+      "choices": [
+        "Ground",
+        "Rock",
+        "Water",
+        "Normal"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon evolves from Eevee when exposed to a Thunderstone?",
+      "choices": [
+        "Flareon",
+        "Vaporeon",
+        "Jolteon",
+        "Espeon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary type of Dragonite?",
+      "choices": [
+        "Dragon",
+        "Flying",
+        "Water",
+        "Ground"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Sinnoh region, which gym leader uses Steel-type Pokémon?",
+      "choices": [
+        "Roark",
+        "Fantina",
+        "Byron",
+        "Candice"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Pokémon must be traded to another trainer in order to evolve into Machamp?",
+      "choices": [
+        "Machoke",
+        "Machop",
+        "Machamp",
+        "Mankey"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon is known as the Psychic-type starter of the Hoenn region?",
+      "choices": [
+        "Ralts",
+        "Abra",
+        "Drowzee",
+        "Exeggcute"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Snorlax's primary type classification?",
+      "choices": [
+        "Normal",
+        "Ground",
+        "Water",
+        "Psychic"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon does Shellder evolve into when exposed to an Ice Stone?",
+      "choices": [
+        "Cloyster",
+        "Slowking",
+        "Lapras",
+        "Dewgong"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Unova region, which legendary Pokémon is exclusive to Pokémon Black?",
+      "choices": [
+        "Reshiram",
+        "Zekrom",
+        "Kyurem",
+        "Victini"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the evolution level at which Caterpie transforms into Metapod?",
+      "choices": [
+        "7",
+        "10",
+        "13",
+        "16"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon type is super-effective against Electric-type Pokémon?",
+      "choices": [
+        "Fire",
+        "Water",
+        "Ground",
+        "Grass"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Pokémon professor in the Galar region?",
+      "choices": [
+        "Professor Oak",
+        "Professor Elm",
+        "Professor Magnolia",
+        "Professor Sycamore"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon anime series, which Gym Leader is known for training Water-type Pokémon and frequently appears alongside a troublemaking Psyduck?",
+      "choices": [
+        "Misty",
+        "Clair",
+        "Wallace",
+        "Juan"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the evolution of Quilava, the Fire-type Pokémon from the Johto region?",
+      "choices": [
+        "Typhlosion",
+        "Charizard",
+        "Blaziken",
+        "Infernape"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Togepi, the Fairy-type Pokémon, was first introduced in which generation of Pokémon games?",
+      "choices": [
+        "1st Generation",
+        "2nd Generation",
+        "3rd Generation",
+        "4th Generation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type is Caterpie, the small insect Pokémon that serves as one of the earliest catchable creatures?",
+      "choices": [
+        "Grass",
+        "Bug",
+        "Poison",
+        "Normal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon type is Phanpy, the elephant-like creature known for its Ground-type moves?",
+      "choices": [
+        "Rock",
+        "Normal",
+        "Ground",
+        "Steel"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The original Pokémon games Red and Blue were released in Japan in which year?",
+      "choices": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Pokémon region does Team Flare primarily operate as the main antagonistic organization?",
+      "choices": [
+        "Unova",
+        "Kalos",
+        "Alola",
+        "Galar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type is Tyrogue, the martial arts-focused Pokémon that evolves into different forms based on its stats?",
+      "choices": [
+        "Fighting",
+        "Normal",
+        "Steel",
+        "Rock"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary type of Pikachu, the franchise's most iconic Pokémon mascot?",
+      "choices": [
+        "Water",
+        "Electric",
+        "Normal",
+        "Steel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "James and Jessie are infamous members of which criminal organization in the Pokémon anime?",
+      "choices": [
+        "Team Magma",
+        "Team Rocket",
+        "Team Plasma",
+        "Team Flare"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type is Fennekin, the Fire-type fox starter Pokémon from the Kalos region?",
+      "choices": [
+        "Fire",
+        "Psychic",
+        "Fairy",
+        "Fire/Psychic"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Into which Pokémon does Zigzagoon evolve when it reaches a certain level?",
+      "choices": [
+        "Linoone",
+        "Furret",
+        "Sentret",
+        "Slaking"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At level 24, Paras evolves into which dual-type Pokémon?",
+      "choices": [
+        "Parasect",
+        "Beedrill",
+        "Scyther",
+        "Heracross"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Whismur, a small sound-based Pokémon, belongs to which type classification?",
+      "choices": [
+        "Sound",
+        "Normal",
+        "Electric",
+        "Psychic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Team Plasma serves as the main antagonistic group in which Pokémon region?",
+      "choices": [
+        "Sinnoh",
+        "Kalos",
+        "Unova",
+        "Alola"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actor provided the voice for Detective Pikachu in the 2019 live-action film?",
+      "choices": [
+        "Dwayne Johnson",
+        "Ryan Reynolds",
+        "Jack Black",
+        "Ben Schwartz"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cyrus, the main antagonist of the Sinnoh region games, leads which organization?",
+      "choices": [
+        "Team Galactic",
+        "Team Plasma",
+        "Team Flare",
+        "Team Rocket"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon evolves into Vaporeon when exposed to a Water Stone?",
+      "choices": [
+        "Eevee",
+        "Growlithe",
+        "Mankey",
+        "Poliwag"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Turtwig, a Grass-type starter Pokémon, originates from which generation and region?",
+      "choices": [
+        "3rd Generation, Hoenn",
+        "4th Generation, Sinnoh",
+        "5th Generation, Unova",
+        "2nd Generation, Johto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Generation 1, which Pokémon evolves into Arcanine when exposed to a Fire Stone?",
+      "choices": [
+        "Growlithe",
+        "Vulpix",
+        "Ponyta",
+        "Mankey"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the region where Team Rocket operates in the original animated series?",
+      "choices": [
+        "Johto",
+        "Kanto",
+        "Hoenn",
+        "Sinnoh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon type combination does Gyarados have?",
+      "choices": [
+        "Water/Flying",
+        "Water/Dragon",
+        "Water/Electric",
+        "Water/Fighting"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What item does Eevee require to evolve into Espeon?",
+      "choices": [
+        "Moon Stone",
+        "Sun Stone",
+        "High friendship during daytime",
+        "Thunder Stone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon world, what is the name of the device trainers use to catch Pokémon?",
+      "choices": [
+        "Poké Ball",
+        "Pokédex",
+        "TM Case",
+        "Badge Case"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Generation introduced the Fairy-type to the Pokémon franchise?",
+      "choices": [
+        "Generation 4",
+        "Generation 5",
+        "Generation 6",
+        "Generation 7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What move type is Thunderbolt, the signature move taught by TM24?",
+      "choices": [
+        "Electric",
+        "Water",
+        "Psychic",
+        "Dragon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon did Professor Oak give Ash Ketchum as his starter in the Kanto region?",
+      "choices": [
+        "Bulbasaur",
+        "Charmander",
+        "Squirtle",
+        "Pikachu"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Generation 2, which Pokémon evolves from Slowpoke when exposed to a King's Rock while being traded?",
+      "choices": [
+        "Slowbro",
+        "Slowking",
+        "Lapras",
+        "Cloyster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Pokémon League champion in the Johto region during the Gold/Silver games?",
+      "choices": [
+        "Lance",
+        "Wallace",
+        "Cynthia",
+        "Iris"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon is known for being the only one that can learn the move Metronome?",
+      "choices": [
+        "Clefairy",
+        "Jigglypuff",
+        "Mew",
+        "Ditto"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type advantage does Rock have over which of the following types?",
+      "choices": [
+        "Water",
+        "Grass",
+        "Flying",
+        "Fighting"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon League, how many badges must a trainer collect before challenging the Elite Four in Kanto?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon is the final evolution of Magikarp?",
+      "choices": [
+        "Gyarados",
+        "Lapras",
+        "Dragonite",
+        "Seadra"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary type of Alakazam, the psychic powerhouse from Generation 1?",
+      "choices": [
+        "Psychic",
+        "Electric",
+        "Grass",
+        "Steel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which legendary Pokémon is said to have created the Sinnoh region in Pokémon Diamond and Pearl?",
+      "choices": [
+        "Dialga",
+        "Palkia",
+        "Arceus",
+        "Giratina"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the battle format known as Double Battles, how many Pokémon does each trainer send out at once?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the base stat total of Charizard from Generation 1?",
+      "choices": [
+        "500",
+        "520",
+        "540",
+        "560"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon evolves into Dragonite after reaching level 55?",
+      "choices": [
+        "Dratini",
+        "Dragonair",
+        "Bagon",
+        "Beldum"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Mystery Dungeon series, what is the name of the guild where Pokémon join rescue teams?",
+      "choices": [
+        "Rescue Team Base",
+        "Wigglytuff's Guild",
+        "Pokémon Center",
+        "Poké Mart"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon games, what is the National Pokédex number of Pikachu?",
+      "choices": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon evolves from Eevee when exposed to a Thunder Stone?",
+      "choices": [
+        "Jolteon",
+        "Flareon",
+        "Vaporeon",
+        "Espeon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of Pokémon is Gyarados?",
+      "choices": [
+        "Water/Flying",
+        "Water/Dragon",
+        "Dragon/Flying",
+        "Water/Electric"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original Pokémon series, what item does Ash wear on his head?",
+      "choices": [
+        "A visor",
+        "A baseball cap",
+        "A fedora",
+        "A helmet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Team Rocket member is known for speaking Pokémon fluently?",
+      "choices": [
+        "Jessie",
+        "James",
+        "Meowth",
+        "Giovanni"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Pokémon contests, how many appeal conditions must coordinators master to compete?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type is the Pokémon Mankey classified as?",
+      "choices": [
+        "Normal",
+        "Fighting",
+        "Ground",
+        "Rock"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon is the leader of Giovanni's Team Rocket in the games?",
+      "choices": [
+        "Arcanine",
+        "Persian",
+        "Nidoking",
+        "Dragonite"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What region does Ash Ketchum begin his Pokémon journey in?",
+      "choices": [
+        "Johto",
+        "Hoenn",
+        "Kanto",
+        "Sinnoh"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which move type is typically super effective against Flying-type Pokémon?",
+      "choices": [
+        "Fire",
+        "Electric",
+        "Psychic",
+        "Grass"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color are the Poké Balls that Team Rocket typically uses in their schemes?",
+      "choices": [
+        "Red and black",
+        "Blue and white",
+        "Purple and yellow",
+        "Green and silver"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Into which Pokémon does Metapod evolve?",
+      "choices": [
+        "Caterpie",
+        "Butterfree",
+        "Weedle",
+        "Kakuna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the first Pokémon game released for the Game Boy?",
+      "choices": [
+        "Pokémon Blue Version",
+        "Pokémon Red Version",
+        "Pokémon Yellow Version",
+        "Pokémon Green Version"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pokémon type is Slugma?",
+      "choices": [
+        "Rock",
+        "Fire",
+        "Lava",
+        "Magma"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does Hoppip evolve into at level 18?",
+      "choices": [
+        "Jumpluff",
+        "Skiploom",
+        "Whimsicott",
+        "Lilligant"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Pokémon Contests, what is the primary stat that determines a Pokémon's appeal?",
+      "choices": [
+        "Speed",
+        "Condition",
+        "Attack",
+        "Defense"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two Pokémon form the iconic rival battle mechanic in the original Kanto region games?",
+      "choices": [
+        "Bulbasaur and Charmander",
+        "Charmander and Squirtle",
+        "Bulbasaur and Squirtle",
+        "Pikachu and Eevee"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon games, what item is required to evolve Pikachu into Raichu?",
+      "choices": [
+        "Thunder Stone",
+        "Electric Stone",
+        "Lightning Rod",
+        "Volt Orb"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

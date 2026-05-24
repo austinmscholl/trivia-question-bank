@@ -1,309 +1,2196 @@
 {
   "slug": "youtube-trivia",
   "name": "YouTube",
-  "description": "From 'Me at the Zoo' to MrBeast — the platform that ate the internet.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.797Z",
   "questions": [
     {
-      "q": "In what year was YouTube founded?",
-      "choices": ["2003", "2005", "2007", "2009"],
-      "correct": 1,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "2005",
-        "verified": true,
-        "notes": "Founded February 14, 2005."
-      }
-    },
-    {
-      "q": "Who were the three co-founders of YouTube?",
+      "q": "Which South Korean artist's 'Gangnam Style' music video became YouTube's first video to reach one billion views?",
       "choices": [
-        "Steve Chen, Chad Hurley, Jawed Karim",
-        "Sergey Brin, Larry Page, Eric Schmidt",
-        "Jeff Bezos, Marc Andreessen, Reid Hoffman",
-        "Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz"
+        "PSY",
+        "BTS",
+        "BLACKPINK",
+        "Exo"
       ],
       "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Steve Chen",
-        "verified": true,
-        "notes": "All three former PayPal employees."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the title of the very first video uploaded to YouTube on April 23, 2005?",
+      "q": "YouTube was founded in 2005 by Steve Chen, Chad Hurley, and which third co-founder?",
       "choices": [
-        "Me at the zoo",
-        "Lazy Sunday",
-        "Charlie Bit My Finger",
-        "First Video"
+        "Jawed Karim",
+        "Mark Zuckerberg",
+        "Jack Dorsey",
+        "Kevin Systrom"
       ],
       "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Me at the zoo",
-        "verified": true,
-        "notes": "Uploaded by Jawed Karim at the San Diego Zoo. 19 seconds long."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which company acquired YouTube in 2006 for $1.65 billion in stock?",
-      "choices": ["Microsoft", "Yahoo", "Google", "Amazon"],
-      "correct": 2,
-      "category": "YouTube",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "Closed November 2006."
-      }
-    },
-    {
-      "q": "Which 2012 K-pop song was the first YouTube video to surpass 1 billion views?",
-      "choices": [
-        "Gangnam Style by Psy",
-        "Baby Shark",
-        "Despacito",
-        "Bohemian Rhapsody"
-      ],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Gangnam Style by Psy",
-        "verified": true,
-        "notes": "Hit 1B views December 21, 2012."
-      }
-    },
-    {
-      "q": "Which children's song surpassed Despacito as the most-viewed YouTube video in November 2020?",
-      "choices": [
-        "Baby Shark Dance",
-        "Wheels on the Bus",
-        "Cocomelon",
-        "Old Town Road"
-      ],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Baby Shark Dance by Pinkfong",
-        "verified": true,
-        "notes": "By South Korea's Pinkfong / SmartStudy."
-      }
-    },
-    {
-      "q": "Which channel became YouTube's most-subscribed channel in 2019, surpassing PewDiePie?",
-      "choices": [
-        "T-Series",
-        "MrBeast",
-        "Cocomelon",
-        "Justin Bieber"
-      ],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "T-Series",
-        "verified": true,
-        "notes": "An Indian music label."
-      }
-    },
-    {
-      "q": "Which solo creator was the first to reach 10 million YouTube subscribers (in 2013)?",
+      "q": "Which YouTuber was the first solo creator to surpass 10 million subscribers?",
       "choices": [
         "PewDiePie",
         "Smosh",
-        "Ray William Johnson",
-        "Tobuscus"
+        "RayWilliamJohnson",
+        "nigahiga"
       ],
       "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "PewDiePie (Felix Kjellberg)",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: corrected year from 2012 to 2013. PewDiePie reached 10M on July 9, 2013, surpassing Smosh."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which philanthropic creator surpassed PewDiePie as the most-subscribed individual in 2022?",
-      "choices": ["MrBeast", "Markiplier", "DanTDM", "Dude Perfect"],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Real name Jimmy Donaldson; later became most-subbed channel overall."
-      }
-    },
-    {
-      "q": "What is YouTube's premium subscription service called?",
-      "choices": ["YouTube Plus", "YouTube Red", "YouTube Premium", "YouTube Pro"],
-      "correct": 2,
-      "category": "YouTube",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Originally launched as YouTube Red in 2015; rebranded to YouTube Premium in 2018."
-      }
-    },
-    {
-      "q": "What is YouTube's short-form vertical video product (launched 2020)?",
-      "choices": ["YouTube Shorts", "YouTube Stories", "YouTube Quick", "YouTube TikTok"],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Launched in India first; global in 2021."
-      }
-    },
-    {
-      "q": "Which 2017 song became YouTube's first video to surpass 5 billion views?",
+      "q": "What is the name of the feature that allows YouTube viewers to skip past advertisements after a few seconds?",
       "choices": [
-        "Despacito",
+        "Skip Ad",
+        "Ad Pass",
+        "Skip Button",
+        "Ad Blocker"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Young piano prodigy Greyson Chance went viral in 2010 by covering which Lady Gaga song?",
+      "choices": [
+        "Paparazzi",
+        "Bad Romance",
+        "Poker Face",
+        "Born This Way"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British comedy duo created the YouTube channel 'Smosh' and are from Sacramento, California?",
+      "choices": [
+        "Ian Hecox and Anthony Padilla",
+        "Rhett and Link",
+        "Sam Pepper and Oli White",
+        "Connor Franta and Troye Sivan"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Chris Crocker became famous for a viral video in which he emotionally defended which pop star from media criticism?",
+      "choices": [
+        "Britney Spears",
+        "Christina Aguilera",
+        "Jennifer Lopez",
+        "Beyoncé"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Lucas Cruikshank created which squeaky-voiced YouTube character that became a viral sensation in the late 2000s?",
+      "choices": [
+        "Fred",
+        "Charlie Bit My Finger",
+        "David After Dentist",
+        "Chocolate Rain"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The 'Fine Brothers' became famous on YouTube for producing which type of viral video series?",
+      "choices": [
+        "React videos",
+        "Prank videos",
+        "Challenge videos",
+        "Mukbang videos"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did YouTube introduce the ability to watch videos offline?",
+      "choices": [
+        "2014",
+        "2010",
+        "2012",
+        "2016"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comedian posted the viral video 'Charlie Bit My Finger' featuring his baby brother in 2007?",
+      "choices": [
+        "Harry Davies-Carr",
+        "David After Dentist",
+        "Numa Numa Guy",
+        "Evolution of Dance Guy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of YouTube's early live-streaming platform that launched in 2008?",
+      "choices": [
+        "YouTube Live",
+        "YouTube Stream",
+        "YouTube Now",
+        "YouTube Direct"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Peter Oakley, known as 'geriatric1927,' became a YouTube pioneer by being one of the first creators in which age group?",
+      "choices": [
+        "Elderly/senior citizens",
+        "Teenagers",
+        "Children",
+        "Middle-aged adults"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which viral challenge from the 2010s involved people attempting to eat large spoonfuls of the spice from their kitchen cabinet?",
+      "choices": [
+        "Cinnamon Challenge",
+        "Salt Challenge",
+        "Pepper Challenge",
+        "Ginger Challenge"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Nicole Westbrook became known for a viral song about celebrating which major American holiday?",
+      "choices": [
+        "Thanksgiving",
+        "Christmas",
+        "Halloween",
+        "Fourth of July"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTube prank video featured someone fake-checking if an iPhone would work in water?",
+      "choices": [
+        "iPhone in Water",
+        "Waterproof Phone Test",
+        "Can iPhones Swim",
+        "Apple Water Test"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The 'Harlem Shake' dance craze became a massive YouTube phenomenon in which year?",
+      "choices": [
+        "2013",
+        "2011",
+        "2012",
+        "2014"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Brandon Hardesty creates YouTube videos under which creator name, known for recreating movie scenes with minimal budget?",
+      "choices": [
+        "ArtieTSMITW",
+        "FilmJoy",
+        "CinemaWins",
+        "ScreenRant"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTube feature allows creators to interact with their subscribers through polls, images, and messages?",
+      "choices": [
+        "Community Tab",
+        "Subscriber Hub",
+        "Fan Connect",
+        "Creator Corner"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The 'Two Kids One Sandbox' incident and 'Charlie Bit My Finger' are both examples of which type of early YouTube content?",
+      "choices": [
+        "Unintentional viral videos",
+        "Planned pranks",
+        "Scripted comedy sketches",
+        "Music parodies"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was YouTube founded?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tech company purchased YouTube for $1.65 billion in 2006?",
+      "choices": [
+        "Microsoft",
+        "Facebook",
+        "Google",
+        "Apple"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the interactive feature that appears at the end of YouTube videos suggesting what to watch next?",
+      "choices": [
+        "End Cards",
+        "End Screen",
+        "Video Suggestions",
+        "Exit Overlay"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTuber is credited as the first to reach 1 million subscribers?",
+      "choices": [
+        "PewDiePie",
+        "Fred Figglehorn",
+        "RayWilliamJohnson",
+        "Smosh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the maximum length of a standard YouTube video upload for most users?",
+      "choices": [
+        "15 minutes",
+        "30 minutes",
+        "Unlimited",
+        "1 hour"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comedy duo from Sacramento became one of YouTube's earliest viral sensations?",
+      "choices": [
+        "The Lonely Island",
+        "Smosh",
+        "HappySlip",
+        "The Key of Awesome"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What feature allows YouTube creators to schedule a premiere event where viewers watch a new video simultaneously?",
+      "choices": [
+        "Video Release",
+        "YouTube Premiere",
+        "Live Premiere",
+        "Scheduled Upload"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which popular YouTube channel features a talking orange character created by Dane Boedigheimer?",
+      "choices": [
+        "Annoying Orange",
+        "Orange You Glad",
+        "The Orange Show",
+        "Orange Comedy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did YouTube introduce the ability for creators to earn money through ads?",
+      "choices": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of YouTube's annual video series that attempted to recap trending moments and memes?",
+      "choices": [
+        "YouTube Best of Year",
+        "YouTube Rewind",
+        "YouTube Highlights",
+        "Year in Review"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which streaming service did YouTube launch to compete with Netflix and other platforms?",
+      "choices": [
+        "YouTube Plus",
+        "YouTube Premium",
+        "YouTube TV",
+        "YouTube Movies"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What feature allows creators to build community engagement through posts and polls outside of videos?",
+      "choices": [
+        "YouTube Feed",
+        "YouTube Community",
+        "Creator Hub",
+        "Social Posts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTuber is known for bringing attention to science concepts through educational videos?",
+      "choices": [
+        "CrashCourse",
+        "Veritasium",
+        "SciShow",
+        "TED-Ed"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the button viewers click to support a creator without leaving a comment?",
+      "choices": [
+        "Support",
+        "Like",
+        "Heart",
+        "Favorite"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did YouTube introduce the ability to upload videos in 4K resolution?",
+      "choices": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which feature enables YouTube creators to live stream content to their audience?",
+      "choices": [
+        "YouTube Stream",
+        "YouTube Live",
+        "YouTube Broadcast",
+        "Creator Live"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the default video quality setting on YouTube for most users with standard internet connections?",
+      "choices": [
+        "480p",
+        "720p",
+        "1080p",
+        "Auto-adjusted"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTuber popularized vlogging by sharing daily personal content?",
+      "choices": [
+        "Casey Neistat",
+        "Shay Carl",
+        "Logan Paul",
+        "David Dobrik"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What visual element does YouTube display next to a channel name to indicate a verified account?",
+      "choices": [
+        "Gold Star",
+        "Blue Checkmark",
+        "Verified Badge",
+        "Authentication Mark"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTube feature allows creators to pin a comment at the top of the comment section?",
+      "choices": [
+        "Top Comment",
+        "Pinned Comment",
+        "Featured Comment",
+        "Highlighted Comment"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was YouTube officially founded?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these was NOT one of the three co-founders of YouTube?",
+      "choices": [
+        "Steve Chen",
+        "Chad Hurley",
+        "Jawed Karim",
+        "Mark Zuckerberg"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the feature that allows viewers to skip advertisements after a certain number of seconds?",
+      "choices": [
+        "Ad Block",
+        "Skip Ad",
+        "Fast Forward",
+        "Ad Pass"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which music video became YouTube's first video to reach one billion views?",
+      "choices": [
+        "Despacito by Luis Fonsi",
+        "Gangnam Style by Psy",
+        "Baby by Justin Bieber",
+        "Uptown Funk by Mark Ronson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the squeaky-voiced character created by Lucas Cruikshank that became a major YouTube sensation?",
+      "choices": [
+        "Alfredo",
+        "Fred",
+        "Fernando",
+        "Felipe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Annoying Orange, a popular YouTube channel known for comedic fruit characters, was created by which person?",
+      "choices": [
+        "Dane Boedigheimer",
+        "Ray William Johnson",
+        "Shane Dawson",
+        "Charlie Bit My Finger"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which airline became the subject of viral complaint songs by the band Sons of Mitchell?",
+      "choices": [
+        "American Airlines",
+        "Delta Airlines",
+        "United Airlines",
+        "Southwest Airlines"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Hannah Hart's YouTube comedy series 'My Drunk Kitchen,' what location does she typically film in?",
+      "choices": [
+        "Bedroom",
+        "Kitchen",
+        "Bathroom",
+        "Living Room"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the 'Subscribe' button on YouTube allow viewers to do?",
+      "choices": [
+        "Pay to watch videos",
+        "Follow a channel for updates",
+        "Share videos with friends",
+        "Download videos"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTuber is widely credited with popularizing the daily vlogging format on the platform?",
+      "choices": [
+        "PewDiePie",
+        "Shay Carl",
+        "Vsauce",
+        "Linus Tech Tips"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the feature that lets users create a custom collection of videos for later watching?",
+      "choices": [
+        "YouTube Collections",
+        "YouTube Playlists",
+        "YouTube Bookmarks",
+        "YouTube Favorites"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which singer's cover of Lady Gaga's 'Paparazzi' helped launch her career on YouTube?",
+      "choices": [
+        "Greyson Chance",
+        "Charice",
+        "Justin Bieber",
+        "Carly Rae Jepsen"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of YouTube's live streaming platform that launched in 2008 but was eventually discontinued?",
+      "choices": [
+        "YouTube Stream",
+        "YouTube Live",
+        "YouTube Now",
+        "YouTube Direct"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which channel became the most-subscribed on YouTube in 2019, surpassing PewDiePie?",
+      "choices": [
+        "SET India",
+        "T-Series",
+        "Zee Entertainment",
+        "VEVO"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Filipino singer gained international recognition after being discovered through YouTube and later appeared on Oprah?",
+      "choices": [
+        "Ariana Grande",
+        "Charice",
+        "Sarah Geronimo",
+        "Lea Salonga"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comedy group created the 'Auto-Tune the News' viral video series?",
+      "choices": [
+        "The Lonely Island",
+        "The Gregory Brothers",
+        "SNL Cast",
+        "CollegeHumor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary way YouTube creators earn money from their videos?",
+      "choices": [
+        "Direct video sales",
+        "Advertisement revenue sharing",
+        "Fan donations only",
+        "YouTube membership fees"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which early YouTube personality and webcam vlogger was known by the username Brookers?",
+      "choices": [
+        "Brooke Brodack",
+        "Brooke Candy",
+        "Brookelle Miles",
+        "Brooke Houts"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What viral video from 2010 featured a toddler biting his brother's finger while they played?",
+      "choices": [
+        "Baby Falls Down",
+        "Charlie Bit My Finger",
+        "Cute Kids Moment",
+        "Brother Bite Video"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTube comedy series by Douglas Sarine and Kent Nichols featured a ninja character answering viewer questions?",
+      "choices": [
+        "Ask a Ninja",
+        "Ninja Academy",
+        "Question Quest",
+        "Ask the Ninja Master"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was YouTube founded and launched to the public?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which South Korean artist's 2012 music video became YouTube's first video to reach one billion views?",
+      "choices": [
+        "Rain",
+        "Psy",
+        "2NE1",
+        "Big Bang"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the title of the very first video ever uploaded to YouTube in 2005?",
+      "choices": [
+        "Hello World",
+        "Me at the zoo",
+        "First Video",
+        "YouTube Launch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tech giant acquired YouTube in 2006 for approximately $1.65 billion?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Facebook"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the YouTube feature that allows creators to schedule a livestream premiere event with a countdown timer?",
+      "choices": [
+        "YouTube Live",
+        "YouTube Premiere",
+        "YouTube Stream",
+        "YouTube Launch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which YouTuber, known for playing video games with comedic commentary, goes by the online handle 'NerdCubed'?",
+      "choices": [
+        "Markiplier",
+        "Daniel Hardcastle",
+        "Jacksepticeye",
+        "Vanoss Gaming"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Hannah Hart's comedy web series 'My Drunk Kitchen' primarily takes place in which room of her home?",
+      "choices": [
+        "Bedroom",
+        "Living Room",
+        "Kitchen",
+        "Bathroom"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 2006, which early YouTube personality became the first creator to reach 1 million subscribers, earning the title of YouTube's first major celebrity?",
+      "choices": [
+        "Fred Figglehorn",
+        "Smosh",
+        "Lonelygirl15",
+        "Charlie Bit My Finger"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 2012 music video by South Korean artist Psy became YouTube's first video to reach 1 billion views?",
+      "choices": [
+        "Gentleman",
         "Gangnam Style",
-        "Shape of You",
+        "Hangover",
+        "Daddy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gary Brolsma's 2004 viral video featured him dancing enthusiastically to which Eastern European novelty song?",
+      "choices": [
+        "Dragostea Din Tei",
+        "Numa Numa",
+        "Levan Polkka",
+        "Blue da ba dee"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber's 2009 lip-sync video to 'Look at Me Now' by Chris Brown showcased extreme speed rapping and launched his music career?",
+      "choices": [
+        "Hopsin",
+        "Mac Lethal",
+        "Niki Minaj",
+        "Watsky"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did YouTube introduce the 'Skip Ad' button, allowing viewers to bypass advertisements after 5 seconds?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Filipino singer gained international prominence after being featured on Oprah Winfrey's show following her YouTube success?",
+      "choices": [
+        "Charice Pempengco",
+        "Sarah Geronimo",
+        "Morissette Amon",
+        "Ariana Grande"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Jack Conte's 2006 music video that became a viral sensation and demonstrated early YouTube's potential for original music content?",
+      "choices": [
+        "She Will Be Loved",
+        "Yeah Yeah Yeah",
+        "Vlog Brothers",
+        "Pomplamoose"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Back Dorm Boys' viral video featured a lip-sync performance to which song by The Black Eyed Peas?",
+      "choices": [
+        "Where Is the Love",
+        "Boom Boom Pow",
+        "I Gotta Feeling",
+        "Let's Get It Started"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTube feature, introduced in 2018, allows creators to divide long videos into navigable sections with custom timestamps?",
+      "choices": [
+        "Video Segments",
+        "YouTube Chapters",
+        "Timeline Markers",
+        "Video Bookmarks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did YouTube officially launch YouTube Premium (formerly YouTube Red), offering ad-free viewing and exclusive content?",
+      "choices": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber's viral video 'Keyboard Cat' (original performer) became one of the earliest examples of cats becoming internet celebrities?",
+      "choices": [
+        "Charlie Bit My Finger",
+        "Fatso Jetson",
+        "Henri, le Chat Noir",
+        "Keyboard Cat"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the YouTube feature that lets creators schedule a specific premiere time for their videos, creating a shared viewing experience?",
+      "choices": [
+        "YouTube Scheduled Release",
+        "YouTube Premiere",
+        "YouTube Live Schedule",
+        "YouTube Release Party"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which comedic YouTube duo created the channel 'Smosh' and became the first YouTube channel to surpass 100,000 subscribers?",
+      "choices": [
+        "Ryan Higa and Nigahiga",
+        "Ian Hecox and Anthony Padilla",
+        "Rhett and Link",
+        "Jenna and Julien"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2008, which viral video of two young brothers gained over 800 million views and remains one of YouTube's most iconic early videos?",
+      "choices": [
+        "Charlie Bit My Finger",
+        "Keyboard Cat",
+        "Evolution of Dance",
+        "Numa Numa"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American musician and entrepreneur founded Patreon in 2013, partially inspired by his experiences as a YouTuber and content creator?",
+      "choices": [
+        "Hank Green",
+        "Jack Conte",
+        "Brady Haran",
+        "Freddie Wong"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "YouTube's 'Community' feature, introduced around 2016, allows creators to share which types of content with their subscribers outside of traditional videos?",
+      "choices": [
+        "Only polls and announcements",
+        "Text posts, images, polls, and video clips",
+        "Merchandise listings exclusively",
+        "Links to external websites"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTube comedian and personality created the series 'My Drunk Kitchen,' which helped establish comedic vlogging as a major content category?",
+      "choices": [
+        "Miranda Sings",
+        "Hannah Hart",
+        "Jenna Marbles",
+        "iJustine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What major milestone did YouTube achieve in February 2017 when it announced viewership of over 1 billion hours watched per day?",
+      "choices": [
+        "First platform to surpass Netflix in viewership",
+        "1 billion hours watched daily",
+        "1 trillion total videos uploaded",
+        "First platform with 500 million creators"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2006, the 'Evolution of Dance' by Judson Laipply held the record for most-viewed YouTube video until what year?",
+      "choices": [
+        "2009",
+        "2011",
+        "2012",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTube feature, allowing creators to receive direct monetary contributions from viewers, was introduced as part of YouTube's monetization ecosystem around 2018?",
+      "choices": [
+        "Super Chat and Super Stickers",
+        "Channel Membership",
+        "YouTube Ads",
+        "Channel Store"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTube creator, known for daily vlogging, co-founded the digital media company Maker Studios before it was acquired by Disney?",
+      "choices": [
+        "Shay Carl",
+        "Jenna Marbles",
+        "Smosh",
+        "PewDiePie"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google acquire YouTube for approximately $1.65 billion?",
+      "choices": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber and musician released the viral hit 'Friday' in 2011, which became one of the platform's most controversial videos?",
+      "choices": [
+        "Rebecca Black",
+        "Trisha Paytas",
+        "Tana Mongeau",
+        "Liza Koshy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the YouTube feature that allows creators to earn revenue by embedding ads in their videos?",
+      "choices": [
+        "YouTube Monetization",
+        "YouTube AdSense",
+        "YouTube Partner Program",
+        "YouTube Revenue Sharing"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Charlie Bit My Finger, one of the earliest viral videos, featured two young brothers from which country?",
+      "choices": [
+        "Canada",
+        "United Kingdom",
+        "Australia",
+        "Ireland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber's real name is Evan Fong, and he became famous for gaming commentary and Call of Duty videos?",
+      "choices": [
+        "Markiplier",
+        "VanossGaming",
+        "Jacksepticeye",
+        "CinematicSins"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The music video for 'Despacito' by Luis Fonsi and Daddy Yankee was the first video on YouTube to reach how many billion views in 2017?",
+      "choices": [
+        "3 billion",
+        "4 billion",
+        "5 billion",
+        "6 billion"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTube channel, run by the Sidemen collective, is known for prank videos and social experiments in London?",
+      "choices": [
+        "W2S",
+        "KSI",
+        "Sidemen",
+        "Miniminter"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of YouTube's algorithm-driven feature that suggests videos tailored to individual viewing history?",
+      "choices": [
+        "YouTube Suggestions",
+        "YouTube Recommendations",
+        "YouTube Personalization",
+        "YouTube Discovery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Keyboard Cat' video, which became one of the earliest meme templates, featured a cat playing what instrument?",
+      "choices": [
+        "Piano",
+        "Guitar",
+        "Synthesizer",
+        "Organ"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the first YouTube video ever uploaded, which featured a man at a zoo in 2005?",
+      "choices": [
+        "My Day at the Zoo",
+        "Me at the zoo",
+        "Zoo Life",
+        "A Day in the Zoo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber, known for her beauty and lifestyle content, was appointed as a UNICEF Goodwill Ambassador?",
+      "choices": [
+        "Zoella",
+        "Michelle Phan",
+        "Bethany Mota",
+        "Tati Westbrook"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Double Rainbow' viral video from 2010 featured a man's emotional reaction to a double rainbow at which location?",
+      "choices": [
+        "Yosemite National Park",
+        "Grand Canyon",
+        "Mauna Kea Observatory in Hawaii",
+        "Mountain peak in California"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber founded the educational channel Kurzgesagt, known for animated explainer videos about science and philosophy?",
+      "choices": [
+        "Philipp Dettmer",
+        "Tom Scott",
+        "Veritasium",
+        "Mark Rober"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What YouTube feature, introduced in 2018, allows creators to interact with subscribers through polls, images, and text posts?",
+      "choices": [
+        "YouTube Stories",
+        "YouTube Community",
+        "YouTube Discussions",
+        "YouTube Interactions"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which magician's YouTube channel, launched in 2010, became famous for illusion and sleight-of-hand tutorials?",
+      "choices": [
+        "Criss Angel",
+        "David Blaine",
+        "Chris Ramsay",
+        "52Kards"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Numa Numa' viral video, which featured a man lip-syncing to a European pop song, originated from which country?",
+      "choices": [
+        "Romania",
+        "Poland",
+        "Bulgaria",
+        "Moldova"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber and engineer is known for the 'Hydraulic Press Channel,' which uploads videos of the channel crushing items?",
+      "choices": [
+        "Mark Rober",
+        "Lauri Vuohensilta",
+        "Grant Thompson",
+        "CppMaster"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "YouTube's 'Rewind' annual video series began in which year as a celebration of viral moments and creators?",
+      "choices": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did YouTube officially launch as a public video-sharing platform?",
+      "choices": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which co-founder of YouTube went on to become the CEO of Google after the platform's acquisition?",
+      "choices": [
+        "Steve Chen",
+        "Karim Amin",
+        "Jawed Karim",
+        "None of these individuals held that position"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first video ever uploaded to YouTube in April 2005?",
+      "choices": [
+        "A music video by Jawed Karim",
+        "A clip titled 'Me at the zoo' by Jawed Karim",
+        "A test video by Steve Chen",
+        "A promotional video for the platform"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber's real name is Evan Fong, known for his gaming commentary channel that launched in 2010?",
+      "choices": [
+        "Markiplier",
+        "Vanoss Gaming",
+        "Jacksepticeye",
+        "PewDiePie"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Rickroll' meme originated when a 4chan user linked to a Rick Astley music video. In what year did this phenomenon peak on the internet?",
+      "choices": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beauty YouTuber famously launched the 'Morphe' collaboration and became one of the first creators to transition into traditional retail makeup lines?",
+      "choices": [
+        "Tati Westbrook",
+        "James Charles",
+        "Nikkie Tutorials",
+        "Jaclyn Hill"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What feature did YouTube introduce in 2018 that allows creators to add interactive elements like polls and quizzes directly into videos?",
+      "choices": [
+        "Interactive Cards",
+        "YouTube Polls",
+        "Engagement Cards",
+        "Creator Tools"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber's 2010 video 'Charlie Bit My Finger' became one of the most-viewed viral videos on the platform with over 880 million views?",
+      "choices": [
+        "Harry Davies-Carr",
+        "Charlie Davies-Carr",
+        "The Davies-Carr Family Channel",
+        "British Babies Official"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "YouTube introduced the Partner Program in 2007 to allow creators to monetize content. What percentage of ad revenue initially went to content creators?",
+      "choices": [
+        "45%",
+        "50%",
+        "55%",
+        "60%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which creator known for 'Slow Mo Guys' channel specializes in filming everyday objects at extremely high frame rates?",
+      "choices": [
+        "Destin Sandlin",
+        "Gav Free",
+        "Dan Bilzerian",
+        "Casey Fiesler"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The YouTube Rewind series was discontinued after the 2019 edition became the most-disliked video on the platform. How many dislikes did it receive before YouTube hid the dislike count?",
+      "choices": [
+        "15 million",
+        "18 million",
+        "19 million",
+        "20 million"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which science communication YouTuber created the channel Kurzgesagt, known for animated educational videos on complex topics?",
+      "choices": [
+        "Neil deGrasse Tyson",
+        "Philipp Dettmer",
+        "Sean Carroll",
+        "Brian Greene"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "YouTube Premium, the subscription service formerly known by another name, launched in what year?",
+      "choices": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which content creator's 'MrBeast Challenge' videos pioneered the large-scale giveaway format that became widely imitated on YouTube?",
+      "choices": [
+        "Logan Paul",
+        "James Stephen Donaldson",
+        "David Dobrik",
+        "Addison Rae"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Gangnam Style' music video by PSY became a global phenomenon in 2012. How many views did it accumulate to become one of YouTube's most-viewed videos at that time?",
+      "choices": [
+        "500 million",
+        "750 million",
+        "1 billion",
+        "1.5 billion"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which musician's '4 EARED PUSSY CAT' livestream on YouTube in 2021 set records for concurrent viewership?",
+      "choices": [
+        "Travis Scott",
+        "The Weeknd",
+        "Post Malone",
+        "Billie Eilish"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "YouTube introduced 'Community Posts' as a feature allowing creators to share updates without uploading videos. In what year was this feature rolled out?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which YouTuber created the 'Hydraulic Press' channel, famous for crushing objects between a powerful hydraulic press?",
+      "choices": [
+        "Lauri Vuohensilta",
+        "Erik Finman",
+        "Mark Rober",
+        "Jimmy Donaldson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "YouTube's algorithm prioritizes 'watch time' as a key metric for recommendations. In what year did YouTube officially shift focus from view count to watch time?",
+      "choices": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'YouTube Originals' program, creating exclusive premium content, launched with which high-profile creator's first project?",
+      "choices": [
+        "PewDiePie",
+        "Lilly Singh",
+        "Dwayne 'The Rock' Johnson",
+        "Shane Dawson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2006, Jawed Karim uploaded the first YouTube video titled 'Me at the zoo.' At which location was this historic video filmed?",
+      "choices": [
+        "San Diego Zoo",
+        "Bronx Zoo",
+        "Central Park Zoo",
+        "Oakland Zoo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lucas Cruikshank's Fred character became famous for which distinctive vocal characteristic that defined the early 2000s YouTube comedy era?",
+      "choices": [
+        "A deep, gravelly voice",
+        "An extremely high-pitched, squeaky voice",
+        "A robotic, monotone delivery",
+        "A thick Southern accent"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Gregory Brothers, known for their auto-tuned remixes, brought their signature musical style to which major awards ceremony in 2010?",
+      "choices": [
+        "Grammy Awards",
+        "MTV Video Music Awards",
+        "Academy Awards (Oscars)",
+        "Tony Awards"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British YouTuber was the first individual creator to reach one million subscribers on the platform?",
+      "choices": [
+        "Charlie McDonnell",
+        "Zoella",
+        "PewDiePie",
+        "Nigahiga"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Greyson Chance's breakout YouTube cover video, which accumulated over 50 million views, featured a piano rendition of which Lady Gaga song?",
+      "choices": [
+        "Bad Romance",
+        "Paparazzi",
+        "Born This Way",
+        "Poker Face"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dane Boedigheimer created a comedy channel centered around anthropomorphic fruits and vegetables. What is the name of this YouTube series?",
+      "choices": [
+        "Fruit Fights",
+        "Vegetable Showdown",
+        "Annoying Orange",
+        "Produce Punchlines"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Nicole Westbrook became a viral YouTube sensation by releasing a song focused on which American holiday in 2013?",
+      "choices": [
+        "Christmas",
+        "Halloween",
+        "Thanksgiving",
+        "Easter"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which content creator became the first solo YouTuber to reach 10 million subscribers?",
+      "choices": [
+        "PewDiePie",
+        "Fred Figglehorn",
+        "Smosh",
+        "RayWilliamJohnson"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tech company acquired YouTube for $1.65 billion in 2006?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Amazon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real name of the YouTuber known as 'Fred Figglehorn'?",
+      "choices": [
+        "Lucas Cruikshank",
+        "Ray William Johnson",
+        "Jenna Marbles",
+        "Charlie Bit My Finger"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which viral video from 2007 featured two young boys and became one of YouTube's earliest sensations?",
+      "choices": [
+        "Numa Numa",
+        "Charlie Bit My Finger",
+        "Chocolate Rain",
+        "Keyboard Cat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What musical instrument did Andy McKee perform on in his viral YouTube videos?",
+      "choices": [
+        "Piano",
+        "Guitar",
+        "Violin",
+        "Drums"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is a YouTube feature that allows creators to earn money from ads on their videos?",
+      "choices": [
+        "YouTube Shorts",
+        "YouTube Partner Program",
+        "YouTube Community",
+        "YouTube Studio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of YouTube's short-form video feature launched to compete with TikTok?",
+      "choices": [
+        "YouTube Reels",
+        "YouTube Clips",
+        "YouTube Shorts",
+        "YouTube Stories"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTuber is known for her beauty and style tutorials alongside her sister Elle Fowler?",
+      "choices": [
+        "Bethany Mota",
+        "Blair Fowler",
+        "Michelle Phan",
+        "Tati Westbrook"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What viral dance video from 2004 featured Gary Brolsma dancing to a song by Dragostea din tei?",
+      "choices": [
+        "Harlem Shake",
+        "Numa Numa",
+        "Gangnam Style",
+        "Dougie"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comedic YouTuber is famous for his satirical musical performances and accumulated over 100 million views?",
+      "choices": [
+        "Filthy Frank",
+        "Bo Burnham",
+        "Linus Tech Tips",
+        "Vsauce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the YouTube series created by Charles Trippy that documented his daily life?",
+      "choices": [
+        "Vlog Squad",
+        "Internet Killed Television",
+        "David Dobrik's Vlogs",
+        "4 Corners"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sesame Street parody on YouTube became a viral hit by reimagining a Carly Rae Jepsen song?",
+      "choices": [
+        "C is for Cookie",
+        "Share It Maybe",
+        "Call Me Bert",
+        "Rubber Duckie"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What feature did YouTube introduce that allows creators to post updates without uploading full-length videos?",
+      "choices": [
+        "YouTube Live",
+        "YouTube Community",
+        "YouTube Premiere",
+        "YouTube Stories"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is the YouTuber Athene (Bachir Boumaaza) originally from?",
+      "choices": [
+        "France",
+        "Belgium",
+        "Netherlands",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the maximum duration allowed for a standard YouTube Shorts video?",
+      "choices": [
+        "15 seconds",
+        "30 seconds",
+        "60 seconds",
+        "90 seconds"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which early YouTube star was known for her 'Numa Numa'-style videos and became famous around 2006-2007?",
+      "choices": [
+        "Lonelygirl15",
+        "Brookers",
+        "Boxxy",
+        "iJustine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first YouTube video ever uploaded, featuring Jawed Karim at a zoo?",
+      "choices": [
+        "Me at the San Diego Zoo",
+        "First YouTube Video",
+        "Zoo Time",
+        "Me at the aquarium"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTube feature allows viewers to leave timestamps and comments at specific moments in a video?",
+      "choices": [
+        "Pinned Comments",
+        "Chapters",
+        "Chapters and Timestamps",
+        "Super Chat"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the YouTube monetization system require as a minimum subscriber count before creators can earn ad revenue?",
+      "choices": [
+        "1,000 subscribers",
+        "10,000 subscribers",
+        "100,000 subscribers",
+        "1 million subscribers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTuber's viral hit 'Shoes' in 2006 featured a song about footwear that became one of the platform's earliest viral sensations?",
+      "choices": [
+        "Lonelygirl15",
+        "Numa Numa Guy",
+        "Shoes Girl",
+        "Charlie Bit My Finger"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the feature that allows creators to add interactive timestamps and labels to divide their videos into organized sections?",
+      "choices": [
+        "Video Segments",
+        "YouTube Chapters",
+        "Content Markers",
+        "Timeline Breaks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTube personality became famous in the late 2000s for creating absurdist comedy skits in a distinctive rapid-fire style?",
+      "choices": [
+        "Smosh",
+        "Ray William Johnson",
+        "Shane Dawson",
+        "David Dobrik"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did YouTube introduce the YouTube Partner Program, allowing creators to monetize their content through ads?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which music video became YouTube's first to surpass one billion views, setting a major milestone for the platform?",
+      "choices": [
+        "Gangnam Style",
+        "Despacito",
+        "Uptown Funk",
         "See You Again"
       ],
       "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Luis Fonsi feat. Daddy Yankee."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "What is the name of the achievement award YouTube gives at 100,000, 1 million, and 10 million subscribers?",
+      "q": "What feature enables viewers to watch downloaded YouTube videos without an internet connection?",
       "choices": [
-        "Silver, Gold, Diamond Play Buttons",
-        "Plates",
-        "Trophies",
-        "Ribbons"
+        "YouTube Go",
+        "Offline Mode",
+        "Download & Play",
+        "YouTube Cache"
       ],
       "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Plus a Ruby (50M) and Red Diamond (100M)."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "What was YouTube's original tagline at launch?",
+      "q": "Which YouTube series by a vlogger documented his daily life continuously for over a decade starting in 2006?",
       "choices": [
-        "Broadcast Yourself",
-        "Watch Anywhere",
-        "Your Stage, Your World",
-        "The World's Stage"
+        "Daily Grace",
+        "Internet Killed Television",
+        "Vlog Squad",
+        "The Try Guys"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of YouTube Playlists?",
+      "choices": [
+        "To share videos with friends",
+        "To organize and group videos in a custom order",
+        "To automatically generate video recommendations",
+        "To track watch history"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTuber rose to fame in the mid-2000s for uploading quirky lip-sync videos and comedic skits from his bedroom?",
+      "choices": [
+        "Fred Figglehorn",
+        "Lonelygirl15",
+        "Keyboard Cat",
+        "Numa Numa Guy"
       ],
       "correct": 0,
-      "category": "YouTube",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Used until ~2012."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Who is the current CEO of YouTube (succeeding Susan Wojcicki in 2023)?",
-      "choices": ["Neal Mohan", "Sundar Pichai", "Eric Schmidt", "Lior Ron"],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Took over February 2023."
-      }
-    },
-    {
-      "q": "Which annual YouTube recap series ended after backlash and the worst-rated video ever in 2018?",
+      "q": "What annual YouTube video series attempted to recap and celebrate the biggest trends and moments from the platform each year?",
       "choices": [
+        "YouTube Awards",
+        "YouTube Hall of Fame",
         "YouTube Rewind",
-        "YouTube Trending",
-        "YouTube Live",
-        "YouTube Year"
+        "YouTube Recap"
       ],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "YouTube Rewind series",
-        "verified": true,
-        "notes": "'YouTube Rewind 2018' became the most-disliked video on YouTube."
-      }
-    },
-    {
-      "q": "What annual fan event has YouTube hosted in cities around the world for creators and fans since 2011?",
-      "choices": [
-        "VidCon",
-        "YouTube Fest",
-        "Creator Con",
-        "TubeCon"
-      ],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Founded by Hank & John Green; not officially YouTube's, but THE YouTube convention."
-      }
-    },
-    {
-      "q": "What 2007 'feature' allowed creators to receive a share of ad revenue?",
-      "choices": [
-        "YouTube Partner Program",
-        "AdSense for YouTube",
-        "Creator Studio",
-        "AdSplit"
-      ],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Launched May 2007."
-      }
-    },
-    {
-      "q": "What is the name of YouTube's TV alternative streaming bundle, launched in 2017?",
-      "choices": ["YouTube TV", "YouTube Live", "YouTube Cable", "YouTube Stream"],
-      "correct": 0,
-      "category": "YouTube",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "Live TV streaming service."
-      }
-    },
-    {
-      "q": "Approximately how many hours of video are uploaded to YouTube every minute (recent estimate)?",
-      "choices": ["100", "300", "500", "1,000"],
       "correct": 2,
-      "category": "YouTube",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "YouTube",
-        "verified": true,
-        "notes": "About 500 hours per minute as of 2024."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British-American YouTuber is known for producing high-budget experiment and technology-focused videos with millions of subscribers?",
+      "choices": [
+        "Vsauce",
+        "Linus Tech Tips",
+        "Tom Scott",
+        "Kurzgesagt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What feature allows creators to schedule a specific premiere time for new videos, during which subscribers can watch together in real-time?",
+      "choices": [
+        "YouTube Premiere",
+        "Video Launch",
+        "Live Release",
+        "Scheduled Upload"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTuber gained fame for prank videos and social experiments, launching the 'Prank Invasion' series?",
+      "choices": [
+        "Roman Atwood",
+        "Vitaly Zdorovetskiy",
+        "Joey Salads",
+        "Dolan Dark"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the live-streaming feature that enables creators to broadcast real-time video to their audience?",
+      "choices": [
+        "YouTube Stream",
+        "YouTube Live",
+        "YouTube Broadcast",
+        "Real-Time Video"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTube phenomenon from 2012 featured a song with a distinctive horse-riding dance move that became globally popular?",
+      "choices": [
+        "Harlem Shake",
+        "Gangnam Style",
+        "Whip/Nae Nae",
+        "Do the Dougie"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What feature allows users to automatically receive notifications when their subscribed creators upload new videos?",
+      "choices": [
+        "Video Alerts",
+        "Channel Notifications",
+        "Subscriptions",
+        "Watch Reminders"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beauty YouTuber became one of the fastest channels to reach 10 million subscribers, starting her channel in 2009?",
+      "choices": [
+        "Bethany Mota",
+        "Zoella",
+        "Michelle Phan",
+        "Tati Westbrook"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the term 'clickbait thumbnail' refer to in YouTube culture?",
+      "choices": [
+        "A video that won't load properly",
+        "An eye-catching but misleading video preview image designed to increase clicks",
+        "A thumbnail that links to another channel",
+        "A preview that plays automatically"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comedian gained YouTube fame by uploading comedy specials and satirical musical videos starting in the early 2010s?",
+      "choices": [
+        "Dane Cook",
+        "Bo Burnham",
+        "Louis C.K.",
+        "John Mulaney"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What feature enables creators to earn money from viewers who wish to support them directly without watching ads?",
+      "choices": [
+        "YouTube Ads",
+        "Channel Memberships",
+        "Super Chat",
+        "YouTube Premium Revenue"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTuber pioneered the daily vlogging format by documenting their everyday life without scripts in the early 2000s?",
+      "choices": [
+        "Shay Carl",
+        "Charlie McDonnell",
+        "Nigahiga",
+        "PewDiePie"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Christine Gambito's comedy YouTube channel that launched her viral career?",
+      "choices": [
+        "HappySlip",
+        "GlozellGreen",
+        "JennaMarbles",
+        "Smosh"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which science education YouTube channel is hosted by Derek Muller and focuses on physics and engineering concepts?",
+      "choices": [
+        "CrashCourse",
+        "Veritasium",
+        "Kurzgesagt",
+        "MinutePhysics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Andy McKee became famous on YouTube for performing elaborate fingerstyle compositions on which musical instrument?",
+      "choices": [
+        "Piano",
+        "Violin",
+        "Acoustic Guitar",
+        "Drums"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The comedy duo Smosh originated from which California city before becoming one of YouTube's first mega-successful channels?",
+      "choices": [
+        "Los Angeles",
+        "Sacramento",
+        "San Francisco",
+        "San Diego"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTuber's viral lip-sync video to a Black Eyed Peas song earned him the nickname 'Back Dorm Boys'?",
+      "choices": [
+        "Charlie McDonnell",
+        "Wesley Chan and Lex Lee",
+        "Smosh",
+        "nigahiga"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What feature allows YouTube creators to divide their videos into clickable segments that viewers can jump to?",
+      "choices": [
+        "YouTube Cards",
+        "Timestamps",
+        "YouTube Chapters",
+        "Playlist Markers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British YouTuber was among the first creators to reach one million subscribers on the platform?",
+      "choices": [
+        "Charlie McDonnell",
+        "Tom Fletcher",
+        "Dan Howell",
+        "Marcus Butler"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Daniel Hardcastle gained popularity on YouTube primarily through commentary videos about which medium?",
+      "choices": [
+        "Movies",
+        "Video Games",
+        "TV Shows",
+        "Books"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which annual YouTube video series attempted to recap and celebrate the year's biggest trends and viral moments?",
+      "choices": [
+        "YouTube Trends",
+        "YouTube Awards",
+        "YouTube Rewind",
+        "Year in Review"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "South Korean artist Psy's 2012 song that became YouTube's first video to reach one billion views is titled what?",
+      "choices": [
+        "Gentleman",
+        "Gangnam Style",
+        "Oppa",
+        "Sexy Back"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Fine Brothers became known for creating which type of viral reaction video format on YouTube?",
+      "choices": [
+        "Mukbang reactions",
+        "'React' videos",
+        "Challenge fails",
+        "Prank compilations"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ken Block's 'Gymkhana Four' was a viral YouTube advertisement stunt created to promote which footwear brand?",
+      "choices": [
+        "Nike",
+        "Adidas",
+        "DC Shoes",
+        "Vans"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which YouTube personality is known for her energetic personality and was featured in a film with Justin Bieber?",
+      "choices": [
+        "GloZell Green",
+        "Andrea Russett",
+        "Jenna Marbles",
+        "Bethany Mota"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the feature that allows YouTube creators to compile and organize videos in a specific order for viewers?",
+      "choices": [
+        "Channel Collections",
+        "Playlists",
+        "Watch Later",
+        "Queue"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Nicole Westbrook's viral song 'It's Thanksgiving' became a YouTube phenomenon by celebrating which holiday?",
+      "choices": [
+        "Christmas",
+        "Thanksgiving",
+        "Halloween",
+        "Easter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which member of the British band McFly delivered a wedding speech that became a viral YouTube sensation?",
+      "choices": [
+        "Danny Jones",
+        "Tom Fletcher",
+        "Dougie Poynter",
+        "Harry Judd"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "GloZell Green documented a notable YouTube moment when she met which actor known for playing a wizard character?",
+      "choices": [
+        "Daniel Radcliffe",
+        "Elijah Wood",
+        "Orlando Bloom",
+        "Ian McKellen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 2010 dance craze flooded YouTube with tutorial videos and became a major social media trend?",
+      "choices": [
+        "Harlem Shake",
+        "Dougie",
+        "Cha Cha Slide",
+        "Stanky Leg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What YouTube feature enables creators to broadcast video content in real-time to their audience?",
+      "choices": [
+        "Premiere",
+        "YouTube Live",
+        "Screen Share",
+        "Go Live"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2005, which YouTube co-founder uploaded the platform's first-ever video titled 'Me at the zoo'?",
+      "choices": [
+        "Steve Chen",
+        "Jawed Karim",
+        "Chad Hurley",
+        "Evan Williams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tech company acquired YouTube in 2006 for approximately $1.65 billion?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Amazon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Greyson Chance became a viral sensation in 2010 after posting a piano cover of which Lady Gaga song?",
+      "choices": [
+        "Bad Romance",
+        "Paparazzi",
+        "Poker Face",
+        "Born This Way"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which South Korean artist's 2012 music video 'Gangnam Style' became YouTube's first video to reach one billion views?",
+      "choices": [
+        "BigBang",
+        "Psy",
+        "2NE1",
+        "EXO"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lucas Cruikshank created and performed which squeaky-voiced YouTube character who became the first YouTuber to reach one million subscribers?",
+      "choices": [
+        "Charlie Bit My Finger",
+        "Fred Figglehorn",
+        "Numa Numa Guy",
+        "Evolution of Dance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Hannah Hart's popular YouTube comedy series primarily takes place in which room of her home?",
+      "choices": [
+        "Bathroom",
+        "Bedroom",
+        "Kitchen",
+        "Living Room"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Dane Boedigheimer created which YouTube channel featuring an animated fruit character known for delivering sarcastic commentary?",
+      "choices": [
+        "Fruity Pebbles",
+        "Annoying Orange",
+        "Fruit Ninja",
+        "Orange You Glad"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,17 +1,18 @@
 {
   "slug": "ireland-trivia",
   "name": "Ireland",
-  "description": "The Emerald Isle — Dublin, Guinness, Joyce, and a lot of green.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.594Z",
   "questions": [
     {
       "q": "What is the capital of the Republic of Ireland?",
-      "choices": ["Cork", "Galway", "Dublin", "Limerick"],
+      "choices": [
+        "Cork",
+        "Galway",
+        "Dublin",
+        "Limerick"
+      ],
       "correct": 2,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "Dublin - the vibrant capital city", "verified": true, "notes": "On the east coast at the mouth of the River Liffey." }
+      "difficulty": "easy"
     },
     {
       "q": "What is Ireland's famous green-hued nickname?",
@@ -22,17 +23,18 @@
         "The Celtic Jewel"
       ],
       "correct": 0,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "The Emerald Isle", "verified": true, "notes": "Named for its famously lush, green countryside." }
+      "difficulty": "easy"
     },
     {
       "q": "Which three-leafed plant is Ireland's national symbol?",
-      "choices": ["Shamrock", "Fern", "Thistle", "Clover (four-leaf)"],
+      "choices": [
+        "Shamrock",
+        "Fern",
+        "Thistle",
+        "Clover (four-leaf)"
+      ],
       "correct": 0,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "St. Patrick used it to explain the Trinity, per legend." }
+      "difficulty": "easy"
     },
     {
       "q": "What famous Irish holiday is celebrated each March 17 worldwide?",
@@ -43,25 +45,29 @@
         "Easter Rising Day"
       ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "Saint of Ireland's patron; parades worldwide." }
+      "difficulty": "easy"
     },
     {
       "q": "Which iconic dark dry stout originated in Dublin in 1759?",
-      "choices": ["Murphy's", "Beamish", "Guinness", "Smithwick's"],
+      "choices": [
+        "Murphy's",
+        "Beamish",
+        "Guinness",
+        "Smithwick's"
+      ],
       "correct": 2,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "Brewed at St. James's Gate Brewery." }
+      "difficulty": "easy"
     },
     {
       "q": "Ireland's currency today is which unit?",
-      "choices": ["Pound", "Euro", "Irish pound (punt)", "Krone"],
+      "choices": [
+        "Pound",
+        "Euro",
+        "Irish pound (punt)",
+        "Krone"
+      ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "Ireland adopted the euro in 1999/2002." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of Ireland's largest island-surrounding body of water on the west side?",
@@ -72,158 +78,714 @@
         "Baltic Sea"
       ],
       "correct": 0,
-      "category": "Ireland",
-      "difficulty": "easy",
-      "source": { "original_a": "The Atlantic Ocean", "verified": true, "notes": "Ireland's west coast faces the Atlantic; Irish Sea separates it from Great Britain to the east." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which catastrophe in the 1840s reduced Ireland's population by roughly a quarter through starvation and emigration?",
+      "q": "What is the nickname for Ireland due to its verdant landscape?",
       "choices": [
-        "The Black Plague",
-        "The Great Famine (Potato Famine)",
-        "The Spanish Flu",
-        "The Troubles"
+        "The Green Island",
+        "The Emerald Isle",
+        "The Jade Land",
+        "The Celtic Green"
       ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "The Great Famine", "verified": true, "notes": "Roughly 1 million died; another million emigrated." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the Irish-language prime-minister-equivalent head of government?",
-      "choices": ["Taoiseach", "Tánaiste", "An Bord", "President"],
-      "correct": 0,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Taoiseach", "verified": true, "notes": "Tánaiste is the deputy." }
-    },
-    {
-      "q": "What is the name of the Irish-language legislature (parliament)?",
+      "q": "Which body of water separates Ireland from Great Britain?",
       "choices": [
-        "Dáil",
+        "The North Sea",
+        "The Atlantic Ocean",
+        "The Irish Sea",
+        "St. George's Channel"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Irish language name for Ireland?",
+      "choices": [
+        "Éire",
+        "Erin",
+        "Hibernia",
+        "Ulster"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which three-leafed plant is a national symbol of Ireland?",
+      "choices": [
+        "Clover",
+        "Shamrock",
+        "Ivy",
+        "Thistle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is St. Patrick's Day celebrated on each year?",
+      "choices": [
+        "March 17th",
+        "March 10th",
+        "April 5th",
+        "February 28th"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional Irish sport is played with a wooden stick and small ball?",
+      "choices": [
+        "Gaelic football",
+        "Hurling",
+        "Camogie",
+        "Shinty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Ireland's national police force?",
+      "choices": [
+        "Royal Irish Constabulary",
+        "Garda Síochána",
+        "Irish Defence Force",
+        "National Guard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the currency used in the Republic of Ireland?",
+      "choices": [
+        "Irish Pound",
+        "Euro",
+        "Sterling",
+        "Punt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain is the highest point in Ireland?",
+      "choices": [
+        "Slieve Donard",
+        "Carrauntoohil",
+        "Lugnaquilla",
+        "Brandon Mountain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the longest river in Ireland?",
+      "choices": [
+        "River Lee",
+        "River Shannon",
+        "River Liffey",
+        "River Boyne"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first President of Ireland?",
+      "choices": [
+        "Eamon de Valera",
+        "Douglas Hyde",
+        "Michael Collins",
+        "Sean T. O'Kelly"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Ireland's parliament?",
+      "choices": [
+        "Dáil Éireann",
         "Oireachtas",
-        "Seanad",
-        "Senedd"
+        "Seanad Éireann",
+        "Cumann na nGael"
       ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Oireachtas", "verified": true, "notes": "The Oireachtas comprises the Dáil (lower house) and Seanad (senate)." }
+      "difficulty": "easy"
     },
     {
-      "q": "The 1916 armed rebellion against British rule in Dublin is known as what?",
+      "q": "Which Irish author wrote the poem 'Easter, 1916'?",
       "choices": [
-        "Bloody Sunday",
-        "The Easter Rising",
-        "The Troubles",
-        "The Good Friday Rising"
+        "James Joyce",
+        "W.B. Yeats",
+        "Samuel Beckett",
+        "Sean O'Casey"
       ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Easter Rising", "verified": true, "notes": "Began Easter Monday, April 24, 1916." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1998 accord largely ended the three-decade conflict in Northern Ireland?",
+      "q": "What does 'Celtic Tiger' refer to in Irish history?",
       "choices": [
+        "A legendary beast in mythology",
+        "A period of rapid economic growth",
+        "An ancient warrior clan",
+        "A sports team mascot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which agreement ended the conflict known as 'the Troubles' in Northern Ireland?",
+      "choices": [
+        "The Anglo-Irish Treaty",
         "The Good Friday Agreement",
-        "The Belfast Accord",
-        "The Ulster Treaty",
-        "The Dublin Pact"
+        "The St. Andrews Agreement",
+        "The Belfast Accord"
       ],
-      "correct": 0,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Good Friday Agreement", "verified": true, "notes": "Signed April 10, 1998, on Good Friday." }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which river flows through Dublin?",
+      "q": "What ancient Celtic festival celebrates the beginning of summer in Irish mythology?",
       "choices": [
-        "The Liffey",
-        "The Shannon",
-        "The Boyne",
-        "The Lee"
+        "Samhain",
+        "Beltane",
+        "Imbolc",
+        "Lughnasadh"
       ],
-      "correct": 0,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "The Liffey famously divides Dublin into 'northside' and 'southside.'" }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "The capital of Northern Ireland is which city?",
+      "q": "What music genre originates from and is traditional to Ireland?",
+      "choices": [
+        "Country music",
+        "Celtic music",
+        "Jazz",
+        "Blues"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Irish province is located on the western coast of the island?",
+      "choices": [
+        "Ulster",
+        "Munster",
+        "Leinster",
+        "Connacht"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient in a traditional Irish stew?",
+      "choices": [
+        "Beef and root vegetables",
+        "Lamb and potatoes",
+        "Chicken and barley",
+        "Fish and cream"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the busiest airport in Ireland by passenger traffic?",
+      "choices": [
+        "Cork Airport",
+        "Dublin Airport",
+        "Shannon Airport",
+        "Belfast International Airport"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital city of the Republic of Ireland?",
+      "choices": [
+        "Belfast",
+        "Dublin",
+        "Cork",
+        "Galway"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which currency is used in the Republic of Ireland?",
+      "choices": [
+        "Irish Pound",
+        "Euro",
+        "British Pound",
+        "Dollar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Irish name for Ireland?",
+      "choices": [
+        "Hibernia",
+        "Éire",
+        "Erin",
+        "Ailann"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which plant is the national symbol of Ireland?",
+      "choices": [
+        "Clover",
+        "Shamrock",
+        "Thistle",
+        "Rose"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital city of Northern Ireland?",
+      "choices": [
+        "Derry",
+        "Belfast",
+        "Armagh",
+        "Newry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous book, containing illuminated Celtic manuscripts, is housed at Trinity College Dublin?",
+      "choices": [
+        "Book of Durrow",
+        "Book of Kells",
+        "Book of Armagh",
+        "Kells Codex"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most popular sport played in Ireland?",
+      "choices": [
+        "Rugby",
+        "Soccer",
+        "Gaelic football",
+        "Cricket"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Ireland legalize same-sex marriage through a referendum?",
+      "choices": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the two official languages of Ireland?",
+      "choices": [
+        "English and Scottish Gaelic",
+        "Irish and English",
+        "Irish and Welsh",
+        "English and French"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous Irish stout is brewed at St James' Gate Brewery?",
+      "choices": [
+        "Smithwick's",
+        "Guinness",
+        "Beamish",
+        "Murphy's"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ancient script, found on Irish standing stones, uses notches and lines to represent letters?",
+      "choices": [
+        "Runic",
+        "Celtic Script",
+        "Ogham",
+        "Insular Script"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Irish province is located on the island's west coast?",
+      "choices": [
+        "Leinster",
+        "Connacht",
+        "Munster",
+        "Ulster"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Irish bagpipes traditionally played in Irish music?",
+      "choices": [
+        "Great Pipes",
+        "Uilleann pipes",
+        "War Pipes",
+        "Highland Pipes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Irish mythology, who is said to have built the Giant's Causeway in Northern Ireland?",
+      "choices": [
+        "Cú Chulainn",
+        "Fionn mac Cumhaill",
+        "Oisín",
+        "Balor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest lake in Ireland by area?",
+      "choices": [
+        "Lough Derg",
+        "Lough Corrib",
+        "Lough Neagh",
+        "Lough Ree"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Irish actor played James Bond in four films during the 1990s and early 2000s?",
+      "choices": [
+        "Cillian Murphy",
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Colin Farrell"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary cause of the Irish Civil War that began in 1922?",
+      "choices": [
+        "Independence from Britain",
+        "Disputes over the Anglo-Irish Treaty",
+        "Religious conflict",
+        "Land reform"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main difference between Irish whiskey and Scotch whisky in production?",
+      "choices": [
+        "Irish uses barley; Scotch uses grain",
+        "Irish is triple distilled; Scotch is typically double distilled",
+        "Irish ages in oak; Scotch ages in sherry",
+        "Irish is bottled in Ireland; Scotch in Scotland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which three colors make up the Irish flag and what do they represent?",
+      "choices": [
+        "Green, white, and gold representing the provinces",
+        "Green, white, and orange representing Catholics, Protestants, and peace",
+        "Blue, white, and green representing land, sea, and sky",
+        "Red, white, and blue representing independence"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional Irish harvest festival celebrated at the beginning of August?",
+      "choices": [
+        "Imbolc",
+        "Beltane",
+        "Lughnasadh",
+        "Samhain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital city of Ireland?",
       "choices": [
         "Dublin",
         "Cork",
-        "Belfast",
-        "Derry"
+        "Galway",
+        "Limerick"
       ],
-      "correct": 2,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Belfast", "verified": true, "notes": "Shipbuilding city; Titanic was built there." }
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which Irish writer is best known for the 1922 Dublin-set modernist novel 'Ulysses'?",
+      "q": "What is the name of Ireland's national anthem?",
       "choices": [
-        "Samuel Beckett",
-        "James Joyce",
-        "W. B. Yeats",
-        "Seamus Heaney"
+        "Danny Boy",
+        "Amhrán na bhFiann",
+        "The Fields of Athenry",
+        "Whiskey in the Jar"
       ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "June 16 is celebrated as 'Bloomsday' in the book's honor." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which cliffs on Ireland's west coast are one of the country's most visited natural attractions?",
+      "q": "What is the title of the head of the Irish government?",
       "choices": [
-        "Cliffs of Moher",
-        "Cliffs of Dunluce",
-        "Cliffs of Slieve League",
-        "Cliffs of Kilkee"
-      ],
-      "correct": 0,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "County Clare, rising over 700 ft above the Atlantic." }
-    },
-    {
-      "q": "The longest river in Ireland is which?",
-      "choices": [
-        "The Liffey",
-        "The Boyne",
-        "The Shannon",
-        "The Lee"
+        "President",
+        "Prime Minister",
+        "Taoiseach",
+        "Chancellor"
       ],
       "correct": 2,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "River Shannon", "verified": true, "notes": "Runs 224 miles, draining much of central Ireland." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which political party that shaped the 20th-century Republic was founded by Éamon de Valera?",
+      "q": "What is the Irish name for the island of Ireland?",
       "choices": [
-        "Fianna Fáil",
-        "Fine Gael",
-        "Sinn Féin",
-        "Labour"
+        "Hibernia",
+        "Éire",
+        "Erin",
+        "Connacht"
       ],
-      "correct": 0,
-      "category": "Ireland",
-      "difficulty": "medium",
-      "source": { "original_a": "Fianna Fáil", "verified": true, "notes": "Founded 1926." }
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river is the longest in Ireland?",
+      "choices": [
+        "River Lee",
+        "River Liffey",
+        "River Shannon",
+        "River Boyne"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest lake in Ireland by surface area?",
+      "choices": [
+        "Lough Derg",
+        "Lough Corrib",
+        "Lough Neagh",
+        "Lough Ree"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous stout beer is brewed at St. James' Gate in Dublin?",
+      "choices": [
+        "Smithwick's",
+        "Guinness",
+        "Beamish",
+        "Murphy's"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the national symbol of Ireland?",
+      "choices": [
+        "The Shamrock",
+        "The Harp",
+        "The Celtic Cross",
+        "The Claddagh Ring"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What agreement in 1998 ended the Troubles in Northern Ireland?",
+      "choices": [
+        "The Treaty of Versailles",
+        "The Good Friday Agreement",
+        "The Belfast Accord",
+        "The Ulster Treaty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional Irish dish contains lamb, potatoes, onions, and carrots?",
+      "choices": [
+        "Coddle",
+        "Irish Stew",
+        "Colcannon",
+        "Boxty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the legal drinking age in Ireland?",
+      "choices": [
+        "16",
+        "17",
+        "18",
+        "21"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Irish author wrote the novel Dracula?",
+      "choices": [
+        "Oscar Wilde",
+        "James Joyce",
+        "Bram Stoker",
+        "George Bernard Shaw"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname is given to Ireland because of its lush green landscape?",
+      "choices": [
+        "The Green Isle",
+        "The Emerald Isle",
+        "The Verdant Land",
+        "The Celtic Green"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ocean borders Ireland to the west?",
+      "choices": [
+        "The North Sea",
+        "The Arctic Ocean",
+        "The Atlantic Ocean",
+        "The Mediterranean Sea"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Irish city was established as a Viking settlement in the 9th century?",
+      "choices": [
+        "Cork",
+        "Waterford",
+        "Dublin",
+        "Limerick"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of climate does Ireland experience?",
+      "choices": [
+        "Continental",
+        "Mediterranean",
+        "Oceanic",
+        "Tropical"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main language used for teaching in Irish universities?",
+      "choices": [
+        "Irish Gaelic",
+        "English",
+        "Latin",
+        "French"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest city in Northern Ireland?",
+      "choices": [
+        "Derry",
+        "Armagh",
+        "Belfast",
+        "Newry"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What system of government does Ireland operate under?",
+      "choices": [
+        "Absolute Monarchy",
+        "Parliamentary Democracy",
+        "Dictatorship",
+        "Federal Republic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What body of water separates Ireland from Great Britain?",
+      "choices": [
+        "The Atlantic Ocean",
+        "The Irish Sea",
+        "The Celtic Channel",
+        "The North Channel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Irish actor played James Bond in multiple films during the 1990s and early 2000s?",
+      "choices": [
+        "Cillian Murphy",
+        "Pierce Brosnan",
+        "Colin Farrell",
+        "Saoirse Ronan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Irish name for the country of Ireland?",
+      "choices": [
+        "Erin",
+        "Éire",
+        "Hibernia",
+        "Albion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What currency is used in the Republic of Ireland?",
+      "choices": [
+        "Irish Pound",
+        "Euro",
+        "British Pound",
+        "Irish Shilling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "In which year did the Irish Free State become the Republic of Ireland?",
-      "choices": ["1922", "1937", "1948", "1973"],
+      "choices": [
+        "1922",
+        "1937",
+        "1948",
+        "1973"
+      ],
       "correct": 2,
-      "category": "Ireland",
-      "difficulty": "hard",
-      "source": { "original_a": "1949", "verified": true, "notes": "Republic of Ireland Act came into force April 18, 1949." }
+      "difficulty": "hard"
     },
     {
-      "q": "Which mountain range in County Kerry contains Ireland's highest peak, Carrauntoohil?",
+      "q": "Ireland's most famous mountain range, a long arc running through the north and west, is the what?",
       "choices": [
         "Macgillycuddy's Reeks",
         "Wicklow Mountains",
@@ -231,9 +793,7 @@
         "Twelve Bens"
       ],
       "correct": 0,
-      "category": "Ireland",
-      "difficulty": "hard",
-      "source": { "original_a": "MacGillycuddy's Reeks in County Kerry", "verified": true, "notes": "In County Kerry, home to Carrauntoohil, Ireland's highest peak. audit-corrected 2026-05-09: rewrote stem because the Reeks are a compact south-west range, not 'a long arc through the north and west.'" }
+      "difficulty": "hard"
     },
     {
       "q": "Which Irish rock band formed in Dublin in 1976 and has released albums including 'The Joshua Tree'?",
@@ -244,17 +804,1426 @@
         "The Pogues"
       ],
       "correct": 0,
-      "category": "Ireland",
-      "difficulty": "hard",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "Fronted by Bono." }
+      "difficulty": "hard"
     },
     {
       "q": "Ireland joined the European Union (then European Economic Community) in which year?",
-      "choices": ["1957", "1973", "1981", "1995"],
+      "choices": [
+        "1957",
+        "1973",
+        "1981",
+        "1995"
+      ],
       "correct": 1,
-      "category": "Ireland",
-      "difficulty": "hard",
-      "source": { "original_a": "Ireland", "verified": true, "notes": "Joined January 1, 1973, along with the UK and Denmark." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Easter Rising take place in Dublin?",
+      "choices": [
+        "1914",
+        "1916",
+        "1919",
+        "1921"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish author wrote the novel 'Ulysses', set in Dublin on a single day?",
+      "choices": [
+        "Samuel Beckett",
+        "James Joyce",
+        "Seán O'Casey",
+        "W.B. Yeats"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Ireland's national police and security force?",
+      "choices": [
+        "Royal Ulster Constabulary",
+        "Garda Síochána",
+        "Irish Defence Force",
+        "Civil Guard Service"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Irish festival marked the beginning of summer and was associated with bonfires and cattle?",
+      "choices": [
+        "Samhain",
+        "Beltane",
+        "Imbolc",
+        "Lughnasadh"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the total land area of the island of Ireland in square kilometers?",
+      "choices": [
+        "70,280 km²",
+        "84,421 km²",
+        "92,090 km²",
+        "78,500 km²"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Irish Civil War (1922-1923) was primarily fought over disagreement regarding which international agreement?",
+      "choices": [
+        "The Treaty of Versailles",
+        "The Anglo-Irish Treaty",
+        "The Act of Union",
+        "The Home Rule Bill"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish province is located on the eastern side of the island and contains the most arable land?",
+      "choices": [
+        "Munster",
+        "Ulster",
+        "Leinster",
+        "Connacht"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official Irish name for the state, as used in the Constitution?",
+      "choices": [
+        "Poblacht na hÉireann",
+        "Éire",
+        "An Stát",
+        "Baile Átha Cliath"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish lake, located in Northern Ireland, is the largest by surface area on the island?",
+      "choices": [
+        "Lough Derg",
+        "Lough Ree",
+        "Lough Neagh",
+        "Lough Corrib"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Good Friday Agreement signed, effectively ending the Troubles?",
+      "choices": [
+        "1993",
+        "1995",
+        "1997",
+        "1998"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish-born author created the character Count Dracula in his 1897 novel?",
+      "choices": [
+        "Oscar Wilde",
+        "Bram Stoker",
+        "George Bernard Shaw",
+        "Jonathan Swift"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the traditional Irish bagpipe instrument, distinct from Scottish pipes?",
+      "choices": [
+        "Bodhran pipes",
+        "Uilleann pipes",
+        "Warpipes",
+        "Fleadh pipes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish province lies in the western part of the island and includes counties like Galway and Mayo?",
+      "choices": [
+        "Leinster",
+        "Connacht",
+        "Munster",
+        "Ulster"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The approximate length of Ireland's coastline, exposed to the Atlantic Ocean and Irish Sea, is how many kilometers?",
+      "choices": [
+        "5,200 km",
+        "6,800 km",
+        "7,527 km",
+        "8,900 km"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the Irish storytelling tradition practiced by professional seers and historians in ancient times?",
+      "choices": [
+        "Druidism",
+        "Seanchaí",
+        "Filid",
+        "Brehon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Dublin neighborhood can you find the ancient megalithic site known as Newgrange's contemporary Irish monuments?",
+      "choices": [
+        "Docklands",
+        "Temple Bar",
+        "Smithfield",
+        "Kilmainham"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What name is given to the Irish-speaking regions designated by the Irish government?",
+      "choices": [
+        "Oireachtas zones",
+        "Gaeltacht",
+        "Dail districts",
+        "Seanad regions"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Irish festival, celebrated on February 1st, marked the beginning of spring and lactation season for cattle?",
+      "choices": [
+        "Samhain",
+        "Lughnasadh",
+        "Imbolc",
+        "Beltane"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Ireland's written constitution, adopted in 1937?",
+      "choices": [
+        "Magna Carta Hibernica",
+        "Bunreacht na hÉireann",
+        "Charta Éireann",
+        "Constitution Act 1922"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dublin was established as a significant settlement by which Norse seafaring people in the 9th century?",
+      "choices": [
+        "Danes",
+        "Vikings",
+        "Normans",
+        "Anglo-Saxons"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which county are MacGillycuddy's Reeks, which contain Ireland's highest peak Carrauntoohil, located?",
+      "choices": [
+        "County Cork",
+        "County Kerry",
+        "County Limerick",
+        "County Tipperary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary cause of Ireland's population decline from approximately 8.2 million in 1841 to 6 million by 1851?",
+      "choices": [
+        "Widespread disease outbreak",
+        "The Great Famine and resulting emigration",
+        "Military conflict",
+        "Government-enforced relocation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish political party, founded in 1926, has historically advocated for Irish republicanism and once abstained from recognizing the Irish parliament?",
+      "choices": [
+        "Sinn Féin",
+        "Fianna Fáil",
+        "Fine Gael",
+        "Labour Party"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The River Shannon, Ireland's longest river, flows through how many counties before reaching the Atlantic?",
+      "choices": [
+        "Four counties",
+        "Five counties",
+        "Six counties",
+        "Seven counties"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What manuscript, preserved at Trinity College Dublin since the 9th century, is renowned for its elaborate Celtic illumination?",
+      "choices": [
+        "Book of Armagh",
+        "Book of Kells",
+        "Lindisfarne Gospels",
+        "Durrow Manuscript"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1921 Anglo-Irish Treaty negotiations, which Irish political leader served as the primary negotiator for the Irish side?",
+      "choices": [
+        "Éamon de Valera",
+        "Michael Collins",
+        "Arthur Griffith",
+        "Cathal Brugha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which province, spanning parts of both the Republic and Northern Ireland, is the second-largest island province by area?",
+      "choices": [
+        "Munster",
+        "Leinster",
+        "Ulster",
+        "Connacht"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Central Plain of Ireland, often called the Midlands, is characterized by what type of landscape feature?",
+      "choices": [
+        "Mountain peaks and ridges",
+        "Bogs, lakes, and flat terrain",
+        "Coastal cliffs and gorges",
+        "Dense forest coverage"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the Republic of Ireland formally declare itself a republic, severing the last constitutional links to the British Crown?",
+      "choices": [
+        "1921",
+        "1937",
+        "1949",
+        "1972"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "James Joyce's modernist novel 'Ulysses' is set within a single day in which city?",
+      "choices": [
+        "Cork",
+        "Galway",
+        "Dublin",
+        "Belfast"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Garda Síochána, Ireland's national police force, was established in what year?",
+      "choices": [
+        "1922",
+        "1925",
+        "1930",
+        "1948"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which traditional Irish wind instrument, played with a bow or bellows, produces sound through vibrating reeds?",
+      "choices": [
+        "Bodhran",
+        "Uilleann pipes",
+        "Tin whistle",
+        "Fiddle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Irish Civil War, lasting from 1922 to 1923, was primarily fought between which two opposing factions?",
+      "choices": [
+        "British forces and Irish rebels",
+        "Pro-Treaty and anti-Treaty Irish forces",
+        "Northern Ireland unionists and southern nationalists",
+        "Catholic and Protestant paramilitaries"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the total land area of the Republic of Ireland?",
+      "choices": [
+        "Approximately 70,282 square kilometers",
+        "Approximately 84,421 square kilometers",
+        "Approximately 94,600 square kilometers",
+        "Approximately 102,000 square kilometers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The seanchaí tradition in Irish culture refers to what form of cultural practice?",
+      "choices": [
+        "Traditional dance performance",
+        "Oral storytelling and genealogy recitation",
+        "Religious ceremony",
+        "Craft production and trade"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish author, born in Dublin in 1854, wrote 'The Picture of Dorian Gray' and 'The Importance of Being Earnest'?",
+      "choices": [
+        "Samuel Beckett",
+        "Oscar Wilde",
+        "W.B. Yeats",
+        "George Bernard Shaw"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The predominant oceanic climate of Ireland is primarily influenced by which weather system?",
+      "choices": [
+        "Asian monsoon patterns",
+        "Mediterranean high-pressure systems",
+        "The Atlantic Gulf Stream and prevailing westerly winds",
+        "Arctic polar air masses"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Irish Free State officially gain dominion status within the British Commonwealth?",
+      "choices": [
+        "1921",
+        "1922",
+        "1926",
+        "1937"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1916 Easter Rising took place primarily in which Irish city?",
+      "choices": [
+        "Belfast",
+        "Limerick",
+        "Dublin",
+        "Cork"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What constitutional amendment, passed by Irish referendum in 2018, addressed reproductive rights legislation?",
+      "choices": [
+        "The 34th Amendment on contraception access",
+        "The 36th Amendment on abortion",
+        "The 38th Amendment on abortion rights",
+        "The 40th Amendment on healthcare"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Irish Free State gain independence from the United Kingdom?",
+      "choices": [
+        "1916",
+        "1921",
+        "1922",
+        "1926"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish author won the Nobel Prize in Literature in 1923?",
+      "choices": [
+        "James Joyce",
+        "William Butler Yeats",
+        "Samuel Beckett",
+        "Seamus Heaney"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the ancient Irish mythological cycle that features the hero Cú Chulainn?",
+      "choices": [
+        "Fenian Cycle",
+        "Ulster Cycle",
+        "Mythological Cycle",
+        "Historical Cycle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what county is Carrowmore, one of Ireland's oldest megalithic cemeteries, located?",
+      "choices": [
+        "County Leitrim",
+        "County Sligo",
+        "County Donegal",
+        "County Mayo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the Anglo-Irish treaty signed in December 1921?",
+      "choices": [
+        "Treaty of Versailles",
+        "Anglo-Irish Treaty",
+        "Treaty of Dublin",
+        "Treaty of Belfast"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish political party was founded by Michael Collins and is associated with Fianna Fáil's main rival?",
+      "choices": [
+        "Fine Gael",
+        "Sinn Féin",
+        "Labour Party",
+        "Workers' Party"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional Irish word for the otherworldly realm in Celtic mythology?",
+      "choices": [
+        "Tír na nÓg",
+        "Sídhé",
+        "Mag Mell",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Great Famine begin in Ireland?",
+      "choices": [
+        "1842",
+        "1845",
+        "1848",
+        "1852"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the ancient Irish parliament that existed before the modern Oireachtas?",
+      "choices": [
+        "Ard Fheis",
+        "Feis",
+        "Aenach",
+        "Dáil Éireann"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish playwright wrote 'The Playboy of the Western World'?",
+      "choices": [
+        "George Bernard Shaw",
+        "John Millington Synge",
+        "Sean O'Casey",
+        "Brendan Behan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What mountain in County Kerry is the highest peak in Ireland?",
+      "choices": [
+        "Carrantuohill",
+        "Slieve Donard",
+        "Lugnaquilla",
+        "Brandon Mountain"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Irish mythology, who was the father of the god Lugh?",
+      "choices": [
+        "Danu",
+        "Balor",
+        "Ethniu",
+        "Cian"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ancient Irish script, consisting of notches and lines, is found on standing stones?",
+      "choices": [
+        "Brythonic",
+        "Ogham",
+        "Pictish",
+        "Runes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish independence leader issued the Proclamation of the Irish Republic during the Easter Rising?",
+      "choices": [
+        "Michael Collins",
+        "Éamon de Valera",
+        "Pádraig Pearse",
+        "James Connolly"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary language of the Aran Islands off the coast of County Galway?",
+      "choices": [
+        "English",
+        "Irish",
+        "Both equally",
+        "Scottish Gaelic"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ireland join the European Economic Community, now the European Union?",
+      "choices": [
+        "1968",
+        "1972",
+        "1975",
+        "1979"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish saint is credited with bringing Christianity to Ireland and is commemorated on March 17?",
+      "choices": [
+        "Saint Brigid",
+        "Saint Patrick",
+        "Saint Kevin",
+        "Saint Columba"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the ancient Celtic festival marking the beginning of winter in Irish tradition?",
+      "choices": [
+        "Samhain",
+        "Imbolc",
+        "Lughnasadh",
+        "Beltane"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish author wrote the novel 'Ulysses,' set in Dublin on June 16, 1904?",
+      "choices": [
+        "W.B. Yeats",
+        "Samuel Beckett",
+        "James Joyce",
+        "Flann O'Brien"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which county is MacGillycuddy's Reeks mountain range, home to Ireland's highest peak Carrauntoohil, located?",
+      "choices": [
+        "County Cork",
+        "County Kerry",
+        "County Limerick",
+        "County Tipperary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Irish name for the ancient Celtic script consisting of straight lines and notches carved on stone edges?",
+      "choices": [
+        "Cuneiform",
+        "Ogham",
+        "Runic",
+        "Pictish"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of Ireland's four provinces contains the most arable agricultural land and includes counties such as Dublin, Wicklow, and Kildare?",
+      "choices": [
+        "Munster",
+        "Connacht",
+        "Leinster",
+        "Ulster"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The St Andrews Agreement of 2006 reformed power-sharing governance in Northern Ireland following instability caused by which earlier conflict?",
+      "choices": [
+        "The Irish Civil War",
+        "The Easter Rising",
+        "The Troubles",
+        "The War of Independence"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Ireland's national police and peacekeeping service, established in 1922?",
+      "choices": [
+        "Royal Irish Constabulary",
+        "Garda Síochána",
+        "Irish Defence Forces",
+        "Public Guard Service"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Famine of the 1840s in Ireland was primarily caused by a disease that destroyed which staple crop?",
+      "choices": [
+        "Wheat",
+        "Barley",
+        "Potatoes",
+        "Oats"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which catastrophe in the 1840s reduced Ireland's population by roughly a quarter through starvation and emigration?",
+      "choices": [
+        "The Black Plague",
+        "The Great Famine (Potato Famine)",
+        "The Spanish Flu",
+        "The Troubles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Irish-language prime-minister-equivalent head of government?",
+      "choices": [
+        "Taoiseach",
+        "Tánaiste",
+        "An Bord",
+        "President"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Irish-language legislature (parliament)?",
+      "choices": [
+        "Dáil",
+        "Oireachtas",
+        "Seanad",
+        "Senedd"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 1916 armed rebellion against British rule in Dublin is known as what?",
+      "choices": [
+        "Bloody Sunday",
+        "The Easter Rising",
+        "The Troubles",
+        "The Good Friday Rising"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1998 accord largely ended the three-decade conflict in Northern Ireland?",
+      "choices": [
+        "The Good Friday Agreement",
+        "The Belfast Accord",
+        "The Ulster Treaty",
+        "The Dublin Pact"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which river flows through Dublin?",
+      "choices": [
+        "The Liffey",
+        "The Shannon",
+        "The Boyne",
+        "The Lee"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The capital of Northern Ireland is which city?",
+      "choices": [
+        "Dublin",
+        "Cork",
+        "Belfast",
+        "Derry"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish writer is best known for the 1922 Dublin-set modernist novel 'Ulysses'?",
+      "choices": [
+        "Samuel Beckett",
+        "James Joyce",
+        "W. B. Yeats",
+        "Seamus Heaney"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cliffs on Ireland's west coast are one of the country's most visited natural attractions?",
+      "choices": [
+        "Cliffs of Moher",
+        "Cliffs of Dunluce",
+        "Cliffs of Slieve League",
+        "Cliffs of Kilkee"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The longest river in Ireland is which?",
+      "choices": [
+        "The Liffey",
+        "The Boyne",
+        "The Shannon",
+        "The Lee"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which political party that shaped the 20th-century Republic was founded by Éamon de Valera?",
+      "choices": [
+        "Fianna Fáil",
+        "Fine Gael",
+        "Sinn Féin",
+        "Labour"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Republic of Ireland formally declare independence from the British Commonwealth?",
+      "choices": [
+        "1922",
+        "1949",
+        "1926",
+        "1937"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which traditional Irish wind instrument is played by squeezing a bellows held under the arm?",
+      "choices": [
+        "Bodhran",
+        "Uilleann pipes",
+        "Tin whistle",
+        "Fiddle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the Gaeltacht refer to in Ireland?",
+      "choices": [
+        "A mountain range in the west",
+        "A region where Irish is the primary spoken language",
+        "The central plain of Ireland",
+        "A historical battleground"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which international peace agreement was signed in 1998 to address conflict in Northern Ireland?",
+      "choices": [
+        "Downing Street Agreement",
+        "Good Friday Agreement",
+        "St Andrews Agreement",
+        "Belfast Treaty"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Irish dance style is characterized by rapid leg and foot movements while the upper body remains still?",
+      "choices": [
+        "Ceili dancing",
+        "Irish stepdance",
+        "Feis dancing",
+        "Reel dancing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Irish folklore, what is a leprechaun traditionally said to guard or hide?",
+      "choices": [
+        "Magical wands",
+        "A pot of gold",
+        "Enchanted silver coins",
+        "Four-leaf clovers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish actor famously portrayed James Bond in four films during the 1990s?",
+      "choices": [
+        "Colin Farrell",
+        "Pierce Brosnan",
+        "Cillian Murphy",
+        "Brendan Gleeson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary religion practiced by the majority of people in Ireland?",
+      "choices": [
+        "Church of Ireland",
+        "Roman Catholicism",
+        "Presbyterianism",
+        "Methodism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient Irish storytelling tradition involves a professional narrator or bard recounting history and legend?",
+      "choices": [
+        "Brehon",
+        "Seanchaí",
+        "Druid",
+        "Ollam"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What global economic event severely impacted Ireland in 2008?",
+      "choices": [
+        "European debt crisis",
+        "Financial crisis and recession",
+        "Oil embargo",
+        "Currency collapse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which national symbol of Ireland has been an emblem of Irish identity since medieval times?",
+      "choices": [
+        "The Celtic cross",
+        "The harp",
+        "The shamrock",
+        "The wolf"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Ireland become a republic and leave the British Commonwealth?",
+      "choices": [
+        "1922",
+        "1948",
+        "1949",
+        "1951"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the 2018 Irish referendum commonly referred to as the 'Eighth Amendment referendum' primarily address?",
+      "choices": [
+        "Same-sex marriage rights",
+        "Abortion access and rights",
+        "Voting age requirements",
+        "Educational reform"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What pharmaceutical or export-related sector has become Ireland's largest export industry in recent decades?",
+      "choices": [
+        "Agricultural products",
+        "Dairy exports",
+        "Pharmaceuticals and chemicals",
+        "Whiskey production"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which agreement in 2007 established a power-sharing government structure in Northern Ireland?",
+      "choices": [
+        "Sunningdale Agreement",
+        "Good Friday Agreement",
+        "St Andrews Agreement",
+        "Belfast Accord"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What nickname is Ireland commonly given due to its verdant landscape and abundant vegetation?",
+      "choices": [
+        "The Green Isle",
+        "The Emerald Isle",
+        "The Verdant Kingdom",
+        "The Lush Land"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain is the highest peak on the island of Ireland?",
+      "choices": [
+        "Slieve Donard",
+        "Carrauntoohil",
+        "Macgillycuddy's Reeks",
+        "Nephin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Ireland legalize same-sex marriage through a referendum?",
+      "choices": [
+        "2013",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient manuscript is housed at Trinity College Dublin?",
+      "choices": [
+        "Book of Kells",
+        "Book of Durrow",
+        "Book of Invasions",
+        "Lebor Gabála Érenn"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate length of Ireland's coastline?",
+      "choices": [
+        "5,200 kilometers",
+        "6,800 kilometers",
+        "7,527 kilometers",
+        "8,900 kilometers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish province is located in the eastern part of the island?",
+      "choices": [
+        "Munster",
+        "Connacht",
+        "Ulster",
+        "Leinster"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard corporate tax rate in the Republic of Ireland?",
+      "choices": [
+        "10%",
+        "12.5%",
+        "15%",
+        "20%"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote the Proclamation of the Irish Republic during the 1916 uprising?",
+      "choices": [
+        "Michael Collins",
+        "Pádraig Pearse",
+        "James Connolly",
+        "Éamon de Valera"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the iconic stout beer brewed at St James' Gate Brewery?",
+      "choices": [
+        "Smithwick's",
+        "Guinness",
+        "Beamish",
+        "Murphy's"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish city was originally established as a Viking settlement?",
+      "choices": [
+        "Cork",
+        "Waterford",
+        "Dublin",
+        "Limerick"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary language of the Gaeltacht regions in Ireland?",
+      "choices": [
+        "English",
+        "Scottish Gaelic",
+        "Irish",
+        "Welsh"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Irish mythology, who is credited with building the Giant's Causeway?",
+      "choices": [
+        "Cú Chulainn",
+        "Fionn mac Cumhaill",
+        "Lugh",
+        "Balor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ancient writing system is found inscribed on stones throughout Ireland?",
+      "choices": [
+        "Runic script",
+        "Ogham",
+        "Linear B",
+        "Pictish symbols"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the rapid economic growth Ireland experienced in the 1990s and early 2000s?",
+      "choices": [
+        "Irish Boom",
+        "Celtic Tiger",
+        "Emerald Economy",
+        "Dublin Renaissance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which lake is the largest by area on the island of Ireland?",
+      "choices": [
+        "Lough Derg",
+        "Lough Corrib",
+        "Lough Neagh",
+        "Lough Allen"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What pharmaceutical product sector dominates Ireland's export economy?",
+      "choices": [
+        "Medical devices",
+        "Pharmaceuticals",
+        "Biotechnology equipment",
+        "Diagnostic tools"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Easter Rising occur in Dublin?",
+      "choices": [
+        "1910",
+        "1914",
+        "1916",
+        "1922"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Irish storytelling tradition involving a professional narrator called?",
+      "choices": [
+        "Bard",
+        "Seanchaí",
+        "Druid",
+        "Fili"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that distinguishes Irish soda bread from most other bread varieties?",
+      "choices": [
+        "Baking soda instead of yeast",
+        "Sourdough starter",
+        "Malt vinegar",
+        "Caraway seeds"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Irish province is the Giant's Causeway located?",
+      "choices": [
+        "Munster",
+        "Connacht",
+        "Ulster",
+        "Leinster"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Irish parliament?",
+      "choices": [
+        "Dáil Éireann",
+        "Seanad Éireann",
+        "Oireachtas",
+        "Senedd"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish writer penned the novel 'The Picture of Dorian Gray'?",
+      "choices": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "Samuel Beckett",
+        "William Butler Yeats"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional Irish sport played with a wooden stick and small ball called a sliotar?",
+      "choices": [
+        "Hurling",
+        "Camogie",
+        "Gaelic football",
+        "Shinty"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Easter Rising, a pivotal rebellion, carried out in Dublin?",
+      "choices": [
+        "1916",
+        "1921",
+        "1912",
+        "1922"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the ancient Irish festival celebrated on November 1st, marking the beginning of winter?",
+      "choices": [
+        "Bealtaine",
+        "Samhain",
+        "Imbolc",
+        "Lughnasadh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish city serves as the capital of County Cork and is known as 'The Rebel City'?",
+      "choices": [
+        "Limerick",
+        "Cork City",
+        "Galway",
+        "Waterford"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Irish music instrument features 22 strings and is played with the fingers?",
+      "choices": [
+        "Bodhran",
+        "Uilleann pipes",
+        "Tin whistle",
+        "Irish harp"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Irish mythology, what supernatural beings are said to be mischievous creatures living underground?",
+      "choices": [
+        "Banshees",
+        "Leprechauns",
+        "Selkies",
+        "Pookas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish island, located off the coast of County Galway, is known for its Irish-speaking population and dramatic cliffs?",
+      "choices": [
+        "Isle of Man",
+        "Aran Islands",
+        "Skellig Michael",
+        "Clare Island"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the ancient pre-Christian monument consisting of about 30 standing stones arranged in a circle in County Cork?",
+      "choices": [
+        "Newgrange",
+        "Stonehenge",
+        "Drombeg Stone Circle",
+        "Carrowmore"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish political party, founded in 1926, traditionally aligns with Irish republican ideology?",
+      "choices": [
+        "Fine Gael",
+        "Fianna Fáil",
+        "Sinn Féin",
+        "Labour Party"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Irish dessert is made with stewed apples, brown sugar, butter, and oats in layers?",
+      "choices": [
+        "Colcannon",
+        "Apple crumble",
+        "Irish apple cake",
+        "Boxty"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Ireland join the European Union?",
+      "choices": [
+        "1973",
+        "1995",
+        "1989",
+        "1968"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the large medieval fortress located on the Rock of Cashel in County Tipperary?",
+      "choices": [
+        "Trim Castle",
+        "Dublin Castle",
+        "Cashel Palace",
+        "Hore Abbey"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish novelist is famous for the modernist novel 'Finnegans Wake'?",
+      "choices": [
+        "James Joyce",
+        "Flann O'Brien",
+        "Seamus Heaney",
+        "Brendan Behan"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Irish dish consists of mashed potatoes mixed with cabbage or kale and served with butter?",
+      "choices": [
+        "Boxty",
+        "Colcannon",
+        "Champ",
+        "Coddle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Irish county would you find the Cliffs of Moher, one of Ireland's most visited natural attractions?",
+      "choices": [
+        "County Galway",
+        "County Clare",
+        "County Mayo",
+        "County Kerry"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

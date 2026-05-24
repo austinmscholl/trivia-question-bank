@@ -1,273 +1,3285 @@
 {
   "slug": "festivals-trivia",
-  "name": "Festivals & Holidays",
-  "description": "World festivals, patron saints, and holidays through the year",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "name": "Festivals",
+  "processedAt": "2026-05-24T20:43:43.533Z",
   "questions": [
     {
-      "q": "St. Patrick is the patron saint of which country?",
-      "choices": ["Scotland", "Ireland", "Wales", "Northern Ireland"],
-      "correct": 1,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ireland",
-        "verified": true,
-        "notes": "Feast day March 17."
-      }
-    },
-    {
-      "q": "St. George is the patron saint of which country?",
-      "choices": ["England", "Wales", "Scotland", "Netherlands"],
+      "q": "In which European country is the annual La Tomatina festival celebrated?",
+      "choices": [
+        "Spain",
+        "Italy",
+        "Portugal",
+        "Greece"
+      ],
       "correct": 0,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "England",
-        "verified": true,
-        "notes": "St. George's Day is April 23."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "St. Andrew is the patron saint of which country?",
-      "choices": ["Norway", "Greece", "Scotland", "Russia"],
+      "q": "What traditional drink is central to the Oktoberfest celebration in Munich?",
+      "choices": [
+        "Wine",
+        "Schnapps",
+        "Beer",
+        "Cider"
+      ],
       "correct": 2,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Scotland",
-        "verified": true,
-        "notes": "Feast day November 30; the saltire (diagonal cross) features on the Scottish flag."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "France's national holiday Bastille Day is celebrated on which date?",
-      "choices": ["July 4", "July 14", "August 14", "September 22"],
+      "q": "Which country celebrates Carnival with colorful parades and costumes before Lent?",
+      "choices": [
+        "Brazil",
+        "Mexico",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date is Christmas Day celebrated in the Western calendar?",
+      "choices": [
+        "December 24th",
+        "December 25th",
+        "December 26th",
+        "December 31st"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "France",
-        "verified": true,
-        "notes": "Commemorates the storming of the Bastille prison on July 14, 1789."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Burns Night, celebrated January 25, honors the national poet of which country?",
-      "choices": ["Ireland", "Scotland", "Wales", "Nova Scotia"],
+      "q": "What religious festival celebrates the resurrection of Jesus Christ?",
+      "choices": [
+        "Easter",
+        "Pentecost",
+        "Advent",
+        "Ascension"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month does the Cannes Film Festival typically take place?",
+      "choices": [
+        "March",
+        "April",
+        "May",
+        "June"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Diwali, the Festival of Lights, is primarily celebrated by which religion?",
+      "choices": [
+        "Christianity",
+        "Islam",
+        "Hinduism",
+        "Buddhism"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main feature celebrated at the Notting Hill Carnival?",
+      "choices": [
+        "Classical music",
+        "Caribbean culture",
+        "Medieval history",
+        "Modern art"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Scotland",
-        "verified": true,
-        "notes": "Marks Robert Burns's birthday; traditionally includes haggis and whisky."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Glastonbury Festival of Contemporary Performing Arts is held in which country?",
-      "choices": ["United States", "Australia", "England", "Canada"],
+      "q": "Which festival is known for its ice sculptures and winter activities in Canada?",
+      "choices": [
+        "Calgary Stampede",
+        "Quebec Winter Carnival",
+        "Banff Summer Festival",
+        "Toronto Jazz Festival"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main focus of the Glastonbury Festival in England?",
+      "choices": [
+        "Theatre performances",
+        "Rock and pop music",
+        "Fine art exhibitions",
+        "Literary readings"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Hanukkah, the Jewish Festival of Lights, lasts for how many days?",
+      "choices": [
+        "5 days",
+        "7 days",
+        "8 days",
+        "10 days"
+      ],
       "correct": 2,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "5",
-        "verified": true,
-        "notes": "Held on Worthy Farm in Somerset, England, most years since 1970."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Cannes Film Festival takes place each May in which country?",
-      "choices": ["Italy", "Spain", "France", "Monaco"],
+      "q": "Which Asian country is famous for the Lantern Festival celebrated during lunar new year?",
+      "choices": [
+        "Japan",
+        "Thailand",
+        "China",
+        "Vietnam"
+      ],
       "correct": 2,
-      "category": "Festivals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "May",
-        "verified": true,
-        "notes": "Held on the French Riviera since 1946."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Oktoberfest is the world's largest beer festival, held each year in which German city?",
-      "choices": ["Berlin", "Hamburg", "Munich", "Cologne"],
+      "q": "What traditional element is central to the running of the bulls festival in Pamplona?",
+      "choices": [
+        "Parades",
+        "Bull runs through streets",
+        "Bullfighting matches",
+        "Food competitions"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date is New Year's Eve celebrated?",
+      "choices": [
+        "December 30th",
+        "December 31st",
+        "January 1st",
+        "January 2nd"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Islamic festival called that marks the end of Ramadan?",
+      "choices": [
+        "Hajj",
+        "Eid al-Fitr",
+        "Eid al-Adha",
+        "Muharram"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Edinburgh International Festival is primarily known for showcasing which art form?",
+      "choices": [
+        "Cinema",
+        "Dance and performing arts",
+        "Visual art",
+        "Fashion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which festival features the burning of an effigy on November 5th in the United Kingdom?",
+      "choices": [
+        "May Day",
+        "Bonfire Night",
+        "Midsummer",
+        "Lammas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Spring festival celebrates the blooming of cherry blossoms in Japan?",
+      "choices": [
+        "Tanabata",
+        "Sakura Matsuri",
+        "Obon",
+        "Shichi-Go-San"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date is Saint Patrick's Day celebrated annually?",
+      "choices": [
+        "March 15th",
+        "March 17th",
+        "March 19th",
+        "April 17th"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which festival in the United States is celebrated on the fourth Thursday of November?",
+      "choices": [
+        "Independence Day",
+        "Labor Day",
+        "Thanksgiving",
+        "Memorial Day"
+      ],
       "correct": 2,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Festivals",
-        "verified": true,
-        "notes": "Held at Theresienwiese in Munich, Bavaria since 1810."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The annual Running of the Bulls during the San Fermín festival takes place in which Spanish city?",
-      "choices": ["Madrid", "Barcelona", "Pamplona", "Seville"],
+      "q": "On which date is Christmas Day celebrated?",
+      "choices": [
+        "24th December",
+        "25th December",
+        "26th December",
+        "31st December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Bastille Day, celebrating the French Revolution, falls on which date?",
+      "choices": [
+        "14th July",
+        "14th June",
+        "4th July",
+        "14th August"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month is Father's Day traditionally celebrated in the United Kingdom?",
+      "choices": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "All Saints Day is observed on which date each year?",
+      "choices": [
+        "31st October",
+        "1st November",
+        "2nd November",
+        "30th October"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Straw Bear Festival is an annual event held in which English town?",
+      "choices": [
+        "Norwich",
+        "Whittlesea",
+        "Cambridge",
+        "Peterborough"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Movember is a global awareness campaign focused on which health issue?",
+      "choices": [
+        "Heart disease",
+        "Mental health",
+        "Male cancers",
+        "Diabetes"
+      ],
       "correct": 2,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pamplona",
-        "verified": true,
-        "notes": "Held each July 6–14; made famous by Hemingway's 'The Sun Also Rises'."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The chaotic tomato-throwing festival 'La Tomatina' is held in which country?",
-      "choices": ["Italy", "Mexico", "Greece", "Spain"],
+      "q": "Which country celebrates National Day on 3rd October?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Poland",
+        "Czech Republic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Beltane, celebrated on 1st May, is traditionally known as what type of festival?",
+      "choices": [
+        "Spring Planting Festival",
+        "Fire Festival",
+        "Harvest Festival",
+        "Water Festival"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "VE Day, marking the end of World War II in Europe, is observed on which date?",
+      "choices": [
+        "5th May",
+        "7th May",
+        "8th May",
+        "9th May"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which German town is the annual Wagner Festival held?",
+      "choices": [
+        "Berlin",
+        "Munich",
+        "Bayreuth",
+        "Hamburg"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Eisteddfod is a traditional festival that originates from which country?",
+      "choices": [
+        "Ireland",
+        "Scotland",
+        "Wales",
+        "England"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Cannes Film Festival first took place in which year?",
+      "choices": [
+        "1936",
+        "1946",
+        "1956",
+        "1966"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "New Year's Eve is celebrated on which date?",
+      "choices": [
+        "30th December",
+        "31st December",
+        "1st January",
+        "2nd January"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Assumption of Mary is a religious observance held on which date?",
+      "choices": [
+        "15th August",
+        "15th July",
+        "8th September",
+        "22nd August"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Hoxey Hood is a traditional English festival that takes place in which month?",
+      "choices": [
+        "December",
+        "January",
+        "February",
+        "March"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country celebrates National Day on 6th December?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Finland",
+        "Denmark"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country is 19th November observed as National Day?",
+      "choices": [
+        "Luxembourg",
+        "Monaco",
+        "Liechtenstein",
+        "Malta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Spain celebrates National Day on which date?",
+      "choices": [
+        "9th October",
+        "12th October",
+        "15th October",
+        "18th October"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional name of the dessert commonly eaten during Christmas?",
+      "choices": [
+        "Gingerbread pudding",
+        "Plum pudding",
+        "Bread pudding",
+        "Rice pudding"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Saint Andrew is the patron saint of which country?",
+      "choices": [
+        "Ireland",
+        "Wales",
+        "Scotland",
+        "England"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which date is Christmas Day celebrated in most Western countries?",
+      "choices": [
+        "24th December",
+        "25th December",
+        "26th December",
+        "31st December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which European country is Oktoberfest traditionally held?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Czech Republic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What date is celebrated as May Day in many countries?",
+      "choices": [
+        "1st May",
+        "5th May",
+        "15th May",
+        "20th May"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English county hosts the famous Glastonbury Festival?",
+      "choices": [
+        "Dorset",
+        "Somerset",
+        "Devon",
+        "Cornwall"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date is All Saints Day observed?",
+      "choices": [
+        "31st October",
+        "1st November",
+        "25th December",
+        "6th January"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which day of the year is the day immediately before Christmas Day?",
+      "choices": [
+        "Boxing Day",
+        "Christmas Eve",
+        "New Year's Eve",
+        "Advent Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Oktoberfest first held?",
+      "choices": [
+        "1750",
+        "1810",
+        "1880",
+        "1920"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the date of St. Stephen's Day?",
+      "choices": [
+        "24th December",
+        "25th December",
+        "26th December",
+        "27th December"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which month does the Whitby Folk Festival take place?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to travel publications, which European country is home to the highly-regarded Christmas markets, with Poland being frequently cited as a top destination?",
+      "choices": [
+        "Czech Republic",
+        "Poland",
+        "Slovakia",
+        "Hungary"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date is Scotland's patron saint day celebrated?",
+      "choices": [
+        "17th March",
+        "23rd April",
+        "30th November",
+        "25th December"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city was the 1951 Festival of Britain centered around?",
+      "choices": [
+        "Manchester",
+        "Birmingham",
+        "London",
+        "Edinburgh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Glyndebourne Festival Opera first held?",
+      "choices": [
+        "1900",
+        "1920",
+        "1934",
+        "1950"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the date of St. George's Day, the patron saint day of England?",
+      "choices": [
+        "1st March",
+        "17th March",
+        "23rd April",
+        "25th July"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month is Norway's National Day celebrated?",
+      "choices": [
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which traditional Greek Christmas bread is made using a sourdough base?",
+      "choices": [
+        "Panettone",
+        "Christopsomo",
+        "Stollen",
+        "Babka"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month is Madeira honey cake traditionally prepared?",
+      "choices": [
+        "October",
+        "November",
+        "December",
+        "January"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient combined with egg in traditional Christmas pudding to hold it together?",
+      "choices": [
+        "Flour",
+        "Suet",
+        "Butter",
+        "Sugar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which date is German Unity Day celebrated?",
+      "choices": [
+        "30th June",
+        "3rd October",
+        "9th November",
+        "25th December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city in the United Kingdom primarily hosts the Great British Beer Festival?",
+      "choices": [
+        "Manchester",
+        "Birmingham",
+        "London",
+        "Liverpool"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which European country is the famous Oktoberfest beer festival held annually?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Czech Republic",
+        "Belgium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What month does the Edinburgh International Festival take place?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Cannes Film Festival is held in which country?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Monaco"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which music festival, held annually in England, is famous for featuring multiple genres and camping?",
+      "choices": [
+        "Reading Festival",
+        "Leeds Festival",
+        "Glastonbury Festival",
+        "Download Festival"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date is New Year's Eve celebrated globally?",
+      "choices": [
+        "December 30th",
+        "December 31st",
+        "January 1st",
+        "January 2nd"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional main color associated with Christmas decorations and celebrations?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Gold",
+        "Silver"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month is Halloween celebrated?",
+      "choices": [
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Venice Carnival is most famously associated with which iconic accessory worn by attendees?",
+      "choices": [
+        "Feathered hats",
+        "Venetian masks",
+        "Silk scarves",
+        "Crowns"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Diwali, the Festival of Lights, is primarily celebrated in which country?",
+      "choices": [
+        "Thailand",
+        "Japan",
+        "India",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Jewish festival commemorates the exodus from Egypt?",
+      "choices": [
+        "Hanukkah",
+        "Passover",
+        "Yom Kippur",
+        "Shavuot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Rio Carnival is held in which South American country?",
+      "choices": [
+        "Argentina",
+        "Colombia",
+        "Brazil",
+        "Peru"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Chinese festival celebrated with fireworks, family gatherings, and special foods?",
+      "choices": [
+        "Mid-Autumn Festival",
+        "Chinese New Year",
+        "Dragon Boat Festival",
+        "Qingming Festival"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish city is famous for its running of the bulls festival each July?",
+      "choices": [
+        "Barcelona",
+        "Valencia",
+        "Pamplona",
+        "Seville"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Oktoberfest celebration in Munich originally began as what type of event?",
+      "choices": [
+        "Royal wedding",
+        "Military victory",
+        "King's birthday",
+        "Agricultural harvest"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American city is famous for its Jazz Festival held annually?",
+      "choices": [
+        "Nashville",
+        "New Orleans",
+        "Memphis",
+        "Atlanta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary purpose of Earth Day, celebrated on April 22nd?",
+      "choices": [
+        "Celebrating the Earth's formation",
+        "Environmental awareness and protection",
+        "Honoring geologists",
+        "Celebrating ancient civilizations"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Sundance Film Festival takes place in which U.S. state?",
+      "choices": [
+        "Colorado",
+        "California",
+        "Utah",
+        "Nevada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which festival is celebrated with the lighting of menorah candles over eight days?",
+      "choices": [
+        "Rosh Hashanah",
+        "Sukkot",
+        "Hanukkah",
+        "Yom Kippur"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Notting Hill Carnival is held annually in which major city?",
+      "choices": [
+        "Manchester",
+        "Liverpool",
+        "Birmingham",
+        "London"
+      ],
       "correct": 3,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Wine",
-        "verified": true,
-        "notes": "Held in Buñol, Valencia, each last Wednesday of August."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In which London neighbourhood is the UK's biggest street carnival held every August Bank Holiday weekend?",
-      "choices": ["Shoreditch", "Brixton", "Notting Hill", "Camden"],
+      "q": "What traditional element is central to the Holi festival in India?",
+      "choices": [
+        "Lighting lamps",
+        "Throwing colored powder",
+        "Flying lanterns",
+        "Ice sculptures"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which English county is the Glastonbury Festival traditionally held?",
+      "choices": [
+        "Devon",
+        "Somerset",
+        "Cornwall",
+        "Dorset"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Notting Hill Carnival takes place annually in which month?",
+      "choices": [
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city hosted the Festival of Britain in 1951?",
+      "choices": [
+        "Manchester",
+        "Birmingham",
+        "London",
+        "Edinburgh"
+      ],
       "correct": 2,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Notting Hill",
-        "verified": true,
-        "notes": "Celebrates Caribbean culture; one of the world's largest street festivals."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Earth Day was first celebrated on which date in 1970?",
-      "choices": ["March 21", "April 22", "May 1", "June 5"],
+      "q": "On what date is St George's Day celebrated?",
+      "choices": [
+        "21st March",
+        "23rd April",
+        "1st May",
+        "15th June"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Earth day",
-        "verified": true,
-        "notes": "Founded by U.S. Senator Gaylord Nelson; now marked in 192 countries."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Every summer solstice on June 21, crowds gather to watch the sunrise at which prehistoric British monument?",
-      "choices": ["Avebury", "Stonehenge", "The Rollright Stones", "Silbury Hill"],
+      "q": "Who founded the Glyndebourne Festival Opera?",
+      "choices": [
+        "Thomas Beecham",
+        "John Christie",
+        "Benjamin Britten",
+        "Ralph Vaughan Williams"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Stonehenge",
-        "verified": true,
-        "notes": "Located in Wiltshire, England."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Jewish Festival of Lights, Hanukkah, lasts how many nights?",
-      "choices": ["Seven", "Eight", "Nine", "Ten"],
+      "q": "How many days does the Glastonbury Festival typically span?",
+      "choices": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "7 days"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month is the Whitby Folk Festival held?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first director of the Edinburgh International Festival?",
+      "choices": [
+        "Frank Dunlop",
+        "Rudolf Bing",
+        "Peter Diamand",
+        "Brian McMaster"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Christmas",
-        "verified": true,
-        "notes": "Commemorates the rededication of the Second Temple; one candle per night on the menorah."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Mardi Gras is most famously celebrated in which U.S. city?",
-      "choices": ["Miami", "New Orleans", "Mobile", "Tampa"],
+      "q": "In which month is the Cannes Film Festival traditionally held?",
+      "choices": [
+        "March",
+        "April",
+        "May",
+        "June"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which TV channel broadcasts the Cambridge Folk Festival?",
+      "choices": [
+        "BBC Two",
+        "BBC Four",
+        "Channel 4",
+        "ITV"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Festivals",
-        "verified": true,
-        "notes": "Falls on Shrove Tuesday before Lent; also called 'Fat Tuesday'."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "German Unity Day (Tag der Deutschen Einheit) is a national holiday on which date?",
-      "choices": ["October 3", "November 9", "June 17", "May 8"],
+      "q": "What type of cake is traditionally baked during the Christmas festival?",
+      "choices": [
+        "Victoria sponge",
+        "Carrot cake",
+        "Fruit cake",
+        "Lemon drizzle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country celebrates Union Day on 1st December?",
+      "choices": [
+        "Bulgaria",
+        "Romania",
+        "Hungary",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which date is German Unity Day observed?",
+      "choices": [
+        "3rd October",
+        "9th November",
+        "1st January",
+        "17th June"
+      ],
       "correct": 0,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Germany",
-        "verified": true,
-        "notes": "Marks German reunification in 1990."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Carnival of Rio de Janeiro is traditionally held in the period leading up to which Christian season?",
-      "choices": ["Advent", "Lent", "Easter", "Epiphany"],
+      "q": "In which country is the Haro Wine Festival celebrated annually?",
+      "choices": [
+        "Italy",
+        "France",
+        "Spain",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "During which holiday is a yule log traditionally eaten?",
+      "choices": [
+        "Easter",
+        "Halloween",
+        "Christmas",
+        "New Year"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which month is Father's Day celebrated in the United Kingdom?",
+      "choices": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Just before Lent",
-        "verified": true,
-        "notes": "Six days ending on Ash Wednesday."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Europe's biggest traditional Welsh cultural festival, featuring music, poetry, and dance each August, is called what?",
-      "choices": ["Gorsedd", "Eisteddfod", "Cymanfa Ganu", "Hen Wlad Fy Nhadau"],
+      "q": "On which date is St Catherine's Day traditionally observed?",
+      "choices": [
+        "22nd November",
+        "25th November",
+        "30th November",
+        "3rd December"
+      ],
       "correct": 1,
-      "category": "Festivals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Eisteddfod",
-        "verified": true,
-        "notes": "The National Eisteddfod of Wales moves around the country each year."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Sundance Film Festival is held each January in which U.S. state?",
-      "choices": ["Colorado", "Utah", "Idaho", "Wyoming"],
-      "correct": 1,
-      "category": "Festivals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Festivals",
-        "verified": true,
-        "notes": "Based in Park City, Utah; founded by Robert Redford in 1978."
-      }
-    },
-    {
-      "q": "The Edinburgh International Festival of the performing arts was founded in what year?",
-      "choices": ["1932", "1947", "1953", "1961"],
-      "correct": 1,
-      "category": "Festivals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1947",
-        "verified": true,
-        "notes": "Launched just after WWII; the Fringe started alongside it that same year."
-      }
-    },
-    {
-      "q": "Beltane, the ancient Gaelic fire festival, is traditionally celebrated on which date?",
-      "choices": ["March 21", "May 1", "June 21", "October 31"],
-      "correct": 1,
-      "category": "Festivals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Festival of Fire",
-        "verified": true,
-        "notes": "Marks the halfway point between the spring equinox and the summer solstice."
-      }
-    },
-    {
-      "q": "The famous 'Battle of the Wine' (Batalla del Vino) tomato-style wine fight is held every June in which Spanish town?",
-      "choices": ["Haro", "Logroño", "Valladolid", "Burgos"],
+      "q": "Which country recognizes 3rd September as National Day?",
+      "choices": [
+        "San Marino",
+        "Slovenia",
+        "Slovakia",
+        "Serbia"
+      ],
       "correct": 0,
-      "category": "Festivals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Wine",
-        "verified": true,
-        "notes": "Haro is in La Rioja wine region; festival coincides with San Pedro's Day on June 29."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was BunkFest festival first established?",
+      "choices": [
+        "1998",
+        "2000",
+        "2002",
+        "2005"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Berlin International Film Festival first take place?",
+      "choices": [
+        "1951",
+        "1954",
+        "1948",
+        "1956"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which musician served as artistic director of the Newport Folk Festival from 1966 to 1968?",
+      "choices": [
+        "Pete Seeger",
+        "George Wein",
+        "Peter Yarrow",
+        "Bob Dylan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Venice Film Festival, also known as the Mostra, awards its top prize under what name?",
+      "choices": [
+        "Golden Palm",
+        "Golden Lion",
+        "Silver Bear",
+        "Golden Leopard"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Montreux Jazz Festival established?",
+      "choices": [
+        "1967",
+        "1971",
+        "1965",
+        "1973"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer conducted the Vienna New Year's Concert for the most consecutive years?",
+      "choices": [
+        "Zubin Mehta",
+        "Mariss Jansons",
+        "Carlos Kleiber",
+        "Willi Boskovsky"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Aachen Festival celebrates the relics of which historical figure every seven years?",
+      "choices": [
+        "Charlemagne",
+        "Otto the Great",
+        "Frederick Barbarossa",
+        "Charles the Bald"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which music festival, held in Germany, is the world's largest heavy metal festival?",
+      "choices": [
+        "Rock am Ring",
+        "Wacken Open Air",
+        "Hellfest",
+        "Graspop Metal Meeting"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pushkar Camel Fair occurs in which Indian state?",
+      "choices": [
+        "Rajasthan",
+        "Gujarat",
+        "Madhya Pradesh",
+        "Uttar Pradesh"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Japanese city is the Gion Matsuri festival celebrated annually?",
+      "choices": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Nara"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sundance Film Festival was founded by which Academy Award-winning actor?",
+      "choices": [
+        "Robert Redford",
+        "Warren Beatty",
+        "Jack Nicholson",
+        "Al Pacino"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South Korean film festival, established in 1995, focuses on films by and for women?",
+      "choices": [
+        "Seoul International Film Festival",
+        "Busan International Film Festival",
+        "Women's Film Festival",
+        "Korean International Film Festival"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hermanus Whale Festival occurs annually in which African nation?",
+      "choices": [
+        "South Africa",
+        "Namibia",
+        "Botswana",
+        "Zimbabwe"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which famous ballet festival is held at the Kennedy Center in Washington, D.C.?",
+      "choices": [
+        "American Ballet Theatre Spring Gala",
+        "Kennedy Center Ballet Festival",
+        "National Ballet Festival",
+        "Jacob's Pillow Dance Festival"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Istanbul International Film Festival was first held in which year?",
+      "choices": [
+        "1982",
+        "1979",
+        "1985",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist designed the logo for the Woodstock Festival in 1969?",
+      "choices": [
+        "Arnold Skolnick",
+        "Milton Caniff",
+        "Peter Max",
+        "Andy Warhol"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Locarno International Film Festival takes place in which country?",
+      "choices": [
+        "Switzerland",
+        "Italy",
+        "Austria",
+        "Slovenia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British music festival, established in 1998, is known for its electronic and dance music lineup?",
+      "choices": [
+        "Fabric Festival",
+        "Awakenings Festival",
+        "Creamfields",
+        "Cream"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ayodhya Ram Mandir consecration ceremony in 2024 honored which Hindu deity?",
+      "choices": [
+        "Lord Ram",
+        "Lord Krishna",
+        "Lord Shiva",
+        "Lord Brahma"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film festival, held in Karlovy Vary, is one of the oldest in Europe?",
+      "choices": [
+        "Prague International Film Festival",
+        "Karlovy Vary International Film Festival",
+        "Czech Film Festival",
+        "Bohemia Film Festival"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Viña del Mar International Song Festival occurs in which South American country?",
+      "choices": [
+        "Chile",
+        "Peru",
+        "Argentina",
+        "Colombia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which conductor served as music director of the Glyndebourne Festival Opera from 1952 to 1963?",
+      "choices": [
+        "Carlo Maria Giulini",
+        "Vittorio Gui",
+        "Fritz Busch",
+        "John Pritchard"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Edinburgh International Festival first established?",
+      "choices": [
+        "1945",
+        "1947",
+        "1950",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rudolf Bing, the first director of the Edinburgh International Festival, later became general manager of which major American opera house?",
+      "choices": [
+        "San Francisco Opera",
+        "Metropolitan Opera",
+        "Lyric Opera of Chicago",
+        "New York City Opera"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Haro Wine Festival in Spain, known for its wine-throwing tradition, takes place in which month?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country celebrates Burns Night on January 25th to honor its national poet?",
+      "choices": [
+        "Ireland",
+        "Wales",
+        "Scotland",
+        "Northern Ireland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Council of Nicaea in 325 AD established a fixed date for which Christian festival?",
+      "choices": [
+        "Christmas",
+        "Easter",
+        "Pentecost",
+        "Epiphany"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Frank Dunlop served as director of the Edinburgh International Festival during which decade?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which English county is the Glastonbury Festival held?",
+      "choices": [
+        "Dorset",
+        "Somerset",
+        "Devon",
+        "Cornwall"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cannes Film Festival, established in 1946, is held annually in which month?",
+      "choices": [
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Whitby Folk Festival, held in northern England, traditionally takes place in which month?",
+      "choices": [
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which band was notably bottled off stage during their performance at the 2004 Leeds and Reading Festival?",
+      "choices": [
+        "Blink-182",
+        "The Rasmus",
+        "Kaiser Chiefs",
+        "Interpol"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great British Beer Festival is primarily held in which major UK city each year?",
+      "choices": [
+        "Manchester",
+        "Birmingham",
+        "London",
+        "Edinburgh"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "BunkFest, an annual festival held in Northern Ireland, was first established in which year?",
+      "choices": [
+        "1995",
+        "2000",
+        "2002",
+        "2005"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ian Hunter served as director of the Edinburgh International Festival following Rudolf Bing. In which decade did he hold this position?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cesnica, a traditional ceremonial bread served during Christmas celebrations in Serbia, is classified as which type of bread?",
+      "choices": [
+        "Rye bread",
+        "Soda bread",
+        "Flatbread",
+        "Sourdough"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Oktoberfest, the world's largest beer festival, is held annually in which German city?",
+      "choices": [
+        "Berlin",
+        "Hamburg",
+        "Munich",
+        "Cologne"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "All Soul's Day, observed in many Christian traditions, is celebrated on which date?",
+      "choices": [
+        "November 1st",
+        "November 2nd",
+        "November 30th",
+        "December 1st"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Saint Nicholas Day is traditionally celebrated on which date in December?",
+      "choices": [
+        "December 3rd",
+        "December 6th",
+        "December 10th",
+        "December 13th"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Beltane, a fire festival traditionally celebrated on May 1st, originated in the culture of which ancient people?",
+      "choices": [
+        "Romans",
+        "Celts",
+        "Saxons",
+        "Normans"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The modern revival of the Beltane Fire Festival in Edinburgh began in which year?",
+      "choices": [
+        "1988",
+        "1993",
+        "1998",
+        "2003"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Montreux Jazz Festival first take place?",
+      "choices": [
+        "1967",
+        "1971",
+        "1975",
+        "1969"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Notting Hill Carnival, one of Europe's largest street festivals, originated as a commemoration of which event?",
+      "choices": [
+        "Caribbean independence movements",
+        "The end of slavery in the Caribbean",
+        "The arrival of Caribbean immigrants on the Empire Windrush",
+        "The founding of the West Indian community centre"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish city hosts the Las Fallas festival, known for burning large wooden structures?",
+      "choices": [
+        "Seville",
+        "Valencia",
+        "Barcelona",
+        "Málaga"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hay Festival, a prominent literary festival, takes place on the border between Wales and which English county?",
+      "choices": [
+        "Gloucestershire",
+        "Herefordshire",
+        "Shropshire",
+        "Worcestershire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Newport Folk Festival first held?",
+      "choices": [
+        "1959",
+        "1963",
+        "1957",
+        "1961"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pushkin Poetry Festival is held annually in which country?",
+      "choices": [
+        "Poland",
+        "Russia",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film festival, established in 1946, is held in the Italian city of Venice?",
+      "choices": [
+        "Venice International Film Festival",
+        "Venetian Cinema Festival",
+        "San Marco Film Festival",
+        "Adriatic Film Festival"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Beltane Fire Festival, a modern pagan celebration, takes place on which Edinburgh landmark?",
+      "choices": [
+        "Arthur's Seat",
+        "Calton Hill",
+        "Castle Hill",
+        "Blackford Hill"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which decade was the World Music Expo (WOMEX) first established as a professional platform for world music?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "1970s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sziget Festival, one of Europe's largest music festivals, is held on an island in which river?",
+      "choices": [
+        "Danube",
+        "Tisza",
+        "Drava",
+        "Sava"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Mediterranean country hosts the Cannes Film Festival?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Greece"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tomorrowland electronic music festival primarily takes place in which European country?",
+      "choices": [
+        "Netherlands",
+        "Germany",
+        "Belgium",
+        "Austria"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Berlin International Film Festival (Berlinale) established?",
+      "choices": [
+        "1951",
+        "1954",
+        "1950",
+        "1956"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Palio di Siena, a traditional horse race festival, is held twice yearly in which Italian city?",
+      "choices": [
+        "Florence",
+        "Siena",
+        "Pisa",
+        "Lucca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which music festival, held annually in Newport, Rhode Island, was a pivotal venue during the folk music revival?",
+      "choices": [
+        "Newport Jazz Festival",
+        "Newport Folk Festival",
+        "Newport Summer Festival",
+        "Newport Music Festival"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sundance Film Festival was founded by which prominent actor and director?",
+      "choices": [
+        "Martin Scorsese",
+        "Robert Redford",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pucheon International Fantastic Film Festival is held in which country?",
+      "choices": [
+        "Japan",
+        "South Korea",
+        "Taiwan",
+        "Thailand"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The reading festival Reading and Leeds Festival first took place in what year?",
+      "choices": [
+        "1961",
+        "1965",
+        "1971",
+        "1968"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish festival, established in 1947, is dedicated to traditional Gaelic culture and language?",
+      "choices": [
+        "Highland Games",
+        "Hebridean Festival",
+        "National Mod",
+        "Scots Language Festival"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Inti Raymi festival, an indigenous celebration in South America, originates in which country?",
+      "choices": [
+        "Chile",
+        "Peru",
+        "Bolivia",
+        "Ecuador"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Glastonbury Festival of Contemporary Performing Arts first take place?",
+      "choices": [
+        "1970",
+        "1971",
+        "1972",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Bayreuth Festival, dedicated to the works of Richard Wagner, is held annually in which German state?",
+      "choices": [
+        "Bavaria",
+        "Baden-Württemberg",
+        "North Rhine-Westphalia",
+        "Saxony"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Montreux Jazz Festival first established?",
+      "choices": [
+        "1965",
+        "1966",
+        "1967",
+        "1968"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cannes Film Festival, one of the world's most prestigious film events, was first held in which year?",
+      "choices": [
+        "1946",
+        "1947",
+        "1948",
+        "1949"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which conductor was the founding music director of the Edinburgh International Festival from its inception in 1947?",
+      "choices": [
+        "Herbert von Karajan",
+        "Rudolf Bing",
+        "Thomas Beecham",
+        "Vittorio Gui"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Newport Folk Festival, famous for Bob Dylan's electric performance in 1965, is held in which U.S. state?",
+      "choices": [
+        "Massachusetts",
+        "Rhode Island",
+        "Connecticut",
+        "New York"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Cambridge Folk Festival first commence operations?",
+      "choices": [
+        "1962",
+        "1963",
+        "1964",
+        "1965"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Salzburg Festival, held annually in Austria, was founded in which year?",
+      "choices": [
+        "1918",
+        "1920",
+        "1922",
+        "1925"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which annual music festival in Germany is particularly associated with baroque and early music performances, founded by Karl Richter in 1952?",
+      "choices": [
+        "Dresden Music Festival",
+        "Munich Bach Festival",
+        "Stuttgart Chamber Orchestra Festival",
+        "Leipzig Spring Festival"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Roskilde Festival in Denmark first took place in which year?",
+      "choices": [
+        "1971",
+        "1972",
+        "1973",
+        "1974"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Avignon Festival, France's renowned theatre festival, first established?",
+      "choices": [
+        "1945",
+        "1946",
+        "1947",
+        "1948"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Berlin International Film Festival awards which prestigious prize as its highest honour?",
+      "choices": [
+        "The Golden Lion",
+        "The Golden Bear",
+        "The Golden Palm",
+        "The Silver Leopard"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer's operas are the exclusive focus of the Verona Opera Festival held in the Roman amphitheatre?",
+      "choices": [
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Georges Bizet",
+        "Gaspare Spontini"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Stratford Shakespeare Festival in Canada was founded in which year?",
+      "choices": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which festival, held annually in Loreley, Germany, is known for hosting major rock and metal bands along the Rhine River?",
+      "choices": [
+        "Wacken Open Air",
+        "Rock am Ring",
+        "Loreley Open Air",
+        "Full Metal Mountain"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Woodstock Music and Art Fair famously take place in New York?",
+      "choices": [
+        "1968",
+        "1969",
+        "1970",
+        "1971"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Venice Film Festival awards which golden statuette as its top prize?",
+      "choices": [
+        "The Golden Lion of San Marco",
+        "The Golden Laurel",
+        "The Silver Lion",
+        "The Golden Eagle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which famous Japanese rock festival, held annually since 1997, takes its name from a Japanese phrase meaning 'summer sonic'?",
+      "choices": [
+        "Fuji Rock Festival",
+        "Summer Sonic",
+        "Rising Sun Rock Festival",
+        "Monster Bash"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tanglewood Music Festival in Massachusetts serves as the summer home for which prestigious American orchestra?",
+      "choices": [
+        "New York Philharmonic",
+        "Boston Symphony Orchestra",
+        "Philadelphia Orchestra",
+        "Chicago Symphony Orchestra"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which French city does the Aix-en-Provence Festival, specialising in opera and orchestral music, take place?",
+      "choices": [
+        "Marseille",
+        "Lyon",
+        "Aix-en-Provence",
+        "Avignon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pushkar Camel Fair, one of the world's largest livestock fairs, is held annually in which Indian state?",
+      "choices": [
+        "Rajasthan",
+        "Gujarat",
+        "Madhya Pradesh",
+        "Uttar Pradesh"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European film festival, founded in 1946, is the oldest of its kind still in operation?",
+      "choices": [
+        "Venice Film Festival",
+        "Berlin International Film Festival",
+        "Cannes Film Festival",
+        "San Sebastián International Film Festival"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "La Tomatina, an annual festival in Spain, is celebrated in which town?",
+      "choices": [
+        "Buñol",
+        "Valencia",
+        "Seville",
+        "Granada"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hay Festival, a major literature and arts festival, is held annually in which country?",
+      "choices": [
+        "United Kingdom",
+        "Ireland",
+        "Australia",
+        "Canada"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Woodstock Music and Art Fair take place?",
+      "choices": [
+        "1969",
+        "1968",
+        "1970",
+        "1967"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Winter Wonderland festival takes place annually in which London park?",
+      "choices": [
+        "Hyde Park",
+        "Regent's Park",
+        "St. James's Park",
+        "Green Park"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese festival, celebrating the arrival of summer, features traditional odori (dance) performances?",
+      "choices": [
+        "Awa Odori",
+        "Gion Matsuri",
+        "Tanabata",
+        "Aoi Matsuri"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Edinburgh Fringe Festival, established in 1947, is primarily a showcase for which type of performance?",
+      "choices": [
+        "Theater and comedy",
+        "Classical music",
+        "Film screenings",
+        "Dance and ballet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Italian city is the annual Carnival festival most famously celebrated with ornate masks and costumes?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sundance Film Festival was founded in 1985 by which notable American filmmaker?",
+      "choices": [
+        "Robert Redford",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Francis Ford Coppola"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Roskilde Festival, one of Northern Europe's largest music festivals, is held in which country?",
+      "choices": [
+        "Denmark",
+        "Sweden",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which annual festival in India, celebrating the triumph of good over evil, is known as the 'Festival of Lights'?",
+      "choices": [
+        "Diwali",
+        "Holi",
+        "Navratri",
+        "Makar Sankranti"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Notting Hill Carnival, held annually in London, primarily celebrates the culture of which Caribbean island nation?",
+      "choices": [
+        "Trinidad and Tobago",
+        "Jamaica",
+        "Barbados",
+        "Dominica"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Glastonbury Festival for the Performing Arts first occur?",
+      "choices": [
+        "1970",
+        "1968",
+        "1972",
+        "1966"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pörtschach Festival, one of Austria's most prestigious summer music festivals, is held near which Alpine lake?",
+      "choices": [
+        "Wörthersee",
+        "Hallstatt",
+        "Königssee",
+        "Achensee"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Festa di San Gennaro in New York City's Little Italy traditionally takes place in which month?",
+      "choices": [
+        "September",
+        "August",
+        "October",
+        "July"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish city's Las Fallas festival, celebrated in March, is known for burning elaborate wooden structures called 'fallas'?",
+      "choices": [
+        "Valencia",
+        "Barcelona",
+        "Madrid",
+        "Seville"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sziget Festival, a major European music and cultural event, is held on an island in which country?",
+      "choices": [
+        "Hungary",
+        "Croatia",
+        "Serbia",
+        "Romania"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Palio di Siena, a famous horse race festival, takes place twice yearly in which Italian city?",
+      "choices": [
+        "Siena",
+        "Pisa",
+        "Lucca",
+        "Arezzo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rudolf Bing, who co-founded the Edinburgh International Festival in 1947, later became the general manager of which prestigious American opera house?",
+      "choices": [
+        "Metropolitan Opera House, New York",
+        "Lyric Opera of Chicago",
+        "San Francisco Opera",
+        "Boston Opera House"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which European country is the annual Krampusnacht festival celebrated on December 5th?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Czech Republic"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Carnival of Venice festival is traditionally held in which Italian city?",
+      "choices": [
+        "Florence",
+        "Venice",
+        "Rome",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Japanese city is the Gion Matsuri festival held annually during July?",
+      "choices": [
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Hiroshima"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Holi festival, known as the Festival of Colors, originates from which country?",
+      "choices": [
+        "Nepal",
+        "India",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which date is St. Lucia Day traditionally celebrated in Sweden?",
+      "choices": [
+        "December 13th",
+        "December 25th",
+        "December 6th",
+        "January 6th"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pushkar Camel Fair is an annual event held in which Indian state?",
+      "choices": [
+        "Gujarat",
+        "Rajasthan",
+        "Uttar Pradesh",
+        "Maharashtra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Australian city is the annual Vivid Sydney light festival held?",
+      "choices": [
+        "Melbourne",
+        "Brisbane",
+        "Sydney",
+        "Perth"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Montreal Jazz Festival is held in which Canadian province?",
+      "choices": [
+        "Ontario",
+        "Alberta",
+        "Quebec",
+        "British Columbia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sundance Film Festival was founded by which renowned actor and director?",
+      "choices": [
+        "Steven Spielberg",
+        "Robert Redford",
+        "Francis Ford Coppola",
+        "Martin Scorsese"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Cannes Film Festival is held annually in which country?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Monaco"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Running of the Bulls festival takes place annually in which Spanish city?",
+      "choices": [
+        "Barcelona",
+        "Madrid",
+        "Pamplona",
+        "Seville"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which month is the Oktoberfest beer festival traditionally held in Munich?",
+      "choices": [
+        "August and September",
+        "September and October",
+        "October and November",
+        "July and August"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Winter Solstice Festival, also called Dongzhi Festival, is traditionally celebrated in which East Asian countries?",
+      "choices": [
+        "Japan and Korea only",
+        "China, Taiwan, and Vietnam",
+        "Mongolia and Russia",
+        "Thailand and Laos"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rio Carnival is held in which Brazilian city?",
+      "choices": [
+        "São Paulo",
+        "Salvador",
+        "Rio de Janeiro",
+        "Brasília"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Notting Hill Carnival is held annually in which London borough?",
+      "choices": [
+        "Westminster",
+        "Kensington and Chelsea",
+        "Hammersmith and Fulham",
+        "Islington"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Venice Biennale is an international art exhibition held every how many years?",
+      "choices": [
+        "One year",
+        "Two years",
+        "Three years",
+        "Four years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Día de Muertos (Day of the Dead) festival is primarily celebrated in which country?",
+      "choices": [
+        "Guatemala",
+        "Mexico",
+        "El Salvador",
+        "Honduras"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Burning Man festival is held annually in which American state?",
+      "choices": [
+        "California",
+        "Arizona",
+        "Nevada",
+        "Utah"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The La Tomatina festival, where participants throw tomatoes, takes place in which Spanish region?",
+      "choices": [
+        "Catalonia",
+        "Andalusia",
+        "Valencia",
+        "Basque Country"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hermanus Whale Festival is held annually in which African country?",
+      "choices": [
+        "Namibia",
+        "South Africa",
+        "Botswana",
+        "Zimbabwe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was the first Edinburgh International Festival held?",
+      "choices": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rudolf Bing served as the first director of which major international festival?",
+      "choices": [
+        "Salzburg Festival",
+        "Edinburgh International Festival",
+        "Bayreuth Festival",
+        "Glyndebourne Festival Opera"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Glyndebourne Festival Opera was first established in which year?",
+      "choices": [
+        "1920",
+        "1934",
+        "1945",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which UK music festival began in 1964 and is held annually in Cambridge?",
+      "choices": [
+        "Reading Festival",
+        "Cambridge Folk Festival",
+        "Cambridge Jazz Festival",
+        "Latitude Festival"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The annual wine-throwing festival in Haro, Spain, has been humorously compared to 'paintballing with' what?",
+      "choices": [
+        "Water",
+        "Paint",
+        "Wine",
+        "Berries"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which English town does the BunkFest festival take place annually?",
+      "choices": [
+        "Wallingford",
+        "Henley-on-Thames",
+        "Windsor",
+        "Marlow"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which month does the Cannes Film Festival typically occur?",
+      "choices": [
+        "April",
+        "May",
+        "June",
+        "July"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which date do crowds gather at Stonehenge to celebrate the summer solstice?",
+      "choices": [
+        "19th June",
+        "20th June",
+        "21st June",
+        "22nd June"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country celebrates Unity Day on 3rd October?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Netherlands",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which date is St George's Day celebrated?",
+      "choices": [
+        "17th April",
+        "23rd April",
+        "29th April",
+        "1st May"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country recognizes 21st July as its National Day?",
+      "choices": [
+        "Netherlands",
+        "Belgium",
+        "Luxembourg",
+        "Switzerland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What date marks Liberation Day in Bulgaria?",
+      "choices": [
+        "1st March",
+        "3rd March",
+        "9th March",
+        "15th March"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Huffington Post, which European city boasts the best Christmas market in Europe?",
+      "choices": [
+        "Vienna, Austria",
+        "Cologne, Germany",
+        "Gdańsk, Poland",
+        "Prague, Czech Republic"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The largest German Christmas market outside Germany is located in which English city?",
+      "choices": [
+        "London",
+        "Manchester",
+        "Birmingham",
+        "Bristol"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country can visitors experience camel wrestling festivals during January?",
+      "choices": [
+        "Morocco",
+        "Turkey",
+        "Egypt",
+        "Saudi Arabia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ingredient, alongside eggs, is traditionally used to hold Christmas pudding together?",
+      "choices": [
+        "Butter",
+        "Suet",
+        "Lard",
+        "Oil"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What prestigious award did Pulp Fiction win at the 1994 Cannes Film Festival?",
+      "choices": [
+        "Best Director",
+        "Palme d'Or",
+        "Grand Prix",
+        "Best Screenplay"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Cambridge Folk Festival established?",
+      "choices": [
+        "1960",
+        "1964",
+        "1968",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which day is recognized as Mother's Day in the UK, falling on the last Sunday in March?",
+      "choices": [
+        "Mothering Sunday",
+        "British Mother's Day",
+        "Spring Mother's Day",
+        "March Mother's Festival"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frank Dunlop served as which number director of the Edinburgh International Festival?",
+      "choices": [
+        "Fifth",
+        "Sixth",
+        "Seventh",
+        "Eighth"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Montreux Jazz Festival takes place annually in which country?",
+      "choices": [
+        "France",
+        "Switzerland",
+        "Italy",
+        "Austria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish wine festival is characterized by participants throwing wine at each other?",
+      "choices": [
+        "La Rioja Wine Festival",
+        "Haro Wine Fight",
+        "Penedes Festival",
+        "Jerez Harvest Festival"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Notting Hill Carnival, held annually in London, primarily celebrates which culture?",
+      "choices": [
+        "Indian",
+        "Caribbean",
+        "African",
+        "Middle Eastern"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which month does the Oktoberfest celebration traditionally begin in Munich?",
+      "choices": [
+        "August",
+        "September",
+        "October",
+        "November"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The La Tomatina festival, where participants throw tomatoes, takes place in which Spanish city?",
+      "choices": [
+        "Valencia",
+        "Buñol",
+        "Seville",
+        "Barcelona"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film festival, held in May, is the second-most prestigious in the world by many standards?",
+      "choices": [
+        "Berlin Film Festival",
+        "Cannes Film Festival",
+        "Venice Film Festival",
+        "Toronto International Film Festival"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Bestival, a music and arts festival, was originally held on which British island?",
+      "choices": [
+        "Isle of Man",
+        "Isle of Wight",
+        "Anglesey",
+        "Isle of Skye"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country hosts the annual Pushkin Poetry Festival?",
+      "choices": [
+        "Ukraine",
+        "Russia",
+        "Belarus",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The SXSW festival, which includes music, film, and interactive media, is held in which Texas city?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "Austin",
+        "San Antonio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Norwegian city is the annual Bergen International Festival held?",
+      "choices": [
+        "Oslo",
+        "Trondheim",
+        "Bergen",
+        "Stavanger"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hay Festival, a major literature festival in the UK, takes place in which town?",
+      "choices": [
+        "Cheltenham",
+        "Hay-on-Wye",
+        "Bath",
+        "Brighton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Asian country hosts the Harbin International Ice and Snow Sculpture Festival annually?",
+      "choices": [
+        "Japan",
+        "South Korea",
+        "China",
+        "Mongolia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sziget Festival, one of Europe's largest music festivals, is held on an island in which country?",
+      "choices": [
+        "Serbia",
+        "Hungary",
+        "Romania",
+        "Croatia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Australian city is known for hosting the annual Adelaide Fringe Festival?",
+      "choices": [
+        "Sydney",
+        "Melbourne",
+        "Adelaide",
+        "Perth"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Roskilde Festival, a major Scandinavian music event, takes place in which country?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese festival, celebrated in summer, is characterized by traditional dancing and lantern processions?",
+      "choices": [
+        "Tanabata",
+        "Obon",
+        "Gion Matsuri",
+        "Aoi Matsuri"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sundance Film Festival was founded by which acclaimed American actor and director?",
+      "choices": [
+        "Martin Scorsese",
+        "Robert Redford",
+        "Steven Spielberg",
+        "Francis Ford Coppola"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Irish city does the annual Temple Bar Trad Festival celebrate traditional Irish music?",
+      "choices": [
+        "Cork",
+        "Galway",
+        "Dublin",
+        "Limerick"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Plitvice Lakes Music Festival is held in which European country known for its natural waterfalls?",
+      "choices": [
+        "Slovenia",
+        "Croatia",
+        "Bosnia",
+        "Serbia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Council of Nicaea establish the date for Easter?",
+      "choices": [
+        "325 AD",
+        "381 AD",
+        "412 AD",
+        "298 AD"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scottish festival celebrates the life and works of poet Robert Burns on January 25th?",
+      "choices": [
+        "Hogmanay",
+        "Burns Night",
+        "Beltane",
+        "Samhain"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient used alongside eggs to bind traditional Christmas pudding?",
+      "choices": [
+        "Lard",
+        "Suet",
+        "Butter",
+        "Shortening"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Andrew Davis served as music director of Glyndebourne Festival Opera during which decade?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Christopsomo is a traditional Christmas bread originating from which country?",
+      "choices": [
+        "Italy",
+        "Greece",
+        "Spain",
+        "Cyprus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what date is St. George's Day traditionally observed?",
+      "choices": [
+        "March 17th",
+        "April 23rd",
+        "May 1st",
+        "June 24th"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Assumption of Mary is celebrated on which date in the Christian calendar?",
+      "choices": [
+        "August 15th",
+        "July 25th",
+        "September 8th",
+        "October 11th"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Beltane, celebrated on May 1st, is traditionally associated with which element?",
+      "choices": [
+        "Water",
+        "Air",
+        "Fire",
+        "Earth"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is the Celtic Connections music festival held annually?",
+      "choices": [
+        "Ireland",
+        "Scotland",
+        "Wales",
+        "Northern Ireland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country celebrates its national day on June 23rd?",
+      "choices": [
+        "Latvia",
+        "Luxembourg",
+        "Lithuania",
+        "Estonia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "John Pritchard served as music director of Glyndebourne Festival Opera from 1964 to which year?",
+      "choices": [
+        "1974",
+        "1977",
+        "1980",
+        "1982"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Eisteddfod is a traditional cultural festival that originated in which country?",
+      "choices": [
+        "Scotland",
+        "Ireland",
+        "Wales",
+        "Cornwall"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the alternative name for Christmas pudding commonly used in British cuisine?",
+      "choices": [
+        "Festive pudding",
+        "Plum pudding",
+        "Winter pudding",
+        "Spiced pudding"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swiss town is known for hosting the annual Golden Rose Television Festival?",
+      "choices": [
+        "Zurich",
+        "Geneva",
+        "Montreux",
+        "Lucerne"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "St. David is the patron saint of which country?",
+      "choices": [
+        "Scotland",
+        "Ireland",
+        "Wales",
+        "England"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Austria celebrates its national day on which date?",
+      "choices": [
+        "October 14th",
+        "September 26th",
+        "November 9th",
+        "December 3rd"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Malta observes its Independence Day on which date?",
+      "choices": [
+        "August 21st",
+        "September 21st",
+        "October 12th",
+        "November 15th"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film starring Sam Neill won the Palme d'Or at the 1993 Cannes Film Festival?",
+      "choices": [
+        "In the Cut",
+        "The Piano",
+        "Piano Lesson",
+        "Piano Man"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cattern cake is a pastry traditionally associated with which saint's day?",
+      "choices": [
+        "St. Catherine's Day",
+        "St. Andrew's Day",
+        "St. Agnes Day",
+        "St. Agatha's Day"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what date is Halloween celebrated in the modern calendar?",
+      "choices": [
+        "October 30th",
+        "October 31st",
+        "November 1st",
+        "November 2nd"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country does the Tomatina festival take place, where participants throw tomatoes at each other?",
+      "choices": [
+        "Spain",
+        "Italy",
+        "Portugal",
+        "Greece"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Oktoberfest celebration originates from which German city?",
+      "choices": [
+        "Berlin",
+        "Munich",
+        "Hamburg",
+        "Cologne"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which music festival, held annually in England's Somerset, first took place in 1970?",
+      "choices": [
+        "Reading and Leeds",
+        "Glastonbury",
+        "Download Festival",
+        "Latitude Festival"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Carnival of Venice is traditionally held in which season before Lent?",
+      "choices": [
+        "Autumn",
+        "Spring",
+        "Winter",
+        "Summer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Asian country is the Pushkar Camel Fair held annually?",
+      "choices": [
+        "Thailand",
+        "India",
+        "Myanmar",
+        "Cambodia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Montreal Jazz Festival takes place in which Canadian province?",
+      "choices": [
+        "Ontario",
+        "British Columbia",
+        "Quebec",
+        "Alberta"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bonfire Night celebrations in the United Kingdom commemorate events from which year?",
+      "choices": [
+        "1588",
+        "1605",
+        "1666",
+        "1746"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sundance Film Festival is held annually in which US state?",
+      "choices": [
+        "Colorado",
+        "Utah",
+        "Wyoming",
+        "Nevada"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Holi, the Festival of Colors, is primarily celebrated in which country?",
+      "choices": [
+        "Nepal",
+        "India",
+        "Sri Lanka",
+        "Bangladesh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Edinburgh Fringe Festival takes place during the same period as which other major Edinburgh festival?",
+      "choices": [
+        "Edinburgh International Film Festival",
+        "Edinburgh International Festival",
+        "Edinburgh Jazz Festival",
+        "Edinburgh Book Festival"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Viña del Mar International Song Festival is held in which South American country?",
+      "choices": [
+        "Peru",
+        "Argentina",
+        "Chile",
+        "Colombia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rio Carnival is primarily celebrated in which Brazilian city?",
+      "choices": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Salvador",
+        "Recife"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Berlin International Film Festival is commonly known by which three-letter abbreviation?",
+      "choices": [
+        "BFF",
+        "BIF",
+        "BFI",
+        "Berlinale"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Zwarte Piet tradition is associated with which winter celebration in the Netherlands?",
+      "choices": [
+        "Christmas",
+        "Sinterklaas",
+        "New Year's Eve",
+        "Epiphany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Inti Raymi festival is an ancient celebration reconstructed in which country?",
+      "choices": [
+        "Bolivia",
+        "Ecuador",
+        "Peru",
+        "Colombia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Beltane Fire Festival is held on which date each year in Edinburgh?",
+      "choices": [
+        "30th April",
+        "1st May",
+        "30th October",
+        "31st October"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sziget Festival, one of Europe's largest music festivals, takes place in which capital city?",
+      "choices": [
+        "Prague",
+        "Budapest",
+        "Warsaw",
+        "Vienna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Japanese city is the Aoi Matsuri festival held, one of Kyoto's three major festivals?",
+      "choices": [
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Nara"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hermanus Whale Festival celebrates marine life viewing in which African country?",
+      "choices": [
+        "Kenya",
+        "South Africa",
+        "Mozambique",
+        "Namibia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Burning Man festival is held annually in which US desert region?",
+      "choices": [
+        "Mojave Desert",
+        "Sonoran Desert",
+        "Black Rock Desert",
+        "Great Basin Desert"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

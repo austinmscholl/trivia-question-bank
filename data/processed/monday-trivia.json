@@ -1,299 +1,2273 @@
 {
   "slug": "monday-trivia",
-  "name": "Mondays",
-  "description": "The first day of the week — songs, sayings, traditions, and the case for hating it.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Monday",
+  "processedAt": "2026-05-24T20:43:43.639Z",
   "questions": [
     {
-      "q": "What does the name 'Monday' literally mean in Old English?",
-      "choices": ["Day of the Sun", "Moon's day", "Day of the Sea", "First day"],
-      "correct": 1,
-      "category": "Mondays",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Moon's day",
-        "verified": true,
-        "notes": "From Old English 'Mōnandæg.'"
-      }
-    },
-    {
-      "q": "What is the Latin name for Monday — 'dies' of which celestial body?",
-      "choices": ["Solis", "Lunae", "Martis", "Mercurii"],
-      "correct": 1,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Latin",
-        "verified": true,
-        "notes": "Dies Lunae = 'Day of the Moon.' Survives in French 'lundi,' Spanish 'lunes,' Italian 'lunedì.'"
-      }
-    },
-    {
-      "q": "In Portuguese, Monday is called 'segunda-feira.' What does it literally mean?",
+      "q": "In the Roman calendar, what was Monday called?",
       "choices": [
-        "Second market day",
-        "Moon day",
-        "Second day",
-        "First day"
+        "Dies Lunae",
+        "Dies Martis",
+        "Dies Veneris",
+        "Dies Mercurii"
       ],
       "correct": 0,
-      "category": "Mondays",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Portuguese",
-        "verified": true,
-        "notes": "'Feira' was originally a market day; the system uses ordinal numbers Mon-Fri."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "By the ISO 8601 international standard, which day is the first day of the week?",
-      "choices": ["Sunday", "Monday", "Saturday", "Wednesday"],
-      "correct": 1,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "First day",
-        "verified": true,
-        "notes": "Most of the world treats Monday as the first day of the week; the U.S./Canada often start with Sunday."
-      }
-    },
-    {
-      "q": "In Hindu tradition, which deity is most associated with Monday?",
-      "choices": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+      "q": "What does the word 'Monday' literally mean in Old English?",
+      "choices": [
+        "Moon's day",
+        "Market day",
+        "Beginning day",
+        "Rest day"
+      ],
       "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Shiva",
-        "verified": true,
-        "notes": "Many Hindus fast on Mondays in honor of Shiva."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1966 hit by The Mamas & the Papas mentions Monday in its title and chorus?",
+      "q": "The day after Easter Sunday is commonly called what in English-speaking countries?",
+      "choices": [
+        "Easter Monday",
+        "Ascension Monday",
+        "Renewal Monday",
+        "Spring Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Polish tradition, what is Wet Monday also known as?",
+      "choices": [
+        "Śmigus-Dyngus",
+        "Mały Dzień",
+        "Poniedziałek Mokry",
+        "Wielki Poniedziałek"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to Islamic tradition, on what day of the week was the Prophet Muhammad born?",
+      "choices": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Catholic liturgical calendar, what is Monday referred to as?",
+      "choices": [
+        "Feria secunda",
+        "Feria prima",
+        "Feria tertia",
+        "Feria quarta"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Hindu deity is traditionally honored through fasting on Mondays during the month of Shravana?",
+      "choices": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Hanuman"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Judaism, Monday is considered which day of the week in the creation cycle?",
+      "choices": [
+        "The second day",
+        "The third day",
+        "The fourth day",
+        "The fifth day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Portuguese language word for Monday?",
+      "choices": [
+        "Segunda-feira",
+        "Terça-feira",
+        "Quarta-feira",
+        "Quinta-feira"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In German, what is the modern word for Monday?",
+      "choices": [
+        "Montag",
+        "Dienstag",
+        "Mittwoch",
+        "Donnerstag"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term do Quakers use to refer to Monday?",
+      "choices": [
+        "Second Day",
+        "Moon Day",
+        "First Day",
+        "Third Day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Islamic practice, fasting on Mondays and Thursdays is considered what type of fasting?",
+      "choices": [
+        "Voluntary fasting",
+        "Obligatory fasting",
+        "Ritual fasting",
+        "Commemorative fasting"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Icelandic word for Monday?",
+      "choices": [
+        "Mánudagur",
+        "Þriðjudagur",
+        "Miðvikudagur",
+        "Fimmtudagur"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Hinduism, which lunar deity is associated with Mondays and honored during Somavara fasting?",
+      "choices": [
+        "Chandra",
+        "Surya",
+        "Agni",
+        "Vayu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to Hebrew, what is the term for Monday in Judaism?",
+      "choices": [
+        "Yom Sheni",
+        "Yom Rishon",
+        "Yom Shelishi",
+        "Yom Revi'i"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Eastern Orthodox monastic tradition, what spiritual practice is Monday typically associated with?",
+      "choices": [
+        "Fasting",
+        "Feasting",
+        "Silence",
+        "Labor"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Vietnamese term 'thứ Hai' refers to Monday and literally means what?",
+      "choices": [
+        "Second day",
+        "Moon day",
+        "Beginning day",
+        "Work day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ashkenazi Jewish custom involves fasting on consecutive Mondays?",
+      "choices": [
+        "Fast of Davidic Mondays",
+        "Tashlich observance",
+        "Ta'anit Esther",
+        "Yom Kippur preparation"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Norse mythology, Monday derives its name from which celestial deity?",
+      "choices": [
+        "Máni, the moon god",
+        "Sól, the sun goddess",
+        "Týr, the war god",
+        "Odin, the all-father"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What day of the week did the ancient Romans call 'Dies Lunae' in reference to the moon?",
+      "choices": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the shopping event that takes place on the Monday after Thanksgiving in the United States?",
+      "choices": [
+        "Black Monday",
+        "Cyber Monday",
+        "Super Monday",
+        "Discount Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British rock band released the album 'Pills 'n' Thrills and Bellyaches' and has Monday in their name?",
+      "choices": [
+        "Happy Mondays",
+        "Monday Morning",
+        "Manic Mondays",
+        "Blue Monday Band"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What song did Prince write for The Bangles that references feeling overwhelmed on a particular day of the week?",
+      "choices": [
+        "Sunday Girl",
+        "Manic Monday",
+        "Monday Morning Blues",
+        "Rainy Day Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Norse mythology, Monday is named after which celestial deity?",
+      "choices": [
+        "Odin",
+        "Máni",
+        "Thor",
+        "Freya"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous 1971 song by The Carpenters references rainy days and which day of the week?",
+      "choices": [
+        "Friday",
+        "Sunday",
+        "Monday",
+        "Saturday"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Eastern Orthodox Christian calendar, what is the Monday immediately following Easter called?",
+      "choices": [
+        "Bright Monday",
+        "White Monday",
+        "Holy Monday",
+        "Radiant Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Polish and Eastern European traditions, what is the Monday after Easter known as?",
+      "choices": [
+        "Splash Monday",
+        "Wet Monday",
+        "Water Monday",
+        "Drenched Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which day of the week is commonly associated with Guinness World Records naming it the 'Worst Day of the Week'?",
+      "choices": [
+        "Tuesday",
+        "Wednesday",
+        "Monday",
+        "Thursday"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the third Monday in January, known as a particularly depressing day?",
+      "choices": [
+        "Gray Monday",
+        "Blue Monday",
+        "Dark Monday",
+        "Sad Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Latter-day Saints (Mormon) Church encourages what family-focused activity on Monday evenings?",
+      "choices": [
+        "Family Prayer Night",
+        "Family Home Evening",
+        "Family Dinner Night",
+        "Family Study Night"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Roman calendar, what was Monday called in Latin?",
+      "choices": [
+        "Dies Solis",
+        "Dies Lunae",
+        "Dies Martis",
+        "Dies Mercurii"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What pop-punk band from the 2000s included the word Monday in its name?",
+      "choices": [
+        "Hey Monday",
+        "Monday Afternoon",
+        "Blue Monday Collective",
+        "Monday Night Lights"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the UK, which day of the week sees the highest rate of people calling in sick from work?",
+      "choices": [
+        "Friday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Vietnamese word for Monday, 'thứ Hai,' literally translates to what in English?",
+      "choices": [
+        "First Day",
+        "Second Day",
+        "Moon Day",
+        "Work Day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Eastern Orthodox monasteries, what spiritual practice is traditionally observed on Mondays?",
+      "choices": [
+        "Silence",
+        "Fasting",
+        "Extra Prayers",
+        "Meditation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Monday after New Year's Day called in Scottish and British traditions?",
+      "choices": [
+        "New Year Monday",
+        "Handsel Monday",
+        "First Monday",
+        "Winter Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which popular social activity for groups typically occurs on Monday evenings in bars and restaurants?",
+      "choices": [
+        "Karaoke Night",
+        "Trivia Night",
+        "Comedy Show",
+        "Movie Night"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did The Carpenters release their hit song 'Rainy Days and Mondays'?",
+      "choices": [
+        "1969",
+        "1971",
+        "1973",
+        "1975"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the name of the day 'Monday' derive from in English?",
+      "choices": [
+        "Moon's Day",
+        "Man's Day",
+        "Market Day",
+        "Morning Day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Jewish tradition, what type of prayers are recited on Mondays and Thursdays?",
+      "choices": [
+        "Thanksgiving Prayers",
+        "Penitential Prayers",
+        "Morning Psalms",
+        "Evening Blessings"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Old English language, what celestial body does the word 'Monday' reference?",
+      "choices": [
+        "The Sun",
+        "The Moon",
+        "Mars",
+        "Venus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which popular comic strip character is famously known for hating Mondays?",
+      "choices": [
+        "Garfield",
+        "Snoopy",
+        "Odie",
+        "Nermal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major shopping event takes place on the Monday following Thanksgiving in the United States?",
+      "choices": [
+        "Black Friday",
+        "Cyber Monday",
+        "White Monday",
+        "Green Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to Islamic tradition, on which day of the week was the Prophet Muhammad born?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Monday that falls immediately after Easter Sunday in the Christian calendar?",
+      "choices": [
+        "Whit Monday",
+        "Easter Monday",
+        "Clean Monday",
+        "Miracle Monday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Norse mythology, which deity is the day 'Monday' named after?",
+      "choices": [
+        "Odin",
+        "Thor",
+        "Máni",
+        "Freya"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Jewish tradition, which day of the week is Monday considered to be?",
+      "choices": [
+        "First day",
+        "Second day",
+        "Third day",
+        "Fourth day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1966 song by The Mamas & the Papas features 'Monday' prominently in its title?",
       "choices": [
         "California Dreamin'",
         "Monday, Monday",
-        "Dedicated to the One I Love",
+        "Go Where You Wanna Go",
         "Creeque Alley"
       ],
       "correct": 1,
-      "category": "Mondays",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Monday, Monday",
-        "verified": true,
-        "notes": "Reached #1 on the Billboard Hot 100 in 1966."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1986 Bangles hit was written by Prince?",
+      "q": "What is the German word for Monday in modern German?",
       "choices": [
-        "Manic Monday",
-        "Walk Like an Egyptian",
-        "Eternal Flame",
-        "Monday, Monday"
+        "Montag",
+        "Mondtag",
+        "Dienstag",
+        "Freitag"
       ],
       "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Manic Monday",
-        "verified": true,
-        "notes": "Reached #2 on the Hot 100 — kept off #1 by Prince's own 'Kiss.'"
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Carpenters song begins, 'Talkin' to myself and feelin' old'?",
+      "q": "Which Monday in January is often referred to as the most depressing day of the year?",
       "choices": [
-        "Rainy Days and Mondays",
-        "We've Only Just Begun",
-        "Top of the World",
-        "Close to You"
+        "Gray Monday",
+        "Dark Monday",
+        "Blue Monday",
+        "Black Monday"
       ],
-      "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Rainy Days and Mondays",
-        "verified": true,
-        "notes": "1971 single by Karen and Richard Carpenter."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1979 Boomtown Rats song became Bob Geldof's first #1?",
+      "q": "In Islam, which two days of the week are traditionally encouraged for fasting?",
       "choices": [
-        "I Don't Like Mondays",
-        "Manic Monday",
-        "Monday, Monday",
-        "Stormy Monday"
+        "Monday and Tuesday",
+        "Monday and Thursday",
+        "Wednesday and Friday",
+        "Saturday and Sunday"
       ],
-      "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mondays",
-        "verified": true,
-        "notes": "Inspired by the Cleveland school shooter Brenda Spencer's chilling explanation."
-      }
-    },
-    {
-      "q": "Which orange cartoon cat famously hates Mondays?",
-      "choices": ["Garfield", "Heathcliff", "Tom", "Felix"],
-      "correct": 0,
-      "category": "Mondays",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Garfield",
-        "verified": true,
-        "notes": "Created by Jim Davis in 1978."
-      }
-    },
-    {
-      "q": "What is the name of the post-Thanksgiving Monday for online shopping?",
-      "choices": ["Black Monday", "Cyber Monday", "Buy Monday", "Click Monday"],
       "correct": 1,
-      "category": "Mondays",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cyber Monday",
-        "verified": true,
-        "notes": "Coined in 2005 by Shop.org."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is 'Black Monday' in stock-market history?",
+      "q": "What is the Czech word for the day Monday?",
       "choices": [
-        "October 19, 1987 stock market crash",
-        "October 28, 1929 stock market crash",
-        "December 16, 2008 financial crisis",
-        "March 16, 2020 COVID crash"
+        "Středa",
+        "Pondělí",
+        "Úterý",
+        "Čtvrtek"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to the ISO 8601 international standard, what day of the week is Monday?",
+      "choices": [
+        "First day",
+        "Second day",
+        "Third day",
+        "Fifth day"
       ],
       "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mondays",
-        "verified": true,
-        "notes": "Dow Jones fell 22.6% in a single session — its largest one-day percentage loss ever."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In Christian tradition, what is the Monday after Easter Sunday called?",
+      "q": "In Hindu tradition, which deity is typically honored through fasting on Mondays during the month of Shravana?",
+      "choices": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Ganesha"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Turkish name for the day Monday?",
+      "choices": [
+        "Çarşamba",
+        "Pazartesi",
+        "Salı",
+        "Perşembe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Christian calendar, what is the Monday that precedes Ash Wednesday called?",
+      "choices": [
+        "Shrove Monday",
+        "Miracle Monday",
+        "Clean Monday",
+        "White Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Norse mythology, which celestial deity is Monday named after?",
+      "choices": [
+        "Máni, the moon god",
+        "Týr, the war god",
+        "Odin, the all-father",
+        "Freya, the love goddess"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous comic strip character is known for his hatred of Mondays?",
+      "choices": [
+        "Garfield",
+        "Snoopy",
+        "Calvin",
+        "Dilbert"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the Japanese word 'getsuyōbi' translate to in English?",
+      "choices": [
+        "Day of the Moon",
+        "Second Day",
+        "After Sunday",
+        "Rest Day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which musical group released the song 'Rainy Days and Mondays'?",
+      "choices": [
+        "The Carpenters",
+        "The Beatles",
+        "The Beach Boys",
+        "The Monkees"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the United Kingdom, what is the Monday after New Year's Day traditionally called?",
+      "choices": [
+        "Handsel Monday",
+        "Clean Monday",
+        "Easter Monday",
+        "Boxing Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the Polish word 'poniedziałek' literally mean when translated?",
+      "choices": [
+        "After Sunday",
+        "Moon Day",
+        "Second Day",
+        "Work Day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Christian tradition, what is the Monday before Ash Wednesday called?",
+      "choices": [
+        "Clean Monday",
+        "Holy Monday",
+        "Lenten Monday",
+        "Fasting Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which religious denomination encourages members to hold Family Home Evening on Monday nights?",
+      "choices": [
+        "The Church of Jesus Christ of Latter-day Saints",
+        "Roman Catholics",
+        "Eastern Orthodox",
+        "Jehovah's Witnesses"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Vietnamese term 'thứ Hai' translated to mean?",
+      "choices": [
+        "Second Day",
+        "Moon Day",
+        "After Sunday",
+        "Work Day"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Hindu tradition, which deity is honored through fasting on Mondays during the month of Shravana?",
+      "choices": [
+        "Lord Shiva",
+        "Lord Brahma",
+        "Lord Vishnu",
+        "Lord Indra"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major online shopping event occurs on the Monday following Thanksgiving in the United States?",
+      "choices": [
+        "Cyber Monday",
+        "Black Monday",
+        "Manic Monday",
+        "Blue Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Monday is celebrated as a public holiday in many Christian countries, occurring after Easter Sunday?",
       "choices": [
         "Easter Monday",
-        "Wet Monday",
-        "Bright Monday",
-        "Both A & B"
+        "Clean Monday",
+        "Handsel Monday",
+        "Whit Monday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to research in the United Kingdom, what are people significantly more likely to do on Monday than any other weekday?",
+      "choices": [
+        "Call in sick to work",
+        "Go to the gym",
+        "Visit a doctor",
+        "Eat fast food"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Eastern European country does the name for Monday mean 'after Sunday'?",
+      "choices": [
+        "Poland",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Eastern Orthodox Christian tradition, which celestial beings are commemorated specifically on Mondays?",
+      "choices": [
+        "Archangels",
+        "Angels",
+        "Seraphim",
+        "Cherubim"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Sanskrit-derived Hindu observance called Solah Somvar Vrat primarily intended to help an individual achieve?",
+      "choices": [
+        "Spiritual enlightenment",
+        "A suitable marriage partner",
+        "Financial prosperity",
+        "Healing from illness"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Latin, the Roman calendar designated Monday as which of the following?",
+      "choices": [
+        "Dies Martis",
+        "Dies Lunae",
+        "Dies Mercurii",
+        "Dies Veneris"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Icelandic word for Monday, 'Mánudagur,' is etymologically derived from which celestial body?",
+      "choices": [
+        "Sun",
+        "Venus",
+        "Moon",
+        "Mercury"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Jewish liturgical practice, why have Mondays and Thursdays traditionally been significant for Torah readings?",
+      "choices": [
+        "These were temple feast days",
+        "These were market days when villagers gathered",
+        "These days honored the prophets",
+        "These aligned with Talmudic study cycles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Hindu deity associated with the moon is traditionally honored through fasting on Mondays?",
+      "choices": [
+        "Surya",
+        "Chandra",
+        "Indra",
+        "Agni"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Polish observance known as 'Wet Monday' occurs on which Monday in the Christian calendar year?",
+      "choices": [
+        "The Monday after Pentecost",
+        "The Monday before Lent",
+        "The Monday immediately following Easter Sunday",
+        "The Monday of Holy Week"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Ashkenazi Jewish tradition, the practice of fasting on consecutive Mondays is associated with which spiritual purpose?",
+      "choices": [
+        "Atonement for specific sins",
+        "Penitential and purification traditions",
+        "Commemoration of a historical event",
+        "Preparation for the High Holy Days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Orthodox Christian monastic practice, which categories of food are traditionally avoided on Mondays?",
+      "choices": [
+        "Grains and legumes",
+        "Meat, dairy, and fish",
+        "Fruits and vegetables",
+        "All animal products except honey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Catholic liturgical calendar refers to Monday using which Latin ecclesiastical term?",
+      "choices": [
+        "Feria prima",
+        "Feria secunda",
+        "Feria tertia",
+        "Lunae dies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1966 pop song by The Mamas & the Papas features the word 'Monday' prominently in its title and lyrics?",
+      "choices": [
+        "California Dreamin'",
+        "Monday, Monday",
+        "Make Your Own Kind of Music",
+        "Twelve Thirty (Young Girls Are Coming to the Canyon)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1971 hit song by The Carpenters that mentions Monday in its lyrics is titled what?",
+      "choices": [
+        "Close to You",
+        "Rainy Days and Mondays",
+        "We've Only Just Begun",
+        "Superstar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Guinness World Records officially designate Monday as the 'Worst Day of the Week'?",
+      "choices": [
+        "1987",
+        "2000",
+        "2005",
+        "No such official designation exists in Guinness records"
       ],
       "correct": 3,
-      "category": "Mondays",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Wet Monday",
-        "verified": true,
-        "notes": "'Wet Monday' is the Polish nickname (Śmigus-Dyngus)."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "In the Eastern Orthodox calendar, what is the Monday that begins Great Lent called?",
-      "choices": ["Clean Monday", "Holy Monday", "Bright Monday", "Black Monday"],
+      "q": "In the Hindu observance of Solah Somvar Vrat, fasting occurs over how many consecutive Mondays?",
+      "choices": [
+        "Four",
+        "Eight",
+        "Sixteen",
+        "Twenty-one"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Vietnamese term 'thứ Hai' for Monday literally translates to which ordinal designation?",
+      "choices": [
+        "First day",
+        "Second day",
+        "Moon day",
+        "Market day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Orthodox Christian tradition, the Monday following Easter Sunday is called by which name?",
+      "choices": [
+        "Joyful Monday",
+        "Bright Monday",
+        "Renewal Monday",
+        "Light Monday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Islamic practice, the voluntary fasting undertaken on Mondays and Thursdays is associated with which spiritual intention?",
+      "choices": [
+        "Fulfillment of the Hajj pillar",
+        "Commemoration of the Prophet's birth",
+        "Seeking additional spiritual merit",
+        "Atonement for weekend transgressions"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Indo-Aryan and Sanskrit-based languages use 'Somavāra' or similar etymologically related terms to refer to Monday?",
+      "choices": [
+        "Only Hindi",
+        "Only Sanskrit",
+        "Hindi, Bengali, Marathi, and other Indo-Aryan languages",
+        "Only languages spoken in North India"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hebrew name for Monday in the Jewish calendar, 'Yom Sheni,' literally means what?",
+      "choices": [
+        "Day of the Moon",
+        "Second Day",
+        "Day of Rest",
+        "Day of Law"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Slavic languages, the name for Monday is etymologically derived from which day?",
+      "choices": [
+        "Saturday",
+        "Sunday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the ISO 8601 international standard, which numeric position does Monday occupy in the weekly sequence?",
+      "choices": [
+        "First day of the week",
+        "Second day of the week",
+        "Third day of the week",
+        "Fourth day of the week"
+      ],
       "correct": 0,
-      "category": "Mondays",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Clean Monday",
-        "verified": true,
-        "notes": "Καθαρά Δευτέρα — the first day of Great Lent."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which English Manchester rock band, active 1980-1993, was named after the day of the week?",
+      "q": "The Carpenters' 1971 hit song mentions Monday in its title alongside which other meteorological condition?",
+      "choices": [
+        "Sunny Days",
+        "Rainy Days",
+        "Cloudy Days",
+        "Windy Days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the ancient Hindu calendar system, Monday is associated with which celestial body, reflected in its Sanskrit name Somavāra?",
+      "choices": [
+        "The Sun",
+        "The Moon",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Christian observance of Clean Monday marks the beginning of which liturgical period?",
+      "choices": [
+        "Advent",
+        "Lent",
+        "Pentecost",
+        "Epiphany"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Polish and some Central European traditions, the Monday following Easter is known by which name?",
+      "choices": [
+        "Drenched Monday",
+        "Wet Monday",
+        "Soaked Monday",
+        "Splash Monday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Icelandic, the word for Monday—Mánudagur—is etymologically derived from which linguistic root?",
+      "choices": [
+        "Old Norse for 'many days'",
+        "Old Norse for 'moon's day'",
+        "Old Norse for 'man's day'",
+        "Old Norse for 'main day'"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1966 song 'Monday, Monday' was recorded by which American rock group?",
+      "choices": [
+        "The Mamas & the Papas",
+        "The Byrds",
+        "Buffalo Springfield",
+        "The Association"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Islamic tradition, Monday is traditionally designated as a day for which spiritual practice?",
+      "choices": [
+        "Mandatory prayer",
+        "Fasting",
+        "Pilgrimage",
+        "Charity collection"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The term 'Cyber Monday' originated as a marketing initiative in which decade?",
+      "choices": [
+        "1990s",
+        "2000s",
+        "1980s",
+        "2010s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to early Christian texts, the Didache discouraged fasting on Monday to avoid association with which religious practice?",
+      "choices": [
+        "Pagan moon worship",
+        "Judaism",
+        "Zoroastrianism",
+        "Gnosticism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Chinese calendar system, Monday is referred to by a designation that translates to which phrase?",
+      "choices": [
+        "Moon Day",
+        "First Day of the Week",
+        "Second Day",
+        "Working Day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hebrew designation for Monday in Jewish tradition is Yom Sheni, which literally translates to which meaning?",
+      "choices": [
+        "Day of the Moon",
+        "Second Day",
+        "Day of Rest Preparation",
+        "Moonlight Day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval English customs, Handsel Monday referred to which day in the annual calendar?",
+      "choices": [
+        "The Monday of New Year's Week",
+        "The Monday after Easter",
+        "The Monday of Advent",
+        "The Monday before Christmas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The etymology of 'Monday' in English derives from Old English 'Monandæg,' which literally means day of which deity?",
+      "choices": [
+        "Tiw",
+        "Woden",
+        "The Moon",
+        "Thunor"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cartoon character, created in 1978, famously expresses disdain for Mondays through sardonic commentary?",
+      "choices": [
+        "Garfield",
+        "Felix the Cat",
+        "Tom from Tom and Jerry",
+        "Sylvester the Cat"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Romance languages derived from Latin, the word for Monday typically derives from 'lunae dies,' which translates to which phrase?",
+      "choices": [
+        "Day of Light",
+        "Day of the Moon",
+        "Day of Labor",
+        "Day of Fortune"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to internet usage statistics, on which day of the week do global internet users typically experience the highest web traffic?",
+      "choices": [
+        "Tuesday",
+        "Monday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Monday following the third Sunday of Advent in the Christian calendar is traditionally known by which designation?",
+      "choices": [
+        "Hope Monday",
+        "Gaudete Monday",
+        "Advent Monday",
+        "Miracle Monday"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the liturgical calendar, the Monday preceding Ash Wednesday is known by which traditional name?",
+      "choices": [
+        "Carnival Monday",
+        "Shrove Monday",
+        "Pancake Monday",
+        "Festival Monday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Japanese term for Monday, Getsuyōbi (月曜日), is etymologically composed of which two elements?",
+      "choices": [
+        "Beginning and day",
+        "Moon and day",
+        "Silver and brightness",
+        "Heaven and earth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Norse mythology, Máni is the deity associated with Monday. Which celestial body does Máni personify?",
+      "choices": [
+        "The Sun",
+        "The Moon",
+        "Venus",
+        "Mercury"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Islamic practice of voluntary fasting on Mondays and Thursdays is mentioned in which hadith collection?",
+      "choices": [
+        "Sahih Bukhari",
+        "Sahih Muslim",
+        "Jami' at-Tirmidhi",
+        "All of the above contain references"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the liturgical calendar of the Catholic Church, what is the formal Latin designation for Monday?",
+      "choices": [
+        "Feria prima",
+        "Feria secunda",
+        "Feria tertia",
+        "Dies Lunae"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Japanese word 'getsuyōbi' (月曜日) combines two kanji elements. Which of these is NOT one of them?",
+      "choices": [
+        "Getsu (moon)",
+        "Yō (day of the week)",
+        "Hi (sun)",
+        "Bi (day)"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Hindu tradition, the Solah Somvar Vrat ritual is typically observed on Mondays for how many consecutive weeks?",
+      "choices": [
+        "Eight weeks",
+        "Sixteen weeks",
+        "Twenty-four weeks",
+        "Forty weeks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The concept of 'Blue Monday,' popularized in the 2000s, refers to which Monday of the year?",
+      "choices": [
+        "The first Monday of January",
+        "The third Monday of January",
+        "The last Monday of January",
+        "The second Monday of February"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Portuguese-speaking countries, Monday is called 'segunda-feira.' What does 'feira' literally mean?",
+      "choices": [
+        "Day",
+        "Fair or market",
+        "Week",
+        "Moon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpenters' 1971 hit song mentions Monday in its title. What is the complete title of the song?",
+      "choices": [
+        "Monday Morning",
+        "Rainy Days and Mondays",
+        "Monday Blues",
+        "The Monday Song"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Christian Orthodox tradition, Clean Monday marks the beginning of which liturgical period?",
+      "choices": [
+        "Advent",
+        "Lent",
+        "Pentecost",
+        "Ordinary Time"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to the ISO 8601 international standard, what numerical position does Monday occupy in the week?",
+      "choices": [
+        "Day 1",
+        "Day 2",
+        "Day 7",
+        "Day 0"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval monastic practice, which of the following foods was traditionally forbidden on Mondays?",
+      "choices": [
+        "Bread",
+        "Vegetables",
+        "Meat and dairy",
+        "Water"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Roman calendar designated Monday as 'Dies Lunae.' Which other Romance language directly translates this Latin term in its modern Monday word?",
+      "choices": [
+        "Spanish (lunes)",
+        "French (lundi)",
+        "Italian (lunedì)",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Hinduism, Monday is particularly sacred to which deity, whose worship on Mondays is believed to bring specific spiritual benefits?",
+      "choices": [
+        "Brahma",
+        "Shiva",
+        "Vishnu",
+        "Indra"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The term 'Cyber Monday' was officially coined in which year to describe post-Thanksgiving online shopping?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2001"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the comic strip 'Garfield,' the protagonist's famous hatred of Mondays first appeared in which year?",
+      "choices": [
+        "1978",
+        "1980",
+        "1982",
+        "1984"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In some Eastern European traditions, the Monday after Easter Sunday is called 'Wet Monday.' What is the etymological origin of this name?",
+      "choices": [
+        "It commemorates rainfall",
+        "It refers to water-throwing customs and pranks",
+        "It celebrates the washing of church vestments",
+        "It marks the flooding season"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ashkenazi Jewish tradition of fasting on consecutive Mondays is part of which observance?",
+      "choices": [
+        "Yom Kippur preparation",
+        "Tisha B'Av mourning",
+        "Shovavim or the Three Weeks",
+        "Shavuot commemoration"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Old English, the word 'Monandæg' literally translates to what compound concept?",
+      "choices": [
+        "Moon's market",
+        "Moon's day",
+        "Month's beginning",
+        "Morning's light"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Germanic languages typically derive their Monday term from a specific celestial reference. Which celestial body is this?",
+      "choices": [
+        "Venus (Freyja)",
+        "Mars (Tiw)",
+        "The Moon (Máni)",
+        "Mercury (Wodan)"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Islamic tradition, the specific reasons cited for the encouragement of fasting on Mondays and Thursdays include which of these?",
+      "choices": [
+        "These are days when deeds are presented to Allah",
+        "They commemorate specific Qur'anic revelations",
+        "They mark the beginning of market weeks",
+        "They were designated by the Prophet's companions only"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Norse mythology, Monday derives its name from Máni, the deity of which celestial body?",
+      "choices": [
+        "The Sun",
+        "The Moon",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Monday observed in Poland immediately following Easter Sunday?",
+      "choices": [
+        "Smigus Monday",
+        "Wet Monday",
+        "Dyngus Monday",
+        "Spring Monday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Eastern Orthodox Christianity, which group of divine beings is traditionally commemorated on Mondays?",
+      "choices": [
+        "Saints",
+        "Angels",
+        "Apostles",
+        "Martyrs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What Monday occurs between Shrove Sunday and Ash Wednesday in the Christian liturgical calendar?",
+      "choices": [
+        "Lenten Monday",
+        "Carnival Monday",
+        "Shrove Monday",
+        "Holy Monday"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Hinduism, the practice of fasting on Mondays dedicated to Shiva is observed primarily during which lunar month?",
+      "choices": [
+        "Kartik",
+        "Shravana",
+        "Chaitra",
+        "Vaisakha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Portuguese-speaking nation's name for Monday, 'segunda-feira,' literally translates to which ordinal number?",
+      "choices": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the 'Mamas & the Papas' release their iconic song 'Monday, Monday'?",
+      "choices": [
+        "1964",
+        "1965",
+        "1966",
+        "1967"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which musician composed 'Manic Monday,' the song famously performed by The Bangles in 1986?",
+      "choices": [
+        "David Bowie",
+        "Prince",
+        "Tom Petty",
+        "Peter Frampton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What Monday is celebrated in New Orleans on the day immediately before Mardi Gras?",
+      "choices": [
+        "Carnival Monday",
+        "Lundi Gras",
+        "Fat Monday",
+        "Grand Monday"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Quaker faith tradition, what ordinal designation is given to Monday in their numbering system for weekdays?",
+      "choices": [
+        "First Day",
+        "Second Day",
+        "Third Day",
+        "Fourth Day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Romance languages derived from Latin, Monday's name comes from 'lunae dies,' meaning 'day of the moon.' Which of these Romance languages uses a word for Monday that most directly reflects this lunar origin?",
+      "choices": [
+        "Spanish (lunes)",
+        "French (mardi)",
+        "Italian (martedì)",
+        "Portuguese (terça)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Monday celebration in Poland that traditionally involves playful water-splashing and pranks?",
+      "choices": [
+        "Wet Monday",
+        "Splash Monday",
+        "Water Monday",
+        "Spring Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Christian calendar, which major observance begins on the Monday preceding Ash Wednesday?",
+      "choices": [
+        "Carnival Monday",
+        "Holy Monday",
+        "Lenten Monday",
+        "Penitence Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Mamas & the Papas released a 1966 hit song that prominently features Monday in its title and lyrics. What is the exact title of this song?",
+      "choices": [
+        "Monday, Monday",
+        "Blue Monday",
+        "Monday Morning",
+        "Every Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Prince wrote a song titled 'Manic Monday' for which 1980s pop-rock band?",
+      "choices": [
+        "The Bangles",
+        "The Go-Go's",
+        "Blondie",
+        "Pat Benatar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Vietnamese, the word for Monday is 'thứ Hai.' What does this phrase literally translate to?",
+      "choices": [
+        "Second day",
+        "Moon day",
+        "First day",
+        "Day two"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Japanese, the word for Monday is 'getsuyōbi.' Which celestial body does the 'getsu' component of this word represent?",
+      "choices": [
+        "The Moon",
+        "The Sun",
+        "A star",
+        "A planet"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Hindu tradition, Monday is associated with a specific deity. Which god or form of deity is Monday dedicated to?",
+      "choices": [
+        "Chandra (the Moon god)",
+        "Surya (the Sun god)",
+        "Indra (the King of gods)",
+        "Agni (the Fire god)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Monday following Easter Sunday is observed in many Christian and secular cultures. By what name is this day commonly known?",
+      "choices": [
+        "Easter Monday",
+        "Resurrection Monday",
+        "Spring Monday",
+        "Holy Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the United Kingdom, the Monday following New Year's Day has a traditional name referring to a gift or token. What is this day called?",
+      "choices": [
+        "Handsel Monday",
+        "Gift Monday",
+        "New Year Monday",
+        "Token Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Czech word for Monday is 'Pondělí.' This word derives from a Slavic root meaning what?",
+      "choices": [
+        "Beginning or first",
+        "Moon or lunar",
+        "Second day",
+        "Market day"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Islamic tradition, according to hadith, on which day of the week did the Prophet Muhammad receive his first revelation?",
+      "choices": [
+        "Monday",
+        "Sunday",
+        "Wednesday",
+        "Friday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Latter-day Saint (Mormon) tradition encourages family members to gather together on Monday evenings for a specific purpose. What is this weekly family activity called?",
+      "choices": [
+        "Family Home Evening",
+        "Monday Family Night",
+        "Family Assembly",
+        "Weekly Family Meeting"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Jewish tradition, which Hebrew term refers to Monday, literally meaning 'the second day'?",
+      "choices": [
+        "Yom Sheni",
+        "Yom Rishon",
+        "Yom Shishi",
+        "Yom Chamishi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Islamic practice, Muslims are encouraged to fast on both Monday and Thursday. What religious reasoning is traditionally given for fasting on these two days?",
+      "choices": [
+        "They were days of special spiritual significance in Islamic tradition",
+        "They mark the beginning and middle of the week",
+        "They commemorate specific Quranic events",
+        "They align with lunar cycles"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Monday before Mardi Gras, celebrated in New Orleans and other carnival regions, is known by what French name?",
+      "choices": [
+        "Lundi Gras",
+        "Lundi Mardi",
+        "Lundi Carnaval",
+        "Lundi Fête"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Christian Orthodox tradition, the Monday beginning the fasting period before Lent is called by what name?",
+      "choices": [
+        "Clean Monday",
+        "Pure Monday",
+        "Holy Monday",
+        "Fast Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pop-punk band featured the word 'Monday' prominently in their name during the 2000s?",
+      "choices": [
+        "Hey Monday",
+        "Monday Morning",
+        "Blue Monday Band",
+        "Monday Club"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Historically, in medieval European monasteries, which category of food was traditionally avoided on Mondays as part of monastic discipline?",
+      "choices": [
+        "Meat and dairy products",
+        "Bread and grains",
+        "Fruits and vegetables",
+        "Fish and seafood"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Norse mythology, Monday is named after Máni, the deity associated with which celestial body?",
+      "choices": [
+        "The Sun",
+        "The Moon",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Polish word 'poniedziałek' for Monday literally translates to what phrase?",
+      "choices": [
+        "Moon's Day",
+        "After Sunday",
+        "Second Day",
+        "Rest Day"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Jewish tradition, why were Torah readings historically scheduled for both Mondays and Thursdays?",
+      "choices": [
+        "They were considered holy days",
+        "They were market days when people gathered",
+        "They corresponded to temple festivals",
+        "They commemorated biblical events"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Jewish ethnic group observes the practice of fasting on consecutive Mondays as part of their tradition?",
+      "choices": [
+        "Sephardic Jews",
+        "Ashkenazi Jews",
+        "Mizrahi Jews",
+        "Karaite Jews"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Didache, an early Christian text, what practice was discouraged on Mondays to avoid Judaizing?",
+      "choices": [
+        "Eating unleavened bread",
+        "Fasting",
+        "Speaking Hebrew",
+        "Observing the Sabbath"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Vietnamese term 'thứ Hai' for Monday translates to which ordinal description?",
+      "choices": [
+        "First Day",
+        "Second Day",
+        "Third Day",
+        "Moon Day"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Portuguese, Monday is called 'segunda-feira.' What does 'feira' mean in this context?",
+      "choices": [
+        "Moon",
+        "Market",
+        "Fair or weekday",
+        "Day"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the ISO 8601 standard, what numerical position does Monday hold in the week?",
+      "choices": [
+        "Zero",
+        "One",
+        "Two",
+        "Seven"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Hebrew name for Monday in the Jewish calendar?",
+      "choices": [
+        "Yom Rishon",
+        "Yom Sheni",
+        "Yom Shlishi",
+        "Yom Revii"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Islamic practice of fasting on Mondays and Thursdays is considered what type of fast?",
+      "choices": [
+        "Obligatory",
+        "Voluntary",
+        "Compensatory",
+        "Penitential"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Eastern Orthodox Christian tradition, what is the Monday following Easter Sunday called?",
+      "choices": [
+        "Bright Monday",
+        "Holy Monday",
+        "Renewal Monday",
+        "Clean Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Turkish word for Monday, 'Pazartesi,' originally derives from a phrase meaning what?",
+      "choices": [
+        "Moon day",
+        "Market day",
+        "After festival",
+        "Second day"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Polish folk tradition, what is the name of the playful Monday celebration following Easter Sunday?",
+      "choices": [
+        "Wet Monday",
+        "Green Monday",
+        "Blue Monday",
+        "Flower Monday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Latin phrase 'lunae dies,' meaning 'day of the Moon,' is the etymological root for Monday in which modern language?",
+      "choices": [
+        "French",
+        "Spanish",
+        "Italian",
+        "Romanian"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Hindu tradition, what is the Solah Somvar Vrat, a Monday fast, believed to help devotees obtain?",
+      "choices": [
+        "Wealth and prosperity",
+        "Health and longevity",
+        "A suitable marriage partner",
+        "Spiritual enlightenment"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Icelandic word for Monday is 'Mánudagur.' What does 'Mán' refer to in this compound word?",
+      "choices": [
+        "Man",
+        "Moon",
+        "Month",
+        "Mind"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In monastic Christian communities, what categories of food were traditionally avoided on Mondays?",
+      "choices": [
+        "Bread and grains",
+        "Vegetables and fruits",
+        "Meat, dairy, and fish",
+        "Honey and oils"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What 1986 pop song by The Bangles features Monday in its title and describes workplace frustration?",
+      "choices": [
+        "Monday Madness",
+        "Manic Monday",
+        "Blue Monday Blues",
+        "Monday Morning"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Christian liturgical calendar, what is the Monday that marks the beginning of Lent called?",
+      "choices": [
+        "White Monday",
+        "Clean Monday",
+        "Holy Monday",
+        "Ash Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Portuguese term for Monday?",
+      "choices": [
+        "Lunes",
+        "Segunda-feira",
+        "Lunedi",
+        "Mánudagur"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic strip character is famously depicted as despising Mondays?",
+      "choices": [
+        "Charlie Brown",
+        "Garfield",
+        "Dilbert",
+        "Calvin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1986, Prince wrote 'Manic Monday' for which all-female rock band?",
+      "choices": [
+        "The Go-Go's",
+        "The Bangles",
+        "Blondie",
+        "The Pretenders"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major shopping event in the United States occurs on the Monday following Thanksgiving?",
+      "choices": [
+        "Black Friday",
+        "Cyber Monday",
+        "Green Monday",
+        "Super Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Christian calendar, what is the Monday immediately after Easter Sunday called?",
+      "choices": [
+        "Whit Monday",
+        "Easter Monday",
+        "Bright Monday",
+        "Resurrection Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English band of the 1980s has 'Happy' in its name and took its name from the day of the week?",
       "choices": [
         "Happy Mondays",
-        "Monday Knights",
-        "The Mondays",
-        "Mondays Out"
+        "Manic Street Preachers",
+        "New Order",
+        "Depeche Mode"
       ],
       "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Happy Mondays",
-        "verified": true,
-        "notes": "Madchester / dance-rock band fronted by Shaun Ryder."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "On which Monday in 1929 did the U.S. stock market crash, ending the Roaring Twenties?",
+      "q": "In Eastern Orthodox Christianity, what religious practice is traditionally observed on Mondays?",
       "choices": [
-        "Black Monday (October 28, 1929)",
-        "Black Tuesday",
-        "Black Friday",
-        "Black Wednesday"
+        "Silent meditation",
+        "Fasting",
+        "Candlelit processions",
+        "Confession"
       ],
-      "correct": 0,
-      "category": "Mondays",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mondays",
-        "verified": true,
-        "notes": "Followed by Black Tuesday (Oct 29) — the actual crash. Both named in retrospect."
-      }
-    },
-    {
-      "q": "What does the German word for Monday — 'Montag' — literally mean?",
-      "choices": ["Moon day", "Beginning day", "Market day", "Holy day"],
-      "correct": 0,
-      "category": "Mondays",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Montag",
-        "verified": true,
-        "notes": "Mond = Moon."
-      }
-    },
-    {
-      "q": "Which day of the week was Muhammad born and received his first revelation, according to Islamic tradition?",
-      "choices": ["Sunday", "Monday", "Friday", "Saturday"],
       "correct": 1,
-      "category": "Mondays",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Monday",
-        "verified": true,
-        "notes": "Many Muslims fast voluntarily on Mondays for this reason."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which lasagna-loving comic-strip character, created by Jim Davis, made hating Mondays his signature catchphrase?",
-      "choices": ["Heathcliff", "Garfield", "Dilbert", "Cathy"],
-      "correct": 1,
-      "category": "Mondays",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Mondays",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: removed nonsensical 'Office' framing — Garfield is a comic-strip cat, not an Office character. Anti-Monday tirades are his comic-strip staple."
-      }
-    },
-    {
-      "q": "In Spain, what unlucky day-of-week superstition replaces 'Friday the 13th'?",
+      "q": "The etymology of 'Monday' traces back to which language, meaning 'Moon's day'?",
       "choices": [
-        "Monday the 13th",
-        "Tuesday the 13th",
-        "Saturday the 13th",
-        "Sunday the 7th"
+        "Old Norse",
+        "Latin",
+        "Old English",
+        "Germanic"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Hinduism, Monday is dedicated to worshipping which deity?",
+      "choices": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Ganesha"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Hebrew, what is the name for Monday used in Jewish tradition?",
+      "choices": [
+        "Yom Rishon",
+        "Yom Sheni",
+        "Yom Shelishi",
+        "Yom Chamishi"
       ],
       "correct": 1,
-      "category": "Mondays",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mondays",
-        "verified": true,
-        "notes": "'Martes 13' — Tuesday is associated with Mars (god of war). Common in Greek tradition too."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Monday in the Christian calendar marks the beginning of the Lenten season?",
+      "choices": [
+        "Green Monday",
+        "Clean Monday",
+        "Ash Monday",
+        "Pure Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Chinese, how is Monday traditionally referred to?",
+      "choices": [
+        "Moon Day",
+        "First Day",
+        "Day One of the Week",
+        "Silver Day"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the German language, what is the word for Monday?",
+      "choices": [
+        "Montag",
+        "Mondag",
+        "Mondtag",
+        "Mondstag"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Icelandic, what is the term for Monday?",
+      "choices": [
+        "Mánudagur",
+        "Måndagur",
+        "Maunudagur",
+        "Manudur"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient text advises Christian communities against fasting on Mondays to avoid imitating Jewish practices?",
+      "choices": [
+        "The Didache",
+        "The Epistle of Barnabas",
+        "The Shepherd of Hermas",
+        "The Apology of Justin"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Hinduism, what is the practice of fasting on Mondays specifically for marriage prospects called?",
+      "choices": [
+        "Somavāra Vrat",
+        "Solah Somvar Vrat",
+        "Shiva Vrat",
+        "Chandrava Vrat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Sanskrit and related Indo-Aryan languages, what is Monday called?",
+      "choices": [
+        "Chandravāra",
+        "Somavāra",
+        "Lunavāra",
+        "Dinavāra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Latin, the phrase 'lunae dies' directly translates to which day of the week?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Saturday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the ISO 8601 international standard, which day of the week is designated as the first day?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Saturday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Monday that begins the Orthodox Christian fasting period before Easter?",
+      "choices": [
+        "Bright Monday",
+        "Clean Monday",
+        "Holy Monday",
+        "Solemn Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous 1986 song by The Bangles includes 'Monday' in its title and expresses frustration about the start of the week?",
+      "choices": [
+        "Melancholy Monday",
+        "Manic Monday",
+        "Miserable Monday",
+        "Mad Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Japanese, the word 'getsuyōbi' refers to Monday. What celestial body does this term literally reference?",
+      "choices": [
+        "The Sun",
+        "The Moon",
+        "Venus",
+        "Mercury"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What significant shopping event occurs on the Monday immediately following American Thanksgiving?",
+      "choices": [
+        "Black Monday",
+        "Cyber Monday",
+        "Deal Monday",
+        "Sale Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Latter-day Saint tradition, what family-focused activity is encouraged on Monday evenings?",
+      "choices": [
+        "Family Night",
+        "Family Home Evening",
+        "Family Gathering",
+        "Family Worship"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Monday in the Christian calendar immediately follows Easter Sunday?",
+      "choices": [
+        "Renewal Monday",
+        "Easter Monday",
+        "Resurrection Monday",
+        "Victory Monday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Old English, the word 'Monday' derives from a phrase that translates to what?",
+      "choices": [
+        "Moon's Day",
+        "Measure's Day",
+        "Market's Day",
+        "Man's Day"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Hindu deity associated with the moon is traditionally honored through fasting on Mondays during the month of Shravan?",
+      "choices": [
+        "Ganesha",
+        "Shiva",
+        "Brahma",
+        "Vishnu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the specific Monday in January that is often cited as the most psychologically depressing day of the year?",
+      "choices": [
+        "Gray Monday",
+        "Dark Monday",
+        "Blue Monday",
+        "Bleak Monday"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

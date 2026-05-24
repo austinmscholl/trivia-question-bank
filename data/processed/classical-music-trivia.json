@@ -1,169 +1,3032 @@
 {
   "slug": "classical-music-trivia",
   "name": "Classical Music",
-  "description": "Composers, orchestras, and symphonies from Bach to Stravinsky",
-  "processedAt": "2026-04-16T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.473Z",
   "questions": [
     {
-      "q": "Which Russian composer wrote 'The Nutcracker' and 'Swan Lake'?",
-      "choices": ["Rachmaninoff", "Stravinsky", "Tchaikovsky", "Rimsky-Korsakov"],
+      "q": "Wolfgang Amadeus Mozart composed his famous 'Eine kleine Nachtmusik' during which century?",
+      "choices": [
+        "16th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
       "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "easy",
-      "source": { "original_a": "Tchaikovsky", "verified": true, "notes": "Pyotr Ilyich Tchaikovsky (1840-1893). Also wrote the 1812 Overture." }
+      "difficulty": "easy"
     },
     {
-      "q": "Tchaikovsky's '1812 Overture' commemorates Russia's victory against which invading force?",
-      "choices": ["The Ottomans", "Napoleon's army", "The Swedes", "The Mongols"],
-      "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "1812", "verified": true, "notes": "Includes real cannon fire in performances. Commemorates the Battle of Borodino." }
-    },
-    {
-      "q": "Who composed 'The Planets,' a seven-movement orchestral suite with movements named after planets?",
-      "choices": ["Holst", "Elgar", "Vaughan Williams", "Britten"],
+      "q": "Which Italian composer is famous for writing 'The Four Seasons'?",
+      "choices": [
+        "Antonio Vivaldi",
+        "Giuseppe Verdi",
+        "Gioachino Rossini",
+        "Niccolò Paganini"
+      ],
       "correct": 0,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Holst", "verified": true, "notes": "Gustav Holst. Composed 1914-1917. 'Mars, the Bringer of War' is the most famous movement." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Austrian composer wrote 'Requiem' while ill, and died before completing it in 1791?",
-      "choices": ["Joseph Haydn", "Wolfgang Amadeus Mozart", "Franz Schubert", "Gustav Mahler"],
+      "q": "Johann Sebastian Bach was born in which country?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Poland",
+        "Italy"
+      ],
       "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Mozart", "verified": true, "notes": "Completed posthumously by Franz Xaver Süssmayr. Subject of the film 'Amadeus.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "Which nickname was given to Beethoven's famously powerful Piano Concerto No. 5?",
-      "choices": ["Heroic", "Emperor", "Fate", "Moonlight"],
-      "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Emperor", "verified": true, "notes": "Not named by Beethoven. In E-flat major. Premiered 1811." }
+      "q": "In which musical era did composers use dramatic dynamics and emotional intensity, often associated with the 19th century?",
+      "choices": [
+        "Baroque",
+        "Classical",
+        "Romantic",
+        "Modern"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "A standard string quartet consists of how many musicians?",
-      "choices": ["Three", "Four", "Five", "Six"],
-      "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "easy",
-      "source": { "original_a": "4", "verified": true, "notes": "Two violins, one viola, one cello. Pioneered by Haydn." }
-    },
-    {
-      "q": "Which musical term means 'very fast'?",
-      "choices": ["Largo", "Adagio", "Allegro", "Presto"],
+      "q": "Which instrument is NOT typically part of a standard orchestral string section?",
+      "choices": [
+        "Violin",
+        "Viola",
+        "Cello",
+        "Trumpet"
+      ],
       "correct": 3,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Presto", "verified": true, "notes": "Above 168 BPM. 'Prestissimo' is even faster (200+)." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which slow tempo marking means 'broad' or 'slow'?",
-      "choices": ["Allegro", "Andante", "Largo", "Vivace"],
+      "q": "Pyotr Ilyich Tchaikovsky composed 'The Nutcracker' as a ballet for which country?",
+      "choices": [
+        "Germany",
+        "France",
+        "Russia",
+        "Austria"
+      ],
       "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Largo", "verified": true, "notes": "40-60 BPM. Italian for 'broad.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "Which German composer wrote the Ring Cycle operas held at Bayreuth each year?",
-      "choices": ["Schumann", "Wagner", "Brahms", "Strauss"],
+      "q": "What is the typical number of movements in a classical symphony?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ludwig van Beethoven's '5th Symphony' begins with which famous motif?",
+      "choices": [
+        "A soft pianissimo melody",
+        "Four short knocks",
+        "A triumphant brass fanfare",
+        "A delicate violin solo"
+      ],
       "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Wagner", "verified": true, "notes": "Richard Wagner. Bayreuth Festival has been held since 1876." }
+      "difficulty": "easy"
     },
     {
-      "q": "Andrea Bocelli is known primarily as what type of musician?",
-      "choices": ["Jazz pianist", "Opera singer (tenor)", "Violinist", "Orchestra conductor"],
+      "q": "Which famous Austrian composer wrote symphonies nicknamed 'The Clock' and 'Surprise'?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Joseph Haydn",
+        "Antonio Salieri",
+        "Carl Ditters von Dittersdorf"
+      ],
       "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "easy",
-      "source": { "original_a": "Andrea Bocelli", "verified": true, "notes": "Italian tenor, blind since age 12. Known for crossover pop/opera." }
+      "difficulty": "easy"
     },
     {
-      "q": "La Scala, one of the world's most famous opera houses, is located in which city?",
-      "choices": ["Rome", "Venice", "Milan", "Naples"],
+      "q": "Georges Bizet's famous opera 'Carmen' is set in which country?",
+      "choices": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
       "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Milan", "verified": true, "notes": "Opened 1778. Full name: Teatro alla Scala." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the term for singing without any instrumental accompaniment?",
-      "choices": ["Falsetto", "Bel canto", "A cappella", "Canon"],
-      "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "easy",
-      "source": { "original_a": "A Cappella", "verified": true, "notes": "Italian for 'in the style of the chapel.' Originally religious vocal music." }
-    },
-    {
-      "q": "Which of these instruments is NOT part of the string family?",
-      "choices": ["Viola", "Cello", "Clarinet", "Double bass"],
-      "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "easy",
-      "source": { "original_a": "Clarinet", "verified": true, "notes": "Clarinet is a woodwind. Strings include violin, viola, cello, bass, harp, piano (sometimes)." }
-    },
-    {
-      "q": "Prokofiev's 'Peter and the Wolf' introduces children to orchestral instruments by assigning them to what?",
-      "choices": ["Colors", "Characters", "Emotions", "Seasons"],
+      "q": "Which musical term indicates a very slow tempo?",
+      "choices": [
+        "Allegro",
+        "Adagio",
+        "Moderato",
+        "Vivace"
+      ],
       "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Prokofiev", "verified": true, "notes": "The Bird is flute, the Duck is oboe, the Cat is clarinet, the Wolf is horns." }
+      "difficulty": "easy"
     },
     {
-      "q": "The BBC Proms classical music festival is held annually in which city?",
-      "choices": ["Edinburgh", "Manchester", "London", "Birmingham"],
+      "q": "What is the primary instrument that Niccolò Paganini was famous for mastering?",
+      "choices": [
+        "Piano",
+        "Cello",
+        "Violin",
+        "Flute"
+      ],
       "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Proms", "verified": true, "notes": "Held at Royal Albert Hall. Founded 1895 by Henry Wood. 'Last Night of the Proms' is the famous finale." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who composed the Italian opera 'The Barber of Seville'?",
-      "choices": ["Verdi", "Puccini", "Rossini", "Bellini"],
+      "q": "Gioachino Rossini's 'The Barber of Seville' is composed in which musical form?",
+      "choices": [
+        "Symphony",
+        "Concerto",
+        "Opera",
+        "Sonata"
+      ],
       "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Mozart", "verified": true, "notes": "Gioachino Rossini, 1816. Famous 'Figaro' aria. Popularized in Bugs Bunny cartoons." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Baroque composer's most famous work is 'The Four Seasons'?",
-      "choices": ["Bach", "Handel", "Vivaldi", "Corelli"],
-      "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "easy",
-      "source": { "original_a": "Prokofiev", "verified": true, "notes": "Antonio Vivaldi (1678-1741). Four violin concertos, one per season." }
-    },
-    {
-      "q": "Who composed 'Pictures at an Exhibition,' later orchestrated by Ravel?",
-      "choices": ["Rachmaninoff", "Mussorgsky", "Scriabin", "Glinka"],
+      "q": "Felix Mendelssohn composed 'A Midsummer Night's Dream' overture based on a work by which author?",
+      "choices": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson",
+        "Edmund Spenser"
+      ],
       "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "hard",
-      "source": { "original_a": "Tchaikovsky", "verified": true, "notes": "Modest Mussorgsky, 1874. Originally for piano. Inspired by paintings by Viktor Hartmann." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which composer wrote the 'Pastoral' Symphony (No. 6)?",
-      "choices": ["Mozart", "Beethoven", "Mahler", "Brahms"],
-      "correct": 1,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Wagner", "verified": true, "notes": "Premiered 1808. Depicts rural countryside scenes. Most famous for evoking a storm." }
-    },
-    {
-      "q": "Which American composer wrote 'Rhapsody in Blue,' blending jazz and classical music?",
-      "choices": ["Aaron Copland", "Leonard Bernstein", "George Gershwin", "John Adams"],
+      "q": "A concerto typically features a solo instrument accompanied by which ensemble?",
+      "choices": [
+        "String quartet",
+        "Chamber ensemble",
+        "Orchestra",
+        "Piano trio"
+      ],
       "correct": 2,
-      "category": "Classical Music",
-      "difficulty": "medium",
-      "source": { "original_a": "Adams", "verified": true, "notes": "Composed 1924. Famous opening clarinet glissando. Also wrote 'An American in Paris.'" }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Frédéric Chopin was born in which country?",
+      "choices": [
+        "France",
+        "Poland",
+        "Austria",
+        "Russia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which musical form typically consists of multiple short, contrasting pieces without a narrative?",
+      "choices": [
+        "Opera",
+        "Suite",
+        "Concerto",
+        "Requiem"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Gustav Holst's orchestral suite 'The Planets' includes movements named after celestial bodies. Which planet movement concludes the piece?",
+      "choices": [
+        "Mars",
+        "Saturn",
+        "Neptune",
+        "Jupiter"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Richard Wagner was a composer primarily associated with which country?",
+      "choices": [
+        "Italy",
+        "France",
+        "Germany",
+        "Austria"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which stringed instrument did virtuoso Itzhak Perlman famously master and perform throughout his career?",
+      "choices": [
+        "Violin",
+        "Cello",
+        "Viola",
+        "Harp"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the musical term for a slow, leisurely tempo?",
+      "choices": [
+        "Allegro",
+        "Largo",
+        "Presto",
+        "Moderato"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer wrote 'The Thieving Magpie Overture'?",
+      "choices": [
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Wolfgang Mozart",
+        "Ludwig van Beethoven"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Beethoven's famous 'Emperor' concerto is a concerto for which instrument?",
+      "choices": [
+        "Violin",
+        "Cello",
+        "Piano",
+        "Horn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes singing performed with no instrumental accompaniment?",
+      "choices": [
+        "A Cappella",
+        "Solo",
+        "Acapulco",
+        "Cantata"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which era of music history is characterized by powdered wigs and the birth of the symphony?",
+      "choices": [
+        "Medieval",
+        "Renaissance",
+        "Classical",
+        "Romantic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century did Johann Sebastian Bach compose the Brandenburg Concertos?",
+      "choices": [
+        "16th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Beethoven's only opera, centered on themes of freedom and rescue?",
+      "choices": [
+        "Don Giovanni",
+        "The Magic Flute",
+        "Fidelio",
+        "La Traviata"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ballet by Prokofiev transforms Shakespeare's tragic romance into an orchestral masterpiece?",
+      "choices": [
+        "Swan Lake",
+        "The Nutcracker",
+        "Romeo and Juliet",
+        "Sleeping Beauty"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer is famous for writing 'The Damnation of Faust' and pioneering Romanticism in orchestral music?",
+      "choices": [
+        "Hector Berlioz",
+        "Felix Mendelssohn",
+        "Pyotr Ilyich Tchaikovsky",
+        "Georges Bizet"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Johann Strauss II is celebrated for composing famous pieces in which dance style?",
+      "choices": [
+        "Tango",
+        "Waltz",
+        "Polka",
+        "Quadrille"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which female vocal range is the lowest among soprano, mezzo-soprano, and contralto?",
+      "choices": [
+        "Soprano",
+        "Mezzo-soprano",
+        "Contralto",
+        "Alto"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical composition by Bach is known as 'Air on a G String'?",
+      "choices": [
+        "A fugue",
+        "A prelude",
+        "An aria from the Orchestral Suite No. 3",
+        "A concerto"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city does the annual Wagner festival 'Bayreuth Festival' take place?",
+      "choices": [
+        "Vienna",
+        "Berlin",
+        "Bayreuth",
+        "Munich"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Gioachino Rossini's opera 'The Elixir of Love' features what as a central plot element?",
+      "choices": [
+        "A stolen gemstone",
+        "A fake love potion",
+        "A lost letter",
+        "A magical sword"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Romantic composer is known for his emotionally intense piano etudes and nocturnes?",
+      "choices": [
+        "Frédéric Chopin",
+        "Ludwig van Beethoven",
+        "Robert Schumann",
+        "Franz Liszt"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British Baroque composer of the 17th century is famous for his operas and church music?",
+      "choices": [
+        "Henry Purcell",
+        "William Byrd",
+        "Orlando Gibbons",
+        "John Taverner"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Saint-Saëns composed 'Danse Macabre,' a piece that evokes imagery of which supernatural event?",
+      "choices": [
+        "A witch's gathering",
+        "A skeleton dance at midnight",
+        "A ghost's lament",
+        "A vampire's awakening"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In classical music terminology, what does the Italian word 'Allegro' indicate about the tempo?",
+      "choices": [
+        "Very slowly",
+        "Fast and lively",
+        "Moderately",
+        "Gradually slowing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous composer created the 1812 Overture, complete with cannon fire?",
+      "choices": [
+        "Berlioz",
+        "Tchaikovsky",
+        "Rimsky-Korsakov",
+        "Borodin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of a musical composition written for four string instruments?",
+      "choices": [
+        "Quintet",
+        "String quartet",
+        "Quartet sonata",
+        "Trio"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "La Scala, one of the world's most prestigious opera houses, is located in which Italian city?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Milan",
+        "Naples"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classical era is characterized by the use of powdered wigs and ornate, elaborate musical forms?",
+      "choices": [
+        "Romantic",
+        "Baroque",
+        "Classical",
+        "Modern"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'pizzicato' mean when applied to string instruments?",
+      "choices": [
+        "Playing with a bow",
+        "Plucking the strings",
+        "Using a mute",
+        "Playing harmonics"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer wrote 'Fidelio,' an opera about freedom and political resistance?",
+      "choices": [
+        "Mozart",
+        "Beethoven",
+        "Haydn",
+        "Salieri"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did Johann Sebastian Bach compose most of his famous works?",
+      "choices": [
+        "16th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'a cappella' singing refer to?",
+      "choices": [
+        "Singing in a church",
+        "Singing with orchestral backing",
+        "Singing without instrumental accompaniment",
+        "Singing in Italian"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which romantic-era composer is famous for his emotional piano compositions, including his Nocturnes?",
+      "choices": [
+        "Liszt",
+        "Chopin",
+        "Brahms",
+        "Schumann"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Maurice Ravel's famous orchestral work known for its gradual, hypnotic build?",
+      "choices": [
+        "Daphnis et Chloé",
+        "Boléro",
+        "La Valse",
+        "Rhapsodie Espagnole"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous conductor and composer founded the Promenade Concerts (the Proms) in London?",
+      "choices": [
+        "Sir Adrian Boult",
+        "Sir Henry Wood",
+        "Sir Malcolm Sargent",
+        "Sir Thomas Beecham"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the musical term 'fortissimo' mean?",
+      "choices": [
+        "Moderately loud",
+        "Very softly",
+        "Very loudly",
+        "Gradually getting louder"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which musical instrument family does the violin belong?",
+      "choices": [
+        "Woodwind",
+        "Brass",
+        "Percussion",
+        "String"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer wrote 'The Magic Flute,' an opera featuring the character Papageno?",
+      "choices": [
+        "Rossini",
+        "Mozart",
+        "Weber",
+        "Gluck"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical form features a principal theme that returns repeatedly throughout the piece?",
+      "choices": [
+        "Sonata",
+        "Rondo",
+        "Fugue",
+        "Nocturne"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous waltz composer is known as the 'Waltz King'?",
+      "choices": [
+        "Brahms",
+        "Strauss II",
+        "Strauss I",
+        "Delibes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the musical notation 'pp' indicate about the volume?",
+      "choices": [
+        "Fairly loud",
+        "Very soft",
+        "Moderately loud",
+        "Medium volume"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a large instrumental work typically consisting of four movements?",
+      "choices": [
+        "Concerto",
+        "Symphony",
+        "Overture",
+        "Prelude"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian city is famous for its grand opera house La Scala, where the world's most prestigious singers perform?",
+      "choices": [
+        "Venice",
+        "Milan",
+        "Rome",
+        "Naples"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical term instructs performers to play at a fast, lively tempo?",
+      "choices": [
+        "Largo",
+        "Presto",
+        "Andante",
+        "Moderato"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In a classical music concert, a cadenza is a solo passage performed by how many musicians?",
+      "choices": [
+        "Two",
+        "Three",
+        "One",
+        "Four"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Puccini opera tells the tragic love story of a young seamstress in Paris?",
+      "choices": [
+        "Tosca",
+        "La Bohème",
+        "Madama Butterfly",
+        "Turandot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Tchaikovsky's famous ballet that depicts a group of swans?",
+      "choices": [
+        "The Nutcracker",
+        "Swan Lake",
+        "Sleeping Beauty",
+        "Giselle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dvořák's 'New World Symphony' was inspired by his time in which country?",
+      "choices": [
+        "Canada",
+        "Brazil",
+        "United States",
+        "Argentina"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Beethoven piano composition earned the nickname 'Emperor'?",
+      "choices": [
+        "Moonlight Sonata",
+        "Pathétique Sonata",
+        "Piano Concerto No. 5",
+        "Waldstein Sonata"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Carl Orff composed which famous choral work that features the opening 'O Fortuna'?",
+      "choices": [
+        "Carmina Burana",
+        "Gloria",
+        "Requiem",
+        "Stabat Mater"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer is credited with writing 'Boléro,' a piece famous for its gradual rhythmic buildup?",
+      "choices": [
+        "Debussy",
+        "Satie",
+        "Ravel",
+        "Fauré"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical era preceded the Classical period and featured composers like Bach and Vivaldi?",
+      "choices": [
+        "Medieval",
+        "Renaissance",
+        "Baroque",
+        "Romantic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many string instruments typically form a standard string quartet?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Finnish composer wrote 'Finlandia,' a tone poem that became an unofficial national anthem?",
+      "choices": [
+        "Grieg",
+        "Sibelius",
+        "Nielsen",
+        "Smetana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical term instructs performers to play in a slow, gentle manner?",
+      "choices": [
+        "Presto",
+        "Allegro",
+        "Largo",
+        "Vivace"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Mozart's symphony naming convention, which planet gave its name to his final symphony?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Venus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer wrote 'The Planets,' an orchestral suite representing the solar system?",
+      "choices": [
+        "Strauss",
+        "Holst",
+        "Elgar",
+        "Delius"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the highest male singing voice in classical opera?",
+      "choices": [
+        "Baritone",
+        "Tenor",
+        "Countertenor",
+        "Bass"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which opera by Mozart features a magical flute as a central element of the story?",
+      "choices": [
+        "Don Giovanni",
+        "The Magic Flute",
+        "Così fan tutte",
+        "The Marriage of Figaro"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'The Elixir of Love,' what fraudulent product does the main character attempt to sell?",
+      "choices": [
+        "A fake cure",
+        "A love potion",
+        "A magic elixir",
+        "A youth serum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many strings does a standard double bass typically have?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which century did Dmitri Shostakovich create most of his symphonic masterpieces?",
+      "choices": [
+        "19th century",
+        "20th century",
+        "18th century",
+        "21st century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which composer wrote the famous 'Wedding March' that became the traditional processional music for weddings?",
+      "choices": [
+        "Felix Mendelssohn",
+        "Richard Wagner",
+        "Johann Strauss II",
+        "Giuseppe Verdi"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In operatic voice types, what is the lowest female voice classification?",
+      "choices": [
+        "Soprano",
+        "Mezzo-soprano",
+        "Contralto",
+        "Baritone"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Wolfgang Amadeus Mozart was born in which European city?",
+      "choices": [
+        "Vienna, Austria",
+        "Salzburg, Austria",
+        "Prague, Czech Republic",
+        "Venice, Italy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the standard number of musicians in a traditional string quartet?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which orchestral work by Pyotr Ilyich Tchaikovsky is famous for its cannon and church bells in the finale?",
+      "choices": [
+        "Swan Lake",
+        "The Nutcracker",
+        "1812 Overture",
+        "Romeo and Juliet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "During which musical era did Johann Sebastian Bach compose most of his works?",
+      "choices": [
+        "Renaissance",
+        "Baroque",
+        "Classical",
+        "Romantic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the opera house in Milan, Italy, famous for hosting world-class opera performances?",
+      "choices": [
+        "La Fenice",
+        "La Scala",
+        "Teatro Regio",
+        "Palais Garnier"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which instrument did Pablo Casals famously master and help revive in the 20th century?",
+      "choices": [
+        "Violin",
+        "Piano",
+        "Cello",
+        "Viola"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "George Frideric Handel received significant royal patronage from which British monarch?",
+      "choices": [
+        "King George I",
+        "Queen Victoria",
+        "King Charles II",
+        "Queen Anne"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the great Russian composer Sergei Rachmaninov retire from performing as a concert pianist?",
+      "choices": [
+        "1920",
+        "1935",
+        "1943",
+        "1950"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Romantic-era composer wrote 'Finlandia,' a patriotic symphonic poem inspired by his native country?",
+      "choices": [
+        "Edvard Grieg",
+        "Jean Sibelius",
+        "Antonín Dvořák",
+        "Bedřich Smetana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical technique involves shifting from one key to another within a composition?",
+      "choices": [
+        "Transposition",
+        "Modulation",
+        "Cadence",
+        "Ostinato"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Gilbert and Sullivan operetta features the character of a pirate king?",
+      "choices": [
+        "H.M.S. Pinafore",
+        "The Pirates of Penzance",
+        "The Mikado",
+        "The Gondoliers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Schoenberg's twelve-tone technique, which revolutionized 20th-century composition, is also known by which German term?",
+      "choices": [
+        "Serialism",
+        "Dodecaphony",
+        "Tonalismus",
+        "Klangfarbenmelodie"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baroque composer wrote the 'Stabat Mater,' a deeply moving setting of the Latin hymn about the suffering Virgin Mary?",
+      "choices": [
+        "Georg Friedrich Händel",
+        "Giovanni Pergolesi",
+        "Antonio Vivaldi",
+        "Jean-Philippe Rameau"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Brahms' Hungarian Dances were based on melodies from which geographic region, though not necessarily Hungarian in origin?",
+      "choices": [
+        "Transylvania",
+        "The Balkans and Eastern European folk traditions",
+        "The Carpathian Mountains",
+        "The Austrian Empire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In sonata form, the section that develops and recombines themes from the exposition is called what?",
+      "choices": [
+        "Recapitulation",
+        "Development",
+        "Coda",
+        "Transition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ravel's 'Bolero' repeats a single theme continuously while increasing in orchestral density and which other musical element?",
+      "choices": [
+        "Harmonic modulation",
+        "Dynamics",
+        "Rhythmic complexity",
+        "Melodic ornamentation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian composer's 'Pictures at an Exhibition' was originally written for solo piano before Ravel orchestrated it?",
+      "choices": [
+        "Nikolai Rimsky-Korsakov",
+        "Modest Mussorgsky",
+        "Pyotr Ilyich Tchaikovsky",
+        "Alexander Borodin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Debussy's 'Prélude à l'après-midi d'un faune' was inspired by a poem by which French Symbolist writer?",
+      "choices": [
+        "Charles Baudelaire",
+        "Stéphane Mallarmé",
+        "Paul Verlaine",
+        "Arthur Rimbaud"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary compositional technique used in Ligeti's 'Atmosphères,' characterized by dense, shifting clouds of sound?",
+      "choices": [
+        "Minimalism",
+        "Micropolyphony",
+        "Serialism",
+        "Aleatoric music"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Haydn's 'Surprise' Symphony (No. 94) features a sudden loud chord in which movement to startle the listener?",
+      "choices": [
+        "First movement",
+        "Second movement",
+        "Third movement",
+        "Fourth movement"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Classical-era composer wrote 'A Musical Joke' (K. 522), a work that deliberately incorporates compositional errors and awkward passages?",
+      "choices": [
+        "Joseph Haydn",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Carl Philipp Emanuel Bach"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Paganini's Caprice No. 24 in A minor is considered one of the most technically difficult works ever written for which instrument?",
+      "choices": [
+        "Cello",
+        "Violin",
+        "Piano",
+        "Flute"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Medieval music theory, what is the name of the four-line staff used before the modern five-line staff became standard?",
+      "choices": [
+        "Tetrachord",
+        "Tetragram",
+        "Tetraline",
+        "Tetralis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Stockhausen's 'Licht' is a cycle of seven operas, one for each day of the week. How many hours of music does the complete cycle contain?",
+      "choices": [
+        "Approximately 15 hours",
+        "Approximately 29 hours",
+        "Approximately 45 hours",
+        "Approximately 60 hours"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English composer's 'The Young Person's Guide to the Orchestra' introduces orchestral instruments through variations on a theme by Purcell?",
+      "choices": [
+        "Ralph Vaughan Williams",
+        "Benjamin Britten",
+        "Edward Elgar",
+        "Gustav Holst"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Shostakovich's String Quartet No. 8 is subtitled 'To the Victims of Fascism' and incorporates a musical motto based on whose name?",
+      "choices": [
+        "Beethoven",
+        "Shostakovich himself",
+        "Wagner",
+        "Brahms"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Baroque music, a 'ground bass' refers to which compositional technique?",
+      "choices": [
+        "A bass line that repeats continuously while upper voices vary",
+        "The lowest note in a chord progression",
+        "A bass solo without accompaniment",
+        "A technique for transposing pieces downward"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Alban Berg's opera 'Wozzeck' is structured as how many scenes divided into three acts?",
+      "choices": [
+        "15 scenes",
+        "17 scenes",
+        "21 scenes",
+        "25 scenes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the 'Carmina Burana' settings that have become ubiquitous in film trailers and sporting events?",
+      "choices": [
+        "Richard Strauss",
+        "Carl Orff",
+        "Paul Hindemith",
+        "Ernst Krenek"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In counterpoint, when two melodic lines move in opposite directions simultaneously, this is called what?",
+      "choices": [
+        "Parallel motion",
+        "Oblique motion",
+        "Contrary motion",
+        "Similar motion"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bartók's 'Mikrokosmos' is a pedagogical collection of piano pieces arranged by increasing difficulty. Approximately how many pieces does it contain?",
+      "choices": [
+        "78 pieces",
+        "106 pieces",
+        "153 pieces",
+        "200 pieces"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Pyotr Ilyich Tchaikovsky premiere his ballet 'Swan Lake' at the Bolshoi Theatre?",
+      "choices": [
+        "1875",
+        "1877",
+        "1876",
+        "1878"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French composer's symphonic poem 'La Mer' is structured in three movements depicting different aspects of the sea?",
+      "choices": [
+        "Gabriel Fauré",
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Erik Satie"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Italian term for the technique of playing a stringed instrument by plucking the strings with the fingers rather than using a bow?",
+      "choices": [
+        "Arco",
+        "Pizzicato",
+        "Vibrato",
+        "Tremolo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Anton Bruckner's symphonic output, how many numbered symphonies did he complete during his lifetime?",
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baroque composer wrote the 'Brandenburg Concertos,' a set of six instrumental concertos dedicated to the Margrave of Brandenburg?",
+      "choices": [
+        "George Frideric Handel",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "Jean-Philippe Rameau"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Alban Berg's opera that premiered in 1935 and features a disturbed soldier as its protagonist?",
+      "choices": [
+        "Lulu",
+        "Wozzeck",
+        "Licht",
+        "Moses und Aron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which key did Ludwig van Beethoven compose his Moonlight Sonata?",
+      "choices": [
+        "C-sharp minor",
+        "A minor",
+        "D minor",
+        "F minor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian composer's 'Pictures at an Exhibition' was originally written for solo piano before being orchestrated by Maurice Ravel?",
+      "choices": [
+        "Nikolai Rimsky-Korsakov",
+        "Modest Mussorgsky",
+        "Alexander Borodin",
+        "César Cui"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What structural form does Richard Wagner employ throughout his opera 'Tristan und Isolde' to create thematic development?",
+      "choices": [
+        "Rondo form",
+        "Leitmotif",
+        "Sonata form",
+        "Theme and variations"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which century did the classical music form known as the string quartet achieve its definitive four-movement structure?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer's 'Requiem in D minor' was left incomplete at his death and completed by his student Franz Xaver Süssmayr?",
+      "choices": [
+        "Joseph Haydn",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Antonio Salieri"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum number of string players required to perform a traditional string quartet?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city did Johannes Brahms spend the majority of his adult compositional career?",
+      "choices": [
+        "Berlin",
+        "Vienna",
+        "Prague",
+        "Leipzig"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composition by John Philip Sousa, a march written in 1896, became known as 'The King of Marches'?",
+      "choices": [
+        "Semper Fidelis",
+        "The Stars and Stripes Forever",
+        "El Capitan",
+        "The Washington Post"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term describes a composition that is written for a soloist accompanied by an orchestra?",
+      "choices": [
+        "Concerto",
+        "Symphony",
+        "Rhapsody",
+        "Prelude"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Giacomo Puccini's opera 'La bohème,' which character is a seamstress living in poverty in Paris?",
+      "choices": [
+        "Musetta",
+        "Mimì",
+        "Marcello",
+        "Rodolfo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baroque composer created a substantial body of harpsichord works and is known for his 'Goldberg Variations'?",
+      "choices": [
+        "Georg Friedrich Händel",
+        "Domenico Scarlatti",
+        "Johann Sebastian Bach",
+        "François Couperin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional three-movement fast-slow-fast structure known as in classical symphonies?",
+      "choices": [
+        "Exposition-Development-Recapitulation",
+        "Allegro-Adagio-Presto",
+        "Sonata-Rondo-Minuet",
+        "Tonic-Dominant-Tonic"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Georg Friedrich Händel's famous baroque composition, which instruments dominate the 'Water Music' suite?",
+      "choices": [
+        "Woodwinds and percussion",
+        "Strings and continuo",
+        "Brass and timpani",
+        "Solo harpsichord"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Czech composer wrote 'Má vlast' (My Homeland), a cycle of six symphonic poems celebrating Czech national identity?",
+      "choices": [
+        "Antonín Dvořák",
+        "Bedřich Smetana",
+        "Leoš Janáček",
+        "Otakar Ostrčil"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Schoenberg's twelve-tone technique, what is the foundational arrangement of all twelve chromatic pitches called?",
+      "choices": [
+        "Tone row",
+        "Pitch matrix",
+        "Serial set",
+        "Chromatic sequence"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Brahms symphony is commonly known as his 'Pastoral' or 'Spring' symphony, despite his own reluctance to assign such titles?",
+      "choices": [
+        "Symphony No. 1 in C minor",
+        "Symphony No. 2 in D major",
+        "Symphony No. 3 in F major",
+        "Symphony No. 4 in E minor"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Shostakovich composed his String Quartet No. 8 in memory of which tragic historical event?",
+      "choices": [
+        "The German bombing of Dresden",
+        "The Russian Revolution",
+        "The Siege of Leningrad",
+        "The fall of the Berlin Wall"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In sonata form, the section where themes from the exposition are developed and fragmented is called what?",
+      "choices": [
+        "Recapitulation",
+        "Development",
+        "Coda",
+        "Transition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Haydn's 'Surprise' Symphony earned its nickname because of an unexpected loud chord that appears in which movement?",
+      "choices": [
+        "First movement",
+        "Second movement",
+        "Third movement",
+        "Fourth movement"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Liszt composition, written as a response to the 1848 Hungarian Revolution, depicts a military execution?",
+      "choices": [
+        "Les Préludes",
+        "Héroïde funèbre",
+        "Hungaria",
+        "Mazeppa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Stravinsky's 'The Rite of Spring' premiere, causing its infamous riot in Paris?",
+      "choices": [
+        "1909",
+        "1911",
+        "1913",
+        "1915"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Messiaen's concept of 'modes of limited transposition' allowed a mode to repeat after how many transpositions?",
+      "choices": [
+        "3 or fewer",
+        "4 or fewer",
+        "5 or fewer",
+        "6 or fewer"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Bach keyboard work uses a theme that can be read forwards and backwards with the same musical meaning?",
+      "choices": [
+        "The Art of Fugue",
+        "The Well-Tempered Clavier",
+        "The Goldberg Variations",
+        "The English Suites"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mahler's Symphony No. 2 incorporates a text from which German poet in its final movement?",
+      "choices": [
+        "Friedrich Klopstock",
+        "Johann Wolfgang von Goethe",
+        "Heinrich Heine",
+        "Rainer Maria Rilke"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Ravel's 'Boléro,' the ostinato pattern repeats approximately how many times throughout the entire composition?",
+      "choices": [
+        "18 times",
+        "24 times",
+        "32 times",
+        "40 times"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Verdi opera features the famous 'Libiamo ne' lieti calici' drinking song in the first act?",
+      "choices": [
+        "La Traviata",
+        "Rigoletto",
+        "Il Trovatore",
+        "Don Carlos"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Berg's opera 'Wozzeck' is structured around how many distinct scenes across its three acts?",
+      "choices": [
+        "13 scenes",
+        "15 scenes",
+        "18 scenes",
+        "21 scenes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bartók's 'Mikrokosmos' was designed as a pedagogical work progressing through how many progressive volumes?",
+      "choices": [
+        "4 volumes",
+        "5 volumes",
+        "6 volumes",
+        "7 volumes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Scarlatti's harpsichord sonatas, the binary form typically features how many main sections?",
+      "choices": [
+        "One repeated section",
+        "Two contrasting sections",
+        "Three interlocking sections",
+        "Four modulating sections"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Dvořák chamber work is subtitled 'American' and incorporates influences from African American spirituals?",
+      "choices": [
+        "Piano Quartet No. 1",
+        "String Quartet No. 12",
+        "Piano Quintet in A major",
+        "String Quartet No. 14 in A flat major"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Webern's Five Orchestral Pieces are notable for employing which compositional principle of extreme economy?",
+      "choices": [
+        "Serialism exclusively",
+        "Klangfarbenmelodie (tone-color melody)",
+        "Diatonic harmony",
+        "Aleatory composition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Russian city did Dmitri Shostakovich premiere his Symphony No. 7, nicknamed the 'Leningrad'?",
+      "choices": [
+        "Moscow",
+        "Leningrad (St. Petersburg)",
+        "Novosibirsk",
+        "Kuibyshev"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hindemith's 'Mathis der Maler' symphony is based on a painting cycle by which Renaissance artist?",
+      "choices": [
+        "Albrecht Dürer",
+        "Matthias Grünewald",
+        "Hans Burgkmair",
+        "Jörg Ratgeb"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Smetana's tone poem 'The Moldau' depicts the course of a river using which compositional technique?",
+      "choices": [
+        "Leitmotif transformation",
+        "Programmatic key modulation",
+        "Orchestral imitation of natural sounds",
+        "Thematic evolution through development"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer's Sinfonia Domestica autobiographically depicts a day in his family life, including a quarrel between husband and wife?",
+      "choices": [
+        "Richard Strauss",
+        "Gustav Mahler",
+        "Arnold Schoenberg",
+        "Alban Berg"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Schoenberg's twelve-tone technique, how many different pitch classes must appear before any pitch class can be repeated?",
+      "choices": [
+        "Six",
+        "Eight",
+        "Twelve",
+        "Twenty-four"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ballet by Igor Stravinsky caused a riot at its 1913 Paris premiere due to its revolutionary rhythmic complexity?",
+      "choices": [
+        "Petrushka",
+        "The Rite of Spring",
+        "Orpheus",
+        "Apollo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Carlo Gesualdo, the Renaissance composer, is also infamous for what violent crime committed against his wife?",
+      "choices": [
+        "Poisoning",
+        "Stabbing",
+        "Mutilation and murder",
+        "Imprisonment"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Polish composer and pianist's Op. 10, No. 4 Étude in C-sharp minor is known for its 'Torrent of Notes'?",
+      "choices": [
+        "Frédéric Chopin",
+        "Ignacy Jan Paderewski",
+        "Karol Szymanowski",
+        "Witold Lutosławski"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the experimental composition where John Cage instructed performers not to play their instruments for 4 minutes and 33 seconds?",
+      "choices": [
+        "Silence",
+        "4'33\"",
+        "Empty Gesture",
+        "The Void"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Messiaen's system of modes of limited transposition, how many of these special modes exist?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Eight",
+        "Ten"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which baroque composer wrote over 500 church cantatas, many containing solo arias with obligato instrumental parts?",
+      "choices": [
+        "Georg Friedrich Händel",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "Georg Philipp Telemann"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific mathematical relationship defines the harmonic series that natural horn players rely upon before valves were invented?",
+      "choices": [
+        "Fibonacci sequence",
+        "Integer multiples of a fundamental frequency",
+        "Golden ratio proportions",
+        "Logarithmic intervals"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dmitri Shostakovich dedicated his String Quartet No. 8 to the victims of which historical event?",
+      "choices": [
+        "The Siege of Leningrad",
+        "Fascism",
+        "Victims of Nazi terror",
+        "The Holocaust"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which early keyboard instrument, consisting of plucked strings inside a box, was a predecessor to the piano?",
+      "choices": [
+        "Virginal",
+        "Harpsichord",
+        "Clavichord",
+        "Fortepiano"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arnold Schoenberg's Pierrot Lunaire employs what vocal technique where the singer speaks rhythmically on specific pitches?",
+      "choices": [
+        "Falsetto",
+        "Sprechgesang",
+        "Vibrato",
+        "Tremolo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In sonata form, the section that restates the first and second themes in the tonic key is called what?",
+      "choices": [
+        "Exposition",
+        "Development",
+        "Recapitulation",
+        "Coda"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer's Metastasis for 61 musicians explores sound masses and glissandi as primary compositional elements?",
+      "choices": [
+        "Karlheinz Stockhausen",
+        "Iannis Xenakis",
+        "Pierre Schaeffer",
+        "Bruno Maderna"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the conventional tuning interval between adjacent strings on a standard modern violin?",
+      "choices": [
+        "Major third",
+        "Perfect fourth",
+        "Perfect fifth",
+        "Major sixth"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Henri Dutilleux's Mystère de l'Instant explores timbre and orchestration techniques often referred to as what?",
+      "choices": [
+        "Spectral harmony",
+        "Tone color",
+        "Sonorism",
+        "Orchestration science"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian Imperial choirmaster composed the Liturgy of St. John Chrysostom, a cornerstone of Eastern Orthodox sacred music?",
+      "choices": [
+        "Alexander Gretchaninov",
+        "Nikolai Rimsky-Korsakov",
+        "Pyotr Ilyich Tchaikovsky",
+        "Mily Balakirev"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Baroque era, what ornamental baroque technique involves rapidly alternating between a note and the note above it?",
+      "choices": [
+        "Mordent",
+        "Trill",
+        "Turn",
+        "Appoggiatura"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which minimalist composer employed phase shifting techniques where musical patterns gradually shift out of sync with each other?",
+      "choices": [
+        "Philip Glass",
+        "Steve Reich",
+        "John Adams",
+        "Arvo Pärt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gérard Grisey's Partiels is based on the harmonic spectrum of which instrument's fundamental tone?",
+      "choices": [
+        "French horn",
+        "Trombone",
+        "Cello",
+        "Tam-tam (gong)"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which key did Schoenberg compose his revolutionary twelve-tone work 'A Survivor from Warsaw'?",
+      "choices": [
+        "B-flat minor",
+        "D minor",
+        "No fixed key (twelve-tone technique)",
+        "C major"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baroque composer wrote the 'Six Brandenburg Concertos' as a demonstration of compositional mastery?",
+      "choices": [
+        "Georg Friedrich Händel",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "Arcangelo Corelli"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mahler's Tenth Symphony was left incomplete at his death. Which composer completed the orchestration based on Mahler's sketches?",
+      "choices": [
+        "Arnold Schoenberg",
+        "Deryck Cooke",
+        "Bruno Walter",
+        "Alban Berg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Stravinsky's 'The Rite of Spring', the final section depicting a pagan sacrifice is titled what?",
+      "choices": [
+        "The Glorification of the Chosen One",
+        "Sacrificial Dance (The Chosen One)",
+        "The Great Awakening",
+        "Dance of the Earth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian opera composer is best known for writing 'La Traviata' and 'Rigoletto'?",
+      "choices": [
+        "Gioachino Rossini",
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Gaetano Donizetti"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Berg's opera 'Wozzeck' is based on a play by which German dramatist?",
+      "choices": [
+        "Friedrich Schiller",
+        "Georg Büchner",
+        "Johann Wolfgang von Goethe",
+        "Heinrich von Kleist"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Ligeti compose 'Atmosphères', the haunting orchestral work used in the film '2001: A Space Odyssey'?",
+      "choices": [
+        "1959",
+        "1961",
+        "1966",
+        "1968"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Messiaen's 'Catalogue d'oiseaux' is a collection of piano pieces based on what natural subject?",
+      "choices": [
+        "Bird songs and calls",
+        "Forest soundscapes",
+        "Weather patterns",
+        "Insect rhythms"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Classical-era composer wrote a famous 'Requiem' in D minor that remained incomplete at his death?",
+      "choices": [
+        "Joseph Haydn",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Antonio Salieri"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bartók's 'Concerto for Orchestra' was commissioned by which American orchestra in 1943?",
+      "choices": [
+        "New York Philharmonic",
+        "Boston Symphony Orchestra",
+        "Chicago Symphony Orchestra",
+        "Philadelphia Orchestra"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city did Rossini premiere his opera 'The Barber of Seville' in 1816?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Milan",
+        "Naples"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Webern's 'Five Pieces for Orchestra' exemplifies which compositional technique characterized by extreme brevity and sparse orchestration?",
+      "choices": [
+        "Minimalism",
+        "Pointillism",
+        "Serialism",
+        "Impressionism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which key did Shostakovich compose his String Quartet No. 8, a work he dedicated to the victims of fascism and war?",
+      "choices": [
+        "C minor",
+        "D minor",
+        "E minor",
+        "F minor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Romantic-era composer is famous for writing a symphony that incorporates the 'Ode to Joy' text in its final movement?",
+      "choices": [
+        "Johannes Brahms",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Hector Berlioz"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Italian opera house in Milan where many of Verdi's most famous operas premiered?",
+      "choices": [
+        "La Fenice",
+        "La Scala",
+        "Teatro dell'Opera",
+        "Teatro Regio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Baroque composer wrote 'The Four Seasons,' a series of four violin concertos representing each time of year?",
+      "choices": [
+        "Georg Friedrich Händel",
+        "Antonio Vivaldi",
+        "Jean-Baptiste Lully",
+        "Arcangelo Corelli"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did Wolfgang Amadeus Mozart compose the majority of his 600+ works?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French Impressionist composer wrote 'Clair de lune,' a famous solo piano piece evoking moonlight?",
+      "choices": [
+        "Erik Satie",
+        "Maurice Ravel",
+        "Claude Debussy",
+        "Gabriel Fauré"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard configuration of instruments in a traditional string quartet?",
+      "choices": [
+        "Two violins, one viola, one cello",
+        "One violin, two violas, one cello",
+        "Three violins, one cello",
+        "Two violins, two cellos"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer wrote 'The Nutcracker,' a ballet featuring the famous 'Waltz of the Flowers'?",
+      "choices": [
+        "Sergei Prokofiev",
+        "Igor Stravinsky",
+        "Pyotr Ilyich Tchaikovsky",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In classical music notation, what does the Italian term 'fortissimo' instruct performers to do?",
+      "choices": [
+        "Play very slowly",
+        "Play very loudly",
+        "Play with emphasis on each note",
+        "Play in a detached manner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Austrian composer created nine symphonies and struggled with deafness during his compositional career?",
+      "choices": [
+        "Franz Schubert",
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Anton Bruckner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the musical form often used in the first movement of Classical symphonies, featuring exposition, development, and recapitulation sections?",
+      "choices": [
+        "Rondo form",
+        "Sonata form",
+        "Theme and variations",
+        "Binary form"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian composer wrote 'Scheherazade,' an orchestral suite based on stories from the Arabian Nights?",
+      "choices": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Mikhail Glinka",
+        "Nikolai Rimsky-Korsakov",
+        "Modest Mussorgsky"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Johann Sebastian Bach complete his collection known as the 'The Well-Tempered Clavier'?",
+      "choices": [
+        "1712",
+        "1722",
+        "1742",
+        "1752"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer is known for integrating American folk melodies and jazz influences into classical compositions during the 20th century?",
+      "choices": [
+        "Aaron Copland",
+        "George Gershwin",
+        "Leonard Bernstein",
+        "Duke Ellington"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference between a concerto and a sonata in classical music?",
+      "choices": [
+        "A concerto features a solo instrument with orchestral accompaniment; a sonata typically features fewer instruments",
+        "A sonata is always louder than a concerto",
+        "A concerto is for voice; a sonata is instrumental",
+        "There is no meaningful difference between the two forms"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Romantic composer wrote 'Träumerei' (Dreaming), a beloved piano piece from his collection 'Kinderszenen'?",
+      "choices": [
+        "Franz Liszt",
+        "Robert Schumann",
+        "Frédéric Chopin",
+        "Clara Schumann"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the medieval period, what was the name of the single-line vocal music sung in church services?",
+      "choices": [
+        "Polyphony",
+        "Gregorian Chant",
+        "Counterpoint",
+        "Organum"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer's opera 'The Marriage of Figaro' was based on a controversial French play by Beaumarchais?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Gioachino Rossini",
+        "Giuseppe Verdi",
+        "Giacomo Puccini"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the typical role of the conductor in a classical orchestra performance?",
+      "choices": [
+        "To compose new music during the performance",
+        "To guide the tempo and coordinate the ensemble through gestures",
+        "To play the lead violin part",
+        "To announce the pieces to the audience"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Romantic-era composer is famous for his 'Nocturnes' for solo piano, a genre he essentially popularized?",
+      "choices": [
+        "Frédéric Chopin",
+        "Felix Mendelssohn",
+        "Edvard Grieg",
+        "Carl Maria von Weber"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the large stringed instrument that typically provides the bass line in a classical orchestra?",
+      "choices": [
+        "Viola da gamba",
+        "Double bass",
+        "Cello",
+        "Harp"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer wrote the famous 'Moonlight Sonata' during the early 19th century?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert",
+        "Frédéric Chopin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city did Richard Wagner establish his annual music festival at Bayreuth?",
+      "choices": [
+        "Berlin",
+        "Vienna",
+        "Germany",
+        "Munich"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the musical form that Johann Sebastian Bach perfected, featuring multiple independent melodic lines played simultaneously?",
+      "choices": [
+        "Sonata",
+        "Fugue",
+        "Concerto",
+        "Rondo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian composer created the ballet 'The Nutcracker' in the late 19th century?",
+      "choices": [
+        "Igor Stravinsky",
+        "Pyotr Ilyich Tchaikovsky",
+        "Nikolai Rimsky-Korsakov",
+        "Alexander Borodin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What tempo marking indicates a moderately fast pace, commonly used in classical compositions?",
+      "choices": [
+        "Andante",
+        "Allegro",
+        "Adagio",
+        "Largo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer wrote 'Eine kleine Nachtmusik,' a celebrated chamber work of the Classical era?",
+      "choices": [
+        "Joseph Haydn",
+        "Wolfgang Amadeus Mozart",
+        "Antonio Vivaldi",
+        "Georg Friedrich Händel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what country was composer Edvard Grieg born?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which orchestral suite by Antonio Vivaldi features four concertos representing different seasons?",
+      "choices": [
+        "The Four Elements",
+        "The Four Temperaments",
+        "The Four Seasons",
+        "The Four Virtues"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What musical instrument is prominently featured in Franz von Suppé's famous overture 'Light Cavalry'?",
+      "choices": [
+        "Violin",
+        "Clarinet",
+        "French horn",
+        "Timpani"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Romantic-era composer was known for his virtuosic and technically demanding piano compositions called 'Études'?",
+      "choices": [
+        "Clara Schumann",
+        "Frédéric Chopin",
+        "Robert Schumann",
+        "Felix Mendelssohn"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Pyotr Ilyich Tchaikovsky compose the 'Marche Slave,' featuring the sounds of cannon fire?",
+      "choices": [
+        "1876",
+        "1882",
+        "1888",
+        "1893"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Georg Friedrich Händel's most famous oratorio, commonly performed during the Easter season?",
+      "choices": [
+        "The Creation",
+        "Messiah",
+        "Elijah",
+        "The Seasons"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer created the symphonic poem 'Finlandia,' celebrating his native country?",
+      "choices": [
+        "Edvard Grieg",
+        "Jean Sibelius",
+        "Carl Nielsen",
+        "Arvo Pärt"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary musical instrument family to which the violin belongs?",
+      "choices": [
+        "Woodwind",
+        "Brass",
+        "String",
+        "Percussion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French composer wrote 'Boléro,' famous for its repetitive rhythm and gradual orchestral build?",
+      "choices": [
+        "Claude Debussy",
+        "Gabriel Fauré",
+        "Maurice Ravel",
+        "Jules Massenet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes a musical composition written for a solo instrument with orchestral accompaniment?",
+      "choices": [
+        "Concerto",
+        "Symphony",
+        "Sonata",
+        "Overture"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian composer wrote 'Peter and the Wolf,' a symphonic tale for young audiences featuring distinct musical themes for each character?",
+      "choices": [
+        "Dmitri Shostakovich",
+        "Sergei Prokofiev",
+        "Igor Stravinsky",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what musical era did composer Wolfgang Amadeus Mozart primarily write his symphonies and concertos?",
+      "choices": [
+        "Baroque",
+        "Classical",
+        "Early Romantic",
+        "Late Romantic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British composer created the famous 'Pomp and Circumstance' marches, often played at graduation ceremonies?",
+      "choices": [
+        "William Walton",
+        "Edward Elgar",
+        "Ralph Vaughan Williams",
+        "Benjamin Britten"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the annual music festival founded by Henry Wood in 1895, which democratized access to classical music in Britain?",
+      "choices": [
+        "Edinburgh Festival",
+        "BBC Promenade Concerts",
+        "Glyndebourne Festival",
+        "Leeds Festival"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Antonín Dvořák's 'New World Symphony' was inspired by his time spent in which country during the 1890s?",
+      "choices": [
+        "Canada",
+        "United States",
+        "Brazil",
+        "Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of Beethoven's symphonies is famous for featuring the 'Ode to Joy' in its final movement?",
+      "choices": [
+        "Symphony No. 5",
+        "Symphony No. 7",
+        "Symphony No. 9",
+        "Symphony No. 3"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary musical form that Johann Sebastian Bach used for his collection of 48 keyboard pieces called 'The Well-Tempered Clavier'?",
+      "choices": [
+        "Sonata",
+        "Prelude and Fugue",
+        "Concerto",
+        "Suite"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pyotr Ilyich Tchaikovsky composed three famous ballets. Which of these is NOT one of them?",
+      "choices": [
+        "Swan Lake",
+        "The Sleeping Beauty",
+        "The Nutcracker",
+        "Giselle"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Giuseppe Verdi's opera 'La Traviata' premiered in which Italian city in 1853?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Milan",
+        "Florence"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frédéric Chopin was born in Poland but spent most of his adult life composing and performing in which European capital?",
+      "choices": [
+        "Berlin",
+        "Vienna",
+        "Paris",
+        "Prague"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian composer wrote 'Pictures at an Exhibition,' originally as a solo piano work inspired by an art gallery?",
+      "choices": [
+        "Mussorgsky",
+        "Borodin",
+        "Balakirev",
+        "Cui"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Wolfgang Amadeus Mozart composed over 600 works during his lifetime. In which Austrian city was he born?",
+      "choices": [
+        "Vienna",
+        "Salzburg",
+        "Innsbruck",
+        "Linz"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the musical tempo marking that indicates a moderately slow pace, faster than 'Largo' but slower than 'Andante'?",
+      "choices": [
+        "Adagio",
+        "Lento",
+        "Andantino",
+        "Moderato"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In orchestration, which instrument family typically provides the harmonic foundation and bass line of the ensemble?",
+      "choices": [
+        "Woodwinds",
+        "Brass",
+        "Strings",
+        "Percussion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gioachino Rossini was famous for composing opera buffa (comic opera). Which of his operas is his most celebrated work?",
+      "choices": [
+        "La Cenerentola",
+        "The Barber of Seville",
+        "The Italian Girl in Algiers",
+        "Semiramide"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Felix Mendelssohn's 'A Midsummer Night's Dream' overture was composed as incidental music for which author's play?",
+      "choices": [
+        "Christopher Marlowe",
+        "William Shakespeare",
+        "Ben Jonson",
+        "John Webster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French composer created the symphonic poem 'The Sorcerer's Apprentice,' later famously animated by Walt Disney?",
+      "choices": [
+        "Berlioz",
+        "Saint-Saëns",
+        "Dukas",
+        "Fauré"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Johannes Brahms composed four symphonies. Which number was his final symphony?",
+      "choices": [
+        "Symphony No. 2",
+        "Symphony No. 3",
+        "Symphony No. 4",
+        "Symphony No. 5"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In a standard symphony orchestra, how many violins are typically divided into two sections: first violins and second violins?",
+      "choices": [
+        "8 to 10",
+        "12 to 16",
+        "20 to 32",
+        "40 to 50"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Antonio Vivaldi's famous composition 'The Four Seasons' is a set of how many concertos?",
+      "choices": [
+        "Three",
+        "Four",
+        "Six",
+        "Twelve"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which musical form, popularized in the Classical era, typically consists of four movements (fast-slow-minuet-fast)?",
+      "choices": [
+        "Concerto",
+        "Sonata",
+        "Symphony",
+        "Fugue"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Edvard Grieg, a Norwegian composer, is best known for his incidental music to which Henrik Ibsen play?",
+      "choices": [
+        "An Enemy of the People",
+        "Peer Gynt",
+        "The Wild Duck",
+        "Hedda Gabler"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the Italian musical term 'crescendo' instruct performers to do?",
+      "choices": [
+        "Gradually increase in volume",
+        "Gradually decrease in volume",
+        "Return to the original tempo",
+        "Play with emphasis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Georges Bizet's opera 'Carmen' premiered in Paris in 1875. What nationality was the title character of the opera?",
+      "choices": [
+        "French",
+        "Spanish",
+        "Italian",
+        "Portuguese"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian composer wrote 'La Traviata' and is famous for his dramatically emotional operas?",
+      "choices": [
+        "Giuseppe Verdi",
+        "Gioachino Rossini",
+        "Georges Bizet",
+        "Gaetano Donizetti"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Ludwig van Beethoven complete his famous Ninth Symphony?",
+      "choices": [
+        "1815",
+        "1824",
+        "1820",
+        "1830"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Austrian composer is known for writing over 600 chamber works and is often called the 'Father of the String Quartet'?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Franz Joseph Haydn",
+        "Antonio Vivaldi",
+        "Carl Philipp Emanuel Bach"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What instrument did Niccolò Paganini famously master and write virtuosic compositions for in the 19th century?",
+      "choices": [
+        "Cello",
+        "Piano",
+        "Violin",
+        "Flute"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ballet by Tchaikovsky premiered in Moscow in 1877 and tells the story of a cursed swan?",
+      "choices": [
+        "The Nutcracker",
+        "Swan Lake",
+        "Sleeping Beauty",
+        "The Seasons"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for a long orchestral composition typically performed at the beginning of an opera?",
+      "choices": [
+        "Aria",
+        "Overture",
+        "Prelude",
+        "Intermezzo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French composer created 'Clair de Lune' and pioneered impressionistic music?",
+      "choices": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Erik Satie",
+        "Gabriel Fauré"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did Wolfgang Amadeus Mozart compose the majority of his works?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian composer wrote 'The Firebird' and later composed 'The Rite of Spring'?",
+      "choices": [
+        "Sergei Prokofiev",
+        "Igor Stravinsky",
+        "Pyotr Ilyich Tchaikovsky",
+        "Dmitri Shostakovich"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What keyboard instrument did Frédéric Chopin favor as his primary composition medium?",
+      "choices": [
+        "Organ",
+        "Harpsichord",
+        "Piano",
+        "Fortepiano"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which German composer wrote the famous 'Moonlight Sonata'?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Johannes Brahms"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the large orchestral work that concludes Beethoven's Ninth Symphony and features a choral section?",
+      "choices": [
+        "Ode to Joy",
+        "Symphony of Joy",
+        "Hymn of Freedom",
+        "Anthem of Unity"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which violinist and composer is known for writing 24 Caprices that are considered among the most difficult violin pieces ever written?",
+      "choices": [
+        "Pablo de Sarasate",
+        "Niccolò Paganini",
+        "Joseph Joachim",
+        "Henri Vieuxtemps"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did Johann Sebastian Bach compose his major works?",
+      "choices": [
+        "16th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which opera by Wolfgang Amadeus Mozart features the character Don Giovanni?",
+      "choices": [
+        "The Magic Flute",
+        "Don Giovanni",
+        "The Marriage of Figaro",
+        "Così fan tutte"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What musical form, popular in the Baroque era, involves two or more independent melodic lines played simultaneously?",
+      "choices": [
+        "Fugue",
+        "Rondo",
+        "Sonata",
+        "Concerto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Hungarian composer wrote 'Rhapsody on a Theme of Paganini' for piano and orchestra?",
+      "choices": [
+        "Béla Bartók",
+        "Zoltán Kodály",
+        "Sergei Rachmaninoff",
+        "Franz Liszt"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard structure of a Classical symphony?",
+      "choices": [
+        "One movement",
+        "Two movements",
+        "Three movements",
+        "Four movements"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French composer is famous for writing 'Boléro', a piece known for its repetitive melody and building intensity?",
+      "choices": [
+        "Erik Satie",
+        "Maurice Ravel",
+        "Gabriel Fauré",
+        "Claude Debussy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of vocal performance is sung by multiple singers in harmony without instrumental accompaniment?",
+      "choices": [
+        "Solo",
+        "A cappella",
+        "Recitative",
+        "Aria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer wrote the iconic 'Clair de Lune,' a piece that captures moonlight through impressionistic piano harmonies?",
+      "choices": [
+        "Claude Debussy",
+        "Maurice Ravel",
+        "Erik Satie",
+        "Gabriel Fauré"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Ludwig van Beethoven complete his Ninth Symphony, which features the 'Ode to Joy' choral finale?",
+      "choices": [
+        "1818",
+        "1824",
+        "1830",
+        "1815"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian composer created 'The Nutcracker' ballet, featuring the famous 'Dance of the Sugar Plum Fairy'?",
+      "choices": [
+        "Dmitri Shostakovich",
+        "Igor Stravinsky",
+        "Pyotr Ilyich Tchaikovsky",
+        "Sergei Prokofiev"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Wolfgang Amadeus Mozart was born in which Austrian city, now famous for its classical music festival?",
+      "choices": [
+        "Vienna",
+        "Salzburg",
+        "Innsbruck",
+        "Graz"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for a musical composition typically featuring a solo instrument accompanied by an orchestra?",
+      "choices": [
+        "Sonata",
+        "Concerto",
+        "Symphony",
+        "Rhapsody"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian opera composer is known for 'La Traviata' and 'Rigoletto,' stories of passion and tragedy?",
+      "choices": [
+        "Gioachino Rossini",
+        "Georges Bizet",
+        "Giuseppe Verdi",
+        "Gaspare Spontini"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Johannes Brahms composed how many numbered symphonies during his lifetime?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Mozart's 'The Magic Flute,' which character is a birdcatcher known for his comedic role and famous aria?",
+      "choices": [
+        "Tamino",
+        "Papageno",
+        "Sarastro",
+        "The Queen of the Night"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French composer wrote the symphonic poem 'La Mer,' musically depicting the sea?",
+      "choices": [
+        "Claude Debussy",
+        "Saint-Saëns",
+        "Hector Berlioz",
+        "Camille Saint-Saëns"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many string quartets did Ludwig van Beethoven compose in total?",
+      "choices": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Romantic-era composer wrote 'Nocturnes,' a collection of lyrical piano pieces often performed as intimate concert pieces?",
+      "choices": [
+        "Franz Liszt",
+        "Frédéric Chopin",
+        "Robert Schumann",
+        "Carl Maria von Weber"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the large orchestral work by Hector Berlioz that tells the story of an artist's obsessive love, completed in 1830?",
+      "choices": [
+        "Damnation of Faust",
+        "Symphonie fantastique",
+        "Les Troyens",
+        "Béatrice et Bénédict"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Antonio Vivaldi's 'The Four Seasons' is a set of four violin concertos, each representing a different season of the year. How many movements does each concerto typically contain?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

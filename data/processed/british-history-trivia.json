@@ -1,254 +1,2746 @@
 {
   "slug": "british-history-trivia",
   "name": "British History",
-  "description": "Magna Carta to the Glorious Revolution to Victoria — a thousand years of kings, wars, and turning points.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.452Z",
   "questions": [
     {
-      "q": "In what year was the Battle of Hastings, in which William the Conqueror defeated King Harold?",
-      "choices": ["1066", "1086", "1099", "1106"],
-      "correct": 0,
-      "category": "British History",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Stamford Bridge",
-        "verified": true,
-        "notes": "October 14, 1066 — same year Harold had won at Stamford Bridge against the Vikings."
-      }
-    },
-    {
-      "q": "Which 1066 battle saw King Harold defeat a Viking invasion just weeks before Hastings?",
-      "choices": ["Battle of Fulford", "Battle of Stamford Bridge", "Battle of Maldon", "Battle of Brunanburh"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Stamford Bridge",
-        "verified": true,
-        "notes": "September 25, 1066. Harold marched south to Hastings immediately afterward."
-      }
-    },
-    {
-      "q": "In what year was the Magna Carta sealed by King John at Runnymede?",
-      "choices": ["1066", "1100", "1215", "1295"],
-      "correct": 2,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Great Charter of Freedoms",
-        "verified": true,
-        "notes": "June 15, 1215."
-      }
-    },
-    {
-      "q": "Approximately how many years did the Hundred Years' War last?",
-      "choices": ["72", "100", "116", "132"],
-      "correct": 2,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "116 years",
-        "verified": true,
-        "notes": "1337–1453."
-      }
-    },
-    {
-      "q": "In which French town was the final battle of the Hundred Years' War fought in 1453?",
-      "choices": ["Agincourt", "Castillon", "Crécy", "Orleans"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Castillon",
-        "verified": true,
-        "notes": "Decisive French victory ending English claims to most of France."
-      }
-    },
-    {
-      "q": "Who was the mother of Queen Elizabeth I?",
-      "choices": ["Catherine of Aragon", "Anne Boleyn", "Jane Seymour", "Catherine Howard"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Anne Boleyn",
-        "verified": true,
-        "notes": "Henry VIII's second wife. Executed in 1536 when Elizabeth was 2."
-      }
-    },
-    {
-      "q": "What was the name of Sir Francis Drake's ship that circumnavigated the globe (1577–1580)?",
-      "choices": ["Mayflower", "Golden Hind", "Victory", "Endeavour"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Golden Hind",
-        "verified": true,
-        "notes": "Renamed mid-voyage from Pelican."
-      }
-    },
-    {
-      "q": "Which queen reigned over England during the 1707 Acts of Union creating Great Britain?",
-      "choices": ["Queen Anne", "Queen Mary II", "Queen Victoria", "Queen Elizabeth I"],
-      "correct": 0,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Queen Anne",
-        "verified": true,
-        "notes": "Queen of England/Scotland from 1702; the union of crowns became a single Kingdom of Great Britain in 1707."
-      }
-    },
-    {
-      "q": "In 1688, who was invited to take the throne in the so-called 'Glorious Revolution'?",
-      "choices": ["William of Orange (William III)", "George I", "Henry VII", "Bonnie Prince Charlie"],
-      "correct": 0,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "The Glorious Revolution",
-        "verified": true,
-        "notes": "William invaded with the support of Protestant nobility; James II fled."
-      }
-    },
-    {
-      "q": "How old was Queen Victoria when she came to the throne in 1837?",
-      "choices": ["12", "18", "21", "25"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "18",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How long did Queen Victoria's reign last?",
-      "choices": ["1837–1901 (63 years)", "1815–1872 (57 years)", "1840–1900 (60 years)", "1850–1910 (60 years)"],
-      "correct": 0,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1837-1901",
-        "verified": true,
-        "notes": "Surpassed only by her great-great-granddaughter Elizabeth II."
-      }
-    },
-    {
-      "q": "Which British king came to the throne in 1936 only because his elder brother abdicated?",
-      "choices": ["George V", "George VI", "Edward VII", "Henry IX"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "George VI",
-        "verified": true,
-        "notes": "Edward VIII abdicated to marry Wallis Simpson; portrayed in 'The King's Speech'."
-      }
-    },
-    {
-      "q": "Who was Lord Protector of the Commonwealth from 1653 until his death in 1658?",
-      "choices": ["Robert Walpole", "Oliver Cromwell", "Thomas Cromwell", "Walter Raleigh"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Oliver Cromwell",
-        "verified": true,
-        "notes": "Following the execution of Charles I in 1649."
-      }
-    },
-    {
-      "q": "Which Welsh nobleman led a rebellion against English rule in the early 15th century?",
-      "choices": ["Owain Glyndŵr", "Llywelyn the Great", "Hywel Dda", "Henry Tudor"],
-      "correct": 0,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Owain Glyndwr",
-        "verified": true,
-        "notes": "Last native Welshman to hold the title 'Prince of Wales'. Disappeared around 1415."
-      }
-    },
-    {
-      "q": "Charles II married which Portuguese princess in 1662, bringing Bombay and Tangier into English hands as her dowry?",
-      "choices": ["Maria of Spain", "Catherine of Braganza", "Henrietta Maria", "Anne of Denmark"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Portugal",
-        "verified": true,
-        "notes": "She is also credited with popularizing tea in England."
-      }
-    },
-    {
-      "q": "What was the last successful invasion of mainland Britain (a small French expedition in 1797)?",
-      "choices": ["Battle of Fishguard", "Battle of Plymouth", "Battle of Dover", "Battle of Truro"],
-      "correct": 0,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Fishguard",
-        "verified": true,
-        "notes": "A 1,400-strong French force surrendered after 2 days near Fishguard, Pembrokeshire."
-      }
-    },
-    {
-      "q": "Who was the highest-ranking churchman murdered in Canterbury Cathedral in 1170?",
-      "choices": ["Thomas More", "Thomas Cromwell", "Thomas Becket", "Thomas Wolsey"],
-      "correct": 2,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Archbishop of Canterbury",
-        "verified": true,
-        "notes": "Killed by knights loyal to Henry II after a long political feud."
-      }
-    },
-    {
-      "q": "In what year did Prince Charles get invested as Prince of Wales at Caernarfon Castle?",
-      "choices": ["1953", "1969", "1977", "1981"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Caernarfon",
-        "verified": true,
-        "notes": "Lavish televised ceremony designed by Lord Snowdon."
-      }
-    },
-    {
-      "q": "Who became Prime Minister in 1916 and led Britain through the rest of World War I?",
-      "choices": ["Herbert Asquith", "David Lloyd George", "Stanley Baldwin", "Andrew Bonar Law"],
-      "correct": 1,
-      "category": "British History",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1916",
-        "verified": true,
-        "notes": "Last Liberal Prime Minister."
-      }
-    },
-    {
-      "q": "What were the Jacobite Risings of 1715 and 1745 trying to do?",
+      "q": "In which year did William the Conqueror defeat Harold II at the Battle of Hastings?",
       "choices": [
-        "Restore Catholicism to England",
-        "Restore the Stuart dynasty to the throne",
-        "Free Ireland from English rule",
-        "Establish a Scottish republic"
+        "1066",
+        "1067",
+        "1065",
+        "1068"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous ship did Sir Francis Drake command during his circumnavigation of the globe between 1577 and 1580?",
+      "choices": [
+        "The Golden Hind",
+        "The Mary Rose",
+        "The Revenge",
+        "The Ark Royal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary purpose of the Act of Settlement passed in 1701?",
+      "choices": [
+        "To secure the Protestant succession to the English throne",
+        "To establish colonial settlements in America",
+        "To settle disputes between Parliament and the Crown",
+        "To regulate trade with foreign nations"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pope sent St. Augustine to England in 597 AD to convert the Anglo-Saxons to Christianity?",
+      "choices": [
+        "Pope Gregory the Great",
+        "Pope Leo I",
+        "Pope Clement I",
+        "Pope Boniface"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the American colonies declare independence from British rule?",
+      "choices": [
+        "1776",
+        "1775",
+        "1777",
+        "1774"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English king defeated the Welsh prince Llewelyn ap Gruffudd in 1284 and subsequently imposed English rule through the Statute of Rhuddlan?",
+      "choices": [
+        "Edward I",
+        "Edward II",
+        "Edward III",
+        "Henry III"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Queen Victoria reigned over the British Empire for how many years?",
+      "choices": [
+        "64 years",
+        "50 years",
+        "60 years",
+        "55 years"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which year marked the start of the War of the Roses, the dynastic struggle between York and Lancaster?",
+      "choices": [
+        "1455",
+        "1450",
+        "1460",
+        "1465"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1605, Guy Fawkes and his conspirators attempted to blow up which government building?",
+      "choices": [
+        "Houses of Parliament",
+        "Tower of London",
+        "Buckingham Palace",
+        "Westminster Abbey"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Scottish-born king of England in 1605 also ruled Scotland, uniting the two crowns?",
+      "choices": [
+        "James I",
+        "James II",
+        "Charles I",
+        "Charles II"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the elite group of guards founded during the reign of Henry VII to protect the royal family?",
+      "choices": [
+        "Yeomen of the Guard",
+        "Household Guard",
+        "Royal Guard",
+        "Crown Guard"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1588, the English fleet defeated which foreign naval power in a famous sea battle?",
+      "choices": [
+        "Spanish Armada",
+        "French Fleet",
+        "Dutch Navy",
+        "Portuguese Fleet"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous monarch was married six times and broke with Rome to establish the Church of England?",
+      "choices": [
+        "Henry VIII",
+        "Henry VII",
+        "Henry VI",
+        "Henry V"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The British railway system began in earnest with the opening of the Stockton and Darlington Railway in 1825. What was the name of the famous locomotive that ran on this line?",
+      "choices": [
+        "Locomotion No. 1",
+        "The Railway King",
+        "Iron Horse",
+        "Steam Pioneer"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mary was executed by her cousin Elizabeth I in 1587 after being implicated in plots against the English throne?",
+      "choices": [
+        "Mary, Queen of Scots",
+        "Mary Tudor",
+        "Mary of Modena",
+        "Mary Wollstonecraft"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1649, which English Civil War leader was executed for regicide after the trial of King Charles I?",
+      "choices": [
+        "Oliver Cromwell",
+        "Thomas Fairfax",
+        "Henry Ireton",
+        "John Lambert"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Before the Battle of Hastings in 1066, King Harold II defeated a Viking invasion at which English location?",
+      "choices": [
+        "Stamford Bridge",
+        "Fulford",
+        "York",
+        "Scarborough"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British prime minister served during most of World War II and is remembered as a wartime leader?",
+      "choices": [
+        "Winston Churchill",
+        "Clement Attlee",
+        "Neville Chamberlain",
+        "Anthony Eden"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1534, Henry VIII declared himself Supreme Head of which religious institution in England?",
+      "choices": [
+        "The Church of England",
+        "The Roman Catholic Church",
+        "The Greek Orthodox Church",
+        "The Anglican Communion"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Scottish queen was executed in 1587 after conspiring against her cousin, Queen Elizabeth I?",
+      "choices": [
+        "Mary, Queen of Scots",
+        "Margaret of Scotland",
+        "Joan of Scotland",
+        "Isabella of Scotland"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Oliver Cromwell die?",
+      "choices": [
+        "1658",
+        "1651",
+        "1665",
+        "1653"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Welsh king defeated Richard III at the Battle of Bosworth Field in 1485?",
+      "choices": [
+        "Henry VII",
+        "Henry VIII",
+        "Owen Tudor",
+        "Jasper Tudor"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the surname of the Stuart family, which ruled Britain from 1603 onwards?",
+      "choices": [
+        "Stewart",
+        "Tudor",
+        "Stuart",
+        "Hanover"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the Gunpowder Plot attempt to blow up Parliament?",
+      "choices": [
+        "1603",
+        "1605",
+        "1607",
+        "1609"
       ],
       "correct": 1,
-      "category": "British History",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Jacobite Risings",
-        "verified": true,
-        "notes": "1745 ended at Culloden in 1746; Bonnie Prince Charlie fled."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which man is most famously associated with the Gunpowder Plot of 1605?",
+      "choices": [
+        "Robert Catesby",
+        "Guy Fawkes",
+        "Thomas Percy",
+        "Ambrose Rookwood"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1605, James I ruled England and which other kingdom?",
+      "choices": [
+        "Wales",
+        "Scotland",
+        "Ireland",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What event occurred in London in 1666 that destroyed much of the medieval city?",
+      "choices": [
+        "The Plague",
+        "The Great Fire",
+        "A Flood",
+        "An Earthquake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British monarch abdicated in 1936 to marry an American divorcee?",
+      "choices": [
+        "George V",
+        "Edward VIII",
+        "George VI",
+        "Edward VII"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who became King of England after Edward VIII abdicated in 1936?",
+      "choices": [
+        "Edward VII",
+        "George VI",
+        "Edward IX",
+        "Albert Windsor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1666, approximately how many people died in the Great Fire of London?",
+      "choices": [
+        "6",
+        "60",
+        "600",
+        "6000"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English king reigned during the year 1000 AD?",
+      "choices": [
+        "Ethelred the Unready",
+        "Cnut the Great",
+        "Harold Godwinson",
+        "Aethelred II"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1453, the Hundred Years' War between England and France effectively ended with a battle at which location?",
+      "choices": [
+        "Agincourt",
+        "Castillon",
+        "Crécy",
+        "Poitiers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which female monarch famously married Catherine of Braganza in 1664?",
+      "choices": [
+        "Queen Anne",
+        "King Charles II",
+        "King James II",
+        "Queen Mary II"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of Oliver Cromwell's son, who ruled briefly after his father's death?",
+      "choices": [
+        "Richard Cromwell",
+        "Henry Cromwell",
+        "Oliver Cromwell Jr.",
+        "Samuel Cromwell"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1327, King Edward II was deposed and later murdered. Who was his wife who played a key role in his downfall?",
+      "choices": [
+        "Isabella of France",
+        "Eleanor of Aquitaine",
+        "Matilda of England",
+        "Margaret of York"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which archbishop was murdered in Canterbury Cathedral in 1170?",
+      "choices": [
+        "Anselm",
+        "Thomas Becket",
+        "Augustine",
+        "Lanfranc"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "During the reign of Mary I, Protestant bishops were burned at the stake in which English city?",
+      "choices": [
+        "London",
+        "Oxford",
+        "Cambridge",
+        "Winchester"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1949, which former British dominion left the Commonwealth and became a republic?",
+      "choices": [
+        "Australia",
+        "Canada",
+        "Ireland",
+        "South Africa"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who returned to power as British Prime Minister in the October 1951 general election?",
+      "choices": [
+        "Clement Attlee",
+        "Winston Churchill",
+        "Anthony Eden",
+        "Harold Macmillan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did King Stephen begin his reign in England?",
+      "choices": [
+        "1125",
+        "1135",
+        "1145",
+        "1155"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the Hundred Years' War between England and France conclude with a French victory?",
+      "choices": [
+        "1453",
+        "1415",
+        "1429",
+        "1461"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the English translation of the Magna Carta Libertatum, the document King John signed in 1215?",
+      "choices": [
+        "Great Charter of Freedoms",
+        "Royal Decree of Justice",
+        "Crown's Promise of Peace",
+        "Sovereign's Law of the Land"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Welsh castle hosted the 1969 investiture ceremony of Prince Charles as Prince of Wales?",
+      "choices": [
+        "Caernarfon",
+        "Conwy",
+        "Cardiff",
+        "Penrhyn"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1605, Guy Fawkes was involved in a plot to blow up which building?",
+      "choices": [
+        "Houses of Parliament",
+        "Tower of London",
+        "Westminster Abbey",
+        "Windsor Castle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of Sir Francis Drake's famous ship that circumnavigated the globe starting in 1577?",
+      "choices": [
+        "Golden Hind",
+        "Mary Rose",
+        "Revenge",
+        "Victory"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which kingdom did King James I rule in addition to England in 1605?",
+      "choices": [
+        "Scotland",
+        "Ireland",
+        "Wales",
+        "France"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of Oliver Cromwell's revolutionary military force formed during the English Civil War?",
+      "choices": [
+        "New Model Army",
+        "Roundhead Regiment",
+        "Parliamentary Guard",
+        "Commonwealth Force"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1707, which English queen reigned during the union of England and Scotland?",
+      "choices": [
+        "Queen Anne",
+        "Queen Elizabeth I",
+        "Queen Mary II",
+        "Queen Victoria"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which battle in 1746 marked the final defeat of the Jacobite rebellion led by Charles Edward Stuart?",
+      "choices": [
+        "Culloden",
+        "Bannockburn",
+        "Bosworth Field",
+        "Flodden"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the historical period called when King Charles I ruled without calling Parliament from 1629 to 1640?",
+      "choices": [
+        "Eleven Years' Tyranny",
+        "Period of Personal Rule",
+        "Royal Prerogative",
+        "Silent Years"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1955, which member of the British royal family famously called off her wedding plans?",
+      "choices": [
+        "Princess Margaret",
+        "Princess Anne",
+        "Princess Diana",
+        "Princess Caroline"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major historical event occurred in London in 1666?",
+      "choices": [
+        "The Great Fire",
+        "The Plague",
+        "A Royal Coronation",
+        "A Foreign Invasion"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Welsh patron saint, who lived until AD 589, has the smallest UK city named after him?",
+      "choices": [
+        "St David",
+        "St Dewi",
+        "St Cuthbert",
+        "St Patrick"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the strict parenting system imposed on young Queen Victoria by her mother and Sir John Conroy?",
+      "choices": [
+        "The Kensington System",
+        "The Royal Protocol",
+        "The Duchess's Method",
+        "The Household Regime"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1969, which steam locomotive became the first to run on the Stockton to Darlington railway line?",
+      "choices": [
+        "Locomotion No. 1",
+        "Rocket",
+        "Flying Scotsman",
+        "Stephenson's Engine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous battle of 1066 is considered the decisive moment in the Norman conquest of England?",
+      "choices": [
+        "Hastings",
+        "Stamford Bridge",
+        "Fulford",
+        "Towton"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1969, which country's flag did British astronaut Neil Armstrong plant on the moon?",
+      "choices": [
+        "The United States",
+        "The United Kingdom",
+        "No flag was planted",
+        "The Soviet Union"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the father of King Edward VI, known for his numerous marriages?",
+      "choices": [
+        "Henry VIII",
+        "Henry VII",
+        "Edward III",
+        "Richard III"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major British institution was established by Royal Charter in 1662 under King Charles II?",
+      "choices": [
+        "Royal Society",
+        "Royal Academy",
+        "British Museum",
+        "Royal Institution"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1215, which English king was forced to sign the Magna Carta?",
+      "choices": [
+        "King John",
+        "King Henry III",
+        "King Richard the Lionheart",
+        "King Stephen"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English king was married six times and had two of his wives executed?",
+      "choices": [
+        "Henry VII",
+        "Henry VIII",
+        "Henry VI",
+        "Edward VI"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Spanish Armada attempt to invade England during Queen Elizabeth I's reign?",
+      "choices": [
+        "1568",
+        "1588",
+        "1603",
+        "1558"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British queen reigned for 63 years, from 1837 to 1901?",
+      "choices": [
+        "Queen Anne",
+        "Queen Victoria",
+        "Queen Elizabeth I",
+        "Queen Mary I"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the famous ship captained by Sir Francis Drake that sailed around the world in the 1570s?",
+      "choices": [
+        "HMS Victory",
+        "The Golden Hind",
+        "The Mayflower",
+        "HMS Endeavour"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1066, which Norman duke defeated King Harold II at the Battle of Hastings?",
+      "choices": [
+        "William the Conqueror",
+        "Richard the Lionheart",
+        "Stephen of Blois",
+        "Robert Curthose"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English document, signed in 1215, established the principle that the king was subject to the law?",
+      "choices": [
+        "The Bill of Rights",
+        "The Magna Carta",
+        "The English Constitution",
+        "The Charter of Liberties"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "During the English Civil War, who served as Lord Protector of England from 1653 to 1658?",
+      "choices": [
+        "Thomas Fairfax",
+        "Oliver Cromwell",
+        "Charles I",
+        "John Pym"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which year marked the Acts of Union between England and Scotland?",
+      "choices": [
+        "1603",
+        "1707",
+        "1801",
+        "1746"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first Hanoverian king to rule Great Britain, beginning his reign in 1714?",
+      "choices": [
+        "George I",
+        "George II",
+        "James II",
+        "William III"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the British Empire formally declare the United States independent?",
+      "choices": [
+        "1776",
+        "1777",
+        "1783",
+        "1775"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British naval victory in 1805 secured British naval dominance for a century?",
+      "choices": [
+        "Battle of the Nile",
+        "Battle of Trafalgar",
+        "Battle of the Medway",
+        "Battle of Flamborough Head"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary cause of the Great Famine in Ireland during the 1840s?",
+      "choices": [
+        "War and invasion",
+        "Potato blight",
+        "Severe drought",
+        "Government rationing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British explorer led the first European expedition to reach the South Pole in 1911?",
+      "choices": [
+        "Roald Amundsen",
+        "Robert Falcon Scott",
+        "Ernest Shackleton",
+        "James Clark Ross"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Titanic, a British passenger ship, sink in the Atlantic Ocean?",
+      "choices": [
+        "1910",
+        "1911",
+        "1912",
+        "1913"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British queen was the grandmother of Kaiser Wilhelm II and Tsar Nicholas II?",
+      "choices": [
+        "Queen Anne",
+        "Queen Victoria",
+        "Queen Mary I",
+        "Queen Elizabeth I"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary purpose of the English monasteries that were dissolved during Henry VIII's reign?",
+      "choices": [
+        "To build new castles",
+        "To accumulate wealth for the crown and weaken the Catholic Church",
+        "To house the poor",
+        "To serve as military barracks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English princess was executed in 1536 on charges of adultery and treason?",
+      "choices": [
+        "Catherine of Aragon",
+        "Anne Boleyn",
+        "Jane Seymour",
+        "Catherine Howard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1605, what was the name of the failed plot to blow up the House of Parliament?",
+      "choices": [
+        "The Rye House Plot",
+        "The Gunpowder Plot",
+        "The Popish Plot",
+        "The Jacobite Plot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 18th-century British Prime Minister served the longest tenure, holding office for approximately 21 years?",
+      "choices": [
+        "Lord North",
+        "Sir Robert Walpole",
+        "Lord Palmerston",
+        "Benjamin Disraeli"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary industry that transformed Cardiff, Wales, from a small town into a major city during the 19th century?",
+      "choices": [
+        "Iron production",
+        "Coal mining and export",
+        "Textile manufacturing",
+        "Ship building"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the Great Fire of London destroy much of the medieval city?",
+      "choices": [
+        "1666",
+        "1605",
+        "1588",
+        "1707"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English king abdicated the throne in 1936, citing his desire to marry an American divorcée?",
+      "choices": [
+        "George V",
+        "Edward VIII",
+        "George VI",
+        "Edward VII"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did England and Scotland unite under a single Parliament through the Act of Union?",
+      "choices": [
+        "1603",
+        "1689",
+        "1707",
+        "1714"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English king was famously murdered in Berkeley Castle in 1327, allegedly by a red-hot poker inserted through his rectum?",
+      "choices": [
+        "Edward II",
+        "Edward III",
+        "Richard II",
+        "Henry III"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At the Battle of Bosworth Field in 1485, which Tudor claimant defeated Richard III to establish a new royal dynasty?",
+      "choices": [
+        "Henry VII",
+        "Henry VIII",
+        "Edmund Tudor",
+        "Jasper Tudor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary motivation behind the English invasion of Ireland under Henry II in 1171?",
+      "choices": [
+        "To suppress a Viking uprising",
+        "To enforce papal authority",
+        "To restore the deposed King Diarmait Mac Murchada",
+        "To mine for precious metals"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Provisions of Oxford in 1258 attempted to limit royal power by establishing what governing body?",
+      "choices": [
+        "A permanent Parliament",
+        "A baronial council of 15 members",
+        "An elected House of Commons",
+        "A judicial court system"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish king negotiated the Treaty of Northampton in 1328, finally securing English recognition of Scottish independence?",
+      "choices": [
+        "Robert Bruce",
+        "David II",
+        "James I",
+        "William Wallace"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Battle of Crécy occur, establishing the English longbow's devastating superiority in continental warfare?",
+      "choices": [
+        "1340",
+        "1346",
+        "1356",
+        "1415"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English claimant to the French throne was crowned King of France at Reims Cathedral in 1429, only to be captured and executed?",
+      "choices": [
+        "Henry V",
+        "Henry VI",
+        "John, Duke of Bedford",
+        "Edmund, Earl of Somerset"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Wars of the Roses concluded with the marriage of Henry VII to Elizabeth of York in 1486. Which house did Elizabeth's mother, Elizabeth Woodville, belong to?",
+      "choices": [
+        "House of York",
+        "House of Lancaster",
+        "House of Tudor",
+        "House of Beaufort"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of Henry VIII's wives was beheaded on charges of adultery and witchcraft in 1536?",
+      "choices": [
+        "Catherine of Aragon",
+        "Anne Boleyn",
+        "Jane Seymour",
+        "Anne of Cleves"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the official name of the act passed in 1534 that made Henry VIII Supreme Head of the Church of England?",
+      "choices": [
+        "Act of Supremacy",
+        "Act of Succession",
+        "Act of Supremacy of the Crown",
+        "Supremacy Act"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the Elizabethan era, which Spanish armada sailed against England in 1588, hoping to overthrow Queen Elizabeth I?",
+      "choices": [
+        "The Grande Flota",
+        "La Armada Invencible",
+        "The Spanish Fleet Royal",
+        "The Castilian Navy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English explorer and privateer was knighted by Elizabeth I aboard the Golden Hind after circumnavigating the globe?",
+      "choices": [
+        "Sir Walter Raleigh",
+        "Sir John Hawkins",
+        "Sir Francis Drake",
+        "Sir Martin Frobisher"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the English Civil War, which Parliamentarian general defeated the Royalists at the Battle of Naseby in 1645?",
+      "choices": [
+        "Oliver Cromwell",
+        "Thomas Fairfax",
+        "Henry Ireton",
+        "John Lambert"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the document signed by King Charles I under duress in 1646, effectively ending his resistance during the English Civil War?",
+      "choices": [
+        "The Treaty of Uxbridge",
+        "The Covenant of Edinburgh",
+        "The Propositions of Newcastle",
+        "The Bill of Rights"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish rebellion of 1798 was supported by French forces and led to widespread reprisals and the subsequent Act of Union in 1800?",
+      "choices": [
+        "The Jacobite Rising",
+        "The United Irishmen Rebellion",
+        "The Fenian Uprising",
+        "The Easter Rising"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary economic purpose of the Corn Laws, which were finally repealed in 1846?",
+      "choices": [
+        "To subsidize agricultural exports",
+        "To protect domestic grain producers from foreign competition",
+        "To regulate grain prices in urban markets",
+        "To establish fair wages for farmworkers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British Prime Minister served during the Crimean War and was famous for his pursuit of the Tory paternalist tradition?",
+      "choices": [
+        "Benjamin Disraeli",
+        "Lord Palmerston",
+        "Lord Derby",
+        "Lord Aberdeen"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Second Reform Act passed, which doubled the electorate and redistributed parliamentary seats?",
+      "choices": [
+        "1832",
+        "1867",
+        "1884",
+        "1918"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British general's controversial conduct during the Boer War, particularly the use of concentration camps, sparked international outcry?",
+      "choices": [
+        "Edmund Allenby",
+        "Herbert Plumer",
+        "Frederick Roberts",
+        "Horatio Kitchener"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What political movement did Emmeline Pankhurst lead in pursuit of women's voting rights, reaching peak intensity between 1903 and 1914?",
+      "choices": [
+        "The Women's Suffrage Association",
+        "The National Union of Women's Suffrage Societies",
+        "The Women's Social and Political Union",
+        "The Feminine League for Representation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Anglo-Saxon heptarchy finally dissolve as a unified England emerged under a single crown?",
+      "choices": [
+        "927",
+        "1016",
+        "1066",
+        "1154"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English monarch initiated the Dissolution of the Monasteries, fundamentally reshaping the nation's religious and economic landscape?",
+      "choices": [
+        "Edward VI",
+        "Henry VIII",
+        "Thomas Cromwell",
+        "Anne Boleyn"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary constitutional outcome of the Glorious Revolution of 1688?",
+      "choices": [
+        "Absolute monarchy was permanently established",
+        "Parliamentary sovereignty became the governing principle",
+        "Scotland gained complete independence",
+        "The Pope gained authority over English religious matters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the English Civil War, which battle in 1645 resulted in a decisive Parliamentary victory and effectively ended Royalist military supremacy?",
+      "choices": [
+        "Battle of Marston Moor",
+        "Battle of Naseby",
+        "Battle of Edgehill",
+        "Battle of Preston"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Treaty of 1707 formally united the Kingdom of England with the Kingdom of Scotland, creating the Kingdom of Great Britain?",
+      "choices": [
+        "Treaty of Union",
+        "Treaty of Edinburgh",
+        "Treaty of Berwick",
+        "Treaty of Westminster"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the 1745 Scottish uprising led by Charles Edward Stuart, also known as Bonnie Prince Charlie?",
+      "choices": [
+        "The Jacobite Rebellion",
+        "The Highland Revolt",
+        "The '45 Rising",
+        "The Stuart Insurrection"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Prime Minister introduced the Corn Laws, which protected domestic grain prices and sparked significant political controversy in the 1840s?",
+      "choices": [
+        "William Pitt the Younger",
+        "Lord Liverpool",
+        "Sir Robert Peel",
+        "Lord Palmerston"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary purpose of the 1832 Great Reform Act?",
+      "choices": [
+        "To abolish slavery throughout the Empire",
+        "To expand the electorate and redistribute parliamentary seats",
+        "To establish universal suffrage for all men",
+        "To eliminate the monarchy's legislative powers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Representation of the People Act grant voting rights to all men over 21, dramatically expanding the British electorate?",
+      "choices": [
+        "1867",
+        "1884",
+        "1918",
+        "1928"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British naval victory in 1805 secured Britain's dominance at sea throughout the 19th century but cost the life of its commanding admiral?",
+      "choices": [
+        "Battle of the Nile",
+        "Battle of Trafalgar",
+        "Battle of the Glorious First of June",
+        "Battle of Copenhagen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary objective of the British Expeditionary Force sent to the Crimean Peninsula in 1853?",
+      "choices": [
+        "To support Ottoman Turkey against Russian expansion",
+        "To secure trade routes to India",
+        "To colonize Mediterranean territories",
+        "To suppress Greek independence movements"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1867, which British Prime Minister oversaw the Second Reform Act that extended the franchise to urban working-class men?",
+      "choices": [
+        "William Ewart Gladstone",
+        "Benjamin Disraeli",
+        "Lord Salisbury",
+        "Lord Derby"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pivotal treaty in 1919 formally ended British involvement in the First World War and reshaped European boundaries?",
+      "choices": [
+        "Treaty of Paris",
+        "Treaty of Versailles",
+        "Treaty of Brest-Litovsk",
+        "Treaty of Trianon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the British government's policy of appeasement primarily designed to prevent during the 1930s?",
+      "choices": [
+        "Japanese expansion in Asia",
+        "Italian invasion of Ethiopia",
+        "German remilitarization and aggressive expansion",
+        "Soviet collectivization policies"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Act of 1948 established the National Health Service, fundamentally transforming British healthcare provision?",
+      "choices": [
+        "National Insurance Act",
+        "NHS Foundation Act",
+        "National Health Service Act",
+        "Public Health Act"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Suez Crisis expose the limitations of British imperial power and accelerate decolonization?",
+      "choices": [
+        "1952",
+        "1956",
+        "1960",
+        "1965"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary political outcome of the Profumo Affair scandal of 1963 on the Conservative government?",
+      "choices": [
+        "It led to Prime Minister Harold Macmillan's immediate resignation",
+        "It significantly damaged public confidence in government integrity",
+        "It resulted in immediate snap elections",
+        "It caused a permanent shift to Labour dominance"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English explorer commanded the HMS Endeavour on a three-year voyage from 1768-1771, mapping the coasts of Australia and New Zealand?",
+      "choices": [
+        "Sir Francis Drake",
+        "Captain James Cook",
+        "Sir Henry Hudson",
+        "William Bligh"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What unprecedented constitutional role did the Duke of Wellington assume in 1834, becoming the only military officer to hold this position in British history?",
+      "choices": [
+        "Lord Chancellor",
+        "Secretary of State for War",
+        "Commander-in-Chief of all Armed Forces",
+        "Prime Minister"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1534, which act fundamentally altered Britain's religious and political landscape by severing ties with Rome?",
+      "choices": [
+        "Act of Succession",
+        "Act of Supremacy",
+        "Act of Dissolution",
+        "Act of Uniformity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English philosopher and statesman authored 'Leviathan' in 1651, advocating for absolute sovereign power during the English Civil War period?",
+      "choices": [
+        "Thomas Hobbes",
+        "John Locke",
+        "Edmund Burke",
+        "Jeremy Bentham"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Utrecht in 1713 awarded which strategically important Mediterranean fortress to Britain, strengthening its naval dominance?",
+      "choices": [
+        "Malta",
+        "Gibraltar",
+        "Cyprus",
+        "Minorca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the 1536 act that forcibly incorporated Wales into the English legal and administrative system?",
+      "choices": [
+        "Act of Succession",
+        "Laws in Wales Act",
+        "Welsh Union Act",
+        "Act of Incorporation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Stuart monarch was executed in 1649 following his defeat in the English Civil War?",
+      "choices": [
+        "Charles II",
+        "James I",
+        "Charles I",
+        "James II"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Popish Plot of 1678 was a fabricated conspiracy that created panic about a supposed Catholic attempt to assassinate which monarch?",
+      "choices": [
+        "James II",
+        "Charles II",
+        "William III",
+        "Anne"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British general led the forces that defeated Napoleon at the Battle of Waterloo in 1815?",
+      "choices": [
+        "Henry Paget",
+        "Arthur Wellesley, Duke of Wellington",
+        "John Moore",
+        "Edmund Allenby"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Corn Laws, repealed in 1846, primarily imposed tariffs to protect which agricultural product?",
+      "choices": [
+        "Barley",
+        "Wheat",
+        "Oats",
+        "Rye"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which radical MP and social reformer famously said 'Knowledge is power' and founded the Working Men's College in London?",
+      "choices": [
+        "William Cobbett",
+        "Francis Place",
+        "Charles Kingsley",
+        "John Stuart Mill"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1555, the Marian Persecutions under Queen Mary I targeted which religious group?",
+      "choices": [
+        "Catholics",
+        "Jews",
+        "Protestants",
+        "Puritans"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Act of Supremacy in 1534 established which person as the Supreme Head of the Church of England?",
+      "choices": [
+        "Cardinal Wolsey",
+        "King Henry VIII",
+        "Thomas Cranmer",
+        "Bishop Fisher"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish clan was massacred in Glencoe in 1692 by English forces, becoming a symbol of Highland grievance?",
+      "choices": [
+        "Clan Campbell",
+        "Clan Macdonald",
+        "Clan Stewart",
+        "Clan MacLeod"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Statute of Rhuddlan in 1284 formally annexed which region to the English crown following military conquest?",
+      "choices": [
+        "Wales",
+        "Scotland",
+        "Ireland",
+        "Normandy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British industrialist and engineer designed and built the Menai Suspension Bridge, completed in 1826?",
+      "choices": [
+        "Isambard Kingdom Brunel",
+        "Thomas Telford",
+        "George Stephenson",
+        "John Rennie"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tolpuddle Martyrs of 1834 were agricultural laborers from Dorset convicted for organizing which type of association?",
+      "choices": [
+        "Political society",
+        "Trade union",
+        "Friendly society",
+        "Religious congregation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1689 document, passed after the Glorious Revolution, established parliamentary supremacy and limited royal prerogative?",
+      "choices": [
+        "Bill of Rights",
+        "Habeas Corpus Act",
+        "Petition of Right",
+        "Declaration of Independence"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Gunpowder Plot of 1605 targeted which building and which king?",
+      "choices": [
+        "The Tower of London; James I",
+        "Parliament; James I",
+        "Windsor Castle; Elizabeth I",
+        "Whitehall Palace; Charles I"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Treaty, signed in 1707, formally unified England and Scotland into a single kingdom?",
+      "choices": [
+        "Treaty of Edinburgh",
+        "Treaty of Union",
+        "Treaty of Westminster",
+        "Treaty of Perth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Reform Act of 1832 extended the franchise primarily to which social class?",
+      "choices": [
+        "Agricultural laborers",
+        "Middle-class property owners",
+        "All adult males",
+        "Working-class factory workers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English courtier and explorer was executed in 1618 by King James I for his unauthorized attack on Spanish settlements in South America?",
+      "choices": [
+        "Francis Bacon",
+        "Henry Hudson",
+        "Walter Raleigh",
+        "Christopher Newport"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Peterloo Massacre of 1819 was a violent suppression of a mass gathering advocating for which reform?",
+      "choices": [
+        "Catholic emancipation",
+        "Parliamentary representation",
+        "Trade union rights",
+        "Irish independence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English king signed the Magna Carta in 1215, establishing the principle that even monarchs are subject to the law?",
+      "choices": [
+        "King John",
+        "King Henry III",
+        "King Richard the Lionheart",
+        "King Stephen"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary architectural innovation that allowed the construction of medieval cathedrals like Chartres and Canterbury with soaring heights?",
+      "choices": [
+        "Flying buttresses",
+        "Rounded arches",
+        "Load-bearing walls",
+        "Steel reinforcement"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1536, King Henry VIII initiated the Dissolution of the Monasteries. Approximately how many monasteries were affected across England and Wales?",
+      "choices": [
+        "Around 800",
+        "Around 100",
+        "Around 2,000",
+        "Around 500"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Treaty, signed in 1707, formally united the Kingdom of England and the Kingdom of Scotland into a single political entity?",
+      "choices": [
+        "Treaty of Union",
+        "Treaty of Edinburgh",
+        "Treaty of Westminster",
+        "Treaty of Berwick"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the English Civil War, Oliver Cromwell's New Model Army was notable for which revolutionary military practice?",
+      "choices": [
+        "Promotion based on merit rather than aristocratic birth",
+        "Use of pike and musket formations",
+        "Naval warfare tactics",
+        "Guerrilla combat techniques"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary economic motivation for the British East India Company's expansion into Bengal during the 18th century?",
+      "choices": [
+        "Control of the textile and indigo trade",
+        "Missionary activities",
+        "Agricultural development",
+        "Military conquest"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Act of 1834 fundamentally reformed poor relief in Britain by establishing workhouses and ending outdoor relief?",
+      "choices": [
+        "Poor Law Amendment Act",
+        "Welfare Reform Act",
+        "Social Relief Act",
+        "Workhouse Regulation Act"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Peterloo Massacre of 1819, what was the immediate trigger that led cavalry to charge into a crowd of peaceful reformers in Manchester?",
+      "choices": [
+        "Fear of violent uprising and arrest of reform speaker Henry Hunt",
+        "Crowd threw stones at soldiers",
+        "Crowd attempted to storm the town hall",
+        "Reform leaders fired weapons"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Tudor successor established the Church of England as a Protestant institution distinct from Rome?",
+      "choices": [
+        "Henry VIII",
+        "Edward VI",
+        "Elizabeth I",
+        "Thomas Cranmer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the 1660 document that restored the monarchy and established the constitutional framework following Cromwell's death?",
+      "choices": [
+        "Declaration of Breda",
+        "Bill of Rights",
+        "Restoration Charter",
+        "Royal Proclamation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish battle in 1297, led by William Wallace, saw the defeat of an English army attempting to suppress Scottish independence?",
+      "choices": [
+        "Battle of Stirling Bridge",
+        "Battle of Bannockburn",
+        "Battle of Flodden",
+        "Battle of Langside"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1688 Glorious Revolution, which English king was effectively deposed in favor of William of Orange and Mary?",
+      "choices": [
+        "James II",
+        "Charles II",
+        "James I",
+        "Charles I"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which medieval English king conducted extensive military campaigns in France that led to the Hundred Years' War?",
+      "choices": [
+        "Edward III",
+        "Edward I",
+        "Henry V",
+        "Richard the Lionheart"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary cause of the 1745 Jacobite Rising led by Bonnie Prince Charlie?",
+      "choices": [
+        "Attempt to restore a Catholic Stuart to the British throne",
+        "Scottish independence from Britain",
+        "Religious persecution of Protestants",
+        "Economic hardship in the Highlands"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British Prime Minister negotiated the Treaty of Utrecht in 1713, which significantly expanded British colonial possessions?",
+      "choices": [
+        "Robert Walpole",
+        "John Churchill",
+        "Queen Anne",
+        "George I"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1805, which British naval victory under Admiral Nelson effectively ended French naval dominance during the Napoleonic Wars?",
+      "choices": [
+        "Battle of Trafalgar",
+        "Battle of the Nile",
+        "Battle of Copenhagen",
+        "Battle of Quiberon Bay"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1832 legislation fundamentally reformed parliamentary representation by expanding the electorate and redistributing constituencies?",
+      "choices": [
+        "Great Reform Act",
+        "Representation of the People Act",
+        "Electoral Reform Bill",
+        "Constituency Redistribution Act"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary ideological dispute between the Whigs and Tories in 18th-century British politics?",
+      "choices": [
+        "Authority of Crown versus parliamentary supremacy",
+        "Trade versus agriculture",
+        "Catholic versus Protestant succession",
+        "Urban versus rural interests"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Welsh nobleman's failed uprising in the 1402-1409 period challenged English rule under Henry IV but ultimately resulted in his mysterious disappearance?",
+      "choices": [
+        "Owain Glyndwr",
+        "Llywelyn ap Gruffudd",
+        "Rhys ap Tewdwr",
+        "Dafydd ap Gwilym"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1649, which English king was executed for high treason and crimes against the state during the Civil War period?",
+      "choices": [
+        "Charles I",
+        "Charles II",
+        "James I",
+        "Oliver Cromwell"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the English Civil War conclude with Oliver Cromwell's forces decisively defeating the Royalists at the Battle of Worcester?",
+      "choices": [
+        "1648",
+        "1651",
+        "1653",
+        "1660"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the War of Spanish Succession, the Duke of Marlborough achieved a major victory over French and Bavarian forces in 1704 at which battle in the Holy Roman Empire?",
+      "choices": [
+        "Battle of Ramillies",
+        "Battle of Blenheim",
+        "Battle of Oudenarde",
+        "Battle of Malplaquet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the English Civil War, which battle in 1645 marked Oliver Cromwell's decisive victory with his New Model Army against the Royalist forces, effectively ending King Charles I's military prospects?",
+      "choices": [
+        "Battle of Naseby",
+        "Battle of Marston Moor",
+        "Battle of Edgehill",
+        "Battle of Worcester"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English king signed the Magna Carta in 1215?",
+      "choices": [
+        "King John",
+        "King Henry III",
+        "King Richard I",
+        "King Stephen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Glorious Revolution bring William of Orange to the English throne?",
+      "choices": [
+        "1685",
+        "1688",
+        "1692",
+        "1701"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which battle in 1461 saw Edward IV's Yorkist forces decisively defeat the Lancastrians during the Wars of the Roses?",
+      "choices": [
+        "Battle of Bosworth",
+        "Battle of Towton",
+        "Battle of Tewkesbury",
+        "Battle of Barnet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of Sir Francis Drake's ship that completed the second circumnavigation of the globe between 1577 and 1580?",
+      "choices": [
+        "HMS Victory",
+        "The Golden Hind",
+        "The Revenge",
+        "HMS Endeavour"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous archbishop of Canterbury was murdered in Canterbury Cathedral in 1170?",
+      "choices": [
+        "Thomas Becket",
+        "Augustine",
+        "Anselm",
+        "Lanfranc"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Oliver Cromwell die, effectively ending the Protectorate?",
+      "choices": [
+        "1655",
+        "1658",
+        "1660",
+        "1659"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the period from 1629 to 1640 called, when Charles I ruled without summoning Parliament?",
+      "choices": [
+        "The Great Interregnum",
+        "The Personal Rule",
+        "The Eleven Years' Tyranny",
+        "The Silent Years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Welsh rebel led a major uprising against English rule in the early 15th century?",
+      "choices": [
+        "Llywelyn ap Gruffudd",
+        "Owain Glyndwr",
+        "Dafydd ap Gwynedd",
+        "Rhodri the Great"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1476, who established the first printing press in England?",
+      "choices": [
+        "Johannes Gutenberg",
+        "William Caxton",
+        "Richard Pynson",
+        "Wynkyn de Worde"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What legislation in 1701 secured the Protestant succession to the English throne?",
+      "choices": [
+        "The Bill of Rights",
+        "The Act of Settlement",
+        "The Test Act",
+        "The Toleration Act"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scottish monarch became the first King of England and Scotland in 1603?",
+      "choices": [
+        "James VI of Scotland",
+        "Charles I",
+        "James II",
+        "William III"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many years did the Hundred Years' War between England and France span?",
+      "choices": [
+        "100 years",
+        "116 years",
+        "136 years",
+        "150 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1605, Guy Fawkes and the Gunpowder Plot conspired to blow up which building?",
+      "choices": [
+        "Westminster Abbey",
+        "Tower of London",
+        "Houses of Parliament",
+        "St. Paul's Cathedral"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What event in 1666 destroyed much of London, with estimates suggesting only a handful of deaths?",
+      "choices": [
+        "The Plague of London",
+        "The Great Fire of London",
+        "The Blitz",
+        "The Gunpowder Plot"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Prime Minister took office in 1916 during World War I?",
+      "choices": [
+        "H. H. Asquith",
+        "David Lloyd George",
+        "Bonar Law",
+        "Stanley Baldwin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1951, which Conservative leader became Prime Minister following the general election?",
+      "choices": [
+        "R. A. Butler",
+        "Anthony Eden",
+        "Winston Churchill",
+        "Clement Attlee"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary focus of Enoch Powell's controversial 1968 speech known as 'Rivers of Blood'?",
+      "choices": [
+        "Industrial strikes",
+        "Commonwealth immigration",
+        "Nuclear weapons",
+        "Educational reform"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which novel's obscenity trial in 1960 involved Penguin Books and became a landmark case for free speech?",
+      "choices": [
+        "1984",
+        "Brave New World",
+        "Lady Chatterley's Lover",
+        "The Naked Lunch"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1637, a riot erupted in St Giles' Cathedral in Edinburgh when the Scottish church attempted to adopt what from the English church?",
+      "choices": [
+        "Bishops",
+        "A new prayer book",
+        "Latin services",
+        "Clerical vestments"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the 'Kensington System,' the strict regimen imposed on young Princess Victoria in her childhood?",
+      "choices": [
+        "A military training program",
+        "A system of education and control by her mother and Sir John Conroy",
+        "A health regimen prescribed by her doctors",
+        "A religious instruction program"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Gunpowder Plot attempt to destroy Parliament and King James I?",
+      "choices": [
+        "1603",
+        "1605",
+        "1607",
+        "1609"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English general led Parliamentary forces to victory during the English Civil War and later became Lord Protector?",
+      "choices": [
+        "Oliver Cromwell",
+        "Thomas Fairfax",
+        "Edward Montagu",
+        "George Monck"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary cause of the 1381 Peasants' Revolt in medieval England?",
+      "choices": [
+        "A new tax on land ownership",
+        "A poll tax on common people",
+        "Forced military conscription",
+        "Religious persecution"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which treaty in 1707 united England and Scotland into the Kingdom of Great Britain?",
+      "choices": [
+        "Treaty of Edinburgh",
+        "Treaty of Union",
+        "Treaty of Westminster",
+        "Treaty of Berwick"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Spanish Armada attempt to invade England during Elizabeth I's reign?",
+      "choices": [
+        "1586",
+        "1588",
+        "1590",
+        "1592"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British Prime Minister led the country through most of World War I?",
+      "choices": [
+        "Herbert Asquith",
+        "David Lloyd George",
+        "Clement Attlee",
+        "Winston Churchill"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of the 1660 event that restored Charles II to the English throne?",
+      "choices": [
+        "The Glorious Revolution",
+        "The Restoration",
+        "The Stuart Return",
+        "The Royal Reinstatement"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scottish victory at Bannockburn in 1314 secured independence from English rule for several centuries?",
+      "choices": [
+        "Led by William Wallace",
+        "Led by Robert the Bruce",
+        "Led by John Balliol",
+        "Led by Andrew Murray"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1381, which peasant leader was executed after the collapse of the Peasants' Revolt?",
+      "choices": [
+        "Jack Straw",
+        "Wat Tyler",
+        "John Ball",
+        "Thomas Walsingham"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which act in 1833 began the process of reforming child labor practices in British factories?",
+      "choices": [
+        "Factory Act",
+        "Mines Act",
+        "Children's Rights Act",
+        "Industrial Reform Act"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary purpose of the Corn Laws that were repealed in 1846?",
+      "choices": [
+        "To regulate grain exports to America",
+        "To tax imported grain and protect British farmers",
+        "To control domestic grain prices for consumers",
+        "To establish state granaries"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British explorer circumnavigated the globe between 1768 and 1771 aboard HMS Resolution?",
+      "choices": [
+        "Sir Francis Drake",
+        "Captain James Cook",
+        "William Dampier",
+        "George Vancouver"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the British Parliament formally abolish the slave trade across the British Empire?",
+      "choices": [
+        "1772",
+        "1807",
+        "1833",
+        "1865"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which medieval English king signed the Magna Carta in 1215, limiting royal power?",
+      "choices": [
+        "King John",
+        "King Henry III",
+        "King Richard I",
+        "King Stephen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What event in 1688-1689 resulted in the removal of James II and the installation of William and Mary?",
+      "choices": [
+        "The English Revolution",
+        "The Glorious Revolution",
+        "The Bloodless Coup",
+        "The Stuart Purge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British monarch was the first to reign for over 60 years during the 19th century?",
+      "choices": [
+        "Queen Victoria",
+        "King George III",
+        "King William IV",
+        "Queen Anne"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary focus of the Luddite movement in the early 1800s?",
+      "choices": [
+        "Parliamentary reform",
+        "Opposition to industrial machinery replacing workers",
+        "Irish independence",
+        "Women's suffrage"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1628 document, presented to Charles I, established parliamentary rights and limitations on royal power?",
+      "choices": [
+        "Magna Carta",
+        "Petition of Right",
+        "Bill of Rights",
+        "Declaration of Independence"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Wars of the Roses, which royal house ultimately triumphed and established the Tudor dynasty?",
+      "choices": [
+        "House of York",
+        "House of Lancaster",
+        "House of Tudor",
+        "House of Plantagenet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish rebellion in 1798 sought to establish an independent Irish republic with French support?",
+      "choices": [
+        "The Fenian Raids",
+        "The United Irishmen Rebellion",
+        "The Young Ireland Movement",
+        "The Easter Rising"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British Chancellor of the Exchequer announced the devaluation of the pound sterling from $4.03 to $2.80 in September 1949?",
+      "choices": [
+        "Hugh Dalton",
+        "Stafford Cripps",
+        "Clement Attlee",
+        "Ernest Bevin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was Queen Elizabeth I excommunicated by Pope Pius V?",
+      "choices": [
+        "1558",
+        "1570",
+        "1588",
+        "1603"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scottish-born monarch succeeded Elizabeth I to the English throne in 1603?",
+      "choices": [
+        "James VI of Scotland (James I of England)",
+        "Charles I",
+        "Mary, Queen of Scots",
+        "Henry Stuart"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 1963 Beeching Report primarily addressed the future of which British transport system?",
+      "choices": [
+        "The canal network",
+        "The railway system",
+        "The road infrastructure",
+        "The maritime fleet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish Free State nation formally left the British Commonwealth in 1949?",
+      "choices": [
+        "Northern Ireland",
+        "Ulster",
+        "The Republic of Ireland",
+        "Éire"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1717, King George I attended a famous concert on the River Thames featuring a composition by which celebrated composer?",
+      "choices": [
+        "Henry Purcell",
+        "George Frideric Handel",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English-born churchman became the only English Pope in history?",
+      "choices": [
+        "Thomas Becket",
+        "Nicholas Breakspear",
+        "Thomas More",
+        "John Wycliffe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was executed at Fotheringhay Castle in 1587 after being implicated in plots against Elizabeth I?",
+      "choices": [
+        "Anne Boleyn",
+        "Mary, Queen of Scots",
+        "Lady Jane Grey",
+        "Katherine Howard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 1605 Gunpowder Plot aimed to assassinate which British monarch?",
+      "choices": [
+        "Elizabeth I",
+        "James I",
+        "Charles I",
+        "Oliver Cromwell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1848 novel by Elizabeth Gaskell depicted the industrial hardships faced by Manchester factory workers?",
+      "choices": [
+        "North and South",
+        "Mary Barton",
+        "Sylvia's Lovers",
+        "Wives and Daughters"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the English Civil War begin, initiating conflict between Parliamentarians and Royalists?",
+      "choices": [
+        "1625",
+        "1640",
+        "1642",
+        "1649"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Tudor monarch founded the dynasty by defeating Richard III at the Battle of Bosworth Field in 1485?",
+      "choices": [
+        "Henry VIII",
+        "Henry VII",
+        "Edward IV",
+        "Richard II"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A disaster involving coal waste from a mining operation killed 144 people in a Welsh village in October 1966. What was this catastrophe called?",
+      "choices": [
+        "The Merthyr Collapse",
+        "The Aberfan disaster",
+        "The Rhondda slide",
+        "The Coalfield collapse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British Member of Parliament delivered the controversial 'Rivers of Blood' speech in 1968, opposing immigration policies?",
+      "choices": [
+        "Enoch Powell",
+        "Reginald Maudling",
+        "Keith Joseph",
+        "Margaret Thatcher"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1969, Prince Charles was invested as Prince of Wales in a ceremony held at which castle?",
+      "choices": [
+        "Windsor Castle",
+        "Edinburgh Castle",
+        "Caernarfon Castle",
+        "Tower of London"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Queen Anne reigned over England during which significant political union in 1707?",
+      "choices": [
+        "Union with Scotland",
+        "Union with Wales",
+        "Union with Ireland",
+        "Union with Hanover"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which historical figure led the parliamentary forces during the English Civil War and later became Lord Protector?",
+      "choices": [
+        "Thomas Fairfax",
+        "Oliver Cromwell",
+        "John Pym",
+        "Henry Ireton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The final battle of the Hundred Years' War between England and France took place at which location in 1453?",
+      "choices": [
+        "Agincourt",
+        "Crécy",
+        "Castillon",
+        "Bordeaux"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British monarch's mother was Anne Boleyn, executed when she was just two years old?",
+      "choices": [
+        "Edward VI",
+        "Elizabeth I",
+        "Mary I",
+        "Henry VIII"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In June 1908, over 200,000 people gathered in Hyde Park to march in support of which social movement?",
+      "choices": [
+        "Trade unionism",
+        "Women's suffrage",
+        "Home Rule for Ireland",
+        "Labor rights"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Battle of Hastings take place, fundamentally changing the course of English history?",
+      "choices": [
+        "1065",
+        "1066",
+        "1067",
+        "1070"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English monarch commissioned the construction of Hadrian's Wall during the Roman occupation?",
+      "choices": [
+        "Emperor Claudius",
+        "Emperor Domitian",
+        "Emperor Hadrian",
+        "Emperor Antoninus Pius"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary purpose of the English Bill of Rights, passed in 1689?",
+      "choices": [
+        "To establish freedom of speech for all citizens",
+        "To limit royal power and protect parliamentary privileges",
+        "To abolish the monarchy entirely",
+        "To grant voting rights to the common people"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During the Wars of the Roses, which noble house wore the red rose as their emblem?",
+      "choices": [
+        "House of York",
+        "House of Lancaster",
+        "House of Tudor",
+        "House of Plantagenet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Queen Elizabeth I defeat the Spanish Armada?",
+      "choices": [
+        "1585",
+        "1587",
+        "1588",
+        "1590"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which act united the crowns of England and Scotland in 1707?",
+      "choices": [
+        "Act of Supremacy",
+        "Act of Settlement",
+        "Act of Union",
+        "Act of Succession"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of Oliver Cromwell's military force during the English Civil War?",
+      "choices": [
+        "The Roundhead Army",
+        "The New Model Army",
+        "The Parliamentary Guard",
+        "The Puritan Legion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1215, what document did King John sign to limit royal power and protect baronial rights?",
+      "choices": [
+        "The Charter of Rights",
+        "The English Constitution",
+        "Magna Carta",
+        "The Royal Accord"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British Prime Minister led the country during the majority of World War II?",
+      "choices": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Clement Attlee",
+        "Anthony Eden"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What catastrophic event occurred in London in 1666 that destroyed much of the medieval city?",
+      "choices": [
+        "The Great Plague",
+        "The Great Fire",
+        "The Thames Flood",
+        "The Gunpowder Plot"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Glorious Revolution result in the overthrow of King James II?",
+      "choices": [
+        "1685",
+        "1687",
+        "1688",
+        "1690"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which monarch was responsible for the English Reformation and the break from the Roman Catholic Church?",
+      "choices": [
+        "Henry VII",
+        "Henry VIII",
+        "Edward VI",
+        "Mary I"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary cause of the English Civil War that began in 1642?",
+      "choices": [
+        "Religious disputes over Catholic practices",
+        "Conflict between Parliament and the Crown over power",
+        "Scottish invasion of English territory",
+        "Economic collapse and famine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During the Victorian era, which social movement advocated for electoral reform and workers' rights in the 1830s and 1840s?",
+      "choices": [
+        "The Reform League",
+        "The Chartist Movement",
+        "The Radical Society",
+        "The Workers' Union"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British explorer circumnavigated the globe aboard the HMS Endeavour in the late 18th century?",
+      "choices": [
+        "Sir Francis Drake",
+        "Captain James Cook",
+        "Sir John Franklin",
+        "William Bligh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1605, a conspiracy was uncovered to blow up Parliament and assassinate King James I. What is this event commonly called?",
+      "choices": [
+        "The Rye House Plot",
+        "The Gunpowder Plot",
+        "The Popish Plot",
+        "The Jacobite Conspiracy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which treaty in 1648 ended the Thirty Years' War and is often considered the foundation of modern international law?",
+      "choices": [
+        "Treaty of Westphalia",
+        "Treaty of Utrecht",
+        "Treaty of Madrid",
+        "Treaty of Paris"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year marked the beginning of the Industrial Revolution in Britain, characterized by mechanization and factory systems?",
+      "choices": [
+        "Late 1700s",
+        "Early 1800s",
+        "Mid 1700s",
+        "Late 1600s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British monarch was known as the 'Virgin Queen' and presided over a golden age of English culture?",
+      "choices": [
+        "Mary I",
+        "Elizabeth I",
+        "Anne",
+        "Jane Grey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1953, who became the first person to successfully summit Mount Everest as part of a British expedition?",
+      "choices": [
+        "George Mallory",
+        "Edmund Hillary",
+        "Tenzing Norgay and Edmund Hillary",
+        "Eric Shipton"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English monarch commissioned the construction of the Tower of London in 1066 following the Norman Conquest?",
+      "choices": [
+        "William the Conqueror",
+        "Harold Godwinson",
+        "Edward the Confessor",
+        "Stephen of Blois"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1215, King John was forced to seal the Magna Carta at Runnymede. Which English baron led the baronial revolt that prompted this historic agreement?",
+      "choices": [
+        "Robert of Gloucester",
+        "Robert Fitzwalter",
+        "Simon de Montfort",
+        "Thomas Becket"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During the English Civil War, which military commander led the Parliamentarian forces to victory and later became Lord Protector of England?",
+      "choices": [
+        "Sir Thomas Fairfax",
+        "Oliver Cromwell",
+        "Henry Ireton",
+        "John Lambert"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

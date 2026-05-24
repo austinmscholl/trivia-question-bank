@@ -1,169 +1,3285 @@
 {
   "slug": "comics-trivia",
   "name": "Comics",
-  "description": "Superhero comics, manga, strips, and the comic book industry",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.478Z",
   "questions": [
     {
-      "q": "Who is Superman's main love interest, a reporter at the Daily Planet?",
-      "choices": ["Lana Lang", "Lois Lane", "Cat Grant", "Mercy Graves"],
+      "q": "Which planet did Superman come from?",
+      "choices": [
+        "Starhaven",
+        "Xolnar",
+        "Avalon",
+        "Krypton"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was Marvel Comics founded?",
+      "choices": [
+        "1951",
+        "1939",
+        "1936",
+        "1932"
+      ],
       "correct": 1,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "Lois Lane", "verified": true, "notes": "Created by Jerry Siegel and Joe Shuster. First appeared in Action Comics #1 (1938)." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is Supergirl's relationship to Superman?",
-      "choices": ["Sister", "Daughter", "Cousin", "Aunt"],
-      "correct": 2,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Cousins", "verified": true, "notes": "Real name Kara Zor-El. First appeared in Action Comics #252 (1959)." }
-    },
-    {
-      "q": "What material coats Wolverine's skeleton and claws?",
-      "choices": ["Titanium", "Vibranium", "Adamantium", "Uru"],
-      "correct": 2,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Adamantium", "verified": true, "notes": "Grafted via the Weapon X program. Virtually indestructible Marvel-universe alloy." }
-    },
-    {
-      "q": "In X-Men, who is the cosmic entity that possesses Jean Grey?",
-      "choices": ["Galactus", "Phoenix Force", "Celestial", "Eternity"],
+      "q": "Which superhero is known for his super speed?",
+      "choices": [
+        "Superman",
+        "Flash",
+        "Spiderman",
+        "Batman"
+      ],
       "correct": 1,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Phoenix", "verified": true, "notes": "Massive cosmic power grants Jean godlike abilities. Leads to the 'Dark Phoenix Saga.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1938 comic book introduced Superman, kickstarting the superhero genre?",
-      "choices": ["Detective Comics #27", "Action Comics #1", "Amazing Fantasy #15", "All Star Comics #8"],
-      "correct": 1,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Action Comics #23", "verified": true, "notes": "Superman's debut. A copy sold for $6M in 2024, making it one of the most valuable comics." }
-    },
-    {
-      "q": "What comic series introduced Batman in 1939?",
-      "choices": ["Detective Comics", "Action Comics", "World's Finest", "Batman Beyond"],
+      "q": "What is the alter-ego of the DC comics character \"Superman\"?",
+      "choices": [
+        "Clark Kent",
+        "John Jones",
+        "Bruce Wayne",
+        "Arthur Curry"
+      ],
       "correct": 0,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "The Beano", "verified": true, "notes": "Detective Comics #27. The 'DC' in DC Comics comes from this title." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which British comic, launched in 1938, is still published today?",
-      "choices": ["Beano", "Dandy", "Eagle", "Action"],
-      "correct": 0,
-      "category": "Comics",
-      "difficulty": "hard",
-      "source": { "original_a": "The Beano", "verified": true, "notes": "Home to Dennis the Menace, Minnie the Minx, and other classic British comic characters." }
-    },
-    {
-      "q": "What is Peter Parker's day job in the comics?",
-      "choices": ["Police officer", "Newspaper photographer", "Scientist", "High school student/teacher"],
+      "q": "According to their longtime nickname, what kind of \"duo\" are Batman & Robin?",
+      "choices": [
+        "Delirious",
+        "Dynamic",
+        "Dynastic",
+        "Dangerous"
+      ],
       "correct": 1,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Cousins", "verified": true, "notes": "Photographer at the Daily Bugle. J. Jonah Jameson is his boss." }
+      "difficulty": "easy"
     },
     {
-      "q": "How many Robins have served as Batman's sidekick in the main DC continuity?",
-      "choices": ["3", "4", "5", "6"],
-      "correct": 2,
-      "category": "Comics",
-      "difficulty": "hard",
-      "source": { "original_a": "Cousins", "verified": true, "notes": "Dick Grayson, Jason Todd, Tim Drake, Stephanie Brown, Damian Wayne. (Sometimes cited as 4-5 depending on who counts.)" }
+      "q": "Who is Batman?",
+      "choices": [
+        "Bruce Wayne",
+        "Clark Kent",
+        "Barry Allen",
+        "Tony Stark"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which company publishes Spider-Man and X-Men comics?",
-      "choices": ["DC Comics", "Image Comics", "Marvel Comics", "Dark Horse"],
-      "correct": 2,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "Master Mold", "verified": true, "notes": "Marvel (originally Atlas, Timely). DC publishes Batman, Superman, Wonder Woman, etc." }
+      "q": "In Black Hammer, what city did the heroes save from the Anti-God?",
+      "choices": [
+        "Spiral City",
+        "Star City",
+        "Mega-City One",
+        "Rockwood"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Eric Wimp transforms into which banana-fueled British comic superhero?",
-      "choices": ["Captain Peel", "Bananaman", "Fruity Hero", "Monkey Man"],
+      "q": "In the Marvel comic \"The Superior Spider-Man\", Peter Parker's body is taken over by which character?",
+      "choices": [
+        "Eddie Brock ",
+        "Otto Octavius ",
+        "Mary Jane",
+        "Norman Osborn"
+      ],
       "correct": 1,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Bananaman", "verified": true, "notes": "British parody of American superheroes. Debuted in Nutty comic, 1980." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Japanese comic style is known for black-and-white panels read right-to-left?",
-      "choices": ["Anime", "Manga", "Doujinshi", "Shojo"],
+      "q": "Which one of these superhero teams appears in the Invincible comics?",
+      "choices": [
+        "Justice League",
+        "Teenage Mutant Ninja Turtles",
+        "Avengers",
+        "Guardians of the Globe"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "This Marvel superhero is often called \"The man without fear\".",
+      "choices": [
+        "Hulk",
+        "Daredevil",
+        "Thor",
+        "Wolverine"
+      ],
       "correct": 1,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "Manga", "verified": true, "notes": "Japanese word for 'comics' or 'cartoons.' 'Shojo' and 'doujinshi' are subcategories." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the human form of the character known as the Hulk?",
-      "choices": ["Peter Parker", "Bruce Wayne", "Bruce Banner", "Tony Stark"],
+      "q": "In \"Homestuck\" the \"Kingdom of Darkness\" is also known as?",
+      "choices": [
+        "Prospit",
+        "The Medium",
+        "Skaia",
+        "Derse"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which universe crossover was introduced in the \"Sonic the Hedgehog\" comic issue #247?",
+      "choices": [
+        "Alex Kidd",
+        "Super Monkey Ball",
+        "Mega Man",
+        "Super Mario Brothers"
+      ],
       "correct": 2,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "Master Mold", "verified": true, "notes": "Dr. Robert Bruce Banner, nuclear physicist. Created by Stan Lee and Jack Kirby (1962)." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is Batman's butler?",
-      "choices": ["Alfred Pennyworth", "Lucius Fox", "Barbara Gordon", "Bruce Wayne Sr."],
+      "q": "In \"Homestuck\" what is Dave Strider's guardian?",
+      "choices": [
+        "Bro",
+        "Halley",
+        "Becquerel",
+        "Doc Scratch"
+      ],
       "correct": 0,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "Lois Lane", "verified": true, "notes": "Alfred is Bruce Wayne's father figure and confidant. First appeared in Batman #16 (1943)." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which X-Men character is a blue, teleporting mutant?",
-      "choices": ["Wolverine", "Nightcrawler", "Beast", "Cyclops"],
+      "q": "In DC comics, what is Owlman's real name?",
+      "choices": [
+        "Bruce Wayne",
+        "Joseph Chill ",
+        "Thomas Wayne",
+        "Thomas Wayne Jr."
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The main six year old protagonist in Calvin and Hobbes is named after what theologian?",
+      "choices": [
+        "Calvin Klein",
+        "John Calvin",
+        "Phillip Calvin McGraw",
+        "Calvin Coolidge"
+      ],
       "correct": 1,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Phoenix", "verified": true, "notes": "Kurt Wagner. Teleports via a BAMF! sound. Mother is Mystique, father is the demon Azazel." }
+      "difficulty": "easy"
     },
     {
-      "q": "Galactus is famous in Marvel Comics for what?",
-      "choices": ["Eating planets", "Time travel", "Creating the universe", "Mutating humans"],
-      "correct": 0,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Master Mold", "verified": true, "notes": "Cosmic being who consumes planets to survive. Silver Surfer is his herald." }
-    },
-    {
-      "q": "Sentinels are giant robots used by whom to hunt mutants?",
-      "choices": ["S.H.I.E.L.D.", "Hydra", "The government / Bolivar Trask", "The Hand"],
+      "q": "What's the race of Invincible's father?",
+      "choices": [
+        "Kree",
+        "Irken",
+        "Viltrumite",
+        "Kryptonian"
+      ],
       "correct": 2,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Master Mold", "verified": true, "notes": "Created by Bolivar Trask in X-Men comics. Featured in 'Days of Future Past' storyline." }
+      "difficulty": "easy"
     },
     {
-      "q": "Archie Andrews, Betty, Veronica, and Jughead live in which fictional town?",
-      "choices": ["Smallville", "Metropolis", "Riverdale", "Gotham"],
+      "q": "What is the full first name of the babysitter in Calvin and Hobbes?",
+      "choices": [
+        "Rosalyn",
+        "Rose",
+        "Ruby",
+        "Rachel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the creator of the comic series \"The Walking Dead\"?",
+      "choices": [
+        "Robert Crumb",
+        "Stan Lee",
+        "Robert Kirkman",
+        "Malcolm Wheeler-Nicholson"
+      ],
       "correct": 2,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "The Beano", "verified": true, "notes": "First appeared 1941. Published by Archie Comics. Inspired CW's 'Riverdale' TV series." }
+      "difficulty": "easy"
     },
     {
-      "q": "What was the creative partnership between artist Jack Kirby and writer Stan Lee known for?",
-      "choices": ["Marvel Comics Silver Age", "DC's Justice League", "Dark Horse comics", "Image Comics founding"],
+      "q": "What is the name of the lasagna-loving cartoon cat created by Jim Davis?",
+      "choices": [
+        "Garfield",
+        "Tom",
+        "Felix",
+        "Sylvester"
+      ],
       "correct": 0,
-      "category": "Comics",
-      "difficulty": "medium",
-      "source": { "original_a": "Master Mold", "verified": true, "notes": "Co-created Fantastic Four, X-Men, Hulk, Thor, Iron Man, Avengers in the 1960s." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Marvel character is a master archer and often teamed with the Avengers?",
-      "choices": ["Hawkeye", "Daredevil", "Moon Knight", "Black Panther"],
+      "q": "Which billionaire superhero wears a black cape and cowl to fight crime in Gotham City?",
+      "choices": [
+        "Clark Kent",
+        "Bruce Wayne",
+        "Tony Stark",
+        "Peter Parker"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is The Joker typically portrayed wearing in Batman comics?",
+      "choices": [
+        "Red",
+        "Green",
+        "Purple",
+        "Orange"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the X-Men film series, which actress portrayed the shape-shifting villain Mystique?",
+      "choices": [
+        "Jennifer Lawrence",
+        "Rebecca Romijn",
+        "Anna Paquin",
+        "Sophie Turner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the four ninja turtles famously eat while fighting crime in New York?",
+      "choices": [
+        "Sushi",
+        "Pizza",
+        "Tacos",
+        "Hamburgers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Marvel character is known as the 'Man of Steel' and works at the Daily Planet newspaper?",
+      "choices": [
+        "Spider-Man",
+        "Iron Man",
+        "Superman",
+        "Captain America"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the ancient Gallic village that resists Roman occupation in the classic comic series?",
+      "choices": [
+        "Gaul",
+        "Asterix",
+        "Obelix",
+        "Armorica"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the photographer at the Daily Planet known for always carrying a camera?",
+      "choices": [
+        "Lois Lane",
+        "Jimmy Olsen",
+        "Perry White",
+        "Clark Kent"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the comic series Asterix first published?",
+      "choices": [
+        "1952",
+        "1959",
+        "1965",
+        "1971"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which symbiote villain becomes the nemesis of Spider-Man after bonding with serial killer Cletus Kasady?",
+      "choices": [
+        "Venom",
+        "Carnage",
+        "Toxin",
+        "Riot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Spider-Man's web-slinging nemesis who rides a glider and throws pumpkin bombs?",
+      "choices": [
+        "Doctor Octopus",
+        "Green Goblin",
+        "Sandman",
+        "Vulture"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company purchased Marvel Comics in 2009?",
+      "choices": [
+        "Warner Bros.",
+        "Universal Studios",
+        "Disney",
+        "Sony"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In DC Comics lore, which alien creature killed Superman in the storyline 'The Death of Superman'?",
+      "choices": [
+        "Darkseid",
+        "Doomsday",
+        "Brainiac",
+        "Lex Luthor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the glowing green planet that serves as the home base for the Green Lantern Corps' Guardians?",
+      "choices": [
+        "Oa",
+        "Krypton",
+        "Thanagar",
+        "Apokolips"
+      ],
       "correct": 0,
-      "category": "Comics",
-      "difficulty": "easy",
-      "source": { "original_a": "Master Mold", "verified": true, "notes": "Clint Barton. Former circus performer. First appeared Tales of Suspense #57 (1964)." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comic strip features the character Gnasher, a dog known for his mischievous antics?",
+      "choices": [
+        "The Dandy",
+        "The Beano",
+        "Commando",
+        "Bunty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What incredible event gave the Fantastic Four their superpowers?",
+      "choices": [
+        "Radioactive accident",
+        "Cosmic space flight",
+        "Science experiment",
+        "Alien encounter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Marvel character did Samuel L. Jackson portray as a high-ranking intelligence officer across multiple films?",
+      "choices": [
+        "War Machine",
+        "Nick Fury",
+        "Black Panther",
+        "Hawkeye"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which modern country is the fictional village of Asterix located?",
+      "choices": [
+        "Germany",
+        "Spain",
+        "France",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Harvey Comics character is known for her enormous appetite and voracious eating habits?",
+      "choices": [
+        "Hot Stuff",
+        "Casper",
+        "Little Lotta",
+        "Stumbo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Cable's birth name, being the son of Cyclops and Madelyne Prior in Marvel Comics?",
+      "choices": [
+        "Nathan Summers",
+        "Nathan Dayspring",
+        "Christopher Summers",
+        "Alex Summers"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Superman's home planet before it was destroyed?",
+      "choices": [
+        "Krypton",
+        "Kandor",
+        "Argo",
+        "New Genesis"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city does Spider-Man primarily fight crime?",
+      "choices": [
+        "Metropolis",
+        "New York City",
+        "Central City",
+        "Gotham City"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Wonder Woman's real civilian name?",
+      "choices": [
+        "Diana Prince",
+        "Diana Kyle",
+        "Diana West",
+        "Diana Storm"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which villain is known as Spider-Man's most iconic nemesis and wears a green costume?",
+      "choices": [
+        "Doctor Octopus",
+        "Green Goblin",
+        "Venom",
+        "Carnage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What metal is Captain America's shield made of?",
+      "choices": [
+        "Steel",
+        "Vibranium",
+        "Adamantium",
+        "Titanium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Batman's butler and trusted confidant?",
+      "choices": [
+        "Gordon",
+        "Alfred",
+        "Lucius",
+        "Harvey"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Daily Planet's star reporter who loves Superman?",
+      "choices": [
+        "Mary Jane Watson",
+        "Lois Lane",
+        "Iris West",
+        "Pepper Potts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the first issue of Action Comics introduce Superman to the world?",
+      "choices": [
+        "1935",
+        "1936",
+        "1937",
+        "1938"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the names of Batman's two child sidekicks from the comics?",
+      "choices": [
+        "Robin and Speedy",
+        "Robin and Kid Flash",
+        "Robin and Aqualad",
+        "Robin and Red Arrow"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which X-Men character can control the weather?",
+      "choices": [
+        "Phoenix",
+        "Storm",
+        "Iceman",
+        "Cyclops"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the villain who is Lex Luthor's most frequent adversary Superman?",
+      "choices": [
+        "Brainiac",
+        "Darkseid",
+        "Lex Luthor",
+        "Metallo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the leader of the Fantastic Four?",
+      "choices": [
+        "Johnny Storm",
+        "Ben Grimm",
+        "Reed Richards",
+        "Sue Storm"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Black Widow's real name in Marvel comics?",
+      "choices": [
+        "Natasha Romanoff",
+        "Yelena Belova",
+        "Taskmaster",
+        "Agent Hill"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which DC villain is known as the fastest man alive before becoming a speedster himself?",
+      "choices": [
+        "Captain Cold",
+        "Weather Wizard",
+        "Professor Zoom",
+        "Mirror Master"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Marvel comics, what is Tony Stark's superhero alias?",
+      "choices": [
+        "War Machine",
+        "Iron Man",
+        "Titanium Man",
+        "Gold Sentinel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the underwater kingdom where Aquaman rules?",
+      "choices": [
+        "Atlantis",
+        "Poseidonis",
+        "Lemuria",
+        "Mu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Marvel character is a billionaire genius inventor with a goatee?",
+      "choices": [
+        "Bruce Banner",
+        "Stephen Strange",
+        "Tony Stark",
+        "Hank Pym"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the training facility for young mutants led by Professor Xavier?",
+      "choices": [
+        "Avengers Tower",
+        "Xavier School for Gifted Youngsters",
+        "Stark Industries",
+        "S.H.I.E.L.D. Academy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the editor-in-chief at the Daily Planet where Superman works as Clark Kent?",
+      "choices": [
+        "Perry White",
+        "Jimmy Olsen",
+        "Cat Grant",
+        "Ben Hubbard"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the secret identity of Green Lantern Hal Jordan's profession?",
+      "choices": [
+        "Journalist",
+        "Test Pilot",
+        "Engineer",
+        "Detective"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Batman first appear in DC Comics?",
+      "choices": [
+        "1936",
+        "1939",
+        "1942",
+        "1945"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Superman's adoptive father who raised him on Earth?",
+      "choices": [
+        "Jonathan Kent",
+        "Thomas Wayne",
+        "Jor-El",
+        "Perry White"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which magical artifact does Wonder Woman use to compel people to tell the truth?",
+      "choices": [
+        "Lasso of Truth",
+        "Sword of Justice",
+        "Tiara of Wisdom",
+        "Bracelets of Power"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are the primary colors of The Flash's costume?",
+      "choices": [
+        "Blue and gold",
+        "Red and yellow",
+        "Red and blue",
+        "Yellow and black"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Batman's loyal butler and trusted confidant?",
+      "choices": [
+        "Gordon",
+        "Alfred",
+        "Drake",
+        "Fox"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the source of Green Lantern's extraordinary powers?",
+      "choices": [
+        "A magical amulet",
+        "Alien technology",
+        "A power ring",
+        "Radioactive exposure"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Spider-Man comics, what color is his classic costume primarily?",
+      "choices": [
+        "Blue and green",
+        "Red and blue",
+        "Red and black",
+        "Blue and yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Peter Parker's home city where Spider-Man operates?",
+      "choices": [
+        "Gotham City",
+        "New York City",
+        "Metropolis",
+        "Central City"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Avenger wields a magical hammer as his primary weapon?",
+      "choices": [
+        "Iron Man",
+        "Thor",
+        "Captain America",
+        "Black Widow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who leads S.H.I.E.L.D. and is known for wearing an eye patch?",
+      "choices": [
+        "Phil Coulson",
+        "Nick Fury",
+        "Maria Hill",
+        "Daisy Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Superman's birth name from the planet Krypton?",
+      "choices": [
+        "Kal-El",
+        "Clark Kent",
+        "Jor-El",
+        "Val-Zod"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Robin became the independent hero Nightwing?",
+      "choices": [
+        "Jason Todd",
+        "Tim Drake",
+        "Dick Grayson",
+        "Stephanie Brown"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the daily newspaper where Clark Kent works?",
+      "choices": [
+        "Gotham Chronicle",
+        "Daily Planet",
+        "Daily Bugle",
+        "Star City Times"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Marvel comics, who is Peter Parker's famous newspaper employer?",
+      "choices": [
+        "The Daily Planet",
+        "The Daily Bugle",
+        "The Daily Tribune",
+        "The Daily Globe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comic strip features a lazy orange cat named Garfield?",
+      "choices": [
+        "Pogo",
+        "Garfield",
+        "Dilbert",
+        "Bloom County"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Calvin's stuffed tiger companion in the comic strip Calvin and Hobbes?",
+      "choices": [
+        "Hobbes",
+        "Spaceman Spiff",
+        "Tracer Bullet",
+        "Rosalyn"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What character is known for his anchor tattoos and love of spinach?",
+      "choices": [
+        "Popeye the Sailorman",
+        "Sailor Moon",
+        "Captain Hook",
+        "Daffy Duck"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What two-faced villain makes decisions based on a coin flip?",
+      "choices": [
+        "The Riddler",
+        "Two-Face",
+        "The Penguin",
+        "Scarecrow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the fictional company that funds the Green Arrow's vigilante activities?",
+      "choices": [
+        "Stark Industries",
+        "Queen Industries",
+        "Wayne Enterprises",
+        "Oscorp"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Batman's loyal butler and caretaker?",
+      "choices": [
+        "Alfred Pennyworth",
+        "Thomas Drake",
+        "William Graves",
+        "James Stevens"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which superhero is known for his red and blue suit and web-slinging abilities?",
+      "choices": [
+        "Superman",
+        "Spider-Man",
+        "Captain America",
+        "The Flash"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the real name of the superhero Clark Kent?",
+      "choices": [
+        "Superman",
+        "Kal-El",
+        "Bruce Wayne",
+        "Peter Parker"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which fictional city does Batman primarily fight crime?",
+      "choices": [
+        "Metropolis",
+        "Gotham City",
+        "Central City",
+        "Starling City"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the green, rage-filled superhero created by gamma radiation?",
+      "choices": [
+        "The Flash",
+        "Green Lantern",
+        "The Hulk",
+        "Aquaman"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the names of the two main publishers of American comic books?",
+      "choices": [
+        "Image and Boom!",
+        "Marvel and DC",
+        "Vertigo and Wildstorm",
+        "Dark Horse and Valiant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comic strip features a boy named Calvin and his stuffed tiger?",
+      "choices": [
+        "Garfield",
+        "Calvin and Hobbes",
+        "Peanuts",
+        "The Far Side"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Wonder Woman's lasso that compels truth?",
+      "choices": [
+        "Rope of Justice",
+        "Lasso of Truth",
+        "Golden Whip",
+        "Cord of Honesty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which superhero team includes Iron Man, Captain America, and Thor?",
+      "choices": [
+        "X-Men",
+        "Avengers",
+        "Fantastic Four",
+        "Guardians of the Galaxy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the weakness of Superman?",
+      "choices": [
+        "Water",
+        "Kryptonite",
+        "Fire",
+        "Magic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the wealthy inventor and superhero known as Iron Man?",
+      "choices": [
+        "Bruce Banner",
+        "Tony Stark",
+        "Steve Rogers",
+        "Clint Barton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the X-Men comics, what is Professor Xavier's first name?",
+      "choices": [
+        "Charles",
+        "Erik",
+        "James",
+        "Robert"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comic strip depicts the adventures of a sailor with supernatural strength?",
+      "choices": [
+        "Asterix",
+        "Popeye",
+        "Tintin",
+        "Garfield"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the secret identity of the Green Lantern Hal Jordan?",
+      "choices": [
+        "Test Pilot",
+        "Fighter Pilot",
+        "Airline Pilot",
+        "Astronaut"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which villain is known for being Batman's arch-nemesis and crime boss of Gotham?",
+      "choices": [
+        "The Riddler",
+        "The Joker",
+        "Two-Face",
+        "Scarecrow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What fictional element allows the Fantastic Four to fight crime together?",
+      "choices": [
+        "Alien technology",
+        "Cosmic radiation",
+        "Magic",
+        "Genetic mutation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the fastest superhero in DC Comics?",
+      "choices": [
+        "Superman",
+        "Wonder Woman",
+        "The Flash",
+        "Aquaman"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was Action Comics #1, featuring the first appearance of Superman, published?",
+      "choices": [
+        "1936",
+        "1938",
+        "1940",
+        "1942"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comic strip features a boy named Charlie Brown and his dog Snoopy?",
+      "choices": [
+        "Garfield",
+        "Calvin and Hobbes",
+        "Peanuts",
+        "Bloom County"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color does Spider-Man's suit typically feature?",
+      "choices": [
+        "Blue and yellow",
+        "Red and blue",
+        "Black and red",
+        "Green and yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Batman's loyal butler and trusted confidant?",
+      "choices": [
+        "Alfred Pennyworth",
+        "James Gordon",
+        "Lucius Fox",
+        "Thomas Drake"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major entertainment company acquired Marvel in 2009?",
+      "choices": [
+        "Warner Bros",
+        "Disney",
+        "Sony Pictures",
+        "Universal Studios"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the first \"The Walking Dead\" comic come out?",
+      "choices": [
+        "2006",
+        "2001",
+        "1999",
+        "2003"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When Batman trolls the online chat rooms, what alias does he use?",
+      "choices": [
+        "JonDoe297",
+        "iAmBatman",
+        "BWayne13",
+        "BW1129"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",
+      "choices": [
+        "Muhammad Ali",
+        "Arnold Schwarzenegger",
+        "Sylvester Stallone",
+        "Mike Tyson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year was the first San Diego Comic-Con?",
+      "choices": [
+        "1970",
+        "2000",
+        "1990",
+        "1985"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",
+      "choices": [
+        "Scarecrow",
+        "Bane",
+        "Calendar Man",
+        "Clayface"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Hellboy universe, what was Abe Sapien's birth name?",
+      "choices": [
+        "Lord Baltimore",
+        "Landis Pope",
+        "Langdon Everett Caul",
+        "Sir Edward Grey"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic?",
+      "choices": [
+        "Yellow (Fear)",
+        "Indigo (Compassion)",
+        "White (Life)",
+        "Green (Willpower)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Better known by his nickname Logan, what is Wolverine's birth name?",
+      "choices": [
+        "Logan Wolf",
+        "Thomas Wilde",
+        "John Savage",
+        "James Howlett"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the \"Archie\" comics, who was Jughead's first girlfriend?",
+      "choices": [
+        "Ethel",
+        "Margret",
+        "Debbi",
+        "Joani"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?",
+      "choices": [
+        "Lobster Johnson",
+        "The Wendigo",
+        "The Spider",
+        "Roger the Homunculus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the webcomic \"Ava's Demon\", what sin is \"Nevy Nervine\" based off of? ",
+      "choices": [
+        "Envy ",
+        "Lust",
+        "Wrath ",
+        "Sloth"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When was the Garfield comic first published?",
+      "choices": [
+        "1988",
+        "1978",
+        "1982",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Marvel Universe, the planet of Svartalfheim is home to what race?",
+      "choices": [
+        "Skrulls",
+        "Dark Elves",
+        "Kronans",
+        "Frost Giants"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What are the names of the two \"Canon fan trolls\" in \"Homestuck\"?",
+      "choices": [
+        "Grekei Ceknux and Riya Camacho",
+        "Aikter Frekik and Xagrai Ollomu",
+        "The Wrycrown and Voksea Olkido",
+        "Mierfa Durgas and Nektan Whelan"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",
+      "choices": [
+        "Yellow Moon",
+        "No Name",
+        "Golden City",
+        "Prospit"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what Homestuck Update was [S] Game Over released?",
+      "choices": [
+        "October 25th, 2014",
+        "April 13th, 2009",
+        "August 28th, 2003",
+        "April 8th, 2012"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+      "choices": [
+        "Auburn",
+        "Brown",
+        "Blonde",
+        "Black"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What are the Three Virtues of Bionicle?",
+      "choices": [
+        "Unity, Duty, Destiny",
+        "Forge, Build, Fight",
+        "Work, Play, Live",
+        "Build, Play, Change"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Marvel Comics storyline 'Days of Future Past,' which mutant-hunting robot species threatens mutantkind?",
+      "choices": [
+        "Sentinels",
+        "Reavers",
+        "Hellfire Club",
+        "Purifiers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the civilian name of the DC Comics character known as The Flash in the Silver Age comics?",
+      "choices": [
+        "Wally West",
+        "Barry Allen",
+        "Jay Garrick",
+        "Bart Allen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which comic book artist co-created the visual style of Sin City with Frank Miller?",
+      "choices": [
+        "Lynn Varley",
+        "David Mazzucchelli",
+        "Klaus Janson",
+        "John Romita Jr."
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the first issue of 'The Sandman' by Neil Gaiman debut from DC Comics?",
+      "choices": [
+        "1989",
+        "1991",
+        "1993",
+        "1987"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Magneto's biological daughter who possesses reality-warping powers in Marvel Comics?",
+      "choices": [
+        "Scarlet Witch",
+        "Polaris",
+        "Quicksilver",
+        "Rogue"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British comic book series, created by Alan Moore, features the character Adrian Veidt as a primary antagonist?",
+      "choices": [
+        "V for Vendetta",
+        "Watchmen",
+        "From Hell",
+        "The League of Extraordinary Gentlemen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the DC Comics antihero Deathstroke?",
+      "choices": [
+        "Slade Wilson",
+        "Grant Wilson",
+        "David Cain",
+        "Thomas Merlyn"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original manga 'Akira' by Katsuhiro Otomo, what is the primary setting's location?",
+      "choices": [
+        "Tokyo",
+        "Neo-Tokyo",
+        "Osaka",
+        "Kyoto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mutant character leads the X-Men faction called the Hellfire Club in early Marvel storylines?",
+      "choices": [
+        "Emma Frost",
+        "Sebastian Shaw",
+        "Trevor Fitzroy",
+        "Mister Sinister"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the alter ego of the DC Comics character who wields the Lasso of Truth?",
+      "choices": [
+        "Diana Prince",
+        "Kara Zor-El",
+        "Helena Kyle",
+        "Dinah Lance"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Frank Miller's 'The Dark Knight Returns,' how many years has Batman been retired before resuming his vigilante activities?",
+      "choices": [
+        "15 years",
+        "10 years",
+        "20 years",
+        "25 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese manga series, authored by Masashi Kishimoto, centers on ninjas in the village of Konoha?",
+      "choices": [
+        "Bleach",
+        "Naruto",
+        "One Piece",
+        "My Hero Academia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the superhero identity of Peter Parker's clone created in the 'Clone Saga' Marvel storyline?",
+      "choices": [
+        "Scarlet Spider",
+        "Spider-Clone",
+        "Venom",
+        "Carnage"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the comic book 'Persepolis' by Marjane Satrapi, which country's Islamic Revolution forms the historical backdrop?",
+      "choices": [
+        "Iraq",
+        "Syria",
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Marvel Comics villain is revealed to be the son of Brian Xavier and Kurt Marko's wife Sharon Xavier?",
+      "choices": [
+        "Sabretooth",
+        "Stryfe",
+        "Cain Marko",
+        "Donald Pierce"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the organization that employs Bruce Banner and Tony Stark in early Marvel Comics continuity?",
+      "choices": [
+        "S.H.I.E.L.D.",
+        "S.T.A.R. Labs",
+        "Hydra",
+        "A.I.M."
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Grant Morrison's run on 'Animal Man,' which crisis storyline crosses over with his narrative?",
+      "choices": [
+        "Crisis on Infinite Earths",
+        "Infinite Crisis",
+        "Final Crisis",
+        "Blackest Night"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which DC Comics antihero, created by John Ostrander, is a former assassin with split personalities?",
+      "choices": [
+        "Deadshot",
+        "Suicide Squad",
+        "Harley Quinn",
+        "Suicide Slayer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What psychological condition does the character Rorschach display in 'Watchmen' by Alan Moore?",
+      "choices": [
+        "Dissociative Identity Disorder",
+        "Antisocial Personality Disorder",
+        "Schizophrenia",
+        "Paranoid Personality Disorder"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the manga 'Fullmetal Alchemist,' what is the primary taboo that the Elric brothers violate at the story's beginning?",
+      "choices": [
+        "Human Transmutation",
+        "Philosopher's Stone creation",
+        "State Alchemy violation",
+        "Homunculus binding"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which 1986 limited series did Frank Miller and David Mazzucchelli reinvent Batman's origin and introduce the concept of Batman as a symbol of terror?",
+      "choices": [
+        "Batman: Year One",
+        "The Dark Knight Returns",
+        "Batman: Long Halloween",
+        "Batman: Arkham Asylum"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist and writer created the character Hellblazer's John Constantine, debuting the character in a Swamp Thing storyline?",
+      "choices": [
+        "Alan Moore",
+        "Jamie Delano",
+        "Garth Ennis",
+        "Neil Gaiman"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the sentient cloud-like entity that serves as the primary antagonist in Grant Morrison's run on 'Animal Man'?",
+      "choices": [
+        "The Anti-Life Equation",
+        "The Deus Ex Machina",
+        "The Overvoid",
+        "The Red"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Marvel Comics continuity, which mutant's body was cloned to create the character X-23, who later becomes Wolverine?",
+      "choices": [
+        "Wolverine",
+        "Sabretooth",
+        "Cable",
+        "Stryfe"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the true identity of the villain Onslaught, who appeared as a major X-Men and Avengers antagonist in the mid-1990s?",
+      "choices": [
+        "Professor Xavier's dark psyche merged with Magneto's consciousness",
+        "A clone of Mr. Sinister",
+        "A future version of Cable",
+        "An alternate dimension version of Wolverine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British comic book writer penned the groundbreaking 'Watchmen' series alongside artist Dave Gibbons?",
+      "choices": [
+        "Grant Morrison",
+        "Alan Moore",
+        "Neil Gaiman",
+        "Warren Ellis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the DC Comics universe, which deity does Wonder Woman serve as an emissary, making her both warrior and ambassador?",
+      "choices": [
+        "Ares",
+        "Athena",
+        "Zeus",
+        "Hephaestus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the alien race that communicates only through a form of sexual reproduction in Warren Ellis's 'Planetary'?",
+      "choices": [
+        "The Centauri",
+        "The Hegemony",
+        "The Nosferatu",
+        "The Archaeologists"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which X-Men member was originally intended to be the biological father of Hope Summers before the character's arc was altered?",
+      "choices": [
+        "Cyclops",
+        "Cable",
+        "Wolverine",
+        "Beast"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Garth Ennis's 'Preacher,' what supernatural artifact does the Saint of Killers use to carry out his violence?",
+      "choices": [
+        "Holy water guns",
+        "Twin pistols forged in Hell",
+        "A cursed Bible",
+        "An angelic sword"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British writer created the character Swamp Thing in his acclaimed 1985 run that revitalized the character?",
+      "choices": [
+        "Neil Gaiman",
+        "Alan Moore",
+        "Grant Morrison",
+        "Warren Ellis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the antihero Lobo, the bounty hunter from DC Comics known for his excessive violence and crude humor?",
+      "choices": [
+        "Mikhail Arkadin",
+        "Not revealed in canon",
+        "Lobo of Czarnia",
+        "Marcus Cole"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Brian K. Vaughan's 'Y: The Last Man,' what cataclysmic event kills nearly all male mammals on Earth?",
+      "choices": [
+        "A genetically engineered plague",
+        "A solar flare",
+        "An unexplained and never-revealed biological event",
+        "A government experiment gone wrong"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist illustrated the majority of Frank Miller's 'Sin City' series with high-contrast black and white artwork?",
+      "choices": [
+        "Frank Miller himself",
+        "David Mazzucchelli",
+        "Lynn Varley",
+        "Klaus Janson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1991 'Infinity Gauntlet' series, which cosmic entity does Thanos initially align with to collect the Infinity Stones?",
+      "choices": [
+        "The Living Tribunal",
+        "Death personified",
+        "The One Above All",
+        "Mistress Death"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the dimension that Scott Pilgrim and his love interest Ramona Flowers travel to in the later volumes?",
+      "choices": [
+        "Subspace Highway",
+        "The Nexus",
+        "The Digital Underground",
+        "Mirror World"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character from 'The Sandman' series is revealed to be the eldest being in existence and predates even Destiny himself?",
+      "choices": [
+        "Lucifer Morningstar",
+        "Death",
+        "The Endless",
+        "Rose Walker"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Marjane Satrapi's 'Persepolis,' what political event forces the protagonist's family to flee Iran?",
+      "choices": [
+        "The Iranian Revolution of 1979",
+        "The Iraq-Iran War invasion",
+        "The 1953 CIA-backed coup",
+        "The Khomeini assassination attempt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Marvel anti-hero's healing factor was originally derived from a combination of mutation and experimental enhancement rather than purely genetic?",
+      "choices": [
+        "Wolverine",
+        "Deadpool",
+        "Daken",
+        "X-23"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Mike Mignola's 'Hellboy,' what is the origin of Hellboy's right hand, which possesses reality-altering powers?",
+      "choices": [
+        "A gift from Anung Un Rama",
+        "The Right Hand of Doom from the Ogdru Jahad",
+        "A demon artifact grafted by the Bureau",
+        "An enchantment by Liz Sherman"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original DC Comics continuity, what is the real name of the villain Reverse-Flash who first appeared in 1963?",
+      "choices": [
+        "Barry Allen",
+        "Professor Zoom",
+        "Eobard Thawne",
+        "Wally West"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which comic book artist pioneered the 'Marvel Method' of comic creation in the 1960s?",
+      "choices": [
+        "Steve Ditko",
+        "Jack Kirby",
+        "Frank Miller",
+        "George Pérez"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Stan Lee and Jack Kirby co-create the Fantastic Four?",
+      "choices": [
+        "1956",
+        "1961",
+        "1965",
+        "1969"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Bruce Banner's alter ego's father in Marvel Comics canon?",
+      "choices": [
+        "David Banner",
+        "Kurt Bannister",
+        "Brian Banner",
+        "Daniel Banner"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which comic book series introduced the concept of the 'Multiverse' to DC Comics?",
+      "choices": [
+        "The Flash",
+        "The Flash of Two Worlds",
+        "Crisis on Infinite Earths",
+        "Infinite Crisis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original comic books, what metal is Superman's weakness to besides kryptonite?",
+      "choices": [
+        "Lead",
+        "Red sun radiation",
+        "Magic",
+        "Red kryptonite"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the civilian name of the Black Widow in Marvel Comics?",
+      "choices": [
+        "Natasha Romanoff",
+        "Anya Romanova",
+        "Natasha Volkova",
+        "Anna Romanova"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese manga series holds the record for the highest-selling manga of all time?",
+      "choices": [
+        "Naruto",
+        "One Piece",
+        "Dragon Ball",
+        "Bleach"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Alan Moore's 'Watchmen,' what is the name of the all-powerful, god-like character?",
+      "choices": [
+        "The Comedian",
+        "Doctor Manhattan",
+        "Ozymandias",
+        "Rorschach"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the first artist to receive the prestigious Eisner Award for Best Penciler/Inker in 1988?",
+      "choices": [
+        "Frank Miller",
+        "Brian Bolland",
+        "George Pérez",
+        "John Byrne"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Marvel Comics introduce the character of Iron Man for the first time?",
+      "choices": [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the secret identity of the villain Kingpin in Marvel Comics?",
+      "choices": [
+        "Wilson Grant",
+        "Wilson Fisk",
+        "William Fisk",
+        "Wayne Fisk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In DC Comics, what is the material of Wonder Woman's indestructible bracelets called?",
+      "choices": [
+        "Divine Steel",
+        "Amazonian Metal",
+        "Amazonium",
+        "Divine Amazonium"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which graphic novel by Frank Miller revolutionized Batman's character in 1986?",
+      "choices": [
+        "Batman: Dark Knight Returns",
+        "Batman: The Killing Joke",
+        "Batman: Arkham Asylum",
+        "Batman: Long Halloween"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Marvel Comics, what is the name of Spider-Man's first major romantic interest?",
+      "choices": [
+        "Mary Jane Watson",
+        "Gwen Stacy",
+        "Betty Brant",
+        "Liz Allan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Belgian comic artist is famous for creating the 'Tintin' series?",
+      "choices": [
+        "Hergé",
+        "Franquin",
+        "Peyo",
+        "Will Eisner"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Grant Morrison's 'Animal Man,' what meta-fictional element does the protagonist discover about his reality?",
+      "choices": [
+        "He is a video game character",
+        "He is a comic book character",
+        "He is in a simulation",
+        "He is dreaming"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the cosmic entity that serves as the source of power for the Green Lantern Corps?",
+      "choices": [
+        "The Green Flame",
+        "The Source",
+        "The Emotional Spectrum",
+        "The Central Power Battery"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 'Sandman' series by Neil Gaiman, what is the real name of Morpheus?",
+      "choices": [
+        "Daniel",
+        "Dream",
+        "Oneiros",
+        "Morpheus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which comic book writer is credited with co-creating the character of Swamp Thing with Bernie Wrightson?",
+      "choices": [
+        "Alan Moore",
+        "Len Wein",
+        "Steve Gerber",
+        "Mike Baron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1962 Spider-Man origin story, what specific type of spider bit Peter Parker?",
+      "choices": [
+        "A radioactive spider",
+        "A genetically-modified spider",
+        "A mutant spider from a lab experiment",
+        "An alien spider"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which DC Comics character is the biological father of both Starfire and Blackfire?",
+      "choices": [
+        "Trigon",
+        "King Myand'r",
+        "Slade Wilson",
+        "Darkseid"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the Marvel character known as Daredevil?",
+      "choices": [
+        "Peter Parker",
+        "Matt Murdock",
+        "Frank Castle",
+        "Tony Stark"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Action Comics #1, featuring Superman's debut, first hit newsstands?",
+      "choices": [
+        "1936",
+        "1938",
+        "1940",
+        "1942"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which villain is known as the Clown Prince of Crime and serves as Batman's primary nemesis?",
+      "choices": [
+        "Two-Face",
+        "The Riddler",
+        "The Joker",
+        "Poison Ivy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What metal comprises Wolverine's skeleton and claws?",
+      "choices": [
+        "Vibranium",
+        "Adamantium",
+        "Mithril",
+        "Titanium"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Kirby-created DC character is an extraterrestrial with a weakness to fire?",
+      "choices": [
+        "Superman",
+        "Green Lantern",
+        "J'onn J'onzz",
+        "Darkseid"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the comic book storyline 'The Dark Knight Returns,' what year is Batman depicted as returning from retirement?",
+      "choices": [
+        "2001",
+        "1999",
+        "2030",
+        "1986"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mutant telepath leads the X-Men and is also Charles Xavier's biological son?",
+      "choices": [
+        "Cyclops",
+        "Legion",
+        "Cable",
+        "Magneto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the civilian name of the Flash in DC Comics' primary continuity?",
+      "choices": [
+        "Wally West",
+        "Barry Allen",
+        "Jay Garrick",
+        "Iris West"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cosmic entity serves as the primary antagonist in Marvel's 'The Infinity Gauntlet' storyline?",
+      "choices": [
+        "Galactus",
+        "Thanos",
+        "Dormammu",
+        "The Celestials"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What publication company originally published the Teenage Mutant Ninja Turtles in 1984?",
+      "choices": [
+        "Marvel Comics",
+        "DC Comics",
+        "Mirage Studios",
+        "Image Comics"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In DC Comics, what is the primary weakness of Wonder Woman?",
+      "choices": [
+        "Iron",
+        "Magic",
+        "Bound by men",
+        "Red sunlight"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which comic book artist and writer co-created Hellboy with writer Mike Mignola?",
+      "choices": [
+        "Frank Miller",
+        "Mike Mignola",
+        "Todd McFarlane",
+        "Jim Lee"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of Marvel's Black Panther and king of Wakanda?",
+      "choices": [
+        "T'Chaka",
+        "T'Challa",
+        "N'Jadaka",
+        "Ulysses Klaw"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which 1986 graphic novel does Alan Moore deconstruct the superhero genre through the lens of nuclear paranoia?",
+      "choices": [
+        "V for Vendetta",
+        "Watchmen",
+        "The Dark Knight Returns",
+        "Maus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Bruce Banner's alter ego when he transforms into the Hulk?",
+      "choices": [
+        "Robert Drake",
+        "The Hulk",
+        "The Green Goliath",
+        "Hal Hart"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which speedster villain primarily opposes the Flash and is often depicted as his mirror image?",
+      "choices": [
+        "Captain Cold",
+        "Reverse-Flash",
+        "Weather Wizard",
+        "Zoom"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Frank Miller's 'Sin City' series, what color dominates the visual palette alongside black and white?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British comic series, created by Grant Morrison, features a team of supervillains as protagonists?",
+      "choices": [
+        "The Boys",
+        "Doom Patrol",
+        "Transmetropolitan",
+        "Preacher"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1961 Fantastic Four comic series, what is the name of the Negative Zone dimension that Reed Richards discovers?",
+      "choices": [
+        "The Antimatter Realm",
+        "The Negative Zone",
+        "The Dark Dimension",
+        "The Void Sector"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British comic book artist, famous for his work on Judge Dredd and 2000 AD, is known by the pseudonym 'Cam Kennedy'?",
+      "choices": [
+        "Brian Bolland",
+        "Cam Kennedy",
+        "Carlos Ezquerra",
+        "Mike McMahon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the inspiration for Cuthbert Calculus in the Tintin series?",
+      "choices": [
+        "Auguste Picard",
+        "J. Cecil Maby",
+        "Will Morris",
+        "Jacques Piccard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the comics, which Sonic character took command of the Dark Legion after Luger's assassination?",
+      "choices": [
+        "Dimitri",
+        "Lien-Da",
+        "Kragok",
+        "Remington"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What otherworldly land does Thor come from?",
+      "choices": [
+        "Jotunheim",
+        "Asgard",
+        "Midgard",
+        "Sovengarde"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these game-based comics were published in 2011 by DC Comics?",
+      "choices": [
+        "Kane & Lynch",
+        "Prototype",
+        "Infamous",
+        "Left 4 Dead: The Sacrifice"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?",
+      "choices": [
+        "Cobalt",
+        "Bismuth",
+        "Mercury",
+        "Antimony"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+      "choices": [
+        "Nelson Gardner",
+        "Daniel Dreiberg",
+        "Adrian Veidt",
+        "Hollis Mason"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Doom Patrol member was a later addition, first appearing in 1989?",
+      "choices": [
+        "Robotman",
+        "Negative Man",
+        "Elast-Girl",
+        "Crazy Jane"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Pre-Super Genesis universe of \"Sonic the Hedgehog\" comic, what was the name of  Sally Acorn's brother?",
+      "choices": [
+        "Elias Acorn",
+        "Alexis Acorn",
+        "Frederick Acorn",
+        "Maximillian Acorn"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who created Ultron of Earth-616?",
+      "choices": [
+        "Amadeus Cho",
+        "Reed Richards",
+        "Tony Stark",
+        "Henry Pym"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Calvin and Hobbes, what is the name of the principal at Calvin's school?",
+      "choices": [
+        "Mr. Moe",
+        "Mr. Spitling",
+        "Mr. Spittle",
+        "Mr. Boreman"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real name of the \"Master Of Magnetism\" Magneto?",
+      "choices": [
+        "Max Eisenhardt",
+        "Pietro Maximoff",
+        "Johann Schmidt",
+        "Charles Xavier"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote the Batman comic series \"The Killing Joke\"?",
+      "choices": [
+        "Jerry Siegel",
+        "Bill Finger",
+        "Alan Moore",
+        "Frank Miller"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The success of DC Comics' Swamp Thing, Sandman, and other books in a similar style, led to the creation of what new imprint in 1993?",
+      "choices": [
+        "Impact",
+        "New Universe",
+        "Red Circle",
+        "Vertigo"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",
+      "choices": [
+        "Albert and Pogo",
+        "Winnie the Pooh",
+        "Calvin and Hobbes",
+        "Peanuts"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Hellboy universe, who founded the BPRD?",
+      "choices": [
+        "Johann Kraus",
+        "Kate Corrigan",
+        "Trevor Bruttenholm",
+        "Benjamin Daimio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Calvin and Hobbes, what is the name of the babysitter's boyfriend?",
+      "choices": [
+        "Charles",
+        "Dave",
+        "Charlie",
+        "Nathaniel"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real full name of Captain America?",
+      "choices": [
+        "Steven Peggy Rogers",
+        "Steven William Rogers",
+        "Steven John Rogers",
+        "Steven Grant Rogers "
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Batman sidekick is the son of Talia al Ghul?",
+      "choices": [
+        "Damian Wayne",
+        "Jason Todd",
+        "Dick Grayson",
+        "Tim Drake"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What's the name of Batman's parents?",
+      "choices": [
+        "Jason & Sarah",
+        "Joey & Jackie",
+        "Thomas & Martha",
+        "Todd & Mira"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following superheros did Wonder Woman NOT have a love interest in?",
+      "choices": [
+        "Batman",
+        "Green Arrow",
+        "Steve Trevor",
+        "Superman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which \"Green Arrow\" sidekick commonly wears a baseball cap?",
+      "choices": [
+        "Roy Harper",
+        "Black Canary",
+        "Emiko Queen",
+        "Dick Grayson"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Homestuck character Gamzee's last name?",
+      "choices": [
+        "Makera",
+        "Makara",
+        "Makare",
+        "Makrea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?",
+      "choices": [
+        "Jaller",
+        "Takua",
+        "Tahu",
+        "Vakama"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In \"Sonic the Hedgehog\" comic, who was the creator of Roboticizer? ",
+      "choices": [
+        "Ivo Robotnik",
+        "Professor Charles the Hedgehog",
+        "Snively Robotnik",
+        "Julian Robotnik"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which issue of the \"Sonic the Hedgehog\" comic did Scourge the Hedgehog make his first appearance?",
+      "choices": [
+        "Sonic the Hedgehog #161",
+        "Sonic Universe #32",
+        "Sonic the Hedgehog #11",
+        "Sonic the Hedgehog #47"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",
+      "choices": [
+        "Johnny Quick",
+        "Wally West",
+        "Eobard Thawne",
+        "Jay Garrick"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine's bones and claws?",
+      "choices": [
+        "Vibranium",
+        "Adamantium",
+        "Carbonadium",
+        "Titanium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Hellboy's true name?",
+      "choices": [
+        "Anung Un Rama",
+        "Right Hand of Doom",
+        "Azzael",
+        "Ogdru Jahad"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the first American Vampire (Scott Snyder's American Vampire)?",
+      "choices": [
+        "James \"Jim\" Book",
+        "Pearl Jones",
+        "Hattie Hargrove",
+        "Skinner Sweet"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Black Hammer, what dimension does Colonel Weird travel through?",
+      "choices": [
+        "Phantom Zone",
+        "Para-Zone",
+        "Hyperspace",
+        "Mirror Universe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The stuffed tiger in Calvin and Hobbes is named after what philosopher?",
+      "choices": [
+        "Nathaniel Hobbes",
+        "Thomas Hobbes",
+        "David Hobbes",
+        "John Hobbes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What's the weakness of american vampires (Scott Snyder's American Vampire)?",
+      "choices": [
+        "Sunlight",
+        "Wood",
+        "Gold",
+        "Silver"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Calvin and Hobbes, what is the name of Susie's stuffed rabbit?",
+      "choices": [
+        "Mr. Bunbun",
+        "Mr. Hoppy",
+        "Mr. Rabbit",
+        "Mr. Bun"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the designation given to the Marvel Cinematic Universe?",
+      "choices": [
+        "Earth-10005",
+        "Earth-199999",
+        "Earth-2008",
+        "Earth-616"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of the first Robin in the Batman comics?",
+      "choices": [
+        "Bruce Wayne",
+        "Jason Todd",
+        "Dick Grayson",
+        "Tim Drake"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who authored The Adventures of Tintin?",
+      "choices": [
+        "E.P. Jacobs",
+        "Rin Tin Tin",
+        "Chic Young",
+        "Hergé"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+      "choices": [
+        "Tiger Mafia",
+        "Zodiac",
+        "The Union",
+        "Scorpio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Marvel comics, which of the following is not one of the infinity stones?",
+      "choices": [
+        "Power",
+        "Soul",
+        "Energy",
+        "Time"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic book publisher created the character Hellboy, known for his paranormal adventures?",
+      "choices": [
+        "DC Comics",
+        "Dark Horse Comics",
+        "Marvel Comics",
+        "Image Comics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real name of the Merc with a Mouth, Deadpool?",
+      "choices": [
+        "Wade Wilson",
+        "Peter Parker",
+        "Tony Stark",
+        "Bruce Banner"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Batman first appear in Detective Comics?",
+      "choices": [
+        "1936",
+        "1938",
+        "1940",
+        "1942"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is credited as the co-creator of Batman alongside artist Bob Kane?",
+      "choices": [
+        "Jerry Siegel",
+        "Bill Finger",
+        "Stan Lee",
+        "Jack Kirby"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is Venom's iconic symbiotic suit?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Black",
+        "Green"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mutant leader typically commands the X-Men team from their mansion?",
+      "choices": [
+        "Magneto",
+        "Professor Charles Xavier",
+        "Wolverine",
+        "Cyclops"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Superman's cousin who also possesses superhuman powers?",
+      "choices": [
+        "Lois Lane",
+        "Supergirl",
+        "Power Girl",
+        "Wonder Woman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what location is Xavier's School for Gifted Youngsters established?",
+      "choices": [
+        "California",
+        "New York",
+        "Massachusetts",
+        "Illinois"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who created the character Popeye the Sailor Man?",
+      "choices": [
+        "Walt Disney",
+        "E.C. Segar",
+        "Milton Caniff",
+        "Chester Gould"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What item does the Green Lantern use to generate his extraordinary powers?",
+      "choices": [
+        "Magic wand",
+        "Power ring",
+        "Mystical amulet",
+        "Energy crystal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which villain is famously known for attempting to consume entire planets?",
+      "choices": [
+        "Thanos",
+        "Galactus",
+        "Darkseid",
+        "Apocalypse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Barry Allen's superhero alias in DC Comics?",
+      "choices": [
+        "Green Arrow",
+        "Green Lantern",
+        "The Flash",
+        "Aquaman"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who temporarily assumed the mantle of Batman during the 'Knightfall' storyline?",
+      "choices": [
+        "Dick Grayson",
+        "Azrael",
+        "Tim Drake",
+        "Jason Todd"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cosmic entity served by the Silver Surfer?",
+      "choices": [
+        "Thanos",
+        "Galactus",
+        "Dormammu",
+        "Mephisto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic strip character was created by Chester Gould and known for solving crimes?",
+      "choices": [
+        "Dick Tracy",
+        "Popeye",
+        "Superman",
+        "The Phantom"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Marvel Comics, what is the primary function of the Danger Room?",
+      "choices": [
+        "A prison for villains",
+        "A training facility for mutants",
+        "A weapon storage facility",
+        "A medical laboratory"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mutant possesses the ability to project powerful optic blasts?",
+      "choices": [
+        "Storm",
+        "Magneto",
+        "Cyclops",
+        "Beast"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the glowing green planet that serves as the headquarters of the Green Lantern Corps?",
+      "choices": [
+        "Thanagar",
+        "Apokolips",
+        "Oa",
+        "New Genesis"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is known for being the Merc with a Mouth and frequently references chimichangas?",
+      "choices": [
+        "Cable",
+        "Wolverine",
+        "Deadpool",
+        "X-Force"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the superhero alter ego of the mild-mannered Eric Wimp in British comics?",
+      "choices": [
+        "Captain Banana",
+        "Bananaman",
+        "Fruit Fighter",
+        "Yellow Defender"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the DC Universe, what is the name of the island nation where Wonder Woman was raised?",
+      "choices": [
+        "Themyscira",
+        "Atlantica",
+        "Kahndaq",
+        "Skartaris"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Marvel mutant can absorb and redirect kinetic energy through her mutant powers?",
+      "choices": [
+        "Rogue",
+        "Psylocke",
+        "Jubilee",
+        "Magma"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real name of the superhero known as The Flash in the Silver Age comics?",
+      "choices": [
+        "Barry Allen",
+        "Wally West",
+        "Jay Garrick",
+        "Bart Allen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic book artist is famous for co-creating both Spider-Man and the X-Men?",
+      "choices": [
+        "Stan Lee",
+        "Steve Ditko",
+        "Jack Kirby",
+        "Don Heck"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the comics, what is the primary weakness of Superman that most villains exploit?",
+      "choices": [
+        "Kryptonite",
+        "Magic",
+        "Red sun radiation",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese manga series follows the story of a high school student who gains the ability to see death notes over people's heads?",
+      "choices": [
+        "Bleach",
+        "Death Note",
+        "Code Geass",
+        "Monster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Spider-Man's high school in the original Amazing Spider-Man comics?",
+      "choices": [
+        "Midtown High",
+        "Empire State High",
+        "Queens Academy",
+        "Parker High"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which villain is typically portrayed as Batman's arch-nemesis and operates out of Gotham's East End?",
+      "choices": [
+        "Two-Face",
+        "The Joker",
+        "Scarecrow",
+        "Penguin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In X-Men comics, which character's mutation allows him to manipulate magnetic fields?",
+      "choices": [
+        "Magneto",
+        "Storm",
+        "Cyclops",
+        "Iceman"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the secret organization that Nick Fury directed in Marvel comics?",
+      "choices": [
+        "SWORD",
+        "S.H.I.E.L.D.",
+        "HYDRA",
+        "Oscorp"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic book character is known for his catchphrase 'Hulk smash'?",
+      "choices": [
+        "Thor",
+        "Hulk",
+        "Iron Man",
+        "Captain America"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the DC Universe, what is the name of the parallel Earth where an evil Superman rules?",
+      "choices": [
+        "Earth-2",
+        "Earth-3",
+        "Earth-Prime",
+        "Earth-X"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic book writer created the Sandman series, reimagining classic mythology?",
+      "choices": [
+        "Alan Moore",
+        "Neil Gaiman",
+        "Grant Morrison",
+        "Warren Ellis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the civilian identity of Green Lantern Hal Jordan?",
+      "choices": [
+        "Test pilot",
+        "Engineer",
+        "Astronaut",
+        "Mechanic"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Fantastic Four comics, what cosmic event gave the team their superpowers?",
+      "choices": [
+        "Gamma radiation exposure",
+        "Cosmic ray bombardment",
+        "Alien experiment",
+        "Magical spell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which DC character is known for having a rogues' gallery that includes Captain Cold and Weather Wizard?",
+      "choices": [
+        "Green Lantern",
+        "The Flash",
+        "Aquaman",
+        "Superman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Alan Moore's Watchmen, what is the real name of the character known as Dr. Manhattan?",
+      "choices": [
+        "Adrian Veidt",
+        "Jon Osterman",
+        "Walter Kovacs",
+        "Dan Dreiberg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Marvel superhero is the adoptive son of Odin and uses a hammer as his weapon?",
+      "choices": [
+        "Thor",
+        "Loki",
+        "Heimdall",
+        "Sif"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original Teenage Mutant Ninja Turtles comics by Eastman and Laird, what animal mutation created the turtles?",
+      "choices": [
+        "Radioactive ooze",
+        "Alien serum",
+        "Chemical accident",
+        "Mystical ritual"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Batman villain is known for his obsession with riddles and leaving clues for the Dark Knight?",
+      "choices": [
+        "The Riddler",
+        "Penguin",
+        "Scarecrow",
+        "Mr. Freeze"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What material does Superman use to line his fortress to block his X-ray vision?",
+      "choices": [
+        "Lead",
+        "Kryptonite",
+        "Adamantium",
+        "Vibranium"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original comic series, what is the name of Spider-Man's first major love interest?",
+      "choices": [
+        "Mary Jane Watson",
+        "Gwen Stacy",
+        "Betty Brant",
+        "Liz Allan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist is famous for redesigning classic superheroes in the 1970s, giving Batman a more angular and modern look?",
+      "choices": [
+        "Jack Kirby",
+        "Neal Adams",
+        "Steve Ditko",
+        "Carmine Infantino"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Thor's hammer in Marvel Comics?",
+      "choices": [
+        "Stormbreaker",
+        "Gungnir",
+        "Mjolnir",
+        "Heimdall"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Batman comics, what is the civilian name of the villain Two-Face?",
+      "choices": [
+        "Harvey Dent",
+        "Victor Zsasz",
+        "Jeremiah Arkham",
+        "Roland Daggett"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which comic book writer co-created the Fantastic Four alongside Jack Kirby?",
+      "choices": [
+        "Stan Lee",
+        "Roy Thomas",
+        "Marv Wolfman",
+        "Chris Claremont"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real name of the villain Magneto in X-Men comics?",
+      "choices": [
+        "Erik Lehnsherr",
+        "Sebastian Shaw",
+        "Trevor Fitzroy",
+        "Bolivar Trask"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In DC Comics, what color is the ring that constructs solid light objects?",
+      "choices": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Red"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the original creator of Wonder Woman in DC Comics?",
+      "choices": [
+        "Bob Kane",
+        "William Moulton Marston",
+        "Jerry Siegel",
+        "Joe Shuster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Action Comics #1, featuring Superman's first appearance, debut?",
+      "choices": [
+        "1935",
+        "1936",
+        "1937",
+        "1938"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Garfield comics, what is the name of the dog who is constantly annoyed by the cat?",
+      "choices": [
+        "Odie",
+        "Spike",
+        "Bud",
+        "Oscar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Marvel character is known for the catchphrase 'Excelsior!'?",
+      "choices": [
+        "Stan Lee",
+        "Spider-Man",
+        "Iron Man",
+        "Captain America"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical compound that gives Hulk his green appearance in Marvel Comics?",
+      "choices": [
+        "Gamma radiation",
+        "Vibranium",
+        "Cosmic rays",
+        "Kryptonite"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Superman: Red Son, which real historical figure appears as a character in the storyline?",
+      "choices": [
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Joseph Stalin",
+        "Vladimir Lenin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Archie Comics, what is the name of Archie's hometown?",
+      "choices": [
+        "Riverdale",
+        "Sunnydale",
+        "Smallville",
+        "Metropolis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What iconic villain symbol does the Riddler use as his personal logo in Batman comics?",
+      "choices": [
+        "Exclamation mark",
+        "Question mark",
+        "Period",
+        "Asterisk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who created the character of Dick Tracy, the detective comic strip that debuted in 1931?",
+      "choices": [
+        "Milton Caniff",
+        "Chester Gould",
+        "Al Capp",
+        "George McManus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the X-Men comics, what are the mutant-hunting robots called?",
+      "choices": [
+        "Sentinels",
+        "Terminators",
+        "Destroyers",
+        "Hunters"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the civilian identity of the Flash, the speedster hero in DC Comics?",
+      "choices": [
+        "Barry Allen",
+        "Wally West",
+        "Jay Garrick",
+        "Bart Allen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the DC Comics storyline 'The Dark Knight Returns,' which villain does Batman famously battle in a climactic confrontation after years of retirement?",
+      "choices": [
+        "The Joker",
+        "Lex Luthor",
+        "Two-Face",
+        "Ra's al Ghul"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Marvel mutant's healing factor is fueled by his anger, causing him to become more powerful the angrier he becomes?",
+      "choices": [
+        "Wolverine",
+        "Hulk",
+        "Sabretooth",
+        "Deadpool"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,185 +1,3285 @@
 {
   "slug": "nfl-trivia",
-  "name": "NFL Football",
-  "description": "NFL teams, players, Super Bowls, and records",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "NFL",
+  "processedAt": "2026-05-24T20:43:43.650Z",
   "questions": [
     {
-      "q": "Which NFL team won the first two Super Bowls (Super Bowl I and II)?",
-      "choices": ["Dallas Cowboys", "Green Bay Packers", "Pittsburgh Steelers", "New York Jets"],
-      "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "Coached by Vince Lombardi. Defeated Chiefs 35-10 (SB I) and Raiders 33-14 (SB II)." }
-    },
-    {
-      "q": "The Super Bowl trophy is named after which legendary coach?",
-      "choices": ["George Halas", "Vince Lombardi", "Don Shula", "Bill Walsh"],
-      "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Pittsburgh Steelers", "verified": true, "notes": "Renamed the Vince Lombardi Trophy in 1971 after his death." }
-    },
-    {
-      "q": "Which two NFL franchises are tied for the most Super Bowl wins, each with 6?",
-      "choices": ["Cowboys and 49ers", "Packers and Giants", "Steelers and Patriots", "Broncos and Raiders"],
+      "q": "Which windy city roars as the home of the fierce NFL Bears, as as deep-dish pizza?",
+      "choices": [
+        "Carolina",
+        "Green Bay",
+        "Chicago",
+        "Arizona"
+      ],
       "correct": 2,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Pittsburgh Steelers", "verified": true, "notes": "Steelers: SB IX, X, XIII, XIV, XL, XLIII. Patriots: XXXVI, XXXVIII, XXXIX, XLIX, LI, LIII." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team has racked up Super Bowl trophies, proving they’re the real deal?",
+      "choices": [
+        "Panthers",
+        "Patriots",
+        "Cowboys",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city embraces its cowboy spirit, proudly hosting the NFL “Texans”?",
+      "choices": [
+        "Baltimore",
+        "Houston",
+        "Kansas City",
+        "Carolina"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which lockdown cornerback made a headline move in April 2013?",
+      "choices": [
+        "Roger Staubach",
+        "Darrelle Revis",
+        "Deion Sanders",
+        "Patriots"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region roars with feline fury as home to the NFL Panthers?",
+      "choices": [
+        "Carolina",
+        "Tennessee",
+        "New Orleans",
+        "Jacksonville"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city stands proud as home to the NFL Browns?",
+      "choices": [
+        "Pittsburgh",
+        "Dallas",
+        "Cleveland",
+        "Kansas City"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which quarterback was the first pick of the 2007 NFL Draft, stepping into the spotlight?",
+      "choices": [
+        "Chargers",
+        "JaMarcus Russell",
+        "Texans",
+        "Raiders"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "How many teams currently play in the National Football League?",
-      "choices": ["28", "30", "32", "34"],
+      "choices": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
       "correct": 2,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Buffalo Bills", "verified": true, "notes": "Since the Houston Texans joined in 2002. 16 in each conference (AFC, NFC)." }
-    },
-    {
-      "q": "How many Super Bowl titles did Tom Brady win during his playing career?",
-      "choices": ["5", "6", "7", "8"],
-      "correct": 2,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Denver Broncos", "verified": true, "notes": "Six with New England, one with Tampa Bay. Most of any player." }
-    },
-    {
-      "q": "Which is the only NFL team publicly owned by its fans (via over 500,000 shareholders)?",
-      "choices": ["New Orleans Saints", "Green Bay Packers", "Buffalo Bills", "Seattle Seahawks"],
-      "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "hard",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "Non-profit since 1923. Shares pay no dividends and can't be resold." }
+      "difficulty": "easy"
     },
     {
       "q": "Which NFL team is based in New Orleans?",
-      "choices": ["Jaguars", "Saints", "Falcons", "Titans"],
+      "choices": [
+        "Jaguars",
+        "Saints",
+        "Falcons",
+        "Titans"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Cincinnati", "verified": true, "notes": "Founded 1967. Home: Caesars Superdome." }
-    },
-    {
-      "q": "The San Francisco 49ers are named after what historical phenomenon?",
-      "choices": ["The Gold Rush", "The Great Migration", "The Transcontinental Railroad", "The Panama Canal"],
-      "correct": 0,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "San Francisco", "verified": true, "notes": "Named after prospectors who arrived in California in 1849." }
+      "difficulty": "easy"
     },
     {
       "q": "How many points is a touchdown worth in American football?",
-      "choices": ["3", "6", "7", "8"],
+      "choices": [
+        "3",
+        "6",
+        "7",
+        "8"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "Followed by an extra point (1 pt) or two-point conversion (2 pts)." }
+      "difficulty": "easy"
     },
     {
       "q": "How many points is a successful field goal worth?",
-      "choices": ["2", "3", "6", "7"],
+      "choices": [
+        "2",
+        "3",
+        "6",
+        "7"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "audit-corrected 2026-05-09: updated longest NFL FG record. Kicked through the uprights. Longest NFL field goal: 68 yards (Cam Little, 2025)." }
+      "difficulty": "easy"
     },
     {
       "q": "How many players from each team are on the field at one time during an NFL play?",
-      "choices": ["9", "10", "11", "12"],
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
       "correct": 2,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "Canadian football uses 12 players per side." }
-    },
-    {
-      "q": "Which Super Bowl was the first one to be played in February instead of January?",
-      "choices": ["Super Bowl XXX", "Super Bowl XXXVI", "Super Bowl XXXVIII", "Super Bowl XL"],
-      "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "hard",
-      "source": { "original_a": "Denver Broncos", "verified": true, "notes": "SB XXXVI (2002) was played Feb 3, 2002. Schedule shifted after 9/11 delayed the season." }
-    },
-    {
-      "q": "Which NFL team plays its home games at Lambeau Field?",
-      "choices": ["Chicago Bears", "Minnesota Vikings", "Detroit Lions", "Green Bay Packers"],
-      "correct": 3,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "Opened 1957. Named after Packers founder Curly Lambeau." }
-    },
-    {
-      "q": "The NFL was founded in which year?",
-      "choices": ["1905", "1920", "1932", "1945"],
-      "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "hard",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "Founded August 20, 1920 as the American Professional Football Association." }
+      "difficulty": "easy"
     },
     {
       "q": "What are the two conferences that make up the NFL?",
-      "choices": ["East and West", "AFC and NFC", "National and American", "North and South"],
+      "choices": [
+        "East and West",
+        "AFC and NFC",
+        "National and American",
+        "North and South"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Green Bay", "verified": true, "notes": "American Football Conference and National Football Conference. Merged 1970." }
-    },
-    {
-      "q": "Which NFL quarterback holds the all-time record for career passing yards and touchdowns?",
-      "choices": ["Peyton Manning", "Drew Brees", "Tom Brady", "Brett Favre"],
-      "correct": 2,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Denver Broncos", "verified": true, "notes": "Brady surpassed Brees for passing yards in 2021. Over 89,000 career yards." }
+      "difficulty": "easy"
     },
     {
       "q": "In what city does the Super Bowl-winning team often have its victory parade when they're the New England Patriots?",
-      "choices": ["New York", "Providence", "Hartford", "Boston"],
+      "choices": [
+        "New York",
+        "Providence",
+        "Hartford",
+        "Boston"
+      ],
       "correct": 3,
-      "category": "NFL Football",
-      "difficulty": "easy",
-      "source": { "original_a": "Pittsburgh Steelers", "verified": true, "notes": "Though based in Foxborough, Massachusetts, parades are held in Boston." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which team famously went undefeated en route to winning Super Bowl VII?",
-      "choices": ["1972 Miami Dolphins", "1985 Chicago Bears", "2007 New England Patriots", "1998 Denver Broncos"],
+      "q": "Which NFL team is known by the nickname 'Packers' and plays home games in Green Bay?",
+      "choices": [
+        "Wisconsin Packers",
+        "Green Bay Packers",
+        "Milwaukee Packers",
+        "Madison Packers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what city do the Carolina Panthers play their home games?",
+      "choices": [
+        "Charlotte",
+        "Raleigh",
+        "Greensboro",
+        "Durham"
+      ],
       "correct": 0,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Denver Broncos", "verified": true, "notes": "17-0 record. The only team to finish a season undefeated in the Super Bowl era." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team represents Atlanta and uses the Falcons as their mascot?",
+      "choices": [
+        "Atlanta Hawks",
+        "Atlanta Falcons",
+        "Atlanta Eagles",
+        "Atlanta Braves"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Oakland Raiders won the Super Bowl in 1981. Which Super Bowl was this?",
+      "choices": [
+        "Super Bowl XIV",
+        "Super Bowl XV",
+        "Super Bowl XVI",
+        "Super Bowl XVII"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in Cleveland and plays in Ohio?",
+      "choices": [
+        "Cleveland Steelers",
+        "Cleveland Browns",
+        "Cleveland Guardians",
+        "Cleveland Cavaliers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname of the NFL team located in New Orleans?",
+      "choices": [
+        "Pelicans",
+        "Saints",
+        "Jazz",
+        "Kings"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team traditionally calls Chicago home?",
+      "choices": [
+        "Chicago Bulls",
+        "Chicago Bears",
+        "Chicago Cubs",
+        "Chicago Blackhawks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Philadelphia Eagles represent which city in the NFL?",
+      "choices": [
+        "Pennsylvania",
+        "Philadelphia",
+        "Pittsburgh",
+        "Reading"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "San Diego was home to which NFL team known for their electric nickname?",
+      "choices": [
+        "San Diego Sparks",
+        "San Diego Chargers",
+        "San Diego Bolts",
+        "San Diego Lightning"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in Pittsburgh and has won multiple Super Bowls?",
+      "choices": [
+        "Pittsburgh Pirates",
+        "Pittsburgh Penguins",
+        "Pittsburgh Steelers",
+        "Pittsburgh Panthers"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Tampa Bay is the home of which NFL team with a pirate-themed name?",
+      "choices": [
+        "Tampa Bay Corsairs",
+        "Tampa Bay Buccaneers",
+        "Tampa Bay Raiders",
+        "Tampa Bay Captains"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team represents Houston, Texas?",
+      "choices": [
+        "Houston Rockets",
+        "Houston Astros",
+        "Houston Texans",
+        "Houston Comets"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Buffalo Bills represent which state in the NFL?",
+      "choices": [
+        "New Jersey",
+        "New York",
+        "Pennsylvania",
+        "Massachusetts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team was based in St. Louis before relocating?",
+      "choices": [
+        "St. Louis Ravens",
+        "St. Louis Rams",
+        "St. Louis Bengals",
+        "St. Louis Cardinals"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the home stadium of the Carolina Panthers called?",
+      "choices": [
+        "Carolina Stadium",
+        "Panthers Park",
+        "Bank of America Stadium",
+        "Clemson Field"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Oakland Raiders win Super Bowl XV?",
+      "choices": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team won the Super Bowl in February 2013, defeating the San Francisco 49ers?",
+      "choices": [
+        "Baltimore Ravens",
+        "New England Patriots",
+        "Denver Broncos",
+        "Atlanta Falcons"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The San Francisco 49ers play in which state?",
+      "choices": [
+        "Oregon",
+        "Washington",
+        "California",
+        "Nevada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team's nickname is associated with a large cat that prowls?",
+      "choices": [
+        "Detroit Lions",
+        "Carolina Panthers",
+        "Jacksonville Jaguars",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Denver Broncos represent which state in the NFL?",
+      "choices": [
+        "Utah",
+        "Wyoming",
+        "Colorado",
+        "New Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in Green Bay, Wisconsin?",
+      "choices": [
+        "Green Bay Packers",
+        "Green Bay Greyhounds",
+        "Wisconsin Wildcats",
+        "Green Bay Giants"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NFL's Super Bowl first take place?",
+      "choices": [
+        "1965",
+        "1967",
+        "1969",
+        "1971"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many points is a touchdown worth in the NFL?",
+      "choices": [
+        "5 points",
+        "6 points",
+        "7 points",
+        "10 points"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to the Miami Dolphins?",
+      "choices": [
+        "Tampa",
+        "Jacksonville",
+        "Miami",
+        "Orlando"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary color of the Denver Broncos' uniforms?",
+      "choices": [
+        "Blue",
+        "Orange",
+        "Red",
+        "Purple"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays their home games in Arrowhead Stadium?",
+      "choices": [
+        "Kansas City Chiefs",
+        "Kansas City Royals",
+        "St. Louis Rams",
+        "Kansas City Cowboys"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many teams are in the NFL?",
+      "choices": [
+        "28 teams",
+        "30 teams",
+        "32 teams",
+        "34 teams"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is named after a famous gold rush era?",
+      "choices": [
+        "San Francisco 49ers",
+        "Denver Nuggets",
+        "Oakland Gold",
+        "Sacramento Kings"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many quarters are in an NFL game?",
+      "choices": [
+        "2 quarters",
+        "3 quarters",
+        "4 quarters",
+        "5 quarters"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in New England?",
+      "choices": [
+        "New York Patriots",
+        "Boston Patriots",
+        "New England Patriots",
+        "Massachusetts Patriots"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays in Philadelphia?",
+      "choices": [
+        "Philadelphia Eagles",
+        "Philadelphia Falcons",
+        "Philadelphia Steelers",
+        "Philadelphia Knights"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many points is a field goal worth in the NFL?",
+      "choices": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is known as 'America's Team'?",
+      "choices": [
+        "New York Giants",
+        "Dallas Cowboys",
+        "New England Patriots",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the championship game in the NFL?",
+      "choices": [
+        "World Series",
+        "Stanley Cup",
+        "Super Bowl",
+        "NBA Finals"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in Chicago?",
+      "choices": [
+        "Chicago Cubs",
+        "Chicago Bears",
+        "Chicago Bulls",
+        "Chicago Lions"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many players from each team are on the field during play in the NFL?",
+      "choices": [
+        "10 players",
+        "11 players",
+        "12 players",
+        "13 players"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays in Las Vegas?",
+      "choices": [
+        "Las Vegas Aces",
+        "Las Vegas Raiders",
+        "Las Vegas Showmen",
+        "Las Vegas Rebels"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many points is a safety worth in the NFL?",
+      "choices": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL division includes the Pittsburgh Steelers?",
+      "choices": [
+        "AFC North",
+        "NFC South",
+        "AFC South",
+        "NFC North"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays their home games in Green Bay, Wisconsin?",
+      "choices": [
+        "Green Bay Packers",
+        "Wisconsin Badgers",
+        "Green Bay Greyhounds",
+        "Wisconsin Packers"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what city do the Baltimore Ravens play their home games?",
+      "choices": [
+        "Washington D.C.",
+        "Baltimore, Maryland",
+        "Philadelphia",
+        "Pittsburgh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in Houston, Texas?",
+      "choices": [
+        "Dallas Cowboys",
+        "Houston Texans",
+        "Houston Oilers",
+        "Texas Titans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the home stadium of the Green Bay Packers?",
+      "choices": [
+        "Arrowhead Stadium",
+        "Lambeau Field",
+        "Soldier Field",
+        "U.S. Bank Stadium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to the NFL's Saints franchise?",
+      "choices": [
+        "New Orleans, Louisiana",
+        "Miami, Florida",
+        "Tampa, Florida",
+        "Atlanta, Georgia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The NFL team known as the Jaguars plays in which city?",
+      "choices": [
+        "Jacksonville, Florida",
+        "Miami, Florida",
+        "Tampa, Florida",
+        "Orlando, Florida"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is home to the Buffalo Bills?",
+      "choices": [
+        "New York",
+        "Pennsylvania",
+        "Ohio",
+        "Massachusetts"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city do the San Francisco 49ers play their home games?",
+      "choices": [
+        "Oakland, California",
+        "San Francisco, California",
+        "Los Angeles, California",
+        "San Diego, California"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Cleveland Browns are an NFL team from which state?",
+      "choices": [
+        "Pennsylvania",
+        "Michigan",
+        "Ohio",
+        "Indiana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team represents the city of Atlanta, Georgia?",
+      "choices": [
+        "Atlanta Falcons",
+        "Atlanta Hawks",
+        "Atlanta Braves",
+        "Atlanta Thrashers"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Dallas Cowboys play their home games in which state?",
+      "choices": [
+        "Oklahoma",
+        "Louisiana",
+        "Texas",
+        "Arkansas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays in Oakland, California?",
+      "choices": [
+        "Oakland Athletics",
+        "Oakland Raider",
+        "Oakland Raiders",
+        "Oakland Warriors"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Miami Dolphins are based in which Florida city?",
+      "choices": [
+        "Tampa",
+        "Jacksonville",
+        "Miami",
+        "Orlando"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team calls Kansas City home?",
+      "choices": [
+        "Kansas City Royals",
+        "Kansas City Chiefs",
+        "Kansas City Kings",
+        "Kansas City Capitals"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Pittsburgh Steelers play their home games in which state?",
+      "choices": [
+        "Ohio",
+        "West Virginia",
+        "Pennsylvania",
+        "Kentucky"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is based in Carolina?",
+      "choices": [
+        "Carolina Panthers",
+        "Carolina Cougars",
+        "Carolina Wildcats",
+        "Carolina Tigers"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Denver Broncos play in which state?",
+      "choices": [
+        "Wyoming",
+        "New Mexico",
+        "Colorado",
+        "Utah"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays in Philadelphia, Pennsylvania?",
+      "choices": [
+        "Philadelphia Phillies",
+        "Philadelphia Eagles",
+        "Philadelphia 76ers",
+        "Philadelphia Flyers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Seattle Seahawks are an NFL team from which state?",
+      "choices": [
+        "Oregon",
+        "California",
+        "Washington",
+        "British Columbia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team represents the New England area?",
+      "choices": [
+        "New England Patriots",
+        "New England Loyalists",
+        "New England Revolution",
+        "New England Minutemen"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team is known by the nickname 'the Dolphins'?",
+      "choices": [
+        "Miami Dolphins",
+        "Los Angeles Dolphins",
+        "Tampa Bay Dolphins",
+        "Jacksonville Dolphins"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Carolina Panthers are based in which state?",
+      "choices": [
+        "South Carolina",
+        "North Carolina",
+        "Georgia",
+        "Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to the Baltimore Ravens?",
+      "choices": [
+        "Washington, D.C.",
+        "Philadelphia",
+        "Baltimore",
+        "Pittsburgh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which state are the NFL league headquarters located?",
+      "choices": [
+        "New Jersey",
+        "New York",
+        "Connecticut",
+        "Pennsylvania"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Lambeau Field, home of the Green Bay Packers, is located in which state?",
+      "choices": [
+        "Minnesota",
+        "Michigan",
+        "Wisconsin",
+        "Illinois"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays their home games in Chicago?",
+      "choices": [
+        "Chicago Bears",
+        "Chicago Lions",
+        "Chicago Hawks",
+        "Chicago Wolves"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Houston NFL team is known as the Texans. What state are they located in?",
+      "choices": [
+        "Oklahoma",
+        "Louisiana",
+        "Texas",
+        "Arkansas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these cities hosted Super Bowl XXXVI in 2002?",
+      "choices": [
+        "Miami, Florida",
+        "New Orleans, Louisiana",
+        "Atlanta, Georgia",
+        "Tampa, Florida"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Super Bowl XIV was hosted in which California city?",
+      "choices": [
+        "Los Angeles",
+        "San Francisco",
+        "Pasadena",
+        "San Diego"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 2004, the Carolina Panthers lost Super Bowl XXXVIII. Which team defeated them?",
+      "choices": [
+        "New England Patriots",
+        "Indianapolis Colts",
+        "Philadelphia Eagles",
+        "Dallas Cowboys"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The San Francisco 49ers played their home games at Candlestick Park. In which state is this stadium located?",
+      "choices": [
+        "Oregon",
+        "Washington",
+        "California",
+        "Nevada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team nickname is associated with the city of Baltimore?",
+      "choices": [
+        "Ravens",
+        "Orioles",
+        "Crows",
+        "Hawks"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Peyton Manning win the NFL Offensive Player of the Year award?",
+      "choices": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Sam Bradford was the top pick in the 2010 NFL Draft. Which team selected him?",
+      "choices": [
+        "St. Louis Rams",
+        "Tennessee Titans",
+        "Kansas City Chiefs",
+        "Jacksonville Jaguars"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which running back earned the 2012 NFL MVP award?",
+      "choices": [
+        "Ray Rice",
+        "Adrian Peterson",
+        "Arian Foster",
+        "Marshawn Lynch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "JaMarcus Russell was the first overall pick in which NFL Draft?",
+      "choices": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Philadelphia Eagles lost Super Bowl XXXIX. In which year did this occur?",
+      "choices": [
+        "2003",
+        "2004",
+        "2005",
+        "2006"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Super Bowl XLVII in 2013 featured the San Francisco 49ers losing to which team?",
+      "choices": [
+        "New England Patriots",
+        "Baltimore Ravens",
+        "New Orleans Saints",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city hosted the 2013 NFL Draft, where future legends were unveiled?",
+      "choices": [
+        "Los Angeles",
+        "New York City",
+        "Dallas",
+        "Chicago"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 2013, cornerback Darrelle Revis left the Jets to join which NFL team?",
+      "choices": [
+        "Miami Dolphins",
+        "New England Patriots",
+        "Tampa Bay Buccaneers",
+        "Baltimore Ravens"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NFL team plays their home games in Tampa Bay, Florida?",
+      "choices": [
+        "Tampa Bay Buccaneers",
+        "Tampa Bay Pirates",
+        "Tampa Bay Storms",
+        "Tampa Bay Raiders"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary running back holds the NFL record for most career rushing yards with 18,355 yards?",
+      "choices": [
+        "Barry Sanders",
+        "Walter Payton",
+        "Emmitt Smith",
+        "Jerome Bettis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname of the Seattle NFL team?",
+      "choices": [
+        "Sounders",
+        "Seahawks",
+        "Storm",
+        "Sasquatch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to the NFL's Bengals?",
+      "choices": [
+        "Cleveland",
+        "Pittsburgh",
+        "Cincinnati",
+        "Buffalo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname describes the NFL team based in Chicago?",
+      "choices": [
+        "Bulls",
+        "Lions",
+        "Bears",
+        "Hawks"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team brings fierce feline energy to Carolina, pouncing on the competition?",
+      "choices": [
+        "Panthers",
+        "Giants",
+        "Dolphins",
+        "Falcons"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city cradles the NFL Rams, where horns charge and the crowd roars?",
+      "choices": [
+        "Steve Young",
+        "Rams",
+        "Eagles",
+        "St. Louis"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team grooves with the vibrant spirit of the Big Easy?",
+      "choices": [
+        "Vikings",
+        "Commanders",
+        "Titans",
+        "Saints"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which soulful city, steeped in music and magic, was the backdrop for Super Bowl XXXVI?",
+      "choices": [
+        "Las Vegas",
+        "Atlanta",
+        "Baltimore",
+        "New Orleans"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which vibrant Texas city lit up the Super Bowl XLV stage?",
+      "choices": [
+        "Arlington",
+        "Browns",
+        "Vikings",
+        "Rams"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which is the only NFL team publicly owned by its fans (via over 500,000 shareholders)?",
+      "choices": [
+        "New Orleans Saints",
+        "Green Bay Packers",
+        "Buffalo Bills",
+        "Seattle Seahawks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Super Bowl was the first one to be played in February instead of January?",
+      "choices": [
+        "Super Bowl XXX",
+        "Super Bowl XXXVI",
+        "Super Bowl XXXVIII",
+        "Super Bowl XL"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The NFL was founded in which year?",
+      "choices": [
+        "1905",
+        "1920",
+        "1932",
+        "1945"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
       "q": "The 'Lombardi Trophy,' awarded to the Super Bowl champion, is made of what material?",
-      "choices": ["Bronze", "Sterling silver", "Gold", "Titanium"],
+      "choices": [
+        "Bronze",
+        "Sterling silver",
+        "Gold",
+        "Titanium"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "hard",
-      "source": { "original_a": "Pittsburgh Steelers", "verified": true, "notes": "Crafted by Tiffany & Co. Weighs ~7 lbs. Design: football on a tee." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback holds the record for the most consecutive games with at least one touchdown pass in NFL history?",
+      "choices": [
+        "Tom Brady",
+        "Johnny Unitas",
+        "Peyton Manning",
+        "Drew Brees"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NFL and AFL officially merge to form the unified National Football League?",
+      "choices": [
+        "1966",
+        "1968",
+        "1970",
+        "1972"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which running back won the 2006 NFL MVP award while playing for the Minnesota Vikings?",
+      "choices": [
+        "Barry Sanders",
+        "Adrian Peterson",
+        "Jamal Lewis",
+        "Shaun Alexander"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only NFL team to have won Super Bowl titles in three different decades?",
+      "choices": [
+        "Dallas Cowboys",
+        "Pittsburgh Steelers",
+        "San Francisco 49ers",
+        "Green Bay Packers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback was the first overall pick in the 2011 NFL Draft?",
+      "choices": [
+        "Cam Newton",
+        "Jake Locker",
+        "Patrick Mahomes",
+        "Blaine Gabbert"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NFL introduce the two-point conversion as an alternative to the extra point attempt?",
+      "choices": [
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which defensive end recorded 22.5 sacks in a single season, setting the NFL single-season sack record?",
+      "choices": [
+        "Michael Strahan",
+        "Reggie White",
+        "J.J. Watt",
+        "Von Miller"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Super Bowl rings does Tom Brady have as of the end of the 2022 NFL season?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team selected Jerry Rice in the 1985 NFL Draft?",
+      "choices": [
+        "San Francisco 49ers",
+        "Dallas Cowboys",
+        "Oakland Raiders",
+        "Denver Broncos"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the NFL expand to 32 teams with the addition of the Houston Texans?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which linebacker holds the record for the most career interceptions by a linebacker in NFL history?",
+      "choices": [
+        "Ray Lewis",
+        "Jack Lambert",
+        "Jack Ham",
+        "Ted Hendricks"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the score of Super Bowl LIII, played between the New England Patriots and Los Angeles Rams?",
+      "choices": [
+        "13-3",
+        "16-13",
+        "20-17",
+        "24-21"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won the first Super Bowl ever played in February 2002 at the Superdome?",
+      "choices": [
+        "New England Patriots",
+        "St. Louis Rams",
+        "New Orleans Saints",
+        "Tampa Bay Buccaneers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many career passing yards did Dan Marino accumulate over his entire NFL career with the Miami Dolphins?",
+      "choices": [
+        "51,422",
+        "61,361",
+        "71,940",
+        "80,358"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team drafted Lawrence Taylor as the second overall pick in the 1981 NFL Draft?",
+      "choices": [
+        "New York Giants",
+        "San Francisco 49ers",
+        "Dallas Cowboys",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the NFL's playoff format expanded to include 12 teams instead of 8?",
+      "choices": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which defensive tackle earned the 1982 NFL MVP award, one of the few defensive players to win the honor?",
+      "choices": [
+        "Alan Page",
+        "Joe Greene",
+        "Bob Lilly",
+        "Reggie White"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the longest overtime game in NFL playoff history, played between the Kansas City Chiefs and Buffalo Bills?",
+      "choices": [
+        "25 minutes",
+        "25 minutes 3 seconds",
+        "26 minutes 2 seconds",
+        "27 minutes 1 second"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team holds the record for the most consecutive playoff appearances in NFL history?",
+      "choices": [
+        "New England Patriots",
+        "Dallas Cowboys",
+        "Pittsburgh Steelers",
+        "New York Giants"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the NFL implement the sudden-death overtime format that is used in the regular season?",
+      "choices": [
+        "1970",
+        "1974",
+        "1978",
+        "1982"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback was selected first overall in the 2016 NFL Draft by the Los Angeles Rams?",
+      "choices": [
+        "Jared Goff",
+        "Carson Wentz",
+        "Jameis Winston",
+        "Marcus Mariota"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Super Bowl XLVIII, which Seattle Seahawks defensive back recorded two interceptions against Peyton Manning?",
+      "choices": [
+        "Richard Sherman",
+        "Malcolm Smith",
+        "Earl Thomas",
+        "Byron Maxwell"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which running back won the NFL MVP Award in 2011 with 1,520 rushing yards?",
+      "choices": [
+        "Ray Rice",
+        "Marshawn Lynch",
+        "Adrian Peterson",
+        "LeSean McCoy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the final score of Super Bowl XXXIV in 2000, won by the St. Louis Rams over the Tennessee Titans?",
+      "choices": [
+        "23-16",
+        "34-23",
+        "31-23",
+        "27-16"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which defensive end was the first overall pick in the 2011 NFL Draft by the Carolina Panthers?",
+      "choices": [
+        "Cam Newton",
+        "Von Miller",
+        "Mario Williams",
+        "Patrick Peterson"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2013, which New England Patriots receiver caught 111 passes for 1,571 yards?",
+      "choices": [
+        "Rob Gronkowski",
+        "Wes Welker",
+        "Julian Edelman",
+        "Danny Amendola"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team defeated the Chicago Bears 73-0 in 1940, one of the most lopsided games in NFL history?",
+      "choices": [
+        "Washington Redskins",
+        "Green Bay Packers",
+        "Philadelphia Eagles",
+        "New York Giants"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the head coach of the Pittsburgh Steelers during their four Super Bowl victories in the 1970s?",
+      "choices": [
+        "Chuck Noll",
+        "Bill Cowher",
+        "Mike Tomlin",
+        "Bud Carson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wide receiver won the 2014 NFL receiving yards title with 1,696 yards?",
+      "choices": [
+        "Antonio Brown",
+        "Demaryius Thomas",
+        "Calvin Johnson",
+        "Rob Gronkowski"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Super Bowl XXXIX, which NFL team's defense intercepted Tom Brady three times?",
+      "choices": [
+        "Philadelphia Eagles",
+        "Carolina Panthers",
+        "New England Patriots",
+        "Jacksonville Jaguars"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cornerback was selected first overall in the 2017 NFL Draft by the Los Angeles Rams?",
+      "choices": [
+        "Deshaun Watson",
+        "Myles Garrett",
+        "Jamal Adams",
+        "Jalen Ramsey"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive playoff appearances did the New England Patriots make from 2009 to 2019?",
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which running back rushed for 2,105 yards in the 2012 NFL season?",
+      "choices": [
+        "Adrian Peterson",
+        "Jamaal Charles",
+        "Marshawn Lynch",
+        "Ray Rice"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2013 NFL season, which quarterback threw 55 touchdown passes, setting a new record at the time?",
+      "choices": [
+        "Peyton Manning",
+        "Tom Brady",
+        "Aaron Rodgers",
+        "Drew Brees"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won Super Bowl XVI in 1982 as a wild card, defeating the Cincinnati Bengals?",
+      "choices": [
+        "Pittsburgh Steelers",
+        "San Francisco 49ers",
+        "Oakland Raiders",
+        "Dallas Cowboys"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the defensive coordinator of the Seattle Seahawks during their Super Bowl XLVIII victory?",
+      "choices": [
+        "Dan Quinn",
+        "Giff Smith",
+        "Coach Carroll",
+        "Monte Kiffin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which offensive tackle was the number one overall pick in the 2007 NFL Draft by the Oakland Raiders?",
+      "choices": [
+        "Jake Long",
+        "Calvin Johnson",
+        "Joe Thomas",
+        "JaMarcus Russell"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2009 NFL season, which New Orleans Saints kicker made 29 consecutive field goals?",
+      "choices": [
+        "Garrett Hartley",
+        "Jeff Wilkins",
+        "John Carney",
+        "Morten Andersen"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team finished the 2007 NFL regular season with a 16-0 record before losing in Super Bowl XLII?",
+      "choices": [
+        "New England Patriots",
+        "Green Bay Packers",
+        "San Diego Chargers",
+        "Indianapolis Colts"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which safety recorded 14 interceptions during the 1993 NFL season?",
+      "choices": [
+        "Darren Sharper",
+        "Rod Woodson",
+        "Aeneas Williams",
+        "Steve Atwater"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback won the NFL MVP award in 2013 after leading his team to a 55-10 victory in Super Bowl XLVIII?",
+      "choices": [
+        "Peyton Manning",
+        "Tom Brady",
+        "Aaron Rodgers",
+        "Drew Brees"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Monday Night Football transition from ABC to ESPN after 36 seasons on the network?",
+      "choices": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which running back was traded from the Cleveland Browns to the Indianapolis Colts in September 2013 after being the third overall pick in the 2012 NFL Draft?",
+      "choices": [
+        "Mark Ingram",
+        "Trent Richardson",
+        "Montee Ball",
+        "Eddie Lacy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the home stadium of the Arizona Cardinals, where they played their home games during the 2013 NFL season?",
+      "choices": [
+        "Cardinals Stadium",
+        "Phoenix Stadium",
+        "University of Phoenix Stadium",
+        "Arizona Memorial Stadium"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wide receiver signed with the San Francisco 49ers in 2013 after spending six seasons with the Green Bay Packers?",
+      "choices": [
+        "Greg Jennings",
+        "Wes Welker",
+        "Anquan Boldin",
+        "Vincent Jackson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city is MetLife Stadium, the home of the New York Giants and New York Jets, located?",
+      "choices": [
+        "Newark, New Jersey",
+        "East Rutherford, New Jersey",
+        "Jersey City, New Jersey",
+        "Secaucus, New Jersey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wide receiver joined the Miami Dolphins in 2013 after six seasons with the New England Patriots?",
+      "choices": [
+        "Brandon Marshall",
+        "Wes Welker",
+        "Mike Wallace",
+        "Davone Bess"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was named the 2012 NFL Coach of the Year while coaching the Indianapolis Colts?",
+      "choices": [
+        "Bruce Arians",
+        "John Harbaugh",
+        "Jim Schwartz",
+        "Jeff Fisher"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback was selected first overall in the 2012 NFL Draft by the Indianapolis Colts?",
+      "choices": [
+        "Robert Griffin III",
+        "Andrew Luck",
+        "Ryan Tannehill",
+        "Brandon Weeden"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city is the home of the NFL team nicknamed the Ravens, a name inspired by Edgar Allan Poe?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Baltimore",
+        "Washington"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wide receiver signed with the San Francisco 49ers in 2013 after being traded by the Baltimore Ravens mid-season?",
+      "choices": [
+        "Randy Moss",
+        "Anquan Boldin",
+        "Terrell Owens",
+        "Steve Smith"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city do the NFL Cardinals play their home games as of the 2013 season?",
+      "choices": [
+        "Phoenix, Arizona",
+        "Glendale, Arizona",
+        "Tempe, Arizona",
+        "Mesa, Arizona"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Super Bowl, played in February 2014, featured the Seattle Seahawks defeating the Denver Broncos 43-8?",
+      "choices": [
+        "Super Bowl XLVII",
+        "Super Bowl XLVIII",
+        "Super Bowl XLIX",
+        "Super Bowl 50"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NFL team was the first to win a Super Bowl while playing in a dome stadium, winning Super Bowl XXXVII in 2003?",
+      "choices": [
+        "New Orleans Saints",
+        "Tampa Bay Buccaneers",
+        "Indianapolis Colts",
+        "Houston Texans"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city is the home of the NFL Texans, the newest franchise in the league at the time of their 2002 inaugural season?",
+      "choices": [
+        "Dallas, Texas",
+        "San Antonio, Texas",
+        "Houston, Texas",
+        "Austin, Texas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NFL team, playing in Oakland, adopted the nickname 'Raiders' in 1960?",
+      "choices": [
+        "Oakland Athletics",
+        "Oakland Invaders",
+        "Oakland Rebels",
+        "Oakland Raiders"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city do the NFL Panthers, established in 1995, play their home games?",
+      "choices": [
+        "Charlotte, North Carolina",
+        "Raleigh, North Carolina",
+        "Greensboro, North Carolina",
+        "Durham, North Carolina"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won Super Bowl XXV in 1991 by defeating the Buffalo Bills with a field goal in the final seconds?",
+      "choices": [
+        "New York Giants",
+        "San Francisco 49ers",
+        "Dallas Cowboys",
+        "Washington Redskins"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city is home to the NFL Falcons, a franchise that joined the league in 1966?",
+      "choices": [
+        "Tampa Bay, Florida",
+        "Atlanta, Georgia",
+        "New Orleans, Louisiana",
+        "Jacksonville, Florida"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NFL team won Super Bowl XLIX in February 2015 by defeating the Seattle Seahawks with a goal-line interception?",
+      "choices": [
+        "New York Patriots",
+        "New England Patriots",
+        "Boston Patriots",
+        "New Hampshire Patriots"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback threw 55 touchdown passes in the 2013 NFL season, setting a single-season record at that time?",
+      "choices": [
+        "Tom Brady",
+        "Peyton Manning",
+        "Drew Brees",
+        "Aaron Rodgers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Super Bowl XXXIV (2000), which team's kicker missed a potentially game-winning field goal in the final seconds against the St. Louis Rams?",
+      "choices": [
+        "Tennessee Titans",
+        "Jacksonville Jaguars",
+        "Pittsburgh Steelers",
+        "Baltimore Ravens"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which defensive end won the 1985 Super Bowl XX MVP award while playing for the Chicago Bears?",
+      "choices": [
+        "Richard Dent",
+        "Dan Hampton",
+        "William Perry",
+        "Mike Singletary"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the Indianapolis Colts franchise before relocating to Indiana in 1984?",
+      "choices": [
+        "Baltimore Colts",
+        "Boston Colts",
+        "Dallas Colts",
+        "Chicago Colts"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won Super Bowl XXV in 1991 with a game-winning field goal by Scott Norwood's famous missed kick for the opposing team?",
+      "choices": [
+        "New York Giants",
+        "Buffalo Bills",
+        "Washington Redskins",
+        "San Francisco 49ers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Cleveland Browns franchise relocate to Baltimore and become the Ravens?",
+      "choices": [
+        "1994",
+        "1996",
+        "1999",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the record number of consecutive Super Bowl appearances achieved by the New England Patriots between 2014 and 2019?",
+      "choices": [
+        "4 consecutive",
+        "5 consecutive",
+        "3 consecutive",
+        "6 consecutive"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team's running back Terrell Davis earned the Super Bowl XXXII MVP award in 1998?",
+      "choices": [
+        "Denver Broncos",
+        "Green Bay Packers",
+        "San Francisco 49ers",
+        "Dallas Cowboys"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2011 NFL season, which quarterback won the MVP award and led the Green Bay Packers to Super Bowl XLV victory?",
+      "choices": [
+        "Brett Favre",
+        "Aaron Rodgers",
+        "Tom Brady",
+        "Peyton Manning"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team drafted Barry Sanders first overall in 1989, and what position did he play?",
+      "choices": [
+        "Detroit Lions, running back",
+        "Dallas Cowboys, wide receiver",
+        "San Francisco 49ers, running back",
+        "Washington Redskins, defensive back"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the final score of Super Bowl XLIII in 2009, won by the Pittsburgh Steelers over the Arizona Cardinals?",
+      "choices": [
+        "27-23",
+        "20-17",
+        "24-23",
+        "31-20"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which linebacker won the 2000 NFL Defensive Player of the Year award while playing for the Baltimore Ravens?",
+      "choices": [
+        "Ray Lewis",
+        "Peter Boulware",
+        "Jamir Miller",
+        "Jamie Sharper"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Houston Oilers franchise relocate and eventually become the Tennessee Titans?",
+      "choices": [
+        "1994",
+        "1996",
+        "1998",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback threw the game-winning touchdown pass in Super Bowl XLIV in 2010, leading the New Orleans Saints to victory?",
+      "choices": [
+        "Drew Brees",
+        "Peyton Manning",
+        "Tom Brady",
+        "Brett Favre"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum salary cap penalty that the NFL can impose on a team for a single season?",
+      "choices": [
+        "No official maximum exists",
+        "$10 million",
+        "$20 million",
+        "$50 million"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team's defensive end Lawrence Taylor won the 1986 NFL MVP award, the only defensive player to win it in the 1980s?",
+      "choices": [
+        "New York Giants",
+        "Chicago Bears",
+        "San Francisco 49ers",
+        "Dallas Cowboys"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Super Bowl XXIII (1989), which team defeated the Cincinnati Bengals with a last-minute field goal?",
+      "choices": [
+        "San Francisco 49ers",
+        "Denver Broncos",
+        "New York Giants",
+        "Washington Redskins"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which running back holds the NFL record for rushing yards in a single season with 2,105 yards?",
+      "choices": [
+        "Barry Sanders",
+        "Adrian Peterson",
+        "Jamal Lewis",
+        "Eric Dickerson"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What controversial rule change was implemented by the NFL in 2004 regarding the placement of the kickoff?",
+      "choices": [
+        "Moved kickoff from the 40-yard line to the 35-yard line",
+        "Moved kickoff from the 35-yard line to the 30-yard line",
+        "Eliminated the two-point conversion attempt",
+        "Changed the width of the field by 5 yards"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2013 NFL Draft, which offensive tackle was selected first overall by the Kansas City Chiefs?",
+      "choices": [
+        "Eric Fisher",
+        "Luke Joeckel",
+        "Chance Warmack",
+        "Mike Adams"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cornerback signed a five-year, $96 million contract with the Tampa Bay Buccaneers in March 2013 after leaving the New York Jets?",
+      "choices": [
+        "Antonio Cromartie",
+        "Darrelle Revis",
+        "Kyle Wilson",
+        "Dimitri Patterson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Luke Kuechly won the 2013 NFL Defensive Player of the Year award while playing for which team?",
+      "choices": [
+        "Atlanta Falcons",
+        "Carolina Panthers",
+        "New Orleans Saints",
+        "Tampa Bay Buccaneers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wide receiver was traded to the Seattle Seahawks by the Minnesota Vikings in March 2013?",
+      "choices": [
+        "Greg Jennings",
+        "Percy Harvin",
+        "Sidney Rice",
+        "Jerricho Cotchery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2012, Adrian Peterson won the NFL MVP award while leading the league in rushing yards for which team?",
+      "choices": [
+        "Dallas Cowboys",
+        "Minnesota Vikings",
+        "Philadelphia Eagles",
+        "Tampa Bay Buccaneers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ron Rivera earned the 2013 AP Coach of the Year award while coaching which NFL team?",
+      "choices": [
+        "Atlanta Falcons",
+        "Carolina Panthers",
+        "Kansas City Chiefs",
+        "San Francisco 49ers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which quarterback was traded to the Kansas City Chiefs by the San Francisco 49ers in February 2013?",
+      "choices": [
+        "Colin Kaepernick",
+        "Alex Smith",
+        "Jim Harbaugh",
+        "David Carr"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sheldon Richardson won the 2013 AP Defensive Rookie of the Year award while playing defensive tackle for which team?",
+      "choices": [
+        "New York Jets",
+        "New England Patriots",
+        "Baltimore Ravens",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "John Dorsey earned the 2013 PFWA NFL Executive of the Year award while serving as general manager of which team?",
+      "choices": [
+        "Kansas City Chiefs",
+        "Green Bay Packers",
+        "San Francisco 49ers",
+        "New England Patriots"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wide receiver signed with the Minnesota Vikings in March 2013 after playing for the Green Bay Packers?",
+      "choices": [
+        "Brandon Marshall",
+        "Wes Welker",
+        "Greg Jennings",
+        "Demaryius Thomas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Keenan Allen won the 2013 Pepsi NFL Rookie of the Year award as a wide receiver for which team?",
+      "choices": [
+        "Oakland Raiders",
+        "San Diego Chargers",
+        "Denver Broncos",
+        "Kansas City Chiefs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Charles Tillman earned the 2013 Walter Payton NFL Man of the Year award while playing for which team?",
+      "choices": [
+        "Chicago Bears",
+        "Denver Broncos",
+        "Carolina Panthers",
+        "New York Giants"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the top draft pick for the St. Louis Rams in 2010?",
+      "choices": [
+        "Sam Bradford",
+        "Patrick Mahomes",
+        "Bears",
+        "Browns"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gridiron giant was nicknamed “The Bus,” rumbling down the field?",
+      "choices": [
+        "Steve Young",
+        "Saints",
+        "Troy Aikman",
+        "Jerome Bettis"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fearless quarterback, dubbed “The Gunslinger,” fired deep passes?",
+      "choices": [
+        "Emmitt Smith",
+        "Terry Bradshaw",
+        "Brett Favre",
+        "Roger Staubach"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1960s legend scored touchdowns in 18 straight games?",
+      "choices": [
+        "Lenny Moore",
+        "Commanders",
+        "Patriots",
+        "Browns"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cerebral quarterback clinched the 2013 MVP title, orchestrating the game?",
+      "choices": [
+        "Tom Brady",
+        "Peyton Manning",
+        "Brett Favre",
+        "Dick Butkus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gridiron guardian was crowned the 2013 Defensive Player of the Year, stopping plays?",
+      "choices": [
+        "Lions",
+        "Luke Kuechly",
+        "Rams",
+        "Walter Payton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which emerging star fizzed onto the scene, winning the Pepsi Rookie of the Year in 2013?",
+      "choices": [
+        "Bills",
+        "Colts",
+        "Keenan Allen",
+        "Dolphins"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which promising talent was the top pick in the 2013 NFL Draft, stepping onto the gridiron?",
+      "choices": [
+        "Eric Fisher",
+        "Jets",
+        "Colts",
+        "Jerry Rice"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player stole the spotlight to win the Super Bowl XLVIII MVP?",
+      "choices": [
+        "Malcolm Smith",
+        "Titans",
+        "Seahawks",
+        "Barry Sanders"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coaching mastermind earned the AP Coach of the Year in 2013, strategizing?",
+      "choices": [
+        "Ron Rivera",
+        "Peyton Manning",
+        "Johnny Unitas",
+        "Jaguars"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dynamic rookie sizzled his way to the Pepsi Rookie of the Year in 2013?",
+      "choices": [
+        "Keenan Allen",
+        "Vikings",
+        "Buccaneers",
+        "Jim Brown"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long is an NFL football field, stretching out?",
+      "choices": [
+        "Ravens",
+        "Falcons",
+        "120 yards",
+        "Terry Bradshaw"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which vibrant metropolis hosted the 2013 NFL Draft, where future legends were unveiled?",
+      "choices": [
+        "New York City",
+        "Bart Starr",
+        "Joe Namath",
+        "Texans"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which state does the Paul Brown Stadium, a cathedral of football history, stand tall?",
+      "choices": [
+        "Bart Starr",
+        "Terry Bradshaw",
+        "Browns",
+        "Ohio"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team once lit up Candlestick Park?",
+      "choices": [
+        "Bears",
+        "Panthers",
+        "San Francisco 49ers",
+        "Buccaneers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gridiron underdog stumbled in Super Bowl III?",
+      "choices": [
+        "Indianapolis Colts",
+        "Rams",
+        "Jaguars",
+        "Vikings"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What’s the cool nickname for the NFL team sizzling under the Arizona sun?",
+      "choices": [
+        "Chargers",
+        "Cardinals",
+        "Buccaneers",
+        "Packers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which moniker fits the NFL team from Indianapolis, charging down the field?",
+      "choices": [
+        "Colts",
+        "Rams",
+        "Jaguars",
+        "Browns"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What’s the name of the NFL team lighting up San Francisco?",
+      "choices": [
+        "Dolphins",
+        "49ers",
+        "Chiefs",
+        "Bengals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which gritty city, for its steel and heart, do the Steelers is from?",
+      "choices": [
+        "Pittsburgh",
+        "Green Bay",
+        "Tampa Bay",
+        "Dallas"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What’s the storied nickname for the NFL team lighting up San Francisco’s gridiron stage?",
+      "choices": [
+        "Broncos",
+        "Commanders",
+        "49ers",
+        "Bills"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which energetic New Jersey town played host to Super Bowl XLVIII, buzzing with excitement?",
+      "choices": [
+        "Dolphins",
+        "Patriots",
+        "East Rutherford",
+        "Panthers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tropical haven brought the heat to Super Bowl XVIII, where the game sizzled?",
+      "choices": [
+        "Buccaneers",
+        "Jaguars",
+        "Terry Bradshaw",
+        "Tampa"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team won the first two Super Bowls (Super Bowl I and II)?",
+      "choices": [
+        "Dallas Cowboys",
+        "Green Bay Packers",
+        "Pittsburgh Steelers",
+        "New York Jets"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Super Bowl trophy is named after which legendary coach?",
+      "choices": [
+        "George Halas",
+        "Vince Lombardi",
+        "Don Shula",
+        "Bill Walsh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two NFL franchises are tied for the most Super Bowl wins, each with 6?",
+      "choices": [
+        "Cowboys and 49ers",
+        "Packers and Giants",
+        "Steelers and Patriots",
+        "Broncos and Raiders"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Super Bowl titles did Tom Brady win during his playing career?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The San Francisco 49ers are named after what historical phenomenon?",
+      "choices": [
+        "The Gold Rush",
+        "The Great Migration",
+        "The Transcontinental Railroad",
+        "The Panama Canal"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team plays its home games at Lambeau Field?",
+      "choices": [
+        "Chicago Bears",
+        "Minnesota Vikings",
+        "Detroit Lions",
+        "Green Bay Packers"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL quarterback holds the all-time record for career passing yards and touchdowns?",
+      "choices": [
+        "Peyton Manning",
+        "Drew Brees",
+        "Tom Brady",
+        "Brett Favre"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team famously went undefeated en route to winning Super Bowl VII?",
+      "choices": [
+        "1972 Miami Dolphins",
+        "1985 Chicago Bears",
+        "2007 New England Patriots",
+        "1998 Denver Broncos"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     },
     {
       "q": "Which NFL team plays its home games in Arlington, Texas at AT&T Stadium?",
-      "choices": ["Houston Texans", "Dallas Cowboys", "Tennessee Titans", "Kansas City Chiefs"],
+      "choices": [
+        "Houston Texans",
+        "Dallas Cowboys",
+        "Tennessee Titans",
+        "Kansas City Chiefs"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Dallas", "verified": true, "notes": "Nicknamed 'America's Team.' Opened the stadium in 2009." }
+      "difficulty": "medium"
     },
     {
       "q": "Which Pro Football Hall of Fame running back played his entire career with the Detroit Lions (1989-1998)?",
-      "choices": ["Walter Payton", "Jim Brown", "Barry Sanders", "Emmitt Smith"],
+      "choices": [
+        "Walter Payton",
+        "Jim Brown",
+        "Barry Sanders",
+        "Emmitt Smith"
+      ],
       "correct": 2,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Sam Bradford", "verified": true, "notes": "Retired abruptly at age 30. Ranks 4th all-time in rushing yards." }
+      "difficulty": "medium"
     },
     {
       "q": "The NFL's Pro Football Hall of Fame is located in which city?",
-      "choices": ["Cooperstown, NY", "Canton, OH", "Springfield, MA", "Indianapolis, IN"],
+      "choices": [
+        "Cooperstown, NY",
+        "Canton, OH",
+        "Springfield, MA",
+        "Indianapolis, IN"
+      ],
       "correct": 1,
-      "category": "NFL Football",
-      "difficulty": "medium",
-      "source": { "original_a": "Cleveland", "verified": true, "notes": "Opened 1963. Canton is where the NFL was founded." }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which wide receiver was traded from the Minnesota Vikings to the Seattle Seahawks in March 2013?",
+      "choices": [
+        "Percy Harvin",
+        "Anquan Boldin",
+        "Brandon Marshall",
+        "Wes Welker"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Seattle Seahawks first begin play in the NFL?",
+      "choices": [
+        "1974",
+        "1976",
+        "1978",
+        "1980"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many career rushing yards did Emmitt Smith accumulate during his NFL career?",
+      "choices": [
+        "16,726 yards",
+        "17,162 yards",
+        "18,355 yards",
+        "19,104 yards"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team won Super Bowl XV in 1981?",
+      "choices": [
+        "Oakland Raiders",
+        "San Francisco 49ers",
+        "Dallas Cowboys",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defensive player won the AP Defensive Rookie of the Year Award in 2013?",
+      "choices": [
+        "Luke Kuechly",
+        "Sheldon Richardson",
+        "Damontre Moore",
+        "Jordan Palmer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary television network that broadcast Monday Night Football for 35 consecutive years before 2005?",
+      "choices": [
+        "NBC",
+        "CBS",
+        "ABC",
+        "FOX"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team lost Super Bowl XLVIII to the Seattle Seahawks?",
+      "choices": [
+        "San Francisco 49ers",
+        "Denver Broncos",
+        "New England Patriots",
+        "Indianapolis Colts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what state is the NFL's main league headquarters located?",
+      "choices": [
+        "New York",
+        "New Jersey",
+        "Connecticut",
+        "Pennsylvania"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which running back won the NFL MVP Award in 2012?",
+      "choices": [
+        "Ray Rice",
+        "Adrian Peterson",
+        "Arian Foster",
+        "Frank Gore"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who won the Super Bowl XLVIII MVP Award?",
+      "choices": [
+        "Russell Wilson",
+        "Marshawn Lynch",
+        "Malcolm Smith",
+        "Richard Sherman"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player was selected first overall in the 2013 NFL Draft?",
+      "choices": [
+        "Geno Smith",
+        "Eric Fisher",
+        "Jadeveon Clowney",
+        "Matthew Stafford"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team traded for running back Trent Richardson in September 2013?",
+      "choices": [
+        "Indianapolis Colts",
+        "Miami Dolphins",
+        "Tennessee Titans",
+        "Jacksonville Jaguars"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defensive player earned the AP Defensive Player of the Year Award in 2013?",
+      "choices": [
+        "Von Miller",
+        "J.J. Watt",
+        "Luke Kuechly",
+        "Richard Sherman"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team plays their home games in Washington, D.C.?",
+      "choices": [
+        "Baltimore Ravens",
+        "Washington Football Team",
+        "Philadelphia Eagles",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which running back won the AP Offensive Rookie of the Year Award in 2013?",
+      "choices": [
+        "Le'Veon Bell",
+        "Eddie Lacy",
+        "Montee Ball",
+        "Giovani Bernard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city hosted Super Bowl XLV in 2011?",
+      "choices": [
+        "Arlington, Texas",
+        "Glendale, Arizona",
+        "Indianapolis, Indiana",
+        "Miami, Florida"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which wide receiver was signed by the Baltimore Ravens in March 2013 after leaving the Arizona Cardinals?",
+      "choices": [
+        "Larry Fitzgerald",
+        "Anquan Boldin",
+        "Derrick Mason",
+        "Steve Smith"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team was formerly known as the Redskins before their 2020 name change?",
+      "choices": [
+        "Washington Football Team",
+        "Phoenix Cardinals",
+        "Los Angeles Rams",
+        "Tennessee Titans"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What nickname is associated with the NFL team that played in San Diego?",
+      "choices": [
+        "Padres",
+        "Chargers",
+        "Aztecs",
+        "Dolphins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coach was named AP Coach of the Year in 2013?",
+      "choices": [
+        "Andy Reid",
+        "Ron Rivera",
+        "John Harbaugh",
+        "Pete Carroll"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 2013 NFL season, which quarterback set the single-season record for most touchdown passes?",
+      "choices": [
+        "Tom Brady",
+        "Peyton Manning",
+        "Drew Brees",
+        "Aaron Rodgers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which offensive tackle was selected first overall in the 2013 NFL Draft?",
+      "choices": [
+        "Luke Joeckel",
+        "Eric Fisher",
+        "Damontre Moore",
+        "Geno Smith"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary home stadium for the Green Bay Packers?",
+      "choices": [
+        "Arrowhead Stadium",
+        "Lambeau Field",
+        "Ford Field",
+        "Soldier Field"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player won the AP Defensive Rookie of the Year award in 2013?",
+      "choices": [
+        "Luke Kuechly",
+        "Sheldon Richardson",
+        "Damontre Moore",
+        "DeVante Parker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city do the Tennessee Titans play their home games?",
+      "choices": [
+        "Memphis",
+        "Knoxville",
+        "Nashville",
+        "Chattanooga"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team defeated the Denver Broncos in Super Bowl XLVIII?",
+      "choices": [
+        "New England Patriots",
+        "Seattle Seahawks",
+        "San Francisco 49ers",
+        "Carolina Panthers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What nickname is used for the NFL team based in Indianapolis?",
+      "choices": [
+        "Colts",
+        "Racers",
+        "Speeders",
+        "Breakers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which wide receiver signed with the Miami Dolphins in 2013 after playing for the Pittsburgh Steelers?",
+      "choices": [
+        "Reggie Wayne",
+        "Mike Wallace",
+        "Darrelle Revis",
+        "Brandon Marshall"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was selected first overall in the 2012 NFL Draft?",
+      "choices": [
+        "Robert Griffin III",
+        "Andrew Luck",
+        "Luck Griffin",
+        "Ryan Tannehill"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which quarterback, known as 'The Gunslinger,' spent most of his Hall of Fame career with the Green Bay Packers?",
+      "choices": [
+        "Dan Marino",
+        "Brett Favre",
+        "John Elway",
+        "Warren Moon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Michael Vick get selected first overall in the NFL Draft?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which running back won the AP Offensive Rookie of the Year award in 2010?",
+      "choices": [
+        "Sam Bradford",
+        "Jahvid Best",
+        "Mikel Leshoure",
+        "C.J. Spiller"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official nickname of the San Francisco-based NFL team?",
+      "choices": [
+        "Gold Rush",
+        "49ers",
+        "Miners",
+        "Prospectors"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city hosted the 2013 NFL Draft?",
+      "choices": [
+        "Chicago",
+        "Los Angeles",
+        "New York City",
+        "Las Vegas"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which state do the New Orleans Saints play their home games?",
+      "choices": [
+        "Mississippi",
+        "Louisiana",
+        "Texas",
+        "Alabama"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which quarterback was the first overall pick in the 2002 NFL Draft?",
+      "choices": [
+        "Michael Vick",
+        "David Carr",
+        "Eli Manning",
+        "Philip Rivers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the home stadium of the Buffalo Bills?",
+      "choices": [
+        "Ralph Wilson Stadium",
+        "Highmark Stadium",
+        "New Era Field",
+        "Pilot Field"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defensive end won the inaugural Deacon Jones Award for defensive excellence?",
+      "choices": [
+        "Robert Mathis",
+        "Jason Pierre-Paul",
+        "Mario Williams",
+        "Jared Allen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which state is the home stadium of the Houston Texans located?",
+      "choices": [
+        "Oklahoma",
+        "Texas",
+        "Arkansas",
+        "Louisiana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL Hall of Famer is known for his connection to Brigham Young University and played quarterback for the San Francisco 49ers?",
+      "choices": [
+        "Steve Young",
+        "Joe Montana",
+        "John Brodie",
+        "Y.A. Tittle"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team won Super Bowl XLIV in 2010, their first championship in franchise history?",
+      "choices": [
+        "New Orleans Saints",
+        "Indianapolis Colts",
+        "Pittsburgh Steelers",
+        "New England Patriots"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tom Brady was drafted in which round of the 2000 NFL Draft?",
+      "choices": [
+        "First round",
+        "Second round",
+        "Sixth round",
+        "Seventh round"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the trophy awarded to the winner of the Super Bowl?",
+      "choices": [
+        "The Lombardi Trophy",
+        "The Vince Lombardi Trophy",
+        "The NFL Championship Trophy",
+        "The Super Bowl Cup"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which AFC North team has won the most Super Bowls?",
+      "choices": [
+        "Pittsburgh Steelers",
+        "Baltimore Ravens",
+        "Cincinnati Bengals",
+        "Cleveland Browns"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the NFL merger with the AFL officially take effect?",
+      "choices": [
+        "1966",
+        "1968",
+        "1970",
+        "1972"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which quarterback threw for the most passing yards in a single NFL season in 2013?",
+      "choices": [
+        "Peyton Manning",
+        "Tom Brady",
+        "Drew Brees",
+        "Aaron Rodgers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Dallas Cowboys and Washington team play in which division?",
+      "choices": [
+        "AFC East",
+        "NFC East",
+        "AFC South",
+        "NFC South"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team's home stadium is known as 'The Frozen Tundra'?",
+      "choices": [
+        "Minnesota Vikings",
+        "Green Bay Packers",
+        "Chicago Bears",
+        "Detroit Lions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many minutes is each quarter of an NFL game?",
+      "choices": [
+        "10 minutes",
+        "12 minutes",
+        "15 minutes",
+        "20 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defensive end won the NFL Defensive Player of the Year award in 2011?",
+      "choices": [
+        "Jared Allen",
+        "Aaron Rodgers",
+        "Von Miller",
+        "Mario Williams"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The San Francisco 49ers won how many Super Bowls during the 1980s and 1990s?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cornerstone NFL player was drafted first overall in 2011?",
+      "choices": [
+        "Cam Newton",
+        "Von Miller",
+        "Julio Jones",
+        "J.J. Watt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the minimum number of players required on each side of the line of scrimmage?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team won Super Bowl XLVI following the 2011 NFL season?",
+      "choices": [
+        "New England Patriots",
+        "New York Giants",
+        "Green Bay Packers",
+        "Pittsburgh Steelers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city do the Buffalo Bills play their home games?",
+      "choices": [
+        "Rochester",
+        "Buffalo",
+        "Syracuse",
+        "Niagara Falls"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many teams make up each NFL conference?",
+      "choices": [
+        "14",
+        "15",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which wide receiver had the most receiving yards in the 2012 NFL season?",
+      "choices": [
+        "Calvin Johnson",
+        "Brandon Marshall",
+        "Victor Cruz",
+        "Roddy White"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Oakland Raiders play in which division?",
+      "choices": [
+        "AFC South",
+        "AFC West",
+        "NFC South",
+        "NFC West"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team appeared in consecutive Super Bowls in 2013 and 2014 (XLVII and XLVIII)?",
+      "choices": [
+        "Denver Broncos",
+        "New England Patriots",
+        "San Francisco 49ers",
+        "Seattle Seahawks"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NFL team won Super Bowl XLVIII in February 2014, decisively defeating the Denver Broncos?",
+      "choices": [
+        "Seattle Seahawks",
+        "San Francisco 49ers",
+        "New England Patriots",
+        "Baltimore Ravens"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Peyton Manning was named the 2013 NFL Offensive Player of the Year after leading which team to a dominant regular season?",
+      "choices": [
+        "Indianapolis Colts",
+        "Denver Broncos",
+        "New England Patriots",
+        "Dallas Cowboys"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Sam Bradford become the first overall pick in the NFL Draft for the St. Louis Rams?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defensive end won the 2013 NFL Defensive Rookie of the Year award after an impressive debut season?",
+      "choices": [
+        "Luke Kuechly",
+        "Sheldon Richardson",
+        "Eric Fisher",
+        "Jarvis Jones"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Darrelle Revis made a notable trade in April 2013, leaving the New York Jets to join which AFC South team?",
+      "choices": [
+        "Jacksonville Jaguars",
+        "Houston Texans",
+        "Tampa Bay Buccaneers",
+        "Tennessee Titans"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which running back earned AP Offensive Rookie of the Year honors in 2013, becoming a key offensive weapon for the Green Bay Packers?",
+      "choices": [
+        "Le'Veon Bell",
+        "Eddie Lacy",
+        "Giovani Bernard",
+        "Montee Ball"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ron Rivera was named the 2013 NFL Coach of the Year while leading which NFC South team?",
+      "choices": [
+        "Atlanta Falcons",
+        "New Orleans Saints",
+        "Carolina Panthers",
+        "Tampa Bay Buccaneers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

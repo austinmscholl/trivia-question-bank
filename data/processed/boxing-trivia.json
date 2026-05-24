@@ -1,41 +1,51 @@
 {
   "slug": "boxing-trivia",
   "name": "Boxing",
-  "description": "The sweet science — legendary fighters, famous bouts, weight classes, and the rulebook.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.447Z",
   "questions": [
     {
-      "q": "Which heavyweight boxer was nicknamed 'The Greatest'?",
-      "choices": ["Mike Tyson", "Muhammad Ali", "Joe Frazier", "George Foreman"],
+      "q": "Which heavyweight boxer was nicknamed 'The Greatest' and 'Iron Mike'… wait, which one was 'The Greatest'?",
+      "choices": [
+        "Mike Tyson",
+        "Muhammad Ali",
+        "Joe Frazier",
+        "George Foreman"
+      ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "Muhammad Ali", "verified": true, "notes": "audit-corrected 2026-05-09: cleaned up garbled draft phrasing that mixed two questions." }
+      "difficulty": "easy"
     },
     {
       "q": "Before converting to Islam and changing his name, Muhammad Ali boxed under what birth name?",
-      "choices": ["Cassius Clay", "Charles Walker", "Leon Spinks", "Floyd Patterson"],
+      "choices": [
+        "Cassius Clay",
+        "Charles Walker",
+        "Leon Spinks",
+        "Floyd Patterson"
+      ],
       "correct": 0,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "1981", "verified": true, "notes": "Clay won Olympic gold in 1960." }
+      "difficulty": "easy"
     },
     {
       "q": "Which fierce heavyweight, nicknamed 'Iron Mike,' became the youngest heavyweight champion in history in 1986?",
-      "choices": ["Evander Holyfield", "Mike Tyson", "Larry Holmes", "Riddick Bowe"],
+      "choices": [
+        "Evander Holyfield",
+        "Mike Tyson",
+        "Larry Holmes",
+        "Riddick Bowe"
+      ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "Mike Tyson", "verified": true, "notes": "Tyson was 20 years, 4 months old." }
+      "difficulty": "easy"
     },
     {
       "q": "The 2004 Oscar-winning drama about a female boxer and her trainer is called what?",
-      "choices": ["The Fighter", "Raging Bull", "Million Dollar Baby", "Cinderella Man"],
+      "choices": [
+        "The Fighter",
+        "Raging Bull",
+        "Million Dollar Baby",
+        "Cinderella Man"
+      ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "Million Dollar Baby", "verified": true, "notes": "Clint Eastwood directed; Best Picture 2004." }
+      "difficulty": "easy"
     },
     {
       "q": "In boxing, what does a 'TKO' stand for?",
@@ -46,141 +56,359 @@
         "Timed Knockout"
       ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "Technical", "verified": true, "notes": "Ref stops the fight for safety; win awarded without a full knockout." }
+      "difficulty": "easy"
     },
     {
       "q": "Boxing fans use what quick phrase for 'the roped, elevated platform where bouts take place'?",
-      "choices": ["Octagon", "Cage", "Ring", "Pit"],
+      "choices": [
+        "Octagon",
+        "Cage",
+        "Ring",
+        "Pit"
+      ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "Square", "verified": true, "notes": "The 'ring' — despite being square — is the standard term." }
+      "difficulty": "easy"
     },
     {
       "q": "Professional heavyweight title fights are typically scheduled for how many rounds?",
-      "choices": ["8", "10", "12", "15"],
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "easy",
-      "source": { "original_a": "Boxing", "verified": true, "notes": "15 rounds until mid-1980s; 12 ever since." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which set of rules, codified in 1867, still underpins modern boxing?",
+      "q": "In what year did amateur boxing first appear as an Olympic sport?",
       "choices": [
-        "The Broughton Rules",
-        "The Marquess of Queensberry Rules",
-        "The London Prize Ring Rules",
-        "The Albany Rules"
+        "1896",
+        "1908",
+        "1920",
+        "1932"
       ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "1867", "verified": true, "notes": "Primary innovation: mandatory gloves, 3-minute rounds." }
+      "difficulty": "easy"
     },
     {
-      "q": "Muhammad Ali's famous 1974 tactic in Zaire — leaning on the ropes to tire George Foreman — is known as what?",
-      "choices": ["Float-and-sting", "Rope-a-dope", "The Peekaboo", "The Ali Shuffle"],
-      "correct": 1,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Rope-a-dope", "verified": true, "notes": "Coined during 'Rumble in the Jungle.'" }
-    },
-    {
-      "q": "Ali's second legendary fight with Joe Frazier, held in 1975 in the Philippines, is nicknamed what?",
+      "q": "Which heavyweight boxer became the first to regain the title after losing it?",
       "choices": [
-        "Rumble in the Jungle",
-        "Thrilla in Manila",
-        "Battle of the Beltways",
-        "War in the Ring"
+        "Muhammad Ali",
+        "Floyd Patterson",
+        "Joe Louis",
+        "Rocky Marciano"
       ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Stopped in 14th round", "verified": true, "notes": "Ali won on a corner stoppage before Round 15." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who shocked the boxing world by knocking out an undefeated Mike Tyson in 1990 in Tokyo?",
+      "q": "What is the name of the padded targets that a boxing trainer holds during training?",
+      "choices": [
+        "Hand wraps",
+        "Focus mitts",
+        "Speed bags",
+        "Heavy bags"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Despite its name, what geometric shape is a professional boxing ring?",
+      "choices": [
+        "Circle",
+        "Octagon",
+        "Square",
+        "Rectangle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country produced the Klitschko brothers, both heavyweight champions known for their intelligence and athletic prowess?",
+      "choices": [
+        "Russia",
+        "Poland",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the lightest weight class in professional boxing?",
+      "choices": [
+        "Bantamweight",
+        "Flyweight",
+        "Light Flyweight",
+        "Strawweight"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who became the youngest heavyweight boxing champion in history at age 20?",
       "choices": [
         "Evander Holyfield",
+        "Mike Tyson",
         "Lennox Lewis",
-        "James 'Buster' Douglas",
-        "Michael Spinks"
+        "James Douglas"
       ],
-      "correct": 2,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "James 'Buster' Douglas", "verified": true, "notes": "42:1 underdog." }
-    },
-    {
-      "q": "Which American fighter retired 49-0, with the only such record at heavyweight?",
-      "choices": ["Joe Louis", "Rocky Marciano", "Jack Dempsey", "Larry Holmes"],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Rocky Marciano", "verified": true, "notes": "Marciano retired undefeated in 1956." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which pair of brothers long dominated the heavyweight division from the early 2000s into the 2010s?",
+      "q": "In 1990, which underdog defeated Mike Tyson to shock the boxing world?",
       "choices": [
-        "The Castillo brothers",
-        "The Klitschko brothers",
-        "The Marquez brothers",
-        "The Williams brothers"
+        "Lennox Lewis",
+        "Buster Douglas",
+        "Riddick Bowe",
+        "Frank Bruno"
       ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Ukrainian", "verified": true, "notes": "Vitali and Wladimir Klitschko, Ukrainian." }
+      "difficulty": "easy"
     },
     {
-      "q": "The WBC is one of boxing's four major sanctioning bodies. What does the 'C' stand for?",
-      "choices": ["Corporation", "Commission", "Council", "Club"],
-      "correct": 2,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Council", "verified": true, "notes": "World Boxing Council, founded 1963." }
-    },
-    {
-      "q": "Joe Louis reigned as heavyweight champion from 1937 to when, in one of the longest title reigns ever?",
-      "choices": ["1946", "1949", "1951", "1953"],
+      "q": "What role does a cutman play in a boxer's corner during a fight?",
+      "choices": [
+        "Announces rounds",
+        "Treats cuts and applies Vaseline",
+        "Counts punches",
+        "Records statistics"
+      ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Joe Louis", "verified": true, "notes": "Made a record 25 title defenses before retiring." }
+      "difficulty": "easy"
     },
     {
-      "q": "The heaviest professional boxing weight class above 200 lb is called what?",
-      "choices": ["Heavyweight", "Cruiserweight", "Super-Heavyweight", "Bridgerweight"],
+      "q": "In what year did Muhammad Ali retire from professional boxing?",
+      "choices": [
+        "1975",
+        "1978",
+        "1981",
+        "1985"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which boxer was known by the nickname 'The Brown Bomber'?",
+      "choices": [
+        "Joe Frazier",
+        "Joe Louis",
+        "Sonny Liston",
+        "Floyd Patterson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What boxing move involves dipping and shifting the body sideways to evade a punch?",
+      "choices": [
+        "Slipping",
+        "Bobbing",
+        "Weaving",
+        "Ducking"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year were the famous Marquess of Queensberry Rules for boxing established?",
+      "choices": [
+        "1835",
+        "1867",
+        "1890",
+        "1912"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which weight class is specifically for boxers weighing around 190 pounds?",
+      "choices": [
+        "Middleweight",
+        "Light Heavyweight",
+        "Cruiserweight",
+        "Heavyweight"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How much do standard amateur boxing gloves weigh for Olympic competition?",
+      "choices": [
+        "8 oz",
+        "10 oz",
+        "12 oz",
+        "14 oz"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Oscar-winning film centered on a female boxer and her relationship with her trainer?",
+      "choices": [
+        "Rocky",
+        "Raging Bull",
+        "Million Dollar Baby",
+        "Cinderella Man"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality was the Olympic boxer Teofilo Stevenson, famous for his dominant heavyweight performances?",
+      "choices": [
+        "Puerto Rican",
+        "Cuban",
+        "Dominican",
+        "Mexican"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which heavyweight champion was known for inventing and patenting a type of wrench?",
+      "choices": [
+        "Muhammad Ali",
+        "Jack Johnson",
+        "Joe Louis",
+        "Rocky Marciano"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the approximate purse Mike Tyson earned for his 1995 fight against Peter McNeeley, which lasted less than a minute?",
+      "choices": [
+        "$10 million",
+        "$15 million",
+        "$25 million",
+        "$35 million"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year were Broughton's Rules, the first standardized set of boxing rules, introduced?",
+      "choices": [
+        "1743",
+        "1810",
+        "1867",
+        "1892"
+      ],
       "correct": 0,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Light heavyweight", "verified": true, "notes": "Above cruiserweight (up to 200 lb) sits heavyweight." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1976 Sylvester Stallone film, based loosely on Chuck Wepner vs Ali, won Best Picture?",
-      "choices": ["Raging Bull", "The Great White Hype", "Rocky", "The Champ"],
+      "q": "In professional boxing, what is the standard size of a boxing ring?",
+      "choices": [
+        "16 feet square",
+        "20 feet square",
+        "Between 16 and 25 feet square",
+        "30 feet square"
+      ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Boxing", "verified": true, "notes": "Rocky (1976), Best Picture 1977 Oscars." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Mexican-American boxer of the 1990s-2000s was nicknamed 'The Golden Boy'?",
-      "choices": ["Julio César Chávez", "Canelo Álvarez", "Oscar De La Hoya", "Erik Morales"],
+      "q": "How many ounces do standard amateur boxing gloves weigh?",
+      "choices": [
+        "8 ounces",
+        "10 ounces",
+        "12 ounces",
+        "14 ounces"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does TKO stand for in boxing?",
+      "choices": [
+        "Total Knockout",
+        "Technical Knockout",
+        "Tactical Knockout",
+        "Termination of Known Opponent"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary heavyweight champion was never defeated in his professional boxing career?",
+      "choices": [
+        "Lennox Lewis",
+        "Muhammad Ali",
+        "Rocky Marciano",
+        "Evander Holyfield"
+      ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "medium",
-      "source": { "original_a": "Boxing", "verified": true, "notes": "Won 1992 Olympic gold; holds 10 world titles across 6 weight classes." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the person in a boxer's corner responsible for treating cuts and applying Vaseline?",
+      "choices": [
+        "Coach",
+        "Cutman",
+        "Trainer",
+        "Manager"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which weight class is considered the heaviest in professional boxing?",
+      "choices": [
+        "Light heavyweight",
+        "Cruiserweight",
+        "Heavyweight",
+        "Super heavyweight"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year were the Marquess of Queensberry Rules, the foundation of modern boxing, first drafted?",
+      "choices": [
+        "1845",
+        "1867",
+        "1892",
+        "1901"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the evasive boxing technique where a fighter dips and moves sideways to dodge punches?",
+      "choices": [
+        "Slipping",
+        "Bobbing",
+        "Weaving",
+        "Ducking"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the padded hand target that trainers wear to help boxers practice their punches?",
+      "choices": [
+        "Speed bag",
+        "Heavy bag",
+        "Focus mitt",
+        "Double-end bag"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
       "q": "Who was the first British man to become heavyweight champion of the world in the 20th century?",
-      "choices": ["Lennox Lewis", "Frank Bruno", "Bob Fitzsimmons", "Tyson Fury"],
+      "choices": [
+        "Lennox Lewis",
+        "Frank Bruno",
+        "Bob Fitzsimmons",
+        "Tyson Fury"
+      ],
       "correct": 0,
-      "category": "Boxing",
-      "difficulty": "hard",
-      "source": { "original_a": "Lennox Lewis", "verified": true, "notes": "Won WBC title in 1993." }
+      "difficulty": "hard"
     },
     {
       "q": "Which Cuban heavyweight won three consecutive Olympic golds (1972, 1976, 1980) but never turned pro?",
@@ -191,9 +419,7 @@
         "Julio La Cruz"
       ],
       "correct": 1,
-      "category": "Boxing",
-      "difficulty": "hard",
-      "source": { "original_a": "Teofilo Stevenson", "verified": true, "notes": "Famously turned down offers to box Ali." }
+      "difficulty": "hard"
     },
     {
       "q": "Which British-born Cornishman was the first three-weight world champion in boxing history (middle, light-heavy, heavyweight)?",
@@ -204,17 +430,766 @@
         "Jack Johnson"
       ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "hard",
-      "source": { "original_a": "Robert James Fitzsimmons", "verified": true, "notes": "Real name Robert James Fitzsimmons, 1890s-early 1900s." }
+      "difficulty": "hard"
     },
     {
       "q": "Amateur boxing was first included in the modern Olympic Games in which year?",
-      "choices": ["1896", "1900", "1904", "1908"],
+      "choices": [
+        "1896",
+        "1900",
+        "1904",
+        "1908"
+      ],
       "correct": 2,
-      "category": "Boxing",
-      "difficulty": "hard",
-      "source": { "original_a": "1904", "verified": true, "notes": "audit-corrected 2026-05-09: boxing debuted at the 1904 St. Louis Games." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Muhammad Ali defeat Sonny Liston for his first heavyweight title?",
+      "choices": [
+        "1962",
+        "1964",
+        "1966",
+        "1968"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which boxer won Olympic gold medals in three consecutive Summer Games (1992, 1996, 2000)?",
+      "choices": [
+        "Oscar De La Hoya",
+        "Sugar Ray Leonard",
+        "Vasyl Lomachenko",
+        "Guillermo Rigondeaux"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of rounds in a professional heavyweight championship bout under current WBC rules?",
+      "choices": [
+        "10 rounds",
+        "12 rounds",
+        "15 rounds",
+        "18 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which legendary trainer developed the peek-a-boo style of boxing defense popularized by Mike Tyson?",
+      "choices": [
+        "Cus D'Amato",
+        "Teddy Atlas",
+        "Angelo Dundee",
+        "Emanuel Steward"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1997, what incident involving Mike Tyson and Evander Holyfield became one of boxing's most infamous moments?",
+      "choices": [
+        "Biting Holyfield's ear",
+        "Head-butting Holyfield repeatedly",
+        "Throwing a punch before the bell",
+        "Refusing to continue fighting"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum weight limit for a light heavyweight boxer according to modern boxing standards?",
+      "choices": [
+        "160 pounds",
+        "168 pounds",
+        "175 pounds",
+        "190 pounds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which boxer held titles in eight different weight classes across his career?",
+      "choices": [
+        "Manny Pacquiao",
+        "Floyd Mayweather Jr.",
+        "Sugar Ray Leonard",
+        "Oscar De La Hoya"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did women's boxing debut as an Olympic sport?",
+      "choices": [
+        "2000",
+        "2004",
+        "2008",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which heavyweight champion was known for his devastating overhand right and fought throughout the 1970s?",
+      "choices": [
+        "George Foreman",
+        "Ken Norton",
+        "Joe Frazier",
+        "Larry Holmes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the boxing term 'clinch' refer to when a boxer executes it defensively?",
+      "choices": [
+        "A rapid combination of punches",
+        "Holding an opponent to prevent punching",
+        "Dodging by moving sideways",
+        "Dropping the hands to absorb body shots"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British boxer defeated Lennox Lewis in 2001 to claim the undisputed heavyweight title?",
+      "choices": [
+        "Evander Holyfield",
+        "Hasim Rahman",
+        "Mike Tyson",
+        "James Toney"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional boxing, what is the standard duration of each round?",
+      "choices": [
+        "2 minutes",
+        "3 minutes",
+        "4 minutes",
+        "5 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Cuban boxer won an Olympic heavyweight gold medal in 1972 and later became a dominant pro champion?",
+      "choices": [
+        "Teofilo Stevenson",
+        "Adolfo Horta",
+        "Guillermo Rigondeaux",
+        "Erislandy Savon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What governing body, founded in 1963, is known for its iconic black belt championship design?",
+      "choices": [
+        "IBF",
+        "WBA",
+        "WBC",
+        "IBO"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which boxer famously lost his undefeated record to Buster Douglas in 1990 as a massive underdog?",
+      "choices": [
+        "Lennox Lewis",
+        "Mike Tyson",
+        "Evander Holyfield",
+        "Larry Holmes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Canelo Alvarez defeat Gennady Golovkin in their first contest?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which legendary trainer mentored both Muhammad Ali and Frazier at different points in their careers?",
+      "choices": [
+        "Don King",
+        "Angelo Dundee",
+        "Drew Bundini Brown",
+        "Freddie Roach"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum amount of time a boxer must wait before competing again after a knockout loss according to most athletic commissions?",
+      "choices": [
+        "7 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which middleweight champion was known for his exceptional footwork and nicknamed 'The Hands of Stone'?",
+      "choices": [
+        "Carlos Monzon",
+        "Marvin Hagler",
+        "Roberto Duran",
+        "Sugar Ray Leonard"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In amateur boxing, what is the maximum number of rounds permitted in an elite-level bout?",
+      "choices": [
+        "3 rounds",
+        "4 rounds",
+        "5 rounds",
+        "6 rounds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Rocky Marciano retire as the only heavyweight champion to finish his career undefeated?",
+      "choices": [
+        "1952",
+        "1956",
+        "1959",
+        "1962"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the defensive technique where a boxer leans back and allows an opponent's punches to pass over or around them?",
+      "choices": [
+        "Slip",
+        "Bob",
+        "Weave",
+        "Shell"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which female boxer became the first woman to win world titles in five different weight classes?",
+      "choices": [
+        "Claressa Shields",
+        "Katie Taylor",
+        "Manny Pacquiao's cousin",
+        "Laila Ali"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the contract weight agreed upon for the first fight between Muhammad Ali and Joe Frazier in 1971?",
+      "choices": [
+        "210 pounds",
+        "215 pounds",
+        "220 pounds",
+        "225 pounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional boxing, how many judges typically score a bout at the championship level?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British heavyweight defeated Lennox Lewis via split decision in 1994, marking one of boxing's greatest upsets?",
+      "choices": [
+        "Riddick Bowe",
+        "Oliver McCall",
+        "Henry Akinwande",
+        "Bruce Seldon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum weight limit in pounds for a middleweight competitor under most professional boxing sanctioning bodies?",
+      "choices": [
+        "154",
+        "160",
+        "168",
+        "175"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which boxer famously adopted the 'Peek-a-Boo' defensive style developed by trainer Cus D'Amato?",
+      "choices": [
+        "Joe Frazier",
+        "Larry Holmes",
+        "Mike Tyson",
+        "Trevor Berbick"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Evander Holyfield famously have part of his ear bitten off during a heavyweight championship rematch?",
+      "choices": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Olympic gold medals did Terence Crawford win before turning professional?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which heavyweight champion of the 1950s held the title for nearly 12 years, the longest reign of any heavyweight in the 20th century?",
+      "choices": [
+        "Ezzard Charles",
+        "Jersey Joe Walcott",
+        "Joe Louis",
+        "Floyd Patterson"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum rest period required between rounds in a professional championship boxing match?",
+      "choices": [
+        "30 seconds",
+        "45 seconds",
+        "60 seconds",
+        "90 seconds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which set of rules, codified in 1867, still underpins modern boxing?",
+      "choices": [
+        "The Broughton Rules",
+        "The Marquess of Queensberry Rules",
+        "The London Prize Ring Rules",
+        "The Albany Rules"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Muhammad Ali's famous 1974 tactic in Zaire — leaning on the ropes to tire George Foreman — is known as what?",
+      "choices": [
+        "Float-and-sting",
+        "Rope-a-dope",
+        "The Peekaboo",
+        "The Ali Shuffle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ali's second legendary fight with Joe Frazier, held in 1975 in the Philippines, is nicknamed what?",
+      "choices": [
+        "Rumble in the Jungle",
+        "Thrilla in Manila",
+        "Battle of the Beltways",
+        "War in the Ring"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who shocked the boxing world by knocking out an undefeated Mike Tyson in 1990 in Tokyo?",
+      "choices": [
+        "Evander Holyfield",
+        "Lennox Lewis",
+        "James 'Buster' Douglas",
+        "Michael Spinks"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American fighter retired 49-0, with the only such record at heavyweight?",
+      "choices": [
+        "Joe Louis",
+        "Rocky Marciano",
+        "Jack Dempsey",
+        "Larry Holmes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pair of brothers long dominated the heavyweight division from the early 2000s into the 2010s?",
+      "choices": [
+        "The Castillo brothers",
+        "The Klitschko brothers",
+        "The Marquez brothers",
+        "The Williams brothers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The WBC is one of boxing's four major sanctioning bodies. What does the 'C' stand for?",
+      "choices": [
+        "Corporation",
+        "Commission",
+        "Council",
+        "Club"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Joe Louis reigned as heavyweight champion from 1937 to when, in one of the longest title reigns ever?",
+      "choices": [
+        "1946",
+        "1949",
+        "1951",
+        "1953"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The heaviest professional boxing weight class above 200 lb is called what?",
+      "choices": [
+        "Heavyweight",
+        "Cruiserweight",
+        "Super-Heavyweight",
+        "Bridgerweight"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1976 Sylvester Stallone film, based loosely on Chuck Wepner vs Ali, won Best Picture?",
+      "choices": [
+        "Raging Bull",
+        "The Great White Hype",
+        "Rocky",
+        "The Champ"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mexican-American boxer of the 1990s-2000s was nicknamed 'The Golden Boy'?",
+      "choices": [
+        "Julio César Chávez",
+        "Canelo Álvarez",
+        "Oscar De La Hoya",
+        "Erik Morales"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year were the Marquess of Queensberry Rules, which modernized boxing and introduced the use of gloves, officially adopted?",
+      "choices": [
+        "1865",
+        "1867",
+        "1872",
+        "1880"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rocky Marciano retired from professional boxing with what perfect record?",
+      "choices": [
+        "45-0",
+        "49-0",
+        "52-0",
+        "48-0"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which boxer earned the nickname 'Iron Mike' during his dominant heavyweight reign in the 1980s?",
+      "choices": [
+        "Evander Holyfield",
+        "Mike Tyson",
+        "Larry Holmes",
+        "Mike Weaver"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1975 'Thrilla in Manila,' which two heavyweight champions fought in one of boxing's most celebrated matches?",
+      "choices": [
+        "Muhammad Ali and Joe Frazier",
+        "George Foreman and Muhammad Ali",
+        "Joe Frazier and George Foreman",
+        "Muhammad Ali and Sonny Liston"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the weight limit for a boxer competing in the middleweight division?",
+      "choices": [
+        "154 pounds",
+        "160 pounds",
+        "168 pounds",
+        "175 pounds"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ukrainian heavyweight brothers both held world championship belts and earned advanced university degrees?",
+      "choices": [
+        "Lennox and Evander",
+        "Vladimir and Vitaly Klitschko",
+        "Oscar and Felix",
+        "Larry and Leon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What defensive technique involves moving the head and upper body side-to-side to avoid incoming punches?",
+      "choices": [
+        "Slipping",
+        "Bobbing and weaving",
+        "Ducking",
+        "Parrying"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boxing was included in the modern Olympic Games for the first time in which year?",
+      "choices": [
+        "1896",
+        "1908",
+        "1920",
+        "1936"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In professional boxing, how many major world sanctioning bodies currently recognize weight class divisions?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Robert Fitzsimmons made boxing history by becoming the first fighter to hold world titles in how many different weight classes?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fighter pulled off one of boxing's biggest upsets by knocking out Mike Tyson in 1990?",
+      "choices": [
+        "Evander Holyfield",
+        "Larry Holmes",
+        "James Douglas",
+        "Frank Bruno"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard size of a professional boxing ring in feet?",
+      "choices": [
+        "20 feet square",
+        "22 feet square",
+        "24 feet square",
+        "26 feet square"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How much did Mike Tyson reportedly earn for his 1995 fight against Peter McNeeley, which lasted approximately 89 seconds?",
+      "choices": [
+        "$15 million",
+        "$25 million",
+        "$30 million",
+        "$40 million"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which member of a boxer's corner team is responsible for stopping bleeding and tending to cuts between rounds?",
+      "choices": [
+        "Trainer",
+        "Cutman",
+        "Cornerman",
+        "Manager"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Joe Louis held the heavyweight championship through the 1940s before losing his title to which boxer?",
+      "choices": [
+        "Rocky Marciano",
+        "Ezzard Charles",
+        "Jersey Joe Walcott",
+        "Max Schmeling"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What weight class sits directly between flyweight and featherweight in professional boxing?",
+      "choices": [
+        "Bantamweight",
+        "Super flyweight",
+        "Junior featherweight",
+        "Light flyweight"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In amateur boxing, how much do standard competition gloves weigh?",
+      "choices": [
+        "8 ounces",
+        "10 ounces",
+        "12 ounces",
+        "14 ounces"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 2004 film starring Clint Eastwood and Hillary Swank earned the Academy Award for Best Picture and focused on women's boxing?",
+      "choices": [
+        "Rocky Balboa",
+        "Million Dollar Baby",
+        "Raging Bull",
+        "The Fighter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A boxer weighing 190 pounds would compete in which professional weight class?",
+      "choices": [
+        "Light heavyweight",
+        "Middleweight",
+        "Cruiserweight",
+        "Super middleweight"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frank Warren, a prominent British boxing promoter, survived an assassination attempt in 1989 in which city?",
+      "choices": [
+        "Manchester",
+        "Liverpool",
+        "London",
+        "Birmingham"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year were the Marquess of Queensberry Rules officially published, establishing the modern foundation for boxing?",
+      "choices": [
+        "1743",
+        "1865",
+        "1892",
+        "1908"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Floyd Patterson made history in 1960 by becoming the first heavyweight champion to achieve which feat?",
+      "choices": [
+        "Win a title at age 21 or younger",
+        "Regain a heavyweight title he had previously lost",
+        "Defeat two champions in the same calendar year",
+        "Win the title without losing a single round"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary responsibility of a cutman during a boxing match?",
+      "choices": [
+        "Manage the boxer's weight between rounds",
+        "Treat cuts and reduce swelling on the boxer's face and body",
+        "Signal the referee about illegal moves",
+        "Record statistics for the official scorecard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Klitschko brothers, Vitali and Wladimir, hail from which country?",
+      "choices": [
+        "Russia",
+        "Ukraine",
+        "Belarus",
+        "Kazakhstan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which weight class sits directly between Bantamweight and Featherweight on the professional boxing scale?",
+      "choices": [
+        "Flyweight",
+        "Super Bantamweight",
+        "Junior Featherweight",
+        "Light Flyweight"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

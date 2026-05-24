@@ -1,169 +1,3285 @@
 {
   "slug": "philosophers-trivia",
-  "name": "Philosophy",
-  "description": "Great thinkers, schools of thought, and famous ideas",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "name": "Philosophers",
+  "processedAt": "2026-05-24T20:43:43.677Z",
   "questions": [
     {
-      "q": "Who is widely considered the father of Western philosophy?",
-      "choices": ["Plato", "Socrates", "Aristotle", "Thales"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "~470-399 BC. Teacher of Plato. Left no writings; known through students' work." }
-    },
-    {
-      "q": "Whose early dialogues feature Socrates as the main character?",
-      "choices": ["Aristotle", "Plato", "Xenophon", "Epicurus"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "The 'Socratic dialogues.' Plato was Socrates's student; Aristotle was Plato's student." }
-    },
-    {
-      "q": "Who founded Taoism (Daoism) and is the reputed author of the Tao Te Ching?",
-      "choices": ["Confucius", "Lao Tzu", "Mencius", "Zhuangzi"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Lao Tzu", "verified": true, "notes": "Also romanized as 'Laozi.' Means 'Old Master.' Semi-legendary 6th century BC figure." }
-    },
-    {
-      "q": "Which Chinese philosopher's teachings include the 'Analects' and emphasize virtue and social harmony?",
-      "choices": ["Lao Tzu", "Confucius", "Sun Tzu", "Mozi"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "easy",
-      "source": { "original_a": "Confucius", "verified": true, "notes": "Kong Fuzi (551-479 BC). Educator, politician, and moral philosopher." }
-    },
-    {
-      "q": "In which modern-day country was Siddhartha Gautama (the Buddha) born?",
-      "choices": ["India", "Nepal", "Tibet", "Sri Lanka"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "hard",
-      "source": { "original_a": "Nepal", "verified": true, "notes": "Born in Lumbini, modern-day Nepal, ~563 BC. Founder of Buddhism." }
-    },
-    {
-      "q": "Who famously wrote 'I think, therefore I am' (Cogito ergo sum)?",
-      "choices": ["John Locke", "René Descartes", "David Hume", "Immanuel Kant"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "easy",
-      "source": { "original_a": "Plato", "verified": true, "notes": "French philosopher (1596-1650). Considered the father of modern philosophy." }
-    },
-    {
-      "q": "Which German philosopher wrote 'The Communist Manifesto' with Friedrich Engels?",
-      "choices": ["Friedrich Nietzsche", "Karl Marx", "Immanuel Kant", "Georg Hegel"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "easy",
-      "source": { "original_a": "Plato", "verified": true, "notes": "Published 1848. Marx also wrote 'Das Kapital.'" }
-    },
-    {
-      "q": "Who declared 'God is dead'?",
-      "choices": ["Karl Marx", "Friedrich Nietzsche", "Jean-Paul Sartre", "Arthur Schopenhauer"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "German philosopher (1844-1900). In 'The Gay Science' (1882) and 'Thus Spoke Zarathustra.'" }
-    },
-    {
-      "q": "Which Greek philosopher was Plato's student and tutor to Alexander the Great?",
-      "choices": ["Socrates", "Aristotle", "Zeno", "Epicurus"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "384-322 BC. Wrote on politics, ethics, metaphysics, biology. Founded the Lyceum school." }
-    },
-    {
-      "q": "What philosophical concept does Jean-Paul Sartre's 'existence precedes essence' represent?",
-      "choices": ["Stoicism", "Existentialism", "Utilitarianism", "Empiricism"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "We exist first, then define ourselves through actions. Sartre (1905-1980) was French." }
-    },
-    {
-      "q": "Who developed the categorical imperative as a moral framework?",
-      "choices": ["John Stuart Mill", "Immanuel Kant", "John Locke", "Voltaire"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "German philosopher (1724-1804). Act only according to rules you could will to be universal." }
-    },
-    {
-      "q": "Which philosophy emphasizes seeking the greatest happiness for the greatest number?",
-      "choices": ["Stoicism", "Utilitarianism", "Hedonism", "Epicureanism"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "Founded by Jeremy Bentham, developed by John Stuart Mill." }
-    },
-    {
-      "q": "Who wrote 'The Republic,' featuring the Allegory of the Cave?",
-      "choices": ["Aristotle", "Socrates", "Plato", "Pythagoras"],
-      "correct": 2,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "~375 BC. Also describes Plato's ideal society and theory of forms." }
-    },
-    {
-      "q": "Which ancient Greek philosopher is famous for the Pythagorean theorem?",
-      "choices": ["Aristotle", "Pythagoras", "Archimedes", "Euclid"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "easy",
-      "source": { "original_a": "Greece", "verified": true, "notes": "~570-495 BC. Also founded a religious/philosophical movement in southern Italy." }
-    },
-    {
-      "q": "Who wrote 'Meditations,' a work reflecting Stoic philosophy, while serving as Roman emperor?",
-      "choices": ["Julius Caesar", "Nero", "Marcus Aurelius", "Hadrian"],
-      "correct": 2,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "Ruled 161-180 AD. 'Last of the Five Good Emperors.' Wrote for private reflection, not publication." }
-    },
-    {
-      "q": "Benedictus (Baruch) Spinoza's masterwork is titled what?",
-      "choices": ["Essays", "Ethics", "Pensées", "Meditations"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "hard",
-      "source": { "original_a": "Benedictus Spinoza", "verified": true, "notes": "Dutch philosopher (1632-1677). Excommunicated from Jewish community for his views. Published posthumously." }
-    },
-    {
-      "q": "Which school of Greek philosophy emphasized acceptance of fate and virtuous living regardless of circumstances?",
-      "choices": ["Cynicism", "Stoicism", "Epicureanism", "Skepticism"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "Founded by Zeno of Citium (~300 BC). Modern practitioners include Marcus Aurelius and Seneca." }
-    },
-    {
-      "q": "Which 18th-century French philosopher wrote 'Candide' and championed free speech and religious tolerance?",
-      "choices": ["Voltaire", "Rousseau", "Diderot", "Montesquieu"],
+      "q": "In which country was the philosopher Aristotle born?",
+      "choices": [
+        "Macedonia",
+        "Athens",
+        "Sparta",
+        "Corinth"
+      ],
       "correct": 0,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "Pen name of François-Marie Arouet (1694-1778). Key Enlightenment thinker. 'Candide' satirizes optimism." }
+      "difficulty": "easy"
     },
     {
-      "q": "Whose famous work 'The Social Contract' begins with 'Man is born free, and everywhere he is in chains'?",
-      "choices": ["Voltaire", "Jean-Jacques Rousseau", "John Locke", "Thomas Hobbes"],
-      "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "Published 1762. Influenced the French Revolution." }
+      "q": "What year was Karl Marx born?",
+      "choices": [
+        "1818",
+        "1825",
+        "1812",
+        "1830"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote 'Beyond Good and Evil' and developed the concept of the 'Übermensch'?",
-      "choices": ["Arthur Schopenhauer", "Friedrich Nietzsche", "Martin Heidegger", "Bertrand Russell"],
+      "q": "René Descartes was born in which year?",
+      "choices": [
+        "1596",
+        "1601",
+        "1589",
+        "1605"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which century did the philosopher David Hume live and work?",
+      "choices": [
+        "18th",
+        "17th",
+        "19th",
+        "16th"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Michel Foucault die?",
+      "choices": [
+        "1984",
+        "1986",
+        "1982",
+        "1988"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality was the philosopher Friedrich Nietzsche?",
+      "choices": [
+        "German",
+        "Austrian",
+        "Swiss",
+        "Prussian"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous philosopher spent most of his life in the Italian city of Florence?",
+      "choices": [
+        "Niccolò Machiavelli",
+        "Dante Alighieri",
+        "Giordano Bruno",
+        "Thomas Aquinas"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the middle name of British philosopher Karl Popper?",
+      "choices": [
+        "Raimund",
+        "Rudolf",
+        "Raymond",
+        "Robert"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country was philosopher Arne Naess born?",
+      "choices": [
+        "Norway",
+        "Sweden",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Francis Bacon publish his influential work 'Novum Organum'?",
+      "choices": [
+        "1620",
+        "1605",
+        "1630",
+        "1615"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "From which country does the philosopher Alfred Ayer originate?",
+      "choices": [
+        "England",
+        "Scotland",
+        "Ireland",
+        "Wales"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the birth year of the ancient Greek philosopher Plato?",
+      "choices": [
+        "427 BC",
+        "430 BC",
+        "420 BC",
+        "435 BC"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did the English philosopher J.L. Austin live and work?",
+      "choices": [
+        "20th",
+        "19th",
+        "21st",
+        "18th"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher is credited as the founder of Chinese philosophy?",
+      "choices": [
+        "Lao Tzu",
+        "Confucius",
+        "Zhuangzi",
+        "Mencius"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first name of the philosopher commonly known by the surname 'Boethius'?",
+      "choices": [
+        "Anicius",
+        "Aurelius",
+        "Anselm",
+        "Augustine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the French philosopher Simone de Beauvoir born?",
+      "choices": [
+        "1908",
+        "1905",
+        "1912",
+        "1900"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the middle name of American philosopher Charles Peirce?",
+      "choices": [
+        "Sanders",
+        "Samuel",
+        "Stephen",
+        "Solomon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which work by John Rawls addresses the concept of fairness and social justice?",
+      "choices": [
+        "A Theory of Justice",
+        "A Theory of Rights",
+        "A Theory of Equality",
+        "A Theory of Freedom"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "From which country was the philosopher Francisco de Vitoria?",
+      "choices": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "France"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher wrote works titled 'Metaphysics' and 'On the Soul'?",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Thales"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country was René Descartes born?",
+      "choices": [
+        "Germany",
+        "France",
+        "Netherlands",
+        "Italy"
+      ],
       "correct": 1,
-      "category": "Philosophy",
-      "difficulty": "medium",
-      "source": { "original_a": "Plato", "verified": true, "notes": "'Übermensch' sometimes translated 'superman' or 'overman.' Nietzsche's 1886 work." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nationality of Friedrich Nietzsche?",
+      "choices": [
+        "Austrian",
+        "German",
+        "Swiss",
+        "Danish"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Karl Marx pass away?",
+      "choices": [
+        "1875",
+        "1883",
+        "1891",
+        "1879"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek philosopher was a teacher to Alexander the Great?",
+      "choices": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Epicurus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Plato born?",
+      "choices": [
+        "384 BC",
+        "427 BC",
+        "469 BC",
+        "341 BC"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary country of residence for Niccolò Machiavelli?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country was the birthplace of David Hume?",
+      "choices": [
+        "England",
+        "Ireland",
+        "Scotland",
+        "Wales"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century did Jeremy Bentham live?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was William James's nationality?",
+      "choices": [
+        "British",
+        "American",
+        "Canadian",
+        "Irish"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher is credited as the founder of Daoism?",
+      "choices": [
+        "Confucius",
+        "Zhuangzi",
+        "Lao Tzu",
+        "Mozi"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Francis Bacon publish Novum Organum?",
+      "choices": [
+        "1605",
+        "1620",
+        "1635",
+        "1650"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country was the birthplace of Confucius?",
+      "choices": [
+        "Japan",
+        "Vietnam",
+        "China",
+        "Korea"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Aristotle born?",
+      "choices": [
+        "384 BC",
+        "362 BC",
+        "342 BC",
+        "322 BC"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nationality of Michel de Montaigne?",
+      "choices": [
+        "Spanish",
+        "French",
+        "Portuguese",
+        "Italian"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century was Karl Popper born?",
+      "choices": [
+        "19th century",
+        "20th century",
+        "18th century",
+        "21st century"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher emphasized self-knowledge and opposed Confucian focus on ritual?",
+      "choices": [
+        "Confucius",
+        "Mozi",
+        "Laozi",
+        "Zhuangzi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what country was Edmund Husserl born?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Czech Republic",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year marked the birth of Karl Marx?",
+      "choices": [
+        "1808",
+        "1813",
+        "1818",
+        "1823"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Jeremy Bentham born?",
+      "choices": [
+        "1738",
+        "1748",
+        "1758",
+        "1768"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country was the birthplace of Zeno of Elea, the ancient paradox philosopher?",
+      "choices": [
+        "Italy",
+        "Greece",
+        "Turkey",
+        "Egypt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek philosopher is famous for founding the Academy in Athens?",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Pythagoras"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "René Descartes is most famous for which philosophical statement?",
+      "choices": [
+        "I walk, therefore I am",
+        "I think, therefore I am",
+        "I doubt, therefore I am",
+        "I feel, therefore I am"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality was the philosopher Immanuel Kant?",
+      "choices": [
+        "Swiss",
+        "Danish",
+        "German",
+        "Dutch"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher wrote 'Meditations', a series of personal writings about stoicism?",
+      "choices": [
+        "Epictetus",
+        "Marcus Aurelius",
+        "Zeno of Citium",
+        "Seneca"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Socrates was put to death in ancient Greece by which method?",
+      "choices": [
+        "Crucifixion",
+        "Poisoning",
+        "Stoning",
+        "Starvation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British philosopher is famous for the phrase 'life, liberty, and the pursuit of happiness'?",
+      "choices": [
+        "Thomas Hobbes",
+        "John Locke",
+        "David Hume",
+        "Jeremy Bentham"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Aristotle was a student of which famous philosopher?",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Heraclitus",
+        "Thales"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century did Arthur Schopenhauer live?",
+      "choices": [
+        "17th",
+        "18th",
+        "19th",
+        "20th"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which French philosopher wrote 'Critique of Pure Reason'?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Immanuel Kant",
+        "Henri Bergson",
+        "Voltaire"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary philosophical school founded by the Chinese thinker Confucius?",
+      "choices": [
+        "Legalism",
+        "Confucianism",
+        "Taoism",
+        "Buddhism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Bertrand Russell was born in which country?",
+      "choices": [
+        "Ireland",
+        "Scotland",
+        "England",
+        "Wales"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Roman philosopher is known for founding Stoicism?",
+      "choices": [
+        "Marcus Aurelius",
+        "Seneca",
+        "Zeno of Citium",
+        "Epictetus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Michel Foucault was a philosopher from which country?",
+      "choices": [
+        "Germany",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality was the existentialist philosopher Søren Kierkegaard?",
+      "choices": [
+        "Swedish",
+        "Danish",
+        "Norwegian",
+        "Finnish"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher wrote the work 'An Enquiry Concerning Human Understanding'?",
+      "choices": [
+        "John Locke",
+        "David Hume",
+        "George Berkeley",
+        "Thomas Hobbes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Karl Marx born?",
+      "choices": [
+        "1818",
+        "1828",
+        "1838",
+        "1848"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Greek philosopher is most famous for his work on logic?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Heraclitus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary focus of philosophy that concerns questions about right and wrong?",
+      "choices": [
+        "Epistemology",
+        "Metaphysics",
+        "Ethics",
+        "Logic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher famously lived in a barrel to demonstrate his ascetic beliefs?",
+      "choices": [
+        "Socrates",
+        "Diogenes",
+        "Epicurus",
+        "Heraclitus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Thomas Hobbes wrote a famous political philosophy work titled what?",
+      "choices": [
+        "The Prince",
+        "Leviathan",
+        "Two Treatises of Government",
+        "The Social Contract"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek philosopher founded a school called the Lyceum?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Pythagoras"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Immanuel Kant spent his entire life in which European city?",
+      "choices": [
+        "Berlin",
+        "Vienna",
+        "Königsberg",
+        "Frankfurt"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British philosopher is famous for the phrase 'the greatest happiness for the greatest number'?",
+      "choices": [
+        "Jeremy Bentham",
+        "John Locke",
+        "David Hume",
+        "Thomas Hobbes"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Arthur Schopenhauer was born in which country?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Prussia",
+        "Switzerland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher wrote 'Critique of Pure Reason'?",
+      "choices": [
+        "Georg Hegel",
+        "Immanuel Kant",
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Socrates left behind written works during his lifetime, true or false?",
+      "choices": [
+        "True, he wrote many books",
+        "False, he wrote nothing and relied on spoken dialogue",
+        "True, he wrote philosophical treatises",
+        "False, but his students wrote for him"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which German philosopher wrote 'The Phenomenology of Spirit'?",
+      "choices": [
+        "Friedrich Nietzsche",
+        "Georg Wilhelm Friedrich Hegel",
+        "Edmund Husserl",
+        "Martin Heidegger"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher proposed the concept of 'the categorical imperative'?",
+      "choices": [
+        "Immanuel Kant",
+        "Jean-Paul Sartre",
+        "Friedrich Nietzsche",
+        "Ludwig Wittgenstein"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Plato founded his Academy in which ancient city?",
+      "choices": [
+        "Sparta",
+        "Corinth",
+        "Athens",
+        "Thebes"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher wrote 'Thus Spoke Zarathustra'?",
+      "choices": [
+        "Arthur Schopenhauer",
+        "Friedrich Nietzsche",
+        "Georg Hegel",
+        "Søren Kierkegaard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Thomas Hobbes famously described life in nature as 'solitary, poor, nasty, brutish, and' what?",
+      "choices": [
+        "Meaningless",
+        "Short",
+        "Unjust",
+        "Dangerous"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian Renaissance philosopher wrote about political power in 'The Prince'?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Niccolò Machiavelli",
+        "Dante Alighieri",
+        "Petrarch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "René Descartes was born in which country?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosophy emphasizes the importance of sensory experience and observation?",
+      "choices": [
+        "Rationalism",
+        "Empiricism",
+        "Idealism",
+        "Stoicism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Jean-Jacques Rousseau's major work is called 'The Social' what?",
+      "choices": [
+        "Order",
+        "Contract",
+        "Being",
+        "Good"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek philosopher is associated with a school called Stoicism?",
+      "choices": [
+        "Epicurus",
+        "Zeno of Citium",
+        "Diogenes",
+        "Anaximander"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ludwig Wittgenstein made major contributions to the philosophy of what subject?",
+      "choices": [
+        "Aesthetics",
+        "Ethics",
+        "Language",
+        "Metaphysics"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher is known for developing utilitarianism alongside Jeremy Bentham?",
+      "choices": [
+        "James Mill",
+        "John Stuart Mill",
+        "Edmund Burke",
+        "William Godwin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Søren Kierkegaard was born in which Scandinavian country?",
+      "choices": [
+        "Norway",
+        "Sweden",
+        "Denmark",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which ancient Greek city was Socrates born and spent most of his life?",
+      "choices": [
+        "Sparta",
+        "Athens",
+        "Corinth",
+        "Thebes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the first name of the French philosopher Descartes, famous for 'I think, therefore I am'?",
+      "choices": [
+        "Pierre",
+        "René",
+        "Jean",
+        "Louis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek mathematician and philosopher has a famous theorem about right triangles named after him?",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Pythagoras",
+        "Aristotle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality was the philosopher Edmund Burke?",
+      "choices": [
+        "English",
+        "Scottish",
+        "Irish",
+        "Welsh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian Renaissance political philosopher spent most of his life in Florence?",
+      "choices": [
+        "Dante Alighieri",
+        "Niccolò Machiavelli",
+        "Giordano Bruno",
+        "Marsilio Ficino"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary occupation of philosopher Gilbert Ryle before becoming an academic?",
+      "choices": [
+        "Soldier",
+        "Priest",
+        "Physician",
+        "Merchant"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher tutored the young Prince Dionysius of Syracuse?",
+      "choices": [
+        "Socrates",
+        "Aristotle",
+        "Plato",
+        "Xenophon"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the title of Benedictus Spinoza's most renowned philosophical work?",
+      "choices": [
+        "Discourse on Method",
+        "Ethics",
+        "Meditations",
+        "Critique of Pure Reason"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century did the stoic philosopher Plotinus live?",
+      "choices": [
+        "2nd century",
+        "3rd century",
+        "4th century",
+        "5th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the English translation of the Chinese philosophical name 'Lao Tzu'?",
+      "choices": [
+        "The Young Master",
+        "The Old Master",
+        "The Great Sage",
+        "The Wise One"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the middle name of American philosopher Charles Sanders Peirce?",
+      "choices": [
+        "Sanders",
+        "Samuel",
+        "Stephen",
+        "Solomon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did Karl Popper conduct most of his philosophical work?",
+      "choices": [
+        "19th century",
+        "20th century",
+        "18th century",
+        "21st century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish-born philosopher is known for the phrase 'Those who cannot remember the past are condemned to repeat it'?",
+      "choices": [
+        "Juan Luis Vives",
+        "George Santayana",
+        "Miguel de Unamuno",
+        "José Ortega y Gasset"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the medieval philosopher Pierre Abelard die?",
+      "choices": [
+        "1079",
+        "1142",
+        "1121",
+        "1098"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher wrote 'The History of Western Philosophy', one of the most famous surveys of philosophical thought?",
+      "choices": [
+        "Ludwig Wittgenstein",
+        "Bertrand Russell",
+        "Alfred Whitehead",
+        "G.E. Moore"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nationality of philosopher Jacques Derrida, founder of deconstruction?",
+      "choices": [
+        "German",
+        "French",
+        "Belgian",
+        "Swiss"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did French philosopher Michel Foucault die?",
+      "choices": [
+        "1978",
+        "1982",
+        "1984",
+        "1986"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Persian philosopher and physician wrote influential works titled 'The Book of Healing' and 'Canon of Medicine'?",
+      "choices": [
+        "Al-Farabi",
+        "Avicenna",
+        "Al-Ghazali",
+        "Ibn Rushd"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Bertrand Russell receive the Nobel Prize in Literature?",
+      "choices": [
+        "1948",
+        "1950",
+        "1952",
+        "1955"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek philosopher founded the Lyceum school in Athens?",
+      "choices": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Heraclitus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the title of Jean-Paul Sartre's major existentialist work published in 1943?",
+      "choices": [
+        "Being and Nothingness",
+        "The Critique of Pure Reason",
+        "Being and Time",
+        "The Phenomenology of Spirit"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which philosopher's ethical system is built upon the concept of 'the categorical imperative'?",
+      "choices": [
+        "David Hume",
+        "Immanuel Kant",
+        "Arthur Schopenhauer",
+        "G.W.F. Hegel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his 'Critique of Pure Reason', Immanuel Kant introduces the distinction between analytic and which other type of judgment?",
+      "choices": [
+        "Empirical",
+        "Synthetic",
+        "Phenomenological",
+        "Transcendental"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Aquinas synthesized Aristotelian philosophy with Christian theology during which century?",
+      "choices": [
+        "11th",
+        "12th",
+        "13th",
+        "14th"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his work 'Being and Nothingness', Jean-Paul Sartre develops his philosophy of what?",
+      "choices": [
+        "Phenomenology",
+        "Existentialism",
+        "Absurdism",
+        "Phenomenalism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher developed the logical positivist movement and co-founded the Vienna Circle?",
+      "choices": [
+        "Ludwig Wittgenstein",
+        "Karl Popper",
+        "Moritz Schlick",
+        "Willard Van Orman Quine"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bertrand Russell's 'theory of descriptions' was formulated to address problems in which area of philosophy?",
+      "choices": [
+        "Metaphysics",
+        "Philosophy of Language",
+        "Aesthetics",
+        "Political Philosophy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Søren Kierkegaard is credited with establishing which philosophical movement in the 19th century?",
+      "choices": [
+        "Pragmatism",
+        "Existentialism",
+        "Phenomenology",
+        "Logical Positivism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Michel Foucault's concept of 'biopower' refers to power exercised over which domain?",
+      "choices": [
+        "Economic systems",
+        "Military operations",
+        "Life and biological processes",
+        "Linguistic structures"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Philippa Foot's famous 'trolley problem' thought experiment was developed to investigate questions in which philosophical field?",
+      "choices": [
+        "Philosophy of Mind",
+        "Aesthetics",
+        "Moral Philosophy",
+        "Metaphysics"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Plato's 'Allegory of the Cave', what do the shadows on the wall represent?",
+      "choices": [
+        "Divine truth",
+        "Illusions of the sensory world",
+        "Mathematical forms",
+        "The human soul"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 17th-century rationalist philosopher proposed the concept of 'innate ideas'?",
+      "choices": [
+        "Thomas Hobbes",
+        "René Descartes",
+        "Baruch Spinoza",
+        "Gottfried Wilhelm Leibniz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "David Hume's 'bundle theory' of personal identity argues that the self is a collection of what?",
+      "choices": [
+        "Memories",
+        "Perceptions",
+        "Essences",
+        "Substances"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "G.W.F. Hegel's concept of 'Aufhebung' describes a process of transcendence that involves which three stages?",
+      "choices": [
+        "Thesis, antithesis, synthesis",
+        "Being, nothingness, becoming",
+        "Appearance, essence, reality",
+        "Phenomenon, noumenon, thing-in-itself"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Karl Popper introduced the criterion of 'falsifiability' to distinguish science from which category?",
+      "choices": [
+        "Mathematics",
+        "Pseudoscience",
+        "Empiricism",
+        "Theology"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hannah Arendt's concept of 'the banality of evil' was developed in response to the trial of which Nazi official?",
+      "choices": [
+        "Hermann Göring",
+        "Adolf Eichmann",
+        "Joseph Goebbels",
+        "Heinrich Himmler"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Aristotle's virtue ethics, 'phronesis' refers to which intellectual virtue?",
+      "choices": [
+        "Scientific knowledge",
+        "Practical wisdom",
+        "Philosophical contemplation",
+        "Technical skill"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gilles Deleuze's concept of 'rhizomes' was developed in collaboration with which other philosopher?",
+      "choices": [
+        "Michel Foucault",
+        "Félix Guattari",
+        "Jean Baudrillard",
+        "Paul Virilio"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "John Rawls' 'veil of ignorance' is a thought experiment designed to determine principles of what?",
+      "choices": [
+        "Epistemology",
+        "Justice",
+        "Aesthetics",
+        "Metaphysics"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his phenomenology, Edmund Husserl introduced the method of 'epoché' to achieve which philosophical state?",
+      "choices": [
+        "Rational skepticism",
+        "Transcendental consciousness",
+        "Phenomenological reduction",
+        "Absolute being"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher's concept of 'the absurd' directly influenced existentialist thought in 20th-century France?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Maurice Merleau-Ponty",
+        "Simone de Beauvoir"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arthur Schopenhauer's pessimistic philosophy was significantly influenced by his study of which non-Western philosophical tradition?",
+      "choices": [
+        "Confucianism",
+        "Buddhism",
+        "Taoism",
+        "Shinto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ludwig Wittgenstein publish the 'Philosophical Investigations,' his final major work?",
+      "choices": [
+        "1945",
+        "1951",
+        "1953",
+        "1958"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Avicenna, the medieval Persian philosopher, reconciled Aristotelian logic with which major religious tradition?",
+      "choices": [
+        "Zoroastrianism",
+        "Islamic theology",
+        "Christianity",
+        "Judaism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher developed the concept of 'möbius-strip' reasoning in his critique of Western dialectical thought?",
+      "choices": [
+        "Gilles Deleuze",
+        "Jacques Derrida",
+        "Michel Serres",
+        "Bruno Latour"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Peter Singer's utilitarian arguments on animal ethics were first systematized in which of his works?",
+      "choices": [
+        "Practical Ethics",
+        "Animal Liberation",
+        "The Expanding Circle",
+        "How Are We to Live?"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gilbert Ryle's 'category mistake' concept was developed primarily to critique which philosophical position?",
+      "choices": [
+        "Logical positivism",
+        "Cartesian dualism",
+        "Empiricism",
+        "Pragmatism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city was Ibn Sina (Avicenna) born during the 10th century?",
+      "choices": [
+        "Baghdad",
+        "Bukhara",
+        "Isfahan",
+        "Cordoba"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Philippa Foot's concept of 'virtue ethics' was developed partly as a response to which dominant ethical framework?",
+      "choices": [
+        "Kantian deontology",
+        "Utilitarianism",
+        "Emotivism",
+        "Contractarianism"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher's work 'Being and Nothingness' explicitly built upon Husserl's phenomenological method?",
+      "choices": [
+        "Maurice Merleau-Ponty",
+        "Jean-Paul Sartre",
+        "Simone Weil",
+        "Gabriel Marcel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Kuhn's paradigm shifts were originally conceived in response to which positivist account of scientific progress?",
+      "choices": [
+        "Popperian falsificationism",
+        "Logical positivism",
+        "Carnap's unified science",
+        "Vienna Circle empiricism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hilarion Pendleton Smarty proposed the 'identity theory' to solve which enduring philosophical problem?",
+      "choices": [
+        "The problem of other minds",
+        "The mind-body problem",
+        "The hard problem of consciousness",
+        "Qualia and subjective experience"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which medieval Islamic philosopher synthesized Neoplatonic thought with Quranic doctrine in his masterwork 'The Metaphysics'?",
+      "choices": [
+        "Al-Ghazali",
+        "Al-Kindi",
+        "Averroes",
+        "Maimonides"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hannah Arendt's concept of 'natality' was developed to counter which philosophical tradition's emphasis on mortality?",
+      "choices": [
+        "Stoicism",
+        "Heideggerian existentialism",
+        "Schopenhauerian pessimism",
+        "Buddhist philosophy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher's 'principle of charity' requires interpreters to attribute the most reasonable beliefs to their subjects?",
+      "choices": [
+        "W.V.O. Quine",
+        "Donald Davidson",
+        "Saul Kripke",
+        "Michael Dummett"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Zhuangzi's butterfly parable, the philosopher questions the nature of which fundamental philosophical concept?",
+      "choices": [
+        "Causation",
+        "Identity and reality",
+        "Consciousness",
+        "Moral duty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher's work on 'genealogy' directly challenged the assumption of historical progress underlying 19th-century thought?",
+      "choices": [
+        "Michel Foucault",
+        "Friedrich Nietzsche",
+        "Arthur Danto",
+        "Reinhart Koselleck"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bertrand Russell's 'theory of descriptions' was formulated to resolve paradoxes arising from which semantic phenomenon?",
+      "choices": [
+        "Reference failure",
+        "Ambiguity",
+        "Vagueness",
+        "Metaphor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher's critique of instrumental reason in 'Dialectic of Enlightenment' influenced Frankfurt School critical theory?",
+      "choices": [
+        "Jürgen Habermas",
+        "Theodor Adorno and Max Horkheimer",
+        "Herbert Marcuse",
+        "Walter Benjamin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Raimond Gaita's philosophical work on human dignity emerged from his experience with which historical tragedy?",
+      "choices": [
+        "The Holocaust",
+        "The Cambodian genocide",
+        "The Rwandan genocide",
+        "Care for his dying father and asylum seekers"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Arthur Schopenhauer publish his major work 'The World as Will and Representation'?",
+      "choices": [
+        "1818",
+        "1824",
+        "1812",
+        "1830"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pre-Socratic philosopher is famous for proposing that water is the fundamental substance of all reality?",
+      "choices": [
+        "Heraclitus",
+        "Thales",
+        "Anaximander",
+        "Pythagoras"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "David Hume was born in which Scottish city in 1711?",
+      "choices": [
+        "Edinburgh",
+        "Glasgow",
+        "Aberdeen",
+        "Dundee"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the central concept in Georg Wilhelm Friedrich Hegel's dialectical method?",
+      "choices": [
+        "Thesis, Antithesis, Synthesis",
+        "Being and Nothingness",
+        "Will to Power",
+        "Categorical Imperative"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was Ludwig Wittgenstein's 'Tractatus Logico-Philosophicus' first published?",
+      "choices": [
+        "1921",
+        "1918",
+        "1925",
+        "1932"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher coined the term 'noosphere' to describe the sphere of human consciousness?",
+      "choices": [
+        "Pierre Teilhard de Chardin",
+        "Vladimir Vernadsky",
+        "Henri Bergson",
+        "Jean-Paul Sartre"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Søren Kierkegaard's concept of 'fear and trembling' references which biblical narrative?",
+      "choices": [
+        "The Fall of Adam and Eve",
+        "Abraham's Sacrifice of Isaac",
+        "Job's Trials",
+        "Noah's Flood"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Michel Foucault publish 'Discipline and Punish: The Birth of the Prison'?",
+      "choices": [
+        "1975",
+        "1972",
+        "1978",
+        "1980"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher developed the concept of 'the categorical imperative' as a test for moral maxims?",
+      "choices": [
+        "Georg Hegel",
+        "Immanuel Kant",
+        "Arthur Schopenhauer",
+        "Johann Fichte"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Thomas Aquinas's synthesis of Aristotelian philosophy with Christian theology?",
+      "choices": [
+        "Thomism",
+        "Scholasticism",
+        "Aristotelianism",
+        "Augustinianism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Friedrich Nietzsche proposed the concept of 'eternal recurrence' in which major work?",
+      "choices": [
+        "Beyond Good and Evil",
+        "The Gay Science",
+        "Thus Spoke Zarathustra",
+        "On the Genealogy of Morals"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British empiricist philosopher argued that all knowledge derives from sense experience and denied the existence of innate ideas?",
+      "choices": [
+        "John Locke",
+        "Thomas Hobbes",
+        "David Hume",
+        "George Berkeley"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city did the Stoic philosopher Zeno of Citium originally teach his philosophy?",
+      "choices": [
+        "Athens",
+        "Alexandria",
+        "Rhodes",
+        "Corinth"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year marks the publication of Jean-Jacques Rousseau's 'Social Contract'?",
+      "choices": [
+        "1762",
+        "1758",
+        "1769",
+        "1755"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher is primarily responsible for developing phenomenology as a philosophical method?",
+      "choices": [
+        "Martin Heidegger",
+        "Edmund Husserl",
+        "Jean-Paul Sartre",
+        "Maurice Merleau-Ponty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Aristotle's virtue ethics, what term describes the mean between two extremes of behavior?",
+      "choices": [
+        "Arete",
+        "Mesotes",
+        "Eudaimonia",
+        "Phronesis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher's 'bundle theory' argues that objects are merely collections of sensible properties rather than underlying substances?",
+      "choices": [
+        "George Berkeley",
+        "David Hume",
+        "Bertrand Russell",
+        "A.J. Ayer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Karl Popper publish 'The Logic of Scientific Discovery' ('Logik der Forschung' in German)?",
+      "choices": [
+        "1934",
+        "1937",
+        "1940",
+        "1945"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Buddhist philosopher developed the Yogacara school of idealistic philosophy?",
+      "choices": [
+        "Vasubandhu",
+        "Nagarjuna",
+        "Asanga",
+        "Dignaga"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'veil of ignorance' is a thought experiment proposed by which contemporary political philosopher?",
+      "choices": [
+        "Robert Nozick",
+        "John Rawls",
+        "Martha Nussbaum",
+        "Ronald Dworkin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Italian city was Ludwig Wittgenstein imprisoned as a prisoner of war during World War I?",
+      "choices": [
+        "Venice",
+        "Monte Cassino",
+        "Cassino",
+        "Florence"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 20th-century philosopher's major work 'Being and Nothingness' introduced the concept of 'bad faith'?",
+      "choices": [
+        "Simone de Beauvoir",
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Maurice Merleau-Ponty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arthur Schopenhauer identified which concept as the underlying reality of all existence and striving?",
+      "choices": [
+        "The Categorical Imperative",
+        "The Will",
+        "Being-in-itself",
+        "The Monad"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Edmund Husserl founded the philosophical method known as what?",
+      "choices": [
+        "Dialectical Materialism",
+        "Phenomenology",
+        "Logical Positivism",
+        "Pragmatism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Plato's 'Theory of Forms,' what term did he use to describe the non-physical abstract objects that represent the most fundamental reality?",
+      "choices": [
+        "Noumena",
+        "Eidos",
+        "Physis",
+        "Psyche"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Michel Foucault's 'The Order of Things' explores the history of knowledge structures he termed what?",
+      "choices": [
+        "Epistemes",
+        "Paradigms",
+        "Structures",
+        "Frameworks"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Stoic philosopher was notably born enslaved and developed his philosophy while in servitude?",
+      "choices": [
+        "Zeno of Citium",
+        "Epictetus",
+        "Marcus Aurelius",
+        "Cleanthes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "David Hume's 'Enquiry Concerning Human Understanding' challenges the concept of causality by arguing that we perceive only what?",
+      "choices": [
+        "Necessary connections",
+        "Constant conjunction",
+        "Logical relationships",
+        "Temporal sequences"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Georg Wilhelm Friedrich Hegel developed a dialectical method often summarized by which three-term progression?",
+      "choices": [
+        "Problem, Solution, Resolution",
+        "Thesis, Antithesis, Synthesis",
+        "Being, Becoming, Being-itself",
+        "Action, Reaction, Interaction"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Søren Kierkegaard introduced the concept of 'the leap of faith' to describe the transition into which existential sphere?",
+      "choices": [
+        "The Aesthetic",
+        "The Ethical",
+        "The Religious",
+        "The Rational"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Immanuel Kant's critical philosophy method that examines the conditions of knowledge itself?",
+      "choices": [
+        "Transcendental Idealism",
+        "Critical Rationalism",
+        "Synthetic Analysis",
+        "A Priori Critique"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval Islamic philosophy, Averroes (Ibn Rushd) became famous for his extensive commentaries on which Greek philosopher?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Pythagoras",
+        "Heraclitus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Giordano Bruno was executed in Rome in 1600 primarily for holding which astronomical and metaphysical belief?",
+      "choices": [
+        "Heliocentrism alone",
+        "The infinity of the universe and plurality of worlds",
+        "The non-existence of God",
+        "Atomic theory"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Aristotle's system of virtue ethics, what is the mean between excess and deficiency called?",
+      "choices": [
+        "The Golden Rule",
+        "The Doctrine of the Mean",
+        "Eudaimonia",
+        "Arete"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Kuhn's 'The Structure of Scientific Revolutions' introduced which concept to describe periods of normal scientific work?",
+      "choices": [
+        "Scientific Method",
+        "Normal Science",
+        "Paradigm Shift",
+        "Revolutionary Science"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher is best known for developing a comprehensive system based on logical atomism and logical positivism?",
+      "choices": [
+        "A.J. Ayer",
+        "Ludwig Wittgenstein",
+        "Bertrand Russell",
+        "Willard Van Orman Quine"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Daoism, the concept of 'Wu Wei' refers to which philosophical principle?",
+      "choices": [
+        "Inner contradiction",
+        "Non-action or effortless action",
+        "Harmonious chaos",
+        "Cyclical return"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Friedrich Nietzsche's concept of the 'Übermensch' was later appropriated by which 20th-century political ideology?",
+      "choices": [
+        "Soviet Communism",
+        "Fascism",
+        "Democratic Socialism",
+        "Anarchism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bertrand Russell's paradox in set theory emerged from questioning which principle of naive set theory?",
+      "choices": [
+        "The axiom of choice",
+        "Unlimited set comprehension",
+        "The law of excluded middle",
+        "Transfinite numbers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher developed the theory of radical empiricism and argued that relations are as real as the relata themselves?",
+      "choices": [
+        "William James",
+        "John Dewey",
+        "Charles Sanders Peirce",
+        "Clarence Irving Lewis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek philosopher was known to have walked while teaching, giving rise to the name of his school of thought?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Zeno",
+        "Epicurus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Baruch Spinoza's magnum opus 'Ethics' employs what geometric method in its presentation?",
+      "choices": [
+        "Euclidean axiomatic proof",
+        "Dialectical synthesis",
+        "Phenomenological reduction",
+        "Empirical induction"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his 'Critique of Pure Reason,' Immanuel Kant introduced the concept of things-in-themselves, known by what German term?",
+      "choices": [
+        "Noumena",
+        "Phenomena",
+        "Ding an sich",
+        "Transcendentale"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ludwig Wittgenstein's 'Tractatus Logico-Philosophicus' proposes that the world consists of what fundamental units?",
+      "choices": [
+        "Atomic propositions",
+        "Elementary facts",
+        "Logical atoms",
+        "Sense-data"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arthur Schopenhauer's philosophy is fundamentally rooted in the concept of the 'Will' as what?",
+      "choices": [
+        "A conscious moral force",
+        "A blind, irrational striving",
+        "The sum of human desires",
+        "A product of reason"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Martin Heidegger's concept of 'Dasein' refers to what in human existence?",
+      "choices": [
+        "The essence of being itself",
+        "Being-in-the-world as a fundamental mode of existence",
+        "The rational mind",
+        "Social consciousness"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his 'Phenomenology of Spirit,' Georg Wilhelm Friedrich Hegel describes the master-slave dialectic as illustrating what philosophical concept?",
+      "choices": [
+        "The nature of consciousness and recognition",
+        "Economic inequality",
+        "Political power structures",
+        "Moral relativism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Nagel's 1974 essay 'What Is It Like to Be a Bat?' addresses what fundamental problem in philosophy of mind?",
+      "choices": [
+        "Animal consciousness and subjective experience",
+        "The problem of induction",
+        "Semantic reference",
+        "Free will and determinism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Saul Kripke's work on reference and necessity challenged which traditional philosophical doctrine?",
+      "choices": [
+        "The analytic-synthetic distinction",
+        "Empiricism",
+        "Descriptivism in theories of reference",
+        "Kant's synthetic a priori"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Being and Nothingness,' Jean-Paul Sartre argues that existence precedes essence in what philosophical movement?",
+      "choices": [
+        "Phenomenology",
+        "Existentialism",
+        "Structuralism",
+        "Pragmatism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Michel Foucault's concept of 'episteme' refers to what aspect of knowledge and discourse?",
+      "choices": [
+        "An individual's personal beliefs",
+        "The underlying framework of knowledge in a particular historical period",
+        "A scientific theory",
+        "Linguistic grammar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bertrand Russell's theory of descriptions was developed to solve philosophical problems arising from what?",
+      "choices": [
+        "Empty names and singular reference",
+        "The nature of universals",
+        "Inductive reasoning",
+        "Moral epistemology"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Edmund Husserl publish his 'Logical Investigations,' foundational to phenomenology?",
+      "choices": [
+        "1891",
+        "1900",
+        "1913",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "David Hume's 'bundle theory' of the self proposes that the self is composed of what?",
+      "choices": [
+        "Rational thoughts",
+        "A continuous substance",
+        "A collection of perceptions",
+        "Innate ideas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chinese philosopher's concept of 'li' (principle/pattern) became central to Neo-Confucian metaphysics?",
+      "choices": [
+        "Laozi",
+        "Zhu Xi",
+        "Wang Yangming",
+        "Mencius"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Karl Popper's falsificationism proposes that scientific theories should be evaluated by what criterion?",
+      "choices": [
+        "Whether they can be verified by observation",
+        "Their mathematical elegance",
+        "Their capacity to be proven false",
+        "Their intuitive plausibility"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his 'Second Treatise of Government,' John Locke argued for the separation of powers based on what natural rights principle?",
+      "choices": [
+        "Divine right of kings",
+        "Life, liberty, and property",
+        "Universal suffrage",
+        "Collective ownership"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gottlob Frege's distinction between 'Sinn' and 'Bedeutung' corresponds to which English philosophical terms?",
+      "choices": [
+        "Truth and falsehood",
+        "Sense and reference",
+        "Meaning and existence",
+        "Sign and symbol"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'A Theory of Justice,' John Rawls proposes the 'veil of ignorance' as a mechanism for determining what?",
+      "choices": [
+        "Epistemic justification",
+        "Principles of justice in a fair society",
+        "The nature of consciousness",
+        "Logical validity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gilles Deleuze's concept of 'rhizome' was developed as a counter-model to what traditional philosophical structure?",
+      "choices": [
+        "Dialectical synthesis",
+        "The tree-like hierarchy of knowledge",
+        "Kantian categories",
+        "Phenomenological essence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek philosopher founded the Stoic school of philosophy in Athens?",
+      "choices": [
+        "Zeno of Citium",
+        "Epicurus",
+        "Pyrrho",
+        "Diogenes"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Immanuel Kant publish his influential work 'Critique of Pure Reason'?",
+      "choices": [
+        "1781",
+        "1768",
+        "1795",
+        "1804"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed the concept of 'the social contract' as a basis for legitimate government?",
+      "choices": [
+        "Jean-Jacques Rousseau",
+        "Thomas Hobbes",
+        "John Locke",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary focus of Arthur Schopenhauer's philosophical system?",
+      "choices": [
+        "The will as the fundamental reality of existence",
+        "Rational self-interest",
+        "Divine providence",
+        "Empirical observation"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 20th-century philosopher wrote 'Being and Nothingness,' a foundational text in existentialism?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "Maurice Merleau-Ponty",
+        "Simone de Beauvoir"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ancient Chinese philosophy, which thinker emphasized the importance of ritual propriety and social hierarchy?",
+      "choices": [
+        "Confucius",
+        "Laozi",
+        "Zhuangzi",
+        "Mencius"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British empiricist philosopher argued that all knowledge derives from sensory experience?",
+      "choices": [
+        "David Hume",
+        "John Stuart Mill",
+        "Bertrand Russell",
+        "A.J. Ayer"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What philosophical movement did Ludwig Wittgenstein help establish through his work on language and logic?",
+      "choices": [
+        "Logical Positivism",
+        "Phenomenology",
+        "Pragmatism",
+        "Idealism"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher is known for developing the theory of forms or ideas to explain abstract concepts?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Heraclitus"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did the Islamic philosopher Al-Ghazali produce his major works synthesizing philosophy and theology?",
+      "choices": [
+        "11th century",
+        "10th century",
+        "12th century",
+        "9th century"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed utilitarianism as an ethical theory based on maximizing overall happiness?",
+      "choices": [
+        "Jeremy Bentham",
+        "John Stuart Mill",
+        "Both equally",
+        "Neither"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Georg Wilhelm Friedrich Hegel's major contribution to metaphysics?",
+      "choices": [
+        "The dialectical method and concept of historical progress",
+        "The categorical imperative",
+        "The will to power",
+        "The social contract"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which medieval philosopher is famous for the ontological argument for God's existence?",
+      "choices": [
+        "Anselm of Canterbury",
+        "Thomas Aquinas",
+        "Duns Scotus",
+        "William of Ockham"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In phenomenology, what term did Edmund Husserl use to describe the method of suspending judgment about reality?",
+      "choices": [
+        "Epoché",
+        "Noesis",
+        "Intentionality",
+        "Transcendence"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher argued that language games determine the meaning of words within specific contexts?",
+      "choices": [
+        "Ludwig Wittgenstein",
+        "Frege",
+        "Russell",
+        "Carnap"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the central concern of Michel Foucault's archaeological method in philosophy?",
+      "choices": [
+        "Examining how knowledge and power are constructed within historical periods",
+        "Dating ancient artifacts",
+        "Studying psychological development",
+        "Analyzing religious texts"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American pragmatist philosopher emphasized the concept of radical empiricism?",
+      "choices": [
+        "William James",
+        "Charles Sanders Peirce",
+        "John Dewey",
+        "Josiah Royce"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher's work 'A Theory of Justice' became the most influential political philosophy text of the late 20th century?",
+      "choices": [
+        "John Rawls",
+        "Robert Nozick",
+        "Isaiah Berlin",
+        "Michael Walzer"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary philosophical concern of the Vienna Circle logical positivists?",
+      "choices": [
+        "Distinguishing meaningful statements from meaningless ones through verification",
+        "Defending traditional metaphysics",
+        "Exploring consciousness and subjectivity",
+        "Developing theories of beauty"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient Greek philosopher is famous for his paradoxes involving motion, such as Achilles and the tortoise?",
+      "choices": [
+        "Heraclitus",
+        "Zeno of Elea",
+        "Pythagoras",
+        "Thales"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Thomas Aquinas synthesized Aristotelian philosophy with Christian theology during which medieval period?",
+      "choices": [
+        "9th century",
+        "11th century",
+        "13th century",
+        "15th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed the concept of the 'categorical imperative' as a basis for morality?",
+      "choices": [
+        "David Hume",
+        "Immanuel Kant",
+        "Arthur Schopenhauer",
+        "Georg Hegel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "René Descartes' famous statement 'Cogito, ergo sum' appears in which of his major works?",
+      "choices": [
+        "Meditations on First Philosophy",
+        "Discourse on Method",
+        "Principles of Philosophy",
+        "The Passions of the Soul"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "John Locke argued that the human mind at birth is like a blank slate, which he termed:",
+      "choices": [
+        "Tabula rasa",
+        "Prima materia",
+        "Nous",
+        "Logos"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chinese philosopher emphasized the concept of 'wu wei' or non-action as the path to harmony?",
+      "choices": [
+        "Confucius",
+        "Mencius",
+        "Laozi",
+        "Zhuangzi"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Arthur Schopenhauer's philosophy centers on the idea that reality is fundamentally driven by:",
+      "choices": [
+        "Reason",
+        "The Will",
+        "Divine Providence",
+        "Matter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Søren Kierkegaard is often regarded as a precursor to which modern philosophical movement?",
+      "choices": [
+        "Logical Positivism",
+        "Existentialism",
+        "Utilitarianism",
+        "Pragmatism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Edmund Husserl founded the philosophical method known as:",
+      "choices": [
+        "Phenomenology",
+        "Hermeneutics",
+        "Structuralism",
+        "Dialectics"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ludwig Wittgenstein's 'Tractatus Logico-Philosophicus' was primarily concerned with which philosophical problem?",
+      "choices": [
+        "The nature of consciousness",
+        "The relationship between language and reality",
+        "Ethical relativism",
+        "Political justice"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jean-Paul Sartre's concept of 'bad faith' refers to a form of:",
+      "choices": [
+        "Religious hypocrisy",
+        "Self-deception or denial of freedom",
+        "Political corruption",
+        "Logical contradiction"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Michel Foucault's major work 'The Order of Things' examines how knowledge and power structures develop across which dimension?",
+      "choices": [
+        "Social classes",
+        "Geographic regions",
+        "Historical periods",
+        "Individual psychology"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bertrand Russell and Ludwig Wittgenstein collaborated most closely during the early development of which philosophical approach?",
+      "choices": [
+        "Phenomenology",
+        "Logical Positivism",
+        "Hermeneutics",
+        "Pragmatism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Simone de Beauvoir's 'The Second Sex' is foundational to which area of philosophical inquiry?",
+      "choices": [
+        "Aesthetics",
+        "Feminist philosophy",
+        "Epistemology",
+        "Metaphysics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "John Stuart Mill distinguished between higher and lower pleasures in his version of which ethical theory?",
+      "choices": [
+        "Deontology",
+        "Virtue Ethics",
+        "Utilitarianism",
+        "Contractarianism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Peter Singer's utilitarian philosophy has made him particularly influential in debates about:",
+      "choices": [
+        "Metaphysics and ontology",
+        "Animal ethics and bioethics",
+        "Aesthetics and art criticism",
+        "Logic and language"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Islamic philosopher served as a Qadi (judge) and wrote extensively on law, theology, and philosophy during the 12th century?",
+      "choices": [
+        "Al-Ghazali",
+        "Averroes",
+        "Ibn Sina",
+        "Al-Kindi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Friedrich Nietzsche's concept of the 'Übermensch' appears most prominently in which of his works?",
+      "choices": [
+        "Beyond Good and Evil",
+        "Thus Spoke Zarathustra",
+        "The Gay Science",
+        "On the Genealogy of Morality"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Willard Van Orman Quine challenged the traditional distinction between which two types of statements?",
+      "choices": [
+        "Subjective and objective",
+        "Synthetic and analytic",
+        "Universal and particular",
+        "A priori and empirical"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Hannah Arendt's analysis of totalitarianism emphasizes the role of which mechanism in controlling populations?",
+      "choices": [
+        "Economic inequality",
+        "Religious dogma",
+        "Propaganda and terror",
+        "Military force alone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 20th-century philosopher wrote 'Being and Nothingness', a foundational text of existentialism?",
+      "choices": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Maurice Merleau-Ponty",
+        "Simone de Beauvoir"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "René Descartes is credited with formulating which famous methodological principle based on systematic doubt?",
+      "choices": [
+        "The categorical imperative",
+        "The cogito ergo sum",
+        "The will to power",
+        "The social contract"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did Immanuel Kant develop his critical philosophy and categorical imperative?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Arthur Schopenhauer's philosophy was heavily influenced by which Eastern philosophical tradition?",
+      "choices": [
+        "Confucianism",
+        "Shintoism",
+        "Buddhism",
+        "Taoism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bertrand Russell's theory of descriptions was developed to address problems in which philosophical field?",
+      "choices": [
+        "Aesthetics",
+        "Logic and language",
+        "Ethics",
+        "Metaphysics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Critique of Pure Reason', Immanuel Kant distinguishes between phenomena and which other concept?",
+      "choices": [
+        "Noumena",
+        "Categories",
+        "Intuitions",
+        "Syntheses"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Friedrich Nietzsche's concept of the 'Übermensch' appears prominently in which of his major works?",
+      "choices": [
+        "The Birth of Tragedy",
+        "Thus Spoke Zarathustra",
+        "Beyond Good and Evil",
+        "The Gay Science"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Søren Kierkegaard is often considered the founder of which philosophical movement?",
+      "choices": [
+        "Pragmatism",
+        "Phenomenology",
+        "Existentialism",
+        "Positivism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In epistemology, the 'problem of the criterion' was famously articulated by which ancient philosopher?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Sextus Empiricus",
+        "Pyrrhon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ludwig Wittgenstein's 'Philosophical Investigations' challenged which of his own earlier positions from the Tractatus?",
+      "choices": [
+        "His theory of logic",
+        "His picture theory of meaning",
+        "His ethics",
+        "His critique of religion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed the utilitarian ethical framework emphasizing 'the greatest happiness for the greatest number'?",
+      "choices": [
+        "John Stuart Mill",
+        "Jeremy Bentham",
+        "Henry Sidgwick",
+        "Peter Singer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Avicenna (Ibn Sina) was a medieval Persian philosopher who made major contributions to which field?",
+      "choices": [
+        "Logic and metaphysics",
+        "Political philosophy",
+        "Aesthetics",
+        "Philosophy of mind"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Thomas Aquinas attempted to reconcile Aristotelian philosophy with which religious tradition?",
+      "choices": [
+        "Islam",
+        "Judaism",
+        "Christianity",
+        "Platonism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which phenomenologist developed the concept of 'intentionality' as central to consciousness?",
+      "choices": [
+        "Martin Heidegger",
+        "Edmund Husserl",
+        "Maurice Merleau-Ponty",
+        "Jean-Paul Sartre"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Michel Foucault's work on genealogy and power structures critiques which traditional approach to history and knowledge?",
+      "choices": [
+        "Marxist materialism",
+        "Linear, progressive history",
+        "Structural analysis",
+        "Empirical methodology"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In medieval Islamic philosophy, Al-Ghazali's 'Incoherence of the Philosophers' targeted which school of thought?",
+      "choices": [
+        "Sufism",
+        "Neoplatonism",
+        "Aristotelianism",
+        "Stoicism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Hannah Arendt's concept of 'the banality of evil' was developed through her analysis of which historical event?",
+      "choices": [
+        "The French Revolution",
+        "The Napoleonic Wars",
+        "The Holocaust",
+        "The Stalinist purges"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Blaise Pascal's famous wager addresses belief in God through which type of reasoning?",
+      "choices": [
+        "Deductive logic",
+        "Probabilistic decision theory",
+        "Empirical observation",
+        "Scriptural authority"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Søren Kierkegaard, the founder of existentialism, was born in which European country?",
+      "choices": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Germany"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Michel Foucault's seminal work 'The Order of Things' was published in which decade?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ludwig Wittgenstein spent much of his career teaching in which country?",
+      "choices": [
+        "Germany",
+        "Austria",
+        "England",
+        "Switzerland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Arthur Schopenhauer's pessimistic philosophy was heavily influenced by which Eastern philosophical tradition?",
+      "choices": [
+        "Confucianism",
+        "Buddhism",
+        "Daoism",
+        "Shinto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "René Descartes developed his method of radical doubt while living in which country?",
+      "choices": [
+        "France",
+        "Netherlands",
+        "Italy",
+        "England"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Simone de Beauvoir's landmark feminist work 'The Second Sex' was published in which year?",
+      "choices": [
+        "1945",
+        "1949",
+        "1953",
+        "1957"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed the concept of the 'categorical imperative' as a foundation for ethics?",
+      "choices": [
+        "David Hume",
+        "Immanuel Kant",
+        "Jeremy Bentham",
+        "John Locke"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Georg Wilhelm Friedrich Hegel was born in which German city?",
+      "choices": [
+        "Berlin",
+        "Frankfurt",
+        "Stuttgart",
+        "Munich"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bertrand Russell's 'Introduction to Mathematical Philosophy' was co-authored with which philosopher?",
+      "choices": [
+        "Ludwig Wittgenstein",
+        "Alfred North Whitehead",
+        "G.E. Moore",
+        "Willard Van Orman Quine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Maurice Merleau-Ponty's philosophy of perception emphasized the role of which aspect of human existence?",
+      "choices": [
+        "Pure reason",
+        "The body",
+        "Language",
+        "Divine grace"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Friedrich Nietzsche experience the mental breakdown that ended his writing career?",
+      "choices": [
+        "1889",
+        "1895",
+        "1901",
+        "1908"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gilles Deleuze, the French postmodern philosopher, died in which year?",
+      "choices": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Peter Singer is known for developing which ethical framework?",
+      "choices": [
+        "Deontology",
+        "Virtue ethics",
+        "Utilitarianism",
+        "Contractarianism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jürgen Habermas developed the theory of 'communicative action' during which decade of his career?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chinese philosopher's teachings emphasize 'the way' (dao) and living in harmony with nature?",
+      "choices": [
+        "Confucius",
+        "Mencius",
+        "Laozi",
+        "Xunzi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Willard Van Orman Quine challenged the analytic-synthetic distinction in which influential essay?",
+      "choices": [
+        "Two Dogmas of Empiricism",
+        "On Sense and Reference",
+        "The Structure of Scientific Revolutions",
+        "Naming and Necessity"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lao Tzu, traditionally attributed to write the foundational Daoist text, is believed to have lived during which era in Chinese history?",
+      "choices": [
+        "Zhou Dynasty",
+        "Qin Dynasty",
+        "Han Dynasty",
+        "Ming Dynasty"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Martha Nussbaum developed the 'capabilities approach' in collaboration with which economist?",
+      "choices": [
+        "Thomas Piketty",
+        "Amartya Sen",
+        "Joseph Stiglitz",
+        "Paul Krugman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Thomas Kuhn's 'The Structure of Scientific Revolutions' introduced which influential concept to philosophy of science?",
+      "choices": [
+        "Falsifiability",
+        "Paradigm shift",
+        "Verification",
+        "Coherentism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Avicenna, the influential Islamic philosopher and physician, was born in which region?",
+      "choices": [
+        "Al-Andalus",
+        "Persia",
+        "Egypt",
+        "Syria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was Immanuel Kant born?",
+      "choices": [
+        "1704",
+        "1724",
+        "1744",
+        "1764"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed the concept of the 'categorical imperative'?",
+      "choices": [
+        "David Hume",
+        "Immanuel Kant",
+        "Jean-Jacques Rousseau",
+        "G.W.F. Hegel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "René Descartes was born in which European country?",
+      "choices": [
+        "Netherlands",
+        "France",
+        "Germany",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major work did Bertrand Russell co-author with Alfred North Whitehead?",
+      "choices": [
+        "Critique of Pure Reason",
+        "Principia Mathematica",
+        "Being and Nothingness",
+        "The Phenomenology of Spirit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Ludwig Wittgenstein publish the Tractatus Logico-Philosophicus?",
+      "choices": [
+        "1918",
+        "1921",
+        "1925",
+        "1930"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher is most associated with the concept of 'the will to power'?",
+      "choices": [
+        "Arthur Schopenhauer",
+        "Friedrich Nietzsche",
+        "Georg Wilhelm Hegel",
+        "Søren Kierkegaard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Baruch Spinoza lived and worked primarily in which country?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Netherlands",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary focus of Edmund Husserl's philosophical method?",
+      "choices": [
+        "Empiricism",
+        "Phenomenology",
+        "Utilitarianism",
+        "Logical Positivism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did Thomas Aquinas develop his synthesis of Aristotelian philosophy and Christian theology?",
+      "choices": [
+        "11th century",
+        "12th century",
+        "13th century",
+        "14th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher wrote 'The Second Sex', a foundational text in existentialist feminism?",
+      "choices": [
+        "Hannah Arendt",
+        "Simone Weil",
+        "Simone de Beauvoir",
+        "Iris Murdoch"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary concern of metaphysics as a philosophical discipline?",
+      "choices": [
+        "The nature of knowledge and belief",
+        "The nature of reality and existence",
+        "The foundations of mathematical truth",
+        "The basis of ethical standards"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient Greek philosopher founded the Stoic school of philosophy?",
+      "choices": [
+        "Epicurus",
+        "Zeno of Citium",
+        "Pyrrho",
+        "Aristippus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Jean-Paul Sartre publish 'Being and Nothingness'?",
+      "choices": [
+        "1943",
+        "1945",
+        "1947",
+        "1950"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher is known for developing the theory of logical positivism?",
+      "choices": [
+        "A.J. Ayer",
+        "Karl Popper",
+        "Rudolf Carnap",
+        "Ludwig Wittgenstein"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Aristotle founded which school of philosophy in ancient Athens?",
+      "choices": [
+        "The Academy",
+        "The Lyceum",
+        "The Stoa",
+        "The Garden"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher developed the concept of 'the noble lie' in his theory of an ideal state?",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Xenophon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was G.W.F. Hegel born?",
+      "choices": [
+        "1770",
+        "1777",
+        "1785",
+        "1792"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which philosopher wrote 'Critique of Practical Reason' as a companion to his major work on theoretical reason?",
+      "choices": [
+        "J.S. Mill",
+        "Immanuel Kant",
+        "Arthur Schopenhauer",
+        "G.W.F. Hegel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What philosophical movement did Martin Heidegger significantly influence through his work on ontology?",
+      "choices": [
+        "Logical Positivism",
+        "Pragmatism",
+        "Existentialism",
+        "Utilitarianism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "John Stuart Mill is primarily known for developing which ethical theory?",
+      "choices": [
+        "Deontological ethics",
+        "Virtue ethics",
+        "Utilitarianism",
+        "Contractarianism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Immanuel Kant published his major work 'Critique of Pure Reason' in which year?",
+      "choices": [
+        "1781",
+        "1798",
+        "1765",
+        "1802"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Arthur Schopenhauer's philosophy was heavily influenced by the Eastern philosophy of which thinker?",
+      "choices": [
+        "Confucius",
+        "Buddha",
+        "Laozi",
+        "Zhuangzi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

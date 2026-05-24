@@ -1,169 +1,2735 @@
 {
   "slug": "space-trivia",
-  "name": "Space & Astronomy",
-  "description": "The solar system, space missions, and cosmic science",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Space",
+  "processedAt": "2026-05-24T20:43:43.730Z",
   "questions": [
     {
-      "q": "What did the acronym 'NASA' originally stand for when it was formed in 1958?",
-      "choices": ["Northern Atlantic Space Authority", "National Aeronautics and Space Administration", "Naval Astronaut Science Agency", "North American Space Association"],
+      "q": "What is the name of Earth's natural satellite?",
+      "choices": [
+        "Phobos",
+        "The Moon",
+        "Titan",
+        "Europa"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "easy",
-      "source": { "original_a": "National", "verified": true, "notes": "Replaced NACA (Committee for Aeronautics). Founded July 29, 1958." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which space mission first landed humans on the Moon in 1969?",
-      "choices": ["Apollo 8", "Apollo 11", "Apollo 13", "Gemini 7"],
-      "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "easy",
-      "source": { "original_a": "Apollo 11", "verified": true, "notes": "Neil Armstrong and Buzz Aldrin walked on the surface July 20, 1969." }
-    },
-    {
-      "q": "The Hubble Space Telescope is named after which American astronomer?",
-      "choices": ["Carl Sagan", "Edwin Hubble", "Percival Lowell", "Harlow Shapley"],
-      "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Edwin Hubble", "verified": true, "notes": "Hubble discovered that many 'nebulae' were actually distant galaxies." }
-    },
-    {
-      "q": "How many orbital Space Shuttles did NASA fly during the 30-year Shuttle program?",
-      "choices": ["3", "4", "5", "7"],
+      "q": "Which planet is famous for its prominent ring system?",
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
       "correct": 2,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Five", "verified": true, "notes": "Columbia, Challenger, Discovery, Atlantis, Endeavour. Enterprise was a test vehicle that never flew." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which planet in our solar system has the shortest year?",
-      "choices": ["Mercury", "Venus", "Mars", "Earth"],
+      "q": "What is the name of the first artificial satellite launched into space in 1957?",
+      "choices": [
+        "Explorer 1",
+        "Sputnik 1",
+        "Vostok 1",
+        "Telstar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many planets orbit the Sun in our current solar system?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do planets primarily reflect to make them visible from Earth?",
+      "choices": [
+        "Starlight",
+        "Moonlight",
+        "Sunlight",
+        "Radiation"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which celestial body is closest to Earth?",
+      "choices": [
+        "Venus",
+        "The Moon",
+        "Mercury",
+        "Mars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of eclipse occurs when the Moon passes between the Sun and Earth?",
+      "choices": [
+        "Lunar eclipse",
+        "Solar eclipse",
+        "Penumbral eclipse",
+        "Annular eclipse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is the farthest from the Sun?",
+      "choices": [
+        "Saturn",
+        "Uranus",
+        "Neptune",
+        "Pluto"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Apollo 11 land humans on the Moon?",
+      "choices": [
+        "1967",
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous space telescope launched in 1990?",
+      "choices": [
+        "Kepler Space Telescope",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "James Webb Space Telescope"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet has the most visible rings?",
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Neptune",
+        "Saturn"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Sun's primary source of energy?",
+      "choices": [
+        "Nuclear fission",
+        "Chemical reaction",
+        "Nuclear fusion",
+        "Gravitational collapse"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many astronauts typically live on the International Space Station?",
+      "choices": [
+        "3",
+        "6",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Roman god was the messenger, lending his name to the closest planet to the Sun?",
+      "choices": [
+        "Mars",
+        "Jupiter",
+        "Mercury",
+        "Neptune"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ocean did Apollo 11 splash down in after returning from the Moon?",
+      "choices": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is known for being tilted at an extreme angle on its side?",
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Uranus",
+        "Venus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet has a thick atmosphere made primarily of carbon dioxide?",
+      "choices": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a comet commonly described as having in its appearance?",
+      "choices": [
+        "A solid core",
+        "A tail",
+        "Multiple moons",
+        "A ring system"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Neil Armstrong first walk on the Moon?",
+      "choices": [
+        "1967",
+        "1969",
+        "1971",
+        "1965"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the space agency responsible for the Apollo missions?",
+      "choices": [
+        "ESA",
+        "NASA",
+        "Roscosmos",
+        "JAXA"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the reddish color of Mars primarily caused by?",
+      "choices": [
+        "Copper deposits",
+        "Iron oxide",
+        "Sulfur compounds",
+        "Aluminum rust"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which astronaut was the second person to walk on the Moon?",
+      "choices": [
+        "Michael Collins",
+        "Buzz Aldrin",
+        "Alan Bean",
+        "Pete Conrad"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do we call a star that has collapsed and has such strong gravity that not even light can escape?",
+      "choices": [
+        "Neutron star",
+        "Black hole",
+        "White dwarf",
+        "Brown dwarf"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many moons does Mars have?",
+      "choices": [
+        "Zero",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is the hottest in our solar system?",
+      "choices": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the largest volcano in our solar system?",
+      "choices": [
+        "Mount Olympus",
+        "Olympus Mons",
+        "Venus Peak",
+        "Jupiter's Crown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet was discovered in 1846?",
+      "choices": [
+        "Uranus",
+        "Neptune",
+        "Saturn",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the path an object takes as it orbits around another celestial body?",
+      "choices": [
+        "Rotation",
+        "Orbit",
+        "Revolution",
+        "Ellipse"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet has a Great Red Spot visible in its atmosphere?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Earth's galaxy?",
+      "choices": [
+        "Andromeda Galaxy",
+        "Triangulum Galaxy",
+        "Milky Way",
+        "Sombrero Galaxy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is known for its blue color due to methane in its atmosphere?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a depression or indentation formed on a planetary surface by a meteorite impact called?",
+      "choices": [
+        "Canyon",
+        "Crater",
+        "Basin",
+        "Valley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is known for its prominent ring system visible from Earth?",
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the 'N' stand for in the space agency NASA?",
+      "choices": [
+        "Navigation",
+        "National",
+        "Nuclear",
+        "Nordic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is closest to the Sun in our solar system?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the first manned spacecraft to land on the Moon?",
+      "choices": [
+        "Gemini 7",
+        "Apollo 11",
+        "Skylab 1",
+        "Space Shuttle Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is often called the 'Red Planet' due to its rusty appearance?",
+      "choices": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many astronauts typically live aboard the International Space Station?",
+      "choices": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the brightest planet visible from Earth?",
+      "choices": [
+        "Mars",
+        "Jupiter",
+        "Venus",
+        "Saturn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet takes approximately 88 Earth days to orbit the Sun?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous NASA rover landed on Mars in 2012?",
+      "choices": [
+        "Spirit",
+        "Opportunity",
+        "Curiosity",
+        "Perseverance"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the massive canyon system on Mars?",
+      "choices": [
+        "Olympus Montes",
+        "Valles Marineris",
+        "Syrtis Major",
+        "Hellas Planitia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which is the farthest planet from the Sun in our solar system?",
+      "choices": [
+        "Uranus",
+        "Saturn",
+        "Neptune",
+        "Pluto"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes a group of stars that form a recognizable pattern in the night sky?",
+      "choices": [
+        "Galaxy",
+        "Nebula",
+        "Constellation",
+        "Pulsar"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. president had Cape Canaveral renamed in his honor after his assassination?",
+      "choices": [
+        "Dwight Eisenhower",
+        "Richard Nixon",
+        "John F. Kennedy",
+        "Lyndon Johnson"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which English county is the Jodrell Bank Observatory located?",
+      "choices": [
+        "Lancashire",
+        "Yorkshire",
+        "Cheshire",
+        "Merseyside"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate distance of the Hubble Space Telescope from Earth's surface?",
+      "choices": [
+        "150 miles",
+        "347 miles",
+        "500 miles",
+        "1000 miles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Apollo astronaut was the second person to walk on the Moon?",
+      "choices": [
+        "Michael Collins",
+        "Buzz Aldrin",
+        "Pete Conrad",
+        "Alan Bean"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the large impact crater region on the Moon where Apollo 11 landed?",
+      "choices": [
+        "Sea of Tranquility",
+        "Sea of Serenity",
+        "Tycho Crater",
+        "Copernicus Crater"
+      ],
       "correct": 0,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Mercury", "verified": true, "notes": "88 Earth days. Closest planet to the Sun." }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year was the planet Neptune discovered?",
-      "choices": ["1781", "1821", "1846", "1900"],
+      "q": "Which planet is known as the Red Planet due to iron oxide in its soil?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the space telescope launched by NASA in 1990, named after an American astronomer?",
+      "choices": [
+        "James Webb Space Telescope",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Chandra X-ray Observatory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which giant planet is famous for its prominent Great Red Spot, a massive storm system?",
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Jupiter",
+        "Uranus"
+      ],
       "correct": 2,
-      "category": "Space & Astronomy",
-      "difficulty": "hard",
-      "source": { "original_a": "Neptune", "verified": true, "notes": "September 23, 1846 by Johann Galle. First planet discovered by mathematical prediction (Le Verrier)." }
+      "difficulty": "easy"
     },
     {
-      "q": "NASA's 'Curiosity' rover landed on which planet in August 2012?",
-      "choices": ["Venus", "Mars", "Saturn's moon Titan", "Europa"],
+      "q": "What do we call a celestial object so dense that not even light can escape its gravitational pull?",
+      "choices": [
+        "Neutron star",
+        "Black hole",
+        "White dwarf",
+        "Pulsar"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "easy",
-      "source": { "original_a": "Mars", "verified": true, "notes": "Landed in Gale Crater on August 6, 2012. Still operational." }
+      "difficulty": "easy"
     },
     {
-      "q": "The average distance from the Earth to the Moon is approximately how many miles?",
-      "choices": ["100,000", "250,000", "500,000", "1 million"],
+      "q": "How many moons does Saturn have as of current astronomical records?",
+      "choices": [
+        "14",
+        "28",
+        "62",
+        "82"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is known for its spectacular system of rings?",
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which astronomer proposed the heliocentric model of the solar system in the 16th century?",
+      "choices": [
+        "Galileo Galilei",
+        "Nicolaus Copernicus",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "250,000 miles", "verified": true, "notes": "More precisely: 238,855 miles (384,400 km)." }
+      "difficulty": "easy"
     },
     {
-      "q": "In what ocean did Apollo 11 splash down upon returning from the Moon?",
-      "choices": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+      "q": "Which invisible substance is theorized to make up most of the mass in the Milky Way galaxy?",
+      "choices": [
+        "Dark energy",
+        "Dark matter",
+        "Antimatter",
+        "Cosmic dust"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "North Pacific", "verified": true, "notes": "Splashed down July 24, 1969, ~900 miles southwest of Hawaii." }
+      "difficulty": "easy"
     },
     {
-      "q": "Two stars that orbit around a common center of mass are called what?",
-      "choices": ["Binary stars", "Twin stars", "Double stars", "Paired stars"],
+      "q": "What is the name of the international space station that orbits Earth, often abbreviated ISS?",
+      "choices": [
+        "Orbital Station Alpha",
+        "International Space Station",
+        "Global Orbital Lab",
+        "Earth Station One"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is often called the Morning Star or Evening Star because it is the brightest object in the night sky besides the Moon?",
+      "choices": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the center of the Sun called, where nuclear fusion occurs?",
+      "choices": [
+        "Photosphere",
+        "Chromosphere",
+        "Core",
+        "Corona"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which moon of Jupiter is the largest moon in the entire solar system?",
+      "choices": [
+        "Europa",
+        "Ganymede",
+        "Io",
+        "Callisto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what direction do all planets in our solar system orbit the Sun?",
+      "choices": [
+        "Counterclockwise when viewed from above the North Pole",
+        "Clockwise when viewed from above the North Pole",
+        "In random directions",
+        "All planets orbit in different directions"
+      ],
       "correct": 0,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Binary Stars", "verified": true, "notes": "Estimated 50%+ of star systems in the Milky Way are binary or multiple." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the Japanese pressurized module on the International Space Station?",
-      "choices": ["Harmony", "Destiny", "Kibo", "Columbus"],
-      "correct": 2,
-      "category": "Space & Astronomy",
-      "difficulty": "hard",
-      "source": { "original_a": "Kibo", "verified": true, "notes": "Means 'hope' in Japanese. Largest single module on the ISS." }
-    },
-    {
-      "q": "Which planet is most famous for its prominent ring system?",
-      "choices": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "q": "What is the study of stars and their physical properties, including composition and temperature, called?",
+      "choices": [
+        "Cosmology",
+        "Astrophysics",
+        "Astrology",
+        "Astrometry"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "easy",
-      "source": { "original_a": "Saturn", "verified": true, "notes": "audit-corrected 2026-05-09: original_a was erroneously 'Neptune'; corrected to 'Saturn'. All four gas giants have rings, but Saturn's are by far the most visible from Earth." }
+      "difficulty": "easy"
     },
     {
-      "q": "The study of stars' physical properties and chemical composition is known as what?",
-      "choices": ["Cosmology", "Astrology", "Astrophysics", "Astronautics"],
+      "q": "Which planet in our solar system is known for its distinctive Great Red Spot?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Mars",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the powerful space telescope that orbits Earth and has provided stunning images of distant galaxies?",
+      "choices": [
+        "Kepler Space Telescope",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "TESS"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many moons does Saturn have?",
+      "choices": [
+        "14",
+        "27",
+        "62",
+        "95"
+      ],
       "correct": 2,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Astrophysics", "verified": true, "notes": "Applies physics and chemistry to understand celestial objects." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which type of star is the most common in the Milky Way galaxy?",
-      "choices": ["Red dwarf", "Blue giant", "Neutron star", "Yellow dwarf"],
+      "q": "Which celestial event occurs when the Moon passes directly between the Sun and Earth, blocking sunlight?",
+      "choices": [
+        "Lunar eclipse",
+        "Solar eclipse",
+        "Penumbral eclipse",
+        "Annular transit"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the space agency that sent the Apollo missions to the Moon?",
+      "choices": [
+        "ESA",
+        "JAXA",
+        "NASA",
+        "Roscosmos"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a star that has collapsed under its own gravity and has such strong gravity that light cannot escape?",
+      "choices": [
+        "White dwarf",
+        "Neutron star",
+        "Black hole",
+        "Red giant"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do we call the curved path that a celestial object follows as it orbits another body in space?",
+      "choices": [
+        "Trajectory",
+        "Orbit",
+        "Arc",
+        "Ellipse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which rover explored the surface of Mars starting in 2004 and continued operating for over a decade?",
+      "choices": [
+        "Curiosity",
+        "Opportunity",
+        "Perseverance",
+        "Spirit"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a system of two stars orbiting around a common center of mass?",
+      "choices": [
+        "Twin stars",
+        "Binary stars",
+        "Paired stars",
+        "Dual stars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which space station has been continuously inhabited since 1998 and serves as a laboratory for space research?",
+      "choices": [
+        "Mir",
+        "Skylab",
+        "International Space Station",
+        "Salyut"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary composition of the Sun's core?",
+      "choices": [
+        "Iron and nickel",
+        "Hydrogen and helium",
+        "Carbon and oxygen",
+        "Silicon and magnesium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the event horizon's radius around a black hole, defined by the escape velocity equaling the speed of light?",
+      "choices": [
+        "Photon sphere",
+        "Schwarzschild radius",
+        "Ergosphere",
+        "Event boundary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which moon of Jupiter is known to have a subsurface ocean and is considered a prime candidate in the search for extraterrestrial life?",
+      "choices": [
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theoretical boundary around our Solar System that marks the edge of the Sun's gravitational influence?",
+      "choices": [
+        "Kuiper Belt",
+        "Heliosphere",
+        "Oort Cloud",
+        "Heliopause"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian cosmonaut was the first human to conduct a spacewalk in 1965?",
+      "choices": [
+        "Yuri Gagarin",
+        "Valentina Tereshkova",
+        "Alexei Leonov",
+        "Vladimir Komarov"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term describes the point in an orbit where a celestial body is closest to the object it orbits?",
+      "choices": [
+        "Aphelion",
+        "Perihelion",
+        "Perigee",
+        "Apogee"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which exoplanet, discovered in 1995, was the first to be found orbiting a sun-like star outside our Solar System?",
+      "choices": [
+        "Kepler-452b",
+        "51 Pegasi b",
+        "TRAPPIST-1e",
+        "Proxima Centauri b"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the astronomical unit of distance commonly used to measure distances within our Solar System?",
+      "choices": [
+        "One light-year",
+        "One parsec",
+        "The average Earth-Sun distance",
+        "The distance to the Oort Cloud"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, was named after a prominent American astronomer and revolutionized our understanding of the universe?",
+      "choices": [
+        "James Webb Space Telescope",
+        "Spitzer Space Telescope",
+        "Hubble Space Telescope",
+        "Chandra X-ray Observatory"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the point in a lunar orbit where the Moon is farthest from Earth?",
+      "choices": [
+        "Perigee",
+        "Apogee",
+        "Aphelion",
+        "Perihelion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dwarf planet in the Kuiper Belt was reclassified from full planetary status in 2006?",
+      "choices": [
+        "Eris",
+        "Makemake",
+        "Pluto",
+        "Haumea"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon occurs when a massive star collapses and its matter becomes so dense that not even light can escape?",
+      "choices": [
+        "White dwarf formation",
+        "Neutron star creation",
+        "Black hole formation",
+        "Supernova explosion"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1977, two spacecraft were launched to explore the outer planets and eventually exit the Solar System. What are they collectively known as?",
+      "choices": [
+        "Pioneer probes",
+        "Mariner missions",
+        "Voyager missions",
+        "New Horizons"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the most abundant element in the universe by mass, comprising approximately 75% of all normal matter?",
+      "choices": [
+        "Helium",
+        "Oxygen",
+        "Hydrogen",
+        "Carbon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which large impact basin on the Moon was formed by a massive collision approximately 3.85 billion years ago?",
+      "choices": [
+        "Tycho Crater",
+        "South Pole-Aitken basin",
+        "Mare Imbrium",
+        "Oceanus Procellarum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the relativistic jet of particles and radiation ejected from the poles of an active galactic nucleus?",
+      "choices": [
+        "Solar wind",
+        "Accretion disk",
+        "AGN jet",
+        "Stellar wind"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which constellation contains Betelgeuse, a red supergiant star nearing the end of its life cycle?",
+      "choices": [
+        "Canis Major",
+        "Orion",
+        "Cygnus",
+        "Scorpius"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the escape velocity required to break free from Earth's gravitational pull, regardless of launch direction?",
+      "choices": [
+        "7.9 kilometers per second",
+        "11.2 kilometers per second",
+        "20.0 kilometers per second",
+        "25.0 kilometers per second"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space station, operated jointly by multiple countries, has been continuously inhabited since November 2000?",
+      "choices": [
+        "Mir",
+        "Skylab",
+        "International Space Station",
+        "Tiangong"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of star classification system uses letters and numbers to categorize stars by temperature and spectral characteristics?",
+      "choices": [
+        "Hipparchus scale",
+        "Harvard spectral classification",
+        "Hertzsprung-Russell diagram",
+        "Luminosity scale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Galilean moon of Jupiter exhibits active volcanic activity and is the most geologically dynamic body in the Solar System?",
+      "choices": [
+        "Europa",
+        "Io",
+        "Ganymede",
+        "Callisto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the largest moon orbiting Jupiter, and which Greek mythology figure does it represent?",
+      "choices": [
+        "Ganymede, a Trojan prince",
+        "Ganymede, a cupbearer of Zeus",
+        "Io, a priestess of Hera",
+        "Europa, a Phoenician princess"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Parker Solar Probe, launched by NASA in 2018, is designed to approach which celestial body more closely than any spacecraft before it?",
+      "choices": [
+        "Venus",
+        "The Sun",
+        "Mercury",
+        "Earth's magnetosphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which exoplanet, discovered in 1995 orbiting the star 51 Pegasi, earned the distinction of being the first confirmed planet outside our solar system?",
+      "choices": [
+        "Proxima Centauri b",
+        "51 Pegasi b",
+        "TRAPPIST-1e",
+        "Kepler-452b"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In stellar classification, what does the 'M' spectral type indicate about a star?",
+      "choices": [
+        "It is a massive blue hypergiant",
+        "It is a red dwarf with low surface temperature",
+        "It is a main-sequence yellow star",
+        "It is a white dwarf in its cooling phase"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Roche limit describes the distance at which a celestial body will be torn apart by which force?",
+      "choices": [
+        "Solar radiation pressure",
+        "Magnetic field interactions",
+        "Tidal forces from a nearby massive object",
+        "Cosmic ray bombardment"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, was named after an American astronomer known for establishing the relationship between galaxy distance and redshift?",
+      "choices": [
+        "James Webb Space Telescope",
+        "Spitzer Space Telescope",
+        "Hubble Space Telescope",
+        "Kepler Space Telescope"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The magnetosphere of Jupiter generates intense radiation belts called what, named after the physicist who predicted their existence?",
+      "choices": [
+        "Van Allen belts",
+        "Alfvén zones",
+        "Faraday cages",
+        "Maxwell fields"
+      ],
       "correct": 0,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Red dwarf", "verified": true, "notes": "Estimated 70-80% of all stars. Cool, small, long-lived (trillions of years)." }
+      "difficulty": "hard"
     },
     {
-      "q": "Which famous BBC astronomy programme, hosted for decades by Patrick Moore, has aired since 1957?",
-      "choices": ["Horizon", "The Sky at Night", "Stargazing Live", "Space Race"],
+      "q": "What is the precise astronomical term for the moment when the Moon passes directly between Earth and the Sun during daytime?",
+      "choices": [
+        "Lunar eclipse",
+        "Solar eclipse",
+        "New moon conjunction",
+        "Syzygy alignment"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "hard",
-      "source": { "original_a": "The Sky At Night", "verified": true, "notes": "Longest-running TV show with the same presenter (Moore hosted until his 2012 death)." }
+      "difficulty": "hard"
     },
     {
-      "q": "Jodrell Bank Observatory, one of the world's leading radio astronomy facilities, is located in which English county?",
-      "choices": ["Yorkshire", "Cheshire", "Devon", "Kent"],
+      "q": "The Chandrasekhar limit represents the maximum mass for which type of stellar remnant before it collapses further?",
+      "choices": [
+        "Red dwarf",
+        "White dwarf",
+        "Neutron star",
+        "Brown dwarf"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "hard",
-      "source": { "original_a": "Cheshire", "verified": true, "notes": "Home to the Lovell Telescope (1957), once the world's largest steerable radio telescope." }
+      "difficulty": "hard"
     },
     {
-      "q": "Which U.S. state houses NASA's Johnson Space Center, the mission control for human spaceflight?",
-      "choices": ["Florida", "California", "Texas", "Alabama"],
+      "q": "Which Soviet space probe became the first artificial object to achieve a soft landing on the Moon in 1966?",
+      "choices": [
+        "Luna 2",
+        "Luna 9",
+        "Zond 5",
+        "Venera 3"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Red Spot of Jupiter is a persistent storm system that rotates in which direction relative to the planet's surface?",
+      "choices": [
+        "Clockwise",
+        "Counter-clockwise",
+        "Both directions simultaneously",
+        "Does not rotate relative to the surface"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon occurs when a neutron star's rotation axis is misaligned with its magnetic axis, causing regular pulses of radiation?",
+      "choices": [
+        "Magnetar flare",
+        "Pulsar emission",
+        "Synchrotron radiation",
+        "Hawking radiation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The accretion disk surrounding a black hole heats material to extreme temperatures, releasing energy in the form of which high-energy phenomenon?",
+      "choices": [
+        "Ultraviolet radiation only",
+        "X-rays and gamma-rays",
+        "Radio waves exclusively",
+        "Visible light primarily"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASA rover, operational on Mars from 2004 through 2018, far exceeded its original two-year mission design?",
+      "choices": [
+        "Curiosity",
+        "Opportunity",
+        "Perseverance",
+        "Spirit"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The cosmic microwave background radiation detected by Penzias and Wilson in 1964 is interpreted as the afterglow of which cosmological event?",
+      "choices": [
+        "The formation of the first stars",
+        "The Big Bang",
+        "The collision of two ancient galaxies",
+        "The death of the first quasar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the boundary around a black hole beyond which no information or matter can escape to an external observer?",
+      "choices": [
+        "Photon sphere",
+        "Event horizon",
+        "Ergosphere",
+        "Schwarzschild radius"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Lagrange point L2, located opposite the Sun from Earth, is the primary location selected for which major space observatory?",
+      "choices": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory",
+        "SOHO Solar Observatory"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1977, two Voyager spacecraft were launched to perform a 'Grand Tour' of the outer planets, taking advantage of a rare alignment that occurs only once every how many years?",
+      "choices": [
+        "75 years",
+        "175 years",
+        "275 years",
+        "375 years"
+      ],
       "correct": 2,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Texas", "verified": true, "notes": "Located in Houston. Launches happen in Florida (Kennedy Space Center), but Johnson controls the missions." }
+      "difficulty": "hard"
     },
     {
-      "q": "Sodium is the second most abundant element in which planet's thin exosphere?",
-      "choices": ["Mars", "Mercury", "Venus", "Saturn"],
+      "q": "The rotation period of Jupiter, despite its massive size, is among the shortest of all planets at approximately how many hours?",
+      "choices": [
+        "10 hours",
+        "24 hours",
+        "48 hours",
+        "72 hours"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which phenomenon, predicted by Einstein's theory of general relativity, occurs when massive objects warp spacetime and was first directly observed by LIGO in 2015?",
+      "choices": [
+        "Gravitational lensing",
+        "Gravitational waves",
+        "Time dilation effects",
+        "Relativistic beaming"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "hard",
-      "source": { "original_a": "Sodium", "verified": true, "notes": "audit-corrected 2026-05-09: reworded from 'on which planet's surface' to 'in which planet's thin exosphere' — Mercury's surface is dominated by oxygen/magnesium/silicon (per MESSENGER GRS); sodium's notable abundance is in the exosphere, after oxygen." }
+      "difficulty": "hard"
     },
     {
-      "q": "What is the innermost layer of the Sun called, where nuclear fusion takes place?",
-      "choices": ["Photosphere", "Corona", "Core", "Chromosphere"],
+      "q": "What is the name of the phenomenon where a star's light is shifted toward the red end of the spectrum due to its motion away from Earth?",
+      "choices": [
+        "Doppler Redshift",
+        "Gravitational Lensing",
+        "Stellar Aberration",
+        "Cosmic Microwave Background"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Soviet cosmonaut was the first human to conduct a spacewalk outside a spacecraft in 1965?",
+      "choices": [
+        "Yuri Gagarin",
+        "Valentina Tereshkova",
+        "Alexei Leonov",
+        "Vladimir Komarov"
+      ],
       "correct": 2,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "Core", "verified": true, "notes": "Temperature ~15 million °C. Hydrogen fuses into helium." }
+      "difficulty": "hard"
     },
     {
-      "q": "Approximately how long does a standard crewed mission take to reach the Moon?",
-      "choices": ["1 day", "3 days", "7 days", "14 days"],
+      "q": "The Great Red Spot of Jupiter is a storm system that has persisted for at least how many centuries?",
+      "choices": [
+        "1 century",
+        "2 centuries",
+        "3 centuries",
+        "5 centuries"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the point in a satellite's orbit where it reaches its closest distance to Earth?",
+      "choices": [
+        "Apogee",
+        "Perigee",
+        "Declination",
+        "Eccentricity"
+      ],
       "correct": 1,
-      "category": "Space & Astronomy",
-      "difficulty": "medium",
-      "source": { "original_a": "3 Days", "verified": true, "notes": "Apollo missions took ~3 days. Light takes 1.3 seconds." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which spacecraft became the first human-made object to reach interstellar space in 2012?",
+      "choices": [
+        "Pioneer 10",
+        "Voyager 1",
+        "New Horizons",
+        "Cassini"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary composition of Saturn's rings?",
+      "choices": [
+        "Frozen methane and ammonia",
+        "Water ice and rock particles",
+        "Iron oxide and silicate dust",
+        "Hydrogen and helium gas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the first space probe to successfully land on Venus and transmit data back to Earth?",
+      "choices": [
+        "Mariner 2",
+        "Venera 7",
+        "Akatsuki",
+        "Pioneer Venus 1"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Lagrange points exist where gravitational forces of two massive celestial bodies balance?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which moon of Saturn is notable for its geysers of water ice and organic compounds erupting from its south pole?",
+      "choices": [
+        "Titan",
+        "Iapetus",
+        "Enceladus",
+        "Rhea"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Chandrasekhar limit, and what does it represent?",
+      "choices": [
+        "The maximum distance a galaxy can be from Earth",
+        "The maximum mass of a white dwarf before it collapses",
+        "The minimum temperature required for hydrogen fusion",
+        "The speed at which light bends around a black hole"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, revolutionized astronomy and was named after a pioneering American astronomer?",
+      "choices": [
+        "James Webb Space Telescope",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Kepler Space Telescope"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the hypothetical spherical shell of icy objects surrounding the solar system?",
+      "choices": [
+        "Asteroid Belt",
+        "Kuiper Belt",
+        "Oort Cloud",
+        "Van Allen Belt"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1974, the Arecibo Observatory sent a famous radio message directed toward which globular cluster?",
+      "choices": [
+        "Messier 31",
+        "Messier 13",
+        "Messier 51",
+        "Messier 87"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the mechanism by which neutron stars are believed to lose energy and gradually slow their rotation?",
+      "choices": [
+        "Hawking radiation",
+        "Gravitational wave emission",
+        "Magnetic braking",
+        "Stellar wind ejection"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which exoplanet, discovered in 1995 around the star 51 Pegasi, was the first confirmed exoplanet orbiting a sun-like star?",
+      "choices": [
+        "TRAPPIST-1e",
+        "51 Pegasi b",
+        "Proxima Centauri b",
+        "Kepler-452b"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of galaxy is the Andromeda Galaxy (Messier 31)?",
+      "choices": [
+        "Elliptical",
+        "Spiral",
+        "Irregular",
+        "Lenticular"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Parker Solar Probe holds the record for the closest approach to the Sun by a spacecraft. How close does it come?",
+      "choices": [
+        "Approximately 3.8 million kilometers",
+        "Approximately 5.8 million kilometers",
+        "Approximately 7.8 million kilometers",
+        "Approximately 9.8 million kilometers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theoretical boundary around a black hole beyond which no light can escape?",
+      "choices": [
+        "Singularity",
+        "Event Horizon",
+        "Ergosphere",
+        "Photon Sphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of Saturn's moons is the only moon in the solar system known to have a dense atmosphere comparable to Earth's?",
+      "choices": [
+        "Enceladus",
+        "Titan",
+        "Iapetus",
+        "Tethys"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary chemical composition of Saturn's rings?",
+      "choices": [
+        "Iron oxide and silicates",
+        "Water ice and rocky debris",
+        "Methane crystals and ammonia",
+        "Sulfur compounds and dust"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which moon of Saturn exhibits cryovolcanism with water-ammonia geysers erupting from its south polar region?",
+      "choices": [
+        "Titan",
+        "Enceladus",
+        "Iapetus",
+        "Rhea"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theoretical boundary around a star where planets could theoretically support liquid water?",
+      "choices": [
+        "Roche Limit",
+        "Habitable Zone",
+        "Schwarzschild Radius",
+        "Hill Sphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space probe became the first human-made object to reach interstellar space in 2012?",
+      "choices": [
+        "Voyager 2",
+        "Pioneer 10",
+        "Voyager 1",
+        "New Horizons"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Chandrasekhar limit, named after the physicist who discovered it?",
+      "choices": [
+        "The maximum mass of a stable neutron star",
+        "The maximum mass of a white dwarf before it becomes a neutron star",
+        "The minimum distance a comet can approach the Sun",
+        "The speed at which a black hole consumes matter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which exoplanet, discovered in 1995, was the first confirmed planet orbiting a main-sequence star outside our solar system?",
+      "choices": [
+        "TRAPPIST-1e",
+        "51 Pegasi b",
+        "Kepler-452b",
+        "Proxima Centauri b"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon describes the temporary brightening of a massive star before it explodes as a supernova?",
+      "choices": [
+        "Red giant phase",
+        "Outburst precursor",
+        "Precursor eruption",
+        "Pre-explosion outburst"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Jovian moon is the only moon in the solar system known to have a substantial atmosphere?",
+      "choices": [
+        "Europa",
+        "Ganymede",
+        "Titan",
+        "Io"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the region in space where the gravitational influence of the Sun dominates over interstellar forces?",
+      "choices": [
+        "Oort Cloud",
+        "Kuiper Belt",
+        "Heliosphere",
+        "Zodiacal Cloud"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Soviet cosmonaut was the first human to conduct a spacewalk in 1965?",
+      "choices": [
+        "Konstantin Tsiolkovsky",
+        "Alexei Leonov",
+        "Valentina Tereshkova",
+        "Sergei Korolev"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the estimated age of the observable universe according to current cosmological measurements?",
+      "choices": [
+        "7.5 billion years",
+        "13.8 billion years",
+        "20.1 billion years",
+        "9.2 billion years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which constellation contains the brightest star in Earth's night sky?",
+      "choices": [
+        "Orion",
+        "Canis Major",
+        "Boötes",
+        "Lyra"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of astronomical object is Proxima Centauri, the nearest star to our Sun?",
+      "choices": [
+        "White dwarf",
+        "Red dwarf",
+        "Brown dwarf",
+        "Yellow dwarf"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, required a corrective optical repair mission in 1993 to fix spherical aberration?",
+      "choices": [
+        "Spitzer Space Telescope",
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the hypothetical shell of icy bodies surrounding the solar system, believed to extend up to 200,000 AU from the Sun?",
+      "choices": [
+        "Kuiper Belt",
+        "Oort Cloud",
+        "Zodiacal Dust Cloud",
+        "Halo Orbits"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which phenomenon occurs when a neutron star's powerful magnetic field accelerates particles, producing beams of electromagnetic radiation?",
+      "choices": [
+        "Gravitational lensing",
+        "Pulsar emission",
+        "Hawking radiation",
+        "Synchrotron radiation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary mission objective of the Parker Solar Probe, launched by NASA in 2018?",
+      "choices": [
+        "To study coronal mass ejections from Earth orbit",
+        "To measure solar wind particles and study the Sun's corona",
+        "To collect samples from the Sun's photosphere",
+        "To detect gravitational waves from solar activity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which moon of Uranus was discovered by William Herschel in 1787, just days after he discovered Uranus itself?",
+      "choices": [
+        "Ariel",
+        "Oberon",
+        "Titania",
+        "Umbriel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theoretical remnant left behind after a massive star undergoes core collapse?",
+      "choices": [
+        "White dwarf",
+        "Neutron star",
+        "Pulsar",
+        "Black hole"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which deep-space probe transmitted images revealing that Jupiter possesses faint rings, previously unknown to astronomers?",
+      "choices": [
+        "Pioneer 11",
+        "Voyager 1",
+        "Galileo orbiter",
+        "Juno spacecraft"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1962, Mariner 2 became the first spacecraft to successfully fly by which planet?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which moon of Jupiter is the only one in the solar system with a subsurface ocean confirmed to contain more water than Earth's oceans?",
+      "choices": [
+        "Europa",
+        "Ganymede",
+        "Io",
+        "Callisto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the boundary marking the edge of the Sun's gravitational influence, beyond which interstellar space begins?",
+      "choices": [
+        "Heliopause",
+        "Photosphere",
+        "Chromosphere",
+        "Magnetopause"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which exoplanet, discovered in 1995 orbiting the star 51 Pegasi, was the first confirmed planet outside our solar system?",
+      "choices": [
+        "51 Pegasi b",
+        "Proxima Centauri b",
+        "TRAPPIST-1e",
+        "Kepler-452b"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Red Spot on Jupiter has been continuously observed for at least how many centuries?",
+      "choices": [
+        "Three",
+        "Two",
+        "One",
+        "Half"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian cosmonaut was the first human to conduct a spacewalk outside a spacecraft in 1965?",
+      "choices": [
+        "Alexei Leonov",
+        "Yuri Gagarin",
+        "Valentina Tereshkova",
+        "Georgy Beregovoy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Oort Cloud, a theoretical spherical shell of icy bodies surrounding the Sun, is estimated to extend to approximately how many astronomical units?",
+      "choices": [
+        "100,000",
+        "10,000",
+        "1,000",
+        "10"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Galilean moon of Jupiter has the highest surface temperature due to internal tidal heating from gravitational friction?",
+      "choices": [
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chandrasekhar limit defines the maximum mass of which type of stellar remnant before it collapses into a black hole?",
+      "choices": [
+        "White dwarf",
+        "Neutron star",
+        "Brown dwarf",
+        "Red giant"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, required a corrective optics repair mission in 1993 to fix a flaw in its primary mirror?",
+      "choices": [
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Compton Gamma Ray Observatory",
+        "Spitzer Space Telescope"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the narrow region of space between Neptune's orbit and the heliopause where long-period comets originate?",
+      "choices": [
+        "Kuiper Belt",
+        "Asteroid Belt",
+        "Oort Cloud",
+        "Van Allen Belt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the theoretical minimum mass threshold, in solar masses, below which a stellar remnant cannot support electron degeneracy pressure and must collapse into a neutron star or black hole?",
+      "choices": [
+        "0.5 solar masses",
+        "1.4 solar masses",
+        "2.1 solar masses",
+        "3.2 solar masses"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which planet in our solar system has the shortest orbital period around the Sun?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which astronaut was the second person to walk on the Moon during the Apollo 11 mission?",
+      "choices": [
+        "Buzz Aldrin",
+        "Michael Collins",
+        "John Glenn",
+        "Pete Conrad"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Saturn's largest moon, which has a dense atmosphere and liquid methane seas?",
+      "choices": [
+        "Enceladus",
+        "Titan",
+        "Rhea",
+        "Iapetus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these planets has the most prominent ring system visible from Earth with a telescope?",
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the zone around a star where liquid water could exist on a planet's surface?",
+      "choices": [
+        "Habitable zone",
+        "Comfort zone",
+        "Life sphere",
+        "Temperate ring"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, revolutionized our view of the universe despite initial optical flaws?",
+      "choices": [
+        "Spitzer Space Telescope",
+        "Hubble Space Telescope",
+        "James Webb Space Telescope",
+        "Chandra X-ray Observatory"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary source of energy that powers the Sun's continuous output?",
+      "choices": [
+        "Chemical combustion",
+        "Nuclear fusion",
+        "Gravitational collapse",
+        "Radioactive decay"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the spacecraft that first reached Mars and successfully transmitted data back to Earth?",
+      "choices": [
+        "Mariner 4",
+        "Viking 1",
+        "Pathfinder",
+        "Spirit"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which celestial phenomenon occurs when the Moon passes directly between the Earth and the Sun?",
+      "choices": [
+        "Lunar eclipse",
+        "Solar eclipse",
+        "Penumbral eclipse",
+        "Occultation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the only planet in our solar system known to have life?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Earth",
+        "Europa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian cosmonaut was the first human to journey into space in 1961?",
+      "choices": [
+        "Sergei Korolev",
+        "Yuri Gagarin",
+        "Vladimir Komarov",
+        "Valentina Tereshkova"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the supercontinent that existed on Earth approximately 300 million years ago?",
+      "choices": [
+        "Laurasia",
+        "Pangaea",
+        "Gondwana",
+        "Eurasia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet has the Great Red Spot, a persistent storm larger than Earth?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the distance light travels in one year?",
+      "choices": [
+        "Parsec",
+        "Light-year",
+        "Astronomical unit",
+        "Solar unit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which moon of Jupiter is known for its intense volcanic activity?",
+      "choices": [
+        "Europa",
+        "Ganymede",
+        "Io",
+        "Callisto"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate age of the universe according to modern cosmology?",
+      "choices": [
+        "4.5 billion years",
+        "13.8 billion years",
+        "100 billion years",
+        "1 trillion years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of star, at the end of its life cycle, can collapse to form a neutron star?",
+      "choices": [
+        "Red dwarf",
+        "White dwarf",
+        "Massive star",
+        "Brown dwarf"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system has the strongest magnetic field relative to its size?",
+      "choices": [
+        "Jupiter",
+        "Mercury",
+        "Neptune",
+        "Saturn"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Yuri Gagarin become the first human in space?",
+      "choices": [
+        "1959",
+        "1961",
+        "1962",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the boundary that marks the edge of the Sun's influence in space?",
+      "choices": [
+        "Oort Cloud",
+        "Heliosphere",
+        "Van Allen Belt",
+        "Kuiper Belt"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which moon of Saturn is known for its thick nitrogen atmosphere and hydrocarbon lakes?",
+      "choices": [
+        "Enceladus",
+        "Titan",
+        "Rhea",
+        "Mimas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the point in a spacecraft's orbit closest to Earth?",
+      "choices": [
+        "Apogee",
+        "Perigee",
+        "Perihelion",
+        "Aphelion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which space telescope, launched in 1990, was named after a 20th-century astronomer?",
+      "choices": [
+        "James Webb Space Telescope",
+        "Hubble Space Telescope",
+        "Spitzer Space Telescope",
+        "Kepler Space Telescope"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the region between Mars and Jupiter where most asteroids are found?",
+      "choices": [
+        "Asteroid Belt",
+        "Kuiper Belt",
+        "Halo Region",
+        "Debris Disk"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Soviet Union's Luna 2 become the first spacecraft to reach the Moon?",
+      "choices": [
+        "1957",
+        "1959",
+        "1961",
+        "1962"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What phenomenon occurs when a star's brightness increases and decreases in a regular pattern?",
+      "choices": [
+        "Solar flare",
+        "Variable star",
+        "Pulsar",
+        "Supernova"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dwarf planet, discovered in 2005, is slightly smaller than Earth's moon?",
+      "choices": [
+        "Eris",
+        "Haumea",
+        "Makemake",
+        "Ceres"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the violent explosion that occurs at the end of a massive star's life?",
+      "choices": [
+        "Nova",
+        "Supernova",
+        "Planetary nebula",
+        "White dwarf eruption"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet rotates on its side with an axial tilt of approximately 98 degrees?",
+      "choices": [
+        "Venus",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary gas that makes up the atmospheres of Jupiter and Saturn?",
+      "choices": [
+        "Nitrogen",
+        "Helium",
+        "Hydrogen",
+        "Methane"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the International Space Station first inhabited by humans?",
+      "choices": [
+        "1998",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of Saturn's moons has geysers of water ice erupting from its south pole?",
+      "choices": [
+        "Iapetus",
+        "Enceladus",
+        "Dione",
+        "Tethys"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the distance light travels in one year through the vacuum of space?",
+      "choices": [
+        "Parsec",
+        "Light-year",
+        "Astronomical Unit",
+        "Kiloparsec"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which space probe was the first to leave the solar system and enter interstellar space?",
+      "choices": [
+        "Voyager 1",
+        "Voyager 2",
+        "Pioneer 10",
+        "New Horizons"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the gaseous envelope surrounding the Sun that extends millions of kilometers into space?",
+      "choices": [
+        "Photosphere",
+        "Corona",
+        "Chromosphere",
+        "Heliosphere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European Space Agency mission landed a probe on the surface of a comet in 2014?",
+      "choices": [
+        "Giotto",
+        "Rosetta",
+        "Stardust",
+        "Deep Impact"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of star is formed when a white dwarf accretes material from a companion star, causing a thermonuclear explosion?",
+      "choices": [
+        "Red dwarf",
+        "Nova",
+        "Neutron star",
+        "Brown dwarf"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our Solar System has the most confirmed moons as of 2024?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the boundary that marks the edge of the Sun's gravitational influence on our Solar System?",
+      "choices": [
+        "Oort Cloud",
+        "Heliopause",
+        "Kuiper Belt",
+        "Asteroid Belt"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which moon of Saturn is notable for its thick atmosphere and liquid methane lakes on its surface?",
+      "choices": [
+        "Enceladus",
+        "Titan",
+        "Iapetus",
+        "Rhea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Hubble Space Telescope launch into orbit?",
+      "choices": [
+        "1988",
+        "1990",
+        "1993",
+        "1995"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which space agency first successfully landed a rover on Mars?",
+      "choices": [
+        "NASA",
+        "ESA",
+        "Roscosmos",
+        "CNSA"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary element that makes up the rings of Saturn?",
+      "choices": [
+        "Frozen carbon dioxide",
+        "Water ice",
+        "Iron oxide",
+        "Methane crystals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dwarf planet, discovered in 2005, is larger than Pluto and lies in the Kuiper Belt?",
+      "choices": [
+        "Makemake",
+        "Haumea",
+        "Eris",
+        "Gonggong"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What phenomenon occurs when a massive star reaches the end of its life and explodes violently?",
+      "choices": [
+        "Nova",
+        "Supernova",
+        "Red giant expansion",
+        "Neutron collapse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which astronaut was the first person to conduct a spacewalk outside a spacecraft?",
+      "choices": [
+        "John Glenn",
+        "Alexei Leonov",
+        "Alan Bean",
+        "Mike Collins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the giant storm system that has been raging on Neptune for at least several decades?",
+      "choices": [
+        "The Great White Storm",
+        "The Dark Spot",
+        "The Eternal Tempest",
+        "The Neptune Vortex"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the first International Space Station module launch into orbit?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which exoplanet, discovered in 1995, was the first confirmed planet found orbiting a sun-like star?",
+      "choices": [
+        "Kepler-452b",
+        "TRAPPIST-1e",
+        "51 Pegasi b",
+        "Proxima Centauri b"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of celestial object is characterized by a rapidly rotating neutron star emitting electromagnetic radiation?",
+      "choices": [
+        "Quasar",
+        "Pulsar",
+        "Magnetar",
+        "Blazar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which moon of Jupiter is the only one known to have a subsurface ocean beneath its icy crust?",
+      "choices": [
+        "Io",
+        "Ganymede",
+        "Europa",
+        "Callisto"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most abundant element in the universe by mass?",
+      "choices": [
+        "Helium",
+        "Hydrogen",
+        "Oxygen",
+        "Carbon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which space probe became the first human-made object to leave the Solar System?",
+      "choices": [
+        "Voyager 2",
+        "Voyager 1",
+        "Pioneer 10",
+        "New Horizons"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the region between Mars and Jupiter where most asteroids in our Solar System are found?",
+      "choices": [
+        "Debris Field",
+        "Asteroid Belt",
+        "Meteoroid Zone",
+        "Rocky Corridor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In astronomy, what term describes the shift in wavelength of light from an object moving away from us?",
+      "choices": [
+        "Parallax shift",
+        "Redshift",
+        "Blueshift",
+        "Doppler gap"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spacecraft successfully landed humans on the Moon and returned them safely to Earth during the Apollo 11 mission?",
+      "choices": [
+        "Command Module Columbia",
+        "Lunar Module Eagle",
+        "Service Module",
+        "Skylab One"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the estimated age of the universe based on current cosmological observations?",
+      "choices": [
+        "4.6 billion years",
+        "13.8 billion years",
+        "8.2 billion years",
+        "20 billion years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Voyager 1 spacecraft launch from Earth?",
+      "choices": [
+        "1975",
+        "1977",
+        "1979",
+        "1981"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gas makes up the majority of Saturn's atmosphere?",
+      "choices": [
+        "Nitrogen",
+        "Hydrogen",
+        "Methane",
+        "Helium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Jupiter's largest moon?",
+      "choices": [
+        "Europa",
+        "Ganymede",
+        "Io",
+        "Callisto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Hubble Space Telescope first begin operation?",
+      "choices": [
+        "1988",
+        "1990",
+        "1992",
+        "1995"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary composition of Venus's thick atmosphere?",
+      "choices": [
+        "Nitrogen and Oxygen",
+        "Carbon Dioxide and Nitrogen",
+        "Methane and Hydrogen",
+        "Argon and Helium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which constellation contains the bright star Sirius?",
+      "choices": [
+        "Orion",
+        "Canis Major",
+        "Ursa Major",
+        "Pegasus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do astronomers call the boundary around a black hole from which nothing can escape?",
+      "choices": [
+        "Photon Sphere",
+        "Event Horizon",
+        "Accretion Disk",
+        "Schwarzschild Radius"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which space agency successfully landed the Perseverance rover on Mars in 2021?",
+      "choices": [
+        "ESA",
+        "CNSA",
+        "NASA",
+        "ISRO"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the spacecraft that first achieved a soft landing on the Moon?",
+      "choices": [
+        "Apollo 11",
+        "Luna 9",
+        "Surveyor 1",
+        "Lunar Module"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dwarf planet was reclassified in 2006, leading to the redefinition of what constitutes a planet?",
+      "choices": [
+        "Eris",
+        "Pluto",
+        "Haumea",
+        "Makemake"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard unit of distance used to measure distances between stars?",
+      "choices": [
+        "Astronomical Unit",
+        "Light-year",
+        "Parsec",
+        "Kilometer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of Saturn's moons is known for its geysers that eject water vapor and organic compounds?",
+      "choices": [
+        "Titan",
+        "Enceladus",
+        "Rhea",
+        "Iapetus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What phenomenon occurs when a star explodes at the end of its life, briefly outshining an entire galaxy?",
+      "choices": [
+        "Nova",
+        "Supernova",
+        "Pulsar",
+        "Quasar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the International Space Station first inhabited by a permanent crew?",
+      "choices": [
+        "1998",
+        "2000",
+        "2001",
+        "2003"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet is notable for having a Great Dark Spot storm system that was observed by Voyager 2 in 1989?",
+      "choices": [
+        "Uranus",
+        "Saturn",
+        "Neptune",
+        "Jupiter"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Earth's natural satellite's largest crater, located on its far side?",
+      "choices": [
+        "Tycho",
+        "Copernicus",
+        "South Pole-Aitken Basin",
+        "Mare Imbrium"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary chemical element that powers the Sun through nuclear fusion?",
+      "choices": [
+        "Helium",
+        "Hydrogen",
+        "Carbon",
+        "Oxygen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1846, astronomers discovered Neptune through mathematical predictions before direct observation. Which astronomer's calculations led to this discovery?",
+      "choices": [
+        "Urbain Le Verrier",
+        "William Herschel",
+        "Giovanni Cassini",
+        "Christiaan Huygens"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gas giant is famous for its prominent ring system visible through telescopes?",
+      "choices": [
+        "Jupiter",
+        "Uranus",
+        "Saturn",
+        "Neptune"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do astronomers call a star system in which two stars orbit around a common center of mass?",
+      "choices": [
+        "Triple star",
+        "Binary star",
+        "Variable star",
+        "Neutron star"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A white dwarf is best described as which type of stellar remnant?",
+      "choices": [
+        "A young, hot star",
+        "The dense core left behind after a star like our Sun dies",
+        "A star that fluctuates in brightness",
+        "A black hole in formation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is a meteor commonly called when observed streaking across the night sky?",
+      "choices": [
+        "Shooting star",
+        "Asteroid",
+        "Comet tail",
+        "Satellite"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before its reclassification in 2006, how many planets were recognized in our solar system?",
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet has a core composition primarily of nickel and iron?",
+      "choices": [
+        "Mercury",
+        "Venus",
+        "Earth",
+        "Mars"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Saturn is so low in density that it would float in water. What is Saturn's primary composition?",
+      "choices": [
+        "Rock and metal",
+        "Hydrogen and helium",
+        "Ice and rock",
+        "Liquid water and ammonia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1969, the Apollo 11 mission successfully landed on the Moon. How many astronauts walked on the lunar surface during this historic mission?",
+      "choices": [
+        "One astronaut",
+        "Two astronauts",
+        "Three astronauts",
+        "Four astronauts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

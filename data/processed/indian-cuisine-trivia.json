@@ -1,249 +1,2306 @@
 {
   "slug": "indian-cuisine-trivia",
   "name": "Indian Cuisine",
-  "description": "Spices, dals, naan, and the dishes from Punjab to Kerala that fill the menu.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.587Z",
   "questions": [
     {
-      "q": "What is the primary base of the sauce in butter chicken (murgh makhani)?",
-      "choices": ["Yogurt", "Tomato", "Coconut milk", "Cashew paste"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Tomato",
-        "verified": true,
-        "notes": "Tomato + butter + cream is the signature."
-      }
-    },
-    {
-      "q": "Butter chicken (murgh makhani) was reportedly invented in what decade and where?",
-      "choices": ["1920s in Mumbai", "1950s in Delhi", "1970s in Punjab", "1980s in Kolkata"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1950s",
-        "verified": true,
-        "notes": "Created at Moti Mahal in Delhi by Kundan Lal Gujral, originally to use leftover tandoori chicken."
-      }
-    },
-    {
-      "q": "What pulse is referred to as 'channa' in Indian cooking?",
-      "choices": ["Lentils", "Chickpeas (garbanzo beans)", "Black beans", "Mung beans"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Chickpeas",
-        "verified": true,
-        "notes": "'Chana masala' is a chickpea curry."
-      }
-    },
-    {
-      "q": "What kind of bean is 'rajma'?",
-      "choices": ["Pinto bean", "Kidney bean", "Black-eyed pea", "Lima bean"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Kidney Beans",
-        "verified": true,
-        "notes": "Rajma chawal (rajma over rice) is a staple of North Indian comfort food."
-      }
-    },
-    {
-      "q": "What dairy ingredient is the classic cooling accompaniment to spicy curry?",
-      "choices": ["Milk", "Cream", "Yogurt", "Cottage cheese"],
-      "correct": 2,
-      "category": "Indian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Yoghurt",
-        "verified": true,
-        "notes": "Often served as raita."
-      }
-    },
-    {
-      "q": "Kheer is India's traditional take on which Western dessert?",
-      "choices": ["Bread pudding", "Rice pudding", "Custard", "Crème brûlée"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Rice Pudding",
-        "verified": true,
-        "notes": "Slow-simmered rice with milk, sugar, and cardamom, often topped with nuts."
-      }
-    },
-    {
-      "q": "From which fruit is the dessert/drink 'aamras' made?",
-      "choices": ["Pomegranate", "Lychee", "Mango", "Guava"],
-      "correct": 2,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mango",
-        "verified": true,
-        "notes": "Pulped mango, often eaten with puri."
-      }
-    },
-    {
-      "q": "What is chapati?",
-      "choices": ["A clay oven", "An unleavened flatbread", "A spice mixture", "A type of rice"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bread",
-        "verified": true,
-        "notes": "Made from atta (whole wheat flour); cooked on a tava (skillet)."
-      }
-    },
-    {
-      "q": "Basmati and Ponni are types of which staple grain?",
-      "choices": ["Wheat", "Millet", "Rice", "Barley"],
-      "correct": 2,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Rice",
-        "verified": true,
-        "notes": "Basmati is the long-grain aromatic; Ponni is a popular South Indian variety."
-      }
-    },
-    {
-      "q": "What style of naan is sweet, often stuffed with coconut, almonds, and raisins?",
-      "choices": ["Garlic naan", "Peshwari naan", "Kulcha", "Roti"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Peshwari",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What ingredient does paneer cheese famously NOT contain (unlike most Western cheeses)?",
-      "choices": ["Salt", "Rennet", "Milk", "Cream"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Rennet",
-        "verified": true,
-        "notes": "Paneer is curdled with lemon juice or vinegar, making it strictly vegetarian."
-      }
-    },
-    {
-      "q": "What is the name of the deep-fried, triangular pastry filled with spiced potatoes or meat?",
-      "choices": ["Pakora", "Samosa", "Bhaji", "Vada"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Samosa",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What meat goes into the dish 'saag gosht'?",
-      "choices": ["Chicken", "Goat or lamb", "Beef", "Fish"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Lamb",
-        "verified": true,
-        "notes": "'Gosht' = meat (typically goat or lamb); 'saag' = leafy greens like spinach/mustard."
-      }
-    },
-    {
-      "q": "From which Indian state does the dish 'sarson da saag' (mustard greens with cornbread) originate?",
-      "choices": ["Punjab", "Kerala", "West Bengal", "Goa"],
+      "q": "Which leavened, oven-baked bread is a staple of North Indian cuisine?",
+      "choices": [
+        "Naan",
+        "Tortilla",
+        "Pita",
+        "Bagel"
+      ],
       "correct": 0,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Punjab",
-        "verified": true,
-        "notes": "Often served with makki di roti (cornbread)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "From which Indian state does the rainbow-coconut vegetable dish 'avial' come?",
-      "choices": ["Punjab", "Kerala", "Rajasthan", "Bihar"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Kerala",
-        "verified": true,
-        "notes": "Mixed vegetables in a coconut-yogurt sauce; signature South Indian dish."
-      }
-    },
-    {
-      "q": "Which Indian beer brand, produced by a brewery founded in 1857, is the country's most popular?",
-      "choices": ["Cobra", "Kingfisher", "Haywards 5000", "Knock Out"],
-      "correct": 1,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1970s",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: clarified the brewery (United Breweries) dates to 1857 while the Kingfisher brand itself launched in 1978."
-      }
-    },
-    {
-      "q": "Which crunchy fried fritter is made by dipping sliced onions in spiced chickpea batter?",
-      "choices": ["Pakora / onion bhaji", "Samosa", "Idli", "Bhel puri"],
+      "q": "Which spice blend, with turmeric, cumin, and coriander, is foundational to many Indian curries?",
+      "choices": [
+        "Garam masala",
+        "Five-spice",
+        "Za'atar",
+        "Herbes de Provence"
+      ],
       "correct": 0,
-      "category": "Indian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Onion",
-        "verified": true,
-        "notes": "Bhaji and pakora overlap; onion bhaji is the classic British-Indian version."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "From which Indian state does the dough-ball-and-mash dish 'litti chokha' come?",
-      "choices": ["Bihar", "Goa", "Karnataka", "Maharashtra"],
+      "q": "Which yogurt drink is commonly served alongside spicy Indian meals?",
+      "choices": [
+        "Lassi",
+        "Kefir",
+        "Ayran",
+        "Buttermilk"
+      ],
       "correct": 0,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bihar",
-        "verified": true,
-        "notes": "Litti = dough ball stuffed with sattu (roasted chickpea flour); chokha = mashed vegetables."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which fiery red curry from Rajasthan is also called 'jungle meat curry'?",
-      "choices": ["Vindaloo", "Rogan josh", "Jungli Maas", "Chettinad"],
+      "q": "What is the Indian flatbread cooked on a hot griddle (tava), often unleavened?",
+      "choices": [
+        "Chapati / Roti",
+        "Naan",
+        "Paratha",
+        "Pita"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the long-grain aromatic rice variety most associated with Indian biryani?",
+      "choices": [
+        "Basmati",
+        "Jasmine",
+        "Arborio",
+        "Carolina Gold"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which yellow spice gives turmeric tea, curry, and rice their characteristic color?",
+      "choices": [
+        "Saffron",
+        "Turmeric",
+        "Mustard",
+        "Annatto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Indian street snack is a deep-fried savory triangular pastry filled with spiced potatoes and peas?",
+      "choices": [
+        "Samosa",
+        "Pakora",
+        "Vada",
+        "Bhel puri"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Chana masala is a popular Indian dish made primarily from which legume?",
+      "choices": [
+        "Lentils",
+        "Chickpeas",
+        "Black beans",
+        "Kidney beans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient that gives butter chicken its distinctive creamy red sauce?",
+      "choices": [
+        "Coconut milk",
+        "Tomato puree",
+        "Cream and paprika",
+        "Red wine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Paneer, a popular Indian cheese, is unique because it does not require which common cheesemaking ingredient?",
+      "choices": [
+        "Salt",
+        "Rennet",
+        "Milk",
+        "Heat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Indian flatbread is traditionally cooked on a hot griddle called a 'tawa'?",
+      "choices": [
+        "Naan",
+        "Chapati",
+        "Poori",
+        "Dosa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Samosa is typically filled with a mixture of potatoes and which other main ingredient?",
+      "choices": [
+        "Chicken",
+        "Peas",
+        "Lentils",
+        "Cabbage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Biryani is a fragrant rice dish traditionally cooked using which cooking method?",
+      "choices": [
+        "Boiling",
+        "Stir-frying",
+        "Dum pukht (sealed cooking)",
+        "Grilling"
+      ],
       "correct": 2,
-      "category": "Indian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Rajasthan",
-        "verified": true,
-        "notes": "Lit. 'wild meat' — traditionally hunters' food, made with red chillies, salt, and ghee."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What clay-oven cooking style gives both naan and tandoori chicken their charred edges?",
-      "choices": ["Tandoor", "Kadhai", "Tava", "Chulha"],
+      "q": "Which South Indian state is known as the origin of the dish Avial, a vegetable curry?",
+      "choices": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Tandoori chicken gets its distinctive red color primarily from which spice?",
+      "choices": [
+        "Cumin",
+        "Paprika",
+        "Turmeric",
+        "Coriander"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dosa is a crispy South Indian crepe traditionally made from a batter of rice and which legume?",
+      "choices": [
+        "Chickpeas",
+        "Urad dal (black gram)",
+        "Chana dal",
+        "Masoor dal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary souring agent used in many Indian curries and chutneys?",
+      "choices": [
+        "Lime juice",
+        "Vinegar",
+        "Tamarind",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Lassi is a popular Indian yogurt-based beverage. What is often added to it for sweetness?",
+      "choices": [
+        "Honey",
+        "Sugar",
+        "Jaggery",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which aromatic herb is commonly used as a topping for Indian breads like naan and kulcha?",
+      "choices": [
+        "Mint",
+        "Cilantro",
+        "Basil",
+        "Parsley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Rajma, a staple North Indian dish, is made from which type of bean?",
+      "choices": [
+        "Black beans",
+        "Kidney beans",
+        "Pinto beans",
+        "Cannellini beans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Garam masala is a spice blend that typically includes which of the following?",
+      "choices": [
+        "Only chili peppers",
+        "Cinnamon, cardamom, and cloves",
+        "Only turmeric",
+        "Only cumin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary grain used to make maida flour, commonly used in Indian breads and sweets?",
+      "choices": [
+        "Corn",
+        "Wheat",
+        "Rice",
+        "Barley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dhokla, a steamed savory cake from Gujarat, is characteristically what color?",
+      "choices": [
+        "White",
+        "Yellow",
+        "Orange",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Indian fish curry from coastal regions is known for its use of coconut milk?",
+      "choices": [
+        "Rogan Josh",
+        "Korma",
+        "Fish Moilee",
+        "Vindaloo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Aloo tikki is a popular Indian snack shaped like what?",
+      "choices": [
+        "Spiral",
+        "Patty or disc",
+        "Triangle",
+        "Square"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Gulab jamun, a beloved Indian dessert, is typically soaked in which sweet liquid?",
+      "choices": [
+        "Honey",
+        "Sugar syrup",
+        "Coconut milk",
+        "Condensed milk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Aam ras is a sweet dish made from the pulp of which fruit?",
+      "choices": [
+        "Papaya",
+        "Guava",
+        "Mango",
+        "Pineapple"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Kheer, a beloved Indian dessert, is most similar to which Western creamy pudding?",
+      "choices": [
+        "Bread pudding",
+        "Rice pudding",
+        "Tapioca pudding",
+        "Chocolate mousse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many vegetables traditionally make up the 'gems' in Navratan Korma?",
+      "choices": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cooling dairy product is commonly served alongside spicy Indian curries to soothe the palate?",
+      "choices": [
+        "Milk",
+        "Buttermilk",
+        "Yogurt",
+        "Cream"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Batata vada is a popular snack made by deep-frying mashed which vegetable?",
+      "choices": [
+        "Cauliflower",
+        "Potato",
+        "Eggplant",
+        "Carrot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Paneer, the popular Indian cheese, is traditionally what color?",
+      "choices": [
+        "Yellow",
+        "Orange",
+        "White",
+        "Pale green"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Amritsari fish achieves its signature crispy texture through which cooking method?",
+      "choices": [
+        "Grilling",
+        "Steaming",
+        "Battered and frying",
+        "Roasting"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Bhatura, a North Indian bread specialty, puffs up during cooking through which method?",
+      "choices": [
+        "Toasting",
+        "Baking",
+        "Deep frying",
+        "Pan-searing"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Sandesh, a soft and sweet confection, is a specialty of which Indian region?",
+      "choices": [
+        "Punjab",
+        "Bengal",
+        "Karnataka",
+        "Goa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Sambar, a tangy lentil-based curry, originates from which South Indian state?",
+      "choices": [
+        "Karnataka",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Sarson da saag, a creamy leafy green dish, is a staple in which Indian region?",
+      "choices": [
+        "Gujarat",
+        "Punjab",
+        "Rajasthan",
+        "Himachal Pradesh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Avial, a colorful vegetable medley, is a traditional dish from which South Indian state?",
+      "choices": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Kundan Kalia, a royal lamb dish, is traditionally associated with which North Indian state?",
+      "choices": [
+        "Delhi",
+        "Punjab",
+        "Uttar Pradesh",
+        "Haryana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Panch Poran spice blend gets its name from containing how many individual spices?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Basmati and Ponni are varieties of which staple Indian grain?",
+      "choices": [
+        "Wheat",
+        "Lentil",
+        "Rice",
+        "Millet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Butter chicken derives its signature creamy sauce base from which ingredient?",
+      "choices": [
+        "Coconut milk",
+        "Tomato",
+        "Cream",
+        "Cashew paste"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Onion bhaji is a savory Indian appetizer made by deep-frying battered slices of which vegetable?",
+      "choices": [
+        "Bell pepper",
+        "Onion",
+        "Zucchini",
+        "Eggplant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Aloo tikki is a vegetable snack shaped like which item you might flip on a grill?",
+      "choices": [
+        "Skewers",
+        "Patties",
+        "Kabobs",
+        "Sticks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Jungli Maas, a spicy wild meat curry, originates from which desert region of India?",
+      "choices": [
+        "Gujarat",
+        "Rajasthan",
+        "Punjab",
+        "Haryana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Shrikhand, a creamy dessert, is traditionally served to celebrate the birthday of which Hindu deity?",
+      "choices": [
+        "Ganesha",
+        "Krishna",
+        "Shiva",
+        "Brahma"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kashmir region is known for preparing aromatic curries featuring whole spices and fruity flavor notes?",
+      "choices": [
+        "Ladakh",
+        "Kashmir valley",
+        "Jammu",
+        "Kargil"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Paneer, the popular Indian fresh cheese, is made without which ingredient that traditional cheeses typically require?",
+      "choices": [
+        "Rennet",
+        "Salt",
+        "Milk",
+        "Vinegar"
+      ],
       "correct": 0,
-      "category": "Indian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Indian Cuisine",
-        "verified": true,
-        "notes": "A tandoor reaches around 480°C / 900°F."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What creamy dairy product is traditionally served alongside spicy Indian curries to cool the palate?",
+      "choices": [
+        "Milk",
+        "Yoghurt",
+        "Ghee",
+        "Cream"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Aloo gobi, a classic vegetarian curry, combines potatoes with which other main vegetable?",
+      "choices": [
+        "Spinach",
+        "Cauliflower",
+        "Broccoli",
+        "Cabbage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which herb is commonly used as a garnish and topping for naan and kulcha breads?",
+      "choices": [
+        "Mint",
+        "Basil",
+        "Coriander",
+        "Parsley"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Onion bhaji is an Indian appetizer made by deep-frying which vegetable mixed with spiced batter?",
+      "choices": [
+        "Bell peppers",
+        "Onions",
+        "Potatoes",
+        "Carrots"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Aloo tikki is a popular Indian snack shaped like what item you'd typically use on a grill?",
+      "choices": [
+        "Skewer",
+        "Patty",
+        "Ring",
+        "Cube"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Avial, a colorful mixed vegetable curry, originates from which southern Indian state?",
+      "choices": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala",
+        "Andhra Pradesh"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Litti chokha, a rustic dough ball dish, is a traditional specialty of which Indian state?",
+      "choices": [
+        "Jharkhand",
+        "Bihar",
+        "Odisha",
+        "Madhya Pradesh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Batata vada is a crispy Indian snack with a soft, mashed filling made from which vegetable?",
+      "choices": [
+        "Eggplant",
+        "Potato",
+        "Sweet potato",
+        "Taro root"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Channa is the Indian name for which legume commonly used in curries and salads?",
+      "choices": [
+        "Lentils",
+        "Black beans",
+        "Chickpeas",
+        "Kidney beans"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Shrikhand is a silky Indian dessert made from yoghurt that has been strained to remove liquid. What is this process called?",
+      "choices": [
+        "Whipping",
+        "Churning",
+        "Straining",
+        "Curdling"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Kheer, a popular Indian dessert, is essentially India's version of which creamy Western pudding?",
+      "choices": [
+        "Bread pudding",
+        "Rice pudding",
+        "Chocolate pudding",
+        "Tapioca pudding"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Rabri is a thick, sweet condensed dairy product created by slow-cooking which ingredient?",
+      "choices": [
+        "Cream",
+        "Milk",
+        "Condensed milk",
+        "Yoghurt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Gobi paratha is a flatbread breakfast item that hides which vegetable filling inside its golden crust?",
+      "choices": [
+        "Spinach",
+        "Cauliflower",
+        "Potato",
+        "Peas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Peshwari naan is a variant of Indian flatbread that is stuffed with which sweet ingredients?",
+      "choices": [
+        "Dates and almonds",
+        "Coconut and raisins",
+        "Honey and nuts",
+        "Fruit and cream"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Butter chicken, also known as murgh makhani, became popular in Indian cuisine during which decade?",
+      "choices": [
+        "1930s",
+        "1950s",
+        "1970s",
+        "1990s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mattar paneer, a curry combining peas and fresh cheese, is traditionally associated with which Indian region?",
+      "choices": [
+        "Bengal",
+        "Punjab",
+        "Goa",
+        "South India"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Khaja is an Indian dessert prepared by which cooking method that creates its characteristic crispy texture?",
+      "choices": [
+        "Baking",
+        "Steaming",
+        "Deep frying",
+        "Boiling"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Rooh Afza is a popular Indian flavored drink concentrate known for its distinctive which color?",
+      "choices": [
+        "Green",
+        "Orange",
+        "Red",
+        "Pink"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Chicken tikka is traditionally finished with a sprinkle of which fresh green herb for color and flavor?",
+      "choices": [
+        "Mint",
+        "Parsley",
+        "Coriander",
+        "Dill"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Indian bread, traditionally stuffed with coconut and raisins, is essentially a sweet dessert in disguise?",
+      "choices": [
+        "Peshwari naan",
+        "Kulcha",
+        "Roti",
+        "Paratha"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Navratan Korma is a creamy vegetarian curry known for containing how many different vegetables?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient does paneer cheese notably skip during production, making it popular among vegetarians?",
+      "choices": [
+        "Milk",
+        "Rennet",
+        "Salt",
+        "Vinegar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Indian state is the spiritual home of Goan-Portuguese fusion cuisine?",
+      "choices": [
+        "Goa",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 16th-century empire is largely credited with codifying north-Indian dishes like biryani and kebabs?",
+      "choices": [
+        "The Mughal Empire",
+        "The Maurya Empire",
+        "The Delhi Sultanate",
+        "The Marathas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fermented Indian-Pakistani spice blend, prominent in tikka, includes Kashmiri red chili?",
+      "choices": [
+        "Tandoori masala",
+        "Chana masala",
+        "Sambar masala",
+        "Panch phoron"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pop quiz: 'paneer' literally translates from Persian as what?",
+      "choices": [
+        "Cheese",
+        "Cow",
+        "Vegetable",
+        "Cream"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Panipuri, the street snack beloved across India, is traditionally filled with which legume-based preparation?",
+      "choices": [
+        "Moong sprouts and tamarind water",
+        "Boiled chickpeas and mint chutney",
+        "Roasted gram flour and yogurt",
+        "Lentil paste and coconut milk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Mughlai culinary tradition, which cooking technique involving slow-cooking in a sealed vessel derives its name from a Persian word meaning 'closed pot'?",
+      "choices": [
+        "Tandoor",
+        "Dum pukht",
+        "Bhunao",
+        "Tawa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tempering, or tadka, in South Indian cuisine typically begins with heating ghee or oil and adding which spice first?",
+      "choices": [
+        "Mustard seeds",
+        "Asafoetida",
+        "Fenugreek seeds",
+        "Nigella seeds"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chhena, the fresh cheese used extensively in Bengali sweets like rasgulla, is made by curdling milk with which acidic agent?",
+      "choices": [
+        "White vinegar",
+        "Lemon juice",
+        "Citric acid powder",
+        "All of the above produce identical results"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which regional Indian cuisine features the spice blend 'Sambhar masala' as a foundational element?",
+      "choices": [
+        "Gujarati",
+        "Tamil Nadu",
+        "Rajasthani",
+        "Kashmiri"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ayurvedic principle of 'Rasa' in food classification refers to which aspect of taste?",
+      "choices": [
+        "The temperature at which food is served",
+        "The six fundamental taste categories",
+        "The nutritional value per serving",
+        "The regional origin of ingredients"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Idiyappam, a South Indian breakfast staple, is traditionally made by pressing rice flour dough through which device?",
+      "choices": [
+        "A mortar and pestle",
+        "A specialized press with small holes",
+        "A grinding stone",
+        "A clay mold"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Kashmiri cuisine, 'Wazwan' is a ceremonial feast that traditionally includes how many courses?",
+      "choices": [
+        "Seven",
+        "Nine",
+        "Twelve",
+        "Fifteen"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Jaggery, or gur, traditionally used in Indian sweets and savory dishes, is produced through the crystallization of which plant's juice?",
+      "choices": [
+        "Coconut palm",
+        "Date palm",
+        "Sugar cane",
+        "Bamboo palm"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The spice 'Asafoetida' or 'hing' comes from the dried resin of which plant's root?",
+      "choices": [
+        "Ferula assafoetida",
+        "Cuminum cyminum",
+        "Zingiber officinale",
+        "Piper nigrum"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Maharashtrian cuisine, 'Chikhalwali' or 'Chakli' is a spiral-shaped savory snack made from which flour base?",
+      "choices": [
+        "Wheat flour",
+        "Rice flour and urad flour",
+        "Gram flour",
+        "Semolina"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The cooling beverage 'Thandai' traditionally prepared for Holi festival contains which ground nut or seed as its primary ingredient?",
+      "choices": [
+        "Almonds and cashews",
+        "Poppy seeds",
+        "Sesame seeds",
+        "Watermelon seeds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lachha paratha, a layered flatbread from North India, achieves its flaky texture through the technique of folding in which fat?",
+      "choices": [
+        "Vegetable oil",
+        "Butter",
+        "Ghee",
+        "Coconut oil"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of Indian cuisine, 'Kachumber' salad traditionally includes tomatoes, cucumbers, and which other primary ingredient?",
+      "choices": [
+        "Bell peppers",
+        "Onions",
+        "Radishes",
+        "Carrots"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The spice blend 'Garam masala' translates to which term in English?",
+      "choices": [
+        "Ground spices",
+        "Hot spices",
+        "Sweet spices",
+        "Fragrant spices"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mishti doi, a sweet yogurt dessert from Bengal, traditionally uses which sweetening agent to achieve its distinctive flavor?",
+      "choices": [
+        "White sugar",
+        "Jaggery",
+        "Honey",
+        "Dates"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hyderabadi biryani traditionally uses which long-grain rice variety as its preferred rice?",
+      "choices": [
+        "Basmati",
+        "Sona masuri",
+        "Gobindobhog",
+        "Basmati or sella rice"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chikhalwali or Murukku, a spiral snack from South India, is traditionally deepfried to achieve its crispness and then seasoned with which spice?",
+      "choices": [
+        "Black pepper and salt",
+        "Asafoetida and salt",
+        "Chili powder and turmeric",
+        "Cumin and coriander"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Odia cuisine, 'Khichdi' is prepared with rice and which pulse?",
+      "choices": [
+        "Moong dal",
+        "Urad dal",
+        "Masoor dal",
+        "Chana dal"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The traditional spice blend 'Panch Puran' or 'Panch Poron' from Eastern India contains five seeds, which notably excludes which common Indian spice?",
+      "choices": [
+        "Black pepper",
+        "Turmeric",
+        "Cumin seeds",
+        "Coriander seeds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tandoori cooking in Indian cuisine traditionally uses which type of clay oven?",
+      "choices": [
+        "Bhatti",
+        "Tandoor",
+        "Sigdi",
+        "Chulha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Keralan spice-trade port city gave its name to a peppery curry style featuring fish or meat?",
+      "choices": [
+        "Kochi",
+        "Mattancherry",
+        "Kozhikode",
+        "Cochin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical Indian culinary philosophy, what is the name of the sour taste classification?",
+      "choices": [
+        "Amla",
+        "Khatta",
+        "Amba",
+        "Teekha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lachcha paratha is distinguished by its multiple layers created through which technique?",
+      "choices": [
+        "Folding and rolling with ghee",
+        "Layering with oil between dough sheets",
+        "Braiding the dough strands",
+        "Pressing with a grooved mold"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Kashmiri cooking technique involves slow-cooking meat with aromatic spices in a sealed pot buried in coals?",
+      "choices": [
+        "Dum pukht",
+        "Handi method",
+        "Deg roasting",
+        "Sealing technique"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Amchur, a souring agent used extensively in North Indian cuisine, is made from which dried fruit?",
+      "choices": [
+        "Dried lime",
+        "Dried mango",
+        "Dried tamarind",
+        "Dried pomegranate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Bengali cuisine, which fermented rice cake is traditionally prepared during winter months?",
+      "choices": [
+        "Pitha",
+        "Puttu",
+        "Puri",
+        "Poori"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Garam masala's heat comes primarily from which three spices in most traditional blends?",
+      "choices": [
+        "Clove, cardamom, and cinnamon",
+        "Black pepper, clove, and cinnamon",
+        "Cumin, coriander, and black pepper",
+        "Cardamom, nutmeg, and bay leaf"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South Indian fermented rice and lentil dish requires a specific ratio of 3:1 rice to lentils by weight?",
+      "choices": [
+        "Idli",
+        "Dosa",
+        "Uttapam",
+        "Appam"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rogan josh, a Persian-influenced meat curry, derives its name from two words meaning 'oil' and which other term?",
+      "choices": [
+        "Heat",
+        "Perfume",
+        "Fragrance",
+        "Spice"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Indian culinary text, attributed to Vatsyayana, discusses food preparation and pairing?",
+      "choices": [
+        "Charaka Samhita",
+        "Kama Sutra",
+        "Arthashastra",
+        "Manusmriti"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chettinad cuisine from Tamil Nadu is traditionally prepared in stone vessels lined with which mineral?",
+      "choices": [
+        "Clay",
+        "Salt",
+        "Grit",
+        "Ash"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pulse, known as 'moong' in Hindi, is the primary ingredient in Indian mung bean sprouts and dal?",
+      "choices": [
+        "Green gram",
+        "Mung bean",
+        "Vigna radiata",
+        "All of the above are correct"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Naan bread traditionally brushed with 'maida' contains which ingredient for its characteristic shine?",
+      "choices": [
+        "Egg white",
+        "Butter or ghee",
+        "Milk",
+        "Honey water"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gajar halwa's rich orange color and sweetness come from prolonged reduction with which dairy product?",
+      "choices": [
+        "Cream",
+        "Condensed milk",
+        "Milk",
+        "Paneer whey"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Odia cuisine, which steamed rice and lentil cake served with sambhar is the breakfast staple?",
+      "choices": [
+        "Idli",
+        "Dosa",
+        "Khichiyu",
+        "Poha"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Saoji, a meat curry from Maharashtra, gains its distinctive flavor from roasting and grinding which spice blend?",
+      "choices": [
+        "Goda masala",
+        "Saoji masala",
+        "Maharashtrian masala",
+        "Roasted spice paste"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Indian spice was so valuable that it served as currency in Kerala's trade routes during medieval times?",
+      "choices": [
+        "Black pepper",
+        "Cardamom",
+        "Clove",
+        "Nutmeg"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Modak, a Maharashtrian sweet dumpling steamed in a cylindrical mold, traditionally contains which filling ingredient?",
+      "choices": [
+        "Jaggery and coconut",
+        "Jaggery and sesame",
+        "Jaggery and peanuts",
+        "Jaggery and lentils"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which technique used in preparing Hyderabadi biryani involves layering partially cooked rice with meat, then sealing and cooking in its own steam?",
+      "choices": [
+        "Dum pukht method",
+        "Handi method",
+        "Sealing technique",
+        "Layering method"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pesarattu, a savory crepe popular in Andhra Pradesh, traditionally uses which legume as its primary flour base?",
+      "choices": [
+        "Chickpea flour",
+        "Mung bean flour",
+        "Lentil flour",
+        "Black gram flour"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Goan cuisine, which Portuguese-influenced dish features pork marinated in vinegar and spices, creating a distinctive preservation method?",
+      "choices": [
+        "Xacuti",
+        "Sorpotel",
+        "Balchao",
+        "Vindaloo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chole bhature gains its characteristic fluffy texture from which chemical leavening agent used in the dough?",
+      "choices": [
+        "Baking powder only",
+        "Yeast and baking soda",
+        "Eggs and baking powder",
+        "Self-rising flour"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Litti chokha, a rustic Bihari specialty, traditionally uses which roasted grain as a primary filling component?",
+      "choices": [
+        "Barley",
+        "Sattu (roasted chickpea flour)",
+        "Millet",
+        "Buckwheat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In South Indian cuisine, which fermentation process is essential for creating the characteristic tanginess in idli and dosa batters?",
+      "choices": [
+        "Lactic acid fermentation",
+        "Acetic acid fermentation",
+        "Alcohol fermentation",
+        "Mold-based fermentation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sukha halwa, a dry sweetmeat from Gujarat, derives its texture from the caramelization of which primary ingredient?",
+      "choices": [
+        "Rice flour",
+        "Semolina (suji)",
+        "Chickpea flour",
+        "Wheat flour"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ambli, a traditional Maharashtrian souring agent used in curries, is made by fermenting which grain?",
+      "choices": [
+        "Rice and urad dal",
+        "Bajra and salt",
+        "Jowar and water",
+        "Barley and spices"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thepla, a spiced flatbread from Gujarat, traditionally incorporates which vegetable for both flavor and color?",
+      "choices": [
+        "Spinach",
+        "Fenugreek leaves (methi)",
+        "Curry leaves",
+        "Cilantro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Hyderabadi biryani preparation, what is the primary method of cooking rice and meat together to develop the signature flavor?",
+      "choices": [
+        "Slow steaming in sealed pot (dum pukht)",
+        "Pressure cooking",
+        "Boiling then baking",
+        "Pan-frying then simmering"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Appam, a lacy rice pancake from Kerala, achieves its characteristic fermented flavor through which traditional method?",
+      "choices": [
+        "Adding yogurt and salt",
+        "Overnight fermentation of rice and coconut batter",
+        "Using yeast starter",
+        "Adding toddy or fermented rice water"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tandoori cooking, a method originating in Punjab, traditionally uses a clay oven heated to approximately which temperature range?",
+      "choices": [
+        "200-250°C",
+        "300-350°C",
+        "400-450°C",
+        "500-550°C"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Malai kofta, a North Indian vegetable dumpling, typically contains which grated vegetable as its primary binding ingredient?",
+      "choices": [
+        "Potato and paneer",
+        "Cauliflower and cheese",
+        "Carrot and cottage cheese",
+        "Zucchini and cream"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Uttapam, a South Indian savory cake, differs from dosa in preparation by being cooked as which style of batter?",
+      "choices": [
+        "Thick pancake with toppings",
+        "Thin crepe without filling",
+        "Steamed cake",
+        "Deep-fried puff"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Undhiyu, a festive Gujarati vegetable dish, is traditionally cooked in which type of underground or enclosed vessel?",
+      "choices": [
+        "Clay pot buried in earth",
+        "Sealed metal container",
+        "Bamboo steamer",
+        "Stone-lined pit"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rogan josh, a Kashmiri meat curry, derives its characteristic color and flavor from which aromatic ingredient?",
+      "choices": [
+        "Turmeric and chili",
+        "Saffron and cardamom",
+        "Cloves and cinnamon",
+        "Fennel and nutmeg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Murgh makhani was first developed in the 1950s by combining tandoori chicken with which creamy tomato-based sauce?",
+      "choices": [
+        "Paneer cream sauce",
+        "Yogurt tomato reduction",
+        "Butter and tomato gravy with cream",
+        "Coconut tomato curry"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Khichdi, a comfort rice and lentil dish, achieves its therapeutic properties in Ayurvedic medicine through which balance of qualities?",
+      "choices": [
+        "Balancing vata and pitta",
+        "Cooling and grounding properties",
+        "All three doshas (vata, pitta, kapha)",
+        "Heating and stimulating effects"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Peralan, a traditional Tamil Nadu dessert, is made by combining jaggery with which grain that has been roasted and powdered?",
+      "choices": [
+        "Millet and sesame",
+        "Rice and coconut",
+        "Sesame and rice",
+        "Wheat and sunflower seeds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Langcha, a sweet from West Bengal, is made by combining which protein-rich dairy product with a sugar syrup?",
+      "choices": [
+        "Paneer and condensed milk",
+        "Chhena (fresh cheese) and jaggery syrup",
+        "Ricotta and honey",
+        "Khoya and caramel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Gur ki kheer, a Rajasthani dessert, traditionally uses jaggery instead of sugar and is thickened with which grain?",
+      "choices": [
+        "Rice flour",
+        "Semolina",
+        "Broken wheat (daliya)",
+        "Tapioca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chettinad cuisine, originating from Tamil Nadu, is known for its bold use of which ingredient that gives dishes their characteristic deep color and intense flavor?",
+      "choices": [
+        "Black cardamom",
+        "Black pepper",
+        "Black cumin",
+        "Black mustard seeds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dhokla, the steamed savory cake popular in Gujarat, traditionally gets its light, spongy texture from which fermentation agent?",
+      "choices": [
+        "Yogurt and baking soda",
+        "Yeast and vinegar",
+        "Chickpea flour and lime juice",
+        "Urad dal and ginger paste"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Wazwan, the elaborate multi-course feast from Kashmir, traditionally features which cooking method as its hallmark preparation technique?",
+      "choices": [
+        "Clay oven roasting",
+        "Slow cooking in sealed copper vessels",
+        "Underground pit cooking",
+        "Tandoor smoking"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kokum, a souring agent commonly used in coastal Indian cuisine, comes from which part of the kokum tree native to the Western Ghats?",
+      "choices": [
+        "The fruit rind",
+        "The bark",
+        "The seed pods",
+        "The leaves"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bisibelebath, a rice dish from Karnataka, derives its name from a Kannada phrase meaning 'hot rice.' Which ingredient gives it its signature pungent flavor?",
+      "choices": [
+        "Asafoetida",
+        "Fenugreek seeds",
+        "Curry leaves",
+        "Tamarind extract"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Hyderabadi biryani preparation, the meat and rice are layered in a sealed pot—a technique called dum pukht. Approximately how long does this slow-cooking process typically last?",
+      "choices": [
+        "15-20 minutes",
+        "30-45 minutes",
+        "1.5-2 hours",
+        "3-4 hours"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Indian creamy chicken dish, popular in the UK, is made with tomato, butter, and cream?",
+      "choices": [
+        "Chicken Tikka Masala",
+        "Butter Chicken (Murgh Makhani)",
+        "Vindaloo",
+        "Korma"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian rice dish layers seasoned meat or vegetables with fragrant rice?",
+      "choices": [
+        "Biryani",
+        "Pilau",
+        "Risotto",
+        "Paella"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Goan vindaloo is a fiery curry made with vinegar, garlic, and which type of meat traditionally?",
+      "choices": [
+        "Pork",
+        "Lamb",
+        "Chicken",
+        "Fish"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which lentil-based stew is a staple across India?",
+      "choices": [
+        "Dal",
+        "Saag",
+        "Bhindi",
+        "Aloo gobi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which yogurt-based curry from Maharashtra and Karnataka uses chickpea flour?",
+      "choices": [
+        "Kadhi",
+        "Korma",
+        "Khichdi",
+        "Rasam"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is 'paneer' in Indian cuisine?",
+      "choices": [
+        "Fresh, mild, non-melting cheese",
+        "A type of bread",
+        "A spicy chutney",
+        "A lentil dish"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cylindrical clay oven is used to make tandoori chicken and naan?",
+      "choices": [
+        "Tandoor",
+        "Kadai",
+        "Tawa",
+        "Handi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which sweet, syrupy dessert is made from deep-fried milk solids soaked in sugar syrup?",
+      "choices": [
+        "Gulab jamun",
+        "Jalebi",
+        "Rasgulla",
+        "Kheer"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately what percentage of India's population is vegetarian (one of the world's highest)?",
+      "choices": [
+        "10%",
+        "20%",
+        "30%",
+        "50%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which kind of milky tea, brewed with spices like cardamom and cinnamon, is a staple of India?",
+      "choices": [
+        "Masala chai",
+        "Genmaicha",
+        "Pu'erh",
+        "Earl Grey"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which thin, crispy fermented rice-and-lentil pancake is popular in South India?",
+      "choices": [
+        "Dosa",
+        "Idli",
+        "Uttapam",
+        "Vada"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian flatbread from Rajasthan is traditionally baked on hot stones and is known for its hard, round shape?",
+      "choices": [
+        "Bhakri",
+        "Bajra Roti",
+        "Papadum",
+        "Khichdi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the traditional preparation of Keema, which green vegetable is commonly cooked together with the minced meat?",
+      "choices": [
+        "Spinach",
+        "Peas",
+        "Green beans",
+        "Broccoli"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Apong, a fermented alcoholic beverage from Northeast India, is primarily made from which grain?",
+      "choices": [
+        "Wheat",
+        "Barley",
+        "Rice",
+        "Millet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Dhokla, a popular steamed snack from Gujarat, is characteristically known for which color?",
+      "choices": [
+        "Orange",
+        "Yellow",
+        "Green",
+        "White"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Batata Vada, a crispy fried snack from Maharashtra, has a soft filling made from which vegetable?",
+      "choices": [
+        "Tomato",
+        "Eggplant",
+        "Potato",
+        "Pumpkin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mysore Pak, a fudgy sweet delicacy, originated in which century?",
+      "choices": [
+        "18th century",
+        "19th century",
+        "20th century",
+        "21st century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the natural color of paneer, the most widely used fresh cheese in Indian cooking?",
+      "choices": [
+        "Yellow",
+        "Orange",
+        "White",
+        "Light brown"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Parippu, a creamy lentil dish from Kerala, is traditionally simmered in which tropical liquid?",
+      "choices": [
+        "Almond milk",
+        "Coconut milk",
+        "Cashew cream",
+        "Rice milk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Butter Chicken derives its distinctive color and flavor from which key ingredient in its sauce?",
+      "choices": [
+        "Turmeric",
+        "Tomato",
+        "Pomegranate",
+        "Beet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Indian cuisine, which dairy product is traditionally served alongside spicy curries to cool the palate?",
+      "choices": [
+        "Ghee",
+        "Milk",
+        "Yogurt",
+        "Buttermilk"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Badam Milk, a traditional sweet beverage, is primarily made from the milk and extract of which nut?",
+      "choices": [
+        "Cashew",
+        "Walnut",
+        "Almond",
+        "Pistachio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sarson da Saag, a creamy leafy dish, is a regional staple primarily from which Indian state?",
+      "choices": [
+        "Himachal Pradesh",
+        "Punjab",
+        "Uttarakhand",
+        "Haryana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sambar, a tangy and spiced lentil-based curry with vegetables, originates from which South Indian state?",
+      "choices": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Karnataka",
+        "Telangana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Aloo Tikki, a popular street food, is a fried patty primarily made from which vegetable?",
+      "choices": [
+        "Cauliflower",
+        "Carrot",
+        "Potato",
+        "Beetroot"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rabri, a thick and creamy sweetened reduction, is traditionally made by slowly cooking which ingredient?",
+      "choices": [
+        "Cream",
+        "Condensed milk",
+        "Whole milk",
+        "Evaporated milk"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kheer, India's traditional rice pudding dessert, is flavored with which aromatic addition?",
+      "choices": [
+        "Saffron and cardamom",
+        "Vanilla and nutmeg",
+        "Cinnamon alone",
+        "Clove only"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tandoori cooking, a method of roasting in a clay oven, traditionally originates from which region?",
+      "choices": [
+        "South India",
+        "West India",
+        "North India",
+        "East India"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In traditional Indian cuisine, which spice is known for its warm, slightly sweet flavor and bright yellow color?",
+      "choices": [
+        "Coriander",
+        "Turmeric",
+        "Cumin",
+        "Fenugreek"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Dosa, a crispy South Indian crepe, is primarily made from fermented batter of rice and which legume?",
+      "choices": [
+        "Chickpea",
+        "Urad lentil",
+        "Pea",
+        "Bean"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the traditional Indian dish Aloo Gobi, potatoes are paired with which cruciferous vegetable?",
+      "choices": [
+        "Broccoli",
+        "Cauliflower",
+        "Cabbage",
+        "Brussels sprouts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bisi Bele Bath, a beloved South Indian rice dish, combines rice with which legume as its primary protein?",
+      "choices": [
+        "Chickpeas",
+        "Lentils",
+        "Black beans",
+        "Kidney beans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many individual spices are traditionally included in the Bengali tempering blend known as Panch Poron?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Shahi Korma, a Mughal-inspired curry, traditionally includes which rich ingredient to create its signature creamy texture?",
+      "choices": [
+        "Yogurt",
+        "Cream",
+        "Coconut milk",
+        "Ghee"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mysore Pak, a traditional Indian fudge dessert with royal origins, was first created in which century?",
+      "choices": [
+        "18th century",
+        "19th century",
+        "20th century",
+        "21st century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mattar Paneer, a vegetarian dish featuring peas and cottage cheese, is particularly iconic to which Indian region?",
+      "choices": [
+        "Bengal",
+        "Punjab",
+        "Tamil Nadu",
+        "Gujarat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sambar, a tangy lentil-based vegetable curry with South Indian roots, originates from which state?",
+      "choices": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Karnataka",
+        "Kerala"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sarson da Saag, a mustard greens preparation beloved in winter, is a traditional dish from which North Indian region?",
+      "choices": [
+        "Haryana",
+        "Punjab",
+        "Himachal Pradesh",
+        "Uttar Pradesh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Peshwari Naan, a type of Indian flatbread, is traditionally stuffed with which sweet ingredients?",
+      "choices": [
+        "Almonds and honey",
+        "Coconut and raisins",
+        "Dates and cardamom",
+        "Pistachios and sugar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Batata Vada, a popular Indian fritter snack, has a soft interior made primarily from which vegetable?",
+      "choices": [
+        "Eggplant",
+        "Potato",
+        "Chickpea flour",
+        "Onion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Hindu dietary philosophy, foods are traditionally categorized into how many distinct categories?",
+      "choices": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pesara Dosa, a South Indian crepe, replaces the typical rice batter with a batter made from which legume?",
+      "choices": [
+        "Lentils",
+        "Chickpeas",
+        "Mung beans",
+        "Black-eyed peas"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Amritsari Fish, a Punjabi preparation, achieves its distinctive crispy exterior through which cooking method?",
+      "choices": [
+        "Grilling",
+        "Baking",
+        "Battered and frying",
+        "Steaming"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Butter Chicken, also known as Murgh Makhani, became prominent in Indian cuisine during which decade?",
+      "choices": [
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jalfrezi, a stir-fried curry dish, characteristically includes which ingredient for heat and texture?",
+      "choices": [
+        "Dried red chilies",
+        "Fresh green chilies",
+        "Chili powder",
+        "Chili flakes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sandesh, a soft and creamy sweet confection, is particularly beloved in which region of India?",
+      "choices": [
+        "Rajasthan",
+        "Bengal",
+        "Maharashtra",
+        "Goa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Saunth, a traditional Indian chutney with sweet and spicy notes, is made using which dried fruit?",
+      "choices": [
+        "Tamarind",
+        "Dates",
+        "Prunes",
+        "Apricots"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jackfruit Papadum, a crispy wafer incorporating tropical fruit, is a specialty of which Southern state?",
+      "choices": [
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Originally, Vindaloo curry was prepared exclusively with which type of meat in Portuguese-influenced Indian cuisine?",
+      "choices": [
+        "Chicken",
+        "Beef",
+        "Pork",
+        "Lamb"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rooh Afza, a traditional Indian beverage, is characterized by which color?",
+      "choices": [
+        "Green",
+        "Red",
+        "Yellow",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which lentil is traditionally used as the primary protein in the South Indian dish Sambar?",
+      "choices": [
+        "Chana dal",
+        "Toor dal",
+        "Masoor dal",
+        "Moong dal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tandoori cooking gets its characteristic smoky flavor from cooking in which type of oven?",
+      "choices": [
+        "Clay barrel oven",
+        "Brick oven",
+        "Metal drum oven",
+        "Stone pit oven"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Bengali sweet Sandesh is primarily made from which dairy product?",
+      "choices": [
+        "Condensed milk",
+        "Paneer cheese",
+        "Cream cheese",
+        "Cottage cheese"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In traditional Indian cuisine, what is the main binding ingredient in most chutneys besides the primary vegetable or fruit?",
+      "choices": [
+        "Yogurt",
+        "Coconut",
+        "Oil",
+        "Gram flour"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Biryani, the layered rice dish, is believed to have originated during which empire's reign?",
+      "choices": [
+        "Maurya Empire",
+        "Mughal Empire",
+        "British Raj",
+        "Gupta Empire"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spice, commonly used in Indian cooking, is actually the dried stigmas of a flower?",
+      "choices": [
+        "Turmeric",
+        "Saffron",
+        "Fenugreek",
+        "Asafoetida"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The dish Chole Bhature originates from which region of India?",
+      "choices": [
+        "Bengal",
+        "North India",
+        "South India",
+        "Western India"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary grain used to make the South Indian breakfast dish Uppma?",
+      "choices": [
+        "Rice",
+        "Semolina",
+        "Wheat",
+        "Millet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Indian cuisine, what is the purpose of tempering (tadka) oil with spices?",
+      "choices": [
+        "To reduce cooking time",
+        "To infuse flavor into the dish",
+        "To preserve the food",
+        "To reduce the spice heat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian sweet is made by reducing milk to a thick consistency and is often flavored with cardamom?",
+      "choices": [
+        "Burfi",
+        "Rabri",
+        "Halwa",
+        "Laddu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Feni, the alcoholic beverage from Goa, is traditionally distilled from which fruit?",
+      "choices": [
+        "Grapes",
+        "Cashew apples",
+        "Coconut",
+        "Mango"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The spice blend called Garam Masala typically includes which of these as a base ingredient?",
+      "choices": [
+        "Chili peppers",
+        "Cumin seeds",
+        "Ginger",
+        "Garlic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Appam, a lacy pancake from Kerala, is made primarily from fermented batter of which grain?",
+      "choices": [
+        "Wheat",
+        "Rice",
+        "Millet",
+        "Barley"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which vegetable is the star ingredient in the Maharashtrian dish Batata Vada when breaded and fried?",
+      "choices": [
+        "Eggplant",
+        "Potato",
+        "Onion",
+        "Tomato"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Indian cooking, Ghee is clarified butter made by removing which component?",
+      "choices": [
+        "Water and milk solids",
+        "Oil and spices",
+        "Salt and impurities",
+        "Cream and fat"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Maharashtrian snack Chakli gets its distinctive spiral shape by using which kitchen tool?",
+      "choices": [
+        "Piping bag",
+        "Chakli maker",
+        "Whisk",
+        "Rolling pin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pav Bhaji, a popular street food, originated in which city known for its mill culture?",
+      "choices": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore",
+        "Chennai"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The souring agent historically used in Indian cooking before lime became common was which ingredient?",
+      "choices": [
+        "Vinegar",
+        "Tamarind",
+        "Pomegranate",
+        "Amchur"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Idli, the steamed South Indian cake, requires fermentation of a batter made from rice and which legume?",
+      "choices": [
+        "Chana dal",
+        "Urad dal",
+        "Toor dal",
+        "Moong dal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

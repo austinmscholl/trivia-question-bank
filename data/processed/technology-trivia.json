@@ -1,273 +1,3241 @@
 {
   "slug": "technology-trivia",
   "name": "Technology",
-  "description": "Tech companies, the internet, gadgets, and cryptocurrency",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.747Z",
   "questions": [
     {
-      "q": "Who co-founded Apple Inc. alongside Steve Jobs in 1976?",
-      "choices": ["Bill Gates", "Ronald Wayne", "Steve Wozniak", "Paul Allen"],
+      "q": "The numbering system with a radix of 16 is more commonly referred to as ",
+      "choices": [
+        "Octal",
+        "Binary",
+        "Hexidecimal",
+        "Duodecimal"
+      ],
       "correct": 2,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Steve Wozniak",
-        "verified": true,
-        "notes": "Wozniak designed the Apple I and Apple II; Ronald Wayne was a short-lived third co-founder."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who founded Microsoft with Paul Allen in 1975?",
-      "choices": ["Bill Gates", "Steve Ballmer", "Satya Nadella", "Larry Ellison"],
-      "correct": 0,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bill Gates",
-        "verified": true,
-        "notes": "Originally called 'Micro-Soft'."
-      }
-    },
-    {
-      "q": "Which South African-born entrepreneur founded both SpaceX and Tesla?",
-      "choices": ["Jeff Bezos", "Elon Musk", "Peter Thiel", "Larry Page"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Tesla",
-        "verified": true,
-        "notes": "Founded SpaceX in 2002; joined Tesla as an early investor and later CEO."
-      }
-    },
-    {
-      "q": "What is the name of the first decentralized cryptocurrency, launched in 2009?",
-      "choices": ["Litecoin", "Ethereum", "Bitcoin", "Dogecoin"],
-      "correct": 2,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bitcoin",
-        "verified": true,
-        "notes": "Launched in January 2009 by the pseudonymous Satoshi Nakamoto."
-      }
-    },
-    {
-      "q": "Who founded the online retailer Amazon.com in 1994?",
-      "choices": ["Jeff Bezos", "Mark Zuckerberg", "Jack Ma", "Michael Dell"],
-      "correct": 0,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Jeff Bezos",
-        "verified": true,
-        "notes": "Originally started from Bezos's garage in Bellevue, Washington."
-      }
-    },
-    {
-      "q": "In Windows applications, what does the keyboard shortcut Ctrl + C do?",
-      "choices": ["Cut", "Paste", "Copy", "Close"],
-      "correct": 2,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Copy",
-        "verified": true,
-        "notes": "Ctrl+X = Cut, Ctrl+V = Paste, Ctrl+Z = Undo."
-      }
-    },
-    {
-      "q": "Who co-founded Google with Larry Page while the two were Stanford PhD students?",
-      "choices": ["Eric Schmidt", "Sergey Brin", "Sundar Pichai", "Marissa Mayer"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Sergey Brin",
-        "verified": true,
-        "notes": "Incorporated Google in 1998 out of a garage in Menlo Park."
-      }
-    },
-    {
-      "q": "Atari released which iconic arcade tennis video game in 1972?",
-      "choices": ["Breakout", "Pong", "Asteroids", "Space Invaders"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pong",
-        "verified": true,
-        "notes": "One of the earliest commercially successful video games."
-      }
-    },
-    {
-      "q": "Who founded Facebook from his Harvard dorm room in 2004?",
-      "choices": ["Dustin Moskovitz", "Eduardo Saverin", "Chris Hughes", "Mark Zuckerberg"],
+      "q": "What does the term USB stand for?",
+      "choices": [
+        "Unified Signal Bus",
+        "Universal Simtex Blot",
+        "Unityped Semtex Backer",
+        "Universal Serial Bus"
+      ],
       "correct": 3,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Facebook",
-        "verified": true,
-        "notes": "Co-founded with Eduardo Saverin, Dustin Moskovitz, Chris Hughes, and Andrew McCollum."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Bitcoin was launched by an individual or group operating under which pseudonym?",
-      "choices": ["Anonymous", "Craig Wright", "Hal Finney", "Satoshi Nakamoto"],
+      "q": "What programming language was GitHub written in?",
+      "choices": [
+        "Python",
+        "Lua",
+        "JavaScript",
+        "Ruby"
+      ],
       "correct": 3,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Satoshi Nakamoto",
-        "verified": true,
-        "notes": "True identity has never been confirmed."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Reed Hastings co-founded which streaming service in 1997 with Marc Randolph?",
-      "choices": ["Hulu", "Netflix", "Spotify", "Disney+"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Marc Randolph",
-        "verified": true,
-        "notes": "Started as a DVD-by-mail business in Scotts Valley, California."
-      }
-    },
-    {
-      "q": "The hugely popular mobile game 'Angry Birds' was created in which country?",
-      "choices": ["Sweden", "Finland", "Germany", "Japan"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Finland",
-        "verified": true,
-        "notes": "Developed by Rovio Entertainment in Espoo, Finland; released 2009."
-      }
-    },
-    {
-      "q": "Amazon, which was founded in 1994, is headquartered in which U.S. state?",
-      "choices": ["California", "Washington", "Texas", "New York"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Washington",
-        "verified": true,
-        "notes": "Seattle-based; moved to the South Lake Union neighborhood in 2010."
-      }
-    },
-    {
-      "q": "What does the acronym 'BSoD' stand for in the context of Microsoft Windows errors?",
-      "choices": ["Black Screen of Death", "Blue Screen of Death", "Broken System of Death", "Backup System on Demand"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Blue",
-        "verified": true,
-        "notes": "Occurs after a fatal system error in Windows."
-      }
-    },
-    {
-      "q": "Google is owned by which parent holding company, created during a 2015 restructuring?",
-      "choices": ["Alphabet", "Meta", "Calico", "Nest"],
+      "q": "What is the name of Layer 7 of the OSI model?",
+      "choices": [
+        "Application",
+        "Network",
+        "Present",
+        "Session"
+      ],
       "correct": 0,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "Alphabet Inc. became the parent of Google in October 2015."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The protocol underlying Bitcoin caps the total number of bitcoins that can ever exist at approximately what number?",
-      "choices": ["1 million", "21 million", "100 million", "1 billion"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "21 million",
-        "verified": true,
-        "notes": "Expected to be fully mined around the year 2140."
-      }
-    },
-    {
-      "q": "A file with the extension .mp3 contains what type of content?",
-      "choices": ["Image", "Audio", "Video", "Document"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Sound",
-        "verified": true,
-        "notes": "Compressed audio format developed by the Fraunhofer Society."
-      }
-    },
-    {
-      "q": "YouTube was founded in 2005 by Chad Hurley, Steve Chen, and which third co-founder?",
-      "choices": ["Jawed Karim", "Jan Koum", "Kevin Systrom", "Brian Chesky"],
-      "correct": 0,
-      "category": "Technology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Jawed Karim",
-        "verified": true,
-        "notes": "Karim uploaded the first-ever YouTube video, 'Me at the zoo', in April 2005."
-      }
-    },
-    {
-      "q": "Which messaging service did Jan Koum and Brian Acton co-found before selling it to Facebook in 2014?",
-      "choices": ["Telegram", "WhatsApp", "Signal", "Viber"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "WhatsApp",
-        "verified": true,
-        "notes": "Facebook paid approximately $19 billion for WhatsApp."
-      }
-    },
-    {
-      "q": "Which Swedish entrepreneur co-founded the music streaming service Spotify in 2006?",
-      "choices": ["Niklas Zennström", "Daniel Ek", "Sebastian Siemiatkowski", "Markus Persson"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Spotify",
-        "verified": true,
-        "notes": "Co-founded with Martin Lorentzon."
-      }
-    },
-    {
-      "q": "Which blockchain platform introduced the concept of programmable 'smart contracts'?",
-      "choices": ["Bitcoin", "Ethereum", "Litecoin", "Cardano"],
-      "correct": 1,
-      "category": "Technology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ethereum",
-        "verified": true,
-        "notes": "Proposed by Vitalik Buterin in 2013; went live in 2015."
-      }
-    },
-    {
-      "q": "After leaking classified NSA documents in 2013, whistleblower Edward Snowden ultimately took refuge in which country?",
-      "choices": ["Ecuador", "Cuba", "Russia", "Venezuela"],
+      "q": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+      "choices": [
+        "1024",
+        "512",
+        "1000",
+        "500"
+      ],
       "correct": 2,
-      "category": "Technology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Russia",
-        "verified": true,
-        "notes": "Granted asylum; received Russian citizenship in 2022."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "When Gmail first launched, how much storage did it provide for your email?",
+      "choices": [
+        "512MB",
+        "Unlimited",
+        "5GB",
+        "1GB"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In networking, what does OSPF stand for?",
+      "choices": [
+        "Order Sense Ping Find",
+        "Open Signal Path Finder",
+        "Order State Part First",
+        "Open Shortest Path First"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does GHz stand for?",
+      "choices": [
+        "Gigahetz",
+        "Gigahertz",
+        "Gigahatz",
+        "Gigahotz"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does LTS stand for in the software market?",
+      "choices": [
+        "Ludicrous Turbo Speed",
+        "Ludicrous Transfer Speed",
+        "Long Taco Service",
+        "Long Term Support"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Electron computer was released in Britain during 1983 for the home computing market, by which company? ",
+      "choices": [
+        "Acorn Computers",
+        "Sinclair Research",
+        "Amstrad PLC",
+        "Commodore Business Machines"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In computing, what does MIDI stand for?",
+      "choices": [
+        "Modular Interface of Digital Instruments",
+        "Musical Instrument Data Interface",
+        "Musical Interface of Digital Instruments",
+        "Musical Instrument Digital Interface"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "choices": [
+        "Atari",
+        "Commodore",
+        "Microsoft",
+        "Apple"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In any programming language, what is the most common way to iterate through an array?",
+      "choices": [
+        "'Do-while' loops",
+        "'While' loops",
+        "'If' Statements",
+        "'For' loops"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which SQL keyword is used to fetch data from a database?",
+      "choices": [
+        "VALUES",
+        "EXEC",
+        "INDEX",
+        "SELECT"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "If you were to code software in this language you'd only be able to type 0's and 1's.",
+      "choices": [
+        "Python",
+        "JavaScript",
+        "C++",
+        "Binary"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many bits are commonly in a single byte?",
+      "choices": [
+        "Six bits",
+        "Eight bits",
+        "Twelve bits",
+        " Fifteen bits"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the \"MP\" stand for in MP3?",
+      "choices": [
+        "Multi Pass",
+        "Music Player",
+        "Moving Picture",
+        "Micro Point"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the domain name for the country Tuvalu?",
+      "choices": [
+        ".tu",
+        ".tv",
+        ".tt",
+        ".tl"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Color model CMYK stands for?",
+      "choices": [
+        "Cyan, Magenta, Yellow, and Khaki",
+        "Cyan, Magenta, Yellow, and Black",
+        "Cream, Maroon, Yellow, and Black",
+        "Cream, Maroon, Yellow, and Khaki"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How long is an IPv6 address?",
+      "choices": [
+        "128 bits",
+        "128 bytes",
+        "64 bits",
+        "32 bits"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+      "choices": [
+        "HD Graphics 500",
+        "HD Graphics 7000",
+        "HD Graphics 700 ",
+        "HD Graphics 600"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+      "choices": [
+        "Hard Disk Drive",
+        "Motherboard",
+        "Central Processing Unit",
+        "Random Access Memory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the code name for the mobile operating system Android 7.0?",
+      "choices": [
+        "Marshmallow",
+        "Ice Cream Sandwich",
+        "Nougat",
+        "Jelly Bean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?",
+      "choices": [
+        "Dollar Sign",
+        "Percent Sign",
+        "Asterisk",
+        "Exclamation Mark"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What kind of memory is used on memory cache?",
+      "choices": [
+        "Flash",
+        "SRAM",
+        "DRAM",
+        "ROM"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many kilobytes in one gigabyte (in decimal)?",
+      "choices": [
+        "1000000",
+        "1024",
+        "1048576",
+        "1000"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What language does Node.js use?",
+      "choices": [
+        "Java",
+        "Java Source",
+        "Joomla Source Code",
+        "JavaScript"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does CPU stand for?",
+      "choices": [
+        "Computer Personal Unit",
+        "Central Processing Unit",
+        "Central Processor Unit",
+        "Central Process Unit"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Windows OS was delevoped by which company?",
+      "choices": [
+        "Nokia",
+        "IBM",
+        "Microsoft",
+        "Apple"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The C programming language was created by this American computer scientist. ",
+      "choices": [
+        "Willis Ware",
+        "Dennis Ritchie",
+        "al-Khwārizmī",
+        "Tim Berners Lee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most preferred image format used for logos in the Wikimedia database?",
+      "choices": [
+        ".gif",
+        ".svg",
+        ".png",
+        ".jpeg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "This mobile OS held the largest market share in 2012.",
+      "choices": [
+        "BlackBerry",
+        "Symbian",
+        "Android",
+        "iOS"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On Twitter, what was the original character limit for a Tweet?",
+      "choices": [
+        "140",
+        "160",
+        "120",
+        "100"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the computer software acronym JVM stand for?",
+      "choices": [
+        "Java Virtual Machine",
+        "Just Virtual Machine",
+        "Java Visual Machine",
+        "Java Vendor Machine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In computing, how many bits are in a nibble?",
+      "choices": [
+        "32",
+        "4",
+        "16",
+        "2"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which programming language shares its name with an island in Indonesia?",
+      "choices": [
+        "Java",
+        "C",
+        "Jakarta",
+        "Python"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?",
+      "choices": [
+        "Alt + C",
+        "Ctrl + C",
+        "Ctrl + X",
+        "Alt + X"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In web design, what does CSS stand for?",
+      "choices": [
+        "Computer Style Sheet",
+        "Corrective Style Sheet",
+        "Counter Strike: Source",
+        "Cascading Style Sheet"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many values can a single byte represent?",
+      "choices": [
+        "1",
+        "256",
+        "8",
+        "1024"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What amount of bits commonly equals one byte?",
+      "choices": [
+        "2",
+        "64",
+        "1",
+        "8"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
+      "choices": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The programming language 'Swift' was created to replace what other programming language?",
+      "choices": [
+        "C#",
+        "C++",
+        "Ruby",
+        "Objective-C"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?",
+      "choices": [
+        "Final",
+        "Private",
+        "Public",
+        "Static"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the Prt Sc button do?",
+      "choices": [
+        "Nothing",
+        "Captures what's on the screen and copies it to your clipboard",
+        "Saves a .png file of what's on the screen in your screenshots folder in photos",
+        "Closes all windows"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "HTML is what type of language?",
+      "choices": [
+        "Programming Language",
+        "Macro Language",
+        "Scripting Language",
+        "Markup Language"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which computer language would you associate Django framework with?",
+      "choices": [
+        "Java",
+        "C#",
+        "Python",
+        "C++"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In computing, what does LAN stand for?",
+      "choices": [
+        "Land Address Navigation",
+        "Light Access Node",
+        "Long Antenna Node",
+        "Local Area Network"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does SSD stand for?",
+      "choices": [
+        "Solid State Drive",
+        "Solid State Disk",
+        "Solution Source Disk",
+        "Source Solution Drive"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does SSD stand for in the context of computer storage?",
+      "choices": [
+        "Software Storage Device",
+        "Secure System Disk",
+        "Super Speed Data",
+        " Solid State Drive"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The term \"battery\" to describe an electrical storage device was coined by?",
+      "choices": [
+        " Alessandro Volta",
+        "Nikola Tesla",
+        "Luigi Galvani",
+        "Benjamin Franklin"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+      "choices": [
+        "Innovation",
+        "Courage",
+        "Bravery",
+        "Revolution"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the SI unit for resistance?",
+      "choices": [
+        "Ampheres",
+        "Siemens",
+        "Ohms",
+        "Volts"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of a simple machine that is made up of a stiff arm that can move freely around a fixed point?",
+      "choices": [
+        "Pulley",
+        "Lever",
+        "Wedge",
+        "Screw"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the DVD invented?",
+      "choices": [
+        "1990",
+        "1980",
+        "2000",
+        "1995"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When did the CD begin to appear on the consumer market?",
+      "choices": [
+        "1992",
+        "1982",
+        "1962",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the Tamagotchi digital pet released?",
+      "choices": [
+        "1990",
+        "1996",
+        "1989",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which gaming console is developed by Sony?",
+      "choices": [
+        "Atari",
+        "PlayStation",
+        "Xbox",
+        "Nintendo Switch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does GPS stand for?",
+      "choices": [
+        "General Personal Satellite",
+        "General Positioning System",
+        "Global Positioning System",
+        "Global Personal System"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the iPhone released?",
+      "choices": [
+        "2004",
+        "2006",
+        "2005",
+        "2007"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which virtual assistant is developed by Amazon?",
+      "choices": [
+        "Siri",
+        "Google Assistant",
+        "Alexa",
+        "Cortana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is not a type of computer mouse?",
+      "choices": [
+        "Trackball mouse",
+        "Smoothie mouse",
+        "Drum mouse",
+        "Optical mouse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What round is a classic AK-47 chambered in?",
+      "choices": [
+        "5.56x45mm",
+        "7.62x39mm",
+        "5.45x39mm",
+        "7.62x51mm"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the web browser developed by Google?",
+      "choices": [
+        "Firefox",
+        "Chrome",
+        "Safari",
+        "Edge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company developed the Android operating system?",
+      "choices": [
+        "Apple",
+        "Microsoft",
+        "Google",
+        "Samsung"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the acronym 'USB' stand for?",
+      "choices": [
+        "Universal Serial Bus",
+        "Universal System Board",
+        "Unified Service Block",
+        "Ultra-speed Binary"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the iPhone first released?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Microsoft's personal computer operating system released in 1985?",
+      "choices": [
+        "Windows",
+        "DOS",
+        "OS/2",
+        "Xenix"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tech company is known for its logo featuring a bitten apple?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Samsung"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'HTML' stand for in web development?",
+      "choices": [
+        "Hypertext Markup Language",
+        "High-Tech Modern Language",
+        "Home Tool Markup Language",
+        "Hyperlink and Text Markup Language"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company founded by Mark Zuckerberg is a major social media platform?",
+      "choices": [
+        "Twitter",
+        "Instagram",
+        "Facebook",
+        "Snapchat"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the small picture or symbol displayed on a computer screen called?",
+      "choices": [
+        "Cursor",
+        "Icon",
+        "Widget",
+        "Button"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes software that is free to use and can be modified by users?",
+      "choices": [
+        "Freeware",
+        "Shareware",
+        "Open Source",
+        "Donationware"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for unwanted electronic messages, typically sent in bulk?",
+      "choices": [
+        "Phishing",
+        "Spam",
+        "Malware",
+        "Trojan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'RAM' stand for in computer memory?",
+      "choices": [
+        "Random Access Memory",
+        "Rapid Application Memory",
+        "Read-Only Access Module",
+        "Reusable Application Memory"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which technology allows devices to connect wirelessly over short distances?",
+      "choices": [
+        "WiFi",
+        "Bluetooth",
+        "Ethernet",
+        "4G"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the video sharing platform founded by Steve Chen, Chad Hurley, and Jawed Karim?",
+      "choices": [
+        "Vimeo",
+        "YouTube",
+        "Dailymotion",
+        "Metacafe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes a person who gains unauthorized access to computer systems?",
+      "choices": [
+        "Programmer",
+        "Hacker",
+        "Coder",
+        "Developer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these is a popular email service provided by Google?",
+      "choices": [
+        "Outlook",
+        "Gmail",
+        "Yahoo Mail",
+        "ProtonMail"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a digital wallet that stores cryptocurrency?",
+      "choices": [
+        "Bank Account",
+        "Ledger",
+        "Wallet",
+        "Exchange"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company produces the PlayStation gaming console?",
+      "choices": [
+        "Microsoft",
+        "Nintendo",
+        "Sony",
+        "Sega"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tech company uses the slogan 'Think Different'?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Sony",
+        "Samsung"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the portable music player released by Apple in 2001?",
+      "choices": [
+        "iPod",
+        "iPad",
+        "iPhone",
+        "iTouch"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which social media platform was founded by Mark Zuckerberg?",
+      "choices": [
+        "Twitter",
+        "Snapchat",
+        "Facebook",
+        "TikTok"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Microsoft's web browser released in 2015?",
+      "choices": [
+        "Internet Explorer",
+        "Chrome",
+        "Edge",
+        "Firefox"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company manufactures the GeForce graphics processing units?",
+      "choices": [
+        "AMD",
+        "Intel",
+        "NVIDIA",
+        "Qualcomm"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a malicious software program designed to disrupt computer operations called?",
+      "choices": [
+        "Antivirus",
+        "Malware",
+        "Firewall",
+        "Encryption"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which streaming service is known for producing original content like 'Stranger Things'?",
+      "choices": [
+        "Hulu",
+        "Disney+",
+        "Netflix",
+        "HBO Max"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the maximum number of bits in a standard IPv4 address?",
+      "choices": [
+        "16 bits",
+        "32 bits",
+        "64 bits",
+        "128 bits"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company produces the Ryzen line of processors?",
+      "choices": [
+        "Intel",
+        "ARM",
+        "AMD",
+        "Qualcomm"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does USB stand for?",
+      "choices": [
+        "Universal Serial Bus",
+        "Ultra Standard Binary",
+        "Unified System Block",
+        "Universal Software Bundle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company manufactures the PlayStation gaming console?",
+      "choices": [
+        "Microsoft",
+        "Nintendo",
+        "Sony",
+        "Sega"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for a portable computer designed for mobile computing?",
+      "choices": [
+        "Workstation",
+        "Laptop",
+        "Server",
+        "Mainframe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which video conferencing platform became widely popular during the COVID-19 pandemic?",
+      "choices": [
+        "Skype",
+        "Zoom",
+        "Discord",
+        "Google Meet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Amazon's virtual voice assistant?",
+      "choices": [
+        "Cortana",
+        "Siri",
+        "Alexa",
+        "Google Assistant"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tech company is known for its search engine that processes billions of queries daily?",
+      "choices": [
+        "Yahoo",
+        "Bing",
+        "Google",
+        "DuckDuckGo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the open-source software that powers most websites on the internet?",
+      "choices": [
+        "IIS",
+        "Apache",
+        "Nginx",
+        "Tomcat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company created the After Effects software used for visual effects and motion graphics?",
+      "choices": [
+        "Adobe",
+        "Autodesk",
+        "DaVinci",
+        "Blender"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the International System of Quantities refer 1024 bytes as?",
+      "choices": [
+        "Kylobyte",
+        "Kilobyte",
+        "Kelobyte",
+        "Kibibyte"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these is not a layer in the OSI model for data communications?",
+      "choices": [
+        "Transport Layer",
+        "Physical Layer",
+        "Connection Layer",
+        "Application Layer"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What major programming language does Unreal Engine 4 use?",
+      "choices": [
+        "C++",
+        "Assembly",
+        "ECMAScript",
+        "C#"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is the oldest of these computers by release date?",
+      "choices": [
+        "TRS-80",
+        "Apple 3",
+        "ZX Spectrum",
+        "Commodore 64"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the security vulnerability found in Bash in 2014?",
+      "choices": [
+        "Heartbleed",
+        "Stagefright",
+        "Bashbug",
+        "Shellshock"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the process that sends one qubit of information using two bits of classical information?",
+      "choices": [
+        "Quantum Programming",
+        "Quantum Teleportation",
+        "Super Dense Coding",
+        "Quantum Entanglement"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these names was an actual codename for a cancelled Microsoft project?",
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Pollux",
+        "Enceladus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who is the founder of Palantir?",
+      "choices": [
+        "Jack Dorsey",
+        "Mark Zuckerberg",
+        "Peter Thiel",
+        "Marc Benioff"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these is not a key value of Agile software development?",
+      "choices": [
+        "Individuals and interactions",
+        "Customer collaboration",
+        "Responding to change",
+        "Comprehensive documentation"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following computer components can be built using only NAND gates?",
+      "choices": [
+        "CPU",
+        "ALU",
+        "RAM",
+        "Register"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which RAID array type is associated with data mirroring?",
+      "choices": [
+        "RAID 10",
+        "RAID 5",
+        "RAID 1",
+        "RAID 0"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Hz does the video standard PAL support?",
+      "choices": [
+        "50",
+        "59",
+        "60",
+        "25"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What internet protocol was documented in RFC 1459?",
+      "choices": [
+        "IRC",
+        "HTTPS",
+        "HTTP",
+        "FTP"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Harvard architecture for micro-controllers added which additional bus?",
+      "choices": [
+        "Address",
+        "Instruction",
+        "Data",
+        "Control"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The acronym \"RIP\" stands for which of these?",
+      "choices": [
+        "Regular Interval Processes",
+        "Routing Information Protocol",
+        "Routine Inspection Protocol",
+        "Runtime Instance Processes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+      "choices": [
+        "Micronesia",
+        "Marshall Islands",
+        "Tuvalu",
+        "Fiji"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?",
+      "choices": [
+        "Coffee Lake",
+        "Skylake",
+        "Broadwell",
+        "Sandy Bridge"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first company to use the term \"Golden Master\"?",
+      "choices": [
+        "Apple",
+        "Google",
+        "Microsoft",
+        "IBM"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
+      "choices": [
+        "Cheetah",
+        "Puma",
+        "Leopard",
+        "Tiger"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+      "choices": [
+        "Cherry MX Red",
+        "Cherry MX Brown",
+        "Cherry MX Black",
+        "Cherry MX Blue"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+      "choices": [
+        "Data link",
+        "Network",
+        "Session",
+        "Transport"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following physical typologies are used with Ethernet Networks?",
+      "choices": [
+        "Star",
+        "Ring",
+        "Hex",
+        "Mesh"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+      "choices": [
+        "Broken Authentication",
+        "Injection ",
+        "Cross-Site Scripting",
+        "Insecure Direct Object References"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+      "choices": [
+        "1999",
+        "2005",
+        "2008",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Australia, Japan, and Southeast Asia are in which ITU Region?",
+      "choices": [
+        "Region 1",
+        "Region 3",
+        "Region 2",
+        "Region 4"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:",
+      "choices": [
+        "AB' + AB",
+        "A'B'",
+        "A'B + B'A",
+        "A' + B'"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+      "choices": [
+        "Game Maker",
+        "Construct",
+        "Torque 2D",
+        "Stencyl"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which kind of algorithm is Ron Rivest not famous for creating?",
+      "choices": [
+        "Stream cipher",
+        "Asymmetric encryption",
+        "Secret sharing scheme",
+        "Hashing algorithm"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+      "choices": [
+        "Shellscript",
+        "Corrupted Blood",
+        "Shellshock",
+        "Heartbleed"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the first Bulgarian personal computer?",
+      "choices": [
+        "Pravetz 8D",
+        "IMKO-1",
+        "IZOT 1030",
+        "Pravetz 82"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum value of a 32-bit signed binary integer?",
+      "choices": [
+        "9,223,372,036,854,775,807",
+        "2,147,483,647",
+        "2048",
+        "255"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who is the original author of the realtime physics engine called PhysX?",
+      "choices": [
+        "NovodeX",
+        "Ageia",
+        "AMD",
+        "Nvidia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of sound chip does the Super Nintendo Entertainment System (SNES) have?",
+      "choices": [
+        "Programmable Sound Generator (PSG)",
+        "ADPCM Sampler",
+        "PCM Sampler",
+        "FM Synthesizer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which data structure does FILO apply to?",
+      "choices": [
+        "Tree",
+        "Queue",
+        "Stack",
+        "Heap"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "America Online (AOL) started out as which of these online service providers?",
+      "choices": [
+        "GEnie",
+        "CompuServe",
+        "Prodigy",
+        "Quantum Link"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who invented the \"Spanning Tree Protocol\"?",
+      "choices": [
+        "Michael Roberts",
+        "Paul Vixie",
+        "Radia Perlman",
+        "Vint Cerf"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is NOT a computer science algorithm?",
+      "choices": [
+        "Bubble Sort",
+        "Merge Sort",
+        "Float Sort",
+        "Quick Sort"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What port does HTTP run on?",
+      "choices": [
+        "53",
+        "80",
+        "23",
+        "443"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "CMOS is tech used for constructing integrated circuits. What does CMOS stand for?",
+      "choices": [
+        "Computer-made operating system",
+        "Computer-made oscillating static",
+        "Complementary magnetic-ohms-semiconductor",
+        "Complementary metal–oxide–semiconductor"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is used to measure blood pressure?",
+      "choices": [
+        "Haemoerythrometer",
+        "Ruler",
+        "Sphygmomanometer",
+        "Barometer"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is the standard THX subwoofer crossover frequency?",
+      "choices": [
+        "100 Hz",
+        "70 Hz",
+        "80 Hz",
+        "90 Hz"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which round does a WW2 M1 Garand fire?",
+      "choices": [
+        "7.62x51mm",
+        ".30-06",
+        "7.62",
+        ".308"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who built the first laser?",
+      "choices": [
+        "Jack Kilby",
+        "Theodore Harold Maiman",
+        "Nikola Tesla",
+        "Edith Clarke"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following cellular device companies is NOT headquartered in Asia?",
+      "choices": [
+        "HTC",
+        "Nokia",
+        "Samsung",
+        "LG Electronics"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the distributed consensus algorithm used by Bitcoin to validate transactions and secure the network?",
+      "choices": [
+        "Proof of Stake",
+        "Proof of Work",
+        "Delegated Proof of Authority",
+        "Proof of History"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary function of a reverse proxy server in network architecture?",
+      "choices": [
+        "To cache user data on local machines",
+        "To intercept and forward client requests to backend servers while hiding their identities",
+        "To encrypt all outgoing traffic",
+        "To manage user authentication credentials"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In cryptography, what does the RSA algorithm's name derive from?",
+      "choices": [
+        "Russian Security Administration",
+        "The surnames of Rivest, Shamir, and Adleman",
+        "Rapid Symmetric Algorithm",
+        "Royal Standards Authority"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the open-source hypertext markup language specification maintained by the Web Hypertext Application Technology Working Group?",
+      "choices": [
+        "XHTML 2.0",
+        "HTML5",
+        "SGML",
+        "XML Schema"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which semiconductor process technology node was first commercially deployed by Taiwan Semiconductor Manufacturing Company in 2004?",
+      "choices": [
+        "90 nanometers",
+        "65 nanometers",
+        "45 nanometers",
+        "32 nanometers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the JavaScript runtime environment built on Chrome's V8 engine, created by Ryan Dahl in 2009?",
+      "choices": [
+        "Deno",
+        "Node.js",
+        "Electron",
+        "NW.js"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In database architecture, what does ACID stand for?",
+      "choices": [
+        "Asynchronous, Coherent, Isolated, Durable",
+        "Atomicity, Consistency, Isolation, Durability",
+        "Authorization, Certification, Integration, Distribution",
+        "Abstraction, Caching, Indexing, Duplication"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What protocol did Secure Shell (SSH) replace for secure remote administration of network devices?",
+      "choices": [
+        "FTP",
+        "Telnet",
+        "SMTP",
+        "DNS"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mobile operating system was developed by Google and is based on the Linux kernel?",
+      "choices": [
+        "iOS",
+        "Windows Phone",
+        "Android",
+        "Blackberry OS"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the decentralized finance protocol that uses automated market makers for token swapping?",
+      "choices": [
+        "Compound Finance",
+        "Uniswap",
+        "MakerDAO",
+        "Aave"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In graphics processing, what does CUDA stand for?",
+      "choices": [
+        "Computer Unified Data Architecture",
+        "Compute Unified Device Architecture",
+        "Central Unit Data Accelerator",
+        "Concurrent Unified Distributed Array"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which virtualization hypervisor is the open-source component of Red Hat's virtualization platform?",
+      "choices": [
+        "VirtualBox",
+        "Hyper-V",
+        "KVM",
+        "Xen"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the containerization platform that uses images and containers to package applications?",
+      "choices": [
+        "Kubernetes",
+        "Docker",
+        "Vagrant",
+        "OpenStack"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In machine learning, what is the primary purpose of a convolutional neural network?",
+      "choices": [
+        "Processing sequential time-series data",
+        "Extracting features from spatial data like images",
+        "Clustering unlabeled data points",
+        "Generating natural language text"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the quantum computing framework developed by Google for designing and simulating quantum circuits?",
+      "choices": [
+        "Qiskit",
+        "ProjectQ",
+        "Cirq",
+        "PyQuil"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company developed the RISC-V instruction set architecture?",
+      "choices": [
+        "ARM Holdings",
+        "UC Berkeley",
+        "Intel",
+        "MIPS Technologies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the CAP theorem state about distributed systems?",
+      "choices": [
+        "All three properties—Consistency, Availability, and Partition tolerance—can be simultaneously achieved",
+        "Only two of three properties can be guaranteed: Consistency, Availability, or Partition tolerance",
+        "Distributed systems must prioritize Confidentiality, Authentication, and Privacy",
+        "Caching, Allocation, and Pipelining determine system performance"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In software development, what pattern allows an object to alter its behavior when its internal state changes?",
+      "choices": [
+        "Observer Pattern",
+        "Strategy Pattern",
+        "State Pattern",
+        "Decorator Pattern"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum theoretical throughput of a USB 3.0 connection?",
+      "choices": [
+        "480 Mbps",
+        "5 Gbps",
+        "10 Gbps",
+        "20 Gbps"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the cryptographic protocol that replaced SSL and is used to secure web communications?",
+      "choices": [
+        "HTTPS",
+        "TLS",
+        "SSH",
+        "IPSec"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which algorithm, developed by Ron Rivest, Adi Shamir, and Leonard Adleman in 1977, is widely used for public-key cryptography?",
+      "choices": [
+        "DES",
+        "AES",
+        "RSA",
+        "Blowfish"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for a distributed network architecture where data is stored across multiple nodes without a central authority?",
+      "choices": [
+        "Peer-to-peer",
+        "Client-server",
+        "Blockchain",
+        "Cloud computing"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company developed the CUDA architecture for parallel computing on graphics processing units?",
+      "choices": [
+        "AMD",
+        "Intel",
+        "NVIDIA",
+        "Qualcomm"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the vulnerability assessment framework that rates software flaws on a scale from 0 to 10?",
+      "choices": [
+        "OWASP Top 10",
+        "CVSS",
+        "CWE",
+        "NVD"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which programming language was created by Guido van Rossum and first released in 1991?",
+      "choices": [
+        "Ruby",
+        "Python",
+        "Perl",
+        "Java"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the practice of breaking a software system into independently deployable services that communicate via APIs?",
+      "choices": [
+        "Monolithic architecture",
+        "Microservices",
+        "Serverless computing",
+        "Edge computing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which university is credited with inventing the World Wide Web through Tim Berners-Lee in 1989?",
+      "choices": [
+        "Stanford University",
+        "MIT",
+        "CERN",
+        "University of Cambridge"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the standardized notation used to define database schemas in relational databases?",
+      "choices": [
+        "Entity-Relationship Model",
+        "SQL Syntax",
+        "JSON Schema",
+        "NoSQL Design"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cryptographic hash function, published by NIST in 2001, produces a 256-bit hash value?",
+      "choices": [
+        "MD5",
+        "SHA-1",
+        "SHA-256",
+        "RIPEMD-160"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the principle in security that restricts user access to only the minimum necessary resources to perform their role?",
+      "choices": [
+        "Defense in depth",
+        "Least privilege",
+        "Zero trust",
+        "Role-based access"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company developed the Kubernetes container orchestration platform and open-sourced it in 2014?",
+      "choices": [
+        "Docker",
+        "Google",
+        "Red Hat",
+        "VMware"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for a type of malware that encrypts a victim's files and demands payment for decryption?",
+      "choices": [
+        "Trojan",
+        "Spyware",
+        "Ransomware",
+        "Adware"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which protocol, standardized as IEEE 802.11, defines the specifications for wireless local area networks?",
+      "choices": [
+        "Bluetooth",
+        "Wi-Fi",
+        "Zigbee",
+        "NFC"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the software testing technique that analyzes program execution by providing random or invalid inputs?",
+      "choices": [
+        "Unit testing",
+        "Fuzzing",
+        "Integration testing",
+        "Regression testing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which computational complexity class represents problems that can be verified in polynomial time but may not be solvable in polynomial time?",
+      "choices": [
+        "P",
+        "NP",
+        "NP-hard",
+        "EXPTIME"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the version control system created by Linus Torvalds in 2005 for Linux kernel development?",
+      "choices": [
+        "Mercurial",
+        "Subversion",
+        "Git",
+        "Perforce"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company created the Apache Spark framework for large-scale data processing and analytics?",
+      "choices": [
+        "Facebook",
+        "Berkeley AMPLab at UC Berkeley",
+        "Netflix",
+        "Amazon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the architectural pattern where a single version of an application serves multiple customers with isolated data?",
+      "choices": [
+        "Multi-tier architecture",
+        "Multi-tenancy",
+        "Sharding",
+        "Replication"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which symmetric encryption algorithm, developed by Joan Daemen and Vincent Rijmen, was selected as the Advanced Encryption Standard?",
+      "choices": [
+        "Twofish",
+        "Serpent",
+        "Rijndael",
+        "CAST-256"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the cryptographic hash function that produces a 256-bit output and is used as the backbone of Bitcoin's proof-of-work algorithm?",
+      "choices": [
+        "SHA-1",
+        "SHA-256",
+        "MD5",
+        "BLAKE2"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which programming language was created by Guido van Rossum and released in 1991, emphasizing code readability through significant whitespace?",
+      "choices": [
+        "Python",
+        "Ruby",
+        "Perl",
+        "Lua"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the maximum amount of data that can be transmitted over a network connection in a given time period?",
+      "choices": [
+        "Latency",
+        "Bandwidth",
+        "Throughput",
+        "Jitter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2009, which open-source relational database management system became the default database for WordPress installations?",
+      "choices": [
+        "PostgreSQL",
+        "MySQL",
+        "MariaDB",
+        "SQLite"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the vulnerability class where an attacker injects malicious code into a web application through user input fields?",
+      "choices": [
+        "Cross-Site Scripting",
+        "SQL Injection",
+        "Buffer Overflow",
+        "Race Condition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company developed the WebGL standard for rendering 3D graphics within web browsers without requiring plugins?",
+      "choices": [
+        "Mozilla Foundation",
+        "Khronos Group",
+        "Google",
+        "Microsoft"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the lightweight, open-source JavaScript runtime environment designed for server-side execution, created by Ryan Dahl in 2009?",
+      "choices": [
+        "Node.js",
+        "Deno",
+        "Electron",
+        "NW.js"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of machine learning, what is the term for the unwanted phenomenon where a model learns the training data too well, including its noise and peculiarities?",
+      "choices": [
+        "Underfitting",
+        "Overfitting",
+        "Bias",
+        "Variance Shift"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the network protocol introduced by Vint Cerf and Bob Kahn in 1974 that serves as the foundation for all internet communication?",
+      "choices": [
+        "HTTP",
+        "TCP/IP",
+        "DNS",
+        "SMTP"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which semiconductor manufacturer produced the Snapdragon processor series, widely used in Android smartphones and mobile devices?",
+      "choices": [
+        "MediaTek",
+        "Samsung Exynos",
+        "Qualcomm",
+        "Apple"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the distributed version control system created by Linus Torvalds in 2005 for Linux kernel development?",
+      "choices": [
+        "Subversion",
+        "Mercurial",
+        "Git",
+        "Perforce"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In quantum computing, what is the quantum analog of a classical bit called?",
+      "choices": [
+        "Qubit",
+        "Qunit",
+        "Quantom",
+        "Qstate"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the architectural pattern in software design where a large monolithic application is decomposed into small, loosely coupled services?",
+      "choices": [
+        "Service-Oriented Architecture",
+        "Microservices",
+        "Layered Architecture",
+        "Event-Driven Architecture"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which open-source container platform, released by Docker in 2013, revolutionized application deployment and management?",
+      "choices": [
+        "Kubernetes",
+        "Docker",
+        "Vagrant",
+        "LXC"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the consensus mechanism used by Ethereum that was transitioned from proof-of-work to this energy-efficient alternative in September 2022?",
+      "choices": [
+        "Proof-of-Authority",
+        "Proof-of-Stake",
+        "Proof-of-History",
+        "Proof-of-Space"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In computer graphics, what is the technique called that simulates the interaction of light with surfaces to produce photorealistic images?",
+      "choices": [
+        "Rasterization",
+        "Ray Tracing",
+        "Z-Buffering",
+        "Texture Mapping"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How fast is USB 3.1 Gen 2 theoretically?",
+      "choices": [
+        "8 Gb/s",
+        "1 Gb/s",
+        "10 Gb/s",
+        "5 Gb/s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many Apple I personal computers were created?",
+      "choices": [
+        "1000",
+        "100",
+        "200",
+        "500"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these programming languages is a low-level language?",
+      "choices": [
+        "Python",
+        "Pascal",
+        "Assembly",
+        "C#"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the term MIME stand for, in regards to computing?",
+      "choices": [
+        "Multipurpose Interleave Mail Exchange",
+        "Mail Internet Mail Exchange",
+        "Multipurpose Internet Mail Extensions",
+        "Mail Interleave Method Exchange"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first Android version specifically optimized for tablets?",
+      "choices": [
+        "Honeycomb",
+        "Froyo",
+        "Eclair",
+        "Marshmellow"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name given to Android 4.3?",
+      "choices": [
+        "Nutella",
+        "Froyo",
+        "Jelly Bean",
+        "Lollipop"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Moore's law originally stated that the number of transistors on a microprocessor chip would double every...",
+      "choices": [
+        "Four Years",
+        "Eight Years",
+        "Year",
+        "Two Years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of the image that features as the default background wallpaper for Windows XP?",
+      "choices": [
+        "Azul",
+        "Tulips",
+        "Red moon desert",
+        "Bliss"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+      "choices": [
+        "Motorola 68000",
+        "Zilog Z80",
+        "Intel 8088",
+        "Yamaha YM2612"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was the programming language \"C#\" released?",
+      "choices": [
+        "2001",
+        "1999",
+        "1998",
+        "2000"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many bits make up the significand portion of a single precision floating point number?",
+      "choices": [
+        "8",
+        "15",
+        "23",
+        "53"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the 'S' in the RSA encryption algorithm stand for?",
+      "choices": [
+        "Shamir",
+        "Stable",
+        "Secure",
+        "Schottky"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is known as \"the brain\" of the Computer?",
+      "choices": [
+        "Central Processing Unit",
+        "Keyboard",
+        "Graphics Processing Unit",
+        "Motherboard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In computing terms, typically what does CLI stand for?",
+      "choices": [
+        "Common Language Interface",
+        "Command Line Interface",
+        "Common Language Input",
+        "Control Line Interface"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many bytes are in a single Kibibyte?",
+      "choices": [
+        "1240",
+        "1024",
+        "2400",
+        "1000"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Bitcoin's block size limit in 2010?",
+      "choices": [
+        "1 KB",
+        "1GB",
+        "1 TB",
+        "1 MB"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first commerically available computer processor?",
+      "choices": [
+        "TMS 1000",
+        "AMD AM386",
+        "Intel 4004",
+        "Intel 486SX"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does AD stand for in relation to Windows Operating Systems? ",
+      "choices": [
+        "Active Directory",
+        "Automated Database",
+        "Alternative Drive",
+        "Active Department"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which one of these is not an official development name for a Ubuntu release?",
+      "choices": [
+        "Utopic Unicorn",
+        "Mystic Mansion",
+        "Trusty Tahr",
+        "Wily Werewolf"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": ".rs is the top-level domain for what country?",
+      "choices": [
+        "Serbia",
+        "Russia",
+        "Rwanda",
+        "Romania"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the programming language \"Python\", which of these statements would display the string \"Hello World\" correctly?",
+      "choices": [
+        "print(\"Hello World\")",
+        "echo \"Hello World\"",
+        "console.log(\"Hello World\")",
+        "printf(\"Hello World\")"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+      "choices": [
+        "Taiwan",
+        "Germany",
+        "United States",
+        "China (People's Republic of)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does \"LCD\" stand for?",
+      "choices": [
+        "Last Common Difference",
+        "Liquid Crystal Display",
+        "Long Continuous Design",
+        "Language Control Design"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Linus Torvalds created which of these?",
+      "choices": [
+        "Microsoft Windows",
+        "Wikipedia",
+        "Python",
+        "Linux"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which programming language was developed by Sun Microsystems in 1995?",
+      "choices": [
+        "C++",
+        "Java",
+        "Python",
+        "Solaris OS"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": ".at is the top-level domain for what country?",
+      "choices": [
+        "Australia",
+        "Austria",
+        "Angola",
+        "Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Generally, which component of a computer draws the most power?",
+      "choices": [
+        "Processor",
+        "Video Card",
+        "Power Supply",
+        "Hard Drive"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which day did the World Wide Web go online?",
+      "choices": [
+        "December 17, 1996",
+        "November 12, 1990",
+        "November 24, 1995",
+        "December 20, 1990"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the term GPU stand for?",
+      "choices": [
+        "Graphical Proprietary Unit",
+        "Gaming Processor Unit",
+        "Graphite Producing Unit",
+        "Graphics Processing Unit"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many cores does the Intel i7-6950X have?",
+      "choices": [
+        "10",
+        "8",
+        "4",
+        "12"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?",
+      "choices": [
+        "Enigma Machine",
+        "Nautilus",
+        "Clipper Chip",
+        "Skipjack"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Nvidia's headquarters are based in which Silicon Valley city?",
+      "choices": [
+        "Mountain View",
+        "Santa Clara",
+        "Cupertino",
+        "Palo Alto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which internet company began life as an online bookstore called 'Cadabra'?",
+      "choices": [
+        "Amazon",
+        "eBay",
+        "Shopify",
+        "Overstock"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In programming, what do you call functions with the same name but different implementations?",
+      "choices": [
+        "Overloading",
+        "Abstracting",
+        "Inheriting",
+        "Overriding"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym CDN stand for in terms of networking?",
+      "choices": [
+        "Computational Data Network",
+        "Compressed Data Network",
+        "Content Distribution Network",
+        "Content Delivery Network"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "choices": [
+        "<slide></slide>",
+        "<move></move>",
+        "<scroll></scroll>",
+        "<marquee></marquee>"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is largely considered the precursor to the USB format?",
+      "choices": [
+        "FireWire",
+        "SVGA",
+        "PS/2",
+        "PCIe"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which computer hardware device is the BIOS chip located?",
+      "choices": [
+        "Motherboard",
+        "Hard Disk Drive",
+        "Graphics Processing Unit",
+        "Central Processing Unit"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the DOS in Microsoft's first operating system \"MS-DOS\" stand for?",
+      "choices": [
+        "Diskless Operating System",
+        "Disk Operating System",
+        "Driver Oriented System",
+        "Dumb Operating System"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Laserjet and inkjet printers are both examples of what type of printer?",
+      "choices": [
+        "Dot matrix printer",
+        "Daisywheel printer",
+        "Impact printer",
+        "Non-impact printer"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the default theme that is installed with Windows XP?",
+      "choices": [
+        "Bliss",
+        "Whistler",
+        "Neptune",
+        "Luna"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+      "choices": [
+        "JavaScript",
+        "Python",
+        "PHP",
+        "C#"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "All of the following programs are classified as raster graphics editors EXCEPT:",
+      "choices": [
+        "GIMP",
+        "Inkscape",
+        "Adobe Photoshop",
+        "Paint.NET"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the number of keys on a standard Windows Keyboard?",
+      "choices": [
+        "64",
+        "94",
+        "104",
+        "76"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+      "choices": [
+        "MSX",
+        "FM-7",
+        "PC-9801",
+        "Xmillennium "
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following languages is used as a scripting language in the Unity 3D game engine?",
+      "choices": [
+        "Objective-C",
+        "Java",
+        "C++",
+        "C#"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When did the online streaming service \"Mixer\" launch?",
+      "choices": [
+        "2013",
+        "2009",
+        "2011",
+        "2016"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which operating system was released first?",
+      "choices": [
+        "Mac OS",
+        "Windows",
+        "OS/2",
+        "Linux"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Whistler was the codename of this Microsoft Operating System.",
+      "choices": [
+        "Windows 95",
+        "Windows XP",
+        "Windows 7",
+        "Windows 2000"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "choices": [
+        "The Only Router",
+        "The Ominous Router",
+        "The Onion Router",
+        "The Orange Router"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Unix Time is defined as the number of seconds that have elapsed since when?",
+      "choices": [
+        "Midnight, January 1, 1970",
+        "Midnight on the creator of Unix's birthday",
+        "Midnight, July 4, 1976",
+        "Midnight, July 4, 1980"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What five letter word is the motto of the IBM Computer company?",
+      "choices": [
+        "Logic",
+        "Think",
+        "Pixel",
+        "Click"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does RAID stand for?",
+      "choices": [
+        "Redundant Array of Independent Disks",
+        "Randomized Abstract Identification Description",
+        "Rapid Access for Indexed Devices",
+        "Range of Applications with Identical Designs"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+      "choices": [
+        "center",
+        "relative",
+        "static",
+        "absolute"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?",
+      "choices": [
+        "44.1 kHz",
+        "20.5 kHz",
+        "1.5 MHz",
+        "32.0 kHz"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?",
+      "choices": [
+        "Heat Sink",
+        "Heat Vent",
+        "Temperature Decipator",
+        "CPU Vent"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+      "choices": [
+        "if then",
+        "?",
+        "??",
+        "?:"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The name of technology company HP stands for what?",
+      "choices": [
+        "Hewlett-Packard",
+        "Howard Packmann",
+        "Husker-Pollosk",
+        "Hellman-Pohl"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The teapot often seen in many 3D modeling applications is called what?",
+      "choices": [
+        "3D Teapot",
+        "Pixar Teapot",
+        "Utah Teapot",
+        "Tennessee Teapot"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these people was NOT a founder of Apple Inc?",
+      "choices": [
+        "Steve Wozniak",
+        "Steve Jobs",
+        "Ronald Wayne",
+        "Jonathan Ive"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "While Apple was formed in California, in which western state was Microsoft founded?",
+      "choices": [
+        "Washington",
+        "New Mexico",
+        "Arizona",
+        "Colorado"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the server hosting industry IaaS stands for...",
+      "choices": [
+        "Infrastructure as a Service",
+        "Internet as a Service",
+        "Infrastructure as a Server",
+        "Internet and a Server"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company designed the \"Betamax\" video cassette format?",
+      "choices": [
+        "Fujitsu",
+        "Sony",
+        "LG",
+        "Panasonic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Apple's Voice Assistant, Siri, debuted on which iPhone?",
+      "choices": [
+        "iPhone 3GS",
+        "iPhone 5S",
+        "iPhone 4S",
+        "iPhone 6S"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the base station trackers used for the HTC Vive called?",
+      "choices": [
+        "Lighthouse",
+        "Trackers",
+        "Motion",
+        "Constellation "
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mobile hardware and software company \"Blackberry Limited\" was founded in which country?",
+      "choices": [
+        "Canada",
+        "Norway",
+        "United States of America",
+        "United Kingdom"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who patented a steam engine that produced continuous rotary motion?",
+      "choices": [
+        "Albert Einstein",
+        "James Watt",
+        "Nikola Tesla",
+        "Alessandro Volta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company manufactured the iconic TR-808 drum machine?",
+      "choices": [
+        "Roland",
+        "Korg",
+        "Casio",
+        "Technics"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+      "choices": [
+        "Typewriters",
+        "Blenders",
+        "Ceiling Fans",
+        "Door Knobs"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was the compact disc player first released?",
+      "choices": [
+        "1981",
+        "1980",
+        "1983",
+        "1982"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "This former Air Force and NASA engineer is the inventor of the Super Soaker water gun.",
+      "choices": [
+        "Lonnie Johnson",
+        "Bruce D'Andrade",
+        "Ashitey Trebi-Ollennu",
+        "Frances Northcutt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the \"Mitsubishi Wakamaru\"?",
+      "choices": [
+        "A robot",
+        "An motorcycle",
+        "A motorboat",
+        "A pickup truck"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?",
+      "choices": [
+        "Enterprise and Atlantis",
+        "Discovery and Endeavour",
+        "Challenger and Columbia",
+        "None of the Above"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?",
+      "choices": [
+        "2011",
+        "2012",
+        "2013",
+        "2010"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How does a centrifuge separate heavy and light particles?",
+      "choices": [
+        "Ionizing",
+        "Spinning",
+        "Vibrating",
+        "Sifting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first Infinity Coaster in the world and where is it located?",
+      "choices": [
+        "The Smiler, Alton Towers, UK",
+        "Madagascar Mad Pursuit, Motiongate Dubai, UAE",
+        "Monster, Adventureland Altoona, USA",
+        "Gold Rush, Slagharen, Netherlands "
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company developed the Hololens?",
+      "choices": [
+        "HTC",
+        "Oculus",
+        "Tobii",
+        "Microsoft"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes a malicious software program that replicates itself and spreads from one computer to another without user consent?",
+      "choices": [
+        "Trojan Horse",
+        "Virus",
+        "Ransomware",
+        "Spyware"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the open-source operating system kernel created by Linus Torvalds in 1991?",
+      "choices": [
+        "Unix",
+        "Linux",
+        "Android",
+        "FreeBSD"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company developed the JavaScript programming language in 1995?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Netscape",
+        "Sun Microsystems"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym GPU stand for in computing?",
+      "choices": [
+        "General Processing Unit",
+        "Graphics Processing Unit",
+        "Global Processor Unit",
+        "Graphical Program Utility"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which web browser was the first to be released by Google in 2008?",
+      "choices": [
+        "Firefox",
+        "Chrome",
+        "Safari",
+        "Edge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technology allows multiple virtual machines to run on a single physical server?",
+      "choices": [
+        "Containerization",
+        "Virtualization",
+        "Partitioning",
+        "Emulation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which social media platform acquired Instagram for approximately $1 billion in 2012?",
+      "choices": [
+        "Twitter",
+        "Snapchat",
+        "Facebook",
+        "TikTok"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard markup language used to create web pages on the internet?",
+      "choices": [
+        "CSS",
+        "HTML",
+        "XML",
+        "JSON"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company created the relational database management system MySQL?",
+      "choices": [
+        "Oracle",
+        "IBM",
+        "Swedish company MySQL AB",
+        "PostgreSQL Global"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does VPN stand for in network security terminology?",
+      "choices": [
+        "Virtual Personal Network",
+        "Virtual Private Network",
+        "Verified Protocol Network",
+        "Virtual Protection Node"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company developed the Objective-C programming language used for iOS development before Swift?",
+      "choices": [
+        "Microsoft",
+        "Google",
+        "Apple",
+        "Borland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the distributed version control system created by Linus Torvalds in 2005?",
+      "choices": [
+        "Subversion",
+        "Mercurial",
+        "Git",
+        "Perforce"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cloud computing service was launched by Amazon in 2006?",
+      "choices": [
+        "Microsoft Azure",
+        "Google Cloud",
+        "AWS",
+        "IBM Cloud"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technology standard allows devices to exchange data wirelessly over short distances using radio waves at 2.4 GHz?",
+      "choices": [
+        "NFC",
+        "Bluetooth",
+        "WiFi",
+        "Infrared"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which database query language is used to interact with relational databases?",
+      "choices": [
+        "Python",
+        "SQL",
+        "HTML",
+        "PHP"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the practice of dividing a hard drive or storage device into separate logical sections called?",
+      "choices": [
+        "Formatting",
+        "Partitioning",
+        "Defragmentation",
+        "Encryption"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which graphics API was developed by Khronos Group as a cross-platform alternative to DirectX?",
+      "choices": [
+        "Vulkan",
+        "Metal",
+        "Direct3D",
+        "OpenGL"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the process of converting analog signals into digital format?",
+      "choices": [
+        "Encoding",
+        "Compilation",
+        "Digitization",
+        "Transmission"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which protocol is responsible for sending emails across the internet?",
+      "choices": [
+        "HTTP",
+        "FTP",
+        "SMTP",
+        "POP3"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company developed the Slack messaging platform?",
+      "choices": [
+        "Atlassian",
+        "Slack Technologies",
+        "Microsoft",
+        "Discord Inc."
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the file extension .svg stand for?",
+      "choices": [
+        "Scalable Vector Graphics",
+        "Standard Video Graphics",
+        "Structured Visual Grid",
+        "Synchronized Video Geometry"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

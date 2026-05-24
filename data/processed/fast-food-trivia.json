@@ -1,273 +1,2306 @@
 {
   "slug": "fast-food-trivia",
   "name": "Fast Food",
-  "description": "American and global fast food chains, founders, iconic menu items, and slogans",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.532Z",
   "questions": [
     {
+      "q": "Which fast food chain is known for square hamburger patties?",
+      "choices": [
+        "Panda Express",
+        "Five Guys",
+        "Wendy's",
+        "McDonald's"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which burger chain is famous for its ButterBurger?",
+      "choices": [
+        "Culver's",
+        "Panda Express",
+        "Jack in the Box",
+        "Taco Bell"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain serves the Baja Blast drink?",
+      "choices": [
+        "Dairy Queen",
+        "Wendy's",
+        "Taco Bell",
+        "Pizza Hut"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which burger chain is known for its Dave's Single?",
+      "choices": [
+        "Popeyes",
+        "Jack in the Box",
+        "Wendy's",
+        "Domino's"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is known for the Star burger?",
+      "choices": [
+        "Subway",
+        "McDonald's",
+        "Carl's Jr.",
+        "Domino's"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
       "q": "Which fast food chain's signature burger is the Whopper?",
-      "choices": ["McDonald's", "Burger King", "Wendy's", "Hardee's"],
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Hardee's"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Burger King",
-        "verified": true,
-        "notes": "Introduced in 1957, flame-grilled."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of McDonald's iconic red-haired clown mascot?",
-      "choices": ["Bozo", "Ronald McDonald", "Chester Cheetah", "Jack"],
+      "choices": [
+        "Bozo",
+        "Ronald McDonald",
+        "Chester Cheetah",
+        "Jack"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ronald McDonald",
-        "verified": true,
-        "notes": "Debuted in 1963, portrayed first by Willard Scott."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which fast food chain's bacon-loaded signature burger is the Baconator?",
-      "choices": ["Wendy's", "Burger King", "Hardee's", "Carl's Jr."],
+      "choices": [
+        "Wendy's",
+        "Burger King",
+        "Hardee's",
+        "Carl's Jr."
+      ],
       "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Wendy's",
-        "verified": true,
-        "notes": "Launched in 2007; six strips of bacon and two beef patties."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "'Eat Fresh' is the long-running advertising slogan of which chain?",
-      "choices": ["Chipotle", "Subway", "Panera", "Jimmy John's"],
+      "choices": [
+        "Chipotle",
+        "Subway",
+        "Panera",
+        "Jimmy John's"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Subway",
-        "verified": true,
-        "notes": "Used from the late 1990s into the 2020s."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which chain sells the Crunchwrap Supreme and the Doritos Locos Tacos?",
-      "choices": ["Del Taco", "Taco Bell", "Chipotle", "Moe's Southwest Grill"],
+      "choices": [
+        "Del Taco",
+        "Taco Bell",
+        "Chipotle",
+        "Moe's Southwest Grill"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Taco Bell",
-        "verified": true,
-        "notes": "Doritos Locos Tacos launched 2012 with Frito-Lay."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which chain's cows famously advertise 'Eat Mor Chikin'?",
-      "choices": ["KFC", "Chick-fil-A", "Popeyes", "Zaxby's"],
+      "choices": [
+        "KFC",
+        "Chick-fil-A",
+        "Popeyes",
+        "Zaxby's"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Chick-fil-A",
-        "verified": true,
-        "notes": "Campaign launched 1995 by Atlanta agency The Richards Group."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Whose face appears on every bucket of KFC chicken, honoring the chain's founder?",
-      "choices": ["Colonel Harland Sanders", "Captain Kenny Rogers", "Major Dave Thomas", "Colonel Truett Cathy"],
+      "choices": [
+        "Colonel Harland Sanders",
+        "Captain Kenny Rogers",
+        "Major Dave Thomas",
+        "Colonel Truett Cathy"
+      ],
       "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Colonel Harland Sanders",
-        "verified": true,
-        "notes": "Honorary Kentucky Colonel title; secret recipe of 11 herbs and spices."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What were the first names of the two brothers who opened the original McDonald's in San Bernardino in 1940 (a BBQ stand that pivoted to fast food in 1948)?",
-      "choices": ["Richard and Maurice", "James and John", "Robert and Donald", "Henry and George"],
-      "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Richard and Maurice McDonald",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: clarified that the 1940 stand was originally a BBQ drive-in; Speedee Service System launched 1948. Ray Kroc joined in 1955 and later bought them out."
-      }
-    },
-    {
-      "q": "Who founded Wendy's and appeared in over 800 of its TV commercials until his death in 2002?",
-      "choices": ["Glen Bell", "Dave Thomas", "Truett Cathy", "Jim Delligatti"],
+      "q": "In which year did McDonald's open its first restaurant?",
+      "choices": [
+        "1940",
+        "1955",
+        "1948",
+        "1952"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dave Thomas",
-        "verified": true,
-        "notes": "Named the chain after his daughter Melinda Lou 'Wendy' Thomas."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which chain's Double-Double burger and 'Animal Style' secret menu are iconic West Coast staples?",
-      "choices": ["Five Guys", "Shake Shack", "Fatburger", "In-N-Out Burger"],
-      "correct": 3,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "In-N-Out Burger",
-        "verified": true,
-        "notes": "Founded 1948 by Harry and Esther Snyder in Baldwin Park, CA."
-      }
+      "q": "Which fast food chain is famous for its slogan 'I'm lovin' it'?",
+      "choices": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's",
+        "Chick-fil-A"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Subway's founders originally opened their first shop in 1965 under what name?",
-      "choices": ["Sub Shack", "Subworld", "Pete's Super Submarines", "The Foot Long"],
+      "q": "What is the signature sandwich at Subway called?",
+      "choices": [
+        "The Classic",
+        "The Sub",
+        "The Foot-Long",
+        "The Six-Inch"
+      ],
       "correct": 2,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pete's Super Submarines",
-        "verified": true,
-        "notes": "Renamed Subway in 1968; founded by Fred DeLuca and Peter Buck."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year did McDonald's introduce the Big Mac nationally?",
-      "choices": ["1955", "1968", "1972", "1984"],
-      "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1968",
-        "verified": true,
-        "notes": "Invented in 1967 by Jim Delligatti in Uniontown, PA; nationwide in 1968."
-      }
-    },
-    {
-      "q": "Which major U.S. fast food chain is famously closed on Sundays in observance of its founder's faith?",
-      "choices": ["Popeyes", "Chick-fil-A", "In-N-Out Burger", "Bojangles"],
-      "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Chick-fil-A",
-        "verified": true,
-        "notes": "Founder S. Truett Cathy established the policy in 1946."
-      }
-    },
-    {
-      "q": "Burger King operates under which different brand name in Australia?",
-      "choices": ["Burger Queen", "Hungry Jack's", "King Burger", "Aussie King"],
-      "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Hungry Jack's",
-        "verified": true,
-        "notes": "The 'Burger King' name was already trademarked in Australia when the chain entered."
-      }
-    },
-    {
-      "q": "Pizza Hut was founded in 1958 in which U.S. state?",
-      "choices": ["Kansas", "Michigan", "California", "Texas"],
+      "q": "Which fast food chain created the Doritos Locos Tacos?",
+      "choices": [
+        "Taco Bell",
+        "Chipotle",
+        "Qdoba",
+        "Del Taco"
+      ],
       "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Kansas",
-        "verified": true,
-        "notes": "Founded by brothers Dan and Frank Carney in Wichita."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In 2019, which chain launched the Impossible Whopper, making it the first major nationwide burger chain with a plant-based headliner?",
-      "choices": ["Carl's Jr.", "Burger King", "White Castle", "McDonald's"],
+      "q": "In what country is Jollibee, the famous chicken fast food chain, based?",
+      "choices": [
+        "Thailand",
+        "Philippines",
+        "Vietnam",
+        "Indonesia"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Burger King",
-        "verified": true,
-        "notes": "Partnered with Impossible Foods; rolled out nationwide August 2019."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who founded Taco Bell in 1962?",
-      "choices": ["Glen Bell", "Jeff Ruby", "Rick Bayless", "Pete Buck"],
+      "q": "Which burger chain is known for its 'Double-Double' burger?",
+      "choices": [
+        "Five Guys",
+        "In-N-Out Burger",
+        "Shake Shack",
+        "Smashburger"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Wendy's first open its restaurants?",
+      "choices": [
+        "1965",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is famous for serving fried chicken and was founded by Colonel Sanders?",
+      "choices": [
+        "Popeyes",
+        "KFC",
+        "Church's Chicken",
+        "Wingstop"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Burger King's signature flame-grilled burger?",
+      "choices": [
+        "The King",
+        "The Whopper",
+        "The Flame Burger",
+        "The Royal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food restaurant is known for its 'Eat Mor Chikin' advertising campaign featuring cows?",
+      "choices": [
+        "Popeyes",
+        "KFC",
+        "Chick-fil-A",
+        "Raising Cane's"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country did the first McDonald's location outside the United States open?",
+      "choices": [
+        "Mexico",
+        "Canada",
+        "United Kingdom",
+        "Japan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is McDonald's most famous burger called?",
+      "choices": [
+        "The Quarter Pounder",
+        "The Big Mac",
+        "The Double",
+        "The Classic Burger"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is known for its Crunchwrap Supreme?",
+      "choices": [
+        "Qdoba",
+        "Taco Bell",
+        "Chipotle",
+        "Del Taco"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What popular fast food chain serves poutine as a menu item?",
+      "choices": [
+        "Burger King",
+        "Wendy's",
+        "McDonald's",
+        "In-N-Out Burger"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food pioneer introduced the drive-thru concept?",
+      "choices": [
+        "McDonald's",
+        "In-N-Out Burger",
+        "Sonic",
+        "Jack in the Box"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Chick-fil-A's most popular menu item?",
+      "choices": [
+        "Fried Chicken Sandwich",
+        "Chicken Tenders",
+        "Chicken Nuggets",
+        "Spicy Chicken Sandwich"
+      ],
       "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Glen Bell",
-        "verified": true,
-        "notes": "First Taco Bell opened in Downey, California."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which McDonald's breakfast sandwich, introduced in 1972, was invented by franchisee Herb Peterson?",
-      "choices": ["Sausage McMuffin", "Egg McMuffin", "McGriddle", "Bacon Bagel"],
+      "q": "Which fast food chain released the 'Impossible Whopper' made with plant-based meat?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "In-N-Out Burger"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Egg McMuffin",
-        "verified": true,
-        "notes": "Modeled on eggs Benedict; first sold in Santa Barbara, CA."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Burger King first open?",
+      "choices": [
+        "1950",
+        "1954",
+        "1958",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is known for its slogan 'Where's the beef?'",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "In-N-Out Burger"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of food is primarily served at Popeyes?",
+      "choices": [
+        "Burgers",
+        "Fried Chicken",
+        "Tacos",
+        "Sandwiches"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did McDonald's open its first location?",
+      "choices": [
+        "1940",
+        "1948",
+        "1955",
+        "1960"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is famous for its flame-grilled burgers and was founded by James McLamore and David Edgerton?",
+      "choices": [
+        "Wendy's",
+        "Burger King",
+        "Carl's Jr.",
+        "Five Guys"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Burger King first open its doors?",
+      "choices": [
+        "1950",
+        "1954",
+        "1958",
+        "1962"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food restaurant is known for its 'Finger Lickin' Good' slogan?",
+      "choices": [
+        "Popeyes",
+        "Chick-fil-A",
+        "KFC",
+        "Wingstop"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain uses the slogan 'Eat Fresh'?",
+      "choices": [
+        "Jimmy John's",
+        "Subway",
+        "Quiznos",
+        "Jersey Mike's"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the signature dessert that Dairy Queen is famous for serving?",
+      "choices": [
+        "Milkshakes",
+        "Ice cream cones",
+        "Blizzards",
+        "Sundaes"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain advertises burgers with 'Fresh, Never Frozen' beef?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Five Guys"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did In-N-Out Burger first open?",
+      "choices": [
+        "1945",
+        "1948",
+        "1952",
+        "1955"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chicken chain was founded by Colonel Harland Sanders?",
+      "choices": [
+        "Popeyes Louisiana Kitchen",
+        "Chick-fil-A",
+        "Kentucky Fried Chicken",
+        "Church's Chicken"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breakfast item did McDonald's introduce in 1972 that revolutionized fast food breakfast?",
+      "choices": [
+        "Sausage McMuffin",
+        "Egg McMuffin",
+        "Breakfast Burrito",
+        "Hash Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is credited as the first to open in the United States?",
+      "choices": [
+        "McDonald's",
+        "White Castle",
+        "Burger King",
+        "Wendy's"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Wendy's iconic red-haired mascot?",
+      "choices": [
+        "Wendy",
+        "Red",
+        "Ginger",
+        "Rosie"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is famous for its Whopper sandwich?",
+      "choices": [
+        "McDonald's",
+        "Wendy's",
+        "Burger King",
+        "Carl's Jr."
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous snack did Taco Bell introduce in partnership with Doritos?",
+      "choices": [
+        "Cheesy Bean and Rice Burrito",
+        "Doritos Locos Tacos",
+        "Cheesy Fiesta Potatoes",
+        "Nachos BellGrande"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain introduced the Quarter Pounder burger?",
+      "choices": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King",
+        "Five Guys"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many herbs and spices are in KFC's Original Recipe?",
+      "choices": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food restaurant is known for its customizable sandwich bowls and 'Fresh Mex' concept?",
+      "choices": [
+        "Chipotle",
+        "Qdoba",
+        "Moe's Southwest Grill",
+        "Del Taco"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Chick-fil-A open its first restaurant?",
+      "choices": [
+        "1945",
+        "1946",
+        "1950",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain's name comes from its founder Dave Thomas's daughter?",
+      "choices": [
+        "Carl's Jr.",
+        "Wendy's",
+        "Arby's",
+        "Roy Rogers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did McDonald's introduce the Happy Meal, complete with a surprise toy?",
+      "choices": [
+        "1979",
+        "1982",
+        "1975",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is known for its flame-grilled burgers and was founded in 1954?",
+      "choices": [
+        "Wendy's",
+        "Burger King",
+        "McDonald's",
+        "Carl's Jr."
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the signature frozen treat that Dairy Queen is famous for serving?",
+      "choices": [
+        "Frappuccino",
+        "Blizzard",
+        "Frosty",
+        "Slushie"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coffee chain is known for its Frappuccino beverages?",
+      "choices": [
+        "Dunkin'",
+        "Tim Hortons",
+        "Starbucks",
+        "Caribou Coffee"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Subway begin its expansion as a submarine sandwich chain?",
+      "choices": [
+        "1965",
+        "1972",
+        "1968",
+        "1975"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food restaurant is famous for its secret recipe containing 11 herbs and spices?",
+      "choices": [
+        "Popeyes",
+        "Chick-fil-A",
+        "KFC",
+        "Wingstop"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Wendy's first open its doors?",
+      "choices": [
+        "1965",
+        "1969",
+        "1972",
+        "1967"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain introduced the Crunchwrap Supreme to its menu?",
+      "choices": [
+        "Taco Bell",
+        "Chipotle",
+        "Qdoba",
+        "Del Taco"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Burger King launched which iconic chicken sandwich in the 1980s?",
+      "choices": [
+        "Crispy Chicken Sandwich",
+        "Original Chicken Sandwich",
+        "Grilled Chicken Breast",
+        "Spicy Chicken Deluxe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is known for serving poutine in Canada?",
+      "choices": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King",
+        "A&W"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the phrase 'Eat Fresh' refer to in fast food advertising?",
+      "choices": [
+        "Wendy's slogan",
+        "McDonald's slogan",
+        "Subway's slogan",
+        "Chipotle's slogan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is famous for its Double-Double burger?",
+      "choices": [
+        "Five Guys",
+        "In-N-Out Burger",
+        "Carl's Jr.",
+        "Fatburger"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who were the two founders of Burger King?",
+      "choices": [
+        "Ray Kroc and Fred Turner",
+        "James McLamore and David Edgerton",
+        "Dave Thomas and R. David Thomas",
+        "Carl Karcher and Margaret Karcher"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Wendy's signature frozen dessert called?",
+      "choices": [
+        "Blizzard",
+        "Frosty",
+        "Freeze",
+        "Frost Cup"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain is known for serving Doritos Locos Tacos?",
+      "choices": [
+        "Del Taco",
+        "Taco Bell",
+        "Chipotle",
+        "Qdoba"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "McDonald's introduced breakfast to fast food in which decade?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast food chain's slogan is 'Have It Your Way'?",
+      "choices": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King",
+        "Carl's Jr."
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did McDonald's first open?",
+      "choices": [
+        "1940",
+        "1948",
+        "1955",
+        "1952"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which vibrant nation do Nando's fans crave their fiery peri-peri chicken dance?",
+      "choices": [
+        "South Africa",
+        "Dunkin'",
+        "Subway",
+        "Five Guys"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Middle Eastern spot wraps you up with the yummiest \"Pita Sandwiches\"?",
+      "choices": [
+        "Shawarma House",
+        "Burger King",
+        "KFC",
+        "Domino's"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Brazilian fast food favorite serves the crave-worthy \"Coxinha\" snack attack?",
+      "choices": [
+        "Sonic",
+        "Arby's",
+        "In-N-Out",
+        "Habib's"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South Korean clucker keeps fried chicken lovers crowing for more?",
+      "choices": [
+        "Kyochon Chicken",
+        "Chipotle",
+        "Popeyes",
+        "Wendy's"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
     },
     {
       "q": "In what year did White Castle — widely considered America's first fast food burger chain — open?",
-      "choices": ["1915", "1921", "1929", "1935"],
+      "choices": [
+        "1915",
+        "1921",
+        "1929",
+        "1935"
+      ],
       "correct": 1,
-      "category": "Fast Food",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1921",
-        "verified": true,
-        "notes": "Founded in Wichita, Kansas by Walter Anderson and Billy Ingram."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "In what year did McDonald's introduce the Happy Meal with its signature toy?",
-      "choices": ["1971", "1975", "1979", "1985"],
+      "choices": [
+        "1971",
+        "1975",
+        "1979",
+        "1985"
+      ],
       "correct": 2,
-      "category": "Fast Food",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1979",
-        "verified": true,
-        "notes": "Initial theme was 'Circus Wagon'."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Dairy Queen opened its first store in 1940 in which U.S. state?",
-      "choices": ["Illinois", "Minnesota", "Wisconsin", "Iowa"],
+      "choices": [
+        "Illinois",
+        "Minnesota",
+        "Wisconsin",
+        "Iowa"
+      ],
       "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Illinois",
-        "verified": true,
-        "notes": "First store opened in Joliet, Illinois on June 22, 1940."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Burger King co-founders James McLamore and David Edgerton opened the first Burger King in 1954 in which U.S. city?",
-      "choices": ["Miami", "Jacksonville", "Orlando", "Tampa"],
+      "choices": [
+        "Miami",
+        "Jacksonville",
+        "Orlando",
+        "Tampa"
+      ],
       "correct": 0,
-      "category": "Fast Food",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Miami",
-        "verified": true,
-        "notes": "Originally named 'Insta-Burger King'; renamed after a 1959 rebranding."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Colonel Harland Sanders open the first KFC franchise location?",
+      "choices": [
+        "1952",
+        "1950",
+        "1948",
+        "1955"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain's founder, Ray Kroc, purchased the McDonald brothers' operation in 1954?",
+      "choices": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's",
+        "Jack in the Box"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chick-fil-A's iconic 'Eat Mor Chikin' advertising campaign debuted in what year?",
+      "choices": [
+        "1995",
+        "1998",
+        "2000",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain introduced the Merriam-Webster dictionary-certified term 'McFlurry' as a portmanteau of 'McDonald's' and 'flurry'?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Dairy Queen"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Subway surpass McDonald's as the largest restaurant chain by number of locations worldwide?",
+      "choices": [
+        "2010",
+        "2012",
+        "2014",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In-N-Out Burger's secret menu item 'Animal Style' involves which specific modification to the burger?",
+      "choices": [
+        "Extra pickles and jalapeños",
+        "Grilled onions, mustard, and pickles",
+        "Bacon and special sauce",
+        "Double patties with fried egg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain's founder, Dave Thomas, was known for appearing in his own television commercials starting in 1989?",
+      "choices": [
+        "Arby's",
+        "Wendy's",
+        "Jack in the Box",
+        "Burger King"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary ingredient that distinguishes Popeyes' chicken from KFC's Original Recipe?",
+      "choices": [
+        "Buttermilk marinade",
+        "Cajun spice blend",
+        "Longer frying time",
+        "Higher oil temperature"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Taco Bell's 'Doritos Locos Tacos' collaboration launched in what year, becoming one of the most successful new menu items in fast food history?",
+      "choices": [
+        "2010",
+        "2012",
+        "2014",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese fast food chain, MOS Burger, was founded in what year?",
+      "choices": [
+        "1972",
+        "1970",
+        "1968",
+        "1974"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "White Castle, the first hamburger chain, opened its first location in what city?",
+      "choices": [
+        "Chicago, Illinois",
+        "St. Louis, Missouri",
+        "Wichita, Kansas",
+        "Kansas City, Missouri"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the specific cooking temperature that KFC's pressure cookers maintain to achieve the signature crispy exterior of Original Recipe chicken?",
+      "choices": [
+        "325°F",
+        "350°F",
+        "375°F",
+        "400°F"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arby's signature curly fries were developed using what type of potato cut?",
+      "choices": [
+        "Wavy slice",
+        "Spiral cut",
+        "Cross-cut",
+        "Julienne with curl"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Little Caesars' 'Crazy Bread' product was introduced during what decade?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "1970s"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain filed for bankruptcy in 2014 and subsequently restructured its business model?",
+      "choices": [
+        "Jack in the Box",
+        "Sonic Drive-In",
+        "Quiznos",
+        "Jimmy John's"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tim Hortons was founded in what Canadian city in 1964?",
+      "choices": [
+        "Toronto, Ontario",
+        "Hamilton, Ontario",
+        "Montreal, Quebec",
+        "Vancouver, British Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which burger chain's founder, James McLamore, partnered with David Edgerton to create the flame-grilled burger concept?",
+      "choices": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's",
+        "Five Guys"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Shake Shack, founded by Danny Meyer, was originally conceived as a seasonal hot dog stand in what New York location?",
+      "choices": [
+        "Central Park",
+        "Madison Square Park",
+        "Washington Square Park",
+        "Battery Park"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chick-fil-A's Chicken Sandwich traditionally uses what cut of chicken breast?",
+      "choices": [
+        "Boneless, skinless filet",
+        "Hand-breaded filet",
+        "Whole breast halve",
+        "Pressure-cooked nuggets"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain's mascot is Speedee, a character introduced in 1952 to represent fast service?",
+      "choices": [
+        "McDonald's",
+        "Sonic",
+        "Burger King",
+        "Jack in the Box"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ray Kroc open the first McDonald's franchise in Des Plaines, Illinois?",
+      "choices": [
+        "1954",
+        "1948",
+        "1951",
+        "1956"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain pioneered the concept of a 'secret menu' that was never officially printed but widely known among loyal customers?",
+      "choices": [
+        "In-N-Out Burger",
+        "Five Guys",
+        "Shake Shack",
+        "Culver's"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the Colonel who founded Kentucky Fried Chicken in 1952?",
+      "choices": [
+        "Harland David Sanders",
+        "Harold Dean Sanders",
+        "Herbert Douglas Sanders",
+        "Harrison Dale Sanders"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chick-fil-A famously closes on which day of the week as a matter of company policy?",
+      "choices": [
+        "Sunday",
+        "Saturday",
+        "Monday",
+        "Wednesday"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain introduced the Spicy Chicken Sandwich in 1993, forcing competitors to develop their own versions?",
+      "choices": [
+        "Chick-fil-A",
+        "Popeyes Louisiana Kitchen",
+        "Wingstop",
+        "Bojangles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Culver's ButterBurger distinguishes itself by toasting the bun with what dairy product?",
+      "choices": [
+        "Whipped cream",
+        "Real butter",
+        "Cheese spread",
+        "Sour cream"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South African casual dining chain is famous for its peri-peri grilled chicken and was founded in 1987?",
+      "choices": [
+        "Steers",
+        "Nando's",
+        "Spur Steak Ranches",
+        "Wimpy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Subway surpass McDonald's to become the fast food chain with the most locations worldwide?",
+      "choices": [
+        "2012",
+        "2010",
+        "2014",
+        "2008"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Taco Bell's Crunchwrap Supreme, introduced in 2005, was designed to combine which three textural elements?",
+      "choices": [
+        "Crispy, soft, and melted",
+        "Crunchy, chewy, and spicy",
+        "Hard shell, soft shell, and cold",
+        "Fried, grilled, and baked"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese fast food chain, founded in 1972, pioneered the concept of teriyaki-flavored burgers in Asia?",
+      "choices": [
+        "MOS Burger",
+        "Yoshinoya",
+        "Matsuya",
+        "Lotteria"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of Wendy's before Dave Thomas changed it in 1969?",
+      "choices": [
+        "Old Fashioned Hamburgers",
+        "Dave's Drive-In",
+        "Thomas Burgers",
+        "Quality Hamburgers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Checkers, the drive-thru only burger chain, was founded in what decade?",
+      "choices": [
+        "1980s",
+        "1960s",
+        "1970s",
+        "1990s"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "McDonald's introduced the Maharaja Mac in India as a localized burger alternative due to which dietary restriction?",
+      "choices": [
+        "Hindu preference for chicken over beef",
+        "Government mandated meat regulations",
+        "Environmental sustainability laws",
+        "Religious sensitivity regarding beef consumption"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kyochon Chicken, a major South Korean fried chicken franchise, was established in what year?",
+      "choices": [
+        "1991",
+        "1997",
+        "2001",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain holds the record for the most Michelin-starred locations among major quick-service restaurants?",
+      "choices": [
+        "McDonald's",
+        "Subway",
+        "KFC",
+        "Chipotle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Popeyes Louisiana Kitchen introduced its viral chicken sandwich in response to which competitor's 2019 menu addition?",
+      "choices": [
+        "McDonald's",
+        "Chick-fil-A",
+        "KFC",
+        "Wingstop"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Texas Chicken, which operates throughout Asia and Africa, is the Asian franchise of which major American fast food company?",
+      "choices": [
+        "Jollibee Foods",
+        "Dine Global Holdings",
+        "Fried Chicken International",
+        "Popeyes Louisiana Kitchen"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did McDonald's first introduce the Egg McMuffin, creating the modern fast food breakfast category?",
+      "choices": [
+        "1975",
+        "1972",
+        "1978",
+        "1980"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Habib's, a Brazilian fast food chain known for coxinhas, was founded in what decade?",
+      "choices": [
+        "1960s",
+        "1980s",
+        "1970s",
+        "1950s"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain's founder, Glen Bell, sold his original restaurant in 1962 to help establish what would become a global empire?",
+      "choices": [
+        "Taco Bell",
+        "Del Taco",
+        "Qdoba",
+        "Chipotle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Colonel Harland Sanders franchise his Kentucky Fried Chicken recipe to his first franchisee outside of Kentucky?",
+      "choices": [
+        "1952",
+        "1955",
+        "1958",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain was founded by Ray Kroc as a franchise operation of an existing restaurant concept in San Bernardino, California?",
+      "choices": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's",
+        "Checkers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact number of herbs and spices in KFC's original secret recipe?",
+      "choices": [
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dave Thomas founded Wendy's in 1969 and named the chain after which family member?",
+      "choices": [
+        "His daughter",
+        "His granddaughter",
+        "His niece",
+        "His sister"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Taco Bell was founded by Glen Bell in what year?",
+      "choices": [
+        "1954",
+        "1962",
+        "1968",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain introduced the first breakfast sandwich to the quick-service industry in 1972?",
+      "choices": [
+        "Burger King",
+        "Wendy's",
+        "McDonald's",
+        "Jack in the Box"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pizza Hut was founded by the Carney brothers in what U.S. state?",
+      "choices": [
+        "Texas",
+        "Oklahoma",
+        "Kansas",
+        "Missouri"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arby's was founded in 1964 by Forrest and Leroy Raffel as an acronym. What does the 'RB' stand for?",
+      "choices": [
+        "Roast Beef",
+        "Red Barn",
+        "Rapid Business",
+        "Raffel Brothers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the fast food chain that is now known as Burger King when it was founded in 1954?",
+      "choices": [
+        "Burger Palace",
+        "Insta-Burger King",
+        "King Burger",
+        "Royal Burger"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "White Castle, often credited as the first fast food hamburger chain, was founded in what year?",
+      "choices": [
+        "1912",
+        "1921",
+        "1930",
+        "1937"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "McDonald's introduced the Big Mac in which year?",
+      "choices": [
+        "1965",
+        "1967",
+        "1969",
+        "1971"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chick-fil-A's original location was opened by Truett Cathy in what year in Georgia?",
+      "choices": [
+        "1946",
+        "1952",
+        "1955",
+        "1961"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Taco Bell introduce the Doritos Locos Tacos, which became one of the chain's best-selling items?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Jack in the Box was founded in San Diego in what year?",
+      "choices": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of McDonald's first major international restaurant location opened in Canada?",
+      "choices": [
+        "Richmond, British Columbia",
+        "Toronto, Ontario",
+        "Montreal, Quebec",
+        "Vancouver, British Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Wendy's introduce its square hamburger patties, a distinguishing feature from competitors?",
+      "choices": [
+        "1973",
+        "1975",
+        "1978",
+        "1982"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sonic Drive-In was founded by Troy Smith in what year?",
+      "choices": [
+        "1953",
+        "1954",
+        "1955",
+        "1956"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original price of a McDonald's hamburger when the chain first began franchising in 1955?",
+      "choices": [
+        "$0.15",
+        "$0.25",
+        "$0.30",
+        "$0.50"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did KFC introduce its famous Chicken Sandwich, which became a signature menu item?",
+      "choices": [
+        "1970",
+        "1979",
+        "1985",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Popeyes Louisiana Kitchen was founded by Al Copeland in what year?",
+      "choices": [
+        "1972",
+        "1973",
+        "1975",
+        "1976"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Chick-fil-A inventor Truett Cathy open the first restaurant, originally called Chick-fil-A's Dwarf Grill, in an Atlanta suburb?",
+      "choices": [
+        "1946",
+        "1952",
+        "1958",
+        "1965"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fast food chain pioneered the conveyor belt ordering system in Japan during the 1980s, allowing customers to grab rotating plates of sushi-style items from a moving belt?",
+      "choices": [
+        "MOS Burger",
+        "Yoshinoya",
+        "Matsuya",
+        "Nakau"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chain is known for the Frappuccino?",
+      "choices": [
+        "Subway",
+        "Chipotle",
+        "Sonic",
+        "Starbucks"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which chain is known for the McFlurry?",
+      "choices": [
+        "Dairy Queen",
+        "Whataburger",
+        "McDonald's",
+        "Chipotle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which chain serves the Gordita?",
+      "choices": [
+        "Five Guys",
+        "McDonald's",
+        "Taco Bell",
+        "Chick-fil-A"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who founded KFC?",
+      "choices": [
+        "Chipotle",
+        "Colonel Harland Sanders",
+        "Popeyes",
+        "Burger King"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What magical year did the Wendy's revolution kick off?",
+      "choices": [
+        "1968",
+        "1969",
+        "1970",
+        "1975"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which sandwich sorcerers created a subway of foot-long delights that left us craving more?",
+      "choices": [
+        "Domino's",
+        "Fred DeLuca and Peter Buck",
+        "McDonald's",
+        "Whataburger"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When did the art of the sub become a worldwide lunchtime obsession?",
+      "choices": [
+        "1972",
+        "1957",
+        "1965",
+        "1964"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Taco Bell ring in a spicy, crunchy revolution?",
+      "choices": [
+        "1959",
+        "1970",
+        "1962",
+        "1956"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When did the birth of the secret-menu legend, In-N-Out Burger, first occur?",
+      "choices": [
+        "1955",
+        "1940",
+        "1948",
+        "1947"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When did the pizza party officially begin at the Pizza Hut?",
+      "choices": [
+        "1957",
+        "1950",
+        "1958",
+        "1951"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which frosty genius crowned our dessert dreams by serving up soft-serve smiles?",
+      "choices": [
+        "Pizza Hut",
+        "McDonald's",
+        "John Fremont McCullough",
+        "Jack in the Box"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which tropical paradise does the bee bring joy with every bite from Jollibee?",
+      "choices": [
+        "Sonic",
+        "Philippines",
+        "McDonald's",
+        "Whataburger"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which colorful country does McDonald's reign with the royal \"Maharaja Mac\"?",
+      "choices": [
+        "McDonald's",
+        "Whataburger",
+        "Subway",
+        "India"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Down under, Which burger chain is known as Hungry Jack's, satisfying Aussie appetites?",
+      "choices": [
+        "Wendy's",
+        "Hungry Jack's",
+        "Chipotle",
+        "Panda Express"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which global fast food ninja slashes expectations with menu marvels?",
+      "choices": [
+        "Jack in the Box",
+        "McDonald's",
+        "Popeyes",
+        "Chick-fil-A"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which secretive nation does Lotteria spice things up with the \"Kimchi Burger\"?",
+      "choices": [
+        "Dunkin'",
+        "In-N-Out",
+        "KFC",
+        "North Korea"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What were the first names of the two brothers who founded the original McDonald's in San Bernardino in 1940?",
+      "choices": [
+        "Richard and Maurice",
+        "James and John",
+        "Robert and Donald",
+        "Henry and George"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who founded Wendy's and appeared in over 800 of its TV commercials until his death in 2002?",
+      "choices": [
+        "Glen Bell",
+        "Dave Thomas",
+        "Truett Cathy",
+        "Jim Delligatti"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which chain's Double-Double burger and 'Animal Style' secret menu are iconic West Coast staples?",
+      "choices": [
+        "Five Guys",
+        "Shake Shack",
+        "Fatburger",
+        "In-N-Out Burger"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Subway's founders originally opened their first shop in 1965 under what name?",
+      "choices": [
+        "Sub Shack",
+        "Subworld",
+        "Pete's Super Submarines",
+        "The Foot Long"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did McDonald's introduce the Big Mac nationally?",
+      "choices": [
+        "1955",
+        "1968",
+        "1972",
+        "1984"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major U.S. fast food chain is famously closed on Sundays in observance of its founder's faith?",
+      "choices": [
+        "Popeyes",
+        "Chick-fil-A",
+        "In-N-Out Burger",
+        "Bojangles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Burger King operates under which different brand name in Australia?",
+      "choices": [
+        "Burger Queen",
+        "Hungry Jack's",
+        "King Burger",
+        "Aussie King"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pizza Hut was founded in 1958 in which U.S. state?",
+      "choices": [
+        "Kansas",
+        "Michigan",
+        "California",
+        "Texas"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2019, which chain launched the Impossible Whopper, making it the first major nationwide burger chain with a plant-based headliner?",
+      "choices": [
+        "Carl's Jr.",
+        "Burger King",
+        "White Castle",
+        "McDonald's"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who founded Taco Bell in 1962?",
+      "choices": [
+        "Glen Bell",
+        "Jeff Ruby",
+        "Rick Bayless",
+        "Pete Buck"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which McDonald's breakfast sandwich, introduced in 1972, was invented by franchisee Herb Peterson?",
+      "choices": [
+        "Sausage McMuffin",
+        "Egg McMuffin",
+        "McGriddle",
+        "Bacon Bagel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Wendy's introduce its now-iconic square hamburger patties?",
+      "choices": [
+        "1969",
+        "1975",
+        "1982",
+        "1988"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain is credited with popularizing the drive-through service model in the 1940s?",
+      "choices": [
+        "McDonald's",
+        "In-N-Out Burger",
+        "White Castle",
+        "Sonic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Dave Thomas founded Wendy's in 1969, but what previous fast food chain did he work for?",
+      "choices": [
+        "Burger King",
+        "Kentucky Fried Chicken",
+        "McDonald's",
+        "Arby's"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain introduced the 'Big Mac' in 1968?",
+      "choices": [
+        "Burger King",
+        "Wendy's",
+        "McDonald's",
+        "Hardee's"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Arby's is known for its signature curly fries, but what meat product is the chain primarily focused on?",
+      "choices": [
+        "Fried chicken",
+        "Roast beef sandwiches",
+        "Hamburgers",
+        "Fish fillets"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chick-fil-A was established in 1946, but on which day of the week does the chain traditionally remain closed?",
+      "choices": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Friday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country did the 'Nordsee' seafood fast food chain originate and become popular?",
+      "choices": [
+        "Denmark",
+        "Germany",
+        "Sweden",
+        "Norway"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of McDonald's signature frozen dessert treat that comes in various flavors?",
+      "choices": [
+        "Frosty",
+        "McFlurry",
+        "Blizzard",
+        "Freeze Pop"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Taco Bell introduced its value-focused menu strategy in the 1990s. What was this menu primarily called?",
+      "choices": [
+        "Dollar Menu",
+        "Value Menu",
+        "99-Cent Menu",
+        "Budget Bites"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain's slogan 'Have It Your Way' emphasized customization of burger orders?",
+      "choices": [
+        "McDonald's",
+        "Wendy's",
+        "Burger King",
+        "Five Guys"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "White Castle, established in 1921, is credited as the first what in the United States?",
+      "choices": [
+        "Burger chain",
+        "Drive-through restaurant",
+        "Fast food burger restaurant",
+        "Chicken franchise"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary meat used in KFC's 'Original Recipe' fried chicken?",
+      "choices": [
+        "Turkey",
+        "Chicken",
+        "Duck",
+        "Cornish hen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In India, McDonald's serves a burger called the 'Maharaja Mac.' What is the primary protein difference from a standard Big Mac?",
+      "choices": [
+        "It uses mutton instead of beef",
+        "It uses chicken instead of beef",
+        "It uses paneer instead of beef",
+        "It uses goat meat instead of beef"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kyochon Chicken is a major fried chicken chain originating from which country?",
+      "choices": [
+        "Japan",
+        "Thailand",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Pizza Hut open its first restaurant?",
+      "choices": [
+        "1955",
+        "1958",
+        "1962",
+        "1965"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "McDonald's serves poutine (fries with gravy and cheese curds) as a menu item in which country?",
+      "choices": [
+        "United States",
+        "Canada",
+        "Australia",
+        "United Kingdom"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Subway, the submarine sandwich chain, began its franchise expansion in what decade?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Wendy's marketing campaign in the 1980s featured an elderly woman asking 'Where's the beef?' about a competitor's burger. Which competitor was being referenced?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Hardee's",
+        "Jack in the Box"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain is known for advertising its beef as 'Fresh, Never Frozen'?",
+      "choices": [
+        "Burger King",
+        "Wendy's",
+        "Five Guys",
+        "Smashburger"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "S. Truett Cathy founded which major fast food chain that specializes in chicken sandwiches?",
+      "choices": [
+        "Popeyes",
+        "Chick-fil-A",
+        "Wingstop",
+        "Raising Cane's"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Burger King first open its doors as a fast food restaurant?",
+      "choices": [
+        "1950",
+        "1954",
+        "1960",
+        "1963"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain is known for using the slogan 'Have It Your Way'?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Arby's"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What signature menu item did Chick-fil-A introduce in 1946?",
+      "choices": [
+        "Crispy Chicken Sandwich",
+        "Chicken Nuggets",
+        "Spicy Chicken Wrap",
+        "Grilled Chicken Club"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food restaurant pioneered the drive-thru service model in the 1940s?",
+      "choices": [
+        "McDonald's",
+        "In-N-Out Burger",
+        "White Castle",
+        "Dairy Queen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Taco Bell introduce the Crunchwrap Supreme to its menu?",
+      "choices": [
+        "2002",
+        "1999",
+        "2006",
+        "2010"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Popeyes Louisiana Kitchen is primarily known for serving which type of protein?",
+      "choices": [
+        "Beef burgers",
+        "Fried chicken",
+        "Fish sandwiches",
+        "Turkey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Wendy's introduce the Baconator burger?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain is famous for its Blizzard frozen dessert?",
+      "choices": [
+        "Dairy Queen",
+        "Sonic Drive-In",
+        "Cold Stone Creamery",
+        "Shake Shack"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in Arby's signature curly fries coating?",
+      "choices": [
+        "Paprika seasoning",
+        "Cajun spices",
+        "Cheddar powder",
+        "Ranch dressing"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain uses the slogan 'Finger Lickin' Good'?",
+      "choices": [
+        "Popeyes",
+        "KFC",
+        "Chick-fil-A",
+        "Wingstop"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original name of Taco Bell when it first opened in 1962?",
+      "choices": [
+        "Bell's Mexican Grill",
+        "Taco Taco",
+        "Bell's Drive-In Taco",
+        "The original name was Taco Bell"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain introduced the first breakfast value menu with items priced at 99 cents in the 1990s?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Taco Bell",
+        "Wendy's"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sonic Drive-In is primarily known for offering which service method?",
+      "choices": [
+        "Indoor seating only",
+        "Carhop service",
+        "Online delivery exclusively",
+        "Counter service only"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain created the Whopper sandwich?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Five Guys"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the McFlurry first introduced by McDonald's?",
+      "choices": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain is known for serving sandwiches on roasted beef as a primary offering?",
+      "choices": [
+        "Subway",
+        "Arby's",
+        "Jimmy John's",
+        "Firehouse Subs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What condiment is famously associated with In-N-Out Burger's special sauce?",
+      "choices": [
+        "Thousand Island dressing",
+        "Mayo-based with relish",
+        "Tartar sauce",
+        "Chipotle aioli"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain introduced the Spicy Chicken Sandwich in 1996?",
+      "choices": [
+        "Popeyes",
+        "Chick-fil-A",
+        "KFC",
+        "Wingstop"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of McDonald's early mascot who appeared in advertisements during the 1950s and 1960s?",
+      "choices": [
+        "Ronald McDonald",
+        "Speedee",
+        "Mac the Hamburger",
+        "Officer Big Mac"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chipotle Mexican Grill revolutionized the fast-casual segment by emphasizing which aspect of food preparation?",
+      "choices": [
+        "Speed over quality",
+        "Customization and fresh ingredients",
+        "Low prices",
+        "Drive-thru efficiency"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Taco Bell introduce the Doritos Locos Tacos, which became one of its most successful menu items?",
+      "choices": [
+        "2010",
+        "2012",
+        "2014",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast food chain, founded in 1946, is known for its flame-grilled burgers and the slogan 'Have It Your Way'?",
+      "choices": [
+        "Wendy's",
+        "McDonald's",
+        "Burger King",
+        "In-N-Out Burger"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chick-fil-A's signature chicken sandwich is traditionally served on what type of bread?",
+      "choices": [
+        "Brioche bun",
+        "Buttered biscuit",
+        "Ciabatta roll",
+        "English muffin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

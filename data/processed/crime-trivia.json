@@ -1,309 +1,1019 @@
 {
   "slug": "crime-trivia",
-  "name": "True Crime",
-  "description": "Famous criminals, infamous cases, and the names that shaped crime history.",
-  "processedAt": "2026-05-08T00:00:00Z",
-  "status": "pilot",
+  "name": "Crime",
+  "processedAt": "2026-05-24T20:43:43.482Z",
   "questions": [
     {
-      "q": "What nickname was given to the unidentified Whitechapel serial killer of 1888 London?",
-      "choices": ["Jack the Ripper", "The Boston Strangler", "Zodiac", "Son of Sam"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Jack the Ripper",
-        "verified": true,
-        "notes": "Five 'canonical' victims in the Whitechapel district."
-      }
-    },
-    {
-      "q": "Which 1929 mass shooting on Valentine's Day in Chicago is associated with Al Capone?",
+      "q": "In which U.S. city did Al Capone establish his criminal empire during the Prohibition era?",
       "choices": [
-        "St. Valentine's Day Massacre",
-        "Chicago Outfit Hit",
-        "North Side Slaying",
-        "The Capone Hit"
+        "New York",
+        "Chicago",
+        "Los Angeles",
+        "Boston"
       ],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Feb 14, 1929 — 7 men killed in a Chicago garage."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which mob boss famously got jailed not for racketeering — but for tax evasion?",
+      "q": "Which profession was Harold Shipman convicted of abusing to commit murders?",
+      "choices": [
+        "Psychiatrist",
+        "Lawyer",
+        "Doctor",
+        "Pharmacist"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nickname given to the unidentified serial killer who murdered women in London's Whitechapel district in 1888?",
+      "choices": [
+        "The Slasher",
+        "Jack the Ripper",
+        "The Butcher",
+        "The Phantom"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Ruth Ellis the last woman to be executed by hanging in Britain?",
+      "choices": [
+        "1945",
+        "1950",
+        "1955",
+        "1960"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President was assassinated by John Wilkes Booth in 1865?",
+      "choices": [
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "William Seward",
+        "Ulysses Grant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country did Ingrid Betancourt escape from FARC captivity in 2008?",
+      "choices": [
+        "Peru",
+        "Venezuela",
+        "Colombia",
+        "Ecuador"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which rock musician was famously arrested for exposing himself on stage in Miami in 1969?",
+      "choices": [
+        "Jimi Hendrix",
+        "Jim Morrison",
+        "Mick Jagger",
+        "David Bowie"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What crime was John Hinckley Jr. attempting to commit against President Ronald Reagan in 1981?",
+      "choices": [
+        "Kidnapping",
+        "Bombing",
+        "Assassination",
+        "Robbery"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 2009 film 'Public Enemies,' which famous gangster from the 1930s did Johnny Depp portray?",
       "choices": [
         "Al Capone",
-        "John Gotti",
-        "Vito Genovese",
-        "Pablo Escobar"
+        "John Dillinger",
+        "Pretty Boy Floyd",
+        "Baby Face Nelson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President was assassinated by Leon Czolgosz in 1901?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Benjamin Harrison",
+        "James Garfield"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Off which country's coast has modern piracy increased significantly in recent years?",
+      "choices": [
+        "Nigeria",
+        "Somalia",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which serial killer claimed that demonic possession of his neighbor's dog commanded him to kill?",
+      "choices": [
+        "Edmund Kemper",
+        "David Berkowitz",
+        "Richard Ramirez",
+        "Gary Ridgway"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the radical left-wing extremist group active in Germany during the 1970s, also known by a hyphenated name?",
+      "choices": [
+        "Red Army Faction",
+        "Baader-Meinhof",
+        "Deutsche Rote Armee",
+        "Terroristen Bund"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Swedish Prime Minister was assassinated in 1986 while walking from a movie theater?",
+      "choices": [
+        "Tage Erlander",
+        "Olof Palme",
+        "Ingvar Carlsson",
+        "Carl Bildt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What crime did O.J. Simpson commit in 2008 that led to a 13-year prison sentence?",
+      "choices": [
+        "Fraud",
+        "Assault",
+        "Armed robbery",
+        "Theft"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cult leader was convicted of orchestrating murders through his commune known as 'The Family'?",
+      "choices": [
+        "Jim Jones",
+        "Charles Manson",
+        "David Koresh",
+        "Marshall Applewhite"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which English city was the Gooch Gang, a notorious group of 11 criminals, finally brought down in 2009?",
+      "choices": [
+        "Liverpool",
+        "Manchester",
+        "Birmingham",
+        "Leeds"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What unusual charge led to the conviction of the Tolpuddle Martyrs in 1834?",
+      "choices": [
+        "Sedition",
+        "Taking an illegal oath",
+        "Trespassing",
+        "Conspiracy to riot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "For which crime was Errol Flynn acquitted in a 1943 trial that shocked Hollywood?",
+      "choices": [
+        "Embezzlement",
+        "Rape",
+        "Assault",
+        "Fraud"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical instrument did Hugh Cornwell, a member of The Stranglers, famously play before serving time at Pentonville Prison?",
+      "choices": [
+        "Drums",
+        "Bass guitar",
+        "Guitar",
+        "Keyboard"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1955, Ruth Ellis became the last woman to be executed by hanging in which country?",
+      "choices": [
+        "United Kingdom",
+        "United States",
+        "France",
+        "Australia"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Chicago",
-        "verified": true,
-        "notes": "Sentenced to 11 years in 1931."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Australian outlaw famously wore homemade metal armor in his final shootout?",
-      "choices": ["Ned Kelly", "Mick Doolan", "Captain Thunderbolt", "Bushranger Bill"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ned Kelly",
-        "verified": true,
-        "notes": "Killed at Glenrowan, 1880."
-      }
-    },
-    {
-      "q": "Who shot John Lennon outside the Dakota apartment building in NYC in 1980?",
-      "choices": ["Mark David Chapman", "John Hinckley Jr.", "Charles Manson", "Sirhan Sirhan"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mark Chapman",
-        "verified": true,
-        "notes": "December 8, 1980. Still in prison."
-      }
-    },
-    {
-      "q": "Which U.S. president did John Hinckley Jr. attempt to assassinate in 1981?",
+      "q": "Which Australian outlaw, active in the 1870s, became famous for wearing homemade armor during his criminal exploits?",
       "choices": [
-        "Ronald Reagan",
+        "Ben Hall",
+        "Ned Kelly",
+        "Mad Dog Morgan",
+        "Frank Gardner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1865, which U.S. President was assassinated by John Wilkes Booth?",
+      "choices": [
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "James Garfield",
+        "William McKinley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The serial killer who murdered victims in Whitechapel, London during the late 1880s became known by what nickname?",
+      "choices": [
+        "The Whitechapel Slasher",
+        "Jack the Ripper",
+        "The London Phantom",
+        "The East End Killer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which member of the British Royal Family survived a kidnap attempt in the Mall during 1973?",
+      "choices": [
+        "Prince Charles",
+        "Princess Margaret",
+        "Princess Anne",
+        "Prince Andrew"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1981, the body of which assassinated figure was exhumed to confirm his identity?",
+      "choices": [
+        "Oswald Mosley",
+        "Lee Harvey Oswald",
+        "Malcolm X",
+        "Medgar Evers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President was the target of John Hinckley Jr.'s assassination attempt in 1981?",
+      "choices": [
         "Jimmy Carter",
-        "George H.W. Bush",
+        "Ronald Reagan",
+        "Gerald Ford",
         "Richard Nixon"
       ],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ronald Reagan",
-        "verified": true,
-        "notes": "March 30, 1981 outside the Washington Hilton. Hinckley wanted to impress actress Jodie Foster."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Who assassinated President Abraham Lincoln in 1865?",
+      "q": "Charles Manson led a commune known by what name before orchestrating murders in California during the late 1960s?",
       "choices": [
-        "John Wilkes Booth",
-        "Charles Guiteau",
-        "Lee Harvey Oswald",
-        "Leon Czolgosz"
+        "The Circle",
+        "The Family",
+        "The Collective",
+        "The Commune"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to crime statistics in the United Kingdom, approximately what percentage of offenders are male?",
+      "choices": [
+        "60 percent",
+        "70 percent",
+        "80 percent",
+        "90 percent"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 2008, former Olympic athlete Tim Montgomery was convicted of fraud and money laundering. In which Olympic event did he compete?",
+      "choices": [
+        "Swimming",
+        "Track and Field",
+        "Cycling",
+        "Gymnastics"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Baader-Meinhof organization member was active as a terrorist in 1970s Germany and is famous for her anti-establishment ideology?",
+      "choices": [
+        "Gudrun Ensslin",
+        "Horst Mahler",
+        "Andreas Baader",
+        "Irmgard Möller"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Abraham Lincoln",
-        "verified": true,
-        "notes": "April 14, 1865 at Ford's Theatre."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who was charged with assassinating President JFK on November 22, 1963?",
+      "q": "In 1910, Dr. Hawley Harvey Crippen became the first criminal to be captured with the aid of which communication technology?",
+      "choices": [
+        "Telephone wiretapping",
+        "Ship-to-shore telegraph",
+        "Radio broadcast alert",
+        "Postal service tracking"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English serial killer claimed in the 1970s that a demonic dog belonging to his neighbor commanded him to commit murders?",
+      "choices": [
+        "Peter Manuel",
+        "David Berkowitz",
+        "John Christie",
+        "Denis Nilsen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1973, which member of the British Royal Family survived an abduction attempt while being driven through central London?",
+      "choices": [
+        "Queen Elizabeth II",
+        "Prince Charles",
+        "Princess Anne",
+        "Princess Margaret"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Harold Shipman, convicted of 15 murders in 2000, held which profession that enabled his suspected crimes against around 250 victims?",
+      "choices": [
+        "Nurse",
+        "Pharmacist",
+        "General practitioner",
+        "Hospital administrator"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1986, the Prime Minister of which Scandinavian country was assassinated while walking home from a cinema?",
+      "choices": [
+        "Denmark",
+        "Sweden",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tolpuddle Martyrs were convicted in 1834 for taking which illegal action that sparked widespread labor movement protests?",
+      "choices": [
+        "Organizing a workers' strike",
+        "Taking an illegal oath",
+        "Distributing seditious pamphlets",
+        "Assembling without permission"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Alexander Litvinenko, a former FSB officer, died in London in 2006 after being poisoned with which radioactive substance?",
+      "choices": [
+        "Plutonium-239",
+        "Polonium-210",
+        "Uranium-235",
+        "Cesium-137"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1963, Lee Harvey Oswald was arrested for the assassination of President John F. Kennedy in which American city?",
+      "choices": [
+        "Washington D.C.",
+        "Dallas",
+        "Houston",
+        "Austin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ruth Ellis, executed in 1955, held the distinction of being the last woman to receive which form of capital punishment in Britain?",
+      "choices": [
+        "Firing squad",
+        "Lethal injection",
+        "Hanging",
+        "Electrocution"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the 1920s Prohibition era, Al Capone built his criminal enterprise primarily in which American city?",
+      "choices": [
+        "New York",
+        "Los Angeles",
+        "Chicago",
+        "Detroit"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Watergate scandal, which led to President Richard Nixon's resignation, involved the illegal break-in at which building in 1972?",
+      "choices": [
+        "The Capitol Building",
+        "The Democratic National Committee headquarters",
+        "The White House",
+        "The FBI headquarters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1981, the body of which assassination suspect was exhumed in order to verify his identity using forensic evidence?",
+      "choices": [
+        "James Earl Ray",
+        "Lee Harvey Oswald",
+        "Sirhan Sirhan",
+        "Jack Ruby"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Timothy Evans was wrongfully executed in 1950 for murders he did not commit, which eventually contributed to Britain abolishing which practice?",
+      "choices": [
+        "Life imprisonment without parole",
+        "Capital punishment",
+        "Solitary confinement",
+        "Forced labor"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2008, Colombian politician Ingrid Betancourt was freed from captivity after being held by which militant organization for six years?",
+      "choices": [
+        "ELN",
+        "FARC",
+        "AUC",
+        "M-19"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mark David Chapman, who assassinated John Lennon in 1980, was arrested outside which New York building?",
+      "choices": [
+        "Madison Square Garden",
+        "The Dakota apartment building",
+        "Times Square Tower",
+        "Grand Central Terminal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1943, which Hollywood actor was acquitted of rape charges in a sensational trial that dominated entertainment news?",
+      "choices": [
+        "Cary Grant",
+        "Errol Flynn",
+        "Humphrey Bogart",
+        "James Stewart"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Radovan Karadzic, a key figure in the Bosnian War crimes tribunal, faced trial in which international city?",
+      "choices": [
+        "Brussels",
+        "Vienna",
+        "The Hague",
+        "Geneva"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2009, former Olympic sprinter Tim Montgomery was sentenced to four years imprisonment for which financial crimes?",
+      "choices": [
+        "Tax evasion and bribery",
+        "Fraud and money laundering",
+        "Securities fraud and embezzlement",
+        "Insurance fraud and counterfeiting"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lord Haw Haw was tried and executed at the end of World War II primarily for committing which crime?",
+      "choices": [
+        "Espionage",
+        "War crimes",
+        "Treason",
+        "Crimes against humanity"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Whitechapel murders of 1888 were attributed to an unidentified killer who became known by which infamous nickname?",
+      "choices": [
+        "The Leather Apron",
+        "Jack the Ripper",
+        "The Whitechapel Fiend",
+        "Spring-Heeled Jack"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1910, Dr. Hawley Harvey Crippen became the first criminal to be captured with the aid of which modern technology?",
+      "choices": [
+        "Wireless telegraph communication between ship and shore",
+        "Early fingerprint database matching",
+        "Photographic identification in newspapers",
+        "Railway station surveillance systems"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swedish Prime Minister was assassinated in 1986 while leaving the Gota Lejon cinema in Stockholm?",
+      "choices": [
+        "Torsten Nilsson",
+        "Olof Palme",
+        "Erik Ericsson",
+        "Gustaf Geijer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Harold Shipman, convicted of 15 murders in 2000, was employed in which profession before his arrest?",
+      "choices": [
+        "Psychiatrist",
+        "Hospital administrator",
+        "General practitioner physician",
+        "Nursing home director"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mark David Chapman, the man convicted of assassinating John Lennon in 1980, was apprehended at what location?",
+      "choices": [
+        "The Dakota building lobby",
+        "Central Park West",
+        "The rooftop of the Record Plant",
+        "The entrance to the Apple Records studio"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1978 Tenerife airport disaster investigation, which regulatory body's inquiry concluded it was primarily a result of pilot error and communication failure rather than mechanical failure?",
+      "choices": [
+        "Spanish aviation authorities",
+        "International Civil Aviation Organization",
+        "Dutch Aviation Board",
+        "NTSB (National Transportation Safety Board)"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Alexander Litvinenko, a former Russian intelligence officer, died in London in 2006 from poisoning by which radioactive substance?",
+      "choices": [
+        "Cesium-137",
+        "Polonium-210",
+        "Strontium-90",
+        "Cobalt-60"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tolpuddle Martyrs were convicted in 1834 primarily for engaging in which activity?",
+      "choices": [
+        "Organizing an illegal labor union",
+        "Taking an illegal oath in a secret society",
+        "Distributing seditious pamphlets",
+        "Sabotaging agricultural machinery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1973, which member of the British Royal Family was the target of an attempted kidnapping on the Mall in London?",
+      "choices": [
+        "Prince Charles",
+        "Princess Anne",
+        "Prince Andrew",
+        "Princess Margaret"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2009, a 17-year-old opened fire at a school in Winnenden, resulting in 15 deaths. In which country did this tragedy occur?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Baader-Meinhof Group, an extremist organization active in the 1970s, primarily operated in which country?",
+      "choices": [
+        "Italy",
+        "West Germany",
+        "France",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Elisabeth Fritzl was held captive in a concealed basement in Austria for approximately how many years before her escape in 2008?",
+      "choices": [
+        "18 years",
+        "24 years",
+        "31 years",
+        "15 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Ruth Ellis become the last woman to be executed by hanging in Britain?",
+      "choices": [
+        "1953",
+        "1955",
+        "1957",
+        "1959"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country do the FARC militant group primarily operate?",
+      "choices": [
+        "Peru",
+        "Ecuador",
+        "Colombia",
+        "Venezuela"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swedish Prime Minister was assassinated while leaving a theater in 1986?",
+      "choices": [
+        "Olof Palme",
+        "Torsten Nilsson",
+        "Ulf Adelsohn",
+        "Carl Bildt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the intended target of John Hinckley Jr.'s assassination attempt in 1981?",
+      "choices": [
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "Gerald Ford",
+        "Richard Nixon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which notorious serial killer was first captured with the aid of ship-to-shore telegraph technology?",
+      "choices": [
+        "Jack the Ripper",
+        "Dr. Crippen",
+        "Peter Kürten",
+        "John Christie"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did Jack the Ripper terrorize the Whitechapel district of London?",
+      "choices": [
+        "1870s",
+        "1880s",
+        "1890s",
+        "1900s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which far-left militant group was also known by the acronym RAF in 1970s Germany?",
+      "choices": [
+        "Red Army Faction",
+        "Rote Arbeiter Front",
+        "Revolutionäre Antifa Fraktion",
+        "Radikale Aktion Bewegung"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who murdered John Lennon outside his residence in New York in 1980?",
+      "choices": [
+        "David Chapman",
+        "Mark Chapman",
+        "Andrew Chapman",
+        "Michael Chapman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Hollywood actor was acquitted of rape charges in 1943 in a highly publicized trial?",
+      "choices": [
+        "Humphrey Bogart",
+        "Errol Flynn",
+        "James Stewart",
+        "Cary Grant"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1973, which member of the British Royal Family narrowly escaped a kidnapping attempt on the Mall in London?",
+      "choices": [
+        "Queen Elizabeth II",
+        "Prince Charles",
+        "Princess Anne",
+        "Prince Andrew"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cult leader orchestrated the murders carried out by his commune known as 'The Family'?",
+      "choices": [
+        "Jim Jones",
+        "David Koresh",
+        "Charles Manson",
+        "Marshall Applewhite"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2006, which Russian dissident and former spy died under mysterious circumstances in London from polonium poisoning?",
+      "choices": [
+        "Boris Berezovsky",
+        "Alexander Litvinenko",
+        "Sergei Skripal",
+        "Oleg Deripaska"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English celebrity and political activist holds the record for being the most sued individual in the country?",
+      "choices": [
+        "Richard Branson",
+        "Piers Morgan",
+        "Ian Hislop",
+        "Boris Johnson"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2009, how many people were killed during Karst Tates' vehicle rampage targeting the Dutch Royal Family?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many years was Elisabeth Fritzl held captive in a basement in Austria before her rescue in 2008?",
+      "choices": [
+        "18 years",
+        "21 years",
+        "24 years",
+        "27 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which northern English city did the Gooch Gang operate primarily during the 2000s?",
+      "choices": [
+        "Leeds",
+        "Liverpool",
+        "Manchester",
+        "Sheffield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which wrongful conviction and subsequent execution helped lead to the abolition of capital punishment in Britain?",
+      "choices": [
+        "John Christie",
+        "Timothy Evans",
+        "James Hanratty",
+        "Derek Bentley"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2008, Ingrid Betancourt was released after being held captive by FARC for how many years?",
+      "choices": [
+        "4 years",
+        "6 years",
+        "8 years",
+        "10 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous bank robber and Depression-era criminal was portrayed by Johnny Depp in the 2009 film 'Public Enemies'?",
+      "choices": [
+        "Baby Face Nelson",
+        "John Dillinger",
+        "Pretty Boy Floyd",
+        "Machine Gun Kelly"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1981, the body of which alleged presidential assassin was exhumed to confirm his identity through forensic examination?",
       "choices": [
         "Lee Harvey Oswald",
-        "Jack Ruby",
-        "Charles Guiteau",
+        "James Earl Ray",
+        "Sirhan Sirhan",
         "John Wilkes Booth"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Lee Harvey Oswald",
-        "verified": true,
-        "notes": "Killed by Jack Ruby two days later before standing trial."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which Colombian drug lord ran the Medellín Cartel and was killed in 1993?",
-      "choices": ["Pablo Escobar", "Joaquín Guzmán", "Carlos Lehder", "Amado Carrillo"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Subject of Netflix's 'Narcos.'"
-      }
-    },
-    {
-      "q": "Which Mexican drug lord — leader of the Sinaloa Cartel — was extradited to the U.S. in 2017?",
+      "q": "Which British man's wrongful execution in 1950 led Parliament to eventually abolish capital punishment?",
       "choices": [
-        "El Chapo (Joaquín Guzmán)",
-        "El Mayo",
-        "El Mencho",
-        "Amado Carrillo"
+        "Timothy Evans",
+        "Derek Bentley",
+        "James Hanratty",
+        "Peter Allen"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Sentenced to life in 2019."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Who is the international police organization headquartered in Lyon, France?",
-      "choices": ["Interpol", "Europol", "FBI", "MI6"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "France",
-        "verified": true,
-        "notes": "International Criminal Police Organization. 195 member countries."
-      }
-    },
-    {
-      "q": "Who founded the FBI and led it 1924-1972?",
+      "q": "In the 1940s, which cult leader orchestrated the murders of multiple victims including actress Sharon Tate?",
       "choices": [
-        "J. Edgar Hoover",
-        "Eliot Ness",
-        "Allen Dulles",
-        "John Ashcroft"
+        "Charles Manson",
+        "David Koresh",
+        "Jim Jones",
+        "Marshall Applewhite"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Director for 48 years."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which 1969 'Helter Skelter' murders involved actress Sharon Tate's killing?",
+      "q": "For how many years was Elisabeth Fritzl held captive in an Austrian basement before her rescue?",
       "choices": [
-        "Manson Family murders",
-        "Black Dahlia",
-        "Hillside Strangler",
-        "Tate-LaBianca"
+        "12 years",
+        "18 years",
+        "24 years",
+        "30 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which member of the British royal family survived a kidnap attempt near the Mall in London during 1973?",
+      "choices": [
+        "Princess Margaret",
+        "Princess Anne",
+        "Prince Charles",
+        "Prince Andrew"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1970s German militant group was commonly known by a double surname referring to its founders?",
+      "choices": [
+        "Baader-Meinhof Group",
+        "Rote Armee Fraktion",
+        "Deutsche Aktionsgruppe",
+        "Revolutionäre Kampf"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "August 9, 1969. Tate was 8 months pregnant."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which 1995 trial — for the murder of Nicole Brown Simpson — is often called the 'trial of the century'?",
-      "choices": ["O.J. Simpson", "Casey Anthony", "Phil Spector", "Jeffrey Dahmer"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Acquitted October 3, 1995. Found liable in civil court 1997."
-      }
-    },
-    {
-      "q": "Which UK doctor was convicted of killing 15 patients (suspected of ~250)?",
+      "q": "In 1980, which music legend was assassinated outside his Manhattan apartment building by Mark Chapman?",
       "choices": [
-        "Harold Shipman",
-        "John Bodkin Adams",
-        "Dr. Crippen",
-        "Beverley Allitt"
+        "Bob Dylan",
+        "John Lennon",
+        "Paul McCartney",
+        "George Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which notorious serial killer claimed that a demon dog commanded him to commit murders in the 1970s?",
+      "choices": [
+        "Richard Kuklinski",
+        "David Berkowitz",
+        "Edmund Kemper",
+        "Jerome Brudos"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1930, which Australian bushranger became a folk legend while wearing a homemade metal armor as protection?",
+      "choices": [
+        "Ben Hall",
+        "Ned Kelly",
+        "Captain Thunderbolt",
+        "Mad Dog Morgan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American gangster built his criminal empire in Chicago during the Prohibition era of the 1920s?",
+      "choices": [
+        "Lucky Luciano",
+        "Meyer Lansky",
+        "Al Capone",
+        "John Gotti"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1910, which British physician became the first criminal to be captured with the aid of ship-to-shore wireless telegraph technology?",
+      "choices": [
+        "Hawley Harvey Crippen",
+        "Peter Manuel",
+        "John Christie",
+        "Dennis Nilsen"
       ],
       "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Doctor",
-        "verified": true,
-        "notes": "Convicted 2000; killed himself in prison 2004."
-      }
-    },
-    {
-      "q": "Which serial killer murdered 17 men/boys in Milwaukee 1978-1991?",
-      "choices": [
-        "Jeffrey Dahmer",
-        "Ted Bundy",
-        "John Wayne Gacy",
-        "Dennis Rader"
-      ],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Killed in prison by another inmate, 1994."
-      }
-    },
-    {
-      "q": "Which Wichita-area killer self-named 'BTK' (Bind, Torture, Kill) was caught in 2005?",
-      "choices": ["Dennis Rader", "Gary Ridgway", "Ted Bundy", "BTK"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "10 victims 1974-1991. Caught after sending taunting letters again in 2004."
-      }
-    },
-    {
-      "q": "Which 1992 Pacific Northwest serial killer was nicknamed 'Green River Killer'?",
-      "choices": ["Gary Ridgway", "Robert Yates", "Israel Keyes", "Joel Rifkin"],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "Convicted of 49 murders in 2003; suspected of 70+."
-      }
-    },
-    {
-      "q": "Which 2009 Johnny Depp film depicts the famous Public Enemy bank robber John Dillinger?",
-      "choices": [
-        "Public Enemies",
-        "Dillinger",
-        "Bonnie and Clyde",
-        "The Untouchables"
-      ],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "John Dillinger",
-        "verified": true,
-        "notes": "Directed by Michael Mann."
-      }
-    },
-    {
-      "q": "Which 1932 kidnapping case shocked America with the abduction of an aviator's son?",
-      "choices": [
-        "Lindbergh kidnapping",
-        "Patty Hearst",
-        "JonBenét Ramsey",
-        "Black Dahlia"
-      ],
-      "correct": 0,
-      "category": "True Crime",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "True Crime",
-        "verified": true,
-        "notes": "20-month-old Charles Lindbergh Jr. kidnapped from his crib. Bruno Hauptmann executed in 1936."
-      }
+      "difficulty": "medium"
     }
   ]
 }

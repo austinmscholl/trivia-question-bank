@@ -1,169 +1,3274 @@
 {
   "slug": "inventions-trivia",
   "name": "Inventions",
-  "description": "Inventors, groundbreaking devices, and technological firsts",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.593Z",
   "questions": [
     {
-      "q": "Who is credited with inventing the computer mouse in the 1960s?",
-      "choices": ["Steve Jobs", "Douglas Engelbart", "Bill Gates", "Nolan Bushnell"],
+      "q": "In what year did the yo-yo become a popular toy craze in the United States?",
+      "choices": [
+        "1920",
+        "1928",
+        "1935",
+        "1942"
+      ],
       "correct": 1,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Demonstrated 1968 in the 'Mother of All Demos.' Shared credit with Bill English." }
+      "difficulty": "easy"
     },
     {
-      "q": "The transistor, foundational to modern electronics, was invented in what year?",
-      "choices": ["1927", "1947", "1957", "1967"],
+      "q": "What did James Dewar invent to keep beverages at their desired temperature?",
+      "choices": [
+        "The refrigerator",
+        "The thermos flask",
+        "The ice maker",
+        "The heated cup"
+      ],
       "correct": 1,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "1947", "verified": true, "notes": "At Bell Labs by Bardeen, Brattain, and Shockley. They won the 1956 Nobel Prize." }
+      "difficulty": "easy"
     },
     {
-      "q": "What did Edison famously utter as the first audio recording on his phonograph?",
-      "choices": ["Hello, World", "Mary Had a Little Lamb", "Testing, 1-2-3", "Four score and seven years ago"],
+      "q": "Which inventor is credited with creating the first practical incandescent light bulb?",
+      "choices": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Joseph Swan",
+        "William Siemens"
+      ],
       "correct": 1,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Mary Had a Little Lamb", "verified": true, "notes": "Recorded December 1877. Original recording lost but Edison re-recorded it later." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who invented the lie detector (polygraph) in 1921?",
-      "choices": ["Sigmund Freud", "John Augustus Larson", "Alphonse Bertillon", "Edward Teller"],
+      "q": "What writing instrument was specifically designed to work in space?",
+      "choices": [
+        "The ballpoint pen",
+        "The space pen",
+        "The fountain pen",
+        "The gel pen"
+      ],
       "correct": 1,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "John Augustus Larson", "verified": true, "notes": "Berkeley police officer and medical student. Later had reservations about his own invention's accuracy." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who invented the zipper as we know it today?",
-      "choices": ["Thomas Edison", "Eli Whitney", "Whitcomb L. Judson", "Elias Howe"],
-      "correct": 2,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "Whitcomb L. Judson", "verified": true, "notes": "Patented the 'clasp locker' in 1893. Gideon Sundback refined it to the modern version in 1913." }
-    },
-    {
-      "q": "Who invented the World Wide Web at CERN in 1989?",
-      "choices": ["Vint Cerf", "Tim Berners-Lee", "Marc Andreessen", "Steve Wozniak"],
-      "correct": 1,
-      "category": "Inventions",
-      "difficulty": "easy",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "British computer scientist. Later knighted. Gave away the technology freely." }
-    },
-    {
-      "q": "Who invented the steamboat that traveled on the Hudson River in 1807?",
-      "choices": ["James Watt", "Robert Fulton", "Nikola Tesla", "George Stephenson"],
-      "correct": 1,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Steamboat", "verified": true, "notes": "His 'Clermont' made the NYC-Albany trip in 32 hours." }
-    },
-    {
-      "q": "Who's credited with inventing the telephone in 1876?",
-      "choices": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
-      "correct": 2,
-      "category": "Inventions",
-      "difficulty": "easy",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Beat Elisha Gray to the patent office by hours. Scottish-American." }
-    },
-    {
-      "q": "Who invented the kaleidoscope in 1816?",
-      "choices": ["Charles Wheatstone", "David Brewster", "Louis Daguerre", "Joseph Niepce"],
-      "correct": 1,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "David Brewster", "verified": true, "notes": "Scottish physicist. Also known for Brewster's angle in optics." }
-    },
-    {
-      "q": "Who invented the modern analytical geometry (using x and y coordinates)?",
-      "choices": ["Isaac Newton", "Gottfried Leibniz", "René Descartes", "Pierre de Fermat"],
-      "correct": 2,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "René Descartes", "verified": true, "notes": "Published 1637 in 'La Géométrie.' Cartesian coordinates named after him." }
-    },
-    {
-      "q": "Who invented the first practical airplane and made the first powered flight in 1903?",
-      "choices": ["Wright Brothers", "Glenn Curtiss", "Samuel Langley", "Louis Blériot"],
+      "q": "Who invented the sewing machine?",
+      "choices": [
+        "Elias Howe",
+        "Isaac Singer",
+        "James Hargreaves",
+        "Edmund Cartwright"
+      ],
       "correct": 0,
-      "category": "Inventions",
-      "difficulty": "easy",
-      "source": { "original_a": "Hang glider", "verified": true, "notes": "Orville and Wilbur Wright. First flight at Kitty Hawk, NC, December 17, 1903." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Swedish inventor created dynamite in 1867?",
-      "choices": ["Alfred Nobel", "Gustave Eiffel", "Carl Wilhelm Scheele", "John Ericsson"],
-      "correct": 0,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Founded the Nobel Prizes in his will to offset his legacy as 'the merchant of death.'" }
-    },
-    {
-      "q": "Which invention by Charles Fey in 1895 pioneered slot machine gaming?",
-      "choices": ["Steel Wheel", "Liberty Bell", "Lucky Seven", "The Fey"],
+      "q": "What did George Eastman invent that revolutionized photography?",
+      "choices": [
+        "The camera lens",
+        "Roll film",
+        "The flash bulb",
+        "The shutter mechanism"
+      ],
       "correct": 1,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "Slot machine", "verified": true, "notes": "Liberty Bell — first successful three-reel slot machine. Mechanic in San Francisco." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who invented the practical incandescent light bulb?",
-      "choices": ["Nikola Tesla", "Thomas Edison", "Joseph Swan", "Both B and C"],
+      "q": "Which lock mechanism was invented by Linus Yale and shares its name with a university?",
+      "choices": [
+        "The combination lock",
+        "The deadbolt lock",
+        "The pin tumbler lock",
+        "The padlock"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the first motion pictures premiere in Paris?",
+      "choices": [
+        "1890",
+        "1895",
+        "1900",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the phonograph, the first device to record and play back sound?",
+      "choices": [
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Emile Berliner",
+        "Guglielmo Marconi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What everyday material did Cai Lun invent in ancient China around 100 AD?",
+      "choices": [
+        "Silk",
+        "Porcelain",
+        "Paper",
+        "Gunpowder"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the barometer to measure atmospheric pressure?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Evangelista Torricelli",
+        "Blaise Pascal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Carl Magee introduce in 1935 that became a fixture on city streets?",
+      "choices": [
+        "The traffic light",
+        "The parking meter",
+        "The street sign",
+        "The crosswalk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor is credited with creating the reflecting telescope?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Christiaan Huygens"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What communication system did Samuel Morse develop to send messages over wires?",
+      "choices": [
+        "The telegraph code",
+        "Morse Code",
+        "The telephone system",
+        "Radio waves"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the steamboat that first successfully operated commercially in 1803?",
+      "choices": [
+        "Oliver Evans",
+        "Robert Fulton",
+        "John Fitch",
+        "William Symington"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What synthetic elastic fabric was invented to stretch and fit snugly like a second skin?",
+      "choices": [
+        "Lycra",
+        "Spandex",
+        "Polyester",
+        "Rayon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was hairspray introduced as a commercial hair styling product?",
+      "choices": [
+        "1948",
+        "1955",
+        "1960",
+        "1967"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breakfast food did Dr. John Kellogg invent as a healthy morning cereal?",
+      "choices": [
+        "Corn Flakes",
+        "Granola",
+        "Oatmeal",
+        "Muesli"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the first practical diesel engine for locomotives?",
+      "choices": [
+        "George Stephenson",
+        "Rudolf Diesel",
+        "Gottlieb Daimler",
+        "Karl Benz"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the safety pin in the 19th century?",
+      "choices": [
+        "Walter Hunt",
+        "Charles Goodyear",
+        "Elias Howe",
+        "Thomas Edison"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did George Eastman patent roll film for cameras?",
+      "choices": [
+        "1875",
+        "1884",
+        "1891",
+        "1900"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian physicist invented the barometer in the 17th century?",
+      "choices": [
+        "Galileo Galilei",
+        "Evangelista Torricelli",
+        "Alessandro Volta",
+        "Luigi Galvani"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the food processor in its modern kitchen form?",
+      "choices": [
+        "Julia Child",
+        "Ken Wood",
+        "Carl Sontheimer",
+        "Ruth Graves Wakefield"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did James Dewar invent to keep liquids hot or cold?",
+      "choices": [
+        "The thermos bottle",
+        "The refrigerator",
+        "The pressure cooker",
+        "The tea kettle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which German inventor created the first printing press with movable type?",
+      "choices": [
+        "Albrecht Dürer",
+        "Johannes Gutenberg",
+        "Martin Luther",
+        "Hans Burgkmair"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century was paper invented in China?",
+      "choices": [
+        "1st century",
+        "2nd century",
+        "8th century",
+        "12th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What medical invention did Friedrich Serturner extract from the poppy plant?",
+      "choices": [
+        "Aspirin",
+        "Morphine",
+        "Codeine",
+        "Quinine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented contact lenses in the 1880s?",
+      "choices": [
+        "Adolf Fick",
+        "Alois Lentsch",
+        "Wilhelm Bessel",
+        "Ernst Mach"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British entrepreneur created the ZX Spectrum home computer?",
+      "choices": [
+        "Alan Turing",
+        "Tim Berners-Lee",
+        "Clive Sinclair",
+        "Steve Jobs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What everyday item did Otto Lilienthal pioneer for human flight?",
+      "choices": [
+        "The hot air balloon",
+        "The hang glider",
+        "The parachute",
+        "The airplane"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which monk developed the double-entry bookkeeping system used in accounting?",
+      "choices": [
+        "Alcuin of York",
+        "Luca Pacioli",
+        "Roger Bacon",
+        "Boethius"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the magnetic stripe technology used on credit cards?",
+      "choices": [
+        "IBM engineers",
+        "Forrest Parodi",
+        "Magnetic Stripe Inc.",
+        "Innovators at Visa"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did the Flymo company invent in the 1960s based on hovercraft technology?",
+      "choices": [
+        "The hover lawnmower",
+        "The jet ski",
+        "The air hockey table",
+        "The hoverboard"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Kodak introduce the first consumer hand-held camera?",
+      "choices": [
+        "1878",
+        "1888",
+        "1898",
+        "1908"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mathematician pioneered analytical geometry in the 17th century?",
+      "choices": [
+        "Isaac Newton",
+        "René Descartes",
+        "Pierre de Fermat",
+        "Blaise Pascal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Admiral Hyman Rickover pioneered the use of atomic power in what type of vessel?",
+      "choices": [
+        "Aircraft carriers",
+        "Battleships",
+        "Submarines",
+        "Cruisers"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did the Jacuzzi brothers invent using hydrotherapy jets?",
+      "choices": [
+        "The hot tub",
+        "The swimming pool",
+        "The sauna",
+        "The steam shower"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which surgeon invented the first practical hypodermic syringe?",
+      "choices": [
+        "Joseph Lister",
+        "Charles Gabriel Pravaz",
+        "William Morton",
+        "Crawford Long"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Alva Fisher invent that earned him the title 'The Edison of the Home'?",
+      "choices": [
+        "The electric refrigerator",
+        "The electric fan",
+        "The electric iron",
+        "The electric kettle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the incandescent light bulb that became widely used in homes and businesses?",
+      "choices": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "George Westinghouse"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the first successful airplane in 1903?",
+      "choices": [
+        "Otto Lilienthal",
+        "Samuel Langley",
+        "Wilbur and Orville Wright",
+        "Gustave Whitehead"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What household appliance did Otis Boydstun invent in 1908 to make laundry easier?",
+      "choices": [
+        "Electric iron",
+        "Washing machine",
+        "Clothes dryer",
+        "Dishwasher"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the zipper, originally called the 'Clasp Locker,' in 1913?",
+      "choices": [
+        "Elias Howe",
+        "Gideon Sundback",
+        "William G. Morton",
+        "John Kohler"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did John Logie Baird demonstrate the first working television system?",
+      "choices": [
+        "1922",
+        "1926",
+        "1930",
+        "1935"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did George de Mestral invent in 1941 after observing burrs stuck to his clothing?",
+      "choices": [
+        "Velcro",
+        "Safety pins",
+        "Snap fasteners",
+        "Button hooks"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which scientist invented the first nuclear reactor in 1942?",
+      "choices": [
+        "J. Robert Oppenheimer",
+        "Enrico Fermi",
+        "Albert Einstein",
+        "Richard Feynman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the first practical contact lenses in the 1950s?",
+      "choices": [
+        "Otto Wichterle",
+        "Benjamin Franklin",
+        "Armando Sabongi",
+        "Conrad Berens"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Spencer Silver invent at 3M in 1968 that later became Post-it Notes?",
+      "choices": [
+        "Pressure-sensitive adhesive",
+        "Adhesive tape",
+        "Self-sticking paper",
+        "Low-tack glue"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the World Wide Web while working at CERN in 1989?",
+      "choices": [
+        "Steve Jobs",
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Larry Page"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which device did Percy Spencer accidentally invent when he noticed a melted chocolate bar in his pocket near a magnetron?",
+      "choices": [
+        "Toaster oven",
+        "Microwave oven",
+        "Electric grill",
+        "Convection oven"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Chester Carlson invent in 1938 to revolutionize document copying?",
+      "choices": [
+        "Photocopier",
+        "Fax machine",
+        "Blueprint machine",
+        "Document scanner"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the barometer, a device used to measure atmospheric pressure?",
+      "choices": [
+        "Blaise Pascal",
+        "Evangelista Torricelli",
+        "Robert Boyle",
+        "Daniel Gabriel Fahrenheit"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Jacob Davis and Levi Strauss patent in 1873 that became a timeless garment?",
+      "choices": [
+        "T-shirt",
+        "Jeans",
+        "Overalls",
+        "Work shirt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the first successful steam-powered locomotive in 1804?",
+      "choices": [
+        "George Stephenson",
+        "Richard Trevithick",
+        "James Watt",
+        "Thomas Newcomen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did John Stith Pemberton invent in 1886 that became a famous soft drink?",
+      "choices": [
+        "Sprite",
+        "Fanta",
+        "Coca-Cola",
+        "Pepsi"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the stethoscope in 1816 to listen to sounds inside the body?",
+      "choices": [
+        "William Harvey",
+        "René Laennec",
+        "Joseph Lister",
+        "Claude Bernard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did George Eastman invent in 1885 that transformed photography into a hobby?",
+      "choices": [
+        "Photography lens",
+        "Photo paper",
+        "Flexible film",
+        "Camera shutter"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the practical vulcanization process for rubber in 1844?",
+      "choices": [
+        "Goodyear",
+        "Dunlop",
+        "Charles Goodyear",
+        "John Boyd Dunlop"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor's name became synonymous with the pin tumbler lock, revolutionizing security?",
+      "choices": [
+        "Linus Yale",
+        "Samuel Colt",
+        "Thomas Newcomen",
+        "James Hargreaves"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the first practical steam engine used in industrial applications?",
+      "choices": [
+        "James Watt",
+        "Thomas Newcomen",
+        "George Stephenson",
+        "Robert Fulton"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Karl Benz invent the first gasoline-powered automobile?",
+      "choices": [
+        "1885",
+        "1876",
+        "1892",
+        "1901"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the first practical electric light bulb?",
+      "choices": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Joseph Swan",
+        "Humphry Davy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What device did Guglielmo Marconi invent that enabled wireless communication?",
+      "choices": [
+        "Radio",
+        "Telegraph",
+        "Television",
+        "Telephone"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Kodak introduce the first handheld camera designed for consumers?",
+      "choices": [
+        "1888",
+        "1876",
+        "1901",
+        "1895"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the printing press with movable type that revolutionized publishing?",
+      "choices": [
+        "Johannes Gutenberg",
+        "Aldus Manutius",
+        "William Caxton",
+        "Johann Fust"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which kitchen appliance was originally developed from a device called the magnetron?",
+      "choices": [
+        "Microwave oven",
+        "Electric toaster",
+        "Dishwasher",
+        "Refrigerator"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did John Logie Baird invent in 1926?",
+      "choices": [
+        "Television",
+        "Radio",
+        "Motion picture camera",
+        "Phonograph"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the airplane and successfully flew it at Kitty Hawk?",
+      "choices": [
+        "Wright brothers",
+        "Otto Lilienthal",
+        "Samuel Langley",
+        "Glenn Curtiss"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the first mechanical clock with a pendulum?",
+      "choices": [
+        "Christiaan Huygens",
+        "John Harrison",
+        "Galileo Galilei",
+        "Robert Hooke"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What device did Douglas Engelbart demonstrate in 1968 that became essential to computers?",
+      "choices": [
+        "Computer mouse",
+        "Keyboard",
+        "Monitor",
+        "Floppy disk"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the toothbrush with bristles as we know it today?",
+      "choices": [
+        "William Addis",
+        "Dr. Pierre Fauchard",
+        "Levi Spear Jackson",
+        "Dr. Alfred C. Fones"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did John Pemberton invent the carbonated drink Coca-Cola?",
+      "choices": [
+        "1886",
+        "1891",
+        "1880",
+        "1895"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the first successful vaccine against a major disease?",
+      "choices": [
+        "Edward Jenner",
+        "Louis Pasteur",
+        "Jonas Salk",
+        "Albert Sabin"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Chester Carlson invent in 1938 that revolutionized office work?",
+      "choices": [
+        "Photocopier",
+        "Electric typewriter",
+        "Adding machine",
+        "Fax machine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the sewing machine that became commercially successful?",
+      "choices": [
+        "Isaac Merritt Singer",
+        "Elias Howe",
+        "Walter Hunt",
+        "Barthélemy Thimonnier"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created spandex, the elastic synthetic fiber?",
+      "choices": [
+        "Joseph Shivers",
+        "Wallace Carothers",
+        "Julius Nieuwland",
+        "Charles Goodyear"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Robert Fulton demonstrate in 1807 on the Hudson River?",
+      "choices": [
+        "Steamboat",
+        "Submarine",
+        "Steam locomotive",
+        "Hot air balloon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the mechanical sewing machine that revolutionized textile production in the 1840s?",
+      "choices": [
+        "Elias Howe",
+        "James Hargreaves",
+        "Samuel Crompton",
+        "Edmund Cartwright"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which inventor created the telephone in 1876?",
+      "choices": [
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Guglielmo Marconi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the steam engine that powered the Industrial Revolution?",
+      "choices": [
+        "George Stephenson",
+        "James Watt",
+        "Thomas Newcomen",
+        "Richard Arkwright"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Wright brothers are famous for inventing what in 1903?",
+      "choices": [
+        "The helicopter",
+        "The automobile",
+        "The hot air balloon",
+        "The airplane"
+      ],
       "correct": 3,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Edison (USA) and Swan (UK) developed independently around the same time (1879). They later merged companies." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is credited with inventing the first radio/wireless telegraphy?",
-      "choices": ["Nikola Tesla", "Guglielmo Marconi", "Heinrich Hertz", "Alexander Popov"],
+      "q": "Who invented the light bulb in 1879?",
+      "choices": [
+        "Benjamin Franklin",
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Joseph Swan"
+      ],
       "correct": 1,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Italian inventor. Tesla's work predated, but Marconi got the patent and Nobel Prize (1909)." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who invented the first practical steam engine in 1712?",
-      "choices": ["James Watt", "Thomas Newcomen", "Thomas Savery", "Richard Trevithick"],
-      "correct": 1,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "Steamboat", "verified": true, "notes": "Newcomen's atmospheric engine. James Watt later improved it significantly in the 1760s-70s." }
+      "q": "What household appliance did Karl von Linde develop in the 1870s?",
+      "choices": [
+        "The washing machine",
+        "The dishwasher",
+        "The refrigerator",
+        "The microwave"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Who invented Braille writing for the blind?",
-      "choices": ["Louis Braille", "Samuel Morse", "Charles Barbier", "Helen Keller"],
+      "q": "Which inventor created the first practical aspirin tablet in 1897?",
+      "choices": [
+        "Felix Hoffmann",
+        "Jonas Salk",
+        "Alexander Fleming",
+        "Paul Ehrlich"
+      ],
       "correct": 0,
-      "category": "Inventions",
-      "difficulty": "easy",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Invented at age 15, published 1829. Braille himself was blinded in childhood." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which invention by Igor Sikorsky revolutionized flight in the 1930s?",
-      "choices": ["Jet engine", "Helicopter", "Autogyro", "Glider"],
-      "correct": 1,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "Russian-American engineer. VS-300 prototype flew 1939. First mass-produced helicopter." }
-    },
-    {
-      "q": "Which fundamental optical device did Galileo improve for astronomy in 1609?",
-      "choices": ["Microscope", "Telescope", "Camera obscura", "Astrolabe"],
-      "correct": 1,
-      "category": "Inventions",
-      "difficulty": "medium",
-      "source": { "original_a": "Steamboat", "verified": true, "notes": "Dutch lens-makers invented the telescope ~1608. Galileo improved it and pointed it at the sky." }
-    },
-    {
-      "q": "Which technology did Philo Farnsworth invent, first transmitted in 1927?",
-      "choices": ["Television", "Radio", "Radar", "Cell phone"],
+      "q": "Who invented the ballpoint pen in the 1930s?",
+      "choices": [
+        "László Bíró",
+        "Parker Pen",
+        "Waterman",
+        "Sheaffer"
+      ],
       "correct": 0,
-      "category": "Inventions",
-      "difficulty": "hard",
-      "source": { "original_a": "Mouse", "verified": true, "notes": "First successful electronic television. Developed his design as a teenager." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Clarence Birdseye pioneer in food preservation during the 1920s?",
+      "choices": [
+        "Canning",
+        "Freeze-drying",
+        "Freezing",
+        "Pickling"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the X-ray machine in 1895?",
+      "choices": [
+        "Pierre Curie",
+        "Wilhelm Röntgen",
+        "Marie Curie",
+        "Enrico Fermi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did George Eastman invent that made photography accessible to the public?",
+      "choices": [
+        "The digital camera",
+        "The film roll camera",
+        "The instant camera",
+        "The reflex camera"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the safety pin in its modern form in 1849?",
+      "choices": [
+        "Walter Hunt",
+        "Charles Goodyear",
+        "Isaac Pitman",
+        "Elisha Otis"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What important feature did Gideon Sundback improve on the zipper in 1913?",
+      "choices": [
+        "Its waterproof quality",
+        "Its locking mechanism",
+        "Its color options",
+        "Its metal teeth design"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the escalator in 1892?",
+      "choices": [
+        "Elisha Otis",
+        "Jesse Reno",
+        "Charles Piazza",
+        "Nikola Tesla"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Louis Pasteur develop that helped preserve milk?",
+      "choices": [
+        "Freezing technology",
+        "Pasteurization",
+        "Homogenization",
+        "Sterilization"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the modern dishwasher in 1886?",
+      "choices": [
+        "Josephine Cochrane",
+        "Lillian Gilbreth",
+        "Margaret Knight",
+        "Beulah Henry"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Scotsman John Boyd Dunlop invent in 1888?",
+      "choices": [
+        "The pneumatic tire",
+        "The solid rubber wheel",
+        "The car engine",
+        "The steering wheel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the microwave oven in 1945?",
+      "choices": [
+        "Ray Spencer",
+        "Percy Spencer",
+        "Edwin Spencer",
+        "Robert Spencer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did Antonio Meucci develop that preceded the modern telephone?",
+      "choices": [
+        "The radio telegraph",
+        "The acoustic telephone",
+        "The magnetic telegraph",
+        "The wireless transmitter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 1947, inventor Edwin H. Land created a revolutionary camera that produced photographs instantly. What was this camera called?",
+      "choices": [
+        "Polaroid Camera",
+        "Kodak Instamatic",
+        "Hasselblad",
+        "Leica M3"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which scientist accidentally discovered the microwave oven in 1945 when a chocolate bar melted in his laboratory?",
+      "choices": [
+        "George Westinghouse",
+        "Percy Spencer",
+        "Thomas Edison",
+        "Nikola Tesla"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which engineer patented the first practical mechanical television system using a rotating disk with scanning holes in 1928?",
+      "choices": [
+        "Philo Farnsworth",
+        "Paul Nipkow",
+        "Vladimir Zworykin",
+        "John Logie Baird"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Spencer Silver and Art Fry develop the adhesive that would become Post-it Notes at 3M?",
+      "choices": [
+        "1972",
+        "1977",
+        "1980",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor created the first functional ballpoint pen with a rotating ball bearing in a socket, patented in 1938?",
+      "choices": [
+        "László Bíró",
+        "John J. Loud",
+        "Anston Harrison",
+        "Paul Fisher"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did George de Mestral patent Velcro after observing burdock burrs clinging to his hunting clothes?",
+      "choices": [
+        "1941",
+        "1951",
+        "1956",
+        "1961"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scientist developed the first successful pneumatic tire with an inflatable inner tube in 1888?",
+      "choices": [
+        "Charles Goodyear",
+        "Édouard Michelin",
+        "John Boyd Dunlop",
+        "Robert Thomson"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Chester Carlson invent the photocopier using the principle of electrostatic copying?",
+      "choices": [
+        "1938",
+        "1947",
+        "1950",
+        "1953"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor designed the first practical incandescent light bulb with a carbonized cotton filament that burned for 13.5 hours in 1879?",
+      "choices": [
+        "Joseph Swan",
+        "Thomas Edison",
+        "Humphry Davy",
+        "Lewis Latimer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What device did Clarence Birdseye invent in the 1920s that revolutionized food preservation using rapid freezing?",
+      "choices": [
+        "Freeze-dry chamber",
+        "Quick-freeze system",
+        "Flash freezing machine",
+        "Compression freezer"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British inventor patented the first electric kettle with an immersion element in 1891?",
+      "choices": [
+        "Alan MacBeth Campbell Swinton",
+        "Crompton and Company",
+        "William Murdoch",
+        "Thomas Davenport"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Peter Higgs and François Englert theoretically predict the Higgs boson, later confirmed experimentally in 2012?",
+      "choices": [
+        "1962",
+        "1964",
+        "1968",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor developed the first practical steam-powered vacuum cleaner in 1898?",
+      "choices": [
+        "Hubert Cecil Booth",
+        "James Spangler",
+        "William Hoover",
+        "John Thurman"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Peter Sutherland invent the laminated material that would become Formica, initially used for electrical insulation?",
+      "choices": [
+        "1912",
+        "1924",
+        "1931",
+        "1938"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese engineer invented the quartz watch mechanism in 1969, launching the quartz crisis?",
+      "choices": [
+        "Hiroji Kaiakawa",
+        "Seiko research team",
+        "Masatoshi Iguchi",
+        "Nobuo Tsuji"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did John Presper Eckert and William Mauchly complete ENIAC, the first general-purpose electronic computer?",
+      "choices": [
+        "1943",
+        "1946",
+        "1949",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor created the first practical electric hearing aid powered by batteries in 1901?",
+      "choices": [
+        "Thomas Edison",
+        "Miller Reese Hutchison",
+        "Alexander Graham Bell",
+        "Charles Michalson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Igor Sikorsky successfully develop and fly the first practical single-rotor helicopter?",
+      "choices": [
+        "1935",
+        "1939",
+        "1942",
+        "1947"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chemist invented the synthetic fiber nylon in 1935 while working for DuPont?",
+      "choices": [
+        "Wallace Hume Carothers",
+        "Otto Bayer",
+        "Carl Bosch",
+        "Fritz Haber"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Jørn Utzon patent a new type of wind tunnel that improved aerodynamic testing accuracy?",
+      "choices": [
+        "1956",
+        "1962",
+        "1968",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor created the first magnetic tape recorder that became practical for commercial use in 1935?",
+      "choices": [
+        "Valdemar Poulsen",
+        "Fritz Pfleumer",
+        "Peter Goldmark",
+        "Jack Mullin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Ray Dolby introduce Dolby Noise Reduction technology, which significantly improved audio quality on cassette tapes?",
+      "choices": [
+        "1964",
+        "1967",
+        "1970",
+        "1973"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nikola Tesla patent the alternating current electric motor, fundamentally transforming power distribution?",
+      "choices": [
+        "1887",
+        "1891",
+        "1895",
+        "1899"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor developed the first practical steam turbine for electricity generation in 1884?",
+      "choices": [
+        "George Westinghouse",
+        "Charles Parsons",
+        "Nikola Tesla",
+        "Thomas Edison"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What material did Leo Baekeland synthesize in 1907 to create the first fully synthetic plastic?",
+      "choices": [
+        "Celluloid",
+        "Bakelite",
+        "Polyethylene",
+        "Polystyrene"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who invented the first mechanical television system using a rotating Nipkow disk in 1926?",
+      "choices": [
+        "Vladimir Zworykin",
+        "Philo Farnsworth",
+        "Paul Nipkow",
+        "John Logie Baird"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Percy Spencer accidentally discover microwave heating while working with radar magnetrons?",
+      "choices": [
+        "1939",
+        "1942",
+        "1945",
+        "1948"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which material did Charles Goodyear vulcanize through accidental heat exposure in 1844?",
+      "choices": [
+        "Natural rubber",
+        "Synthetic latex",
+        "Gutta-percha",
+        "Elastomer compound"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who patented the zipper mechanism in 1913, improving upon earlier fastening designs?",
+      "choices": [
+        "Gideon Sundback",
+        "Elias Howe",
+        "Walter Hunt",
+        "Thomas Edison"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Karl Benz patent the first internal combustion engine automobile?",
+      "choices": [
+        "1885",
+        "1886",
+        "1887",
+        "1889"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor developed the first practical photographic process called the calotype in the 1840s?",
+      "choices": [
+        "Louis Daguerre",
+        "William Henry Fox Talbot",
+        "George Eastman",
+        "Nicéphore Niépce"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Dennis Gabor invent holography, earning him a Nobel Prize?",
+      "choices": [
+        "1947",
+        "1950",
+        "1953",
+        "1956"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who developed the first neon lamp suitable for commercial use in 1910?",
+      "choices": [
+        "Thomas Edison",
+        "Georges Claude",
+        "Irving Langmuir",
+        "Nikola Tesla"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Willem Einthoven invent the electrocardiograph for recording heart electrical activity?",
+      "choices": [
+        "1901",
+        "1903",
+        "1905",
+        "1907"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Hungarian chemist invented the cube puzzle later commercialized as the Rubik's Cube in 1974?",
+      "choices": [
+        "Erno Rubik",
+        "Peter Naur",
+        "Janos Bolyai",
+        "Laszlo Biro"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Christiaan Huygens invent the pendulum clock, vastly improving timekeeping accuracy?",
+      "choices": [
+        "1651",
+        "1656",
+        "1660",
+        "1665"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who invented the first successful parachute design tested from an aircraft in 1912?",
+      "choices": [
+        "André-Jacques Garnerin",
+        "Franz Reichelt",
+        "Albert Berry",
+        "Everard Calthrop"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What material did John Wesley Hyatt develop in 1869 as a substitute for ivory in billiard balls?",
+      "choices": [
+        "Celluloid",
+        "Ebonite",
+        "Composition leather",
+        "Vulcanite"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Joseph-Armand Bombardier patent the snowmobile for winter transportation?",
+      "choices": [
+        "1937",
+        "1940",
+        "1942",
+        "1945"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who developed the first practical television transmission system using an iconoscope camera tube?",
+      "choices": [
+        "Philo Farnsworth",
+        "Vladimir Zworykin",
+        "John Logie Baird",
+        "Paul Nipkow"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Peter Goldmark invent the long-playing vinyl record with reduced noise and longer duration?",
+      "choices": [
+        "1945",
+        "1948",
+        "1950",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor created the first practical xerographic copying process in 1938?",
+      "choices": [
+        "Chester Carlson",
+        "Haloid Company",
+        "Raymond Gipson",
+        "Carl Eckart"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor developed the first practical variable-speed electric motor in 1887, enabling AC power distribution systems?",
+      "choices": [
+        "Nikola Tesla",
+        "George Westinghouse",
+        "Thomas Edison",
+        "Charles Parsons"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What synthetic fiber did Wallace Carothers invent in 1935 at DuPont, initially marketed as a competitor to silk?",
+      "choices": [
+        "Polyester",
+        "Nylon",
+        "Acrylic",
+        "Rayon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who patented the first successful electrocardiograph machine in 1903, revolutionizing cardiac diagnosis?",
+      "choices": [
+        "Willem Einthoven",
+        "Norman Jefferis",
+        "Augustus Waller",
+        "James Black"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish engineer invented the pneumatic tire in 1888, patenting it primarily for bicycles?",
+      "choices": [
+        "Charles Goodyear",
+        "John Boyd Dunlop",
+        "Michelin brothers",
+        "Frank Seiberling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What instrument did Léon Foucault create in 1851 to provide experimental evidence of Earth's rotation?",
+      "choices": [
+        "Orrery",
+        "Pendulum",
+        "Gyroscope",
+        "Astrolabe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who invented the first practical mechanical refrigerator using ammonia compression in 1876?",
+      "choices": [
+        "Carl von Linde",
+        "James Harrison",
+        "Ferdinand Carré",
+        "Alexander Kirk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chemist synthesized aspirin in its modern form at Bayer in 1897?",
+      "choices": [
+        "Friedrich Hoffmann",
+        "Hermann Kolbe",
+        "Eduard Buchner",
+        "Adolf von Baeyer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What rotary printing technology did Richard March Hoe patent in 1847, dramatically increasing newspaper production speed?",
+      "choices": [
+        "Offset printing press",
+        "Rotary press",
+        "Linotype machine",
+        "Monotype machine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who developed the first commercially viable stainless steel alloy in 1912, containing chromium and molybdenum?",
+      "choices": [
+        "Leon Guillet",
+        "Philip Maunsel",
+        "Harry Brearley",
+        "Albert Portevin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor patented the first practical photographic dry plate process in 1871?",
+      "choices": [
+        "George Eastman",
+        "Richard Leach Maddox",
+        "John Herschel",
+        "Henry Fox Talbot"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What did Whitcomb Judson invent in 1891 that was later perfected into the modern zipper by Gideon Sundback?",
+      "choices": [
+        "Hook-and-eye fastener",
+        "Clasp locker",
+        "Clutch fastener",
+        "Safety pin variant"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who developed the first practical sonar detection system during World War I to locate submarines?",
+      "choices": [
+        "Reginald Fessenden",
+        "Leon Theremin",
+        "Paul Langevin",
+        "Ernest Rutherford"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scientist invented the chromatography separation technique in the early 1900s, later called paper chromatography?",
+      "choices": [
+        "Mikhail Tsvet",
+        "Adolf Hehner",
+        "Carl Auer",
+        "Wilhelm Ostwald"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What medical instrument did Victor Eisenmenger invent in 1897, allowing measurement of blood pressure non-invasively?",
+      "choices": [
+        "Stethoscope variant",
+        "Sphygmomanometer",
+        "Thermometer",
+        "Otoscope"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who patented the first practical incandescent electric lamp with a carbonized cotton filament in 1879?",
+      "choices": [
+        "Thomas Edison",
+        "Joseph Swan",
+        "Humphry Davy",
+        "Warren de la Rue"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Danish engineer invented the diesel engine in 1897, achieving unprecedented fuel efficiency?",
+      "choices": [
+        "Nicolaus Otto",
+        "Rudolf Diesel",
+        "Gottlieb Daimler",
+        "Karl Benz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What did Alfred Nobel invent in 1867 that made nitroglycerin safer to handle in industrial applications?",
+      "choices": [
+        "TNT",
+        "Dynamite",
+        "Blasting caps",
+        "Cordite"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who invented the first practical thermos bottle in 1892, using a vacuum between glass layers for insulation?",
+      "choices": [
+        "James Dewar",
+        "Reinhold Burger",
+        "William Stanley",
+        "Ernst Mach"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American inventor patented the first practical escalator design in 1897, initially called an 'inclined elevator'?",
+      "choices": [
+        "Elisha Otis",
+        "Jesse Reno",
+        "Charles Seeberger",
+        "Alexander Miles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What process did Louis Pasteur develop in the 1860s to eliminate pathogens from milk and extend its shelf life?",
+      "choices": [
+        "Homogenization",
+        "Sterilization",
+        "Pasteurization",
+        "Fermentation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Percy Spencer accidentally discover microwave heating technology while working with radar equipment at Raytheon?",
+      "choices": [
+        "1945",
+        "1947",
+        "1952",
+        "1956"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Hungarian inventor developed the first practical ballpoint pen design that was subsequently commercialized by the Argentine company Bic?",
+      "choices": [
+        "László Bíró",
+        "Georg von Bézier",
+        "Ernő Rubik",
+        "Ede Teller"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What mechanism did George Messersmith patent in 1844 that revolutionized fastening before the safety pin became widespread?",
+      "choices": [
+        "Hook and eye clasp",
+        "Spring clip",
+        "Snap button",
+        "Magnetic latch"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1876, Nicolai Otto patented the first practical internal combustion engine based on which scientist's theoretical four-stroke cycle?",
+      "choices": [
+        "Alphonse Beau de Rochas",
+        "Rudolf Diesel",
+        "Étienne Lenoir",
+        "Jean Joseph Étienne Lenoir"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Dutch spectacle maker is credited with inventing the compound microscope around 1590, enabling observation of previously invisible organisms?",
+      "choices": [
+        "Antonie van Leeuwenhoek",
+        "Zacharias Janssen",
+        "Hans Jansen",
+        "Cornelis Drebbel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chester Carlson invented electrophotography in 1938, which technology did this directly enable for commercial office use?",
+      "choices": [
+        "Photocopier",
+        "Laser printer",
+        "Fax machine",
+        "Thermal imaging"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British engineer, working in the 1880s, patented the first practical electric heater element using nichrome wire coils?",
+      "choices": [
+        "Alan MacBeth Archibald Campbell Swinton",
+        "William Sturgeon",
+        "Sir Hiram Maxim",
+        "Alan Archibald Campbell-Swinton"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1956, Wilson Greatbatch accidentally invented the implantable cardiac pacemaker when he was attempting to build what type of device?",
+      "choices": [
+        "A portable music recorder",
+        "An ultrasound machine",
+        "A hearing aid amplifier",
+        "A surgical monitor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hedy Lamarr, the Hollywood actress, co-developed a frequency-hopping spread spectrum technology during World War II intended for which military application?",
+      "choices": [
+        "Radar jamming",
+        "Torpedo guidance systems",
+        "Radio-controlled aircraft",
+        "Encrypted communication"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian inventor created the first practical telegraph system in 1895 using electromagnetic waves, predating Marconi's popularization?",
+      "choices": [
+        "Guglielmo Marconi",
+        "Antonio Pacinotti",
+        "Ottavio Farinelli",
+        "Giovanni Caselli"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1938, Roy Plunkett accidentally synthesized polytetrafluoroethylene (PTFE) while researching refrigerants at DuPont. What consumer product popularized this invention?",
+      "choices": [
+        "Non-stick cookware",
+        "Waterproof clothing",
+        "Tennis racket strings",
+        "Plastic wrap"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swedish engineer invented the three-point safety belt in 1959, a restraint system that became mandatory in vehicles worldwide?",
+      "choices": [
+        "Gustaf Dalén",
+        "Erik Bohlin",
+        "Nils Böhm",
+        "Nils Bohlin"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Johannes Gutenberg's movable type printing press of 1440 was modeled after which earlier mechanical device used in East Asia?",
+      "choices": [
+        "Silk looms",
+        "Wine presses",
+        "Coin mints",
+        "Water mills"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1962, Nick Holonyak Jr. invented the first practical visible-light LED using which semiconductor material?",
+      "choices": [
+        "Silicon",
+        "Gallium arsenide",
+        "Germanium",
+        "Gallium nitride"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What did Charles Francis Brush accidentally create in 1888 while experimenting with metal oxide contacts, leading to the development of crystal radio receivers?",
+      "choices": [
+        "The crystal detector",
+        "The vacuum tube",
+        "The diode rectifier",
+        "The transistor junction"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Clarence Birdseye's 1923 freezing process used which method to preserve food at temperatures that prevented bacterial growth?",
+      "choices": [
+        "Liquid nitrogen immersion",
+        "Rapid freezing at -40°F with moving air",
+        "Salt-based cryogenic brine",
+        "Carbon dioxide sublimation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1890, Jesse W. Reno patented the first escalator design, originally called the 'inclined elevator.' At which venue was his prototype first publicly demonstrated?",
+      "choices": [
+        "The Brooklyn Bridge",
+        "Coney Island",
+        "The 1893 World's Columbian Exposition",
+        "Penn Station"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor developed the vulcanization process in 1844 that transformed rubber from a sticky, temperature-sensitive material into a durable industrial product?",
+      "choices": [
+        "Thomas Hancock",
+        "Charles Goodyear",
+        "Joseph Priestley",
+        "Friedrich Kekkulé"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Peter Higgs and François Englert's theoretical predictions were experimentally confirmed in 2012 through the discovery of which particle at CERN?",
+      "choices": [
+        "The Z boson",
+        "The W boson",
+        "The Higgs boson",
+        "The muon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1876, Alexander Graham Bell's telephone patent was challenged by Antonio Meucci, whose earlier telephone design was never patented primarily due to what reason?",
+      "choices": [
+        "Lack of financial resources to file the patent",
+        "Government prohibition on the technology",
+        "Death before completion",
+        "Deliberate suppression by competitors"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1887, Emile Berliner invented the gramophone as an improvement over Edison's phonograph. What was the key innovation that made the gramophone superior for mass production?",
+      "choices": [
+        "It used flat discs instead of cylindrical records",
+        "It employed digital encoding technology",
+        "It required no external power source",
+        "It could record and playback simultaneously"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor created the first practical escalator, patented in 1897 under the name 'Endless Conveying Elevator'?",
+      "choices": [
+        "Otis Elisha Graves",
+        "Jesse W. Reno",
+        "Charles Parsons",
+        "Nikola Tesla"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "George Eastman's 1885 invention of flexible film stock was a breakthrough in photography. What material did he initially use as the film base?",
+      "choices": [
+        "Celluloid nitrate",
+        "Polyethylene terephthalate",
+        "Polycarbonate resin",
+        "Acetate butyrate"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The first practical gas turbine engine was developed by which Swedish engineer in the 1930s?",
+      "choices": [
+        "Gustaf Dalén",
+        "Ängström Ludvig",
+        "Frank Whittle",
+        "Aegidius Elling"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1956, Ampex Corporation introduced the first commercially viable videotape recorder. What recording format did it use?",
+      "choices": [
+        "8mm film cartridge",
+        "2-inch quadruplex videotape",
+        "1-inch C-format tape",
+        "VHS cassette"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chester Carlson invented xerography in 1938, but which company commercialized it as the first photocopier in 1959?",
+      "choices": [
+        "Ricoh Corporation",
+        "Rank Xerox",
+        "3M Company",
+        "IBM"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The first synthetic fiber, nylon, was synthesized by Wallace Carothers at DuPont. In what year was it first commercialized?",
+      "choices": [
+        "1931",
+        "1935",
+        "1939",
+        "1945"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German engineer patented the first practical diesel engine in 1897?",
+      "choices": [
+        "Nikolaus Otto",
+        "Rudolf Diesel",
+        "Gottlieb Daimler",
+        "Karl Benz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "George de Mestral invented Velcro in 1941 after observing burrs from which plant clinging to his clothing?",
+      "choices": [
+        "Thistle",
+        "Burdock",
+        "Cocklebur",
+        "Nettle"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The charge-coupled device (CCD), which became essential for digital imaging, was invented in 1969 by researchers at which company?",
+      "choices": [
+        "Kodak",
+        "Bell Labs",
+        "Philips",
+        "Sony"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Percy Spencer discovered the heating properties of microwaves in 1945 while working with what equipment?",
+      "choices": [
+        "A radar transmitter",
+        "A Tesla coil",
+        "A cathode ray tube",
+        "A magnetron"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The first successful airplane flight by the Wright brothers in 1903 lasted how many seconds?",
+      "choices": [
+        "8 seconds",
+        "12 seconds",
+        "19 seconds",
+        "24 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1954, Sony introduced the first commercially successful transistor radio. What was its model name?",
+      "choices": [
+        "Sony TR-55",
+        "Sony TR-100",
+        "Sony TR-72",
+        "Sony TR-1"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "John List invented the first successful coin-operated vending machine in 1883. What product did it initially dispense?",
+      "choices": [
+        "Candy",
+        "Postage stamps",
+        "Chewing gum",
+        "Cigarettes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The barcode scanner was first successfully implemented in retail in 1974 at a supermarket in which US state?",
+      "choices": [
+        "New York",
+        "California",
+        "Ohio",
+        "Massachusetts"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lee De Forest invented the triode vacuum tube in 1906, which was critical for amplifying signals. What did he call it?",
+      "choices": [
+        "The oscillator",
+        "The audion",
+        "The amplitron",
+        "The resonator"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scientist invented the first practical electrocardiograph (ECG) machine in 1903?",
+      "choices": [
+        "Willem Einthoven",
+        "Augustus Waller",
+        "Jean-Louis Prévost",
+        "Carl Ludwig"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The first contact lenses, invented by Adolf Eugen Fick in 1888, were made primarily of which material?",
+      "choices": [
+        "Glass",
+        "Perspex",
+        "Silicone hydrogel",
+        "Hard plastic"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1953, Klaus Zuse created the Z22, often considered one of the first computers using which type of memory storage?",
+      "choices": [
+        "Ferrite core memory",
+        "Magnetic tape",
+        "Paper punch cards",
+        "Mercury delay line"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The first practical air conditioning system for commercial use was installed by Willis Carrier in what year?",
+      "choices": [
+        "1902",
+        "1906",
+        "1911",
+        "1915"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish engineer invented the steam engine improvement that powered the Industrial Revolution?",
+      "choices": [
+        "James Watt",
+        "Thomas Newcomen",
+        "George Stephenson",
+        "Richard Trevithick"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the lightbulb with a practical carbonized filament that lasted for hours?",
+      "choices": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Joseph Swan",
+        "Humphry Davy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor created the first successful airplane that flew at Kitty Hawk in 1903?",
+      "choices": [
+        "Glenn Curtiss",
+        "The Wright Brothers",
+        "Samuel Langley",
+        "Octave Chanute"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did George Westinghouse invent to make train travel significantly safer?",
+      "choices": [
+        "The steam brake",
+        "The air brake",
+        "The hydraulic brake",
+        "The friction brake"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American inventor patented the first practical electric washing machine in the early 1900s?",
+      "choices": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Alva Fisher",
+        "Jacob Schick"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What invention did Willis Carrier develop to control temperature and humidity in buildings?",
+      "choices": [
+        "The electric fan",
+        "Air conditioning",
+        "The thermostat",
+        "Refrigeration"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did Karl Benz invent the first gasoline-powered automobile?",
+      "choices": [
+        "1870s",
+        "1880s",
+        "1890s",
+        "1900s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British inventor developed the jet engine that revolutionized aviation?",
+      "choices": [
+        "Geoffrey de Havilland",
+        "Frank Whittle",
+        "Reginald Mitchell",
+        "Barnes Wallis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did John Stith Pemberton invent in Atlanta in 1886?",
+      "choices": [
+        "Root beer",
+        "Coca-Cola",
+        "Pepsi",
+        "Ginger ale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor created the first practical mechanical clock escapement mechanism in the 1600s?",
+      "choices": [
+        "Christiaan Huygens",
+        "John Harrison",
+        "Peter Heinlein",
+        "Galileo Galilei"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Carl Benz's 1885 invention feature that made it fundamentally different from earlier carriages?",
+      "choices": [
+        "Steam power",
+        "An internal combustion engine",
+        "Electric motors",
+        "Pneumatic tires"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which scientist invented the X-ray machine through accidental discovery in 1895?",
+      "choices": [
+        "Marie Curie",
+        "Wilhelm Röntgen",
+        "Henri Becquerel",
+        "Pierre Curie"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Levi Strauss and Jacob Davis patent together in 1873?",
+      "choices": [
+        "Canvas pants with metal rivets",
+        "Durable work trousers",
+        "Reinforced jeans",
+        "Industrial fabric"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dutch inventor created the first practical telescope in the early 1600s?",
+      "choices": [
+        "Galileo Galilei",
+        "Hans Lippershey",
+        "Johannes Kepler",
+        "Tycho Brahe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Ottmar Mergenthaler invent in 1884 that revolutionized newspaper printing?",
+      "choices": [
+        "The rotary press",
+        "The linotype machine",
+        "The offset press",
+        "The photo-typesetter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor developed the safety match that could only be lit on a specific surface?",
+      "choices": [
+        "John Walker",
+        "Gustaf Erik Pasch",
+        "Francis Preece",
+        "James Ashcroft"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Clarence Birdseye invent in the 1920s that transformed food preservation?",
+      "choices": [
+        "Industrial refrigeration",
+        "Flash freezing",
+        "Vacuum sealing",
+        "Freeze-drying"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American inventor created the first practical television system in the 1920s?",
+      "choices": [
+        "Vladimir Zworykin",
+        "Philo Farnsworth",
+        "John Logie Baird",
+        "Lee de Forest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Nils Bohlin invent while working for Volvo in 1956, which became widely adopted?",
+      "choices": [
+        "The seatbelt",
+        "The airbag",
+        "The crumple zone",
+        "The padded dashboard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor patented the first practical incandescent light bulb in 1879?",
+      "choices": [
+        "Nikola Tesla",
+        "Thomas Edison",
+        "Joseph Swan",
+        "Humphry Davy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the mechanical clock escapement mechanism in the 13th century?",
+      "choices": [
+        "John Harrison",
+        "Al-Jazari",
+        "Christiaan Huygens",
+        "Galileo Galilei"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The refrigerator was first commercially produced based on Carl von Linde's work with which gas in the 1870s?",
+      "choices": [
+        "Ammonia",
+        "Chlorine",
+        "Carbon dioxide",
+        "Propane"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the vulcanization process for rubber in 1844?",
+      "choices": [
+        "Goodyear",
+        "Michelin",
+        "Dunlop",
+        "Firestone"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian inventor developed the first practical wireless telegraph system in the 1890s?",
+      "choices": [
+        "Guglielmo Marconi",
+        "Nikola Tesla",
+        "Oliver Lodge",
+        "Jagadish Chandra Bose"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The printing press with movable type was invented by Johann Gutenberg around which decade?",
+      "choices": [
+        "1420s",
+        "1480s",
+        "1520s",
+        "1580s"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who developed the first practical steam engine used for industrial purposes in the late 1700s?",
+      "choices": [
+        "James Watt",
+        "Thomas Newcomam",
+        "George Stephenson",
+        "Richard Arkwright"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The phonograph, which first recorded and played back sound, was invented by whom in 1877?",
+      "choices": [
+        "Alexander Graham Bell",
+        "Emile Berliner",
+        "Thomas Edison",
+        "Reginald Fessenden"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor patented the first practical parachute design in 1797?",
+      "choices": [
+        "Leonardo da Vinci",
+        "André-Jacques Garnerin",
+        "John Wise",
+        "Otto Lilienthal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The escalator was first patented by Jesse Reno in which decade?",
+      "choices": [
+        "1870s",
+        "1890s",
+        "1910s",
+        "1930s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the safety pin, a U-shaped fastening device, in 1849?",
+      "choices": [
+        "Charles Goodyear",
+        "Walter Hunt",
+        "Elias Howe",
+        "Isaac Merritt Singer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The first electric washing machine for household use was developed in the early 1900s by whom?",
+      "choices": [
+        "Alva Fisher",
+        "Jacob Schick",
+        "Frederic Tudor",
+        "Peter Cooper"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor created the first practical helicopter design in the 1930s?",
+      "choices": [
+        "Igor Sikorsky",
+        "Juan de la Cierva",
+        "Etienne Oehmichen",
+        "Paul Cornu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The safety razor with disposable blades was first developed by King Camp Gillette in which year?",
+      "choices": [
+        "1895",
+        "1901",
+        "1908",
+        "1914"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the ballpoint pen in 1938?",
+      "choices": [
+        "László Bíró",
+        "John J. Loud",
+        "Slavoljub Penkala",
+        "Waterman Pen Company"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The microscope was significantly improved in the 1670s by Antonie van Leeuwenhoek, who used which type of lens?",
+      "choices": [
+        "Multiple compound lenses",
+        "Single powerful glass bead",
+        "Polished quartz crystal",
+        "Diamond magnifier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the photographic negative process in the 1840s, laying groundwork for modern photography?",
+      "choices": [
+        "William Henry Fox Talbot",
+        "Louis Daguerre",
+        "George Eastman",
+        "Henri Niepce"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The zipper was patented by Gideon Sundback in which decade?",
+      "choices": [
+        "1900s",
+        "1910s",
+        "1920s",
+        "1930s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor developed the first practical airplane and made the first powered flight in 1903?",
+      "choices": [
+        "Samuel Langley",
+        "Otto Lilienthal",
+        "Orville and Wilbur Wright",
+        "Glenn Curtiss"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The modern electrocardiograph was developed by which Dutch physiologist in the early 1900s?",
+      "choices": [
+        "Willem Einthoven",
+        "Otto Frank",
+        "Carl Ludwig",
+        "Julius Bernstein"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did George Eastman patent flexible roll film that would become essential to motion picture technology?",
+      "choices": [
+        "1885",
+        "1889",
+        "1892",
+        "1896"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor, imprisoned in Newgate Prison, developed an early form of the modern toothbrush using animal bristles?",
+      "choices": [
+        "William Addis",
+        "John Wesley Hyatt",
+        "Cornelius Hedges",
+        "Samuel Morse"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What everyday fastening device did Walter Hunt patent in 1849 to prevent garment damage?",
+      "choices": [
+        "Hook and eye",
+        "Safety pin",
+        "Zipper",
+        "Button clasp"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "William Painter invented what beverage container innovation in 1891 that allowed sealed bottles to be easily opened?",
+      "choices": [
+        "Screw cap",
+        "Crown bottle cap",
+        "Pull-tab",
+        "Twist-off lid"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Michelin brothers' revolutionary advancement to pneumatic tire design in 1895 primarily improved what aspect of cycling?",
+      "choices": [
+        "Weight reduction",
+        "Grip and comfort on rough surfaces",
+        "Puncture resistance",
+        "Heat dissipation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Charles Strite patented the pop-up toaster in 1919 primarily to solve which kitchen problem?",
+      "choices": [
+        "Uneven browning of bread",
+        "Burnt toast from overheating",
+        "Slow toasting times",
+        "Difficult bread removal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What mathematical tool did René Descartes develop that merged algebra with geometry to revolutionize spatial analysis?",
+      "choices": [
+        "Calculus",
+        "Coordinate geometry",
+        "Logarithms",
+        "Probability theory"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jacob Schick's 1928 invention fundamentally changed men's grooming by introducing what electrical innovation?",
+      "choices": [
+        "Electric razor",
+        "Rotating brush head",
+        "Heated blade system",
+        "Ultrasonic cleaner"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did László Bíró perfect his ballpoint pen design, making smooth writing commercially viable?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Luca Pacioli is credited with documenting which accounting system that became the foundation of modern bookkeeping?",
+      "choices": [
+        "Single-entry accounting",
+        "Double-entry bookkeeping",
+        "Triple-ledger system",
+        "Perpetual inventory method"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Edwin H. Land's 1947 invention allowed photographers to view developed images within minutes instead of hours or days. What was it?",
+      "choices": [
+        "Instant film camera",
+        "Digital camera prototype",
+        "Flash photography system",
+        "Color filter array"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What transportation innovation, attributed primarily to the Montgolfier brothers in 1783, allowed humans to experience sustained flight?",
+      "choices": [
+        "Glider",
+        "Hot air balloon",
+        "Kite with harness",
+        "Parachute system"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Joseph Shivers invented an elastic synthetic fiber in 1958 that revolutionized athletic and swimwear. What is it called?",
+      "choices": [
+        "Nylon",
+        "Polyester",
+        "Spandex",
+        "Lycra"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Percy Shaw's 1934 invention improved nighttime road safety by reflecting vehicle headlights back to drivers. What did he call it?",
+      "choices": [
+        "Road markers",
+        "Cats eyes",
+        "Reflector studs",
+        "Safety bumps"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What mechanical device, perfected by Samuel Colt in the 1830s, allowed firearms to discharge multiple shots without reloading?",
+      "choices": [
+        "Semi-automatic rifle",
+        "Revolver",
+        "Repeating rifle",
+        "Magazine-fed pistol"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Daimler and Benz are credited with developing what essential component for early automobiles in the 1880s?",
+      "choices": [
+        "Pneumatic tire",
+        "Internal combustion engine",
+        "Steering wheel",
+        "Brake system"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Alexander Graham Bell patented the telephone in 1876 primarily to enable what form of long-distance communication?",
+      "choices": [
+        "Wireless transmission",
+        "Voice transmission through wires",
+        "Telegraph signals",
+        "Radio broadcasting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "James Dyson's revolutionary bagless vacuum cleaner design in the 1980s replaced what traditional component?",
+      "choices": [
+        "Motor",
+        "Dust bag",
+        "Filter system",
+        "Suction mechanism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What pressure-sealed cooking vessel, developed in the 17th century, significantly reduced cooking time for legumes and meats?",
+      "choices": [
+        "Dutch oven",
+        "Pressure cooker",
+        "Cast iron skillet",
+        "Slow cooker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The sewing machine, popularized by Isaac Merritt Singer in the 1850s, primarily revolutionized which industry?",
+      "choices": [
+        "Shoe manufacturing",
+        "Textile and garment production",
+        "Leather goods",
+        "Upholstery only"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Charles Martin Hall developed a process for extracting which metal from bauxite ore in 1886?",
+      "choices": [
+        "Copper",
+        "Aluminum",
+        "Titanium",
+        "Magnesium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "James Dewar invented the vacuum flask in the 1890s primarily to keep what type of substance at a stable temperature?",
+      "choices": [
+        "Coffee",
+        "Liquid nitrogen",
+        "Soup",
+        "Wine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What household device did George Eastman's roll film innovation make possible in the late 19th century?",
+      "choices": [
+        "Portable cameras",
+        "Television sets",
+        "Movie projectors",
+        "X-ray machines"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "George de Mestral's invention of Velcro in 1941 was inspired by studying burrs from which plant?",
+      "choices": [
+        "Nettle",
+        "Burdock",
+        "Thistle",
+        "Cocklebur"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Laszlo Biro, a Hungarian journalist, patented which writing instrument in 1938 to prevent ink smudging?",
+      "choices": [
+        "Gel pen",
+        "Ballpoint pen",
+        "Fountain pen",
+        "Felt-tip marker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor created the first practical safety match in Sweden during the 1850s?",
+      "choices": [
+        "Gustaf Erik Pasch",
+        "Johan Edvard Lundström",
+        "Alfred Nobel",
+        "Carl Wilhelm Scheele"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The magnetic stripe on credit cards was developed in the 1960s by which IBM engineer?",
+      "choices": [
+        "Forrest Parodi",
+        "Jørn Utzon",
+        "Magnes Johnson",
+        "This invention predates individual patent records"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frank Marugg invented the parking control device known as the wheel clamp in which decade?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Donald Bailey designed a revolutionary temporary bridge system during World War II primarily for which purpose?",
+      "choices": [
+        "River crossings for military troops",
+        "Emergency hospital structures",
+        "Supply depot construction",
+        "Prisoner detention camps"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "James Harrison, an Australian inventor, pioneered the first practical system for which industrial process in the 1850s?",
+      "choices": [
+        "Steam refrigeration",
+        "Mechanical refrigeration",
+        "Ice manufacturing",
+        "Cold storage warehousing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Polaroid instant camera, developed by Edwin Land, first became commercially available in which year?",
+      "choices": [
+        "1947",
+        "1951",
+        "1960",
+        "1965"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did John Harington's design in 1596 introduce to royal palaces for the first time?",
+      "choices": [
+        "Indoor plumbing",
+        "The flushing water closet",
+        "Sewage systems",
+        "Hot water heating"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Otto von Guericke invented which scientific instrument in the 17th century to demonstrate air pressure?",
+      "choices": [
+        "Barometer",
+        "Air pump",
+        "Vacuum pump",
+        "Thermometer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chester Carlson's photocopier invention, commercialized by Xerox, revolutionized which workplace function?",
+      "choices": [
+        "Document reproduction",
+        "Data storage",
+        "Communication systems",
+        "Filing organization"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What fabric innovation did Nylon become when DuPont introduced it to consumers in 1940?",
+      "choices": [
+        "The first washable synthetic fiber",
+        "The first waterproof textile",
+        "The first flame-resistant material",
+        "The first elastic synthetic material"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Guglielmo Marconi is credited with developing wireless telegraphy, first successfully transmitting a signal across which body of water in 1901?",
+      "choices": [
+        "English Channel",
+        "Atlantic Ocean",
+        "Mediterranean Sea",
+        "North Sea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Isaac Newton's reflecting telescope design used what as the primary optical component instead of a lens?",
+      "choices": [
+        "Crystal prism",
+        "Curved mirror",
+        "Polished glass disk",
+        "Convex lens"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Jacquard loom, invented in 1804, pioneered which programming concept by using punched cards?",
+      "choices": [
+        "Binary code",
+        "Machine instructions",
+        "Pattern automation",
+        "Data encoding"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What safety feature did Walter Hunt add to clothing fasteners when he invented the safety pin in the 1840s?",
+      "choices": [
+        "A locking mechanism",
+        "A protective covering",
+        "A flexible hinge",
+        "An elastic back"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Post-it note adhesive was discovered as a byproduct while 3M scientists were trying to develop which product?",
+      "choices": [
+        "Super-strong industrial adhesive",
+        "Medical tape",
+        "Waterproof sealant",
+        "Plastic coating"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the practical vacuum cleaner with a cyclonic dust separation system in the 1980s?",
+      "choices": [
+        "James Dyson",
+        "Hubert Cecil Booth",
+        "William Henry Hoover",
+        "John Logie Baird"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor created the first successful electric toaster that could brown bread evenly in 1919?",
+      "choices": [
+        "Charles Strite",
+        "Thomas Edison",
+        "George Eastman",
+        "Nikola Tesla"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What pioneering food processor brand was developed by Ken Wood in the 1950s?",
+      "choices": [
+        "Kenwood",
+        "KitchenAid",
+        "Sunbeam",
+        "Cuisinart"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the barometer, an instrument that measures atmospheric pressure to predict weather changes?",
+      "choices": [
+        "Evangelista Torricelli",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Blaise Pascal"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which optical safety device, invented by Percy Shaw, reflects light to guide nighttime drivers?",
+      "choices": [
+        "Cat's eye reflector",
+        "Road prism",
+        "Reflective marker",
+        "Luminescent strip"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who developed the first practical mechanical seed drill, revolutionizing agricultural efficiency in the 18th century?",
+      "choices": [
+        "Jethro Tull",
+        "Robert Bakewell",
+        "Charles Townshend",
+        "John Deere"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What innovation did Thomas Edison record on his phonograph using the phrase 'Mary Had a Little Lamb'?",
+      "choices": [
+        "Human speech and music",
+        "Morse code signals",
+        "Weather data",
+        "Numerical sequences"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country produced the first practical fountain pen with a reliable ink-delivery system?",
+      "choices": [
+        "Romania",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the ZX Spectrum, one of the most influential home computers of the 1980s?",
+      "choices": [
+        "Clive Sinclair",
+        "Steve Jobs",
+        "Bill Gates",
+        "Nolan Bushnell"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flexible film material, invented by George Eastman, enabled the development of roll-film photography?",
+      "choices": [
+        "Celluloid",
+        "Cellophane",
+        "Mylar",
+        "Polyester"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who created the first synthetic diamond in a laboratory setting, demonstrating that diamonds could be manufactured?",
+      "choices": [
+        "Tracy Hall",
+        "Henry Moissan",
+        "Ferdinand Mossler",
+        "Charles Parsons"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Puerto Rican chemist is credited with developing the contraceptive pill, alongside other researchers?",
+      "choices": [
+        "Luis E. Miramontes",
+        "Estrogen Hernández",
+        "Carlos Salazar",
+        "Miguel Rodriguez"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the thermos bottle with a vacuum-sealed design to preserve temperature in beverages?",
+      "choices": [
+        "James Dewar",
+        "Rudolf Diesel",
+        "Otto von Guericke",
+        "Linus Pauling"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mathematical system, developed by René Descartes, allows geometric shapes to be represented algebraically?",
+      "choices": [
+        "Analytical geometry",
+        "Calculus",
+        "Linear algebra",
+        "Set theory"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What cutting tool, detailed extensively in Leonardo da Vinci's designs, became a standard household item?",
+      "choices": [
+        "Scissors",
+        "Paper cutter",
+        "X-acto knife",
+        "Utility blade"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which code system, invented by Samuel F. B. Morse, used dots and dashes to transmit messages over telegraph wires?",
+      "choices": [
+        "Morse code",
+        "Binary code",
+        "Braille code",
+        "Baudot code"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who pioneered the first powered airship with a steam engine, achieving controlled flight in 1852?",
+      "choices": [
+        "Henri Giffard",
+        "George Cayley",
+        "Gustave Eiffel",
+        "Clément Ader"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What construction toy system, featuring interlocking metal parts, was invented by Frank Hornby in 1901?",
+      "choices": [
+        "Meccano",
+        "Erector set",
+        "Tinker Toys",
+        "K'NEX"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented the handheld, battery-powered electronic musical synthesizer that revolutionized pop music in the 1970s?",
+      "choices": [
+        "Robert Moog",
+        "Osamu Kitajima",
+        "Brian Eno",
+        "Kraftwerk"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What portable camera format, invented by George Eastman, made photography accessible to the average consumer?",
+      "choices": [
+        "Box camera",
+        "Folding camera",
+        "View camera",
+        "Plate camera"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

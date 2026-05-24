@@ -1,299 +1,1734 @@
 {
   "slug": "toys-trivia",
-  "name": "Classic Toys",
-  "description": "Lego, Barbie, Hot Wheels, Tamagotchi, Magic 8-Ball — what's in the toybox.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Toys",
+  "processedAt": "2026-05-24T20:43:43.765Z",
   "questions": [
     {
-      "q": "What number appears on the Magic 8-Ball?",
-      "choices": ["8", "1", "13", "10"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "8",
-        "verified": true,
-        "notes": "Modeled on a billiards 8-ball."
-      }
-    },
-    {
-      "q": "Which country invented Lego in 1932?",
-      "choices": ["Denmark", "Sweden", "Germany", "Netherlands"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Denmark",
-        "verified": true,
-        "notes": "Founder Ole Kirk Christiansen. Name from Danish 'leg godt' (play well)."
-      }
-    },
-    {
-      "q": "What 1959 doll launched Mattel's empire?",
-      "choices": ["Barbie", "Cabbage Patch Kid", "Raggedy Ann", "Strawberry Shortcake"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Created by Ruth Handler. First sold March 9, 1959."
-      }
-    },
-    {
-      "q": "What's Barbie's full name?",
+      "q": "In what year did Barbie, the iconic fashion doll created by Mattel, first debut?",
       "choices": [
-        "Barbara Millicent Roberts",
-        "Barbara Mason Roberts",
-        "Barbara Jane Roberts",
-        "Barbara Ruth Roberts"
+        "1959",
+        "1963",
+        "1956",
+        "1961"
       ],
       "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Named after Ruth Handler's daughter Barbara."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What's Barbie's boyfriend's full name?",
+      "q": "Which toy company created the Rubik's Cube puzzle?",
       "choices": [
-        "Ken Carson",
-        "Ken Roberts",
-        "Ken Mattel",
-        "Ken Smith"
+        "Ideal Toy Company",
+        "Erno Rubik",
+        "Hasbro",
+        "Parker Brothers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary color of a classic Lego brick?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many players typically compete in a game of Jenga?",
+      "choices": [
+        "1 to 2",
+        "2 to 4",
+        "4 to 6",
+        "6 or more"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy brand is famous for its plastic construction sets featuring small figurines called minifigures?",
+      "choices": [
+        "K'NEX",
+        "Lego",
+        "Meccano",
+        "Erector Set"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional toy consists of a weighted base and a rounded top that wobbles but returns to upright?",
+      "choices": [
+        "Tumbler Toy",
+        "Wobble Doll",
+        "Roly-Poly",
+        "Balance Buddy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the game of Monopoly, what is the name of the space where players begin their journey around the board?",
+      "choices": [
+        "Start",
+        "Go",
+        "Beginning",
+        "Home"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy features a wheel with numbers and is spun to determine outcomes in various games?",
+      "choices": [
+        "Spinner",
+        "Roulette",
+        "Fortune Wheel",
+        "Number Dial"
       ],
       "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Introduced 1961. Named after Ruth Handler's son Kenneth."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which company makes Hot Wheels?",
-      "choices": ["Mattel", "Hasbro", "Bandai", "MGA"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Launched 1968 to compete with Matchbox."
-      }
-    },
-    {
-      "q": "What digital pet craze, launched 1996, had over 76 million sold by 2010?",
-      "choices": ["Tamagotchi", "Furby", "Aibo", "Giga Pet"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "76 million",
-        "verified": true,
-        "notes": "Made by Bandai. 'Tama' means 'egg' + 'tomodachi' (friend) in Japanese."
-      }
-    },
-    {
-      "q": "What Bandai virtual-pet device, spun off into a 1997 anime, became a 1997-launched rival to Tamagotchi?",
-      "choices": ["Digimon", "Tickle Me Elmo", "Furby", "Pokémon Pikachu"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Digimon",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: replaced incorrect 'Tickle Me Elmo' answer (Tyco, plush, not Bandai). Digimon ('Digital Monsters') launched as a Bandai virtual-pet device in 1997 (boys' counterpart to Tamagotchi) and spun off into the popular 1999 anime."
-      }
-    },
-    {
-      "q": "Which 1981 American Greetings plush toy line — colorful bears with belly-badge symbols — became a hit cartoon series?",
+      "q": "What spinning top toy is known for glowing and playing music when activated?",
       "choices": [
-        "Care Bears",
-        "Pound Puppies",
-        "Popples",
-        "My Little Pony"
+        "Light-Up Spinner",
+        "Glow Whirler",
+        "Light Brite",
+        "Musical Top"
       ],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Care Bears",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: replaced meta 'all accepted' answer with single Care Bears answer plus real distractors. Care Bears were created by American Greetings in 1981 (with Kenner producing plush) and spawned the 1985-88 animated series."
-      }
+      "correct": 3,
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1981 Hasbro creator (Bonnie Zacherle) launched a line of pastel toy ponies?",
+      "q": "Which board game involves players purchasing properties and collecting rent from opponents?",
       "choices": [
-        "My Little Pony",
-        "Equestria",
-        "Pretty Pony Friends",
-        "Strawberry Pony"
+        "Clue",
+        "Risk",
+        "Monopoly",
+        "Scrabble"
       ],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "My Little Pony",
-        "verified": true,
-        "notes": ""
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which Mattel-owned doll line went to legal war with MGA Entertainment over the Bratz Dolls in 2008?",
-      "choices": ["Barbie (Mattel)", "Polly Pocket", "Ever After High", "Monster High"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mattel",
-        "verified": true,
-        "notes": "Mattel sued because Bratz designer Carter Bryant created the dolls while at Mattel. Decade-long lawsuit."
-      }
+      "q": "What is the name of the handheld electronic toy from the 1970s and 1980s that features a small digital pet to care for?",
+      "choices": [
+        "Furby",
+        "Tamagotchi",
+        "Tickle Me Elmo",
+        "Furreal Friend"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which Hasbro toy launched in 1964 was the first to be called 'America's Movable Fighting Man'?",
+      "q": "How many colored cubes make up the sides of a standard Rubik's Cube puzzle?",
+      "choices": [
+        "36",
+        "48",
+        "54",
+        "64"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy doll, introduced by Hasbro in 1964, was designed as an action figure primarily for boys?",
       "choices": [
         "G.I. Joe",
         "Action Man",
-        "Major Matt Mason",
-        "Stretch Armstrong"
+        "Captain America",
+        "Soldier Sam"
       ],
       "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "G.I. Joe",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: removed meta 'both' option. G.I. Joe launched by Hasbro in 1964 with the 'America's Movable Fighting Man' slogan; Action Man was Palitoy's UK licensed rebrand starting 1966."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What Pixar-themed Mattel diecast became huge in the 2000s?",
+      "q": "What is the name of the inflatable toy that bounces when you sit on it and has handles for balance?",
       "choices": [
-        "Cars (Lightning McQueen, etc.)",
-        "Hot Wheels Toy Story",
-        "Finding Nemo cars",
-        "Disney Cars"
+        "Bouncy Ball",
+        "Exercise Ball",
+        "Hopper Ball",
+        "Sit and Bounce"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo handheld gaming device, released in 1989, featured two screens stacked vertically?",
+      "choices": [
+        "Game Boy",
+        "Nintendo DS",
+        "Game & Watch",
+        "Virtual Boy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional marble game involves shooting a small glass sphere into a circular pit?",
+      "choices": [
+        "Marbles Ring",
+        "Pit Shot",
+        "Marble Toss",
+        "Aggie Game"
       ],
       "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Rubik's Cube creator was a Hungarian sculptor and architecture professor?",
+      "q": "Which toy company manufactures the popular building block system known as Duplo?",
       "choices": [
-        "Ernő Rubik",
-        "Endre Pap",
-        "Jenő Wigner",
-        "Attila József"
+        "Mattel",
+        "Hasbro",
+        "Lego",
+        "Mega Bloks"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the fuzzy, furry toy creature introduced by Hasbro that gained fame in the late 1990s?",
+      "choices": [
+        "Tickle Me Elmo",
+        "Furby",
+        "Teddy Ruxpin",
+        "Cabbage Patch Kid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade were yo-yos first mass-produced as toys in the United States?",
+      "choices": [
+        "1920s",
+        "1940s",
+        "1960s",
+        "1980s"
       ],
       "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Invented 1974, debuted globally as 'Rubik's Cube' in 1980."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many possible Rubik's Cube combinations are there?",
+      "q": "What board game challenges players to solve a mystery involving suspects, weapons, and rooms?",
       "choices": [
-        "~43 quintillion (4.3 × 10^19)",
-        "~1 million",
-        "~1 billion",
-        "~1 trillion"
+        "Cluedo",
+        "Scrabble",
+        "Stratego",
+        "Risk"
       ],
       "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Exactly 43,252,003,274,489,856,000."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which classic 'flying disc' toy was popularized by Wham-O in 1957?",
-      "choices": ["Frisbee", "Boomerang", "Flying Saucer", "Disc Pro"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Named after Frisbie Pie Company (whose tins college kids tossed)."
-      }
-    },
-    {
-      "q": "What 1983-launched cloth-and-vinyl Coleco doll line came with adoption certificates?",
+      "q": "In what year did Bonnie Zacherle create My Little Pony, launching a franchise of colorful equine friends?",
       "choices": [
-        "Cabbage Patch Kids",
-        "Care Bears",
-        "Pound Puppies",
-        "My Buddy"
-      ],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cabbage Patch Kids",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: corrected stem — Cabbage Patch Kids are cloth/vinyl (not plastic-coated), originated by Xavier Roberts ('Little People') in 1978 and mass-produced by Coleco starting 1983, peaking 1983-84 (not 1985)."
-      }
-    },
-    {
-      "q": "What 1996 small-business success story trading-card phenomenon began as 'Pocket Monsters' in Japan?",
-      "choices": ["Pokémon", "Yu-Gi-Oh!", "Magic: The Gathering", "Digimon"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Classic Toys",
-        "verified": true,
-        "notes": "Trading card game launched 1996 in Japan, 1999 in US."
-      }
-    },
-    {
-      "q": "What 1990s-era circular cardboard disc collectible — originally based on Hawaiian juice-bottle caps — became a schoolyard craze?",
-      "choices": ["Pogs", "Tazos", "Slammers", "Crazy Bones"],
-      "correct": 0,
-      "category": "Classic Toys",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pogs",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: removed meta 'both accepted' option and fixed material descriptor — Pogs are cardboard (not plastic). 'POG' = Passion fruit-Orange-Guava juice in Hawaii; the bottle caps inspired the game."
-      }
-    },
-    {
-      "q": "In what year did Mattel introduce Hot Wheels, its iconic die-cast toy car line?",
-      "choices": [
-        "1959",
-        "1968",
-        "1972",
+        "1979",
+        "1981",
+        "1983",
         "1985"
       ],
       "correct": 1,
-      "category": "Classic Toys",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1968",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: replaced fabricated '1959 Mattel plastic-interlocking-cars toy' premise (no such product). Hot Wheels launched May 1968 as Mattel's challenge to Matchbox."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Barbie's original boyfriend, introduced alongside her in the early Barbie doll line?",
+      "choices": [
+        "Chad",
+        "Ken",
+        "Brad",
+        "Scott"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many spaces are there on a standard Monopoly board game?",
+      "choices": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company created the Care Bears toy line in the 1980s?",
+      "choices": [
+        "Mattel",
+        "American Greetings",
+        "Hasbro",
+        "Kenner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What disc-shaped toy, famous for flying through the air, shares its name with a brand of pie known for its desserts?",
+      "choices": [
+        "Boomerang",
+        "Frisbee",
+        "Flying Disc",
+        "Sky Rider"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the Etch A Sketch, the classic drawing toy operated by two rotating knobs?",
+      "choices": [
+        "Frank Hornby",
+        "André Cassagnes",
+        "Lionel Weintraub",
+        "Jack Ryan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What number appears on the iconic Magic 8-Ball toy that predicts answers to yes-or-no questions?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which video game console was released by Microsoft in 2001, challenging Nintendo and PlayStation?",
+      "choices": [
+        "Dreamcast",
+        "GameCube",
+        "Xbox",
+        "Sega Saturn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What toy, featuring small figurines and a magnetic wand, allows children to dress up miniature dolls in tiny outfits?",
+      "choices": [
+        "Bratz",
+        "Monster High",
+        "Polly Pocket",
+        "Liv Dolls"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Action Man introduced as a male doll competitor to the female-dominated doll market?",
+      "choices": [
+        "1962",
+        "1964",
+        "1966",
+        "1968"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What desktop toy features a liquid-filled cylinder with glitter that creates a mesmerizing snowglobe effect?",
+      "choices": [
+        "Lava Lamp",
+        "Snow Globe",
+        "Liquid Motion",
+        "Glitter Tube"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brand of toy construction sets was created by Frank Hornby and emphasized mechanical building?",
+      "choices": [
+        "Lego",
+        "Meccano",
+        "Erector",
+        "Tinkertoys"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What handheld digital pet toy from Japan became a cultural phenomenon in the 1990s by requiring constant care and attention?",
+      "choices": [
+        "Furby",
+        "Tamagotchi",
+        "Digimon",
+        "Pocket Pikachu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which playground game involved slamming your hands down on circular cardboard discs to flip them over?",
+      "choices": [
+        "Slammers",
+        "Pogs",
+        "Checkers",
+        "Tiddlywinks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the toy that bounces down stairs by walking on its spring-coiled body?",
+      "choices": [
+        "Spring Toy",
+        "Bouncer",
+        "Slinky",
+        "Coil Walker"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many tiles are included in a standard double-nine domino set?",
+      "choices": [
+        "45",
+        "50",
+        "55",
+        "60"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state officially recognizes the Slinky as its state toy?",
+      "choices": [
+        "Ohio",
+        "Pennsylvania",
+        "New York",
+        "Massachusetts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Sorry!, what action do you perform when you move a peg to an occupied space?",
+      "choices": [
+        "Pay a fee",
+        "Move backward",
+        "Send an opponent's piece back to start",
+        "Skip your next turn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What pizza-inspired shape did designer Toru Iwatani use as the basis for the Pac-Man video game character?",
+      "choices": [
+        "Triangle",
+        "Square",
+        "Circle",
+        "Hexagon"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal game piece appears on a standard Monopoly board and is commonly represented as a small metal figurine?",
+      "choices": [
+        "Cat",
+        "Dog",
+        "Horse",
+        "Bird"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what country were LEGO building blocks originally invented?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Barbie's original boyfriend, introduced as part of her iconic doll collection?",
+      "choices": [
+        "Chad",
+        "Ken",
+        "Brian",
+        "Derek"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy, invented by André Cassagnes, allows you to draw pictures by turning knobs to move a stylus on a screen?",
+      "choices": [
+        "Spirograph",
+        "Etch A Sketch",
+        "Magic 8-Ball",
+        "View-Master"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shape is a classic frisbee, the toy that soars through the air in outdoor games?",
+      "choices": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Oval"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which rubber animal has been a popular bath time toy for generations?",
+      "choices": [
+        "Pig",
+        "Duck",
+        "Chicken",
+        "Goose"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the digital pet toy released by Bandai that required constant care and attention?",
+      "choices": [
+        "Furby",
+        "Tamagotchi",
+        "Elmo",
+        "Tickle Me Elmo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy company created the Bratz dolls known for their distinctive style and sass?",
+      "choices": [
+        "Mattel",
+        "MGA Entertainment",
+        "Hasbro",
+        "Jakks Pacific"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What modeling compound, used for creative play, was originally marketed as a wallpaper cleaner?",
+      "choices": [
+        "Sculpey",
+        "Fimo",
+        "Play-Doh",
+        "Cra-Z-Art"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state recognizes the Slinky as its official toy?",
+      "choices": [
+        "Ohio",
+        "Pennsylvania",
+        "New York",
+        "Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous stuffed toy line featured characters like Grumpy Bear and Tenderheart Bear?",
+      "choices": [
+        "Pound Puppies",
+        "Care Bears",
+        "Popples",
+        "My Little Pony"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what decade was Plasticine, the colorful modeling clay, first created?",
+      "choices": [
+        "1890s",
+        "1900s",
+        "1910s",
+        "1920s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Mattel first release the original Barbie doll at the American Toy Fair?",
+      "choices": [
+        "1957",
+        "1959",
+        "1961",
+        "1963"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese toy company created the Furby electronic toy that debuted in 1998?",
+      "choices": [
+        "Bandai",
+        "Hasbro",
+        "Tiger Electronics",
+        "Takara Tomy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of dots visible on a standard die used in board games and gambling?",
+      "choices": [
+        "18",
+        "21",
+        "24",
+        "27"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1980s, what collectible trading card game, created by Richard Garfield, revolutionized the hobby gaming industry?",
+      "choices": [
+        "Magic: The Gathering",
+        "Yu-Gi-Oh!",
+        "Pokémon Trading Card Game",
+        "Digimon Card Game"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist and entrepreneur created Polly Pocket, the compact hinged plastic playset from 1989?",
+      "choices": [
+        "Ruth Handler",
+        "Chris Ulm",
+        "Blaine Smith",
+        "Kim Adelman"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Scrabble, how many tiles are in a standard game set?",
+      "choices": [
+        "72",
+        "88",
+        "100",
+        "126"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the three-layered sliding puzzle cube invented by Ernő Rubik in 1974?",
+      "choices": [
+        "Rubik's Cube",
+        "Magic Cube",
+        "Speed Cube",
+        "Puzzle Cube"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company manufactures Slinky, the spring toy that walks down stairs?",
+      "choices": [
+        "Mattel",
+        "Hasbro",
+        "Poof Products",
+        "ERTL"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original release of Monopoly by Parker Brothers in 1935, what was the name of the first city the game was based on?",
+      "choices": [
+        "Atlantic City",
+        "New York City",
+        "Philadelphia",
+        "Boston"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many pieces are included in a standard set of dominoes used for traditional domino games?",
+      "choices": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the construction toy system created by Godtfred Kirk Christiansen before it became known by its current name?",
+      "choices": [
+        "Automatic Binding Bricks",
+        "System of Play",
+        "Building Elements",
+        "Interlocking Blocks"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Hasbro release the first generation of Transformers action figures in North America?",
+      "choices": [
+        "1983",
+        "1984",
+        "1985",
+        "1986"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company originally produced the ViewMaster stereoscope toy with its distinctive circular image reels?",
+      "choices": [
+        "Tyco",
+        "Hasbro",
+        "Sawyers",
+        "Mattel"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the highest possible score you can achieve in a single frame of bowling before bonus points in the board game version?",
+      "choices": [
+        "30",
+        "60",
+        "90",
+        "120"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the collectible toy line called American Girl, what is the name of the first character doll released in 1986?",
+      "choices": [
+        "Samantha Parkington",
+        "Molly McIntire",
+        "Kirsten Larson",
+        "Julie Albright"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which inventor patented the yo-yo design that featured a string wound around an axle, modernizing the ancient toy in 1923?",
+      "choices": [
+        "Pedro Flores",
+        "Donald Duncan",
+        "Abe Lincoln",
+        "Louis Marx"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Cluedo (or Clue), how many suspect character cards are in the original North American version of the board game?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the electronic handheld game device released by Milton Bradley in 1978 that featured four colored buttons?",
+      "choices": [
+        "Simon",
+        "Merlin",
+        "Mastermind",
+        "Intellivision"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which toy manufacturer introduced the Spirograph drawing toy in 1965, allowing users to create geometric designs?",
+      "choices": [
+        "Milton Bradley",
+        "Kenner",
+        "Ideal",
+        "Fisher-Price"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1974 release of Risk, how many continents are players competing to control?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Mattel first introduce the Magic 8-Ball toy to the consumer market?",
+      "choices": [
+        "1950",
+        "1946",
+        "1955",
+        "1959"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese company developed and released the original Tamagotchi virtual pet device in 1996?",
+      "choices": [
+        "Bandai",
+        "Nintendo",
+        "Sega",
+        "Mattel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ty Inc. released their Beanie Babies line in what year, launching the collectible plush craze?",
+      "choices": [
+        "1995",
+        "1993",
+        "1997",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The action figure known as Action Man was released by which British toy manufacturer in 1966?",
+      "choices": [
+        "Hornby",
+        "Palitoy",
+        "Corgi",
+        "Dinky"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did MGA Entertainment launch the Bratz dolls, directly challenging Barbie's market dominance?",
+      "choices": [
+        "2000",
+        "2001",
+        "2002",
+        "1999"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sylvanian Families, the miniature collectible toy line, was first introduced by which Japanese toy company?",
+      "choices": [
+        "Takara",
+        "Epoch",
+        "Tomy",
+        "Hasbro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Furby electronic toy, released in 1998, was co-created by which company alongside Tiger Electronics?",
+      "choices": [
+        "Hasbro",
+        "Mattel",
+        "Milton Bradley",
+        "Kenner"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bonnie Zacherle created My Little Pony in 1983 for which toy manufacturer?",
+      "choices": [
+        "Hasbro",
+        "Kenner",
+        "Ideal",
+        "Mattel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rubik's Cube, designed by Ernő Rubik, was first sold commercially in what country in 1977?",
+      "choices": [
+        "Hungary",
+        "Japan",
+        "West Germany",
+        "United Kingdom"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which toy company manufactured the original Slinky when it was introduced to the market in 1945?",
+      "choices": [
+        "Ideal",
+        "James Industries",
+        "Mattel",
+        "Hasbro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The board game Clue was first released by which company under the name Cluedo in 1949?",
+      "choices": [
+        "Parker Brothers",
+        "Milton Bradley",
+        "Waddingtons",
+        "Spears Games"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Scrabble was invented by Alfred Mosher Butts and first sold commercially in what year?",
+      "choices": [
+        "1938",
+        "1948",
+        "1952",
+        "1941"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Lego brick system was patented by Godtfred Kirk Christiansen in what year?",
+      "choices": [
+        "1958",
+        "1952",
+        "1962",
+        "1955"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Barbie's original male companion Ken was named after Kenneth Carson, who was the son of which Mattel executive?",
+      "choices": [
+        "Jack Ryan",
+        "Elliot Handler",
+        "Ruth Handler",
+        "Seymour Mattel"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1959, Mattel introduced the original Barbie doll designed by which person?",
+      "choices": [
+        "Ruth Handler",
+        "Charlotte Johnson",
+        "Jack Ryan",
+        "Elliot Handler"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Spirograph design toy was invented by Denys Fisher and first patented in what year?",
+      "choices": [
+        "1965",
+        "1962",
+        "1968",
+        "1971"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Milton Bradley released the electronic handheld game Simon in what year?",
+      "choices": [
+        "1978",
+        "1976",
+        "1980",
+        "1974"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The yo-yo, as a modern manufactured toy, was popularized in the United States during which decade?",
+      "choices": [
+        "1920s",
+        "1940s",
+        "1950s",
+        "1930s"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mattel successfully sued MGA Entertainment over the Bratz dolls in 2010, claiming they violated intellectual property related to which product?",
+      "choices": [
+        "Barbie",
+        "Hot Wheels",
+        "Fisher-Price",
+        "American Girl"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cabbage Patch Kids craze peaked in what year, causing widespread retail shortages and buying frenzies?",
+      "choices": [
+        "1982",
+        "1984",
+        "1983",
+        "1985"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1959, which company first introduced the iconic Barbie doll at the American Toy Fair in New York?",
+      "choices": [
+        "Hasbro",
+        "Mattel",
+        "Kenner",
+        "Marx Toys"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rubik's Cube was invented by Ernő Rubik in which country?",
+      "choices": [
+        "Czechoslovakia",
+        "Hungary",
+        "Poland",
+        "Romania"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of points a single word can earn in Scrabble, excluding board multipliers?",
+      "choices": [
+        "48",
+        "54",
+        "62",
+        "71"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hot Wheels toy cars were first introduced by Mattel in which year?",
+      "choices": [
+        "1965",
+        "1968",
+        "1970",
+        "1972"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The action figure line G.I. Joe was originally marketed with what distinctive articulation feature that set it apart from competitors?",
+      "choices": [
+        "Ball-jointed shoulders",
+        "Swivel waist",
+        "Kung-fu grip",
+        "Magnetic hands"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Clue (or Cluedo), how many different suspect cards were included in the original 1949 version of the game?",
+      "choices": [
+        "5",
+        "6",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Furby toy phenomenon peaked in which year, leading to widespread shortages and high resale prices during the holiday season?",
+      "choices": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company manufactured the original Slinky toy, patented by Richard James in 1945?",
+      "choices": [
+        "Ideal Toy Company",
+        "James Industries",
+        "Pressman Toy",
+        "Transogram"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1974 release, how many painted armies were included in the Risk board game?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cabbage Patch Kids doll craze occurred primarily in which year, resulting in retail pandemonium and violence?",
+      "choices": [
+        "1982",
+        "1983",
+        "1984",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original retail price of the first Barbie doll when it was released in 1959?",
+      "choices": [
+        "$2.99",
+        "$3.95",
+        "$5.00",
+        "$7.50"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Spirograph drawing toy was invented by Denys Fisher and patented in which country before being manufactured by Kenner?",
+      "choices": [
+        "United States",
+        "United Kingdom",
+        "France",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1959 Barbie collection, what was the name of the second doll released to accompany the original Barbie?",
+      "choices": [
+        "Midge",
+        "Skipper",
+        "Ken",
+        "Nancy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ruth Handler introduce Barbie to the world at the American Toy Fair?",
+      "choices": [
+        "1957",
+        "1959",
+        "1961",
+        "1963"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bonnie Zacherle created which toy line in 1981 that became famous for colorful, friendship-themed equine characters?",
+      "choices": [
+        "Strawberry Shortcake",
+        "My Little Pony",
+        "Care Bears",
+        "Rainbow Brite"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Bratz doll line debuted in 2001 with four main characters. Which of these was one of the original four?",
+      "choices": [
+        "Sasha",
+        "Yasmin",
+        "Cloe",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country were LEGO bricks first manufactured in 1932?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Germany",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the digital pet toy from Japan, released in 1996, that required constant care and feeding?",
+      "choices": [
+        "Furby",
+        "Tamagotchi",
+        "Elmo",
+        "Tickle Me Elmo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company created the Magic 8-Ball decision-making toy, first produced in the 1950s?",
+      "choices": [
+        "Mattel",
+        "Hasbro",
+        "Ideal Toy Company",
+        "Milton Bradley"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Weebles, the egg-shaped toys from the 1970s, were famous for which characteristic when knocked over?",
+      "choices": [
+        "They light up",
+        "They wobble but don't fall down",
+        "They make music",
+        "They roll away"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "André Cassagnes invented which drawing toy in 1959 that uses a stylus and magnetic particles?",
+      "choices": [
+        "Magna-Doodle",
+        "Etch A Sketch",
+        "Spirograph",
+        "Magna-Sketch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pogs, the collectible game pieces popular in the 1990s, were circular discs that were typically made from what material?",
+      "choices": [
+        "Plastic",
+        "Cardboard",
+        "Metal",
+        "Wood"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Subbuteo is a tabletop sport simulation toy that allows players to recreate matches of which sport?",
+      "choices": [
+        "Cricket",
+        "Tennis",
+        "Football (Soccer)",
+        "Baseball"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Polly Pocket, created by Chris Ulm in 1989, featured tiny dolls and playsets that opened like what?",
+      "choices": [
+        "A music box",
+        "A jeweled compact mirror",
+        "A locket",
+        "A hinged storybook"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which traditional board game uses a dog, ship, thimble, and hat among its playing pieces?",
+      "choices": [
+        "Clue",
+        "Monopoly",
+        "Sorry!",
+        "Risk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The game Sorry!, first released by Parker Brothers in 1934, is primarily based on which traditional board game?",
+      "choices": [
+        "Ludo",
+        "Pachisi",
+        "Parcheesi",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Care Bears were created as plush toys and licensed characters by which American company in 1983?",
+      "choices": [
+        "Disney",
+        "American Greetings",
+        "Hallmark",
+        "Kenner Toys"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sylvanian Families, a miniature animal figurine collection, was first introduced by which Japanese company in 1985?",
+      "choices": [
+        "Takara Tomy",
+        "Epoch",
+        "Bandai",
+        "Good-Smile Company"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Spirograph, a geometric drawing toy, was invented in 1965 and uses interlocking gears and what to create patterns?",
+      "choices": [
+        "Markers",
+        "Pencils",
+        "Rotating wheels with holes",
+        "Springs"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The original Action Man figure, released by Hasbro in 1966, was inspired by which American military-themed toy line?",
+      "choices": [
+        "G.I. Joe",
+        "Military Master",
+        "Combat Carl",
+        "Soldier Force"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Play-Doh, the colorful modeling compound used by children for decades, was originally marketed for what purpose before becoming a toy?",
+      "choices": [
+        "Wall decoration",
+        "Wallpaper cleaner",
+        "Educational paste",
+        "Craft adhesive"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Slinky, the famous coiled toy that walks down stairs, was invented in what decade?",
+      "choices": [
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Furby, the electronic toy that spoke gibberish and became a major fad in 1998, was manufactured by which company?",
+      "choices": [
+        "Hasbro",
+        "Mattel",
+        "Tiger Electronics",
+        "Tyco"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Mattel first introduce the Barbie doll to the world?",
+      "choices": [
+        "1955",
+        "1959",
+        "1962",
+        "1951"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the total number of spaces on a standard Monopoly board?",
+      "choices": [
+        "35",
+        "38",
+        "40",
+        "42"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy company invented the Slinky, the classic spring toy that 'walks' down stairs?",
+      "choices": [
+        "Mattel",
+        "Hasbro",
+        "James Industries",
+        "Kenner"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade was the Rubik's Cube invented by Ernő Rubik?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is the Monopoly property Boardwalk?",
+      "choices": [
+        "Dark blue",
+        "Red",
+        "Orange",
+        "Yellow"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company created the LEGO brick system and is based in Denmark?",
+      "choices": [
+        "Playmobil",
+        "The LEGO Group",
+        "Mega Bloks",
+        "Kreo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the first Nintendo Game Boy released?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the small collectible dolls that come in sealed blind bags and were created by MGA Entertainment?",
+      "choices": [
+        "Littlest Pet Shop",
+        "L.O.L. Surprise!",
+        "Monster High",
+        "Ever After High"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which action figure line, created by Hasbro, features colorful robots that transform into vehicles?",
+      "choices": [
+        "G.I. Joe",
+        "Transformers",
+        "He-Man",
+        "ThunderCats"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Hasbro release Trouble, the board game with the distinctive Pop-O-Matic bubble?",
+      "choices": [
+        "1963",
+        "1965",
+        "1968",
+        "1960"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy features a wooden frame with a series of numbered metal balls that swing back and forth in perpetual motion?",
+      "choices": [
+        "Newton's Cradle",
+        "Gyroscope",
+        "Spinning Top",
+        "Pendulum Wave"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Tamagotchi digital pet toy first released in Japan?",
+      "choices": [
+        "1994",
+        "1996",
+        "1998",
+        "1992"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary material used to make traditional yo-yos?",
+      "choices": [
+        "Plastic",
+        "Wood",
+        "Metal",
+        "Rubber"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy company created the American Girl doll line?",
+      "choices": [
+        "Mattel",
+        "Pleasant Company",
+        "Hasbro",
+        "Kenner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the toy marble game where players flick marbles at a target circle to win marbles?",
+      "choices": [
+        "Marbles",
+        "Steelies",
+        "Aggies",
+        "Taw"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Milton Bradley release the game Twister?",
+      "choices": [
+        "1964",
+        "1966",
+        "1968",
+        "1962"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Star Wars action figure toy line was created by Kenner Products starting in 1978?",
+      "choices": [
+        "Black Series",
+        "Vintage Collection",
+        "Power of the Force",
+        "Original Trilogy Collection"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is the classic Magna-Tile magnetic building toy?",
+      "choices": [
+        "Multi-colored",
+        "Single color only",
+        "Neon pink",
+        "Metallic silver"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy company created the K'NEX building system?",
+      "choices": [
+        "Hasbro",
+        "Mattel",
+        "Rodon Group",
+        "MGA Entertainment"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the classic dexterity game where players try to remove wooden sticks from a pile without moving the others?",
+      "choices": [
+        "Pickup Sticks",
+        "Spillikins",
+        "Stick Stacker",
+        "Balance Game"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Furby, the interactive electronic toy known for its chattering personality, first debut on the market?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frank Hornby, the British inventor, created which construction toy system that allowed children to build models using metal strips and bolts?",
+      "choices": [
+        "Tinker Toys",
+        "Meccano",
+        "K'NEX",
+        "Erector Set"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Magic 8-Ball, the fortune-telling toy, traditionally gives responses by displaying text on a window that reveals which number?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company manufactured the Tamagotchi virtual pet toy that became a massive craze in the late 1990s?",
+      "choices": [
+        "Nintendo",
+        "Bandai",
+        "Mattel",
+        "Hasbro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "André Cassagnes invented which drawing toy that uses a stylus to create images on an aluminum powder-coated screen?",
+      "choices": [
+        "Magna-Doodle",
+        "Etch a Sketch",
+        "Spirograph",
+        "Lite-Brite"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the children's doll line created by Carter Bryant that featured dolls with attitude and contemporary fashion styling?",
+      "choices": [
+        "Barbie",
+        "Bratz",
+        "Monster High",
+        "Liv Dolls"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Legoland, the theme park dedicated entirely to LEGO building and play, is located in which English town?",
+      "choices": [
+        "Bath",
+        "Windsor",
+        "Brighton",
+        "Oxford"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which outdoor toy consists of a long elastic cord with handles on each end, traditionally used for jumping tricks on playgrounds?",
+      "choices": [
+        "Jump Rope",
+        "Pogo Stick",
+        "Chinese Jump Rope",
+        "Hula Hoop"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The game of Backgammon begins with how many pieces total on the board, distributed between both players?",
+      "choices": [
+        "24",
+        "30",
+        "32",
+        "40"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A standard Monopoly board features how many properties and spaces that players move around during gameplay?",
+      "choices": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Polly Pocket dolls, the miniature figurines that fit in compact cases, feature which character known for her sassy personality in the line?",
+      "choices": [
+        "Shani",
+        "Lea",
+        "Kira",
+        "Anna"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary mechanism that allows a Frisbee to glide through the air with its characteristic curved flight pattern?",
+      "choices": [
+        "Gyroscopic spin effect",
+        "Air pressure differential",
+        "Weight distribution",
+        "Magnetic propulsion"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which video game console, released by Nintendo in 2006, revolutionized gaming by introducing motion control technology to mainstream players?",
+      "choices": [
+        "GameCube",
+        "Wii",
+        "Switch",
+        "N64"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

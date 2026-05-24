@@ -1,254 +1,2273 @@
 {
   "slug": "march-madness-trivia",
   "name": "March Madness",
-  "description": "The NCAA Division I Men's Basketball Tournament — Selection Sunday to One Shining Moment.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.621Z",
   "questions": [
     {
       "q": "In what year was the first NCAA Division I men's basketball tournament held?",
-      "choices": ["1929", "1939", "1949", "1956"],
+      "choices": [
+        "1935",
+        "1939",
+        "1943",
+        "1947"
+      ],
       "correct": 1,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1939",
-        "verified": true,
-        "notes": "Eight teams competed in the inaugural tournament."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which team won the very first NCAA men's basketball tournament in 1939?",
-      "choices": ["Indiana", "Oregon", "Kentucky", "Wisconsin"],
-      "correct": 1,
-      "category": "March Madness",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Oregon",
-        "verified": true,
-        "notes": "The Oregon Webfoots (now Ducks) beat Ohio State."
-      }
-    },
-    {
-      "q": "Which university has won the most NCAA men's basketball championships?",
-      "choices": ["Kentucky", "Duke", "UCLA", "North Carolina"],
+      "q": "How many teams compete in the First Round of the current March Madness format?",
+      "choices": [
+        "32",
+        "48",
+        "64",
+        "72"
+      ],
       "correct": 2,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "UCLA",
-        "verified": true,
-        "notes": "11 titles, including 10 under coach John Wooden."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which legendary coach won 10 NCAA championships at UCLA, including 7 in a row?",
-      "choices": ["John Wooden", "Mike Krzyzewski", "Bob Knight", "Dean Smith"],
-      "correct": 0,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "John Wooden",
-        "verified": true,
-        "notes": "Wooden won titles 1964–65, 1967–73, 1975. 'The Wizard of Westwood'."
-      }
-    },
-    {
-      "q": "In what year did the NCAA tournament expand to its modern 64-team format?",
-      "choices": ["1979", "1985", "1991", "2003"],
+      "q": "What is the round that follows the Sweet Sixteen called?",
+      "choices": [
+        "Final Four",
+        "Elite Eight",
+        "Regional Finals",
+        "Championship Round"
+      ],
       "correct": 1,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1985",
-        "verified": true,
-        "notes": "Villanova won that very tournament as an 8-seed."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many teams compete in the current NCAA tournament format (since 2011)?",
-      "choices": ["64", "65", "68", "72"],
+      "q": "How many national championships did John Wooden win as UCLA's head coach?",
+      "choices": [
+        "7",
+        "8",
+        "10",
+        "12"
+      ],
       "correct": 2,
-      "category": "March Madness",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "68",
-        "verified": true,
-        "notes": "Adds the four 'First Four' play-in games before the round of 64."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the first round of play-in games introduced in 2011?",
-      "choices": ["Pre-Round", "First Four", "Opening Round", "Wild Card Round"],
+      "q": "In what year did the NCAA tournament expand to include 68 teams?",
+      "choices": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
+      ],
       "correct": 1,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "First Four",
-        "verified": true,
-        "notes": "Eight teams compete for four spots."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the round of 16 in the NCAA tournament called?",
-      "choices": ["Sweet Sixteen", "Super Sixteen", "Round of Sixteen", "Sixteen-up"],
+      "q": "How many games must a team win to capture the national championship in the modern tournament format?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university has won the most NCAA Division I men's basketball national titles?",
+      "choices": [
+        "Duke",
+        "North Carolina",
+        "UCLA",
+        "Kentucky"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NCAA tournament first introduce seeding for participating teams?",
+      "choices": [
+        "1975",
+        "1978",
+        "1981",
+        "1984"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many regions are represented in the March Madness bracket?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team won the NCAA men's basketball championship in 1985?",
+      "choices": [
+        "Georgetown",
+        "Villanova",
+        "Memphis State",
+        "Syracuse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Virginia win the NCAA men's basketball national championship?",
+      "choices": [
+        "2017",
+        "2018",
+        "2019",
+        "2020"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many teams participated in the very first NCAA Division I men's basketball tournament?",
+      "choices": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which network pioneered the introduction of seeding information in NCAA tournament telecasts?",
+      "choices": [
+        "ABC",
+        "CBS",
+        "NBC",
+        "ESPN"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "North Carolina defeated which team in the 1982 NCAA men's basketball championship game?",
+      "choices": [
+        "Indiana",
+        "Georgetown",
+        "Louisville",
+        "Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year were play-in games first added to the NCAA Division I men's basketball tournament?",
+      "choices": [
+        "1981",
+        "1983",
+        "1985",
+        "1987"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university won both the NIT and NCAA men's basketball tournaments in 1950?",
+      "choices": [
+        "NYU",
+        "CCNY",
+        "LIU Brooklyn",
+        "Fordham"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the four games played between the lowest-seeded teams in the current tournament format?",
+      "choices": [
+        "First Four",
+        "Play-In Games",
+        "Qualifying Round",
+        "Preliminary Round"
+      ],
       "correct": 0,
-      "category": "March Madness",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Sweet Sixteen",
-        "verified": true,
-        "notes": "The term was trademarked by the Kentucky High School Athletic Association before the NCAA started using it."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the round of 8 (regional finals) in the NCAA tournament called?",
-      "choices": ["Elite Eight", "Eight Pack", "Final Eight", "Crucial Eight"],
+      "q": "How many teams compete in the First Four round of the current March Madness format?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Indiana won the NCAA men's basketball national championship in which year?",
+      "choices": [
+        "1938",
+        "1940",
+        "1942",
+        "1944"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university has appeared in the most Final Four tournaments without winning an NCAA men's basketball title?",
+      "choices": [
+        "Ohio State",
+        "Illinois",
+        "Kansas",
+        "Michigan State"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NCAA tournament expand to include 64 teams?",
+      "choices": [
+        "1979",
+        "1985",
+        "1991",
+        "1997"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university has won the most NCAA men's basketball national championships?",
+      "choices": [
+        "Duke",
+        "UCLA",
+        "North Carolina",
+        "Kentucky"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many games must a team win to capture the NCAA national championship in the modern tournament format?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the round featuring the final four teams in the NCAA tournament?",
+      "choices": [
+        "Elite Eight",
+        "Sweet Sixteen",
+        "Final Four",
+        "Championship Round"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was the 'First Four' play-in round introduced to the NCAA tournament?",
+      "choices": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state hosted the entire 2021 NCAA Division I men's basketball tournament?",
+      "choices": [
+        "Indiana",
+        "Texas",
+        "Florida",
+        "Ohio"
+      ],
       "correct": 0,
-      "category": "March Madness",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Elite Eight",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the round of 4 (semifinals) in the NCAA tournament called?",
-      "choices": ["Sacred Four", "Final Four", "Champion Four", "Last Four"],
-      "correct": 1,
-      "category": "March Madness",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Final Four",
-        "verified": true,
-        "notes": "Term first used by the NCAA officially in 1978."
-      }
-    },
-    {
-      "q": "What is the term for predicting all 67 tournament outcomes (a perfect bracket)?",
-      "choices": ["Forecast Bingo", "Bracketology", "March Maths", "Hoopnomics"],
-      "correct": 1,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Bracketology",
-        "verified": true,
-        "notes": "Term popularized by ESPN's Joe Lunardi."
-      }
-    },
-    {
-      "q": "What is the day called when the field is announced and brackets are revealed?",
-      "choices": ["Selection Sunday", "Bracket Day", "March Madness Monday", "The Reveal"],
-      "correct": 0,
-      "category": "March Madness",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Selection Sunday",
-        "verified": true,
-        "notes": "Always the Sunday before the First Four games begin."
-      }
-    },
-    {
-      "q": "What is the lowest seed ever to win the NCAA men's championship (1985)?",
-      "choices": ["No. 5 (Indiana)", "No. 6 (Kansas)", "No. 7 (Connecticut)", "No. 8 (Villanova)"],
-      "correct": 3,
-      "category": "March Madness",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Villanova (1985)",
-        "verified": true,
-        "notes": "Villanova upset top-seeded Georgetown in the final."
-      }
-    },
-    {
-      "q": "Which network has aired the NCAA tournament since 1982 (now in partnership with Turner)?",
-      "choices": ["NBC", "ABC", "Fox", "CBS"],
-      "correct": 3,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "CBS and Turner Sports",
-        "verified": true,
-        "notes": "Joint deal with Turner since 2011 (TBS, TNT, truTV)."
-      }
-    },
-    {
-      "q": "What is the title of CBS's iconic post-final-game tournament montage?",
-      "choices": ["Madness Memories", "One Shining Moment", "March to Glory", "Blue Banner"],
-      "correct": 1,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "CBS",
-        "verified": true,
-        "notes": "Song written by David Barrett in 1986; Luther Vandross's 2003 cover is the most famous version."
-      }
-    },
-    {
-      "q": "Which Florida team won back-to-back NCAA championships in 2006 and 2007?",
-      "choices": ["Florida State", "Florida", "Miami", "South Florida"],
-      "correct": 1,
-      "category": "March Madness",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Florida",
-        "verified": true,
-        "notes": "Coached by Billy Donovan; led by Joakim Noah, Al Horford, and Corey Brewer."
-      }
-    },
-    {
-      "q": "Which Duke star hit one of the most iconic shots in tournament history — the 1992 buzzer-beater against Kentucky?",
-      "choices": ["Bobby Hurley", "Christian Laettner", "Grant Hill", "Shane Battier"],
-      "correct": 1,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Duke",
-        "verified": true,
-        "notes": "Laettner's turnaround jumper at the buzzer (East Regional Final, 104-103 OT)."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What major event caused the cancellation of the 2020 NCAA tournament?",
       "choices": [
-        "Wildfires in California",
-        "Hurricane Laura",
-        "The COVID-19 pandemic",
-        "An NCAA strike"
+        "Labor strike",
+        "Natural disaster",
+        "COVID-19 pandemic",
+        "Broadcasting dispute"
       ],
       "correct": 2,
-      "category": "March Madness",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "COVID-19 pandemic",
-        "verified": true,
-        "notes": "First cancellation in tournament history."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In which state was the entire 2021 NCAA tournament held in a single bubble due to COVID?",
-      "choices": ["Florida", "Texas", "Indiana", "Arizona"],
-      "correct": 2,
-      "category": "March Madness",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Indiana",
-        "verified": true,
-        "notes": "Most games at Bankers Life / Lucas Oil Stadium in Indianapolis."
-      }
+      "q": "Which coach won 10 NCAA national championships, the most of any coach in history?",
+      "choices": [
+        "Bobby Knight",
+        "John Wooden",
+        "Dean Smith",
+        "Mike Krzyzewski"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which university won the men's NCAA tournament in 2023?",
-      "choices": ["UConn", "San Diego State", "Florida Atlantic", "Miami"],
+      "q": "In what year did the NCAA first implement seeding for tournament teams?",
+      "choices": [
+        "1975",
+        "1978",
+        "1982",
+        "1986"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team won back-to-back national championships in 2006 and 2007?",
+      "choices": [
+        "Duke",
+        "Florida",
+        "Kansas",
+        "Georgetown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for the round of 16 in the NCAA tournament?",
+      "choices": [
+        "Round of 16",
+        "Sweet Sixteen",
+        "Regional Round",
+        "Quarterfinals"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university won both the NIT and NCAA tournament championships in 1950?",
+      "choices": [
+        "CCNY",
+        "NYU",
+        "Fordham",
+        "Columbia"
+      ],
       "correct": 0,
-      "category": "March Madness",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "UConn",
-        "verified": true,
-        "notes": "UConn beat San Diego State in the final. Repeated as champs in 2024."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the formal name for the day when teams are selected for the NCAA tournament?",
+      "choices": [
+        "Bracket Day",
+        "Selection Sunday",
+        "Tournament Day",
+        "Seeding Day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NCAA eliminate third-place games from the tournament?",
+      "choices": [
+        "1979",
+        "1981",
+        "1983",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'Bracketology' refer to in the context of March Madness?",
+      "choices": [
+        "Tournament bracket design",
+        "Predicting tournament game outcomes",
+        "Analyzing team statistics",
+        "Studying historical records"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many UCLA national championships were won under the coaching tenure of John Wooden?",
+      "choices": [
+        "8",
+        "10",
+        "11",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What television network popularized the phrase 'Shining Moment' as a highlight reel of the tournament?",
+      "choices": [
+        "ESPN",
+        "NBC",
+        "CBS",
+        "Turner Sports"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NCAA allow multiple teams from the same conference to participate in the tournament?",
+      "choices": [
+        "1973",
+        "1975",
+        "1977",
+        "1979"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is credited with having the original idea to create the NCAA basketball tournament?",
+      "choices": [
+        "Phog Allen",
+        "Harold Olsen",
+        "James Naismith",
+        "Amos Alonzo Stagg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which rounds are collectively referred to as the 'Regional Finals'?",
+      "choices": [
+        "First Round and Second Round",
+        "Sweet Sixteen and Elite Eight",
+        "Elite Eight and Final Four",
+        "Round of 32 and Sweet Sixteen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many teams participated in the very first NCAA men's basketball tournament?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which school won the first-ever NCAA men's basketball championship in 1939?",
+      "choices": [
+        "Oregon",
+        "Indiana",
+        "Ohio State",
+        "Kansas"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname for the round of 16 teams in the NCAA tournament?",
+      "choices": [
+        "Elite Eight",
+        "Sweet Sixteen",
+        "Final Four",
+        "Round of Glory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term refers to the last four teams remaining in the NCAA tournament?",
+      "choices": [
+        "Elite Eight",
+        "Final Four",
+        "Fabulous Four",
+        "Championship Round"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many total games are played throughout the entire NCAA men's basketball tournament?",
+      "choices": [
+        "54",
+        "60",
+        "67",
+        "72"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team won the NCAA men's basketball championship in 1960?",
+      "choices": [
+        "UCLA",
+        "Ohio State",
+        "Indiana",
+        "North Carolina"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Ohio State win its first NCAA men's basketball championship?",
+      "choices": [
+        "1955",
+        "1960",
+        "1965",
+        "1970"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university won the national championship in 1940?",
+      "choices": [
+        "Indiana",
+        "Kansas",
+        "Oregon",
+        "Stanford"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the head coach of North Carolina when they won the national title in 2009?",
+      "choices": [
+        "Dean Smith",
+        "Roy Williams",
+        "Bill Guthridge",
+        "Matt Doherty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which school won the national championship in 1988, led by star player Danny Manning?",
+      "choices": [
+        "Oklahoma",
+        "Kansas",
+        "Duke",
+        "Arizona"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who composed the iconic \"One Shining Moment\" song that plays during March Madness?",
+      "choices": [
+        "John Williams",
+        "David Barrett",
+        "James Horner",
+        "Alan Menken"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team won the NCAA men's basketball championship in 2003?",
+      "choices": [
+        "Maryland",
+        "Syracuse",
+        "Kansas",
+        "Marquette"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which school won the NCAA men's basketball championship in 1999?",
+      "choices": [
+        "Duke",
+        "UConn",
+        "North Carolina",
+        "Kentucky"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university won the national championship game in 2023?",
+      "choices": [
+        "San Diego State",
+        "UConn",
+        "Purdue",
+        "Texas Tech"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many NCAA men's basketball national championships has Duke University won?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NCAA tournament expand to 68 teams?",
+      "choices": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city hosted the first-ever televised NCAA men's basketball championship game in 1960?",
+      "choices": [
+        "New York",
+        "Los Angeles",
+        "Columbus",
+        "Kansas City"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the 'March Madness' logo officially introduced by the NCAA?",
+      "choices": [
+        "2014",
+        "2016",
+        "2018",
+        "2020"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university holds the record for the most NCAA men's basketball national championships?",
+      "choices": [
+        "Duke",
+        "UCLA",
+        "North Carolina",
+        "Kansas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many regions are included in the NCAA tournament bracket structure?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What team won the NCAA men's basketball championship in 2023?",
+      "choices": [
+        "Purdue",
+        "UConn",
+        "Houston",
+        "Kansas State"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which team defeated Georgetown to win the 1985 NCAA championship as an 8th seed?",
+      "choices": [
+        "Villanova",
+        "Providence",
+        "Memphis State",
+        "Northeastern"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year were the 'First Four' play-in games introduced to the NCAA tournament?",
+      "choices": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which two networks currently broadcast NCAA tournament games?",
+      "choices": [
+        "ESPN and ABC",
+        "CBS and Turner Sports",
+        "Fox and NBC",
+        "Apple TV and Amazon Prime"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the collective name for the Elite Eight and Sweet Sixteen rounds?",
+      "choices": [
+        "The Championship Rounds",
+        "The Regional Finals",
+        "The Tournament Quarterfinals",
+        "The Conference Rounds"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university won back-to-back national championships in 2006 and 2007?",
+      "choices": [
+        "Florida",
+        "UCLA",
+        "Duke",
+        "Connecticut"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which venue will host the NCAA Final Four in 2025?",
+      "choices": [
+        "AT&T Stadium",
+        "Alamodome",
+        "Madison Square Garden",
+        "Crypto.com Arena"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university has hosted every First Four game since 2011, with the exception of 2021?",
+      "choices": [
+        "University of Dayton",
+        "Xavier University",
+        "Ohio State University",
+        "University of Cincinnati"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What combined annual amount do Paramount Global and Warner Bros Discovery pay for NCAA tournament broadcast rights?",
+      "choices": [
+        "$650 million",
+        "$750 million",
+        "$891 million",
+        "$1 billion"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which network created the 'Shining Moment' highlight montage for March Madness?",
+      "choices": [
+        "NBC",
+        "ESPN",
+        "CBS",
+        "Turner Sports"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the NCAA tournament expand from 32 teams to 64 teams in the first round?",
+      "choices": [
+        "1985",
+        "1988",
+        "1991",
+        "1994"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won the NCAA men's basketball championship in 1966, ending Cincinnati's back-to-back title run?",
+      "choices": [
+        "Texas Western",
+        "Duke",
+        "UCLA",
+        "Kentucky"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of games a team must win to capture the NCAA Division I men's basketball national championship?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1995, which school became the first to win the NCAA tournament as a 15-seed?",
+      "choices": [
+        "No 15-seed has ever won the tournament",
+        "Troy State",
+        "Colgate",
+        "Middle Tennessee State"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team holds the NCAA tournament record for most consecutive national championships, winning three titles in a row during the 1960s?",
+      "choices": [
+        "UCLA",
+        "Duke",
+        "North Carolina",
+        "Cincinnati"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA introduce the automatic bid system, guaranteeing conference tournament champions a spot in the tournament?",
+      "choices": [
+        "1975",
+        "1985",
+        "1991",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team defeated North Carolina in the 2009 NCAA championship game to win their first national title?",
+      "choices": [
+        "Michigan State",
+        "Connecticut",
+        "Kansas",
+        "Louisville"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first 16-seed to reach the Sweet Sixteen in NCAA tournament history?",
+      "choices": [
+        "No 16-seed has ever reached the Sweet Sixteen",
+        "Boston College (1985)",
+        "Colgate (2008)",
+        "Troy State (1992)"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2018, which 16-seed became the first in tournament history to win an NCAA tournament game?",
+      "choices": [
+        "UMBC",
+        "Mount St. Mary's",
+        "Texas Southern",
+        "Norfolk State"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won the NCAA championship in 2011, defeating UConn in the final?",
+      "choices": [
+        "Duke",
+        "North Carolina",
+        "Kentucky",
+        "Connecticut"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times has Kansas reached the NCAA championship game without winning the title?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which school won the NCAA tournament championship in 2022, ending a 27-year drought for the program?",
+      "choices": [
+        "Houston",
+        "Kansas",
+        "Gonzaga",
+        "Arizona"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1992, who became the first coach to win an NCAA championship at two different schools?",
+      "choices": [
+        "Bobby Knight",
+        "Dean Smith",
+        "John Wooden",
+        "Bob Cousy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the attendance record for a single NCAA tournament game, set during a Final Four matchup?",
+      "choices": [
+        "68,112",
+        "71,231",
+        "75,840",
+        "79,238"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team won the NCAA championship in 2016, defeating North Carolina in overtime?",
+      "choices": [
+        "Villanova",
+        "Oklahoma",
+        "Syracuse",
+        "Kansas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA begin allowing the National Invitation Tournament (NIT) to take place before Selection Sunday?",
+      "choices": [
+        "2005",
+        "2010",
+        "2015",
+        "2020"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which coach holds the record for most NCAA tournament games coached in a career?",
+      "choices": [
+        "Mike Krzyzewski",
+        "Lute Olson",
+        "Bob Knight",
+        "Jim Boeheim"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the award given to the most outstanding player of the NCAA tournament final game?",
+      "choices": [
+        "John Wooden Award",
+        "Most Outstanding Player Award",
+        "Final Four MVP",
+        "Champion's Cup Award"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2014, which school won their first NCAA championship since 1940?",
+      "choices": [
+        "Indiana",
+        "Wisconsin",
+        "Florida",
+        "Louisville"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times has a 13-seed or higher unseeded team reached the Final Four?",
+      "choices": [
+        "Never",
+        "Once",
+        "Twice",
+        "Three times"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pete Maravich holds the all-time scoring record in NCAA tournament history. How many points did he score across all his tournament appearances?",
+      "choices": [
+        "508 points",
+        "612 points",
+        "723 points",
+        "841 points"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team became the first to win both the NIT and NCAA tournaments in the same calendar year?",
+      "choices": [
+        "CCNY in 1950",
+        "NYU in 1948",
+        "Temple in 1952",
+        "LIU in 1949"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA men's basketball tournament first expand to include 64 teams?",
+      "choices": [
+        "1980",
+        "1985",
+        "1990",
+        "1995"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "John Wooden's 10 NCAA championships span across how many decades?",
+      "choices": [
+        "Two decades",
+        "Three decades",
+        "Four decades",
+        "Five decades"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 2014 NCAA men's basketball national championship game drew an attendance of approximately how many fans?",
+      "choices": [
+        "68,493",
+        "74,340",
+        "79,238",
+        "82,715"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which school won the NCAA men's basketball championship in 1988, highlighted by forward Danny Manning's stellar performance?",
+      "choices": [
+        "Kansas",
+        "Oklahoma State",
+        "Duke",
+        "Indiana"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Roy Williams coached North Carolina to a national championship in which year?",
+      "choices": [
+        "2005",
+        "2009",
+        "2012",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Norfolk Scope hosted the first-ever NCAA women's basketball national championship game in which year?",
+      "choices": [
+        "1980",
+        "1982",
+        "1985",
+        "1987"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Stanford won the NCAA women's basketball national championship in which year?",
+      "choices": [
+        "2019",
+        "2021",
+        "2023",
+        "2024"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the NCAA tournament bracket structure, the traditional pairing of the East and West regions occurs at which stage?",
+      "choices": [
+        "Elite Eight",
+        "Final Four semifinals",
+        "Regional finals",
+        "National semifinals"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which network popularized the phrase 'Shining Moment' for their NCAA tournament highlight package?",
+      "choices": [
+        "NBC",
+        "ABC",
+        "CBS",
+        "ESPN"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ohio State hosted the first-ever televised NCAA men's basketball championship game in which year?",
+      "choices": [
+        "1952",
+        "1956",
+        "1960",
+        "1964"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Turner Sports and CBS agreed to extend their NCAA tournament broadcast rights through which year for $88 billion?",
+      "choices": [
+        "2028",
+        "2030",
+        "2032",
+        "2034"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "A full-page advertisement in the official NCAA tournament program costs approximately how much?",
+      "choices": [
+        "$75,000",
+        "$100,000",
+        "$130,000",
+        "$165,000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA cease conducting third-place games in the tournament?",
+      "choices": [
+        "1975",
+        "1979",
+        "1981",
+        "1985"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Jared Butler was named the Most Outstanding Player of the NCAA tournament in which year?",
+      "choices": [
+        "2019",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kentucky holds which position among all schools in total NCAA men's basketball championships?",
+      "choices": [
+        "Second-most",
+        "Third-most",
+        "Fourth-most",
+        "Fifth-most"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "North Carolina defeated which team in the 1982 NCAA men's basketball national championship game?",
+      "choices": [
+        "Indiana",
+        "Georgetown",
+        "Louisville",
+        "Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many teams compete in the First Four round of the NCAA men's basketball tournament?",
+      "choices": [
+        "4 teams",
+        "6 teams",
+        "8 teams",
+        "10 teams"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA tournament first implement a seeding system to rank teams within their brackets?",
+      "choices": [
+        "1975",
+        "1978",
+        "1982",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which coach won exactly 10 NCAA men's basketball national championships, a record that still stands?",
+      "choices": [
+        "Dean Smith",
+        "John Wooden",
+        "Mike Krzyzewski",
+        "Adolph Rupp"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1963, which team set the NCAA tournament record for largest margin of victory with a 69-point win?",
+      "choices": [
+        "Loyola-Chicago",
+        "UCLA",
+        "Cincinnati",
+        "Kansas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many teams participated in the very first NCAA Division I men's basketball tournament in 1939?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary reason the NCAA men's basketball tournament was completely cancelled in 2020?",
+      "choices": [
+        "Labor disputes",
+        "COVID-19 pandemic",
+        "Network broadcasting conflict",
+        "Venue unavailability"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which university won the NCAA men's basketball championship in both 1999 and 2004?",
+      "choices": [
+        "Duke",
+        "UConn",
+        "North Carolina",
+        "Kentucky"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA tournament expand from 64 teams to 68 teams by adding the First Four play-in games?",
+      "choices": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which conference was allowed to send multiple teams to the NCAA tournament for the first time in 1975?",
+      "choices": [
+        "The Big Ten",
+        "The ACC",
+        "The Pac-12",
+        "The SEC"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many total games are played across all rounds of the modern 68-team NCAA tournament?",
+      "choices": [
+        "63",
+        "65",
+        "67",
+        "69"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Florida became the first team to win back-to-back men's basketball national championships in which consecutive years?",
+      "choices": [
+        "2005-2006",
+        "2006-2007",
+        "2007-2008",
+        "2008-2009"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state hosted the entire 2021 NCAA Division I men's basketball tournament due to pandemic protocols?",
+      "choices": [
+        "Texas",
+        "Indiana",
+        "Florida",
+        "Ohio"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA discontinue third-place games in the tournament?",
+      "choices": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive games must a team win to capture the national championship in the current 68-team format?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official term for the round of 16 in the NCAA men's basketball tournament?",
+      "choices": [
+        "Elite Eight",
+        "Sweet Sixteen",
+        "Round of 16",
+        "Regional Round"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year were the NCAA tournament Final Four semifinals moved to Saturday with the championship game on Monday?",
+      "choices": [
+        "1970",
+        "1972",
+        "1973",
+        "1974"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team was the lowest seed ever to win the NCAA men's basketball national championship?",
+      "choices": [
+        "Villanova (8th seed, 1985)",
+        "George Mason (11th seed, 2006)",
+        "Butler (5th seed, 2010)",
+        "Marquette (6th seed, 1977)"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the NCAA tournament first expand to include 16 teams?",
+      "choices": [
+        "1948",
+        "1951",
+        "1953",
+        "1956"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which university won the very first NCAA Division I men's basketball championship in 1939?",
+      "choices": [
+        "Oregon",
+        "Ohio State",
+        "Indiana",
+        "Kansas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many NCAA men's basketball national championships has the University of Kentucky won through 2023?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the First Four play-in round introduced in 2011, how many teams compete to earn spots in the main bracket?",
+      "choices": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA Division I men's basketball tournament first introduce the 'First Four' play-in games to determine the final four at-large berths?",
+      "choices": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team holds the record for the most Final Four appearances in NCAA men's basketball tournament history without winning a national championship?",
+      "choices": [
+        "Illinois",
+        "Ohio State",
+        "North Carolina",
+        "Kansas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the margin of victory when Villanova defeated Georgetown in the 1985 NCAA championship game, one of the closest finals in tournament history?",
+      "choices": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "4 points"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1992 NCAA tournament, Christian Laettner made an iconic buzzer-beater for Duke against Kentucky in the Elite Eight. How many total points did Laettner score in that entire game?",
+      "choices": [
+        "31 points",
+        "38 points",
+        "43 points",
+        "50 points"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which school became the lowest-seeded team to reach the Final Four in the 2023 NCAA men's basketball tournament?",
+      "choices": [
+        "Kennesaw State",
+        "Florida Atlantic University",
+        "Fairleigh Dickinson",
+        "Vermont"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1963, Loyola-Chicago recorded one of the most lopsided victories in NCAA tournament history. By how many points did they defeat Tennessee Tech?",
+      "choices": [
+        "56 points",
+        "63 points",
+        "69 points",
+        "75 points"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NCAA men's basketball championship team was coached by Danny Manning as a player, winning the title in 1988?",
+      "choices": [
+        "Kansas",
+        "Duke",
+        "North Carolina",
+        "Oklahoma"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the official 'March Madness' logo and branding introduced by the NCAA?",
+      "choices": [
+        "2010",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which broadcaster is credited with coining the term 'Selection Sunday' to describe the day the NCAA tournament field is announced?",
+      "choices": [
+        "ESPN",
+        "NBC",
+        "CBS",
+        "Turner Sports"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who is the only Illinois high school basketball official to have worked an NCAA Division I men's basketball national championship game?",
+      "choices": [
+        "Dick Schindler",
+        "Frank Marocco",
+        "Ted Valentine",
+        "John Adams"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NCAA Division I men's basketball tournament expand from 32 teams to 64 teams?",
+      "choices": [
+        "1980",
+        "1985",
+        "1990",
+        "1995"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university won the inaugural NCAA men's basketball tournament in 1939?",
+      "choices": [
+        "Oregon",
+        "Indiana",
+        "Temple",
+        "Ohio State"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many games must a team win to claim the national championship in the modern 64-team tournament format?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university holds the record for most NCAA men's basketball national championships?",
+      "choices": [
+        "Kentucky",
+        "Duke",
+        "UCLA",
+        "North Carolina"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1973, the NCAA made a scheduling change moving the Final Four semifinals to Saturday and the championship game to which day?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university holds the second-most NCAA men's basketball national championships as of 2024?",
+      "choices": [
+        "Duke",
+        "Kentucky",
+        "North Carolina",
+        "Indiana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official name of the round immediately following the Sweet Sixteen in the NCAA tournament?",
+      "choices": [
+        "Final Four",
+        "Elite Eight",
+        "Championship Round",
+        "Regional Finals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1982 NCAA championship game, which team did North Carolina defeat to win the title?",
+      "choices": [
+        "Georgetown",
+        "Louisville",
+        "Virginia",
+        "UCLA"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many geographic regions are used to organize the NCAA tournament bracket?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1985 NCAA championship game, Villanova defeated which team to claim the national title?",
+      "choices": [
+        "Memphis State",
+        "Georgetown",
+        "Duke",
+        "Kentucky"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university has appeared in the most Final Fours without ever winning an NCAA championship?",
+      "choices": [
+        "Illinois",
+        "Syracuse",
+        "Ohio State",
+        "Louisville"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Indiana won the NCAA men's basketball championship in 1940 after the tournament's inaugural year. In what year did they win their second title?",
+      "choices": [
+        "1953",
+        "1976",
+        "1981",
+        "1987"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which broadcasting network first introduced the concept of tournament seeding in its NCAA tournament telecasts?",
+      "choices": [
+        "ABC",
+        "CBS",
+        "NBC",
+        "ESPN"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The process of selecting teams for the NCAA tournament and announcing the bracket takes place on what day of the week?",
+      "choices": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many first-round games are played in the current 64-team NCAA tournament format?",
+      "choices": [
+        "16",
+        "32",
+        "48",
+        "64"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which arena holds the NCAA tournament record for hosting the most games in a single tournament year?",
+      "choices": [
+        "Madison Square Garden",
+        "Chase Center",
+        "Alamodome",
+        "United Center"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the NCAA Division I men's basketball tournament first held?",
+      "choices": [
+        "1935",
+        "1939",
+        "1941",
+        "1943"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which venue will host the Final Four semifinals and championship game in 2025?",
+      "choices": [
+        "American Airlines Center",
+        "Alamodome",
+        "Crypto.com Arena",
+        "Smoothie King Center"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How much does a full-page advertisement in the official NCAA tournament program cost?",
+      "choices": [
+        "$50,000",
+        "$100,000",
+        "$130,000",
+        "$150,000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which broadcasting entities currently hold the rights to televise the NCAA tournament?",
+      "choices": [
+        "ABC and ESPN",
+        "CBS and Turner Sports",
+        "NBC and Turner Sports",
+        "Fox and ESPN"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the NCAA men's basketball tournament expand from 48 to 64 teams?",
+      "choices": [
+        "1980",
+        "1985",
+        "1990",
+        "1995"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many consecutive national championships did John Wooden's UCLA teams win during their dynasty?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university won back-to-back national titles in 2006 and 2007?",
+      "choices": [
+        "Duke",
+        "Florida",
+        "North Carolina",
+        "Kansas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the round that immediately follows the Sweet Sixteen in the NCAA tournament?",
+      "choices": [
+        "Final Four",
+        "Elite Eight",
+        "Regional Finals",
+        "Quarterfinals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many points did Magic Johnson score in the 1979 NCAA championship game against Indiana State?",
+      "choices": [
+        "19 points",
+        "24 points",
+        "28 points",
+        "31 points"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team defeated Georgetown in the 1985 NCAA championship game in a major upset?",
+      "choices": [
+        "Villanova",
+        "Memphis State",
+        "Providence",
+        "Dayton"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the first NCAA Division I men's basketball tournament held?",
+      "choices": [
+        "1935",
+        "1939",
+        "1943",
+        "1947"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state hosted the entire 2021 NCAA men's and women's tournaments due to pandemic restrictions?",
+      "choices": [
+        "Texas",
+        "Indiana",
+        "Ohio",
+        "Illinois"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "North Carolina won six national championships, with their most recent coming in which year?",
+      "choices": [
+        "2005",
+        "2009",
+        "2017",
+        "2019"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Christian Laettner hit a famous buzzer-beater in the 1992 Elite Eight. How many total points did he score in that game?",
+      "choices": [
+        "31 points",
+        "44 points",
+        "55 points",
+        "61 points"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did the term 'Final Four' become officially part of NCAA tournament nomenclature?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university has reached the most Final Fours without ever winning a national championship?",
+      "choices": [
+        "Illinois",
+        "Kansas",
+        "Duke",
+        "UCLA"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kansas won the 1988 national championship with which future Hall of Famer as their star player?",
+      "choices": [
+        "Larry Brown",
+        "Danny Manning",
+        "Allen Iverson",
+        "Patrick Ewing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which network is credited with creating the 'Shining Moment' highlight reel montage for the NCAA tournament?",
+      "choices": [
+        "NBC",
+        "ESPN",
+        "CBS",
+        "TBS"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the current NCAA tournament format, how many games must a team win to become national champions?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many teams compete in the NCAA Division I men's basketball tournament in its current 68-team format?",
+      "choices": [
+        "64",
+        "65",
+        "67",
+        "68"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team won the 1940 NCAA championship, the second year of the tournament?",
+      "choices": [
+        "Ohio State",
+        "Indiana",
+        "Kansas",
+        "Purdue"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "UConn won the men's national championship in 2023. In which year did they previously win back-to-back titles?",
+      "choices": [
+        "2010-2011",
+        "2011-2012",
+        "2012-2013",
+        "2013-2014"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which venue holds the record for hosting the most NCAA tournament games in a single year?",
+      "choices": [
+        "Staples Center",
+        "Madison Square Garden",
+        "AT&T Stadium",
+        "American Airlines Center"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many games must a team win to capture the national championship in the modern 68-team tournament format?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team holds the record for the lowest seed to ever win the NCAA championship?",
+      "choices": [
+        "Villanova (8 seed, 1985)",
+        "Florida Atlantic (13 seed, 2023)",
+        "George Mason (11 seed, 2006)",
+        "Syracuse (9 seed, 2003)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official name of the round featuring 16 teams competing in the NCAA tournament?",
+      "choices": [
+        "Elite Eight",
+        "Sweet Sixteen",
+        "Final Sixteen",
+        "Championship Sixteen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which broadcaster is credited with coining the term 'Selection Sunday' for the NCAA tournament reveal?",
+      "choices": [
+        "ESPN",
+        "CBS",
+        "NBC",
+        "Turner Sports"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what city was the entire 2021 NCAA tournament held as a single-site event?",
+      "choices": [
+        "Indianapolis",
+        "Dallas",
+        "Las Vegas",
+        "Atlanta"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which venue hosted the first-ever women's NCAA basketball championship game in 1982?",
+      "choices": [
+        "Madison Square Garden",
+        "Norfolk Scope",
+        "The Palestra",
+        "Rupp Arena"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many teams compete in the First Four round of the NCAA tournament?",
+      "choices": [
+        "4",
+        "8",
+        "12",
+        "16"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player holds the record for most career points scored across multiple March Madness tournaments?",
+      "choices": [
+        "Magic Johnson",
+        "Lew Alcindor",
+        "Michael Jordan",
+        "Larry Bird"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard advertising cost for a full-page ad in the official NCAA tournament program?",
+      "choices": [
+        "$75,000",
+        "$100,000",
+        "$130,000",
+        "$150,000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Final Four venue has the largest seating capacity?",
+      "choices": [
+        "Mercedes-Benz Stadium",
+        "AT&T Stadium",
+        "MetLife Stadium",
+        "Arrowhead Stadium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many regions are there in the standard NCAA tournament bracket structure?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university won the national championship in 2019, defeating Texas Tech?",
+      "choices": [
+        "Auburn",
+        "Virginia",
+        "Duke",
+        "Texas Tech"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What venue is scheduled to host the 2025 NCAA Final Four?",
+      "choices": [
+        "Alamodome",
+        "Lucas Oil Stadium",
+        "AT&T Stadium",
+        "Crypto.com Arena"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who won the Most Outstanding Player award at the 2021 NCAA men's tournament?",
+      "choices": [
+        "Gonzaga player",
+        "Jared Butler",
+        "Baylor player",
+        "Alabama player"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many national titles has the University of Kentucky won in men's basketball?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which arena has hosted the most NCAA tournament games throughout history?",
+      "choices": [
+        "Rupp Arena",
+        "University of Dayton Arena",
+        "Pauley Pavilion",
+        "Allen Fieldhouse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term used to describe the predictive analysis and bracket forecasting done by media analysts before the tournament begins?",
+      "choices": [
+        "Bracketology",
+        "Tournament Forecasting",
+        "Seed Projection",
+        "Matchup Analysis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team did North Carolina defeat to win the 1982 national championship?",
+      "choices": [
+        "Louisville",
+        "Georgetown",
+        "Virginia",
+        "Indiana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year were play-in games first introduced to the NCAA men's basketball tournament?",
+      "choices": [
+        "1979",
+        "1983",
+        "1987",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university has appeared in the most Final Four tournaments without ever winning a national championship?",
+      "choices": [
+        "Illinois",
+        "Kansas",
+        "Ohio State",
+        "North Carolina"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the NCAA tournament expand from 48 teams to 64 teams?",
+      "choices": [
+        "1983",
+        "1985",
+        "1987",
+        "1989"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which school won the NCAA men's basketball championship in 1985, defeating the Georgetown Hoyas in a major upset?",
+      "choices": [
+        "Villanova",
+        "Memphis State",
+        "UNLV",
+        "Syracuse"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the historic Philadelphia arena that holds the record as the smallest venue to host a Final Four?",
+      "choices": [
+        "The Spectrum",
+        "The Palestra",
+        "CoreStates Center",
+        "Wells Fargo Center"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which team set the NCAA tournament record by defeating an opponent by 69 points in 1963?",
+      "choices": [
+        "UCLA",
+        "Loyola-Chicago",
+        "Cincinnati",
+        "Ohio State"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many national championships has UCLA won in NCAA men's basketball history?",
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the NCAA stop allowing third-place consolation games in the tournament?",
+      "choices": [
+        "1979",
+        "1980",
+        "1981",
+        "1982"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coach holds the record for the most NCAA tournament national championships with 10 titles?",
+      "choices": [
+        "Dean Smith",
+        "John Wooden",
+        "Mike Krzyzewski",
+        "Adolph Rupp"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many games must a team win to capture the NCAA national championship under the current 64-team tournament format?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

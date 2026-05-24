@@ -1,209 +1,3747 @@
 {
   "slug": "geography-trivia",
   "name": "Geography",
-  "description": "Countries, capitals, landmarks, rivers, and world facts",
-  "processedAt": "2026-04-16T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.554Z",
   "questions": [
     {
-      "q": "Which country has the largest total land area on Earth?",
-      "choices": ["Canada", "China", "United States", "Russia"],
+      "q": "What is the largest country in the world by area?",
+      "choices": [
+        "Canada",
+        "United States",
+        "China",
+        "Russia"
+      ],
       "correct": 3,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Russia", "verified": true, "notes": "~17.1 million km²." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the tallest mountain on Earth?",
+      "choices": [
+        "K2",
+        "Mount Everest",
+        "Lhotse",
+        "Kangchenjunga"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "What is the longest river in Africa?",
-      "choices": ["Congo", "Niger", "Zambezi", "Nile"],
+      "choices": [
+        "Zambezi River",
+        "The Nile",
+        "Niger River",
+        "Congo River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US state is home to the Grand Canyon?",
+      "choices": [
+        "Arizona",
+        "Nevada",
+        "Utah",
+        "Colorado"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest hot desert in the world?",
+      "choices": [
+        "Kalahari Desert",
+        "Sahara Desert",
+        "Gobi Desert",
+        "Arabian Desert"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dam on the Colorado River is named after a US President?",
+      "choices": [
+        "Lincoln Dam",
+        "Roosevelt Dam",
+        "Hoover Dam",
+        "Washington Dam"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Memphis and Nashville are cities in which US state?",
+      "choices": [
+        "Tennessee",
+        "Alabama",
+        "Kentucky",
+        "Georgia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean does Oregon border?",
+      "choices": [
+        "Atlantic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has the largest total land area on Earth?",
+      "choices": [
+        "Canada",
+        "China",
+        "United States",
+        "Russia"
+      ],
       "correct": 3,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "The Nile River", "verified": true, "notes": "~6,650 km. Some measurements put the Amazon longer." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the tallest mountain on Earth, measured from sea level?",
-      "choices": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      "choices": [
+        "K2",
+        "Kangchenjunga",
+        "Mount Everest",
+        "Lhotse"
+      ],
       "correct": 2,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Mount Everest", "verified": true, "notes": "8,849 m (2020 survey)." }
-    },
-    {
-      "q": "Which mountain is the second-highest peak in the world?",
-      "choices": ["Lhotse", "Kangchenjunga", "K2", "Makalu"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "K2", "verified": true, "notes": "8,611 m, on Pakistan-China border. Also called Mount Godwin-Austen." }
+      "difficulty": "easy"
     },
     {
       "q": "As of 2024, which country has the largest population in the world?",
-      "choices": ["China", "United States", "Indonesia", "India"],
+      "choices": [
+        "China",
+        "United States",
+        "Indonesia",
+        "India"
+      ],
       "correct": 3,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "India", "verified": true, "notes": "India surpassed China ~2023 at ~1.44 billion." }
-    },
-    {
-      "q": "How many time zones does Russia span?",
-      "choices": ["7", "9", "11", "13"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Eleven", "verified": true, "notes": "UTC+2 to UTC+12." }
-    },
-    {
-      "q": "What is the largest island in the world (excluding continental landmasses)?",
-      "choices": ["Borneo", "Madagascar", "Greenland", "New Guinea"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Greenland", "verified": true, "notes": "~2.17 million km². Australia is classified as a continent." }
-    },
-    {
-      "q": "Which planned city replaced Rio de Janeiro as the capital of Brazil in 1960?",
-      "choices": ["São Paulo", "Brasília", "Belo Horizonte", "Salvador"],
-      "correct": 1,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Brasilia", "verified": true, "notes": "Designed by Lúcio Costa and Oscar Niemeyer. Inaugurated April 21, 1960." }
+      "difficulty": "easy"
     },
     {
       "q": "Which body of water is the saltiest on Earth, famous for letting swimmers float effortlessly?",
-      "choices": ["Caspian Sea", "Dead Sea", "Great Salt Lake", "Red Sea"],
+      "choices": [
+        "Caspian Sea",
+        "Dead Sea",
+        "Great Salt Lake",
+        "Red Sea"
+      ],
       "correct": 1,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Dead Sea", "verified": true, "notes": "~34% salinity. Borders Israel, Jordan, West Bank." }
+      "difficulty": "easy"
     },
     {
       "q": "In which U.S. state can you visit the Grand Canyon?",
-      "choices": ["Utah", "Colorado", "Nevada", "Arizona"],
+      "choices": [
+        "Utah",
+        "Colorado",
+        "Nevada",
+        "Arizona"
+      ],
       "correct": 3,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Arizona", "verified": true, "notes": "Carved by the Colorado River. ~277 miles long, up to 18 miles wide." }
+      "difficulty": "easy"
     },
     {
       "q": "Which river is often described as dividing the eastern and western United States?",
-      "choices": ["Ohio River", "Missouri River", "Mississippi River", "Colorado River"],
+      "choices": [
+        "Ohio River",
+        "Missouri River",
+        "Mississippi River",
+        "Colorado River"
+      ],
       "correct": 2,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Mississippi", "verified": true, "notes": "~2,340 miles. Runs from Minnesota to the Gulf of Mexico." }
-    },
-    {
-      "q": "'Abyssinia' was the historical name for which modern African nation?",
-      "choices": ["Somalia", "Eritrea", "Sudan", "Ethiopia"],
-      "correct": 3,
-      "category": "Geography",
-      "difficulty": "hard",
-      "source": { "original_a": "Ethiopia", "verified": true, "notes": "Name used until the 20th century." }
-    },
-    {
-      "q": "Which African country, the world's newest internationally recognized state, gained independence in 2011?",
-      "choices": ["Eritrea", "South Sudan", "Somaliland", "Namibia"],
-      "correct": 1,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "South Sudan", "verified": true, "notes": "Independence referendum Jan 2011, declared July 9, 2011." }
-    },
-    {
-      "q": "The Gobi Desert stretches across northern China and which other country?",
-      "choices": ["Kazakhstan", "Mongolia", "Russia", "Kyrgyzstan"],
-      "correct": 1,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Gobi", "verified": true, "notes": "~1.3 million km². Cold desert — temperatures can reach -40°C." }
-    },
-    {
-      "q": "Kuala Lumpur, home to the Petronas Twin Towers, is the capital of which Southeast Asian country?",
-      "choices": ["Thailand", "Vietnam", "Malaysia", "Indonesia"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Malaysia", "verified": true, "notes": "Administrative capital is Putrajaya; KL remains official/legislative capital." }
-    },
-    {
-      "q": "Which U.S. state capital, also the oldest in the country, is Santa Fe?",
-      "choices": ["Arizona", "Colorado", "New Mexico", "Texas"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "New Mexico", "verified": true, "notes": "Founded 1610, predates all other US state capitals." }
+      "difficulty": "easy"
     },
     {
       "q": "Which U.S. city is known as the birthplace of Motown Records?",
-      "choices": ["Chicago", "Memphis", "Detroit", "Cleveland"],
+      "choices": [
+        "Chicago",
+        "Memphis",
+        "Detroit",
+        "Cleveland"
+      ],
       "correct": 2,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Detroit", "verified": true, "notes": "Founded by Berry Gordy in 1959. 'Motown' = Motor Town." }
+      "difficulty": "easy"
     },
     {
       "q": "Edinburgh is the capital of which part of the United Kingdom?",
-      "choices": ["Wales", "Northern Ireland", "England", "Scotland"],
+      "choices": [
+        "Wales",
+        "Northern Ireland",
+        "England",
+        "Scotland"
+      ],
       "correct": 3,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Scotland", "verified": true, "notes": "Edinburgh Castle dates to the 12th century." }
-    },
-    {
-      "q": "Tripoli is the capital and largest city of which North African country?",
-      "choices": ["Tunisia", "Algeria", "Libya", "Morocco"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Libya", "verified": true, "notes": "Not to be confused with Tripoli, Lebanon." }
+      "difficulty": "easy"
     },
     {
       "q": "The Pyramids of Giza sit on the outskirts of which major city?",
-      "choices": ["Luxor", "Alexandria", "Cairo", "Amman"],
+      "choices": [
+        "Luxor",
+        "Alexandria",
+        "Cairo",
+        "Amman"
+      ],
       "correct": 2,
-      "category": "Geography",
-      "difficulty": "easy",
-      "source": { "original_a": "Cairo", "verified": true, "notes": "Technically in Giza, a suburb of Cairo on the west bank of the Nile." }
+      "difficulty": "easy"
     },
     {
-      "q": "The Korean Peninsula is divided into two countries, each using its own version of which currency name?",
-      "choices": ["Yen", "Yuan", "Won", "Baht"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Korea", "verified": true, "notes": "South Korean won (KRW) and North Korean won (KPW)." }
-    },
-    {
-      "q": "Table Mountain overlooks which South African city?",
-      "choices": ["Johannesburg", "Durban", "Cape Town", "Pretoria"],
-      "correct": 2,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Table Mountain", "verified": true, "notes": "Flat-topped mountain, one of the New7Wonders of Nature." }
-    },
-    {
-      "q": "Which of the five Great Lakes borders the northern shore of Ohio?",
-      "choices": ["Lake Michigan", "Lake Huron", "Lake Ontario", "Lake Erie"],
+      "q": "Which country is the largest in the world by land area?",
+      "choices": [
+        "Canada",
+        "United States",
+        "China",
+        "Russia"
+      ],
       "correct": 3,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Erie", "verified": true, "notes": "Shallowest of the Great Lakes. Also borders PA, NY, and Ontario." }
+      "difficulty": "easy"
     },
     {
-      "q": "In which U.S. state is Arlington National Cemetery located?",
-      "choices": ["Maryland", "Virginia", "Washington D.C.", "Pennsylvania"],
+      "q": "Which is the highest mountain in the world?",
+      "choices": [
+        "K2",
+        "Kangchenjunga",
+        "Makalu",
+        "Mount Everest"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname do New Zealanders affectionately go by, named after a fuzzy native bird?",
+      "choices": [
+        "Aussies",
+        "Kiwis",
+        "Sheilas",
+        "Diggers"
+      ],
       "correct": 1,
-      "category": "Geography",
-      "difficulty": "medium",
-      "source": { "original_a": "Virginia", "verified": true, "notes": "Across the Potomac from D.C. on land formerly owned by Robert E. Lee." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "How do Spaniards spell the name of their own country in Spanish?",
+      "choices": [
+        "Espanya",
+        "España",
+        "Espania",
+        "Espanna"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The 'Black Forest', or Schwarzwald, is a mountainous forest in which country?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Czech Republic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the currency used in the United Kingdom?",
+      "choices": [
+        "Euro",
+        "Pound",
+        "Dollar",
+        "Franc"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The famous Table Mountain overlooks which city?",
+      "choices": [
+        "Johannesburg",
+        "Cape Town",
+        "Durban",
+        "Nairobi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which UK country features a dragon on their flag?",
+      "choices": [
+        "England",
+        "Wales",
+        "North Ireland",
+        "Scotland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many stars are featured on New Zealand's flag?",
+      "choices": [
+        "2",
+        "5",
+        "4",
+        "0"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Russian oblast forms a border with Poland?",
+      "choices": [
+        "Omsk",
+        "Kaliningrad",
+        "Samara",
+        "Nizhny Novgorod"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest country, by area, that has only one time zone?",
+      "choices": [
+        "China",
+        "India",
+        "Russia",
+        "Canada"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "About how many countries are there in the world?",
+      "choices": [
+        "300",
+        "200",
+        "100",
+        "500"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Indian city can the Taj Mahal be found?",
+      "choices": [
+        "Thane",
+        "Faridabad",
+        "Agra",
+        "Mumbai"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Romania?",
+      "choices": [
+        "Bratislava",
+        "Bucharest",
+        "Belgrade",
+        "Budapest"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where would you find the \"Spanish Steps\"?",
+      "choices": [
+        "Barcelona, Spain",
+        "Berlin, Germany",
+        "Rome, Italy",
+        "London, England"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country has a horizontal bicolor red and white flag?",
+      "choices": [
+        "Monaco",
+        "Malta",
+        "Bahrain",
+        "Liechenstein"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country was NOT part of the Soviet Union?",
+      "choices": [
+        "Belarus",
+        "Romania",
+        "Tajikistan",
+        "Turkmenistan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "If soccer is called football in England, what is American football called in England?",
+      "choices": [
+        "American football",
+        "Combball",
+        "Handball",
+        "Touchdown"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?",
+      "choices": [
+        "Bhutan",
+        "Kiribati",
+        "Sri Lanka",
+        "Scotland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European city is known as the \"City of Light\"?",
+      "choices": [
+        "Rome",
+        "Madrid",
+        "London",
+        "Paris"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Canada's smallest province?",
+      "choices": [
+        "Prince Edward Island",
+        "New Brunswick",
+        "Yukon",
+        "Nova Scotia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many federal states does Germany have?",
+      "choices": [
+        "16",
+        "13",
+        "32",
+        "25"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these African countries list \"Spanish\" as an official language?",
+      "choices": [
+        "Equatorial Guinea",
+        "Angola",
+        "Cameroon",
+        "Guinea"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following European languages is classified as a \"language isolate?\"",
+      "choices": [
+        "Maltese",
+        "Hungarian",
+        "Galician",
+        "Basque"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these is NOT an Australian state or territory?",
+      "choices": [
+        "New South Wales",
+        "Alberta",
+        "Victoria",
+        "Queensland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Bangladesh?",
+      "choices": [
+        "London",
+        "Dhaka",
+        "Khulna",
+        "Lahore"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which ocean is the Réunion island?",
+      "choices": [
+        "South Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "North Pacific Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these is the name of the largest city in the US state Tennessee?",
+      "choices": [
+        "Alexandria",
+        "Memphis",
+        "Luxor",
+        "Thebes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following languages does NOT use the Latin alphabet?",
+      "choices": [
+        "Swahili",
+        "Vietnamese",
+        "Turkish",
+        "Georgian"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Scotland?",
+      "choices": [
+        "Dundee",
+        "Edinburgh",
+        "Glasgow",
+        "London"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which area of Eastern Europe is famous for its association with vampires?",
+      "choices": [
+        "Macedonia",
+        "Transylvania",
+        "Slovakia",
+        "Silesia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of New Zealand's indigenous people?",
+      "choices": [
+        "Polynesians",
+        "Maori",
+        "Vikings",
+        "Samoans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The body of the Egyptian Sphinx was based on which animal?",
+      "choices": [
+        "Lion",
+        "Dog",
+        "Horse",
+        "Bull"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What state is the largest state of the United States of America?",
+      "choices": [
+        "Texas",
+        "California",
+        "Washington",
+        "Alaska"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many countries does the United States share a land border with?",
+      "choices": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the peninsula containing Spain and Portugal?",
+      "choices": [
+        "Scandinavian Peninsula",
+        "European Peninsula",
+        "Peloponnesian Peninsula",
+        "Iberian Peninsula"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+      "choices": [
+        "New Mexico",
+        "Florida",
+        "Idaho",
+        "Ohio"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many time zones does China have?",
+      "choices": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Borough is the farthest in the north of New York City?",
+      "choices": [
+        "Queens",
+        "Brooklyn",
+        "Manhattan",
+        "Bronx"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US state is nicknamed \"The Golden State\"?",
+      "choices": [
+        "Alaska",
+        "New Mexico",
+        "Florida",
+        "California"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Finland?",
+      "choices": [
+        "Jabraltar",
+        "Oslo",
+        "Helsinki",
+        "Macedonia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname for the US state Delaware?",
+      "choices": [
+        "The Second State",
+        "The Fiftieth State",
+        "The First State",
+        "The Sixteenth State"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these places is a location in Cornwall?",
+      "choices": [
+        "Madrid",
+        "Alicante",
+        "Lisbon",
+        "Barcelona"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US state is also known as the \"Lone Star State\"?",
+      "choices": [
+        "Kentucky",
+        "Texas",
+        "Tennessee",
+        "Alabama"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The longest shared border in the world can be found between which two nations?",
+      "choices": [
+        "Russia and China",
+        "Chile and Argentina",
+        "India and Pakistan",
+        "Canada and the United States"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of the American state of Arizona?",
+      "choices": [
+        "Montgomery",
+        "Phoenix",
+        "Tallahassee",
+        "Raleigh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following Arab countries does NOT have a flag containing only Pan-Arab colours?",
+      "choices": [
+        "Qatar",
+        "United Arab Emirates",
+        "Jordan",
+        "Kuwait"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Indonesia?",
+      "choices": [
+        "Palembang",
+        "Medan",
+        "Jakarta",
+        "Bandung"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is the biggest in Canada?",
+      "choices": [
+        "Montreal",
+        "Vancouver",
+        "Ottawa",
+        "Toronto"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What colour is the circle on the Japanese flag?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Black",
+        "White"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the 15th letter of the Greek alphabet?",
+      "choices": [
+        "Nu (Ν)",
+        "Pi (Π)",
+        "Omicron (Ο)",
+        "Sigma (Σ)"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+      "choices": [
+        "Tanzania",
+        "Zambia",
+        "Central African Republic",
+        "Sudan"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following geographic features is a ring-shaped coral reef, island, or series of islets?",
+      "choices": [
+        "Peninsula",
+        "Atoll",
+        "Isthmus",
+        "Delta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain range forms a natural border between France and Italy?",
+      "choices": [
+        "The Alps",
+        "The Pyrenees",
+        "The Carpathians",
+        "The Apennines"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river is the longest in South America?",
+      "choices": [
+        "The Paraná River",
+        "The Amazon River",
+        "The Orinoco River",
+        "The Río de la Plata"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which African country is home to the Serengeti National Park?",
+      "choices": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Botswana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Statue of Liberty stands on an island in which U.S. state?",
+      "choices": [
+        "New Jersey",
+        "New York",
+        "Connecticut",
+        "Pennsylvania"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European capital city is divided by the Danube River?",
+      "choices": [
+        "Prague",
+        "Budapest",
+        "Vienna",
+        "Belgrade"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mount Kilimanjaro is located in which East African country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many time zones does Russia span?",
+      "choices": [
+        "9",
+        "7",
+        "13",
+        "11"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US state is known as the 'Heart of Dixie'?",
+      "choices": [
+        "Mississippi",
+        "Georgia",
+        "Alabama",
+        "Louisiana"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Santa Fe is the capital of which US state?",
+      "choices": [
+        "Nevada",
+        "Arizona",
+        "Colorado",
+        "New Mexico"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "'Abyssinia' was the historical name for which modern African nation?",
+      "choices": [
+        "Somalia",
+        "Eritrea",
+        "Sudan",
+        "Ethiopia"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
     },
     {
       "q": "In 1887, L.L. Zamenhof published a constructed language intended to foster international communication. What was it called?",
-      "choices": ["Volapük", "Esperanto", "Interlingua", "Ido"],
+      "choices": [
+        "Volapük",
+        "Esperanto",
+        "Interlingua",
+        "Ido"
+      ],
       "correct": 1,
-      "category": "Geography",
-      "difficulty": "hard",
-      "source": { "original_a": "Esperanto", "verified": true, "notes": "Name means 'one who hopes.' Estimated 100k-2M speakers worldwide." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Volga, Europe's longest river, flows almost entirely within which country?",
+      "choices": [
+        "Ukraine",
+        "Germany",
+        "Russia",
+        "Poland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mount Fuji, an active stratovolcano and Japan's tallest peak, stands at roughly what height?",
+      "choices": [
+        "2,850 m",
+        "3,776 m",
+        "4,500 m",
+        "5,200 m"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Strait of Magellan, linking the Atlantic and Pacific, is at the southern tip of which continent?",
+      "choices": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "South America"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Commonwealth of Nations is an association of mostly former colonies of which country?",
+      "choices": [
+        "France",
+        "Spain",
+        "United Kingdom",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following landlocked countries is entirely contained within another country?",
+      "choices": [
+        "Lesotho",
+        "Mongolia",
+        "Burkina Faso",
+        "Luxembourg"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the second-largest city in Lithuania?",
+      "choices": [
+        "Kaunas",
+        "Klaipėda",
+        "Panevėžys",
+        "Vilnius"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city is the capital of Michigan?",
+      "choices": [
+        "Detroit",
+        "Ann Arbor",
+        "Lansing",
+        "Kalamazoo"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these countries is NOT the only country to start with that letter of the alphabet?",
+      "choices": [
+        "Qatar",
+        "Zambia",
+        "Oman",
+        "Yemen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these countries is NOT a part of the Asian continent?",
+      "choices": [
+        "Russia",
+        "Singapore",
+        "Suriname",
+        "Georgia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the most common climbing route for the second highest mountain in the world, K2?",
+      "choices": [
+        "Cesen Route",
+        "Polish Line",
+        "Abruzzi Spur",
+        "Magic Line"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the county seat of King County, Washington?",
+      "choices": [
+        "Skykomish",
+        "Bellevue",
+        "Seattle",
+        "Enumclaw"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the tallest mountain in Canada?",
+      "choices": [
+        "Mount Logan",
+        "Blue Mountain",
+        "Whistler Mountain",
+        "Mont Tremblant"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Suez Canal is located in which African country?",
+      "choices": [
+        "Nigeria",
+        "Ghana",
+        "Libya",
+        "Egypt"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the world's smallest country by population?",
+      "choices": [
+        "Vatican City",
+        "Nauru",
+        "Marshall Islands",
+        "Lichtenstein"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country is the Taedong River in?",
+      "choices": [
+        "North Korea",
+        "China",
+        "South Korea",
+        "Japan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+      "choices": [
+        "Chile",
+        "Indonesia",
+        "Fiji",
+        "New Zealand"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+      "choices": [
+        "Inuktitut",
+        "Inuinnaqtun",
+        "Inupiat",
+        "Greenlandic"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these African countries displays a gun on their flag?",
+      "choices": [
+        "Ethiopia",
+        "Uganda",
+        "Nigeria",
+        "Mozambique"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Into which basin does the Jordan River flow into?",
+      "choices": [
+        "Aral Sea",
+        "Salton Sea",
+        "Dead Sea",
+        "Caspian Sea"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these cities has a 4° East longitude. ",
+      "choices": [
+        "Amsterdam",
+        "Toronto",
+        "Rio de Janero",
+        "Hong Kong"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the administrative centre and largest settlement on the Norwegian archipelago of Svalbard?",
+      "choices": [
+        "Barentsburg",
+        "Sveagruva",
+        "Ny-Ålesund",
+        "Longyearbyen"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these is an official currency of the Cook Islands?",
+      "choices": [
+        "New Zealand Dollar",
+        "Australian Dollar",
+        "United States Dollar",
+        "British Pound"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the land connecting North America and South America?",
+      "choices": [
+        "Isthmus of Suez",
+        "Urals",
+        "Isthmus of Panama",
+        "Australasia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What city is known as the Rose Capital of the World?",
+      "choices": [
+        "Miami, Florida",
+        "San Diego, California",
+        "Tyler, Texas",
+        "Anaheim, California"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year is on the flag of the US state Wisconsin?",
+      "choices": [
+        "1634",
+        "1783",
+        "1901",
+        "1848"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these is NOT a city in India?",
+      "choices": [
+        "Islamabad",
+        "Hyderabad",
+        "Ghaziabad",
+        "Ahmedabad"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many countries border Kyrgyzstan?",
+      "choices": [
+        "6",
+        "4",
+        "1",
+        "3"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+      "choices": [
+        "Indonesia",
+        "Thailand",
+        "Vietnam",
+        "India"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Mauritius?",
+      "choices": [
+        "Port-au-Prince",
+        "Port Louis",
+        "Port Vila",
+        "Port Moresby"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many islands does Kuwait have?",
+      "choices": [
+        "3",
+        "9",
+        "6",
+        "2"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Burkina Faso?",
+      "choices": [
+        "Abidjan",
+        "Ouagadougou",
+        "Yamoussoukro",
+        "Yaoundé"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Suriname?",
+      "choices": [
+        "Sucre",
+        "Paramaribo",
+        "Antananarivo",
+        "Tegucigalpa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2012 the German-speaking microstate \"Liechtenstein\" in Central Europe had a population of how many inhabitants?",
+      "choices": [
+        "36,600",
+        "2,400",
+        "90,000",
+        "323,400"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is a castle?",
+      "choices": [
+        "Richard Castle",
+        "Olivia Castle",
+        "Elizabeth Castle",
+        "Frank Castle"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+      "choices": [
+        "Mariana Trench",
+        "Hudson Bay",
+        "Grand Banks",
+        "Great Barrier Reef"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?",
+      "choices": [
+        "Israel and Jordan",
+        "Iraq and Saudi Arabia",
+        "Chad and Libya",
+        "Egypt and Sudan"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hunua Ranges is located in...",
+      "choices": [
+        "China",
+        "Mexico",
+        "Nepal",
+        "New Zealand"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Where is the fast food chain \"Panda Express\" headquartered?",
+      "choices": [
+        "San Diego, California",
+        "Rosemead, California",
+        "Fresno, California",
+        "Sacramento, California"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many stations does the Central Line have on the London Underground?",
+      "choices": [
+        "47",
+        "43",
+        "49",
+        "51"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what part of Wales will you find the village Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch?",
+      "choices": [
+        "Wrexham",
+        "Pembrokeshire",
+        "Anglesey",
+        "Bridgend"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river was dammed to create Gatun Lake and the Panama Canal?",
+      "choices": [
+        "Chepo River ",
+        "Chucunaque River",
+        "Tuira River",
+        "Chagres River"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is special about Lake Titicaca?",
+      "choices": [
+        "Highest navigable lake",
+        "Deepest lake in the world",
+        "Remains frozen all year round",
+        "Longest lake in the world"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Where is Fort Marlborough located?",
+      "choices": [
+        "Singapore",
+        "Bengkulu",
+        "London",
+        "Dover"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which country is Tallinn located?",
+      "choices": [
+        "Sweden",
+        "Estonia",
+        "Finland",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these is NOT a province in China?",
+      "choices": [
+        "Yangtze",
+        "Sichuan",
+        "Fujian",
+        "Guangdong"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What national museum will you find in Cooperstown, New York?",
+      "choices": [
+        "Museum of Modern Art",
+        "National Baseball Hall of Fame",
+        "National Toy Hall of Fame",
+        "Metropolitan Museum of Art"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the area of Vatican City?",
+      "choices": [
+        "0.10km^2",
+        "0.86km^2",
+        "0.44km^2",
+        "12.00km^2"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the largest freshwater lake by volume?",
+      "choices": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Lake Michigan",
+        "Lake Huron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Where is the city of Haarlem located?",
+      "choices": [
+        "United States",
+        "The Netherlands",
+        "Germany",
+        "Switzerland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What country is not a part of Scandinavia?",
+      "choices": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country is completely landlocked by South Africa?",
+      "choices": [
+        "Lesotho",
+        "Botswana",
+        "Swaziland",
+        "Zimbabwe"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What North American tourist attraction is served by the \"Maid of the Mist\" tour company?",
+      "choices": [
+        "Disney World",
+        "Whistler, British Columbia",
+        "Niagara Falls",
+        "Yosemite National Park"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Canadian national anthem?",
+      "choices": [
+        "March of the Puck Drop",
+        "Leaf-Spangled Banner",
+        "O Red Maple",
+        "O Canada"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Svalbard Archipelago is a dependency of which country?",
+      "choices": [
+        "Russia",
+        "Denmark",
+        "Iceland",
+        "Norway"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Atacama Desert, one of the driest places on Earth, spans across which two South American countries?",
+      "choices": [
+        "Peru and Bolivia",
+        "Chile and Peru",
+        "Argentina and Chile",
+        "Bolivia and Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Gobi Desert primarily covers territory in which two Asian countries?",
+      "choices": [
+        "Kazakhstan and Uzbekistan",
+        "Mongolia and China",
+        "Afghanistan and Tajikistan",
+        "Pakistan and Tibet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country experiences the midnight sun phenomenon and contains the North Cape?",
+      "choices": [
+        "Sweden",
+        "Finland",
+        "Norway",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ring of Fire, an arc of intense volcanic and seismic activity, encircles which ocean?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African country is home to the Okavango Delta, one of the world's largest inland deltas?",
+      "choices": [
+        "Zimbabwe",
+        "Namibia",
+        "Botswana",
+        "Zambia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural boundary between Eastern Europe and which region?",
+      "choices": [
+        "Central Asia",
+        "Southeast Europe",
+        "Western Siberia",
+        "Mediterranean Basin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which island nation, located east of Madagascar, is the world's fourth-largest island?",
+      "choices": [
+        "Mauritius",
+        "Borneo",
+        "New Guinea",
+        "Sumatra"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Fertile Crescent, an ancient region of human civilization, primarily encompassed modern-day Iraq, Syria, Lebanon, Israel, Palestine, Jordan, and which other country?",
+      "choices": [
+        "Turkey",
+        "Iran",
+        "Egypt",
+        "Saudi Arabia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mountain range serves as the natural border between France and Spain?",
+      "choices": [
+        "Alps",
+        "Pyrenees",
+        "Apennines",
+        "Sierra Nevada"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South American country contains the Atacama, Mojave, and Sechura deserts within its borders?",
+      "choices": [
+        "Chile",
+        "Peru",
+        "Bolivia",
+        "Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kerguelen Islands, a remote French territory, are located in which ocean?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Southern Ocean",
+        "Pacific Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country's westernmost point is Cape Agulhas, not the Cape of Good Hope?",
+      "choices": [
+        "Mozambique",
+        "South Africa",
+        "Namibia",
+        "Madagascar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The city of Leh serves as the capital of Ladakh, a region in the disputed territory of which country?",
+      "choices": [
+        "Pakistan",
+        "China",
+        "India",
+        "Nepal"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country comprises the largest portion of the Iberian Peninsula alongside Spain and Portugal?",
+      "choices": [
+        "France",
+        "Andorra",
+        "Gibraltar",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Antarctic Convergence, also known as the Antarctic Polar Front, marks the boundary where cold Antarctic water meets warmer water from which ocean?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Southeast Asian country is the world's largest exporter of tin ore?",
+      "choices": [
+        "Indonesia",
+        "Malaysia",
+        "Thailand",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Putorana Plateau, one of the world's largest volcanic plateaus, is located in which Russian region?",
+      "choices": [
+        "Siberia",
+        "Kamchatka",
+        "Far East",
+        "Urals"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital is the highest state capital in the continental United States at approximately 5,280 feet elevation?",
+      "choices": [
+        "Denver, Colorado",
+        "Santa Fe, New Mexico",
+        "Salt Lake City, Utah",
+        "Helena, Montana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Asian country is home to the Atacama Desert, one of the driest places on Earth?",
+      "choices": [
+        "Peru",
+        "Chile",
+        "Bolivia",
+        "Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European capital city sits on both sides of the Danube River and was formed by merging Buda and Pest in 1873?",
+      "choices": [
+        "Vienna, Austria",
+        "Budapest, Hungary",
+        "Belgrade, Serbia",
+        "Bratislava, Slovakia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Altai Mountains, a major mountain range, form a natural border between Russia, Mongolia, Kazakhstan, and which other country?",
+      "choices": [
+        "Tajikistan",
+        "Kyrgyzstan",
+        "China",
+        "Turkmenistan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which North African city served as the capital of the Ottoman Empire's Regency of Algiers before French colonization?",
+      "choices": [
+        "Oran",
+        "Constantine",
+        "Algiers",
+        "Tlemcen"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Atacama Desert, one of the driest places on Earth, spans across the western edge of which South American country?",
+      "choices": [
+        "Peru",
+        "Chile",
+        "Argentina",
+        "Bolivia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the largest island on Earth?",
+      "choices": [
+        "Madagascar",
+        "Greenland",
+        "Borneo",
+        "New Guinea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What mountain overlooks Cape Town, South Africa?",
+      "choices": [
+        "Kilimanjaro",
+        "Table Mountain",
+        "Signal Hill",
+        "Lion's Head"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the world's saltiest body of water?",
+      "choices": [
+        "Red Sea",
+        "Dead Sea",
+        "Great Salt Lake",
+        "Caspian Sea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What river divides the United States east from west?",
+      "choices": [
+        "Mississippi",
+        "Colorado",
+        "Ohio",
+        "Missouri"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city replaced Rio de Janeiro as Brazil's capital?",
+      "choices": [
+        "Brasilia",
+        "Belo Horizonte",
+        "São Paulo",
+        "Salvador"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What desert in northern China is known for its extreme temperatures?",
+      "choices": [
+        "Ordos",
+        "Badain Jaran",
+        "Gobi",
+        "Taklamakan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ben Nevis is the highest mountain in which country?",
+      "choices": [
+        "Norway",
+        "United Kingdom",
+        "Scotland",
+        "Ireland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Malaysia?",
+      "choices": [
+        "Bangkok",
+        "Singapore",
+        "Jakarta",
+        "Kuala Lumpur"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Great Lake borders Ohio to the north?",
+      "choices": [
+        "Erie",
+        "Huron",
+        "Michigan",
+        "Ontario"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is Kuala Lumpur the capital of?",
+      "choices": [
+        "Thailand",
+        "Indonesia",
+        "Philippines",
+        "Malaysia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain is the second-highest peak in the world?",
+      "choices": [
+        "Lhotse",
+        "Kangchenjunga",
+        "K2",
+        "Makalu"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest island in the world (excluding continental landmasses)?",
+      "choices": [
+        "Borneo",
+        "Madagascar",
+        "Greenland",
+        "New Guinea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planned city replaced Rio de Janeiro as the capital of Brazil in 1960?",
+      "choices": [
+        "São Paulo",
+        "Brasília",
+        "Belo Horizonte",
+        "Salvador"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which African country, the world's newest internationally recognized state, gained independence in 2011?",
+      "choices": [
+        "Eritrea",
+        "South Sudan",
+        "Somaliland",
+        "Namibia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Gobi Desert stretches across northern China and which other country?",
+      "choices": [
+        "Kazakhstan",
+        "Mongolia",
+        "Russia",
+        "Kyrgyzstan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kuala Lumpur, home to the Petronas Twin Towers, is the capital of which Southeast Asian country?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state capital, also the oldest in the country, is Santa Fe?",
+      "choices": [
+        "Arizona",
+        "Colorado",
+        "New Mexico",
+        "Texas"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tripoli is the capital and largest city of which North African country?",
+      "choices": [
+        "Tunisia",
+        "Algeria",
+        "Libya",
+        "Morocco"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Korean Peninsula is divided into two countries, each using its own version of which currency name?",
+      "choices": [
+        "Yen",
+        "Yuan",
+        "Won",
+        "Baht"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Table Mountain overlooks which South African city?",
+      "choices": [
+        "Johannesburg",
+        "Durban",
+        "Cape Town",
+        "Pretoria"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the five Great Lakes borders the northern shore of Ohio?",
+      "choices": [
+        "Lake Michigan",
+        "Lake Huron",
+        "Lake Ontario",
+        "Lake Erie"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which U.S. state is Arlington National Cemetery located?",
+      "choices": [
+        "Maryland",
+        "Virginia",
+        "Washington D.C.",
+        "Pennsylvania"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the second-highest mountain peak on Earth?",
+      "choices": [
+        "Kangchenjunga",
+        "K2",
+        "Lhotse",
+        "Annapurna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many time zones does Russia cover?",
+      "choices": [
+        "Seven",
+        "Nine",
+        "Eleven",
+        "Thirteen"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest island in the world (excluding continental Australia)?",
+      "choices": [
+        "Iceland",
+        "Greenland",
+        "Madagascar",
+        "Borneo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Esperanto, invented in 1887?",
+      "choices": [
+        "A currency",
+        "A global treaty",
+        "A constructed international language",
+        "A shorthand script"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The famous department store Harrods is located in which city?",
+      "choices": [
+        "Paris",
+        "London",
+        "New York",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which sea can you find the Dodecanese islands, including Rhodes and Kos?",
+      "choices": [
+        "Adriatic Sea",
+        "Aegean Sea",
+        "Ionian Sea",
+        "Black Sea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rijksmuseum and Anne Frank House are major attractions in which European capital?",
+      "choices": [
+        "Brussels",
+        "Berlin",
+        "Amsterdam",
+        "Copenhagen"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Yoruba people are a major ethnic group from which region of Africa?",
+      "choices": [
+        "North Africa",
+        "East Africa",
+        "West Africa",
+        "Southern Africa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country surpassed China as the world's most populous country in 2023?",
+      "choices": [
+        "United States",
+        "Indonesia",
+        "India",
+        "Pakistan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Fez and Tangier are major cities in which North African country?",
+      "choices": [
+        "Algeria",
+        "Morocco",
+        "Tunisia",
+        "Libya"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The capital of Brazil is what city, which replaced Rio de Janeiro in 1960?",
+      "choices": [
+        "São Paulo",
+        "Brasília",
+        "Salvador",
+        "Belo Horizonte"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bridgetown is the capital of which island country in the Carribean?",
+      "choices": [
+        "Jamaica‎",
+        "Barbados",
+        "Cuba",
+        "Dominica"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How tall is One World Trade Center in New York City?",
+      "choices": [
+        "1,776 ft",
+        "1,960 ft",
+        "1,225 ft",
+        "1,888 ft"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following cities is the capital of Latvia?",
+      "choices": [
+        "Minsk",
+        "Tallinn",
+        "Vilnius",
+        "Riga"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frankenmuth, a US city nicknamed \"Little Bavaria\", is located in what state?",
+      "choices": [
+        "Michigan",
+        "Virginia",
+        "Kentucky",
+        "Pennsylvania"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Oceanian nation is known in Māori as Aotearoa?",
+      "choices": [
+        "Australia",
+        "New Caledonia",
+        "New Zealand",
+        "Solomon Islands"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is located the FURTHEST away from the South China Sea?",
+      "choices": [
+        "Philippines",
+        "Malaysia",
+        "Bangladesh",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which one of these archipelagos are NOT a part of the United Kingdom?",
+      "choices": [
+        "Orkney Islands",
+        "Isles of Scilly",
+        "Shetland Islands ",
+        "The Channel Islands "
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What tiny principality lies between Spain and France?",
+      "choices": [
+        "Liechtenstein",
+        "Andorra",
+        "Monaco",
+        "San Marino"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the smallest country in South America by area?",
+      "choices": [
+        "Uruguay",
+        "Brazil",
+        "Chile",
+        "Suriname"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which continent is the country of Angola located?",
+      "choices": [
+        "Africa",
+        "Europe",
+        "South America",
+        "Asia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Colchester Overpass, otherwise known as \"Bunny Man Bridge\", is located where?",
+      "choices": [
+        "Lemon Grove, California",
+        "Medford, Oregon",
+        "Fairfax County, Virginia",
+        "Braxton County, Virgina"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of the State of Washington, United States?",
+      "choices": [
+        "Olympia",
+        "Washington D.C.",
+        "Yukon",
+        "Seattle"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What African country has Portuguese as its official language?",
+      "choices": [
+        "Mozambique",
+        "Botswana",
+        "Togo",
+        "Gabon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kuala Lumpur is the capital of which country?",
+      "choices": [
+        "Thailand",
+        "Singapore",
+        "Indonesia",
+        "Malaysia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pyrenees mountains are located on the border of which two countries?",
+      "choices": [
+        "Norway and Sweden",
+        "Russia and Ukraine",
+        "Italy and Switzerland",
+        "France and Spain"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Belarus?",
+      "choices": [
+        "Warsaw",
+        "Kiev",
+        "Vilnius",
+        "Minsk"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What island in the Canary Islands was the scene of one of the worst air disasters in history with the collision of two jumbo jets?",
+      "choices": [
+        "Gran Canaria",
+        "Tenerife",
+        "Maui",
+        "Fuerteventura"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is NOT a capital city?",
+      "choices": [
+        "Moscow",
+        "Beijing",
+        "Sydney",
+        "Cairo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Peru?",
+      "choices": [
+        "Lima",
+        "Buenos Aires",
+        "Montevideo",
+        "Santiago"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where is the \"Sonoran Desert\" located?",
+      "choices": [
+        "Asia",
+        "North America",
+        "Africa",
+        "South America"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the world's longest river?",
+      "choices": [
+        "Nile",
+        "Amazon",
+        "Missouri",
+        "Yangtze"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+      "choices": [
+        "Portugal",
+        "Cyprus",
+        "Malta",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lake Titicaca is located between which two nations?",
+      "choices": [
+        "Mexico and the United States",
+        "Peru and Bolivia",
+        "Kenya and Uganda",
+        "India and Bangladesh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the highest mountain in the world?",
+      "choices": [
+        "Kangchenjunga",
+        "Mt. Everest",
+        "Mount Godwin Austen",
+        "Annapurna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital city of New Zealand?",
+      "choices": [
+        "Wellington",
+        "Melbourne",
+        "Christchurch",
+        "Auckland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is located the municipality of Arteijo?",
+      "choices": [
+        "Belgium",
+        "Spain",
+        "France",
+        "Morocco"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": " What Texas city is nicknamed \"The Yellow Rose of Texas\"?",
+      "choices": [
+        "Amarillo",
+        "Frisco",
+        "Houston",
+        "Corpus Christi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the only remaining Grand Duchy in the world ?",
+      "choices": [
+        "Andorra",
+        "Montenegro",
+        "Luxembourg",
+        "Liechtenstein"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What continent is the country Lesotho in?",
+      "choices": [
+        "Europe",
+        "Africa",
+        "Asia",
+        "South America"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many counties in the Republic of Ireland.",
+      "choices": [
+        "32",
+        "28",
+        "30",
+        "26"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where is the area commonly known as the Bermuda Triangle?",
+      "choices": [
+        "North Atlantic Ocean, between Florida and Puerto Rico",
+        "In the Caribbean Sea",
+        "North Pacific Ocean, between Japan and the USA",
+        "South Pacific Ocean, far off Chile"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the state capital of South Dakota?",
+      "choices": [
+        "Watertown",
+        "Rapid City",
+        "Pierre",
+        "Sioux Falls"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On a London Underground map, what colour is the Circle Line?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country ranks first in the number of historically active volcanoes?",
+      "choices": [
+        "India",
+        "Indonesia",
+        "USA",
+        "Japan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Brazil?",
+      "choices": [
+        "Curitiba",
+        "Brasilia",
+        "Sao Paolo",
+        "Rio de Janeiro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the right way to spell the capital of Hungary?",
+      "choices": [
+        "Boodapest",
+        "Budapest",
+        "Bhudapest",
+        "Budapast"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A lion brandishing a sword is depicted on the national flag of which country?",
+      "choices": [
+        "Moldova",
+        "Albania",
+        "Sri Lanka",
+        "Zambia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of the U.S. state Texas?",
+      "choices": [
+        "Santa Fe",
+        "Dallas",
+        "Austin",
+        "Houston"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state of the United States is the smallest?",
+      "choices": [
+        "Maine",
+        "Massachusetts",
+        "Rhode Island ",
+        "Vermont"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states are in Australia?",
+      "choices": [
+        "6",
+        "5",
+        "8",
+        "7"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these is NOT an island that is part of the Philippines?",
+      "choices": [
+        "Java",
+        "Mindanao",
+        "Palawan",
+        "Luzon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these Japanese islands is the largest by area?",
+      "choices": [
+        "Shikoku",
+        "Odaiba",
+        "Okinawa",
+        "Iki"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Vietnam?",
+      "choices": [
+        "Hanoi",
+        "Da Nang",
+        "Hai Phong",
+        "Ho Chi Minh City"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which stretch of water connects the Atlantic Ocean to the Mediterranean Sea?",
+      "choices": [
+        "Spanish Straits",
+        "Strait of Gibraltar",
+        "Channelle de Tangiers",
+        "Gibraltar Way"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The formerly East-Prussian city of Königsberg is known as which Russian City today?",
+      "choices": [
+        "Kursk",
+        "Kazan",
+        "Kaliningrad",
+        "Krasnodar"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Greenland?",
+      "choices": [
+        "Sisimiut",
+        "Narsaq",
+        "Maniitsoq",
+        "Nuuk"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The land of Gotland is located in which European country?",
+      "choices": [
+        "Germany",
+        "Sweden",
+        "Norway",
+        "Denmark"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where is Hadrian's Wall located?",
+      "choices": [
+        "Rome, Italy",
+        "Dublin, Ireland",
+        "Alexandria, Egypt",
+        "Carlisle, England"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Chile?",
+      "choices": [
+        "Valparaíso",
+        "Copiapó",
+        "Santiago",
+        "Antofagasta"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?",
+      "choices": [
+        "Scotland",
+        "Isle of Wight",
+        "Ireland",
+        "Wales"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest lake in the African continent?",
+      "choices": [
+        "Lake Malawi",
+        "Lake Turkana",
+        "Lake Tanganyika",
+        "Lake Victoria"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the fifth largest country by area?",
+      "choices": [
+        "India",
+        "United States",
+        "Australia",
+        "Brazil"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many rivers are in Saudi Arabia?",
+      "choices": [
+        "0",
+        "2",
+        "1",
+        "3"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What European country is not a part of the EU?",
+      "choices": [
+        "Lithuania",
+        "Czechia",
+        "Ireland",
+        "Norway"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many provinces are in the Netherlands?",
+      "choices": [
+        "12",
+        "13",
+        "14",
+        "10"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the only US state located entirely within the Appalachia region?",
+      "choices": [
+        "Alabama",
+        "Kentucky",
+        "West Virginia",
+        "Pennsylvania"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following countries is an island?",
+      "choices": [
+        "Djibouti",
+        "El Salvador",
+        "Azerbaijan",
+        "Cyprus"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where are the Nazca Lines located?",
+      "choices": [
+        "Brazil",
+        "Peru",
+        "Colombia",
+        "Ecuador"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Japanese district Akihabara is also known by what nickname?",
+      "choices": [
+        "Moon Walk River",
+        "Big Eyes",
+        "Otaku Central ",
+        "Electric Town"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the most populous city in the Americas in 2015?",
+      "choices": [
+        "Mexico City",
+        "New York",
+        "Los Angeles",
+        "São Paulo"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The World Health Organization headquarters is located in which European country?",
+      "choices": [
+        "Belgium",
+        "Switzerland",
+        "United Kingdom",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many time zones are in Russia?",
+      "choices": [
+        "8",
+        "2",
+        "5",
+        "11"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital city of the U.S. state of Texas?",
+      "choices": [
+        "Dallas",
+        "San Antonio",
+        "Houston",
+        "Austin"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Montreal is in which Canadian province?",
+      "choices": [
+        "Alberta",
+        "Ontario",
+        "Nova Scotia",
+        "Quebec"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Broome is a town in which state of Australia?",
+      "choices": [
+        "Tasmania",
+        "Western Australia",
+        "Northern Territory",
+        "South Australia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Washington, D.C. what does the \"C\" stand for?",
+      "choices": [
+        "City",
+        "Corinthia",
+        "Columbia",
+        "Caledonia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The towns of Brugelette, Arlon and Ath are located in which country?",
+      "choices": [
+        "Andorra",
+        "France",
+        "Belgium",
+        "Luxembourg"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many countries are inside the United Kingdom?",
+      "choices": [
+        "Three",
+        "One",
+        "Four",
+        "Two"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bikini Atoll is in which country?",
+      "choices": [
+        "Christmas Islands",
+        "Fiji",
+        "Bahamas",
+        "Marshall Islands"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where is the world's oldest still operational space launch facility located?",
+      "choices": [
+        "Kazakhstan",
+        "United States",
+        "Russia",
+        "Iran"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city is the capital of Switzerland?",
+      "choices": [
+        "Frankfurt",
+        "Bern",
+        "Zürich",
+        "Wien"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the northernmost human settlement with year round inhabitants?",
+      "choices": [
+        "Nagurskoye, Russia",
+        "McMurdo Station, Antarctica ",
+        "Honningsvåg, Norway",
+        "Alert, Canada"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of?",
+      "choices": [
+        "Europe",
+        "South America",
+        "Africa",
+        "Asia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the largest city in Morocco?",
+      "choices": [
+        "Casablanca",
+        "Sale",
+        "Fes",
+        "Rabat"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official language of Bhutan?",
+      "choices": [
+        "Dzongkha",
+        "Karen",
+        "Groma",
+        "Ladakhi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest Muslim country in the world?",
+      "choices": [
+        "Pakistan",
+        "Indonesia",
+        "Iran",
+        "Saudi Arabia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Ecuador?",
+      "choices": [
+        "Santa Fé",
+        "Bogota",
+        "Quito",
+        "Santiago"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+      "choices": [
+        "Chile",
+        "Australia",
+        "Norway",
+        "United States"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The US state of New York has about as many inhabitants as?",
+      "choices": [
+        "Germany",
+        "Poland",
+        "Romania",
+        "Hungary"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What city  has the busiest airport in the world?",
+      "choices": [
+        "Chicago,Illinois ISA",
+        "London, England",
+        "Tokyo,Japan",
+        "Atlanta, Georgia USA"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which English county is Stonehenge?",
+      "choices": [
+        "Somerset",
+        "Cumbria",
+        "Herefordshire",
+        "Wiltshire"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the four corner states of the US?",
+      "choices": [
+        "Utah, Colorado, Arizona, New Mexico",
+        "South Dakota, Minnesota, Nebraska, Iowa",
+        "Kansas, Oklahoma, Arkansas, Louisiana",
+        "Oregon, Idaho, Nevada, Utah"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following language families is the most controversial amongst modern linguists?",
+      "choices": [
+        "Sino-Tibetan",
+        "Altaic",
+        "Indo-European",
+        "Dravidian"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many timezones does Russia have?",
+      "choices": [
+        "16",
+        "24",
+        "11",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What city is the Terracotta Army located in?",
+      "choices": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Xi'an"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these country's capitals starts with the letter B?",
+      "choices": [
+        "Jordan",
+        "Qatar",
+        "Kuwait",
+        "Lebanon"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of the US state Nevada?",
+      "choices": [
+        "Carson City",
+        "Reno",
+        "Las Vegas",
+        "Henderson"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest non-continental island in the world?",
+      "choices": [
+        "Borneo",
+        "Greenland",
+        "Madagascar",
+        "New Guinea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": " What is the only nation that borders both Uruguay and Venezuela?",
+      "choices": [
+        "Brazil",
+        "Chile",
+        "Panama",
+        "Mexico"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The land mass of modern day Turkey is called what?",
+      "choices": [
+        "Ottoma",
+        "Ismuth of Ottoma",
+        "Ismuth of Anatolia",
+        "Anatolia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province has Charlottetown as its capital?",
+      "choices": [
+        "Prince Edward Island",
+        "Northwest Terrirories",
+        "Saskachewan",
+        "Ontario"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the longest river in Europe?",
+      "choices": [
+        "Rhine",
+        "Thames",
+        "Danube",
+        "Volga"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is \"doubly landlocked\" (surrounded entirely by one or more landlocked countries)?",
+      "choices": [
+        "Ethiopia",
+        "Bolivia",
+        "Switzerland",
+        "Uzbekistan"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many sovereign states are members of the United Nations?",
+      "choices": [
+        "195",
+        "178",
+        "153",
+        "201"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the busiest port in Europe?",
+      "choices": [
+        "Port of Amsterdam",
+        "Port of Antwerp",
+        "Port of Hamburg",
+        "Port of Rotterdam"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+      "choices": [
+        "Zambia & Zimbabwe",
+        "Togo & Benin",
+        "Rwanda & Burundi",
+        "Lesotho & Swaziland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following countries does NOT recognize Armenia as an independent country?",
+      "choices": [
+        "Turkey",
+        "Pakistan",
+        "Azerbaijan",
+        "Iran"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many countries are larger than Australia?",
+      "choices": [
+        "3",
+        "5",
+        "6",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these American cities has fewer than 1,000,000 people?",
+      "choices": [
+        "San Francisco, California",
+        "San Antonio, Texas",
+        "Philadelphia, Pennsylvania",
+        "Phoenix, Arizona"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:",
+      "choices": [
+        "Urutora",
+        "Washington",
+        "Rungata",
+        "London"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the former country that was succeeded by countries such as Serbia, Croatia and Slovenia?",
+      "choices": [
+        "Yugoslavia",
+        "Czechoslovakia",
+        "South Ossetia",
+        "Abkhazia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which German city is located on the River Isar?",
+      "choices": [
+        "Hamburg",
+        "Munich",
+        "Berlin",
+        "Dortmund"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The White Cliffs of Dover is located in which country? ",
+      "choices": [
+        "United States",
+        "United Kingdom",
+        "Sweden",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Slovakia?",
+      "choices": [
+        "Bratislava",
+        "Sarajevo",
+        "Sofia",
+        "Ljubljana"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which English county is the city of Portsmouth?",
+      "choices": [
+        "Buckinghamshire",
+        "Hampshire",
+        "Oxfordshire",
+        "Surrey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official national language of Pakistan?",
+      "choices": [
+        "Urdu",
+        "Punjabi",
+        "Indian",
+        "Pashto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+      "choices": [
+        "United Kingdom",
+        "Spain",
+        "Portugal",
+        "France"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these Mediterranian islands is under the sovereign rule of France?",
+      "choices": [
+        "Malta",
+        "Majorca",
+        "Corsica",
+        "Sardinia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the African nation of Zimbabwe formerly known as?",
+      "choices": [
+        "Rhodesia",
+        "Mozambique",
+        "Zambia",
+        " Bulawayo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The historical city Timbuktu is located in which West African country?",
+      "choices": [
+        "Burkina Faso",
+        "Mali",
+        "Niger",
+        "Senegal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English county will you find the University of East Anglia?",
+      "choices": [
+        "Suffolk",
+        "Norfolk",
+        "Cambridgeshire",
+        "Essex"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is the smallest by population?",
+      "choices": [
+        "Norway",
+        "Slovakia",
+        "Finland",
+        "Hong Kong"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following countries banned the use of personal genetic ancestry tests?",
+      "choices": [
+        "Austria",
+        "Sweden",
+        "Canada",
+        "Germany"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What event led to Liechenstein adding a crown to its flag?",
+      "choices": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "The 1936 Olympics",
+        "Charles VI's decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these is NOT a city in Saudi Arabia?",
+      "choices": [
+        "Dubai",
+        "Riyadh",
+        "Mecca",
+        "Medina"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is not a megadiverse country - one that harbors a high number of the earth's endemic species?",
+      "choices": [
+        "Peru",
+        "Thailand",
+        "South Africa",
+        "Mexico"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Senegal?",
+      "choices": [
+        "Nouakchott",
+        "Dakar",
+        "Monrovia",
+        "Conakry"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the largest of these 4 islands?",
+      "choices": [
+        "Madagascar",
+        "Cuba",
+        "Borneo",
+        "Great Britain"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of British Columbia, Canada?",
+      "choices": [
+        "Kelowna",
+        "Vancouver",
+        "Victoria",
+        "Hope"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is NOT located in Africa?",
+      "choices": [
+        "Burkina Faso",
+        "Mozambique",
+        "Suriname",
+        "Algeria"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Gambia is a nation found on which continent?",
+      "choices": [
+        "South America",
+        "Europe",
+        "Africa",
+        "Asia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is the longest river in Europe?",
+      "choices": [
+        "Dnieper",
+        "Volga",
+        "Ural",
+        "Danube"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where is the Volga River?",
+      "choices": [
+        "India",
+        "Russia",
+        "Bulgaria",
+        "Sweden"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many independent countries are there within the continent of South America?",
+      "choices": [
+        "8",
+        "9",
+        "12",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Laos?",
+      "choices": [
+        "Vaduz",
+        "Tarawa",
+        "Vientiane",
+        "Tegucigalpa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Seychelles?",
+      "choices": [
+        "Luanda",
+        "Tripoli",
+        "Victoria",
+        "N'Djamena"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where is the ancient city of Petra located?",
+      "choices": [
+        "Egypt",
+        "Italy",
+        "Jordan",
+        "Israel"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European city has the highest mileage of canals in the world?",
+      "choices": [
+        "Venice",
+        "Amsterdam",
+        "Berlin",
+        "Birmingham"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is not written in its native language?",
+      "choices": [
+        "Schweiz",
+        "Elláda",
+        "Slovaško",
+        "Suomi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Estonia?",
+      "choices": [
+        "Riga",
+        "Tallinn",
+        "Tartu",
+        "Helsinki"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The following Spanish provinces are located in the northern area of Spain except:",
+      "choices": [
+        "Asturias",
+        "Navarre",
+        "León",
+        "Murcia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the smallest country in the world?",
+      "choices": [
+        "Monaco City",
+        "Lesotho",
+        "Vatican City",
+        "Titania"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country has three capital cities?",
+      "choices": [
+        "China",
+        "Somalia",
+        "South Africa",
+        "United Kingdom"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital city of Slovenia?",
+      "choices": [
+        "Ljubljana",
+        "Maribor",
+        "Velenje",
+        "Trbovlje"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the capital of Turkey?",
+      "choices": [
+        "Bursa",
+        "Izmir",
+        "Istanbul",
+        "Ankara"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What mountain range lines the border between Spain and France?",
+      "choices": [
+        "Urals",
+        "Carpathians",
+        "Pyrenees",
+        "Alps"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+      "choices": [
+        "Gibraltar",
+        "Kashmir",
+        "Quin",
+        "Andorra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many countries share a land border with Luxembourg?",
+      "choices": [
+        "5",
+        "4",
+        "2",
+        "3"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many countries does Spain have a land border with?",
+      "choices": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What's the first National Park designated in the United States?",
+      "choices": [
+        "Yosemite",
+        "Rocky Mountain",
+        "Yellowstone",
+        "Sequoia "
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which one of these countries borders with Poland?",
+      "choices": [
+        "Norway",
+        "Lithuania",
+        "France",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which islands below have been claimed by both Japan and Russia?",
+      "choices": [
+        "Paracel Islands",
+        "Kuril Islands",
+        "Chagos Islands",
+        "Spratly Islands"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Lithuania?",
+      "choices": [
+        "Riga",
+        "Vilnius",
+        "Tallinn",
+        "Helsinki"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which continent/s is the entire country of Spain specifically located when taking into account all of its territory?",
+      "choices": [
+        "Europe and Africa",
+        "Europe and Asia",
+        "Europe, Africa and Asia",
+        "Europe"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country claims ownership of the disputed state Kosovo?",
+      "choices": [
+        "Serbia",
+        "Croatia",
+        "Albania",
+        "Macedonia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 2016 Global Peace Index poll, out of 163 countries, what was the United States of America ranked?",
+      "choices": [
+        "79",
+        "59",
+        "103",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Cyprus?",
+      "choices": [
+        "Larnaca",
+        "Paphos",
+        "Limassol",
+        "Nicosia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the only country in the world with a flag that doesn't have four right angles?",
+      "choices": [
+        "Nepal",
+        "Egypt",
+        "Panama",
+        "Angola"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is not a United Nations member state?",
+      "choices": [
+        "Niue",
+        "Montenegro",
+        "South Sudan",
+        "Tuvalu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

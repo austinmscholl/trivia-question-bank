@@ -1,264 +1,2317 @@
 {
   "slug": "fnaf-trivia",
-  "name": "Five Nights at Freddy's",
-  "description": "Animatronics, lore, and scares from Scott Cawthon's haunted-pizzeria horror series.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "name": "FNAF",
+  "processedAt": "2026-05-24T20:43:43.525Z",
   "questions": [
     {
-      "q": "Who created the Five Nights at Freddy's video-game series?",
-      "choices": ["Scott Cawthon", "Toby Fox", "Markus Persson", "Edmund McMillen"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Scott Cawthon",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "In what year was the original Five Nights at Freddy's released?",
-      "choices": ["2012", "2014", "2016", "2018"],
-      "correct": 1,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "August 8, 2014",
-        "verified": true,
-        "notes": "Released August 8, 2014 on Microsoft Windows."
-      }
-    },
-    {
-      "q": "What is the name of the in-game restaurant where the games are set?",
+      "q": "In which year did Five Nights at Freddy's first release?",
       "choices": [
-        "Chuck's Pizza Den",
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the main pizzeria location in the original Five Nights at Freddy's game?",
+      "choices": [
+        "Circus Pizza",
         "Freddy Fazbear's Pizza",
-        "Bonnie's Pizza Palace",
-        "Foxy's Family Diner"
+        "Fazbear's Fright",
+        "Pirate's Cove"
       ],
       "correct": 1,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Freddy Fazbear's Pizza",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What real-world family-pizza chain inspired Freddy Fazbear's?",
-      "choices": ["Chuck E. Cheese", "ShowBiz Pizza", "Pizza Hut", "Domino's"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Family pizza chains like Chuck E. Cheese",
-        "verified": true,
-        "notes": "Often jointly cited with ShowBiz Pizza Place."
-      }
-    },
-    {
-      "q": "Which game engine did Scott Cawthon use to build the original FNaF?",
-      "choices": ["Unity", "Unreal Engine", "Clickteam Fusion 2.5", "GameMaker Studio"],
-      "correct": 2,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Clickteam Fusion 2.5",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the name of the security guard the player controls in the first FNaF?",
-      "choices": ["Mike Schmidt", "Jeremy Fitzgerald", "Fritz Smith", "Vincent"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mike Schmidt",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What time must the player survive until each night to clear it?",
-      "choices": ["3 a.m.", "5 a.m.", "6 a.m.", "Midnight"],
-      "correct": 2,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "6 a.m.",
-        "verified": true,
-        "notes": "Each shift runs from 12 a.m. to 6 a.m."
-      }
-    },
-    {
-      "q": "Which of these is the swashbuckling fox-shaped animatronic at Freddy's?",
-      "choices": ["Bonnie", "Chica", "Foxy", "Freddy"],
-      "correct": 2,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Foxy",
-        "verified": true,
-        "notes": "Resides in Pirate Cove."
-      }
-    },
-    {
-      "q": "Which animatronic is the indigo/purple bunny?",
-      "choices": ["Bonnie", "Chica", "Freddy", "Mangle"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bonnie",
-        "verified": true,
-        "notes": "Holds a red guitar."
-      }
-    },
-    {
-      "q": "Which yellow/feathered bird-themed animatronic carries a 'Let's Eat!' bib?",
-      "choices": ["Chica", "Bonnie", "Toy Chica", "Freddy"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Chica",
-        "verified": true,
-        "notes": "Chica is a chicken/duck."
-      }
-    },
-    {
-      "q": "Which rare, almost-ghostly animatronic occasionally appears as a free-roaming hallucination?",
-      "choices": ["Springtrap", "Golden Freddy", "Mangle", "Puppet"],
-      "correct": 1,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Golden Freddy",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Who is the primary antagonist of FNaF 3 — a damaged, springlock-suit animatronic?",
-      "choices": ["Springtrap", "Bonnie", "Foxy", "Mangle"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Springtrap",
-        "verified": true,
-        "notes": "Springtrap = William Afton trapped in a Spring Bonnie suit."
-      }
-    },
-    {
-      "q": "In which FNaF entry does the player roam from room to room rather than stay in a fixed office?",
-      "choices": ["FNaF 2", "FNaF 3", "Sister Location", "FNaF World"],
-      "correct": 2,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Sister Location",
-        "verified": true,
-        "notes": "Sister Location (2016) introduced the 'move between rooms' format."
-      }
-    },
-    {
-      "q": "What is the name of the FNaF VR title released by Steel Wool Studios?",
-      "choices": ["Help Wanted", "Special Delivery", "Security Breach", "Curse of Dreadbear"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Help Wanted",
-        "verified": true,
-        "notes": "Released 2019."
-      }
-    },
-    {
-      "q": "In FNaF 4, who is the player character?",
+      "q": "Who is the main antagonist and creator of the animatronics throughout the FNAF series?",
       "choices": [
-        "A night security guard",
-        "A child suffering nightmares",
-        "Mike Schmidt",
-        "A pizzeria owner"
+        "Henry Emily",
+        "William Afton",
+        "Michael Schmidt",
+        "Phone Guy"
       ],
       "correct": 1,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "A small child experiencing nightmarish visions",
-        "verified": true,
-        "notes": "FNaF 4 takes place in a child's bedroom."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is the central child villain — the prima ballerina animatronic — in Sister Location?",
-      "choices": ["Circus Baby", "Ballora", "Funtime Foxy", "Mangle"],
+      "q": "What game engine did Scott Cawthon use to develop the original Five Nights at Freddy's?",
+      "choices": [
+        "Unity",
+        "Unreal Engine",
+        "Clickteam Fusion 2.5",
+        "GameMaker"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, what item can you wear to disguise yourself from certain animatronics?",
+      "choices": [
+        "A security uniform",
+        "An empty animatronic head",
+        "A pizza suit",
+        "A bear mask"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the attraction that serves as the main setting in Five Nights at Freddy's 3?",
+      "choices": [
+        "Freddy Fazbear's Pizza",
+        "Fazbear's Fright",
+        "Circus Baby's Entertainment and Rental",
+        "The Ultimate Night Show"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what is your primary method of defense against animatronics?",
+      "choices": [
+        "Security cameras",
+        "Closing doors and using a flashlight",
+        "Running away",
+        "Setting traps"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic character is known for descending from the ceiling in Five Nights at Freddy's 2?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Mangle",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main job of the player character Mike Schmidt in the original Five Nights at Freddy's?",
+      "choices": [
+        "Pizza chef",
+        "Security guard",
+        "Maintenance worker",
+        "Restaurant manager"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, which animatronic is the primary threat to the player?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Springtrap",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What system failure becomes a major obstacle for players in Five Nights at Freddy's 3?",
+      "choices": [
+        "Power outage",
+        "Fire alarm",
+        "Ventilation system malfunction",
+        "Door lock failure"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the protagonist that explores Sister Location in Five Nights at Freddy's: Sister Location?",
+      "choices": [
+        "Mike Schmidt",
+        "Michael Afton",
+        "Henry Emily",
+        "Phone Guy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Circus Baby in the FNAF series?",
+      "choices": [
+        "A human performer",
+        "A sentient animatronic",
+        "A mascot suit",
+        "A video game"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's, what resource must players manage carefully to survive the night?",
+      "choices": [
+        "Health points",
+        "Ammunition",
+        "Power",
+        "Food supplies"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the automated voice that gives instructions in Five Nights at Freddy's games?",
+      "choices": [
+        "Security Bot",
+        "Endo-01",
+        "Helpy",
+        "The Phone"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character serves as a mentor figure to the player through pre-recorded messages in the original Five Nights at Freddy's?",
+      "choices": [
+        "Purple Guy",
+        "Phone Guy",
+        "Golden Freddy",
+        "Shadow Bonnie"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's, what happens if you run out of power during the night?",
+      "choices": [
+        "The game ends but you survive",
+        "All doors lock automatically",
+        "The animatronics gain free access and attack",
+        "Nothing significant occurs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the setting for Five Nights at Freddy's 4?",
+      "choices": [
+        "An office at the pizzeria",
+        "A child's bedroom",
+        "An amusement park",
+        "A warehouse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic is known as the pirate-themed character in the original Five Nights at Freddy's?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Foxy",
+        "Marionette"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Freddy Fazbear, the main animatronic character?",
+      "choices": [
+        "Gold",
+        "Brown",
+        "Blue",
+        "Silver"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the first Five Nights at Freddy's game release?",
+      "choices": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the animatronic pizzeria that serves as the primary setting in the original FNAF game?",
+      "choices": [
+        "Fazbear's Pizza",
+        "Freddy Fazbear's Pizza",
+        "The Golden Pizzeria",
+        "Animatronic Palace"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic is known for its distinctive blue coloring in the original FNAF?",
+      "choices": [
+        "Chica",
+        "Bonnie",
+        "Foxy",
+        "Mangle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you primarily use to monitor the animatronics during the night shifts in FNAF 1?",
+      "choices": [
+        "Motion sensors",
+        "Security cameras",
+        "Audio recorders",
+        "Thermal imaging"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In FNAF 2, what item can you wear to disguise yourself from the animatronics?",
+      "choices": [
+        "A mask",
+        "A security uniform",
+        "An empty animatronic head",
+        "A pizza costume"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic is a pirate-themed character in the original FNAF?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Foxy",
+        "Balloon Boy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the main antagonist who commits the murders in the FNAF storyline?",
+      "choices": [
+        "Henry Emily",
+        "William Afton",
+        "Michael Brooks",
+        "Dave Miller"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In FNAF 4, what action must you perform to keep animatronics from entering your bedroom door?",
+      "choices": [
+        "Lock the door",
+        "Close the door and wait",
+        "Turn on the lights",
+        "Play music"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which FNAF installment introduces the animatronic named Ennard?",
+      "choices": [
+        "FNAF 2",
+        "Sister Location",
+        "FNAF 3",
+        "FNAF 4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What resource depletes as you use security systems in the original FNAF?",
+      "choices": [
+        "Health points",
+        "Oxygen",
+        "Electrical power",
+        "Time credits"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In FNAF 3, which animatronic returns as a horrifying springlock suit hybrid?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Freddy",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary goal during each night shift in the original Five Nights at Freddy's?",
+      "choices": [
+        "Repair the animatronics",
+        "Survive until 6 AM",
+        "Escape the building",
+        "Find hidden treasures"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic in FNAF is a chicken-themed performer?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Foxy",
+        "Freddy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Sister Location, who is the player character?",
+      "choices": [
+        "Michael Afton",
+        "William Afton",
+        "Jeremy Fitzgerald",
+        "Phone Guy"
+      ],
       "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Circus Baby",
-        "verified": true,
-        "notes": "Originally housed at 'Circus Baby's Pizza World'."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is widely revealed to be the murderous human behind the FNaF lore — sometimes called 'the Purple Guy'?",
-      "choices": ["Henry Emily", "William Afton", "Michael Afton", "Phone Guy"],
+      "q": "What platform did Five Nights at Freddy's originally release on?",
+      "choices": [
+        "PlayStation 4",
+        "Nintendo Switch",
+        "PC (Windows)",
+        "Xbox One"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In FNAF, what does the player do when power runs out in the office?",
+      "choices": [
+        "The office lights up automatically",
+        "Animatronics leave peacefully",
+        "The animatronics attack immediately",
+        "An alarm sounds to end the night"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic in the original FNAF is the lead performer and namesake of the restaurant?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Freddy Fazbear",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In FNAF 3, what system can you use to seal off ventilation passages?",
+      "choices": [
+        "Door locks",
+        "Seal vents",
+        "Audio distractors",
+        "Thermal barriers"
+      ],
       "correct": 1,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Five Nights at Freddy's",
-        "verified": true,
-        "notes": "The serial-killer co-founder of Fazbear Entertainment, eventually trapped as Springtrap."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In Security Breach, what is the name of the child protagonist trapped in the Pizzaplex?",
-      "choices": ["Cassie", "Gregory", "Charlie", "Evan"],
+      "q": "What is the name of the animatronic bear introduced in FNAF: Security Breach who helps the player?",
+      "choices": [
+        "Golden Freddy",
+        "Glamrock Freddy",
+        "Withered Freddy",
+        "Nightmare Freddy"
+      ],
       "correct": 1,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Five Nights at Freddy's",
-        "verified": true,
-        "notes": "Aided by a friendly Glamrock Freddy."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 2023 horror film, directed by Emma Tammi, was based on the FNaF series?",
+      "q": "In the original FNAF, how many nights must the player survive to complete the game?",
+      "choices": [
+        "3 nights",
+        "5 nights",
+        "7 nights",
+        "10 nights"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary goal of the player during a shift at Freddy Fazbear's Pizza?",
+      "choices": [
+        "Repair broken animatronics",
+        "Survive until 6 a.m. while monitoring security cameras",
+        "Entertain children at birthday parties",
+        "Collect spare parts from the back room"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic character is known for being a pirate-themed fox?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Foxy",
+        "Golden Freddy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the original Five Nights at Freddy's, what is the name of the security guard you play as?",
+      "choices": [
+        "Jeremy Fitzgerald",
+        "Mike Schmidt",
+        "Michael Afton",
+        "Phone Guy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What game engine was used to create the original Five Nights at Freddy's?",
+      "choices": [
+        "Unity",
+        "Unreal Engine",
+        "Clickteam Fusion 2.5",
+        "GameMaker Studio"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic descends from the ceiling in Five Nights at Freddy's 2?",
+      "choices": [
+        "Puppet",
+        "Mangle",
+        "Balloon Boy",
+        "Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is William Afton's alternate identity in the later games?",
+      "choices": [
+        "Phone Guy",
+        "The Puppet",
+        "Springtrap",
+        "Circus Baby"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, what item must you wear to avoid being caught by animatronics?",
+      "choices": [
+        "A security badge",
+        "A wristband",
+        "An animatronic head mask",
+        "A headset"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical item is used in the original game to keep an animatronic calm?",
+      "choices": [
+        "A bell",
+        "A music box",
+        "A speaker",
+        "A siren"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the co-founder of Fazbear Entertainment alongside William Afton?",
+      "choices": [
+        "Phone Guy",
+        "Henry Emily",
+        "Jeremy Fitzgerald",
+        "Dave Miller"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the animatronic chicken at Freddy's?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Foxy",
+        "Freddy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what type of setting do the nightmares take place in?",
+      "choices": [
+        "An office building",
+        "A child's bedroom",
+        "A restaurant kitchen",
+        "A warehouse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic is a humanoid endoskeleton without external plating in Sister Location?",
+      "choices": [
+        "Ballora",
+        "Ennard",
+        "Circus Baby",
+        "Funtime Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the animatronic bear that serves as the main mascot of the pizzeria?",
+      "choices": [
+        "Freddy Fazbear",
+        "Bonnie Bear",
+        "Golden Bear",
+        "Nightmare Bear"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Pizzeria Simulator, who is the 'Cassette Man' that guides the player through audio recordings?",
+      "choices": [
+        "William Afton",
+        "Henry Emily",
+        "Michael Afton",
+        "Phone Guy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What animatronic bunny is primarily blue in color at Freddy's?",
+      "choices": [
+        "Bonnie",
+        "Foxy",
+        "Chica",
+        "Balloon Boy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Five Nights at Freddy's series, what real-life business inspired the pizzeria setting?",
+      "choices": [
+        "Pizza Hut restaurants",
+        "Domino's Pizza locations",
+        "Family entertainment centers like Chuck E. Cheese",
+        "Local Italian pizzerias"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What tool do you use in Five Nights at Freddy's 2 to reveal animatronics in dark hallways?",
+      "choices": [
+        "A motion detector",
+        "A flashlight",
+        "A thermal camera",
+        "Night vision goggles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the protagonist that enters Sister Location in Five Nights at Freddy's: Sister Location?",
+      "choices": [
+        "Jeremy Fitzgerald",
+        "Mike Schmidt",
+        "Michael Afton",
+        "Henry Emily"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What tragic event involving a child occurs in the lore that sets the entire FNAF story in motion?",
+      "choices": [
+        "A child gets lost in the pizzeria",
+        "A child is killed by animatronics",
+        "A child suffers an accident with animatronics",
+        "A child goes missing during a party"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's, which animatronic is known for his catchphrase involving his name?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Freddy Fazbear",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the animatronic bear who serves as the mascot of Freddy Fazbear's Pizza?",
+      "choices": [
+        "Bonnie the Bunny",
+        "Freddy Fazbear",
+        "Chica the Chicken",
+        "Foxy the Pirate"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's, what resource must the player manage throughout the night to survive?",
+      "choices": [
+        "Health points",
+        "Battery power",
+        "Ammunition",
+        "Food supplies"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animatronic is known for being a pirate-themed character at Freddy Fazbear's Pizza?",
+      "choices": [
+        "Foxy the Pirate",
+        "Bonnie the Bunny",
+        "Golden Freddy",
+        "Marionette"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the villain who is later revealed to be trapped inside the Springtrap animatronic?",
+      "choices": [
+        "Henry Emily",
+        "Michael Afton",
+        "William Afton",
+        "Vincent the Purple Guy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, what item can the player equip to avoid being jumpscared by certain animatronics?",
+      "choices": [
+        "A music box",
+        "An empty animatronic head mask",
+        "A motion detector",
+        "A security badge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game in the series introduces the animatronic character Circus Baby?",
+      "choices": [
+        "Five Nights at Freddy's 3",
+        "Five Nights at Freddy's: Sister Location",
+        "Ultimate Custom Night",
+        "Five Nights at Freddy's: Security Breach"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary setting where most of the horror events in the original Five Nights at Freddy's take place?",
+      "choices": [
+        "A bowling alley",
+        "A theme park",
+        "Freddy Fazbear's Pizza restaurant",
+        "A movie theater"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what action must the player take when they hear breathing at the bedroom door?",
+      "choices": [
+        "Turn on all the lights",
+        "Close the door and wait",
+        "Run to the window",
+        "Play a loud sound"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the co-founder of Fazbear Entertainment who worked alongside William Afton?",
+      "choices": [
+        "Henry Emily",
+        "Michael Brooks",
+        "Dave Miller",
+        "Scott Cawthon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Five Nights at Freddy's game was developed by Steel Wool Studios and released as a VR experience?",
+      "choices": [
+        "Five Nights at Freddy's: Help Wanted",
+        "Five Nights at Freddy's: Security Breach",
+        "Ultimate Custom Night",
+        "Five Nights at Freddy's: Special Delivery"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, what is the primary mechanic that becomes a threat to the player when malfunctioning?",
+      "choices": [
+        "The electrical power grid",
+        "The ventilation system",
+        "The animatronic repair bay",
+        "The pizza oven"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic character in Five Nights at Freddy's 2 must be continuously appeased with a music box to prevent a jumpscare?",
+      "choices": [
+        "Foxy",
+        "The Puppet",
+        "Balloon Boy",
+        "Mangle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the security guard protagonist who works the night shift at Freddy Fazbear's Pizza in the original Five Nights at Freddy's?",
+      "choices": [
+        "Jeremy Fitzgerald",
+        "Mike Schmidt",
+        "William Afton",
+        "Henry Emily"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Sister Location, what is the primary purpose of the handheld device provided to guide the player through the facility?",
+      "choices": [
+        "To monitor animatronic locations",
+        "To provide instructions and navigation",
+        "To unlock secured doors",
+        "To disable security cameras"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic character in Five Nights at Freddy's 2 primarily attacks from above the player's position?",
+      "choices": [
+        "Foxy the Pirate",
+        "Marionette",
+        "Mangle",
+        "Balloon Boy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what defensive action must the player take when certain animatronics appear at the bedroom door?",
+      "choices": [
+        "Turn on the lights immediately",
+        "Close the door and remain silent",
+        "Run to the hallway",
+        "Hide under the bed"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What tragic event at Fredbear's Family Diner directly connects to William Afton and sets the tragic narrative in motion?",
+      "choices": [
+        "A kitchen fire that killed multiple staff members",
+        "The death of Afton's youngest son in an animatronic accident",
+        "A chemical spill in the storage area",
+        "An armed robbery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Help Wanted, which gameplay environment represents a virtual recreation of the original Freddy Fazbear's Pizza location?",
+      "choices": [
+        "The Circus Control Unit",
+        "The Parts and Service room",
+        "The Classic Arcade",
+        "The Original Pizzeria"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic character in the Five Nights at Freddy's series is explicitly associated with causing the 'bite incident' referenced throughout the games?",
+      "choices": [
+        "Freddy Fazbear",
+        "Golden Freddy",
+        "Nightmare Fredbear",
+        "Withered Bonnie"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, what tool allows the player to briefly illuminate and observe animatronic positions in darkened areas?",
+      "choices": [
+        "Motion detector",
+        "Flashlight",
+        "Security panel",
+        "Night vision goggles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What disguise in Five Nights at Freddy's 2 allows the player to move through the facility while remaining undetected by certain animatronics?",
+      "choices": [
+        "A security guard uniform",
+        "An empty animatronic head",
+        "A technician outfit",
+        "A mascot costume"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which co-founder of Fazbear Entertainment worked alongside William Afton in establishing the company's original vision?",
+      "choices": [
+        "Michael Afton",
+        "Henry Emily",
+        "Dave Miller",
+        "Scott Cawthon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Pizzeria Simulator, what business simulation element is combined with survival horror gameplay?",
+      "choices": [
+        "Restaurant management and inventory control",
+        "Pizza chain franchise operations",
+        "Employee hiring and scheduling",
+        "Building construction and renovation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary animatronic character's name that serves as the mascot and central figure of Freddy Fazbear's Pizza?",
+      "choices": [
+        "Bonnie the Bunny",
+        "Freddy Fazbear",
+        "Chica the Chicken",
+        "Foxy the Pirate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, which animatronic phantom version serves as the most persistent jumpscare threat in the ventilation areas?",
+      "choices": [
+        "Phantom Golden Freddy",
+        "Phantom Foxy",
+        "Phantom Puppet",
+        "Phantom Mangle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What supernatural phenomenon involving a golden animatronic is frequently associated with mysterious deaths and the series' overarching narrative?",
+      "choices": [
+        "Animatronic possession by child spirits",
+        "A recurring mechanical malfunction",
+        "Hallucinations induced by sleep deprivation",
+        "Electromagnetic interference"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what nightmare animatronic combines Freddy Fazbear's design with Fredbear's coloring and unique characteristics?",
+      "choices": [
+        "Nightmare Chica",
+        "Nightmare Fredbear",
+        "Nightmare Bonnie",
+        "Nightmare Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Five Nights at Freddy's installment introduces the mechanic of roaming freely between multiple rooms rather than remaining stationary in an office?",
+      "choices": [
+        "Five Nights at Freddy's 2",
+        "Five Nights at Freddy's 3",
+        "Five Nights at Freddy's: Sister Location",
+        "Five Nights at Freddy's 4"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the canon name of the protagonist who experiences the nightmare sequences in Five Nights at Freddy's 4?",
+      "choices": [
+        "Michael Afton",
+        "The Crying Child",
+        "Jeremy Fitzgerald",
+        "William Afton Jr."
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Five Nights at Freddy's series, which animatronic character is characterized by its ability to disassemble and reassemble itself in fragmented ways?",
+      "choices": [
+        "Balloon Boy",
+        "The Puppet",
+        "Mangle",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Sister Location, what is the primary method by which Michael Afton becomes infected with a virus that leads to his eventual demise?",
+      "choices": [
+        "Through direct contact with Ennard in the Scooping Room",
+        "By touching contaminated surfaces in the facility",
+        "Via airborne pathogen dispersal from the ventilation system",
+        "Through consumption of food poisoned by the animatronics"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the artificial intelligence system that guides the player through Circus Baby's Entertainment and Rental facility?",
+      "choices": [
+        "ARIA",
+        "HandUnit",
+        "SATURN",
+        "CompuBot"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Five Nights at Freddy's 3 location, which animatronic is rebuilt from salvaged parts and becomes the primary threat?",
+      "choices": [
+        "Nightmare Bonnie",
+        "Springtrap",
+        "Withered Golden Freddy",
+        "Phantom Mangle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year does the FNaF 2 location, Freddy Fazbear's Pizza, take place according to the game's timeline?",
+      "choices": [
+        "1987",
+        "1989",
+        "1985",
+        "1986"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In FNaF 4, the child experiences visions of animatronics in their bedroom. Which animatronic variant specifically appears as 'Nightmare Fredbear'?",
+      "choices": [
+        "A twisted version of Golden Freddy",
+        "A corrupted form of the original Freddy Fazbear",
+        "A prototype animatronic from an earlier location",
+        "An amalgamation of all bear animatronics"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real identity of the player character in the first Five Nights at Freddy's game?",
+      "choices": [
+        "Michael Afton",
+        "Jeremy Fitzgerald",
+        "Mike Schmidt",
+        "William Afton"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Security Breach, which animatronic becomes an ally to Gregory rather than an antagonist?",
+      "choices": [
+        "Roxanne Wolf",
+        "Glamrock Chica",
+        "Glamrock Freddy",
+        "Montgomery Gator"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the animatronic who was originally designed as a birthday party entertainer but becomes integral to the dark plot of Sister Location?",
+      "choices": [
+        "Ballora",
+        "Circus Baby",
+        "Ennard",
+        "Funtime Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In FNaF 2, what item must the player equip to avoid being attacked by certain animatronics when leaving their office?",
+      "choices": [
+        "A security badge",
+        "An empty animatronic head",
+        "A motion detector",
+        "A protective suit"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which event in the FNaF lore is referenced as 'the Bite of '87'?",
+      "choices": [
+        "An incident where an animatronic severely injured a child",
+        "The establishment of the first Freddy Fazbear's Pizza location",
+        "William Afton's first murder",
+        "The malfunction of the animatronic security system"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary objective for the player character in FNaF 4 to survive the night in their bedroom?",
+      "choices": [
+        "Monitor security cameras throughout the house",
+        "Close doors and listen for animatronic breathing at the entrance",
+        "Collect items to build a defensive barrier",
+        "Navigate through the house to reach a safe room"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the FNaF lore, what is William Afton's connection to the Missing Children Incident?",
+      "choices": [
+        "He was the security guard who failed to prevent it",
+        "He was the perpetrator who murdered multiple children",
+        "He was the facility manager who covered it up",
+        "He was a parent searching for his abducted child"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic in FNaF 2 is described as being in a severely deteriorated state and is referred to as 'Withered'?",
+      "choices": [
+        "Toy Bonnie",
+        "Mangle",
+        "Withered Freddy",
+        "Balloon Boy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Sister Location, what device does the player use to navigate through dark areas and defend against Ennard?",
+      "choices": [
+        "A flashlight beacon",
+        "A motion-activated light",
+        "A UV scanner",
+        "An infrared thermal camera"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the animatronic band's yellow chicken performer who appears across multiple FNaF games?",
+      "choices": [
+        "Bonnie",
+        "Chica",
+        "Foxy",
+        "Pirate Chica"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In FNaF 3, the location is reimagined as a haunted attraction. What is the primary hazard introduced by this setting?",
+      "choices": [
+        "Phantom animatronics that cause jump scares",
+        "Fire hazards throughout the building",
+        "Toxic gas leaks in ventilation",
+        "Electrical surges in power systems"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Michael Afton's primary motivation for infiltrating Circus Baby's Entertainment and Rental facility in Sister Location?",
+      "choices": [
+        "To retrieve his younger brother's body",
+        "To destroy the animatronics responsible for his family's tragedy",
+        "To locate and rescue his sister Elizabeth",
+        "To gather evidence against William Afton for authorities"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Security Breach, what is the primary setting where the majority of gameplay takes place?",
+      "choices": [
+        "Freddy Fazbear's Pizza World",
+        "Fazbear Entertainment Headquarters",
+        "Freddy Fazbear's Mega Pizzaplex",
+        "Circus Baby's Entertainment and Rental"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic character is known for inhabiting the camera system in FNaF 2 and is considered a significant threat to the night guard?",
+      "choices": [
+        "Balloon Boy",
+        "Puppet",
+        "Golden Freddy",
+        "Withered Bonnie"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the FNaF lore, what supernatural phenomenon allows the souls of William Afton's victims to exist within the animatronics?",
+      "choices": [
+        "Artificial intelligence consciousness transfer",
+        "Digital resurrection technology",
+        "Spiritual possession and binding",
+        "Consciousness uploading protocols"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, what is the primary mechanic used to defend against Springtrap in the vents?",
+      "choices": [
+        "Sealing vents with a control panel",
+        "Shining a flashlight down the ventilation shafts",
+        "Playing audio lures to redirect Springtrap",
+        "Manually closing metal grates from the office"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic character was the original predecessor to Freddy Fazbear at Fredbear's Family Diner?",
+      "choices": [
+        "Spring Bonnie",
+        "Golden Freddy",
+        "Fredbear",
+        "Puppet"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Sister Location, what is the name of the AI system that guides you through the facility?",
+      "choices": [
+        "Circus Baby",
+        "Ennard",
+        "Ballora",
+        "Funtime Foxy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year does the 'Bite of '87' occur in the Five Nights at Freddy's timeline?",
+      "choices": [
+        "1983",
+        "1985",
+        "1987",
+        "1989"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, which animatronic's jumpscare is accompanied by a loud mechanical screeching sound?",
+      "choices": [
+        "Toy Bonnie",
+        "Mangle",
+        "Balloon Boy",
+        "The Puppet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary function of the temperature control systems in Circus Baby's Entertainment and Rental?",
+      "choices": [
+        "To keep the animatronics operational",
+        "To maintain the building's atmosphere",
+        "To preserve the animatronics' endoskeletons",
+        "To cool the server systems"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Ultimate Custom Night, how many animatronics can be active simultaneously in a single night?",
+      "choices": [
+        "Up to 20",
+        "Up to 50",
+        "All 50 available animatronics",
+        "Between 1 and 10"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What instrument does the Puppet play in its jumpscare sequence throughout the series?",
+      "choices": [
+        "A violin",
+        "A music box",
+        "A piano",
+        "A trumpet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Pizzeria Simulator, what is Henry Emily's ultimate goal in constructing the final establishment?",
+      "choices": [
+        "To create a new entertainment venue",
+        "To lure William Afton and the animatronics to their destruction",
+        "To study animatronic behavior",
+        "To resurrect the child victims"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic in Five Nights at Freddy's 4 has a distinctive laugh that plays when it attacks?",
+      "choices": [
+        "Nightmare Bonnie",
+        "Nightmare Freddy",
+        "Nightmare Chica",
+        "Nightmare Foxy"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the animatronic entertainer who is permanently fused with Ennard in Sister Location?",
+      "choices": [
+        "Ballora",
+        "Circus Baby",
+        "Funtime Freddy",
+        "Ft. Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Security Breach, what is Glamrock Freddy's primary objective regarding the player character?",
+      "choices": [
+        "To capture the player for Vanny",
+        "To protect the player from other animatronics",
+        "To escort the player out of the Pizzaplex",
+        "To retrieve a specific item from the facility"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What psychological phenomenon does the nightmare animatronics in Five Nights at Freddy's 4 primarily represent?",
+      "choices": [
+        "Physical manifestations of animatronics",
+        "Hallucinations and distorted memories",
+        "Possessed robots controlled by spirits",
+        "Advanced AI attempting communication"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Help Wanted, which game mode allows players to experience a tour of Fazbear Entertainment locations?",
+      "choices": [
+        "Survival Mode",
+        "Tutorial Mode",
+        "Night Terrors",
+        "Corn Maze"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What material was William Afton wearing when he was trapped in the Spring Bonnie suit?",
+      "choices": [
+        "A security guard uniform",
+        "Business attire",
+        "A Fazbear Entertainment employee suit",
+        "Children's clothing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's: The Silver Eyes novel, what color are Michael Afton's eyes?",
+      "choices": [
+        "Brown",
+        "Blue",
+        "Violet",
+        "Green"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary weakness of the animatronics in the original Freddy Fazbear's Pizza location that allows them to be momentarily distracted?",
+      "choices": [
+        "Loud noises",
+        "Flashing lights",
+        "Loud music and audio cues",
+        "Movement in adjacent rooms"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Freddy Fazbear's Pizzeria Simulator, what is the name of the hidden minigame that reveals the fate of the child victims?",
+      "choices": [
+        "Happiest Day",
+        "Midnight Motorist",
+        "The End",
+        "Stage 01"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Five Nights at Freddy's game introduces the concept of multiple branching story endings based on player choices?",
+      "choices": [
+        "Ultimate Custom Night",
+        "Five Nights at Freddy's: Help Wanted",
+        "Five Nights at Freddy's: Security Breach",
+        "Five Nights at Freddy's 3"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the FNAF timeline, approximately how many years pass between the original Freddy Fazbear's Pizza opening and the events of Security Breach?",
+      "choices": [
+        "Approximately 5 years",
+        "Approximately 15-20 years",
+        "Approximately 30+ years",
+        "Approximately 2 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, which animatronic serves as the main threat despite being largely non-functional and requiring constant maintenance?",
+      "choices": [
+        "Springtrap",
+        "Phantom Freddy",
+        "Balloon Boy",
+        "Withered Bonnie"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the artificial intelligence system that controls the facility in Five Nights at Freddy's: Sister Location?",
+      "choices": [
+        "ARIA",
+        "ENNARD",
+        "CIRCUS BABY'S ENTERTAINMENT AND RENTAL",
+        "PUPPET"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Five Nights at Freddy's, what is the power percentage mechanic primarily used for?",
+      "choices": [
+        "Controlling animatronic movement speed",
+        "Operating security doors and lights",
+        "Increasing camera zoom capabilities",
+        "Powering the ventilation system"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animatronic in Five Nights at Freddy's 2 was involved in the infamous bite incident of 1987 that resulted in the loss of the player character's frontal lobe?",
+      "choices": [
+        "Freddy Fazbear",
+        "Foxy",
+        "Mangle",
+        "Balloon Boy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Security Breach, what is the primary objective the player must complete to progress through the mall?",
+      "choices": [
+        "Collect all endoskeletons for a reward",
+        "Recharge Glamrock Freddy's battery before sunrise",
+        "Disable all animatronics permanently",
+        "Escape the Mega Pizzaplex before 6 AM"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the animatronic entertainer that becomes a major antagonist in Five Nights at Freddy's: Sister Location and is revealed to be a fusion of multiple animatronics?",
+      "choices": [
+        "Circus Baby",
+        "Ennard",
+        "Ballora",
+        "Funtime Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what specific sensory cue must the player monitor to determine which direction Nightmare animatronics are approaching from?",
+      "choices": [
+        "Visual camera feed patterns",
+        "Audio breathing and footstep sounds",
+        "Heat signature detection",
+        "Motion sensor alerts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which location serves as the setting for Five Nights at Freddy's: Help Wanted, the VR title released in 2019?",
+      "choices": [
+        "A abandoned Freddy's location requiring restoration",
+        "Circus Baby's Entertainment and Rental",
+        "A research facility studying animatronic technology",
+        "The original Freddy Fazbear's Pizza from 1987"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Five Nights at Freddy's universe, what is William Afton's primary connection to the animatronics' supernatural behavior?",
+      "choices": [
+        "He programmed their AI systems",
+        "He murdered children whose spirits inhabit the animatronics",
+        "He designed the original animatronic suits",
+        "He sabotaged the electrical systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What defense mechanism must the player utilize in Five Nights at Freddy's 2 when an animatronic enters the office, even though it appears counterintuitive?",
+      "choices": [
+        "Activate the emergency lockdown protocol",
+        "Play the music box to calm Puppet",
+        "Don an empty animatronic head mask",
+        "Shut down all power systems immediately"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Sister Location, what is the name of the artificial intelligence system that guides the player through the facility?",
+      "choices": [
+        "HandUnit",
+        "ARIA",
+        "ENNARD",
+        "GLaDOS"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic is revealed to be a animatronic suit containing the soul of William Afton in Five Nights at Freddy's 3?",
+      "choices": [
+        "Bonnie",
+        "Springtrap",
+        "Balloon Boy",
+        "Marionette"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what is the primary mechanic players use to defend themselves from animatronics?",
+      "choices": [
+        "Monitoring security cameras",
+        "Closing doors using audio cues",
+        "Running through hallways",
+        "Using a flashlight to stun animatronics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year is Freddy Fazbear's Pizza implied to have first opened, based on the game's lore?",
+      "choices": [
+        "1983",
+        "1985",
+        "1987",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic is known for making bird-like sounds and is associated with the kitchen area at Freddy's?",
+      "choices": [
+        "Foxy",
+        "Chica",
+        "Balloon Boy",
+        "JJ"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Security Breach, what is the primary setting where most of the game takes place?",
+      "choices": [
+        "An underground bunker",
+        "A shopping mall",
+        "A theme park",
+        "A hospital"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic entertainer who serves as the main character of Circus Baby's Pizza World?",
+      "choices": [
+        "Ballora",
+        "Circus Baby",
+        "Ennard",
+        "Bon-Bon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game in the FNAF series introduces the concept of animatronics being possessed by the souls of murdered children?",
+      "choices": [
+        "Five Nights at Freddy's 2",
+        "Five Nights at Freddy's 3",
+        "Five Nights at Freddy's: Sister Location",
+        "Five Nights at Freddy's"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What instrument must be continuously wound to prevent a specific animatronic from attacking in Five Nights at Freddy's 2?",
+      "choices": [
+        "A piano",
+        "A music box",
+        "An organ",
+        "A metronome"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original Five Nights at Freddy's, how many hours must a security guard survive until the end of their shift?",
+      "choices": [
+        "4 hours",
+        "6 hours",
+        "8 hours",
+        "10 hours"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic pirate fox character known for lurking in his pirate cove?",
+      "choices": [
+        "Foxy the Pirate",
+        "Captain Foxy",
+        "Pirate Foxy",
+        "Foxy"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game engine did Scott Cawthon primarily use to develop the original Five Nights at Freddy's game?",
+      "choices": [
+        "Unreal Engine",
+        "Clickteam Fusion 2.5",
+        "GameMaker",
+        "Unity"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, what event serves as the catalyst for the animatronics' return?",
+      "choices": [
+        "A new pizza restaurant opens",
+        "An abandoned attraction is reopened as a horror attraction",
+        "William Afton escapes from prison",
+        "A new animatronic factory is built"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic ballerina featured in Sister Location?",
+      "choices": [
+        "Circus Baby",
+        "Ballora",
+        "Ennard",
+        "Minireena"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company developed Five Nights at Freddy's: Help Wanted for virtual reality?",
+      "choices": [
+        "Epic Games",
+        "Steel Wool Studios",
+        "Illumix",
+        "Platinum Games"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Pizzeria Simulator, what hybrid genre does the gameplay combine?",
+      "choices": [
+        "Racing simulation and puzzle solving",
+        "Business management and survival horror",
+        "Strategy and platforming",
+        "Action and adventure"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic endoskeleton creature that emerges from fused animatronic parts in Sister Location?",
+      "choices": [
+        "Circus Baby",
+        "Ennard",
+        "Ballora",
+        "Funtime Freddy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic character is specifically associated with the show stage and performs rock songs at Freddy's?",
+      "choices": [
+        "Freddy Fazbear",
+        "Bonnie",
+        "Chica",
+        "Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original game's lore, what tragic event occurred on the date known as 'The Bite of '87'?",
+      "choices": [
+        "William Afton was arrested",
+        "An animatronic bit a child, causing severe injury",
+        "Freddy Fazbear's Pizza closed permanently",
+        "A fire destroyed the restaurant"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the demon animatronic version of Freddy Fazbear that appears in Five Nights at Freddy's 4?",
+      "choices": [
+        "Withered Freddy",
+        "Nightmare Freddy",
+        "Shadow Freddy",
+        "Golden Freddy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, what critical life-support system becomes compromised, forcing the player to constantly monitor its status?",
+      "choices": [
+        "Electrical grid",
+        "Ventilation system",
+        "Water filtration",
+        "Heating mechanism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the horror attraction that serves as the setting for Five Nights at Freddy's 3?",
+      "choices": [
+        "Freddy's Legacy",
+        "Fazbear's Fright",
+        "Spring Bonnie's Museum",
+        "Animatronic Archive"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic character was specifically designed and built by William Afton to capture and harm children?",
+      "choices": [
+        "Mangle",
+        "Circus Baby",
+        "Balloon Boy",
+        "Marionette"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what tool do players use to defend themselves against Nightmare animatronics by illuminating dark spaces?",
+      "choices": [
+        "Motion detector",
+        "Flashlight",
+        "Motion sensor",
+        "Night vision goggles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary color associated with Bonnie, the animatronic guitarist at Freddy Fazbear's Pizza?",
+      "choices": [
+        "Red",
+        "Purple",
+        "Blue",
+        "Green"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, what two-part strategy allows players to temporarily deter animatronics from entering the office?",
+      "choices": [
+        "Doors and cameras",
+        "Flashlight and mask",
+        "Motion sensor and alarm",
+        "Bell and whistle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the human identity of the protagonist who explores the horrors of Sister Location?",
+      "choices": [
+        "Jeremy Fitzgerald",
+        "Michael Afton",
+        "William Afton",
+        "Henry Emily"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game engine did Scott Cawthon use to develop the original Five Nights at Freddy's?",
+      "choices": [
+        "Unity",
+        "Unreal Engine",
+        "Clickteam Fusion 2.5",
+        "GameMaker"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What horrific transformation does William Afton undergo after being exposed to the animatronic suit's mechanisms in Fazbear's Fright?",
+      "choices": [
+        "Phantom Freddy",
+        "Ennard",
+        "Springtrap",
+        "Golden Freddy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Pizzeria Simulator, what does Henry Emily deploy to free the trapped souls and end the cycle of horror?",
+      "choices": [
+        "Explosives",
+        "Fire",
+        "Deconstruction",
+        "Electrical surge"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic character performs as the main attraction at Circus Baby's Pizza World?",
+      "choices": [
+        "Ennard",
+        "Circus Baby",
+        "Ballora",
+        "Funtime Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What composer created the iconic soundtrack that accompanies the animatronic horrors throughout the early FNAF games?",
+      "choices": [
+        "Austin Springer",
+        "Leon Riskin",
+        "Kyle Allen",
+        "Brad Hall"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, the player character is a small child experiencing visions triggered by what event from their past?",
+      "choices": [
+        "A birthday party accident",
+        "A bite incident",
+        "A power outage",
+        "A locked door"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the goal time that a security guard must survive until each night at Freddy Fazbear's Pizza?",
+      "choices": [
+        "5 a.m.",
+        "6 a.m.",
+        "7 a.m.",
+        "8 a.m."
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic character in Security Breach serves as a protective ally to the player rather than a threat?",
+      "choices": [
+        "Glamrock Chica",
+        "Glamrock Foxy",
+        "Glamrock Freddy",
+        "Glamrock Bonnie"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's, what resource must be carefully managed to keep the office secure throughout each night?",
+      "choices": [
+        "Battery power",
+        "Oxygen supply",
+        "Ammunition",
+        "Food rations"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic puppet character that serves as a protective guardian in the original games?",
+      "choices": [
+        "The Marionette",
+        "The Jester",
+        "The Phantom",
+        "The Specter"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, which character does the player impersonate by wearing an empty animatronic head?",
+      "choices": [
+        "Freddy Fazbear",
+        "Bonnie",
+        "Golden Freddy",
+        "Foxy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What tragic incident involving William Afton's own family member sets the darker tone for the series' narrative?",
+      "choices": [
+        "His daughter was killed by an animatronic",
+        "His son was killed by an animatronic",
+        "His wife disappeared",
+        "His brother sabotaged him"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nightmare animatronic in Five Nights at Freddy's 4 is a corrupted version of the beloved mascot Freddy Fazbear?",
+      "choices": [
+        "Nightmare Bonnie",
+        "Nightmare Fredbear",
+        "Nightmare Foxy",
+        "Nightmare Chica"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, which animatronic requires a music box to be wound regularly to prevent it from attacking the player?",
+      "choices": [
+        "Balloon Boy",
+        "The Puppet",
+        "Mangle",
+        "Foxy the Pirate"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic performance venue that serves as the primary setting for the first Five Nights at Freddy's game?",
+      "choices": [
+        "Circus Baby's Entertainment and Rental",
+        "Freddy Fazbear's Pizza",
+        "Fazbear's Fright",
+        "Pirate Cove Theater"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, what primary method do players use to survive encounters with animatronics in the child's bedroom?",
+      "choices": [
+        "Using a camera system to monitor movement",
+        "Closing doors and listening for breathing sounds",
+        "Winding a music box continuously",
+        "Wearing a security guard uniform"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic in Five Nights at Freddy's: Sister Location was specifically designed with the purpose of capturing and harvesting human bodies?",
+      "choices": [
+        "Ennard",
+        "Circus Baby",
+        "Ballora",
+        "Funtime Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Help Wanted, players experience the story through what medium?",
+      "choices": [
+        "A haunted arcade machine",
+        "A virtual reality headset simulation",
+        "A possessed computer terminal",
+        "An old television broadcast"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of William Afton's springlock animatronic disguise that he eventually becomes fused with?",
+      "choices": [
+        "Golden Freddy",
+        "Springtrap",
+        "Nightmare Bonnie",
+        "Withered Chica"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Pizzeria Simulator, the player operates a business that combines pizza restaurant management with what other element?",
+      "choices": [
+        "Animatronic repair services",
+        "Salvage and restoration operations",
+        "Concert venue hosting",
+        "Arcade game distribution"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which daughter of William Afton was killed inside the animatronic Circus Baby?",
+      "choices": [
+        "Clara Afton",
+        "Elizabeth Afton",
+        "Samantha Afton",
+        "Margaret Afton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, what item can the player wear to make animatronics ignore them temporarily?",
+      "choices": [
+        "A security badge",
+        "An empty animatronic head",
+        "A Fazbear Entertainment mask",
+        "A golden bear suit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What real-world entertainment concept inspired the design of Freddy Fazbear's Pizza?",
+      "choices": [
+        "Disneyland theme parks",
+        "Family pizza chains with animatronic entertainment",
+        "Traveling circuses",
+        "Carnival arcade games"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Security Breach, which animatronic actively assists the player character Gregory throughout the Mega Pizzaplex?",
+      "choices": [
+        "Glamrock Chica",
+        "Glamrock Freddy",
+        "Roxanne Wolf",
+        "Montgomery Gator"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the pizzeria founded by Henry Emily and William Afton to serve as a front for darker purposes?",
+      "choices": [
+        "Circus Baby's Pizza World",
+        "Freddy Fazbear's Pizza",
+        "Fazbear's Family Diner",
+        "The Puppet's Theater"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, the abandoned attraction is called what?",
+      "choices": [
+        "Freddy's Haunted House",
+        "Fazbear's Fright: The Horror Attraction",
+        "The Puppet's Revenge",
+        "Afton's Amusement Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What gameplay resource must be carefully managed in the original Five Nights at Freddy's to prevent a complete facility shutdown?",
+      "choices": [
+        "Water supply",
+        "Food inventory",
+        "Power consumption",
+        "Air pressure"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Sister Location, what is the primary setting where the player character works?",
+      "choices": [
+        "A family pizza restaurant",
+        "An underground animatronic facility",
+        "A theme park attraction",
+        "A mobile entertainment venue"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animatronic in Five Nights at Freddy's 4 is associated with pirate-themed imagery and emerges from the closet?",
+      "choices": [
+        "Nightmare Bonnie",
+        "Nightmare Chica",
+        "Nightmare Foxy",
+        "Nightmare Freddy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did the original Five Nights at Freddy's game release on PC?",
+      "choices": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Ultimate Custom Night, players face a selection of animatronics from how many previous games in the series?",
+      "choices": [
+        "Three games",
+        "Four games",
+        "Five games",
+        "Six games"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What animatronic in Five Nights at Freddy's 2 is in a severely damaged state and is therefore referred to as 'Withered' or 'Damaged'?",
+      "choices": [
+        "Only Freddy and Bonnie",
+        "All animatronics except Balloon Boy and The Puppet",
+        "Golden Freddy exclusively",
+        "The entire original animatronic cast"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's: Pizzeria Simulator, Henry Emily's final action involves triggering what to end the haunting?",
+      "choices": [
+        "A facility-wide lockdown",
+        "An incinerator fire to destroy all animatronics and remnants",
+        "A massive explosion",
+        "A power surge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 2, which animatronic requires constant attention to a music box to prevent it from attacking the player?",
+      "choices": [
+        "Balloon Boy",
+        "The Puppet",
+        "Mangle",
+        "Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animatronic that was heavily damaged and reassembled with parts from multiple sources, becoming known as 'The Mangle' in FNaF 2?",
+      "choices": [
+        "Foxy",
+        "Toy Foxy",
+        "Foxy the Pirate",
+        "Circus Baby"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 3, which animatronic returns as the primary threat after being found in the safe room of the original restaurant?",
+      "choices": [
+        "Golden Freddy",
+        "Springtrap",
+        "Nightmare Bonnie",
+        "Ennard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the first game in the Five Nights at Freddy's series, released in 2014?",
+      "choices": [
+        "Freddy Fazbear's Survival",
+        "Five Nights at Freddy's",
+        "Night Guard Protocol",
+        "Fazbear's Defense"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Five Nights at Freddy's 4, which character serves as the main protagonist experiencing nightmares of animatronics?",
+      "choices": [
+        "Michael Afton",
+        "Chris Afton",
+        "William Afton",
+        "Elizabeth Afton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What software engine did Scott Cawthon use to develop the original Five Nights at Freddy's game?",
+      "choices": [
+        "Unity",
+        "Unreal Engine",
+        "Clickteam Fusion 2.5",
+        "GameMaker Studio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Sister Location, which animatronic serves as the primary antagonist and guide throughout the facility?",
+      "choices": [
+        "Ennard",
+        "Circus Baby",
+        "Ballora",
+        "Funtime Foxy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary gameplay mechanic in the original Five Nights at Freddy's?",
+      "choices": [
+        "Combat against animatronics",
+        "Managing power and monitoring security cameras",
+        "Puzzle-solving in dark rooms",
+        "Running away from the facility"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Five Nights at Freddy's game does the player wear an animatronic head to disguise themselves and avoid detection?",
       "choices": [
         "Five Nights at Freddy's",
-        "The Bunny",
-        "Pizza Plaza",
-        "Fazbear's"
+        "Five Nights at Freddy's 2",
+        "Five Nights at Freddy's 3",
+        "Five Nights at Freddy's 4"
       ],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Five Nights at Freddy's",
-        "verified": true,
-        "notes": "Released October 2023; one of the highest-grossing horror films of the year."
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "Which actor played Mike Schmidt in the 2023 'Five Nights at Freddy's' movie?",
-      "choices": ["Josh Hutcherson", "Tom Holland", "Dylan O'Brien", "Finn Wolfhard"],
-      "correct": 0,
-      "category": "Five Nights at Freddy's",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Five Nights at Freddy's",
-        "verified": true,
-        "notes": "Co-starred Matthew Lillard as William Afton."
-      }
+      "q": "What year was the first Five Nights at Freddy's game released?",
+      "choices": [
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

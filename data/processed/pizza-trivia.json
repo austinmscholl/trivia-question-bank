@@ -1,208 +1,1605 @@
 {
   "slug": "pizza-trivia",
   "name": "Pizza",
-  "description": "From Naples to NYC — the history, styles, and trivia of the world's favorite food.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.680Z",
   "questions": [
     {
-      "q": "What is the most popular pizza topping in the U.S.?",
-      "choices": ["Pepperoni", "Mushroom", "Sausage", "Pineapple"],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Pepperoni",
-        "verified": true,
-        "notes": "Featured on ~36% of U.S. pizzas."
-      }
+      "q": "In which Italian city did modern pizza as we know it originate?",
+      "choices": [
+        "Rome",
+        "Milan",
+        "Florence",
+        "Naples"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
     },
     {
-      "q": "Which Italian city is the birthplace of modern pizza?",
-      "choices": ["Rome", "Naples", "Milan", "Florence"],
+      "q": "The classic Margherita pizza features which three topping colors representing Italy's flag?",
+      "choices": [
+        "Red, white, and green (tomato, mozzarella, basil)",
+        "Red, yellow, and green",
+        "White, green, and black",
+        "Red, gold, and white"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which is the most popular pizza topping in the United States?",
+      "choices": [
+        "Pepperoni",
+        "Mushrooms",
+        "Sausage",
+        "Bacon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American city is especially known for a thick-crust, layered-sauce-on-top style pizza?",
+      "choices": [
+        "New York",
+        "Chicago",
+        "Detroit",
+        "Philadelphia"
+      ],
       "correct": 1,
-      "category": "Pizza",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Naples, Italy",
-        "verified": true,
-        "notes": "Pizza Napoletana has UNESCO Intangible Cultural Heritage status (2017)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Italian queen is the Margherita pizza named after?",
+      "q": "Which style of pizza is thin, wide-foldable, and hand-tossed?",
       "choices": [
-        "Queen Margherita of Savoy",
-        "Queen Isabella of Spain",
-        "Queen Maria of Naples",
-        "Queen Elena"
-      ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Queen Margherita",
-        "verified": true,
-        "notes": "Created in 1889 by pizzaiolo Raffaele Esposito; tomato/mozzarella/basil represent the Italian flag."
-      }
-    },
-    {
-      "q": "What three colors of the Italian flag are represented by the toppings on a Margherita pizza?",
-      "choices": [
-        "Red, white, green",
-        "Red, white, yellow",
-        "Green, white, blue",
-        "Red, green, gold"
-      ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Tomato (red), mozzarella (white), basil (green)."
-      }
-    },
-    {
-      "q": "Which is widely considered the first U.S. pizzeria, opened in 1905?",
-      "choices": [
-        "Lombardi's (NYC)",
-        "Patsy's (NYC)",
-        "John's of Bleecker (NYC)",
-        "Pizzeria Uno (Chicago)"
-      ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Lombardi's Pizza",
-        "verified": true,
-        "notes": "Lombardi's Pizza in Manhattan."
-      }
-    },
-    {
-      "q": "Which American city is famous for thick, deep-dish pizza?",
-      "choices": ["Chicago", "Detroit", "New York", "Boston"],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Chicago",
-        "verified": true,
-        "notes": "Pizzeria Uno is credited with inventing it in 1943."
-      }
-    },
-    {
-      "q": "What style of pizza is square-cut, thick-crusted, and made on auto-shop pans?",
-      "choices": [
+        "New York-style",
+        "Chicago deep-dish",
         "Detroit-style",
+        "Sicilian"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pizza has pineapple and ham, and is strongly debated?",
+      "choices": [
+        "Hawaiian pizza",
+        "Polynesian pizza",
+        "Tropical pizza",
+        "Aloha pizza"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Pizza is typically baked in which type of oven in traditional pizzerias?",
+      "choices": [
+        "Charcoal grill",
+        "Wood-fired oven",
+        "Convection oven",
+        "Microwave"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian city is traditionally considered the birthplace of modern pizza?",
+      "choices": [
+        "Rome",
+        "Naples",
+        "Venice",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the three main ingredients in a traditional Margherita pizza?",
+      "choices": [
+        "Tomato, mozzarella, and basil",
+        "Tomato, parmesan, and oregano",
+        "Ricotta, mozzarella, and garlic",
+        "Tomato, cheddar, and basil"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pizza topping combination typically includes ham and pineapple?",
+      "choices": [
+        "Sicilian",
+        "Hawaiian",
+        "Neapolitan",
+        "Diavola"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of pizza is baked in a rectangular pan and known for its crispy, airy crust?",
+      "choices": [
+        "Sicilian",
+        "Detroit-style",
+        "Focaccia",
+        "Thin-crust"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American city is most famous for deep-dish pizza?",
+      "choices": [
+        "New York",
+        "Chicago",
+        "Philadelphia",
+        "Boston"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient used to make pizza dough?",
+      "choices": [
+        "Cornmeal",
+        "Flour",
+        "Baking powder",
+        "Sugar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pizza chain uses the slogan 'Better Ingredients, Better Pizza'?",
+      "choices": [
+        "Domino's",
+        "Papa John's",
+        "Pizza Hut",
+        "Little Caesars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What spicy cured meat is the most commonly ordered pizza topping in the United States?",
+      "choices": [
+        "Sausage",
+        "Bacon",
+        "Pepperoni",
+        "Prosciutto"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Pennsylvania city is there a pizzeria district called the 'pizza capital'?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Old Forge",
+        "Scranton"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cheese is typically used as the primary cheese on traditional Neapolitan pizza?",
+      "choices": [
+        "Parmesan",
+        "Mozzarella",
+        "Pecorino",
+        "Ricotta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What annual event celebrating pizza is held in Las Vegas?",
+      "choices": [
+        "Pizza World Cup",
+        "International Pizza Expo",
+        "Global Pizza Festival",
+        "American Pizza Summit"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which queen of Italy inspired the creation of the Margherita pizza?",
+      "choices": [
+        "Queen Elena",
+        "Queen Margherita",
+        "Queen Vittoria",
+        "Queen Consort"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary sauce used in traditional Detroit-style pizza?",
+      "choices": [
+        "Pesto",
+        "Crushed tomatoes",
+        "Cream sauce",
+        "Garlic oil"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How did pizza become popular in the United States?",
+      "choices": [
+        "Through French chefs",
+        "Through Italian immigrants",
+        "Through Spanish colonists",
+        "Through British traders"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which global pizza chain began its operations in Kansas during 1958?",
+      "choices": [
+        "Domino's",
+        "Pizza Hut",
+        "Papa John's",
+        "Little Caesars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the spicy Italian pizza topped with salami?",
+      "choices": [
+        "Marinara",
+        "Diavola",
+        "Quattro Formaggi",
+        "Caprese"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century was the word 'pizza' first documented in writing?",
+      "choices": [
+        "10th century",
+        "12th century",
+        "15th century",
+        "17th century"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. city is known for serving oversized pizza slices as a late-night food?",
+      "choices": [
+        "Chicago",
+        "New York",
+        "Washington, D.C.",
+        "Philadelphia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical shape of a New York-style pizza slice?",
+      "choices": [
+        "Square",
+        "Rectangular",
+        "Triangular",
+        "Circular"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Argentine pizza variety features provolone cheese as a key ingredient?",
+      "choices": [
+        "Fugazzeta",
+        "Portena",
+        "Criolla",
+        "Milanesa"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian pizza was created to honor the colors of Italy's flag?",
+      "choices": [
+        "Quattro Formaggi",
+        "Margherita",
+        "Marinara",
+        "Carbonara"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of cheese is traditionally used as the base cheese on pizza?",
+      "choices": [
+        "Parmesan",
+        "Mozzarella",
+        "Ricotta",
+        "Pecorino"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which American city is the famous pizzeria Lombardi's located?",
+      "choices": [
+        "Chicago",
+        "New York City",
+        "New Haven",
+        "Boston"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the outer crust edge of a pizza called?",
+      "choices": [
+        "Cornicione",
+        "Focaccia",
+        "Crosta",
+        "Crust rim"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which day of the week sees the highest pizza delivery orders in America?",
+      "choices": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What fermented sausage topping is commonly found on pizza?",
+      "choices": [
+        "Pepperoni",
+        "Salami",
+        "Prosciutto",
+        "Pancetta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which South American city is known for pizza a la piedra with rectangular crusts?",
+      "choices": [
+        "Buenos Aires",
+        "Montevideo",
+        "Santiago",
+        "Lima"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient gives most pizza sauce its characteristic red color?",
+      "choices": [
+        "Paprika",
+        "Red pepper",
+        "Tomato",
+        "Beet juice"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pizza variety features four different types of cheese?",
+      "choices": [
+        "Quattro Formaggi",
+        "Triple Cheese",
+        "Formaggi Misti",
+        "Cheese Supreme"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How did pizza first become known to Americans?",
+      "choices": [
+        "Through television",
+        "Through Italian immigrants",
+        "Through cookbooks",
+        "Through restaurants in the 1950s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient used in pizza crusts with a cheese-filled edge?",
+      "choices": [
+        "Parmesan",
+        "Mozzarella",
+        "Cheddar",
+        "Asiago"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pizza style includes no cheese and features garlic and tomato sauce?",
+      "choices": [
+        "Pizza Rossa",
+        "Pizza Marinara",
+        "Pizza Bianca",
+        "Pizza Aglio"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What common beverage is frequently ordered alongside pizza in American takeout?",
+      "choices": [
+        "Beer",
+        "Water",
+        "Soda",
+        "Juice"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which museum claims to be the world's first pizza museum?",
+      "choices": [
+        "Naples Pizza Museum",
+        "Pizza Brain Museum",
+        "Italian Food Museum",
+        "Rome Pizza Heritage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary origin of the word 'pizza' in Italian?",
+      "choices": [
+        "A type of bread",
+        "A pie or flatbread",
+        "A cooking method",
+        "A regional dialect"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toppings are typically found on a pizza called 'Meat Feast'?",
+      "choices": [
+        "Bacon, ham, and sausage",
+        "Beef, lamb, and pork",
+        "Chicken, bacon, and ham",
+        "Sausage, beef, and pepperoni"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient is commonly layered in deep-dish pizza sauce?",
+      "choices": [
+        "Whole tomatoes",
+        "Crushed tomatoes",
+        "Tomato paste",
+        "Fresh tomato puree"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which state was Papa's Tomato Pies pizzeria originally founded?",
+      "choices": [
+        "New York",
+        "New Jersey",
+        "Pennsylvania",
+        "Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American pizza chain is known for offering customizable pizzas?",
+      "choices": [
+        "Domino's",
+        "MOD Pizza",
+        "Pizza Hut",
+        "Little Caesars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what country did modern pizza as we know it today originate?",
+      "choices": [
+        "Sicily, Italy",
+        "Naples, Italy",
+        "Rome, Italy",
+        "Venice, Italy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient that gives traditional pizza sauce its red color?",
+      "choices": [
+        "Red peppers",
+        "Tomato sauce",
+        "Red food coloring",
+        "Paprika"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pizza variety was created to honor the colors of the Italian flag?",
+      "choices": [
+        "Quattro Formaggi",
+        "Margherita",
+        "Carbonara",
+        "Amatriciana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many slices does a standard large pizza typically contain?",
+      "choices": [
+        "6 slices",
+        "8 slices",
+        "10 slices",
+        "12 slices"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American city is most famous for its deep-dish pizza style?",
+      "choices": [
+        "New York",
+        "Chicago",
+        "Detroit",
+        "Philadelphia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main grain-based ingredient used to make pizza dough?",
+      "choices": [
+        "Cornmeal",
+        "Flour",
+        "Rice",
+        "Oats"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is known for serving pizza topped with pineapple and banana?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Iceland",
+        "Norway"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of cheese is most commonly used as the primary topping on pizza?",
+      "choices": [
+        "Cheddar",
+        "Mozzarella",
+        "Parmesan",
+        "Feta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Detroit-style pizza is traditionally baked in what kind of pan?",
+      "choices": [
+        "Round pan",
+        "Triangular pan",
+        "Rectangular sheet pan",
+        "Cast iron skillet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which spicy Italian pizza gets its name from the Italian word for 'devil'?",
+      "choices": [
+        "Inferno",
+        "Diavola",
+        "Piccante",
+        "Fuoco"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major historical event brought Italian immigrants and pizza culture to the United States?",
+      "choices": [
+        "World War I",
+        "World War II",
+        "The Great Depression",
+        "The Industrial Revolution"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the word 'pizza' first documented in written records?",
+      "choices": [
+        "1245 AD",
+        "997 AD",
+        "1500 AD",
+        "1800 AD"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of meat is traditionally used to make the topping for a pizza Diavola?",
+      "choices": [
+        "Ground beef",
+        "Spicy salami",
+        "Prosciutto",
+        "Pancetta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the pizza museum located in Philadelphia?",
+      "choices": [
+        "The Pizza Hall",
+        "Pizza Brain Museum",
+        "American Pizza Institute",
+        "The Slice Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. pizza chain was founded in Michigan and has expanded to operate globally?",
+      "choices": [
+        "Domino's",
+        "Little Caesars",
+        "Papa John's",
+        "Marco's Pizza"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which New Jersey city is famous for its square-cut tomato pie style pizzerias?",
+      "choices": [
+        "Newark",
+        "Trenton",
+        "Jersey City",
+        "Atlantic City"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Pennsylvania city earned the nickname 'Pizza Capital' and is known for Old Forge pizza?",
+      "choices": [
+        "Pittsburgh",
+        "Philadelphia",
+        "Old Forge",
+        "Allentown"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient is typically placed on top of the sauce but underneath other toppings on a pizza?",
+      "choices": [
+        "Vegetables",
+        "Herbs",
+        "Cheese",
+        "Meat"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fermented meat is commonly used as a pizza topping?",
+      "choices": [
+        "Bacon",
+        "Salami",
+        "Ham",
+        "Pepperoni"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of pizza features ground beef, onions, and barbecue sauce as primary toppings?",
+      "choices": [
+        "Texas BBQ Pizza",
+        "Barbecue Chicken Pizza",
+        "Barbecue pizza",
+        "Smokehouse Pizza"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what month is National Pizza Month officially celebrated in the United States?",
+      "choices": [
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian pizza was created to represent the colors of Italy's flag with red tomato, white mozzarella, and green basil?",
+      "choices": [
+        "Quattro Formaggi",
+        "Pizza Bianca",
+        "Margherita",
+        "Sicilian"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient used to make pizza dough?",
+      "choices": [
+        "Cornmeal",
+        "Flour",
+        "Yeast",
+        "Olive oil"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1889 event most famously documents the creation of the Margherita pizza?",
+      "choices": [
+        "Queen Margherita's visit to Naples",
+        "King Umberto I's wedding",
+        "The Rome Expo",
+        "A Vatican state dinner"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which San Francisco-born chef created the California-style pizza with unconventional toppings like BBQ chicken?",
+      "choices": [
+        "Alice Waters",
+        "Ed LaDou",
+        "Wolfgang Puck",
+        "Jonathan Waxman"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What temperature do authentic Neapolitan pizza ovens typically reach?",
+      "choices": [
+        "Around 250°C (480°F)",
+        "Around 350°C (660°F)",
+        "Around 485°C (905°F)",
+        "Around 600°C (1,110°F)"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What Roman-style, by-the-weight, rectangular pizza is known as 'pizza al taglio'?",
+      "choices": [
+        "Pan-fried pizza",
+        "Pizza sold by weight/cut",
+        "Deep-fried pizza",
+        "Stuffed pizza"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Gennaro Lombardi open the first pizzeria in the United States, located in New York City?",
+      "choices": [
+        "1905",
+        "1912",
+        "1920",
+        "1898"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pizza style, originating in Naples, is characterized by a soft, airy crust with a slightly charred bottom and typically topped with minimal ingredients?",
+      "choices": [
         "Sicilian",
         "Neapolitan",
-        "Roman"
+        "Romana",
+        "Focaccia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional name for the Italian pizza oven, typically dome-shaped and wood-fired, originating in Naples?",
+      "choices": [
+        "Fornace",
+        "Forno",
+        "Cupola",
+        "Travertino"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Neapolitan pizza tradition, which three ingredients comprise the classic 'Margherita' pizza in honor of Queen Margherita of Savoy?",
+      "choices": [
+        "Basil, mozzarella, and tomato",
+        "Oregano, pecorino, and garlic",
+        "Basil, parmesan, and olive oil",
+        "Mozzarella, anchovy, and oregano"
       ],
       "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Buddy's Rendezvous in Detroit invented it in 1946 using auto-parts trays."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What is the Italian word for the folded pizza turnover?",
-      "choices": ["Calzone", "Stromboli", "Panzerotto", "Focaccia"],
+      "q": "Which American pizza chain, founded in 1960 in Ypsilanti, Michigan, is credited with pioneering the 'thick crust' pan pizza style?",
+      "choices": [
+        "Domino's",
+        "Papa John's",
+        "Little Caesars",
+        "Jet's Pizza"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional thickness of a Sicilian pizza crust, which distinguishes it from other regional Italian styles?",
+      "choices": [
+        "Less than 1/4 inch",
+        "1/4 to 1/2 inch",
+        "1 to 1.5 inches",
+        "Over 2 inches"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1987, which Chicago-based pizzeria was recognized as the originator of the modern deep-dish pizza format?",
+      "choices": [
+        "Pequod's",
+        "Pizzeria Uno",
+        "Al Taglio",
+        "Rosalita's"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the defining characteristic of 'pizza al taglio,' a pizza style popular in Rome and Northern Italy?",
+      "choices": [
+        "It is topped with seafood exclusively",
+        "It is sold by weight from a rectangular sheet",
+        "It is baked in a traditional wood-fired oven",
+        "It features a thick, focaccia-like crust"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ingredient is traditionally used to create the 'leopard spotting' effect on authentic Neapolitan pizza crusts?",
+      "choices": [
+        "High-temperature wood-fired oven heat",
+        "Garlic-infused oil spray",
+        "Cornmeal dusting",
+        "Caramelized sugar coating"
+      ],
       "correct": 0,
-      "category": "Pizza",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Calzone",
-        "verified": true,
-        "notes": "Italian for 'trouser leg.'"
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which classic Italian pizza is topped only with tomato, garlic, oregano, and olive oil — NO cheese?",
+      "q": "What is the minimum fermentation time required for traditional Neapolitan pizza dough according to the Associazione Verace Pizza Napoletana standards?",
+      "choices": [
+        "8 hours",
+        "24 hours",
+        "48 hours",
+        "72 hours"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Italian region did 'Pizza al Taglio' originate as a working-class food sold from street vendors?",
+      "choices": [
+        "Campania",
+        "Lazio",
+        "Lombardy",
+        "Piedmont"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific type of mozzarella cheese is designated for use in authentic Neapolitan pizza by the AVPN organization?",
+      "choices": [
+        "Mozzarella di Bufala or Fior di Latte",
+        "Low-moisture mozzarella",
+        "Smoked mozzarella",
+        "Shredded mozzarella blend"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Detroit-style pizza chain, founded in 1946, is credited with popularizing rectangular Sicilian-influenced pizza in the Midwest?",
+      "choices": [
+        "Jet's Pizza",
+        "Buddy's",
+        "Loui's Pizza",
+        "Shields Pizza"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is 'pala,' the traditional wooden tool used in Neapolitan pizza preparation?",
+      "choices": [
+        "A rolling pin for flattening dough",
+        "A shovel-like paddle for moving pizza in and out of the oven",
+        "A scraper for removing toppings",
+        "A spreader for sauce application"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In New Haven, Connecticut, which historic pizzeria, established in 1926, is famous for its coal-fired 'apizza' with a crispy, char-spotted crust?",
+      "choices": [
+        "Frank Pepe Pizzeria Napoletana",
+        "Modern Apizza",
+        "Sally's Apizza",
+        "Zuppardi's Apizza"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum oven temperature required for certified authentic Neapolitan pizza according to AVPN standards?",
+      "choices": [
+        "850°F",
+        "900°F",
+        "950°F",
+        "1000°F"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Mediterranean herb, forbidden in some authentic Neapolitan pizza recipes, is sometimes controversially added to traditional pizza sauce?",
+      "choices": [
+        "Thyme",
+        "Oregano",
+        "Rosemary",
+        "Sage"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of pizza baking, what does 'cornicione' refer to?",
+      "choices": [
+        "The outer crust rim without toppings",
+        "The sauce layer beneath the cheese",
+        "The wooden peel used by bakers",
+        "The bottom crispy layer of the crust"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American pizza restaurant, opened in 1957 in Colorado, pioneered the concept of customizable 'create your own' pizza ordering?",
+      "choices": [
+        "Blaze Pizza",
+        "The Pizza Kitchen",
+        "Straw Hat Pizza",
+        "Smashburger"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage of water is typically incorporated into traditional Neapolitan pizza dough as a standard ratio?",
+      "choices": [
+        "45-50%",
+        "55-65%",
+        "70-75%",
+        "80-85%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region is officially recognized by the European Union as the origin of authentic pizza production standards?",
+      "choices": [
+        "Lazio",
+        "Campania",
+        "Tuscany",
+        "Piedmont"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the specific name for the traditional Neapolitan pizza oven that reaches temperatures exceeding 900 degrees Fahrenheit?",
+      "choices": [
+        "Forno di Legna",
+        "Fornace Italiana",
+        "Forno a Legna",
+        "Forno Classico"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Detroit-style rectangular pizza, also known as Sicilian pizza in some regions, traditionally features what ingredient on its edges?",
+      "choices": [
+        "Caramelized garlic",
+        "Crispy rendered pork fat",
+        "Herb-infused olive oil",
+        "Parmesan crust"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pizza topping, banned from traditional Neapolitan pizza by the Associazione Verace Pizza Napoletana, is controversial in pizza purist circles?",
+      "choices": [
+        "Pineapple",
+        "Oregano",
+        "Garlic",
+        "Red pepper flakes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the fermentation process in pizza dough that develops flavor over 24-72 hours?",
+      "choices": [
+        "Proofing",
+        "Cold fermentation",
+        "Bulk fermentation",
+        "Autolyse"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Margherita pizza's three toppings represent the colors of which nation's flag?",
+      "choices": [
+        "France",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum water hydration percentage recommended by traditional Neapolitan pizza makers for authentic pizza dough?",
+      "choices": [
+        "55%",
+        "65%",
+        "75%",
+        "85%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American pizza chain filed for bankruptcy in 2014, despite being the second-largest pizza chain at its peak?",
+      "choices": [
+        "Domino's",
+        "Papa John's",
+        "Pizza Hut",
+        "Little Caesars"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Sfincione' is the traditional pizza of which Italian island?",
+      "choices": [
+        "Sardinia",
+        "Sicily",
+        "Corsica",
+        "Malta"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the standard diameter in centimeters of a true Neapolitan pizza as defined by the AVPN?",
+      "choices": [
+        "25-30 cm",
+        "30-35 cm",
+        "35-40 cm",
+        "40-45 cm"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which enzyme naturally present in pizza dough breaks down gluten and improves extensibility during fermentation?",
+      "choices": [
+        "Amylase",
+        "Protease",
+        "Lipase",
+        "Cellulase"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The world's most expensive pizza, 'Louis XIII,' created by chef Renato Viola, is topped with which rare and expensive ingredient?",
+      "choices": [
+        "White truffle",
+        "Saffron",
+        "24-karat gold leaf",
+        "Beluga caviar"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Neapolitan pizza receive UNESCO recognition as an intangible cultural heritage of humanity?",
+      "choices": [
+        "2015",
+        "2017",
+        "2019",
+        "2021"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Brazilian city is credited with creating 'Pizza à Portuguesa,' which includes green peas and hard-boiled eggs?",
+      "choices": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the thin, crispy Roman pizza style that is typically cut into rectangular pieces and sold by weight?",
+      "choices": [
+        "Pizza Romana",
+        "Pizza al Taglio",
+        "Pinsa Romana",
+        "Pizza Bianca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ingredient is traditionally added to mozzarella on Neapolitan pizza to enhance browning in the high-temperature oven?",
+      "choices": [
+        "Cornstarch",
+        "Yeast",
+        "Sea salt",
+        "Olive oil"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Pinsa Romana,' a modern Roman pizza style, claims to derive its name from the Latin word meaning what?",
+      "choices": [
+        "Stretch",
+        "Flatten",
+        "Pinch",
+        "Extend"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Neapolitan pizza-making, what is the maximum baking time at 900°F before the pizza is considered overdone?",
+      "choices": [
+        "45-60 seconds",
+        "60-90 seconds",
+        "90-120 seconds",
+        "120-180 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American pizza chain pioneered the use of a tracking system allowing customers to watch their pizza's preparation progress online?",
+      "choices": [
+        "Papa John's",
+        "Domino's",
+        "Pizza Hut",
+        "Little Caesars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the word 'pizza' first documented in written form?",
+      "choices": [
+        "997 AD",
+        "1456 AD",
+        "1734 AD",
+        "1843 AD"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region's pizza style is characterized by a thick, airy crust and rectangular shape?",
+      "choices": [
+        "Campania",
+        "Sicily",
+        "Liguria",
+        "Piedmont"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pizza Marinara traditionally excludes which ingredient that is present in most other pizza varieties?",
+      "choices": [
+        "Yeast",
+        "Cheese",
+        "Garlic",
+        "Olive oil"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "St. Louis-style pizza is distinguished by its use of which type of cheese instead of mozzarella?",
+      "choices": [
+        "Provolone",
+        "Gorgonzola",
+        "Provel",
+        "Pecorino"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Detroit pizzeria, founded in 1946, is credited with popularizing the rectangular Sicilian-influenced style in America?",
+      "choices": [
+        "Buddy's Pizza",
+        "Shiloh Baptist Church Kitchen",
+        "Lombardi's",
+        "Pepe's Pizza"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pizza Bianca, also known as 'white pizza,' typically replaces tomato sauce with which ingredient?",
+      "choices": [
+        "Béchamel sauce",
+        "Ricotta and garlic",
+        "Pesto",
+        "Cream cheese"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Neapolitan pizza-making tradition, what is the maximum oven temperature typically used?",
+      "choices": [
+        "700°F",
+        "900°F",
+        "1100°F",
+        "1300°F"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. chain, founded in Michigan in 1959, introduced the 'Pizza by Alfredo' franchise model?",
+      "choices": [
+        "Domino's",
+        "Little Caesars",
+        "Pizza Hut",
+        "Papa John's"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary curing agent used in the production of pepperoni as a pizza topping?",
+      "choices": [
+        "Vinegar",
+        "Sodium nitrite",
+        "Soy sauce",
+        "Worcestershire sauce"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Italy, what is a 'focaccia al taglio' style pizza commonly called when sold by weight?",
+      "choices": [
+        "Pissaladière",
+        "Pinsa romana",
+        "Al taglio",
+        "Schiacciata"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which prestigious pizzeria, established in 1830, holds the distinction of being the oldest continuously operating pizza restaurant in Naples?",
+      "choices": [
+        "L'Antica Pizzeria da Michele",
+        "Pizzeria Bianco",
+        "Gino Sorbillo",
+        "Pizzeria Beddia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What fermentation time is traditionally considered optimal for authentic Neapolitan pizza dough?",
+      "choices": [
+        "2-4 hours",
+        "8-12 hours",
+        "24-72 hours",
+        "5-7 days"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ingredient distinguishes 'Pizza al Taglio Romana' from Neapolitan pizza by being incorporated into the dough?",
+      "choices": [
+        "Cornmeal",
+        "Olive oil",
+        "Potato starch",
+        "Semolina flour"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1997, which frozen pizza brand became the first to introduce a 'rising crust' technology?",
+      "choices": [
+        "Tombstone",
+        "DiGiorno",
+        "Totino's",
+        "Red Baron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional name for a Sicilian pizza roll that is baked rather than fried?",
+      "choices": [
+        "Arancini",
+        "Calzone",
+        "Stromboli",
+        "Sfincione"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which New Haven, Connecticut pizzeria is famous for its 'apizza' spelling and coal-fired brick oven?",
+      "choices": [
+        "Modern Apizza",
+        "Sally's Apizza",
+        "Pepe's Pizza",
+        "Zuppardi's"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'Louis XIII Pizza' became known as the world's most expensive pizza at approximately what price point?",
+      "choices": [
+        "$1,000",
+        "$5,000",
+        "$12,000",
+        "$50,000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian city's pizza tradition is characterized by the use of San Marzano tomatoes and specific Protected Designation of Origin status?",
+      "choices": [
+        "Rome",
+        "Naples",
+        "Venice",
+        "Florence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What water temperature is considered ideal for activating yeast in traditional pizza dough preparation?",
+      "choices": [
+        "85-90°F",
+        "110-115°F",
+        "140-150°F",
+        "160-170°F"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Raffaele Esposito of Pizzeria Brandi create the Pizza Margherita to honor the visiting Queen Margherita of Savoy?",
+      "choices": [
+        "1861",
+        "1889",
+        "1905",
+        "1923"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pizza style, originating from St. Louis, Missouri, is characterized by its use of Provel cheese and a thin, crispy, cracker-like crust?",
+      "choices": [
+        "Sicilian Pizza",
+        "St. Louis-style Pizza",
+        "Detroit-style Pizza",
+        "Grandma Pizza"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the classic Neapolitan pizza that features four distinct sections, each topped with different seasonal ingredients, created to represent spring, summer, autumn, and winter?",
+      "choices": [
+        "Pizza Quattro Formaggi",
+        "Pizza Quattro Stagioni",
+        "Pizza alle Quattro Verdure",
+        "Pizza Stagionale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American pizza chain, founded in 1960 in Ypsilanti, Michigan, pioneered the concept of selling pizzas by the slice and became known for its 'Hot-N-Ready' model?",
+      "choices": [
+        "Domino's Pizza",
+        "Little Caesars",
+        "Pizza Hut",
+        "Papa John's"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Louis XIII Pizza, one of the world's most expensive pizzas, is topped with which rare and costly ingredients among others?",
+      "choices": [
+        "Edible gold leaf and white truffles",
+        "Beluga caviar and lobster",
+        "Saffron and edible pearls",
+        "Matsutake mushrooms and foie gras"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the distinguishing characteristic of Pizza Marinara, a traditional Neapolitan pizza?",
+      "choices": [
+        "It includes anchovies and capers as primary toppings",
+        "It contains no cheese and uses only tomato sauce and garlic",
+        "It features seafood as its main topping",
+        "It uses a white sauce base instead of tomato sauce"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Detroit-style pizza, which gained popularity in the early 20th century, is typically baked in what type of vessel that gives it its characteristic rectangular shape?",
+      "choices": [
+        "A ceramic round pan",
+        "A cast-iron skillet",
+        "A rectangular steel automotive parts pan",
+        "A wood-fired brick oven"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which New York pizzeria, opened in 1905, is often cited as America's first?",
+      "choices": [
+        "Lombardi's",
+        "John's of Bleecker Street",
+        "Di Fara",
+        "Totonno's"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Naples-born pizza has just tomato sauce, oregano, garlic, and oil — no cheese?",
       "choices": [
         "Marinara",
         "Margherita",
-        "Bianca",
-        "Diavola"
+        "Calabrese",
+        "Siciliana"
       ],
       "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pizza Marinara",
-        "verified": true,
-        "notes": "Despite the name, contains no seafood — 'marinara' refers to seafarers."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which Italian pizza has four 'seasons' represented in each quarter (artichokes, ham, olives, mushrooms)?",
+      "q": "The 'Margherita' pizza was named for which queen, on her visit to Naples in 1889?",
       "choices": [
-        "Quattro Stagioni",
-        "Quattro Formaggi",
-        "Capricciosa",
-        "Pizza Margherita"
+        "Queen Victoria",
+        "Queen Margherita of Savoy",
+        "Queen Isabella",
+        "Queen Elena"
       ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Quattro Stagioni",
-        "verified": true,
-        "notes": "Spring (artichokes), Summer (basil + tomato), Autumn (mushrooms), Winter (ham)."
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "What is 'Quattro Formaggi' pizza topped with?",
+      "q": "Which pizza features a folded half-moon shape, like a pocket stuffed with fillings?",
       "choices": [
-        "Four cheeses",
-        "Four meats",
-        "Four vegetables",
-        "Four sauces"
+        "Calzone",
+        "Stromboli",
+        "Panzerotti",
+        "All of the above are folded"
       ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Typically mozzarella, gorgonzola, parmesan, and another (e.g. fontina)."
-      }
+      "correct": 3,
+      "difficulty": "medium"
     },
     {
-      "q": "Which controversial topping was created in Canada in 1962?",
+      "q": "In traditional Italian pizzerias, which flour is prized for its elasticity?",
       "choices": [
-        "Hawaiian (pineapple + ham)",
-        "BBQ chicken",
-        "Buffalo chicken",
-        "Pesto"
+        "All-purpose flour",
+        "Tipo 00 flour",
+        "Bread flour",
+        "Whole wheat"
       ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Hawaiian pizza",
-        "verified": true,
-        "notes": "Created by Sam Panopoulos at Satellite Restaurant in Chatham, Ontario."
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "What month is U.S. National Pizza Month?",
-      "choices": ["February", "April", "October", "November"],
+      "q": "Which cheese is traditional on an authentic Neapolitan pizza?",
+      "choices": [
+        "Parmesan",
+        "Cheddar",
+        "Fresh mozzarella (mozzarella di bufala or fior di latte)",
+        "Gouda"
+      ],
       "correct": 2,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "October",
-        "verified": true,
-        "notes": "Established by Gerry Durnell in 1984."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which pizza chain is the largest in the world by revenue?",
+      "q": "In 2017, UNESCO added which pizza-making tradition to its Intangible Cultural Heritage list?",
+      "choices": [
+        "Roman pizza-making",
+        "Neapolitan pizzaiuolo tradition",
+        "Sicilian pizza-making",
+        "New York pizza-making"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American pizza chain, founded in 1958, is the world's largest by revenue?",
       "choices": [
         "Pizza Hut",
         "Domino's",
@@ -210,110 +1607,689 @@
         "Little Caesars"
       ],
       "correct": 1,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Domino's surpassed Pizza Hut in 2017."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Where was Pizza Hut founded in 1958?",
+      "q": "What is the name of the square, thick-crust Sicilian pizza often baked in sheet pans?",
       "choices": [
-        "Wichita, Kansas",
-        "Detroit, Michigan",
-        "Chicago, Illinois",
-        "Naples, Italy"
+        "Sfincione",
+        "Focaccia",
+        "Piadina",
+        "Tonda"
       ],
       "correct": 0,
-      "category": "Pizza",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Founded by brothers Dan and Frank Carney."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Where was Domino's Pizza founded in 1960?",
+      "q": "Which month has been designated National Pizza Month in the U.S.?",
       "choices": [
-        "Ypsilanti, Michigan",
-        "Naples, Italy",
-        "Brooklyn, NY",
-        "Indianapolis, Indiana"
+        "July",
+        "August",
+        "October",
+        "December"
       ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Founded by Tom Monaghan as 'DomiNick's'."
-      }
-    },
-    {
-      "q": "What is the Italian-American 'pizza pie' style with a thin, flexible crust folded for eating?",
-      "choices": [
-        "New York-style",
-        "Roman-style",
-        "Neapolitan",
-        "St. Louis-style"
-      ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Large slices folded for eating on the go."
-      }
-    },
-    {
-      "q": "Approximately how many slices of pizza are eaten per second in the United States?",
-      "choices": ["10", "100", "350", "1,000"],
       "correct": 2,
-      "category": "Pizza",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "About 350 slices per second / 3 billion pizzas per year in the U.S."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which St. Louis pizza style is famous for its cracker-thin crust and Provel cheese?",
+      "q": "What is the name of a Detroit-style pizza's defining characteristic?",
       "choices": [
-        "St. Louis-style",
-        "Detroit-style",
-        "Trenton-style",
-        "California-style"
+        "Thin floppy slices",
+        "A square shape with caramelized cheese on the edges, baked in a steel pan",
+        "A hand-tossed round crust",
+        "Tomato sauce poured on top after baking"
       ],
-      "correct": 0,
-      "category": "Pizza",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Provel is a processed cheese blend used almost exclusively on St. Louis pizza."
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "Which California chef popularized California-style pizza in the 1980s?",
+      "q": "In what year did the word 'pizza' first appear in written historical records?",
       "choices": [
-        "Wolfgang Puck",
-        "Alice Waters",
-        "Thomas Keller",
-        "Julia Child"
+        "997 AD",
+        "1492 AD",
+        "1623 AD",
+        "1776 AD"
       ],
       "correct": 0,
-      "category": "Pizza",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pizza",
-        "verified": true,
-        "notes": "Wolfgang Puck's Spago in 1982. Ed LaDou is also credited."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian city is credited as the birthplace of the Margherita pizza style?",
+      "choices": [
+        "Venice",
+        "Naples",
+        "Rome",
+        "Florence"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that distinguishes Pizza Bianca from traditional tomato-based pizzas?",
+      "choices": [
+        "Pesto sauce",
+        "Cream and cheese base",
+        "Olive oil and garlic",
+        "White wine reduction"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to U.S. consumption statistics, how many pizza slices are consumed every second in America?",
+      "choices": [
+        "150 slices",
+        "250 slices",
+        "350 slices",
+        "500 slices"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American city is recognized for its distinctive rectangular deep-dish pizza style?",
+      "choices": [
+        "New York",
+        "Chicago",
+        "Detroit",
+        "Philadelphia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What spicy Italian salami is the defining topping of Pizza Diavola?",
+      "choices": [
+        "Pancetta",
+        "Peperoni",
+        "Pepperoncini",
+        "Prosciutto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state is home to Old Forge, a town known as the 'pizza capital'?",
+      "choices": [
+        "New Jersey",
+        "Pennsylvania",
+        "New York",
+        "Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what U.S. city can you find 'jumbo slices' that are particularly popular for late-night eating?",
+      "choices": [
+        "Boston",
+        "Washington, D.C.",
+        "Miami",
+        "San Francisco"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What historical event significantly increased Italian immigration to the United States, bringing pizza culture with them?",
+      "choices": [
+        "World War I",
+        "The Great Depression",
+        "World War II",
+        "The Italian Unification"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pizza chain adopted the slogan 'Better Ingredients, Better Pizza' as its marketing motto?",
+      "choices": [
+        "Domino's",
+        "Papa John's",
+        "Pizza Hut",
+        "Little Caesars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Lombardi's Pizza, considered America's first pizzeria, open in New York?",
+      "choices": [
+        "1895",
+        "1905",
+        "1915",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state has become a major hub for frozen pizza manufacturing and production?",
+      "choices": [
+        "Minnesota",
+        "Wisconsin",
+        "Iowa",
+        "Illinois"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional three-ingredient topping combination found on a classic Margherita pizza?",
+      "choices": [
+        "Mozzarella, pepperoni, oregano",
+        "Tomato, mozzarella, basil",
+        "Ricotta, garlic, parmesan",
+        "Anchovies, olives, capers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which New Jersey city did Papa's Tomato Pies, famous for its rectangular pizza, originate?",
+      "choices": [
+        "Newark",
+        "Jersey City",
+        "Trenton",
+        "Atlantic City"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which day of the week sees the highest volume of pizza orders for delivery across the United States?",
+      "choices": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What controversial tropical topping became popular on pizza despite traditional Italian objections?",
+      "choices": [
+        "Coconut",
+        "Mango",
+        "Pineapple",
+        "Papaya"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pizza chain began operations in Wichita, Kansas in 1958 and became a global giant?",
+      "choices": [
+        "Domino's",
+        "Pizza Hut",
+        "Papa John's",
+        "Little Caesars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What folded pizza style features toppings applied to only half the crust before folding?",
+      "choices": [
+        "Calzone",
+        "Stromboli",
+        "Focaccia",
+        "Pissaladière"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. city boasts over 1,500 pizza restaurants, more than any other American city?",
+      "choices": [
+        "Chicago",
+        "Los Angeles",
+        "New York",
+        "Boston"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary base ingredient used in making traditional pizza dough?",
+      "choices": [
+        "Cornmeal",
+        "Flour",
+        "Semolina",
+        "Polenta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the word 'pizza' first documented in historical records?",
+      "choices": [
+        "1247 AD",
+        "997 AD",
+        "1456 AD",
+        "1623 AD"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian tomato variety is traditionally considered the gold standard for authentic Neapolitan pizza sauce?",
+      "choices": [
+        "Roma tomatoes",
+        "San Marzano tomatoes",
+        "Beefsteak tomatoes",
+        "Cherry tomatoes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Detroit-style pizza is traditionally baked on what type of cooking vessel?",
+      "choices": [
+        "Round cast iron skillet",
+        "Rectangular steel sheet pan",
+        "Wood-fired brick oven",
+        "Convection oven rack"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American state is home to Old Forge, widely recognized as the pizza capital of the United States?",
+      "choices": [
+        "New York",
+        "Pennsylvania",
+        "New Jersey",
+        "Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pizza Brain Museum, dedicated to pizza history and culture, is located in which U.S. city?",
+      "choices": [
+        "New York City",
+        "Philadelphia",
+        "Chicago",
+        "New Haven"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the defining characteristic that distinguishes St. Louis-style pizza from other American regional styles?",
+      "choices": [
+        "Deep-dish rectangular shape",
+        "Thin, crispy crust with Provel cheese",
+        "Thick, fluffy pan crust",
+        "Wood-fired oven preparation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Italian cuisine, what is a calzone most accurately described as?",
+      "choices": [
+        "A thin-crust pizza with minimal toppings",
+        "A folded pizza turnover typically filled with cheese and meat",
+        "A rectangular pizza cut into squares",
+        "A flatbread served as a pizza appetizer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spicy pizza variety features prominently spicy salami as its signature topping?",
+      "choices": [
+        "Quattro Formaggi",
+        "Pizza Diavola",
+        "Pizza Marinara",
+        "Capricciosa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pizza Marinara, a traditional Neapolitan style, is notable for deliberately excluding which ingredient that most pizzas contain?",
+      "choices": [
+        "Tomato sauce",
+        "Basil",
+        "Cheese",
+        "Garlic"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state consistently ranks as the highest in overall pizza sales by revenue?",
+      "choices": [
+        "California",
+        "Illinois",
+        "New York",
+        "Texas"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Wisconsin is particularly known for being home to numerous factories producing which pizza product?",
+      "choices": [
+        "Fresh mozzarella cheese",
+        "Frozen pizza brands",
+        "Pizza sauce concentrate",
+        "Pizza dough"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Argentina, 'fugazzeta' pizza is characteristically topped with which cheese variety?",
+      "choices": [
+        "Mozzarella",
+        "Provolone",
+        "Ricotta",
+        "Gorgonzola"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard size approximation for a 'large' pizza in most U.S. pizza takeout establishments?",
+      "choices": [
+        "12 inches",
+        "14 inches",
+        "16 inches",
+        "18 inches"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which frozen pizza product, popularized in the 1950s, shares its name with a restaurant chain known for rectangular pizzas?",
+      "choices": [
+        "Celentano's Rolls",
+        "Totino's Pizza Rolls",
+        "DiGiorno Bites",
+        "Red Baron Squares"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the context of traditional pizza preparation, at what stage of the cooking process is cheese typically applied?",
+      "choices": [
+        "Before any other toppings",
+        "After all toppings but before baking",
+        "Halfway through the baking time",
+        "Only after the pizza is removed from the oven"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pizza topping, made from fermented cured meat, is a staple of Italian pizza but requires careful sourcing for authenticity?",
+      "choices": [
+        "Prosciutto",
+        "Salami",
+        "Pancetta",
+        "Guanciale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Louis XIII Pizza, often cited as one of the world's most expensive pizzas, is created by chefs in which country?",
+      "choices": [
+        "Italy",
+        "France",
+        "United States",
+        "Spain"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In U.S. food culture, what does pizza primarily represent in terms of dining experience?",
+      "choices": [
+        "Fine dining and sophistication",
+        "Convenience and comfort food",
+        "Formal family occasions",
+        "Seasonal holiday traditions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which topping combination is typically featured on a 'Meat Feast' or 'Carnivore' style pizza?",
+      "choices": [
+        "Pepperoni and onions",
+        "Vegetables and herbs",
+        "Bacon, ham, and sausage",
+        "Anchovies and capers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Papa's Tomato Pies, an early pizzeria known for fresh, farm-to-table ingredients, was originally established in which state?",
+      "choices": [
+        "New York",
+        "New Jersey",
+        "Pennsylvania",
+        "Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Italian city is pizza considered a UNESCO-recognized cultural heritage item?",
+      "choices": [
+        "Rome",
+        "Naples",
+        "Venice",
+        "Florence"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American pizza chain was founded in Michigan and expanded to become a global franchise?",
+      "choices": [
+        "Domino's",
+        "Little Caesars",
+        "Papa John's",
+        "Pizza Hut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Italian term for the outer crust edge of a pizza?",
+      "choices": [
+        "Crosta",
+        "Cornicione",
+        "Bordo",
+        "Margine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city in Pennsylvania earned the nickname 'Pizza Capital of the World' due to its numerous pizzerias per capita?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Old Forge",
+        "Allentown"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "St. Louis-style pizza is traditionally topped with which type of cheese instead of mozzarella?",
+      "choices": [
+        "Cheddar",
+        "Provel",
+        "American",
+        "Swiss"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which folded pizza dish has toppings distributed throughout and is typically sealed before baking?",
+      "choices": [
+        "Focaccia",
+        "Stromboli",
+        "Pissaladière",
+        "Pita"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Lombardi's Pizza, recognized as America's first pizzeria, open in New York?",
+      "choices": [
+        "1895",
+        "1905",
+        "1915",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state leads the nation in frozen pizza production and manufacturing?",
+      "choices": [
+        "California",
+        "Wisconsin",
+        "New York",
+        "Illinois"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What pizza style is characterized by a rectangular shape, thin cracker-like crust, and minimal toppings?",
+      "choices": [
+        "Neapolitan",
+        "Detroit",
+        "St. Louis",
+        "Sicilian"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American city became synonymous with deep-dish pizza as a defining regional cuisine?",
+      "choices": [
+        "New York",
+        "Chicago",
+        "Detroit",
+        "St. Louis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ingredient is traditionally layered in Chicago deep-dish pizza sauce?",
+      "choices": [
+        "Fresh tomatoes",
+        "Tomato paste",
+        "Crushed tomatoes",
+        "Tomato puree"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. city is famous for serving large 'jumbo slices' of pizza, particularly as late-night food?",
+      "choices": [
+        "Boston",
+        "Washington, D.C.",
+        "Miami",
+        "Seattle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the pizza industry recognize as 'National Pizza Month' in the United States?",
+      "choices": [
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pizza topping combination is classically paired together as a standard vegetarian trio?",
+      "choices": [
+        "Mushrooms, spinach, garlic",
+        "Green peppers, black olives, onions",
+        "Tomatoes, basil, garlic",
+        "Broccoli, bell peppers, mushrooms"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What pizza innovation, originating in Europe, allows consumers to purchase freshly made pizza from automated machines?",
+      "choices": [
+        "Drive-through ovens",
+        "Conveyor belt bakeries",
+        "Automated pizza ovens",
+        "Vending machine kiosks"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did pizza gain widespread popularity across the United States following a major historical event?",
+      "choices": [
+        "1930s",
+        "1940s",
+        "1950s",
+        "1960s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state ranks highest in total pizza sales revenue annually?",
+      "choices": [
+        "California",
+        "Texas",
+        "New York",
+        "Florida"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the defining characteristic of a calzone compared to a standard pizza?",
+      "choices": [
+        "It has twice the cheese",
+        "It is folded in half like a turnover",
+        "It requires a wooden peel",
+        "It uses only fresh herbs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which annual industry event held in Las Vegas brings together pizza makers, vendors, and professionals from around the world?",
+      "choices": [
+        "National Pizza Summit",
+        "International Pizza Expo",
+        "World Pizza Championship",
+        "Global Pizza Conference"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

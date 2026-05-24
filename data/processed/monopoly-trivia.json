@@ -1,41 +1,51 @@
 {
   "slug": "monopoly-trivia",
   "name": "Monopoly",
-  "description": "The board game of property, rent, and bankruptcy — in play since the Great Depression.",
-  "processedAt": "2026-04-21T23:50:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.641Z",
   "questions": [
     {
       "q": "How many standard property spaces (deeds) are there on a U.S. Monopoly board?",
-      "choices": ["22", "28", "32", "40"],
+      "choices": [
+        "22",
+        "28",
+        "32",
+        "40"
+      ],
       "correct": 1,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "28", "verified": true, "notes": "22 colored properties + 4 railroads + 2 utilities." }
+      "difficulty": "easy"
     },
     {
       "q": "How many total spaces are on a standard Monopoly board?",
-      "choices": ["30", "32", "36", "40"],
+      "choices": [
+        "30",
+        "32",
+        "36",
+        "40"
+      ],
       "correct": 3,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "10 per side of the square." }
+      "difficulty": "easy"
     },
     {
       "q": "How much money does each player start with in standard U.S. Monopoly?",
-      "choices": ["$500", "$1,000", "$1,500", "$2,000"],
+      "choices": [
+        "$500",
+        "$1,000",
+        "$1,500",
+        "$2,000"
+      ],
       "correct": 2,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "£1,500.00", "verified": true, "notes": "Distributed as 2×$500, 2×$100, 2×$50, 6×$20, 5×$10, 5×$5, 5×$1." }
+      "difficulty": "easy"
     },
     {
       "q": "In the U.S. standard edition, how much do you collect for passing GO?",
-      "choices": ["$100", "$150", "$200", "$500"],
+      "choices": [
+        "$100",
+        "$150",
+        "$200",
+        "$500"
+      ],
       "correct": 2,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "'Collect $200 salary as you pass.'" }
+      "difficulty": "easy"
     },
     {
       "q": "On the U.S. Monopoly board, what is the most expensive property (other than Boardwalk) in the dark-blue group?",
@@ -46,9 +56,7 @@
         "Pennsylvania Avenue"
       ],
       "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "Dark Blue", "verified": true, "notes": "Park Place ($350) pairs with Boardwalk ($400)." }
+      "difficulty": "easy"
     },
     {
       "q": "What three things happen when you 'Go to Jail'?",
@@ -59,9 +67,7 @@
         "Skip 3 turns, pay $200"
       ],
       "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "Go To Jail", "verified": true, "notes": "Triggered by the Go to Jail corner, Chance/Community Chest cards, or rolling three doubles." }
+      "difficulty": "easy"
     },
     {
       "q": "What are the two utilities in U.S. Monopoly?",
@@ -72,117 +78,689 @@
         "Electric Co and Telephone Co"
       ],
       "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "easy",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "Purchased for $150 each." }
+      "difficulty": "easy"
     },
     {
-      "q": "How much does each railroad cost in standard U.S. Monopoly?",
-      "choices": ["$100", "$150", "$200", "$250"],
-      "correct": 2,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "£200.00", "verified": true, "notes": "Rent doubles with each additional railroad owned (to $200 for all four)." }
-    },
-    {
-      "q": "Which year did the game we know as Monopoly first hit shelves via Parker Brothers?",
-      "choices": ["1904", "1923", "1935", "1945"],
-      "correct": 2,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "1935", "verified": true, "notes": "Parker Brothers began mass production in 1935." }
-    },
-    {
-      "q": "Who is traditionally credited as the inventor of Monopoly, though an earlier designer's game underlies it?",
+      "q": "In the standard U.S. Monopoly board, how much money do you collect when you pass Go?",
       "choices": [
-        "Charles Darrow",
-        "Milton Bradley",
-        "Elizabeth Magie",
-        "Alfred Mosher Butts"
+        "$100",
+        "$200",
+        "$300",
+        "$400"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which property color group is the cheapest to purchase on the standard U.S. Monopoly board?",
+      "choices": [
+        "Light Blue",
+        "Brown",
+        "Pink",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On the UK Monopoly board, what is the name of the first property you can land on after passing Go?",
+      "choices": [
+        "Whitechapel Road",
+        "Old Kent Road",
+        "The Angel Islington",
+        "Pall Mall"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many colored property groups are there in a standard Monopoly game?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the original U.S. Monopoly board, which token features a small four-wheeled vehicle?",
+      "choices": [
+        "Thimble",
+        "Racing Car",
+        "Shoe",
+        "Hat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which board game edition was released to commemorate the 2014 FIFA World Cup?",
+      "choices": [
+        "Brazil edition",
+        "Germany edition",
+        "Spain edition",
+        "Italy edition"
       ],
       "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "Elizabeth Magie's 'The Landlord's Game' (1904) is the precursor; Darrow popularized and patented his version." }
+      "difficulty": "easy"
     },
     {
-      "q": "The U.S. Monopoly board's real-life property names come from which city's streets?",
+      "q": "On the UK Monopoly board, which property is painted dark blue and is one of the most expensive?",
       "choices": [
-        "New York City",
-        "Philadelphia",
-        "Atlantic City, NJ",
-        "Chicago"
+        "Regent Street",
+        "Park Lane",
+        "Mayfair",
+        "Bond Street"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, what is the name of the space where players go when they roll three doubles in a row?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Just Visiting",
+        "Jail"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pokemon-themed Monopoly edition features the electric mouse character on the box?",
+      "choices": [
+        "Charizard Edition",
+        "Pikachu Edition",
+        "Mewtwo Edition",
+        "Dragonite Edition"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On the UK board, Trafalgar Square is painted in which color group?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What item replaced the thimble token in a 1998 U.S. Monopoly fan vote?",
+      "choices": [
+        "Bag of Money",
+        "Mobile Phone",
+        "Computer",
+        "Stack of Coins"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the standard Monopoly game, how many railroad properties are on the board?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city hosted the 2014 Winter Olympics and had its own Monopoly edition released?",
+      "choices": [
+        "Vancouver",
+        "Turin",
+        "Sochi",
+        "PyeongChang"
       ],
       "correct": 2,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "Charles Darrow vacationed there; the properties match Atlantic City, NJ streets." }
+      "difficulty": "easy"
     },
     {
-      "q": "On a classic board, what color group are Mediterranean Avenue and Baltic Avenue?",
-      "choices": ["Brown/dark purple", "Light blue", "Pink", "Orange"],
+      "q": "On the UK Monopoly board, what color group does Oxford Street belong to?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Green",
+        "Light Blue"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the U.S. Monopoly game, which property is located directly opposite the railroad stations?",
+      "choices": [
+        "Free Parking",
+        "Go",
+        "Go to Jail",
+        "Just Visiting"
+      ],
       "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Brown", "verified": true, "notes": "The cheapest properties on the board." }
+      "difficulty": "easy"
     },
     {
-      "q": "What color group is Boardwalk in U.S. Monopoly?",
-      "choices": ["Green", "Yellow", "Red", "Dark blue"],
+      "q": "How many bars appear on the jail cell window in a standard Monopoly board illustration?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the 70th anniversary edition of Monopoly released?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On the UK board, which property is painted yellow and represents a street in central London?",
+      "choices": [
+        "Bow Street",
+        "Coventry Street",
+        "Great Pulteney Street",
+        "Whitehall"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the space in Monopoly where players are sent when they draw a 'Go to Jail' card?",
+      "choices": [
+        "The Slammer",
+        "Jail",
+        "Prison",
+        "Detention"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the original Monopoly board game first released?",
+      "choices": [
+        "1933",
+        "1935",
+        "1937",
+        "1939"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are the two most expensive properties on the standard US Monopoly board?",
+      "choices": [
+        "Red",
+        "Dark Blue",
+        "Green",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many railroad stations are available to purchase on a standard Monopoly board?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the square located directly opposite from Go on the Monopoly board?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Just Visiting",
+        "Income Tax"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How much starting cash does each player receive at the beginning of a standard Monopoly game?",
+      "choices": [
+        "$1,000",
+        "$1,500",
+        "$2,000",
+        "$2,500"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What token was retired from the classic Monopoly set in 2013?",
+      "choices": [
+        "Thimble",
+        "Iron",
+        "Shoe",
+        "Wheelbarrow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, what do you need to build on a property before you can construct a hotel?",
+      "choices": [
+        "2 houses",
+        "3 houses",
+        "4 houses",
+        "5 houses"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which square in Monopoly requires you to pay a fine or draw a card if you land on it?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Just Visiting",
+        "Luxury Tax"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shape symbol marks the Chance squares on the Monopoly board?",
+      "choices": [
+        "Star",
+        "Question Mark",
+        "Circle",
+        "Diamond"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many properties are in the brown color group on the standard US Monopoly board?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, rolling doubles allows you to do what?",
+      "choices": [
+        "Draw two cards",
+        "Take another turn",
+        "Collect extra money",
+        "Move twice as far"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary color of the Monopoly board game box?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classic token is a small sewing item?",
+      "choices": [
+        "Thimble",
+        "Iron",
+        "Shoe",
+        "Hat"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Chance and Community Chest spaces are there in total on a standard Monopoly board?",
+      "choices": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the cheapest property to purchase on the standard US Monopoly board?",
+      "choices": [
+        "Baltic Avenue",
+        "Mediterranean Avenue",
+        "Reading Railroad",
+        "Oriental Avenue"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, who is responsible for distributing money and managing the bank?",
+      "choices": [
+        "The eldest player",
+        "The Banker",
+        "The player with the most money",
+        "The player to the left of Go"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you land on if you roll three doubles in a row during your turn in Monopoly?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Income Tax",
+        "Luxury Tax"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many utility spaces are on a standard Monopoly board?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What token was added to Monopoly in 1998 after a fan vote in the US version?",
+      "choices": [
+        "Bag of Money",
+        "Cat",
+        "T-Rex",
+        "Rubber Ducky"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what position on the board is the 'Go to Jail' space located?",
+      "choices": [
+        "Corner opposite Go",
+        "Mid-side of the board",
+        "After Free Parking",
+        "Between two utilities"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the standard US version of Monopoly, how much cash does a player collect when passing through Go?",
+      "choices": [
+        "$100",
+        "$150",
+        "$200",
+        "$250"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color group does Marvin Gardens belong to in the US Monopoly board?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "Blue"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the UK version of Monopoly, what is the most expensive property on the board?",
+      "choices": [
+        "Park Lane",
+        "Mayfair",
+        "Bond Street",
+        "Oxford Street"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many railroad properties are there on a standard Monopoly board?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What item do players roll to determine how many spaces they move on their turn?",
+      "choices": [
+        "Spinner",
+        "Dice",
+        "Card",
+        "Wheel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, what is the name of the space where players must stop and cannot leave immediately without paying?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Just Visiting",
+        "The Vault"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which property color group is the cheapest to purchase in standard US Monopoly?",
+      "choices": [
+        "Light Blue",
+        "Brown",
+        "Red",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the price of a house in US Monopoly when playing on the Brown properties?",
+      "choices": [
+        "$25",
+        "$50",
+        "$100",
+        "$150"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the UK version, how much does it cost to bail yourself out of jail immediately?",
+      "choices": [
+        "£25",
+        "£50",
+        "£100",
+        "£200"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many sides does each die have in a standard Monopoly game?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the starting position for all players in Monopoly?",
+      "choices": [
+        "Free Parking",
+        "Go",
+        "Just Visiting",
+        "The Bank"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the UK Monopoly board, what color are the most expensive properties?",
+      "choices": [
+        "Red",
+        "Dark Blue",
+        "Black",
+        "Purple"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Chance cards are in a standard Monopoly deck?",
+      "choices": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the maximum number of houses that can be built on a single property in Monopoly?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In US Monopoly, which tax space charges players 10% of their total assets or a flat fee?",
+      "choices": [
+        "Income Tax",
+        "Luxury Tax",
+        "Property Tax",
+        "Capital Gains Tax"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many utility properties are on a standard Monopoly board?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color represents the mid-priced properties on the standard US Monopoly board?",
+      "choices": [
+        "Orange and Red",
+        "Yellow and Green",
+        "Light Blue and Pink",
+        "Purple and Brown"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, a player who lands on another player's property must pay what?",
+      "choices": [
+        "Purchase price",
+        "Rent",
+        "A fine",
+        "Tax"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What happens when a player rolls doubles in Monopoly?",
+      "choices": [
+        "They pay double rent",
+        "They move twice the spaces",
+        "They take another turn",
+        "They go to jail"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the original Monopoly board design, which famous London street is the most expensive property in the UK version?",
+      "choices": [
+        "Oxford Street",
+        "Bond Street",
+        "Regent Street",
+        "Mayfair"
+      ],
       "correct": 3,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Dark Blue", "verified": true, "notes": "Boardwalk ($400) is the most expensive property." }
+      "difficulty": "easy"
     },
     {
-      "q": "What year did the UK version of Monopoly (using London streets) first appear?",
-      "choices": ["1933", "1935", "1936", "1940"],
+      "q": "What symbol marks the Chance squares on a standard Monopoly board?",
+      "choices": [
+        "A star",
+        "A question mark",
+        "An exclamation point",
+        "A lightning bolt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many property title deed cards are there in a standard Monopoly game?",
+      "choices": [
+        "20",
+        "24",
+        "28",
+        "32"
+      ],
       "correct": 2,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "London", "verified": true, "notes": "Created by Waddingtons, 1936." }
+      "difficulty": "easy"
     },
     {
-      "q": "What's the rent on an unimproved Boardwalk when an opponent lands on it?",
-      "choices": ["$20", "$50", "$100", "$200"],
-      "correct": 1,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "Rent jumps dramatically with houses and a hotel." }
-    },
-    {
-      "q": "Which token was added to the U.S. Monopoly set in 2013 after a public vote?",
-      "choices": ["Cat", "Penguin", "T-Rex", "Duck"],
-      "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Cat", "verified": true, "notes": "Replaced the iron." }
-    },
-    {
-      "q": "What do the question marks on the Chance squares signify to players?",
+      "q": "In the standard US version of Monopoly, how much money do you collect when you pass Go?",
       "choices": [
-        "The card may help or hurt you",
-        "Skip the next player",
-        "You must answer a trivia question",
-        "You cannot purchase property on this turn"
-      ],
-      "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Question Mark", "verified": true, "notes": "Draw a Chance card — random in effect." }
-    },
-    {
-      "q": "When you roll three doubles in a row, what happens?",
-      "choices": [
-        "You get $200",
-        "You go to Jail",
-        "You draw a Community Chest card",
-        "You move ahead 10 spaces"
+        "$100",
+        "$200",
+        "$300",
+        "$400"
       ],
       "correct": 1,
-      "category": "Monopoly",
-      "difficulty": "medium",
-      "source": { "original_a": "Go To Jail", "verified": true, "notes": "A rare but real rule many players forget." }
+      "difficulty": "easy"
     },
     {
       "q": "Who holds the UK-based rights to Monopoly today?",
@@ -193,9 +771,7 @@
         "Parker Brothers (now defunct)"
       ],
       "correct": 0,
-      "category": "Monopoly",
-      "difficulty": "hard",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "Hasbro owns Monopoly globally since 1991." }
+      "difficulty": "hard"
     },
     {
       "q": "During WWII, a British intelligence service used a modified Monopoly set to do what?",
@@ -206,25 +782,1514 @@
         "Distract civilians during raids"
       ],
       "correct": 1,
-      "category": "Monopoly",
-      "difficulty": "hard",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "MI9 slipped escape kits into Monopoly sets sent to German POW camps." }
+      "difficulty": "hard"
     },
     {
       "q": "Which Monopoly classic token was NOT an original 1935 piece?",
-      "choices": ["Top hat", "Thimble", "Boot", "Race car"],
+      "choices": [
+        "Top hat",
+        "Thimble",
+        "Boot",
+        "Race car"
+      ],
       "correct": 3,
-      "category": "Monopoly",
-      "difficulty": "hard",
-      "source": { "original_a": "Racing Car", "verified": true, "notes": "Race car was added in 1937." }
+      "difficulty": "hard"
     },
     {
       "q": "Which property group has the highest probability of being landed on during gameplay, statistically?",
-      "choices": ["Brown", "Orange", "Light blue", "Red"],
+      "choices": [
+        "Brown",
+        "Orange",
+        "Light blue",
+        "Red"
+      ],
       "correct": 1,
-      "category": "Monopoly",
-      "difficulty": "hard",
-      "source": { "original_a": "Monopoly", "verified": true, "notes": "Because Jail is a common landing spot, the three spaces 6-8-9 away (Orange: St. James, Tennessee, New York) are statistically frequent." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original UK Monopoly board, which property is positioned immediately after the Go square in the brown color group?",
+      "choices": [
+        "Old Kent Road",
+        "Whitechapel Road",
+        "The Angel Islington",
+        "Euston Road"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the token that was retired from standard Monopoly in 2013 and replaced by a cat?",
+      "choices": [
+        "Thimble",
+        "Iron",
+        "Wheelbarrow",
+        "Shoe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the standard US Monopoly board, how many railroads are available for purchase?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which color group on the standard US board commands the highest purchase price for its most expensive property?",
+      "choices": [
+        "Dark Blue",
+        "Light Blue",
+        "Orange",
+        "Red"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK version of Monopoly, Mayfair represents the most expensive property. What is its exact purchase price?",
+      "choices": [
+        "£350",
+        "£400",
+        "£450",
+        "£500"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many distinct color groups exist in a standard Monopoly board?",
+      "choices": [
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, what is the exact monetary penalty for landing on Go to Jail?",
+      "choices": [
+        "You pay £25",
+        "You pay nothing",
+        "You pay £50",
+        "You lose a turn"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country's capital city was notably excluded from the French edition of Monopoly?",
+      "choices": [
+        "Belgium",
+        "Switzerland",
+        "Germany",
+        "France"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the standard Monopoly game, what symbol marks both Chance and Community Chest squares?",
+      "choices": [
+        "Star",
+        "Question Mark",
+        "Circle",
+        "Diamond"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact purchase price for a single railroad property in standard US Monopoly?",
+      "choices": [
+        "$150",
+        "$200",
+        "£200",
+        "$250"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2013 Monopoly token vote, which animal replaced the Iron as a playable piece?",
+      "choices": [
+        "Dog",
+        "Cat",
+        "Penguin",
+        "Rabbit"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Tyneside board edition of Monopoly features properties from two neighboring cities?",
+      "choices": [
+        "Sunderland & Middlesbrough",
+        "Newcastle & Gateshead",
+        "Durham & Darlington",
+        "Stockton & Hartlepool"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In standard Monopoly, what is the cost to bail yourself out of jail immediately without rolling?",
+      "choices": [
+        "$25",
+        "$50",
+        "$75",
+        "$100"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On the UK Monopoly board, which red property sits between Strand and Fleet Street?",
+      "choices": [
+        "Bow Street",
+        "Marlborough Street",
+        "Northumberland Avenue",
+        "Whitehall"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original color of the Monopoly board box manufactured since the game's inception?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Pokemon edition of Monopoly, what fictional currency replaces standard money for property purchases?",
+      "choices": [
+        "Pokécoins",
+        "Poke Money",
+        "Monster Dollars",
+        "Battle Credits"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which original Monopoly token is depicted as a small four-legged Scottish dog breed?",
+      "choices": [
+        "Terrier",
+        "Scottie",
+        "Westie",
+        "Cairn"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In standard Monopoly, what is the purchase price of the light blue properties?",
+      "choices": [
+        "$60 and $80",
+        "$80 and $100",
+        "$100 and $120",
+        "$120 and $140"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European capital city was the setting for a special edition Monopoly board released in the 1990s?",
+      "choices": [
+        "Vienna",
+        "Prague",
+        "Budapest",
+        "Warsaw"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Monopoly rules, how many times around the board must a player pass Go to collect salary before reaching bankruptcy?",
+      "choices": [
+        "Cannot be determined without house rules",
+        "Theoretically unlimited until bankruptcy occurs",
+        "Exactly 20 times",
+        "Exactly 10 times"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1935 US Monopoly release, which property color group commanded the highest purchase price before hotels?",
+      "choices": [
+        "Dark Blue",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The UK Monopoly board features Mayfair as its most expensive property. Which color group does Mayfair belong to?",
+      "choices": [
+        "Red",
+        "Dark Blue",
+        "Green",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, if you own all properties in a color group and want to add a hotel, how many houses must already be built on each property?",
+      "choices": [
+        "3",
+        "4",
+        "2",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The McDonald's Monopoly promotional game, which ran for decades, awarded real prizes by collecting property cards. In which year did this famous promotion begin?",
+      "choices": [
+        "1987",
+        "1989",
+        "1992",
+        "1995"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which token was introduced to the standard US Monopoly game in 1998 following a fan vote to replace an older piece?",
+      "choices": [
+        "Rubber Ducky",
+        "Bag of Money",
+        "T-Rex",
+        "Cat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK Monopoly edition, Pentonville Road and The Angel Islington are both properties of which color?",
+      "choices": [
+        "Red",
+        "Light Blue",
+        "Orange",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 2003 special edition Monopoly board commemorated which iconic American performer's legacy?",
+      "choices": [
+        "The Beatles",
+        "Elvis Presley",
+        "Frank Sinatra",
+        "Johnny Cash"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly Junior, which classic game element was removed, changing the experience for younger players?",
+      "choices": [
+        "Property trading",
+        "Community Chest cards",
+        "Go to Jail mechanics",
+        "Chance cards"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The German Monopoly edition is set in which major European city known for its financial center?",
+      "choices": [
+        "Berlin",
+        "Hamburg",
+        "Frankfurt",
+        "Munich"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK Monopoly board, Regent Street is displayed in which color group?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The French edition of Monopoly replaced street names with what type of locations?",
+      "choices": [
+        "Landmarks",
+        "Cities",
+        "Museums",
+        "Parks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In standard US Monopoly, what amount do players collect upon passing Go?",
+      "choices": [
+        "£200",
+        "$150",
+        "$200",
+        "$250"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which classic Monopoly token, historically present on the board since the 1930s, is known for its sturdy, utilitarian design?",
+      "choices": [
+        "Thimble",
+        "Boot",
+        "Wheelbarrow",
+        "Iron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK Monopoly edition, Old Kent Road is located in which color property group?",
+      "choices": [
+        "Light Blue",
+        "Brown",
+        "Orange",
+        "Red"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Formula 1 Monopoly edition replaced traditional street names with what racing-related locations?",
+      "choices": [
+        "Grand Prix Venues",
+        "Race Tracks",
+        "Driver Names",
+        "Pit Stops"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2013, which animal token was introduced to the US Monopoly game, replacing the Iron token?",
+      "choices": [
+        "Dog",
+        "Cat",
+        "Fox",
+        "Owl"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "A Monopoly edition themed around a major international sporting event was released to commemorate which country's 2014 World Cup hosting?",
+      "choices": [
+        "Germany",
+        "South Africa",
+        "Brazil",
+        "Russia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In standard UK Monopoly, how much must a player pay to leave jail immediately without rolling doubles?",
+      "choices": [
+        "£25",
+        "£40",
+        "£50",
+        "£100"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Monopoly Junior game adopts which fun-filled venue theme instead of the traditional property-buying concept?",
+      "choices": [
+        "Amusement Park",
+        "Funfair",
+        "Shopping Mall",
+        "Beach Resort"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In UK Monopoly, Leicester Square property is displayed in which color that visually represents high-visibility entertainment locations?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original UK Monopoly board, which property is the most expensive to purchase?",
+      "choices": [
+        "Mayfair",
+        "Park Lane",
+        "Oxford Street",
+        "Regent Street"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many properties must be mortgaged to the bank before houses can be built on any remaining unmortgaged properties in a player's color group?",
+      "choices": [
+        "At least one property in each color group",
+        "All properties except one in the color group",
+        "Houses can be built regardless of mortgages in other groups",
+        "A minimum of two properties per player"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which token was introduced to the Monopoly board in 2013 and replaced the iron?",
+      "choices": [
+        "Cat",
+        "T-Rex",
+        "Rubber Ducky",
+        "Penguin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the US version of Monopoly, what is the rent charged on an unimproved railroad if a player owns all four?",
+      "choices": [
+        "$200",
+        "$400",
+        "$800",
+        "$1,000"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact purchase price of Boardwalk in the standard US edition of Monopoly?",
+      "choices": [
+        "$350",
+        "$380",
+        "$400",
+        "$420"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK version, which property shares its color group with Marlborough Street and Bow Street?",
+      "choices": [
+        "Vine Street",
+        "Fleet Street",
+        "Piccadilly",
+        "The Strand"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many community chest and chance cards are there in total in a standard Monopoly game?",
+      "choices": [
+        "12 and 12",
+        "16 and 16",
+        "14 and 14",
+        "8 and 8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the fine amount for landing on the Income Tax space in the original US Monopoly?",
+      "choices": [
+        "$50 or 10% of total worth",
+        "$100 or 10% of total worth",
+        "$75 or 10% of total worth",
+        "$200 flat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, if a player lands on a property with a hotel, what multiple of the base rent is charged?",
+      "choices": [
+        "5 times",
+        "10 times",
+        "15 times",
+        "20 times"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of houses that can be built on a single property before it must be upgraded to a hotel?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK Monopoly edition, which light blue property costs £60 to purchase?",
+      "choices": [
+        "The Angel Islington",
+        "Euston Road",
+        "Pentonville Road",
+        "Pall Mall"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the game before it was trademarked as Monopoly?",
+      "choices": [
+        "The Landlord's Game",
+        "The Property Game",
+        "The Real Estate Wars",
+        "The Trading Post"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In standard Monopoly rules, what happens to a player's property if they declare bankruptcy while owing rent?",
+      "choices": [
+        "All properties transfer to the creditor",
+        "Properties are auctioned off",
+        "Properties go to the bank and are auctioned",
+        "The creditor receives ownership of all properties"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How much cash does each player start with in the standard US version of Monopoly?",
+      "choices": [
+        "$1,000",
+        "$1,500",
+        "$2,000",
+        "$2,500"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two properties form the brown color group on the original US Monopoly board?",
+      "choices": [
+        "Mediterranean Avenue and Baltic Avenue",
+        "Orient Avenue and Vermont Avenue",
+        "Connecticut Avenue and St. Charles Place",
+        "Kentucky Avenue and Indiana Avenue"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, if you roll doubles and move to another property where you also roll doubles, what is the maximum number of consecutive turns you can take before being forced to end your turn?",
+      "choices": [
+        "2 consecutive turns",
+        "3 consecutive turns",
+        "4 consecutive turns",
+        "Unlimited as long as doubles are rolled"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the bail-out cost to leave jail immediately without rolling doubles in the standard Monopoly game?",
+      "choices": [
+        "$25",
+        "$50",
+        "$75",
+        "$100"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the UK version, which red property is the most expensive of its color group?",
+      "choices": [
+        "Strand",
+        "Fleet Street",
+        "Bow Street",
+        "Marlborough Street"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many utility companies are available for purchase on a standard Monopoly board?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original US Monopoly, what is the rent for owning the Electric Company with no utilities owned by opponents?",
+      "choices": [
+        "$4 times the dice roll",
+        "$10 times the dice roll",
+        "$20 fixed",
+        "$50 fixed"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the classic UK Monopoly board, which property shares the orange color group with Bow Street and Marlborough Street?",
+      "choices": [
+        "Piccadilly",
+        "Leicester Square",
+        "Coventry Street",
+        "The Strand"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the purchase price of Mayfair in the standard UK edition of Monopoly?",
+      "choices": [
+        "£350",
+        "£400",
+        "£500",
+        "£600"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the US version of Monopoly, Pacific Avenue and North Carolina Avenue belong to which color group?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many properties are included in the yellow color group on the standard US Monopoly board?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, what is the rent charged for landing on an unowned property if the owner chooses to auction it rather than sell it at the listed price?",
+      "choices": [
+        "50% of the listed purchase price",
+        "The property goes to auction with bidding starting at $1",
+        "Double the listed purchase price",
+        "No rent is paid; the player simply buys it at full price"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original UK Monopoly board layout, which railway station is positioned directly opposite to King's Cross Station?",
+      "choices": [
+        "Fenchurch Street",
+        "Liverpool Street",
+        "Marylebone",
+        "Victoria"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How much does each railroad cost in standard U.S. Monopoly?",
+      "choices": [
+        "$100",
+        "$150",
+        "$200",
+        "$250"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which year did the game we know as Monopoly first hit shelves via Parker Brothers?",
+      "choices": [
+        "1904",
+        "1923",
+        "1935",
+        "1945"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is traditionally credited as the inventor of Monopoly, though an earlier designer's game underlies it?",
+      "choices": [
+        "Charles Darrow",
+        "Milton Bradley",
+        "Elizabeth Magie",
+        "Alfred Mosher Butts"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The U.S. Monopoly board's real-life property names come from which city's streets?",
+      "choices": [
+        "New York City",
+        "Philadelphia",
+        "Atlantic City, NJ",
+        "Chicago"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On a classic board, what color group are Mediterranean Avenue and Baltic Avenue?",
+      "choices": [
+        "Brown/dark purple",
+        "Light blue",
+        "Pink",
+        "Orange"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color group is Boardwalk in U.S. Monopoly?",
+      "choices": [
+        "Green",
+        "Yellow",
+        "Red",
+        "Dark blue"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did the UK version of Monopoly (using London streets) first appear?",
+      "choices": [
+        "1933",
+        "1935",
+        "1936",
+        "1940"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What's the rent on an unimproved Boardwalk when an opponent lands on it?",
+      "choices": [
+        "$20",
+        "$50",
+        "$100",
+        "$200"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which token was added to the U.S. Monopoly set in 2013 after a public vote?",
+      "choices": [
+        "Cat",
+        "Penguin",
+        "T-Rex",
+        "Duck"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do the question marks on the Chance squares signify to players?",
+      "choices": [
+        "The card may help or hurt you",
+        "Skip the next player",
+        "You must answer a trivia question",
+        "You cannot purchase property on this turn"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When you roll three doubles in a row, what happens?",
+      "choices": [
+        "You get $200",
+        "You go to Jail",
+        "You draw a Community Chest card",
+        "You move ahead 10 spaces"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original 1935 Monopoly release, what year was printed on the board to mark its debut?",
+      "choices": [
+        "1933",
+        "1935",
+        "1937",
+        "1940"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Monopoly token is a small sewing implement traditionally associated with needlework?",
+      "choices": [
+        "Thimble",
+        "Needle",
+        "Bobbin",
+        "Spool"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color are houses in the standard UK version of Monopoly?",
+      "choices": [
+        "Red",
+        "Green",
+        "Blue",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the U.S. Monopoly board, which color property is the cheapest to purchase?",
+      "choices": [
+        "Light Blue",
+        "Brown",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the mustachioed mascot character associated with Monopoly?",
+      "choices": [
+        "Mr. Moneybags",
+        "Mr. Monopoly",
+        "Baron Wealth",
+        "Sir Property"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rolling three consecutive doubles in Monopoly sends you directly to which location?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Go",
+        "Just Visiting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which special Monopoly edition features characters from an ogre-inhabited fantasy kingdom?",
+      "choices": [
+        "Monopoly Fairy Tales",
+        "Monopoly Shrek",
+        "Monopoly Fantasy Quest",
+        "Monopoly Enchanted"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did McDonald's run a legendary promotional campaign featuring Monopoly properties?",
+      "choices": [
+        "1987",
+        "1995",
+        "2003",
+        "2010"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which garden tool became an official Monopoly token in the classic game?",
+      "choices": [
+        "Rake",
+        "Shovel",
+        "Wheelbarrow",
+        "Hoe"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What property color appears on Piccadilly in the UK version of Monopoly?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "Pink"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the U.S. Monopoly board, what replaces the British 'Super Tax' space?",
+      "choices": [
+        "Income Tax",
+        "Luxury Tax",
+        "Estate Tax",
+        "Property Tax"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which online Monopoly game allowed players to build empires using real-world locations from Google Maps?",
+      "choices": [
+        "Monopoly Online",
+        "Monopoly Street",
+        "Monopoly City Streets",
+        "Monopoly World"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color are the hotels in the standard UK version of Monopoly?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Red",
+        "White"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many color groups are represented on a standard Monopoly board?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which special Monopoly edition was released to coincide with the 2014 FIFA World Cup held in Brazil?",
+      "choices": [
+        "Monopoly World Cup",
+        "Monopoly Brazil 2014",
+        "Monopoly Soccer Championship",
+        "2014 World Cup Monopoly"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the UK Monopoly board, what color does Coventry Street display?",
+      "choices": [
+        "Blue",
+        "Yellow",
+        "Orange",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which red-nosed reindeer character received his own special Monopoly edition?",
+      "choices": [
+        "Dasher",
+        "Rudolph",
+        "Blitzen",
+        "Dancer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What happens when a player rolls doubles on their turn in Monopoly?",
+      "choices": [
+        "They lose their next turn",
+        "They roll again",
+        "They collect $50",
+        "They move backward"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In a Monopoly edition themed around classic literature, which famous authors would you encounter?",
+      "choices": [
+        "Hemingway and Fitzgerald",
+        "Dickens and Austen",
+        "Twain and Hawthorne",
+        "Whitman and Poe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which classic piece of formal British attire became a Monopoly token?",
+      "choices": [
+        "Top Hat",
+        "Bowler Hat",
+        "Monocle",
+        "Cufflinks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original 1935 Monopoly release, which property was the cheapest to purchase on the board?",
+      "choices": [
+        "Old Kent Road",
+        "Whitechapel Road",
+        "The Angel Islington",
+        "Bow Street"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many houses must a player build on a property before they are allowed to construct a hotel?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which token was introduced to the US Monopoly game following a 1998 fan vote that replaced a classic piece?",
+      "choices": [
+        "Bag of Money",
+        "Rubber Ducky",
+        "Cat",
+        "T-Rex"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the UK version of Monopoly, which color property includes Bow Street?",
+      "choices": [
+        "Red",
+        "Orange",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the bail amount required to get out of jail in the UK version without rolling doubles?",
+      "choices": [
+        "£25.00",
+        "£50.00",
+        "£100.00",
+        "£150.00"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Garfield-themed Monopoly edition was released as a collector's version?",
+      "choices": [
+        "Garfield's Lasagna Land",
+        "Garfield Monopoly",
+        "The Garfield Edition",
+        "Garfield Collector's Game"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly editions based on Formula 1 racing, what replaces the traditional street names on the board?",
+      "choices": [
+        "Famous drivers",
+        "Race tracks",
+        "Car manufacturers",
+        "Grand Prix locations"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which small four-legged canine token has been a classic Monopoly piece since the game's early years?",
+      "choices": [
+        "German Shepherd",
+        "Poodle",
+        "Scottie Dog",
+        "Terrier Mix"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What symbol is traditionally used to mark Chance squares on a standard Monopoly board?",
+      "choices": [
+        "Exclamation mark",
+        "Question mark",
+        "Asterisk",
+        "Lightning bolt"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 2014 FIFA World Cup edition of Monopoly, what replaced the Chance and Community Chest cards?",
+      "choices": [
+        "Player cards",
+        "Stadium cards",
+        "Fuleco cards",
+        "Goal cards"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which luxury department store received its own exclusive Monopoly edition?",
+      "choices": [
+        "Selfridges",
+        "Harrods",
+        "Liberty",
+        "Harvey Nichols"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On the UK Monopoly board, what color are the properties that include Piccadilly and Leicester Square?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Green",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What dapper article of formal wear was introduced as a Monopoly token and became associated with the game's British heritage?",
+      "choices": [
+        "Top Hat",
+        "Bowler Hat",
+        "Monocle",
+        "Fedora"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the US version of Monopoly, which tax square replaced the British Super Tax?",
+      "choices": [
+        "Income Tax",
+        "Luxury Tax",
+        "Property Tax",
+        "State Tax"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which racing-themed token has been featured in Monopoly as one of the classic pieces, known for its speed?",
+      "choices": [
+        "Motorcycle",
+        "Racing Car",
+        "Speedboat",
+        "Airplane"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was the original Monopoly board game first released to the public?",
+      "choices": [
+        "1930",
+        "1933",
+        "1935",
+        "1940"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which feline character received a special Monopoly collector's edition based on its love of Italian cuisine?",
+      "choices": [
+        "Hello Kitty",
+        "Felix the Cat",
+        "Garfield",
+        "Tom from Tom and Jerry"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On a standard Monopoly board, how many color groups exist for properties?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What object is rolled by players to determine movement around the Monopoly board?",
+      "choices": [
+        "Spinner",
+        "Dice",
+        "Wheel",
+        "Coin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish vacation destination has been featured in its own Monopoly board game edition?",
+      "choices": [
+        "Barcelona",
+        "Majorca",
+        "Valencia",
+        "Seville"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the classic UK Monopoly board, which property is colored dark blue and costs £400 to purchase?",
+      "choices": [
+        "Mayfair",
+        "Park Lane",
+        "The Strand",
+        "Fleet Street"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How much does it cost to purchase a railway station in standard Monopoly?",
+      "choices": [
+        "£100",
+        "£150",
+        "£200",
+        "£250"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly, what happens when you roll doubles on the dice?",
+      "choices": [
+        "You must pay an extra £50",
+        "You get another turn",
+        "You move to Free Parking",
+        "You go directly to jail"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these classic Monopoly tokens is a piece of clothing or wearable item?",
+      "choices": [
+        "Shoe",
+        "Thimble",
+        "Top Hat",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On the UK Monopoly board, Regent Street is part of which color property group?",
+      "choices": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the bail-out price to leave jail in standard Monopoly without rolling doubles or using a Get Out of Jail Free card?",
+      "choices": [
+        "£25",
+        "£50",
+        "£100",
+        "£150"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the UK edition of Monopoly, which color property group is the most affordable to purchase?",
+      "choices": [
+        "Brown",
+        "Light Blue",
+        "Pink",
+        "Orange"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Monopoly token was retired from the classic game in 2013?",
+      "choices": [
+        "The Iron",
+        "The Wheelbarrow",
+        "The Rocking Horse",
+        "The Purse"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On the UK board, Whitehall is colored in which shade?",
+      "choices": [
+        "Light Blue",
+        "Pink",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many properties make up a complete color group in standard Monopoly?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly Junior, the traditional street properties are replaced with locations at what type of venue?",
+      "choices": [
+        "A shopping mall",
+        "A funfair",
+        "A theme park",
+        "A beach resort"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which property on the UK Monopoly board costs exactly £220 to purchase?",
+      "choices": [
+        "The Strand",
+        "Fleet Street",
+        "Marlborough Street",
+        "Bow Street"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Monopoly .com edition, what replaced the traditional railway stations?",
+      "choices": [
+        "Internet Service Providers",
+        "Tech Startups",
+        "E-commerce Sites",
+        "Computer Manufacturers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the starting amount of Monopoly currency that each player receives at the beginning of a standard game?",
+      "choices": [
+        "£500",
+        "£1,000",
+        "£1,500",
+        "£2,000"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On the UK board, Coventry Street belongs to which color property group?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Orange",
+        "Pink"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly, landing on which space allows you to collect £200 without rolling the dice?",
+      "choices": [
+        "Free Parking",
+        "Go to Jail",
+        "Go",
+        "Just Visiting"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many utility companies are available to purchase in standard Monopoly?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish island location inspired a special edition of Monopoly?",
+      "choices": [
+        "Ibiza",
+        "Majorca",
+        "Menorca",
+        "Tenerife"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

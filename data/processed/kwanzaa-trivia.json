@@ -1,274 +1,2295 @@
 {
   "slug": "kwanzaa-trivia",
   "name": "Kwanzaa",
-  "description": "Seven principles, seven candles, seven days — the African-American cultural celebration created in 1966.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.608Z",
   "questions": [
     {
-      "q": "Who created Kwanzaa?",
-      "choices": ["Marcus Garvey", "Maulana Karenga", "Stokely Carmichael", "Malcolm X"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dr Maulana Karenga",
-        "verified": true,
-        "notes": "Karenga is a professor at California State University, Long Beach."
-      }
-    },
-    {
       "q": "In what year was Kwanzaa first celebrated?",
-      "choices": ["1955", "1966", "1972", "1980"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1966",
-        "verified": true,
-        "notes": "Created in the wake of the 1965 Watts riots in Los Angeles."
-      }
-    },
-    {
-      "q": "What dates does Kwanzaa cover each year?",
       "choices": [
-        "December 21 – December 27",
-        "December 25 – December 31",
-        "December 26 – January 1",
-        "January 1 – January 7"
+        "1966",
+        "1972",
+        "1960",
+        "1975"
       ],
-      "correct": 2,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "December 26 to January 1",
-        "verified": true,
-        "notes": "Seven days in total."
-      }
-    },
-    {
-      "q": "From which African language does the name 'Kwanzaa' come?",
-      "choices": ["Yoruba", "Zulu", "Swahili", "Wolof"],
-      "correct": 2,
-      "category": "Kwanzaa",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Swahili phrase matunda ya kwanza",
-        "verified": true,
-        "notes": "From the Swahili phrase 'matunda ya kwanza' = 'first fruits'."
-      }
-    },
-    {
-      "q": "What does the Swahili phrase 'matunda ya kwanza' mean?",
-      "choices": ["First fruits", "Brave hearts", "United people", "Ancient harvest"],
       "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "First fruits",
-        "verified": true,
-        "notes": "Inspired by African first-fruits harvest festivals."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many candles are placed on the Kinara during Kwanzaa?",
-      "choices": ["Three", "Five", "Seven", "Nine"],
-      "correct": 2,
-      "category": "Kwanzaa",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Seven candles",
-        "verified": true,
-        "notes": "One for each day / principle. The kinara holds three red, one black (center), and three green."
-      }
-    },
-    {
-      "q": "What three colors are central to Kwanzaa decorations?",
+      "q": "Who founded Kwanzaa?",
       "choices": [
-        "Red, white, blue",
-        "Black, red, green",
-        "Gold, white, purple",
-        "Black, gold, white"
+        "Dr. Maulana Karenga",
+        "Martin Luther King Jr.",
+        "Malcolm X",
+        "James Brown"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does Kwanzaa last?",
+      "choices": [
+        "Five days",
+        "Seven days",
+        "Ten days",
+        "Twelve days"
       ],
       "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Black, red, and green",
-        "verified": true,
-        "notes": "The same colors as the Pan-African flag."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the Swahili name for Kwanzaa's seven guiding principles?",
-      "choices": ["Nguzo Saba", "Habari Gani", "Karamu Tawi", "Umoja Wakati"],
-      "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Nguzo Saba",
-        "verified": true,
-        "notes": "Literally 'seven principles.'"
-      }
-    },
-    {
-      "q": "Which principle, celebrated on Day 1 of Kwanzaa, means 'unity'?",
-      "choices": ["Ujima", "Umoja", "Imani", "Nia"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Umoja",
-        "verified": true,
-        "notes": "Unity in family, community, nation, and race."
-      }
-    },
-    {
-      "q": "Which Kwanzaa principle means 'self-determination'?",
-      "choices": ["Kujichagulia", "Kuumba", "Ujamaa", "Imani"],
-      "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Kujichagulia",
-        "verified": true,
-        "notes": "To define ourselves, name ourselves, create for ourselves, speak for ourselves."
-      }
-    },
-    {
-      "q": "Which Kwanzaa principle means 'collective work and responsibility'?",
-      "choices": ["Umoja", "Ujima", "Nia", "Imani"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ujima",
-        "verified": true,
-        "notes": "Building and maintaining the community together."
-      }
-    },
-    {
-      "q": "Which Kwanzaa principle means 'cooperative economics'?",
-      "choices": ["Ujamaa", "Kuumba", "Nia", "Kujichagulia"],
-      "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ujamaa",
-        "verified": true,
-        "notes": "Building and supporting Black-owned businesses and shared prosperity."
-      }
-    },
-    {
-      "q": "What does the Kwanzaa principle 'Nia' mean?",
-      "choices": ["Faith", "Purpose", "Creativity", "Unity"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Purpose",
-        "verified": true,
-        "notes": "Building community to restore people to their traditional greatness."
-      }
-    },
-    {
-      "q": "What does the Kwanzaa principle 'Kuumba' mean?",
-      "choices": ["Strength", "Creativity", "Faith", "Justice"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Kuumba",
-        "verified": true,
-        "notes": "To leave the community more beautiful and beneficial than it was."
-      }
-    },
-    {
-      "q": "What does the Kwanzaa principle 'Imani' mean?",
-      "choices": ["Faith", "Hope", "Endurance", "Wisdom"],
-      "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Imani",
-        "verified": true,
-        "notes": "Faith in the people, parents, teachers, leaders, and the righteousness of the struggle."
-      }
-    },
-    {
-      "q": "What is the name of the celebratory feast held on the sixth night of Kwanzaa (December 31)?",
-      "choices": ["Tambiko", "Karamu", "Mahaba", "Kalimbo"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Karamu",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What greeting do people exchange during Kwanzaa, meaning 'What is the news?' in Swahili?",
-      "choices": ["Asante Sana", "Habari Gani", "Pamoja Salamu", "Jumuiya Furaha"],
-      "correct": 1,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "\"Joyous Kwanzaa\" or \"Habari Gani?\"",
-        "verified": true,
-        "notes": "The reply is the principle of the day (Umoja, Kujichagulia, etc.)."
-      }
-    },
-    {
-      "q": "Which U.S. president was the first to issue an official Kwanzaa greeting from the White House?",
+      "q": "What is the name of the seven-candle holder used during Kwanzaa?",
       "choices": [
-        "Jimmy Carter",
+        "Menorah",
+        "Kinara",
+        "Candelabra",
+        "Luminary"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many candles are lit during Kwanzaa celebrations?",
+      "choices": [
+        "Five candles",
+        "Six candles",
+        "Seven candles",
+        "Nine candles"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the black candles in the Kinara represent?",
+      "choices": [
+        "Unity and togetherness",
+        "The struggle of Black Americans",
+        "Celebration and joy",
+        "Future hopes and dreams"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Zawadi in Kwanzaa?",
+      "choices": [
+        "A traditional drum",
+        "Gifts given to family members",
+        "A blessing or prayer",
+        "A type of fabric"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the woven mat called Mkeka represent in Kwanzaa?",
+      "choices": [
+        "Prosperity and wealth",
+        "Foundation of traditions and heritage",
+        "Family unity",
+        "Spiritual cleansing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle emphasizes self-determination and defining oneself?",
+      "choices": [
+        "Ujima",
+        "Kujichagulia",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Karamu in Kwanzaa?",
+      "choices": [
+        "A greeting",
+        "The community feast",
+        "A type of music",
+        "A prayer ceremony"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle focuses on collective work and responsibility?",
+      "choices": [
+        "Kuumba",
+        "Ujima",
+        "Imani",
+        "Kujichagulia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Nia represent as a Kwanzaa principle?",
+      "choices": [
+        "Collective responsibility",
+        "Purpose and goals",
+        "Creativity and innovation",
+        "Faith and belief"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle encourages creativity and artistic expression?",
+      "choices": [
+        "Ujamaa",
+        "Kuumba",
+        "Harambee",
+        "Watoto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Imani in the context of Kwanzaa principles?",
+      "choices": [
+        "Community cooperation",
+        "Faith and belief in people and their future",
+        "Economic self-sufficiency",
+        "Purpose and goals"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What regions of Africa primarily inspired Kwanzaa traditions?",
+      "choices": [
+        "North Africa only",
+        "West, East, and Southeast Africa",
+        "Central Africa only",
+        "Southern Africa exclusively"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which historical event in Los Angeles influenced the creation of Kwanzaa?",
+      "choices": [
+        "The Civil Rights March",
+        "The Watts riots",
+        "The Rodney King trial",
+        "The Million Man Walk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional greeting used during Kwanzaa?",
+      "choices": [
+        "Jambo",
+        "Habari Gani",
+        "Asante Sana",
+        "Ubuntu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the fruits and vegetables displayed during Kwanzaa symbolize?",
+      "choices": [
+        "Prosperity for the new year",
+        "The harvest and rewards of work",
+        "Spiritual abundance",
+        "Family unity and togetherness"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of clothing is traditionally worn during Kwanzaa celebrations?",
+      "choices": [
+        "Formal Western attire",
+        "Bright African-style clothing and kaftans",
+        "White ceremonial robes",
+        "Contemporary casual wear"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which date does Kwanzaa conclude with Karamu, the grand feast?",
+      "choices": [
+        "December 28",
+        "December 30",
+        "December 31",
+        "January 1"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the candle holder used during Kwanzaa?",
+      "choices": [
+        "Menorah",
+        "Kinara",
+        "Candelabra",
+        "Chandelier"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many candles are placed in the Kinara?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who created Kwanzaa?",
+      "choices": [
+        "Malcolm X",
+        "Dr. Martin Luther King Jr.",
+        "Dr. Maulana Karenga",
+        "James Baldwin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the seven principles of Kwanzaa called?",
+      "choices": [
+        "Kawaida",
+        "Nguzo Saba",
+        "Karamu",
+        "Zawadi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dates mark the celebration of Kwanzaa each year?",
+      "choices": [
+        "December 1-7",
+        "December 26 to January 1",
+        "January 1-7",
+        "November 26 to December 1"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'Kwanzaa' mean in Swahili?",
+      "choices": [
+        "Seven candles",
+        "First fruits",
+        "Unity circle",
+        "Harvest celebration"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Zawadi in the context of Kwanzaa?",
+      "choices": [
+        "A ceremonial greeting",
+        "Gifts given to family members",
+        "A traditional food",
+        "A type of candle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What principle of Kwanzaa emphasizes self-determination?",
+      "choices": [
+        "Umoja",
+        "Kujichagulia",
+        "Ujamaa",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the principle Ujamaa focus on?",
+      "choices": [
+        "Self-determination",
+        "Collective work and responsibility",
+        "Cooperative economics",
+        "Community purpose"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the ears of corn placed on the Kinara represent?",
+      "choices": [
+        "Harvest abundance",
+        "Children and the future generation",
+        "Ancestral spirits",
+        "The seasons"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes faith and belief?",
+      "choices": [
+        "Nia",
+        "Imani",
+        "Ujima",
+        "Kujichagulia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary philosophical foundation underlying Kwanzaa?",
+      "choices": [
+        "Pan-Africanism",
+        "Kawaida",
+        "Communism",
+        "Nationalism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the greeting 'Habari Gani?' mean during Kwanzaa?",
+      "choices": [
+        "Welcome to the celebration",
+        "How are you?",
+        "Let us gather",
+        "Blessings upon you"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Mazao represent on the Kwanzaa table?",
+      "choices": [
+        "Unity of people",
+        "The fruits of labor and harvest",
+        "Spiritual wisdom",
+        "Community strength"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which principle of Kwanzaa is about community purpose and goals?",
+      "choices": [
+        "Kujichagulia",
+        "Ujima",
+        "Nia",
+        "Umoja"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Umoja, the first principle of Kwanzaa, promote?",
+      "choices": [
+        "Individual achievement",
+        "Family bonding",
+        "Unity and working together",
+        "Economic prosperity"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What philosophical movement influenced the creation of Kwanzaa?",
+      "choices": [
+        "Civil Rights activism",
+        "Pan-Africanism and Black nationalism",
+        "Religious reformation",
+        "Political socialism only"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional cloth displayed during Kwanzaa called?",
+      "choices": [
+        "Kente cloth",
+        "Kikoi",
+        "Mkeka",
+        "Dashiki"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Swahili name for the seven principles of Kwanzaa?",
+      "choices": [
+        "Umoja Saba",
+        "Nguzo Saba",
+        "Kwanzaa Saba",
+        "Karamu Saba"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days long is the Kwanzaa celebration?",
+      "choices": [
+        "Five days",
+        "Seven days",
+        "Ten days",
+        "Fourteen days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "During which dates in the calendar year is Kwanzaa observed?",
+      "choices": [
+        "December 1-7",
+        "December 26 to January 1",
+        "January 1-7",
+        "December 20-26"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Kwanzaa candle holder?",
+      "choices": [
+        "Menorah",
+        "Kinara",
+        "Mkeka",
+        "Zawadi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many candles are lit during Kwanzaa?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Eight",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the red candles on the Kinara represent?",
+      "choices": [
+        "Hope and future",
+        "The struggle of Black Americans",
+        "Unity and community",
+        "Creativity and culture"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the green candles on the Kinara represent?",
+      "choices": [
+        "Struggle and hardship",
+        "Money and wealth",
+        "Earth and the future",
+        "Hope and renewal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle means 'unity'?",
+      "choices": [
+        "Kujichagulia",
+        "Umoja",
+        "Ujima",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle emphasizes self-determination?",
+      "choices": [
+        "Umoja",
+        "Ujamaa",
+        "Kujichagulia",
+        "Kuumba"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle refers to collective work and responsibility?",
+      "choices": [
+        "Ujamaa",
+        "Ujima",
+        "Nia",
+        "Kuumba"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Ujamaa, one of the Kwanzaa principles, based on?",
+      "choices": [
+        "Cooperative economics",
+        "Individual achievement",
+        "Personal faith",
+        "Environmental conservation"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Kwanzaa principle means 'faith'?",
+      "choices": [
+        "Nia",
+        "Imani",
+        "Kuumba",
+        "Kujichagulia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Kwanzaa feast?",
+      "choices": [
+        "Ujamaa",
+        "Karamu",
+        "Mkeka",
+        "Zawadi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'Matunda ya Kwanza' mean in Swahili?",
+      "choices": [
+        "First celebration",
+        "Seven principles",
+        "First fruits",
+        "Joyful gathering"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the purpose of Zawadi in Kwanzaa?",
+      "choices": [
+        "A type of candle",
+        "Gifts given to family members",
+        "A traditional song",
+        "The feast meal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Mkeka in the context of Kwanzaa?",
+      "choices": [
+        "A candle",
+        "A woven mat or placemat",
+        "A type of food",
+        "A principle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which language is used for the principles and key terms of Kwanzaa?",
+      "choices": [
+        "Yoruba",
+        "Amharic",
+        "Swahili",
+        "Zulu"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cultural traditions did Dr. Maulana Karenga draw from when creating Kwanzaa?",
+      "choices": [
+        "Only West African traditions",
+        "Pan-African harvest and cultural traditions",
+        "Only East African traditions",
+        "European celebration customs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Dr. Maulana Karenga create Kwanzaa?",
+      "choices": [
+        "1964",
+        "1966",
+        "1969",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the candleholder used during Kwanzaa celebrations?",
+      "choices": [
+        "Menorah",
+        "Kinara",
+        "Candelabra",
+        "Umoja stand"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the word 'Kwanzaa' roughly translate to in Swahili?",
+      "choices": [
+        "First harvest",
+        "Unity celebration",
+        "First fruits",
+        "Community gathering"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cup is passed among celebrants to honor ancestors during Kwanzaa?",
+      "choices": [
+        "Chalice of Memory",
+        "Kikombe cha Umoja",
+        "Cup of Heritage",
+        "Ancestor's Vessel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What mat serves as the foundation for Kwanzaa decorations?",
+      "choices": [
+        "Kente cloth",
+        "Mkeka",
+        "Raffia mat",
+        "Ceremonial tapestry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes self-determination and defining oneself?",
+      "choices": [
+        "Umoja",
+        "Kujichagulia",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Ujamaa, one of the seven principles, focus on?",
+      "choices": [
+        "Individual creativity",
+        "Cooperative economics and collective business",
+        "Personal faith",
+        "Ancestral remembrance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which principle of Kwanzaa is about purpose and restoring greatness?",
+      "choices": [
+        "Kuumba",
+        "Nia",
+        "Karenga",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major Los Angeles event in 1965 inspired Dr. Maulana Karenga to create Kwanzaa?",
+      "choices": [
+        "Compton uprising",
+        "Watts riots",
+        "South Central rebellion",
+        "Inglewood disturbance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary focus of Kuumba, the last principle of Kwanzaa?",
+      "choices": [
+        "Faith and belief",
+        "Creativity and making beauty",
+        "Community building",
+        "Economic partnership"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which day of Kwanzaa is the Karamu, or communal feast, typically celebrated?",
+      "choices": [
+        "Fifth day",
+        "Sixth day",
+        "Seventh day",
+        "First day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional African instrument is commonly featured in Kwanzaa celebrations?",
+      "choices": [
+        "Didgeridoo",
+        "Drums",
+        "Sitar",
+        "Bagpipes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What greeting is exchanged during Kwanzaa to ask 'How are you?'",
+      "choices": [
+        "Jambo",
+        "Habari Gani",
+        "Asante",
+        "Bwana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dr. Maulana Karenga derived the name 'Kwanzaa' from a Swahili phrase meaning what?",
+      "choices": [
+        "First fruits of the harvest",
+        "Seven principles of life",
+        "Unity and togetherness",
+        "Celebration of ancestors"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Dr. Maulana Karenga establish Kwanzaa as a cultural holiday?",
+      "choices": [
+        "1963",
+        "1966",
+        "1972",
+        "1980"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kinara's candle arrangement uses black, red, and green in a specific pattern. How many red candles are positioned on each side of the central black candle?",
+      "choices": [
+        "One red candle on each side",
+        "Two red candles on each side",
+        "Three red candles on each side",
+        "Four red candles on each side"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the seven principles of Kwanzaa specifically emphasizes collective economic development and supporting Black-owned businesses?",
+      "choices": [
+        "Umoja",
+        "Ujamaa",
+        "Ujima",
+        "Nia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The kikombe cha Umoja, or unity cup, is traditionally passed among participants to honor what aspect of Kwanzaa observance?",
+      "choices": [
+        "The harvest season",
+        "Connection to ancestral lineage",
+        "Commitment to shared values",
+        "The agricultural calendar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What principle of Kwanzaa translates to 'self-determination' and emphasizes defining and creating one's own destiny?",
+      "choices": [
+        "Kuumba",
+        "Nia",
+        "Imani",
+        "Kujichagulia"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On which specific day of Kwanzaa is the Karamu feast traditionally celebrated?",
+      "choices": [
+        "The fourth day",
+        "The fifth day",
+        "The sixth day",
+        "The seventh day"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The mazao (agricultural produce) displayed on the mkeka during Kwanzaa symbolize what historical connection for African Americans?",
+      "choices": [
+        "Freedom from slavery",
+        "Agricultural labor and ancestral roots in farming",
+        "Trade routes across the African continent",
+        "Modern urban gardening movements"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principle of Kwanzaa is characterized by 'collective problem-solving' and shared community responsibilities?",
+      "choices": [
+        "Ujamaa",
+        "Ujima",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The mkeka, a woven mat placed on the Kwanzaa table, traditionally draws inspiration from African weaving practices from which geographical regions?",
+      "choices": [
+        "North Africa exclusively",
+        "Central Africa only",
+        "West, East, and Southeast Africa",
+        "Southern Africa exclusively"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the principle of Kuumba, celebrated on the sixth day of Kwanzaa, encourage participants to do?",
+      "choices": [
+        "Rest and reflect spiritually",
+        "Express creativity and improve their communities through artistic endeavor",
+        "Engage in financial planning",
+        "Prepare for the new year ahead"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Kwanzaa observance, how many ears of corn (mahindi) are displayed on the mkeka?",
+      "choices": [
+        "One ear representing each family member",
+        "Seven ears representing the seven principles",
+        "One ear for each child in the household",
+        "Four ears representing the cardinal directions"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President first publicly acknowledged Kwanzaa from the White House during the 1990s?",
+      "choices": [
+        "George H. W. Bush",
+        "Bill Clinton",
+        "George W. Bush",
+        "Barack Obama"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The principle of Imani, celebrated on the seventh and final day of Kwanzaa, embodies what core concept?",
+      "choices": [
+        "Economic interdependence",
+        "Faith, confidence, and conviction in one's potential",
+        "Creative expression and community improvement",
+        "Spiritual purification and renewal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the significance of using a double 'a' at the end of 'Kwanzaa' according to Dr. Maulana Karenga's original conception?",
+      "choices": [
+        "It represents the African diaspora split across two continents",
+        "It symbolizes the seven letters needed to spell the seven principles",
+        "It indicates a seven-day observance by doubling the letter",
+        "It derives from the Swahili plural form of matunda"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During Kwanzaa celebrations, the Nguzo Saba poster traditionally displays the seven principles in which language?",
+      "choices": [
+        "English and Swahili",
+        "English only",
+        "Swahili only",
+        "English, Swahili, and Zulu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes 'purpose' and encourages individuals to contribute to the liberation and advancement of their people?",
+      "choices": [
+        "Nia",
+        "Ujima",
+        "Umoja",
+        "Kujichagulia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the traditional Kinara arrangement, what do the three red candles specifically represent?",
+      "choices": [
+        "The three branches of African government",
+        "The struggle, sacrifice, and resilience of Black Americans",
+        "The three generations of family",
+        "Economic prosperity in three sectors"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary educational and ceremonial purpose of the Karamu feast in Kwanzaa tradition?",
+      "choices": [
+        "To redistribute wealth among community members",
+        "To prepare participants for the upcoming new year financially",
+        "To reinforce cultural values, educate about heritage, and celebrate communal bonds",
+        "To honor a specific harvest season unique to African agriculture"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Dr. Maulana Karenga establish Kwanzaa?",
+      "choices": [
+        "1964",
+        "1966",
+        "1969",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Los Angeles neighborhood's civil unrest directly inspired the creation of Kwanzaa?",
+      "choices": [
+        "South Central",
+        "Watts",
+        "Compton",
+        "Long Beach"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the literal English translation of 'Nguzo Saba'?",
+      "choices": [
+        "Seven Celebrations",
+        "Seven Principles",
+        "Seven Harvests",
+        "Seven Gatherings"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the seven principles emphasizes collective problem-solving and shared responsibility?",
+      "choices": [
+        "Kujichagulia",
+        "Ujima",
+        "Kuumba",
+        "Nia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the principle of Kujichagulia specifically advocate?",
+      "choices": [
+        "Creative improvement of the community",
+        "Self-determination and autonomy",
+        "Belief in collective victory",
+        "Purpose and goal-setting"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what specific context did Dr. Maulana Karenga develop the seven principles of Kwanzaa?",
+      "choices": [
+        "Pan-African academic conference",
+        "Response to cultural disconnection among African Americans",
+        "International peace movement",
+        "Educational curriculum reform"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Why does Kwanzaa use two 'a's at the end of its name?",
+      "choices": [
+        "To honor a Swahili grammatical convention",
+        "To represent the two continents connected by the diaspora",
+        "To signify the seven letters of the first principle",
+        "To distinguish it from similar African observances"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary purpose of the Karamu feast within Kwanzaa celebrations?",
+      "choices": [
+        "To prepare food for the upcoming year",
+        "To honor African ancestors and celebrate community accomplishments",
+        "To distribute gifts among family members",
+        "To conclude the seven-day observance"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which candle position in the Kinara holds the black candle representing Umoja?",
+      "choices": [
+        "Far left",
+        "Center",
+        "Far right",
+        "It rotates positions each day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What do the three green candles in the Kinara symbolize within Kwanzaa philosophy?",
+      "choices": [
+        "Past, present, and future",
+        "Hope, growth, and environmental stewardship",
+        "Unity, self-determination, and collective work",
+        "Purpose, creativity, and faith"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the daily Habari Gani greeting ritual, who responds to the question with the day's corresponding principle?",
+      "choices": [
+        "The eldest family member",
+        "The person who lit that day's candle",
+        "Any family member present",
+        "The household leader"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What agricultural concept does the Kwanzaa symbol of Mazao represent beyond literal harvest?",
+      "choices": [
+        "The bounty of African trade routes",
+        "Historical African American contributions to American farming and land cultivation",
+        "Seasonal cycles of planting and reaping",
+        "Economic prosperity and financial independence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scholar and activist narrated 'The Black Candle,' the foundational Kwanzaa documentary?",
+      "choices": [
+        "James Baldwin",
+        "Maya Angelou",
+        "Audre Lorde",
+        "bell hooks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the structural arrangement called that holds the seven candles of Kwanzaa?",
+      "choices": [
+        "Mkeka stand",
+        "Kinara",
+        "Zamat holder",
+        "Umoja frame"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On which date does the Kwanzaa observance conclude with reflection on future goals?",
+      "choices": [
+        "December 31st",
+        "January 1st",
+        "January 7th",
+        "The first Sunday of January"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What traditional woven mat serves as the foundation for Kwanzaa table arrangements?",
+      "choices": [
+        "Dari mat",
+        "Mkeka",
+        "Kente cloth",
+        "Bogolan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principle of Kwanzaa directly calls practitioners to enhance and beautify their communities?",
+      "choices": [
+        "Kuumba",
+        "Ujamaa",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does Ujamaa, as a Kwanzaa principle, specifically advocate regarding economic relationships?",
+      "choices": [
+        "Individual wealth accumulation and competition",
+        "Cooperative economics and mutual financial support within the community",
+        "Equal distribution of all resources",
+        "Rejection of market-based commerce"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive days does the traditional Kwanzaa observance span?",
+      "choices": [
+        "Five days",
+        "Six days",
+        "Seven days",
+        "Eight days"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes faith in people, leadership, and ultimate victory of the struggle?",
+      "choices": [
+        "Kujichagulia",
+        "Ujamaa",
+        "Imani",
+        "Nia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swahili phrase is the etymological origin of the word 'Kwanzaa'?",
+      "choices": [
+        "Matunda ya kwanza",
+        "Harambee ya kwanza",
+        "Jumaa ya kwanza",
+        "Karamu ya kwanza"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dr. Karenga drew inspiration for Kwanzaa's structure from which of the following cultural traditions?",
+      "choices": [
+        "West African naming ceremonies",
+        "Pan-African harvest festivals",
+        "Caribbean Emancipation Day celebrations",
+        "South African apartheid resistance movements"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The seven principles of Kwanzaa, known as Nguzo Saba, incorporate which ideological framework that Dr. Karenga explicitly emphasized?",
+      "choices": [
+        "Capitalist economics and individualism",
+        "Nationalist, pan-Africanist, and socialist values",
+        "Christian theological doctrine",
+        "Indigenous spiritual animism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Kinara candle arrangement, which position does the black candle occupy?",
+      "choices": [
+        "Far left",
+        "Center",
+        "Far right",
+        "Alternating positions"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the precise number of red candles in the Kinara's traditional arrangement?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principle of Kwanzaa is defined as 'collective purpose' and concerns building a community legacy?",
+      "choices": [
+        "Umoja",
+        "Nia",
+        "Kuumba",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Imani, the seventh principle of Kwanzaa, translates to which English concept?",
+      "choices": [
+        "Creativity",
+        "Purpose",
+        "Faith",
+        "Cooperative economics"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mkeka used during Kwanzaa ceremonies serves what functional purpose?",
+      "choices": [
+        "A cloth for wrapping gifts",
+        "A woven mat foundation for other symbols",
+        "A candle holder for the Kinara",
+        "A garment worn during celebrations"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary symbolic meaning of the red candles in the mishumaa saba?",
+      "choices": [
+        "Future aspirations of the community",
+        "Historical struggle and resistance of Black Americans",
+        "Agricultural harvest and abundance",
+        "Joy and celebration"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the Karamu feast, participants traditionally greet one another with which Swahili phrase when asking about current events?",
+      "choices": [
+        "Asante sana",
+        "Habari Gani",
+        "Harambee",
+        "Joyous Kwanzaa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phrase 'Karamu Ya Imani' refers to which ceremonial component of Kwanzaa?",
+      "choices": [
+        "The daily lighting of candles",
+        "The Feast of Faith gathering",
+        "The exchange of gifts and Zawadi",
+        "The reading of the Nguzo Saba"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Zawadi, the exchange element of Kwanzaa, traditionally emphasizes which type of gift-giving principle?",
+      "choices": [
+        "Monetary gifts of significant value",
+        "Mass-produced consumer goods",
+        "Meaningful gifts that reinforce commitments and bonds",
+        "Anonymous gift exchanges"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President first formally acknowledged Kwanzaa from the White House with an official statement?",
+      "choices": [
         "Ronald Reagan",
+        "George H. W. Bush",
         "Bill Clinton",
         "Barack Obama"
       ],
       "correct": 2,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Bill Clinton",
-        "verified": true,
-        "notes": "First official greeting in 1997. Every subsequent president has done so as well."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which African festival traditions chiefly inspired Kwanzaa?",
+      "q": "Ujima, one of the seven principles, emphasizes which collective responsibility?",
       "choices": [
-        "African harvest / first-fruits festivals",
-        "Slave-trade memorials",
-        "Sahel desert ceremonies",
-        "Egyptian dynastic rites"
+        "Individual self-determination",
+        "Collective problem-solving and shared responsibility",
+        "Artistic expression and creativity",
+        "Economic profit and accumulation"
       ],
-      "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "African harvest festival traditions",
-        "verified": true,
-        "notes": "Notably the Zulu Umkhosi Wokweshwama and Ashanti / Yoruba first-fruits ceremonies."
-      }
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "What U.S. event most directly motivated Karenga's creation of Kwanzaa as a cultural-unity holiday?",
+      "q": "The Kennedy Center for the Performing Arts has hosted Kwanzaa celebrations that emphasize which aspect of the holiday?",
       "choices": [
-        "The 1965 Watts riots in Los Angeles",
-        "The Selma march",
-        "The Million Man March",
-        "The Stonewall riots"
+        "Political activism and protest",
+        "Spiritual and religious observance",
+        "Artistic expression and cultural elegance",
+        "Commercial retail transactions"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kuumba, the sixth principle of Kwanzaa, is defined as commitment to which human endeavor?",
+      "choices": [
+        "Economic self-sufficiency",
+        "Creative and aesthetic expression",
+        "Community organization",
+        "Personal wealth accumulation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During which specific dates is Kwanzaa traditionally observed?",
+      "choices": [
+        "December 16-24",
+        "December 26-January 1",
+        "January 1-7",
+        "November 26-December 2"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The concept of harambee, meaning 'pull together,' was incorporated into Kwanzaa from which African nation's independence movements?",
+      "choices": [
+        "South Africa",
+        "Kenya",
+        "Nigeria",
+        "Ethiopia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original conceptualization by Dr. Karenga, Kwanzaa was intended primarily for which demographic group?",
+      "choices": [
+        "All African diaspora communities globally",
+        "African Americans and the Black community in the United States",
+        "East African populations",
+        "Pan-African political activists only"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dr. Maulana Karenga created Kwanzaa in 1966 during which social and political movement in the United States?",
+      "choices": [
+        "The Civil Rights Movement's later phase and rise of Black Nationalism",
+        "The Great Migration of African Americans to northern cities",
+        "The Pan-African independence movements in Africa",
+        "The emergence of the Black Power movement in the 1970s"
       ],
       "correct": 0,
-      "category": "Kwanzaa",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Watts riots",
-        "verified": true,
-        "notes": "Karenga sought to create a holiday that would 'give Blacks an alternative to the existing holiday and give Blacks an opportunity to celebrate themselves and their history.'"
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African harvest festival directly inspired the creation of Kwanzaa's ceremonial structure and timing?",
+      "choices": [
+        "The Ethiopian Timkat festival",
+        "The Zulu Umkhosi Wokweshwama festival",
+        "The Senegalese Biennale de Dakar",
+        "The Ghanaian Aboakyir festival"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kawaida philosophy underlying Kwanzaa's principles was developed by which scholar?",
+      "choices": [
+        "Kwame Asante",
+        "Maulana Karenga",
+        "Cheikh Anta Diop",
+        "Ivan Van Sertima"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the first official Kwanzaa celebration take place?",
+      "choices": [
+        "1964",
+        "1966",
+        "1967",
+        "1970"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kinara, the candle holder central to Kwanzaa ceremonies, traditionally holds how many candles total?",
+      "choices": [
+        "Five candles",
+        "Six candles",
+        "Seven candles",
+        "Eight candles"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes individual self-determination and rejecting external oppression?",
+      "choices": [
+        "Ujima (Collective Responsibility)",
+        "Kujichagulia (Self-Determination)",
+        "Kuumba (Creativity)",
+        "Imani (Faith)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The mkeka, the mat upon which Kwanzaa symbols are arranged, symbolizes what aspect of African heritage?",
+      "choices": [
+        "The foundation and history of African peoples",
+        "Agricultural abundance and harvest cycles",
+        "Spiritual connection to ancestral lands",
+        "The journey of the Middle Passage"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary purpose of the Karamu feast celebrated on December 31st during Kwanzaa?",
+      "choices": [
+        "To honor the New Year and make personal resolutions",
+        "To celebrate the harvest and community bonds while reflecting on the principles",
+        "To commemorate the abolition of slavery in the United States",
+        "To exchange gifts between family members according to socialist ideology"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The three colors of the Kwanzaa flag—red, black, and green—originate from which historical context?",
+      "choices": [
+        "The Pan-African flag created by Marcus Garvey",
+        "The traditional colors of African kingdoms",
+        "The colors chosen by the United Nations",
+        "The flags of African nations that gained independence in the 1960s"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ujamaa, one of the seven principles, combines cooperative economics with what economic ideology?",
+      "choices": [
+        "Laissez-faire capitalism",
+        "Community-based socialist economics",
+        "Mercantilism and trade monopolies",
+        "Feudal land-based systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President formally acknowledged Kwanzaa from the White House during the 1990s?",
+      "choices": [
+        "George H.W. Bush",
+        "Bill Clinton",
+        "Barack Obama",
+        "Ronald Reagan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The daily greeting 'Habari Gani?' during Kwanzaa is followed by the response naming which of the seven principles?",
+      "choices": [
+        "The same principle each day in sequence",
+        "A randomly selected principle chosen by the speaker",
+        "Whichever principle corresponds to that day of Kwanzaa",
+        "The principle that the listener believes needs most attention"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scholar and activist created Kwanzaa?",
+      "choices": [
+        "Dr. Martin Luther King Jr.",
+        "Dr. Maulana Karenga",
+        "Malcolm X",
+        "James Baldwin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the woven mat that forms the foundation of the Kwanzaa display?",
+      "choices": [
+        "Kikombe",
+        "Mkeka",
+        "Kinara",
+        "Zawadi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many days does the Kwanzaa celebration last?",
+      "choices": [
+        "Five days",
+        "Seven days",
+        "Ten days",
+        "Twelve days"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do the green candles in the Kinara traditionally represent?",
+      "choices": [
+        "Peace and harmony",
+        "The ancestors",
+        "Hope and the future",
+        "Community strength"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle emphasizes collective work and responsibility within the community?",
+      "choices": [
+        "Umoja",
+        "Ujima",
+        "Nia",
+        "Kuumba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Habari Gani?",
+      "choices": [
+        "A traditional Kwanzaa dance",
+        "The daily greeting meaning 'What's the news?'",
+        "A type of ceremonial food",
+        "The name of the unity cup"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the single black candle in the center of the Kinara symbolize?",
+      "choices": [
+        "Struggle and hardship",
+        "African unity and identity",
+        "Agricultural abundance",
+        "Spiritual awakening"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are mazao in the context of Kwanzaa?",
+      "choices": [
+        "Musical instruments",
+        "Fruits and vegetables representing the harvest",
+        "Spiritual songs",
+        "Decorative cloths"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa focuses on self-determination and setting community goals?",
+      "choices": [
+        "Imani",
+        "Nia",
+        "Kuumba",
+        "Kujichagulia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What language family does the word 'Kwanzaa' originate from?",
+      "choices": [
+        "Yoruba",
+        "Arabic",
+        "Swahili",
+        "Zulu"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Kikombe cha Umoja used for during Kwanzaa?",
+      "choices": [
+        "Serving traditional foods",
+        "Holding candles",
+        "A unity cup for pouring libations and honoring ancestors",
+        "Displaying gifts"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main feast day of Kwanzaa called?",
+      "choices": [
+        "Karamu",
+        "Zawadi",
+        "Harambee",
+        "Mkeka"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle represents faith and belief in the community's ultimate victory?",
+      "choices": [
+        "Nia",
+        "Imani",
+        "Ujamaa",
+        "Umoja"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do the red candles on the Kinara traditionally symbolize?",
+      "choices": [
+        "Joy and celebration",
+        "The struggle of Black Americans",
+        "Abundance and prosperity",
+        "Spiritual enlightenment"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Los Angeles event in 1965 was a catalyst for Dr. Karenga's creation of Kwanzaa?",
+      "choices": [
+        "The Selma marches",
+        "The Watts riots",
+        "The Democratic National Convention",
+        "The establishment of UCLA"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Kinara?",
+      "choices": [
+        "A traditional African drum",
+        "A candleholder for the seven candles of Kwanzaa",
+        "A type of ceremonial robe",
+        "A harvest basket"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle emphasizes leaving the community more beautiful and beneficial than you found it?",
+      "choices": [
+        "Ujima",
+        "Kuumba",
+        "Kujichagulia",
+        "Zawadi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do the gifts exchanged during Kwanzaa, called Zawadi, typically represent?",
+      "choices": [
+        "Monetary value and wealth",
+        "Commitments kept and goals achieved throughout the year",
+        "Religious blessings",
+        "Seasonal produce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa is celebrated on the first day and emphasizes unity?",
+      "choices": [
+        "Kujichagulia",
+        "Umoja",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Swahili term for the seven principles of Kwanzaa?",
+      "choices": [
+        "Matunda Ya Kwanza",
+        "Nguzo Saba",
+        "Mkeka Nguzo",
+        "Kinara Saba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes collective work and responsibility?",
+      "choices": [
+        "Umoja",
+        "Ujamaa",
+        "Kuumba",
+        "Harambee"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does 'Umoja' mean, the first principle celebrated on Day 1?",
+      "choices": [
+        "Self-determination",
+        "Unity",
+        "Cooperative economics",
+        "Purpose"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many candles are placed in the Kinara during Kwanzaa?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is the center candle of the Kinara?",
+      "choices": [
+        "Red",
+        "Green",
+        "Black",
+        "White"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the mkeka mat symbolize in Kwanzaa celebrations?",
+      "choices": [
+        "Prosperity and wealth",
+        "Foundation and history",
+        "Creative expression",
+        "Future hope"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle is defined as 'creative self-expression'?",
+      "choices": [
+        "Nia",
+        "Imani",
+        "Kuumba",
+        "Kujichagulia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does 'Nia' encourage practitioners to do?",
+      "choices": [
+        "Celebrate African heritage",
+        "Restore Black community to its traditional greatness",
+        "Practice honesty",
+        "Support local businesses"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle emphasizes faith and confidence in the future?",
+      "choices": [
+        "Ujamaa",
+        "Imani",
+        "Harambee",
+        "Kuumba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does 'Ujamaa' promote within the Black community?",
+      "choices": [
+        "Individual achievement",
+        "Cooperative economics and shared business",
+        "Spiritual practice",
+        "Educational advancement"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which event in Los Angeles in 1965 influenced Dr. Karenga to create Kwanzaa?",
+      "choices": [
+        "The Rodney King riots",
+        "The Watts riots",
+        "The LA uprising",
+        "The civil rights march"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kwanzaa is celebrated for how many days?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What philosophical framework underpins Kwanzaa's values?",
+      "choices": [
+        "Pan-Africanism alone",
+        "Socialism alone",
+        "Kawaida philosophy",
+        "Christian theology"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the name 'Kwanzaa' derive from?",
+      "choices": [
+        "A West African greeting",
+        "The Swahili phrase 'matunda ya kwanza' meaning first fruits",
+        "A Zulu word for celebration",
+        "An acronym for Black empowerment"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President was the first to formally recognize Kwanzaa from the White House?",
+      "choices": [
+        "Ronald Reagan",
+        "George H.W. Bush",
+        "Bill Clinton",
+        "Barack Obama"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional African celebration served as a cultural model for Kwanzaa?",
+      "choices": [
+        "Carnival traditions",
+        "Harvest festival traditions",
+        "Wedding ceremonies",
+        "Coronation rituals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle focuses on self-determination and individual choice?",
+      "choices": [
+        "Umoja",
+        "Kujichagulia",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do the three red candles in the Kinara symbolize?",
+      "choices": [
+        "Hope and joy",
+        "The struggle of Black Americans",
+        "Economic success",
+        "Educational achievement"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many principles form the foundation of Kwanzaa?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Nine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the Swahili word 'matunda ya kwanza' mean?",
+      "choices": [
+        "Seven principles",
+        "First fruits",
+        "Unity cup",
+        "Festive feast"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa refers to self-determination and speaking one's own truth?",
+      "choices": [
+        "Ujima",
+        "Kujichagulia",
+        "Nia",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the candle holder used during Kwanzaa celebrations?",
+      "choices": [
+        "Mkeka",
+        "Kinara",
+        "Kikombe",
+        "Mazao"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the woven mat called 'mkeka' symbolize in Kwanzaa?",
+      "choices": [
+        "Agricultural abundance",
+        "Family lineage",
+        "Foundation and tradition",
+        "The seasons"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The principle of Ujamaa encourages participants to build what together?",
+      "choices": [
+        "Political parties",
+        "Shared businesses and economic resources",
+        "Military forces",
+        "Religious institutions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is 'Karamu' in the context of Kwanzaa?",
+      "choices": [
+        "A prayer ritual",
+        "The final festive feast",
+        "A type of candle",
+        "A Swahili song"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which African people's harvest festival influenced the creation of Kwanzaa?",
+      "choices": [
+        "Zulu Umkhosi Wokweshwama",
+        "Egyptian Nile Festival",
+        "Maasai Engipaata",
+        "Yoruba Osun Osogbo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many candles are lit during the Kwanzaa celebration?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the black candle in the center of the Kinara represent?",
+      "choices": [
+        "Ancestral wisdom",
+        "Unity of Black Americans",
+        "Agricultural prosperity",
+        "Spiritual awakening"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What philosophical framework underpins the seven principles of Kwanzaa?",
+      "choices": [
+        "Negritude",
+        "Kawaida",
+        "Pan-Africanism",
+        "Afrocentrism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The principle of Kuumba calls participants to enhance their community through what means?",
+      "choices": [
+        "Political activism",
+        "Military strength",
+        "Creativity and artistic expression",
+        "Economic dominance"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the purpose of 'mazao' on the Kwanzaa display?",
+      "choices": [
+        "To decorate the table",
+        "To represent the harvest and fruits of collective labor",
+        "To feed livestock",
+        "To prepare for winter storage"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle focuses on establishing a sense of purpose and direction for the future?",
+      "choices": [
+        "Ujamaa",
+        "Nia",
+        "Imani",
+        "Kujichagulia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During what month is Kwanzaa traditionally celebrated?",
+      "choices": [
+        "November",
+        "December",
+        "January",
+        "February"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What greeting is exchanged during Kwanzaa, asking 'How are you?' in Swahili?",
+      "choices": [
+        "Jambo",
+        "Habari Gani",
+        "Asante Sana",
+        "Pole Pole"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa emphasizes faith and belief in the future?",
+      "choices": [
+        "Ujima",
+        "Kuumba",
+        "Imani",
+        "Nia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which historical event in Los Angeles directly inspired Dr. Maulana Karenga to create Kwanzaa?",
+      "choices": [
+        "The Watts Riots",
+        "The Rodney King Trial",
+        "The LA Gang Truce",
+        "The Civil Rights March"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the seven-branched candle holder used during Kwanzaa celebrations?",
+      "choices": [
+        "Menorah",
+        "Kinara",
+        "Ashanti",
+        "Ujima Stand"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle emphasizes self-determination and defining oneself on one's own terms?",
+      "choices": [
+        "Ujamaa",
+        "Kujichagulia",
+        "Imani",
+        "Nia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the Swahili word 'Ujamaa' translate to in the context of Kwanzaa's principles?",
+      "choices": [
+        "Collective Work and Responsibility",
+        "Cooperative Economics",
+        "Purpose and Direction",
+        "Faith and Belief"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa calls for restoring and reconnecting with traditional African greatness?",
+      "choices": [
+        "Umoja",
+        "Nia",
+        "Kuumba",
+        "Kujichagulia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional greeting used during Kwanzaa to ask 'What is the news?'",
+      "choices": [
+        "Jambo Kwanzaa",
+        "Habari Gani",
+        "Asante Sana",
+        "Karibu Tena"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The unity cup in Kwanzaa, also known by what Swahili name, is raised to honor African ancestors?",
+      "choices": [
+        "Kinara cha Umoja",
+        "Kikombe cha Umoja",
+        "Zawadi ya Umoja",
+        "Nguzo cha Umoja"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the festive communal meal that concludes Kwanzaa on its final day?",
+      "choices": [
+        "Zawadi",
+        "Mishumaa",
+        "Karamu",
+        "Mkeka"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Why does Kwanzaa have a double 'a' at the end of its name?",
+      "choices": [
+        "To honor the Zulu language",
+        "To symbolize the seven letters in the alphabet",
+        "To represent African diaspora",
+        "It was a spelling error that became traditional"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which festival of the Zulu people served as cultural inspiration for Kwanzaa's creation?",
+      "choices": [
+        "Umkhosi Wokweshwama",
+        "Imbolc Festival",
+        "Beltane Celebration",
+        "Lughnasadh"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many candles are lit throughout the seven days of Kwanzaa on the Kinara?",
+      "choices": [
+        "Five candles",
+        "Seven candles",
+        "Fourteen candles",
+        "Twenty-one candles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which principle of Kwanzaa specifically emphasizes building and maintaining community through shared work?",
+      "choices": [
+        "Umoja",
+        "Ujima",
+        "Kuumba",
+        "Imani"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Nguzo Saba framework blends which ideological movements into Kwanzaa's foundation?",
+      "choices": [
+        "Capitalist and Democratic values",
+        "Nationalist, Pan-Africanist, and Socialist values",
+        "Religious and Spiritual values",
+        "Democratic and Republican values"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Kwanzaa principle encourages believers to maintain faith in people, leaders, and the ultimate victory of struggle?",
+      "choices": [
+        "Nia",
+        "Ujamaa",
+        "Imani",
+        "Kujichagulia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Dr. Maulana Karenga created Kwanzaa in 1966 during which major social movement in the United States?",
+      "choices": [
+        "The Civil Rights Movement",
+        "The Black Power movement",
+        "The Pan-African independence movements",
+        "The Black Arts Movement"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

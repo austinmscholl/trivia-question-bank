@@ -1,25 +1,18 @@
 {
   "slug": "california-trivia",
   "name": "California",
-  "description": "The Golden State — beaches, Sierras, Hollywood, Silicon Valley, and the country's most populous state.",
-  "processedAt": "2026-04-21T21:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.455Z",
   "questions": [
     {
-      "q": "What is the capital of California?",
-      "choices": ["Los Angeles", "San Francisco", "Sacramento", "San Diego"],
-      "correct": 2,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Sacramento", "verified": true, "notes": "State capital since 1854." }
-    },
-    {
       "q": "California's official nickname celebrates which precious metal?",
-      "choices": ["The Silver State", "The Golden State", "The Copper State", "The Platinum State"],
+      "choices": [
+        "The Silver State",
+        "The Golden State",
+        "The Copper State",
+        "The Platinum State"
+      ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Golden State", "verified": true, "notes": "Named for the 1849 Gold Rush." }
+      "difficulty": "easy"
     },
     {
       "q": "Which iconic orange-red bridge spans the entrance to San Francisco Bay?",
@@ -30,33 +23,40 @@
         "Richmond–San Rafael Bridge"
       ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Golden Gate Bridge", "verified": true, "notes": "Opened 1937." }
+      "difficulty": "easy"
     },
     {
       "q": "California is bordered on the west by which ocean?",
-      "choices": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "choices": [
+        "Atlantic",
+        "Indian",
+        "Pacific",
+        "Arctic"
+      ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Pacific Ocean", "verified": true, "notes": "840 miles of Pacific coastline." }
+      "difficulty": "easy"
     },
     {
       "q": "Which California theme park, opened in 1955, is often called 'The Happiest Place on Earth'?",
-      "choices": ["Knott's Berry Farm", "Disneyland", "Universal Studios Hollywood", "Six Flags Magic Mountain"],
+      "choices": [
+        "Knott's Berry Farm",
+        "Disneyland",
+        "Universal Studios Hollywood",
+        "Six Flags Magic Mountain"
+      ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Anaheim", "verified": true, "notes": "Located in Anaheim, Orange County." }
+      "difficulty": "easy"
     },
     {
       "q": "What is California's largest city by population?",
-      "choices": ["San Diego", "San Jose", "Los Angeles", "San Francisco"],
+      "choices": [
+        "San Diego",
+        "San Jose",
+        "Los Angeles",
+        "San Francisco"
+      ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Los Angeles", "verified": true, "notes": "Roughly 3.8 million residents in the city proper." }
+      "difficulty": "easy"
     },
     {
       "q": "Which California national park is famous for Half Dome and El Capitan?",
@@ -67,140 +67,711 @@
         "Joshua Tree National Park"
       ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "easy",
-      "source": { "original_a": "Yosemite National Park", "verified": true, "notes": "Designated 1890." }
+      "difficulty": "easy"
     },
     {
-      "q": "California became the 31st U.S. state in what year?",
-      "choices": ["1846", "1848", "1850", "1865"],
-      "correct": 2,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "1850", "verified": true, "notes": "Admitted September 9, 1850." }
-    },
-    {
-      "q": "Which 1848 event touched off California's largest population boom?",
+      "q": "What is the capital city of California?",
       "choices": [
-        "The Gold Rush",
-        "The Mexican-American War",
-        "The Bear Flag Revolt",
-        "The Silver Rush"
+        "Los Angeles",
+        "Sacramento",
+        "San Francisco",
+        "San Diego"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain range contains Mount Whitney, the highest peak in the contiguous United States?",
+      "choices": [
+        "Cascade Range",
+        "Sierra Nevada",
+        "San Gabriel Mountains",
+        "Coastal Ranges"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest desert in California?",
+      "choices": [
+        "Mojave Desert",
+        "Colorado Desert",
+        "Great Basin Desert",
+        "Anza-Borrego Desert"
       ],
       "correct": 0,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "California Gold Rush", "verified": true, "notes": "Gold found at Sutter's Mill, January 24, 1848." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the highest mountain in the contiguous United States, located in California's Sierra Nevada?",
-      "choices": ["Mount Shasta", "Mount Whitney", "Mount Lassen", "Mount San Jacinto"],
-      "correct": 1,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "Mount Whitney", "verified": true, "notes": "14,505 feet (4,421 m)." }
-    },
-    {
-      "q": "Which California national park is famous for being one of the hottest places on Earth?",
+      "q": "Which famous national park in California is known for giant sequoia trees?",
       "choices": [
-        "Joshua Tree",
-        "Death Valley",
+        "Yosemite National Park",
+        "Death Valley National Park",
+        "Sequoia National Park",
+        "Joshua Tree National Park"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the large inland salt lake located in Southern California?",
+      "choices": [
+        "Mono Lake",
+        "Salton Sea",
+        "Clear Lake",
+        "Tahoe Lake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university in the San Francisco Bay Area is the oldest campus in the University of California system?",
+      "choices": [
+        "Stanford University",
+        "University of California, Berkeley",
+        "San Jose State University",
+        "California Institute of Technology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most populous state in the United States?",
+      "choices": [
+        "Texas",
+        "Florida",
+        "California",
+        "New York"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which national park in California is famous for its granite cliffs, waterfalls, and Half Dome?",
+      "choices": [
+        "Kings Canyon National Park",
+        "Death Valley National Park",
+        "Yosemite National Park",
+        "Redwood National Park"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What desert in California is known for its unique Joshua trees?",
+      "choices": [
+        "Mojave Desert",
+        "Anza-Borrego Desert",
+        "Colorado Desert",
+        "Owens Valley Desert"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California national park contains Badwater Basin, the lowest point in North America?",
+      "choices": [
+        "Mojave National Preserve",
+        "Death Valley National Park",
+        "Joshua Tree National Park",
+        "Anza-Borrego Desert State Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major transcontinental railroad project was completed in 1869, connecting California to the eastern United States?",
+      "choices": [
+        "Southern Pacific Railroad",
+        "Transcontinental Railroad",
+        "Central Pacific Railroad",
+        "Santa Fe Railway"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major California university is consistently ranked among the top private universities in the world and located in Palo Alto?",
+      "choices": [
+        "UC Berkeley",
+        "Stanford University",
+        "Caltech",
+        "USC"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the San Francisco Bay Area's major urban region, the fifth-most populous in the United States?",
+      "choices": [
+        "Greater Los Angeles Area",
+        "San Francisco Bay Area",
+        "Central Valley Region",
+        "Southern California Metropolitan Area"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California river is the primary water source for nearly two-thirds of the state's population?",
+      "choices": [
+        "San Joaquin River",
+        "Sacramento River",
+        "Colorado River",
+        "Kern River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest reservoir in California, located in the Shasta Cascade region?",
+      "choices": [
+        "Oroville Reservoir",
+        "Lake Shasta",
+        "Folsom Lake",
+        "Clear Lake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which port complex in Southern California is the busiest in the United States by container volume?",
+      "choices": [
+        "Port of San Francisco",
+        "Port of Long Beach and Port of Los Angeles",
+        "Port of Oakland",
+        "Port of San Diego"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major water management system in California supplies water to the Central Valley and is one of the largest in the world?",
+      "choices": [
+        "Colorado River Project",
+        "Central Valley Project",
+        "State Water Project",
+        "California Aqueduct"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region in Northwestern California is home to the world's largest concentration of eucalyptus trees?",
+      "choices": [
+        "Redwood National Forest",
+        "Lassen National Forest",
+        "Northwestern California Forests",
+        "Klamath National Forest"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous golf course in Monterey County, California, often ranked among the best in the world?",
+      "choices": [
+        "Torrey Pines Golf Club",
+        "Pebble Beach Golf Links",
+        "Spyglass Hill",
+        "Spanish Bay Golf Club"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which island group off the Southern California coast comprises Channel Islands National Park?",
+      "choices": [
+        "Santa Catalina Islands",
         "Channel Islands",
-        "Lassen Volcanic"
+        "San Clemente Islands",
+        "Farallon Islands"
       ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "Death Valley", "verified": true, "notes": "Holds the record 134°F reading from 1913." }
+      "difficulty": "easy"
     },
     {
-      "q": "What's the name of the giant alpine lake straddling the California–Nevada border?",
-      "choices": ["Lake Tahoe", "Mono Lake", "Clear Lake", "Shasta Lake"],
+      "q": "Which California national park is famous for its giant sequoia trees?",
+      "choices": [
+        "Sequoia National Park",
+        "Joshua Tree National Park",
+        "Death Valley National Park",
+        "Redwood National Park"
+      ],
       "correct": 0,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "Lake Tahoe", "verified": true, "notes": "Second-deepest lake in the U.S." }
+      "difficulty": "easy"
     },
     {
-      "q": "California's famed wine-producing valley, north of San Francisco, is which one?",
-      "choices": ["Sonoma Valley", "Napa Valley", "Paso Robles", "Santa Ynez"],
-      "correct": 1,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "Sonoma County", "verified": true, "notes": "Napa AVA was the first U.S. American Viticultural Area, 1981." }
-    },
-    {
-      "q": "Which Spanish Franciscan founded the first California mission in 1769 and 20 more thereafter?",
+      "q": "In what year did California become a state?",
       "choices": [
-        "Juan Rodríguez Cabrillo",
-        "Junípero Serra",
-        "Bartolomé Ferrer",
-        "Sebastián Vizcaíno"
+        "1848",
+        "1850",
+        "1852",
+        "1855"
       ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "Gaspar de Portolá", "verified": true, "notes": "Portolá led the land expedition; Serra founded Mission San Diego." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1906 disaster devastated one of California's major cities and killed around 3,000 people?",
+      "q": "Which desert is located in Southern California and is known for its extreme heat?",
       "choices": [
-        "The Long Beach Earthquake",
-        "The San Francisco Earthquake and Fire",
-        "The Oakland Firestorm",
-        "The Los Angeles Flood"
+        "Great Basin Desert",
+        "Mojave Desert",
+        "Colorado Desert",
+        "Sonoran Desert"
       ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "San Francisco Earthquake", "verified": true, "notes": "Magnitude ~7.9; fires did most of the damage." }
+      "difficulty": "easy"
     },
     {
-      "q": "Silicon Valley is centered on which Northern California region?",
+      "q": "What is the most populous city in California?",
       "choices": [
-        "Sacramento Valley",
-        "East Bay",
-        "Santa Clara Valley",
-        "Central Valley"
+        "San Francisco",
+        "San Diego",
+        "Los Angeles",
+        "Long Beach"
       ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "San Jose", "verified": true, "notes": "South of San Francisco, around San Jose and Palo Alto." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which labor leader co-founded the United Farm Workers and led a famous 1965-70 grape boycott?",
+      "q": "Which famous California fault line is responsible for much of the state's earthquake activity?",
       "choices": [
-        "Dolores Huerta",
-        "Cesar Chavez",
-        "Fred Ross",
-        "Bert Corona"
+        "Hayward Fault",
+        "San Andreas Fault",
+        "Garlock Fault",
+        "Elsinore Fault"
       ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicano Movement", "verified": true, "notes": "Chavez and Dolores Huerta co-founded the UFW in 1962." }
+      "difficulty": "easy"
     },
     {
-      "q": "The Spanish explorer who first mapped the California coast in 1542 was whom?",
+      "q": "What is the lowest point in California and the entire United States?",
       "choices": [
-        "Juan Rodríguez Cabrillo",
-        "Hernán Cortés",
-        "Vasco Núñez de Balboa",
-        "Francisco Pizarro"
+        "Death Valley",
+        "Mojave Desert floor",
+        "Salton Sea",
+        "Lake Tahoe basin"
       ],
       "correct": 0,
-      "category": "California",
-      "difficulty": "medium",
-      "source": { "original_a": "1542", "verified": true, "notes": "Cabrillo entered San Diego Bay in September 1542." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California mountain range contains Mount Whitney, the highest peak in the contiguous United States?",
+      "choices": [
+        "Cascade Range",
+        "Sierra Nevada",
+        "Coast Ranges",
+        "Transverse Ranges"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of California's famous wine-producing region north of San Francisco?",
+      "choices": [
+        "Paso Robles",
+        "Napa Valley",
+        "Santa Barbara County",
+        "Temecula Valley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California city hosted the 1984 Summer Olympic Games?",
+      "choices": [
+        "San Francisco",
+        "San Diego",
+        "Los Angeles",
+        "Sacramento"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major agricultural region in California is known as the 'salad bowl of America'?",
+      "choices": [
+        "San Joaquin Valley",
+        "Central Valley",
+        "Salinas Valley",
+        "Imperial Valley"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California landmark is a suspension bridge spanning the Golden Gate Strait?",
+      "choices": [
+        "Bay Bridge",
+        "Golden Gate Bridge",
+        "Oakland Bridge",
+        "Richmond Bridge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest lake entirely within California?",
+      "choices": [
+        "Lake Tahoe",
+        "Clear Lake",
+        "Mono Lake",
+        "Tulare Lake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what decade did the California Gold Rush begin?",
+      "choices": [
+        "1830s",
+        "1840s",
+        "1850s",
+        "1860s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California national park is known for its dramatic underground cave systems?",
+      "choices": [
+        "Pinnacles National Park",
+        "Lava Beds National Monument",
+        "Crystal Caves",
+        "Carlsbad Caverns"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary agricultural product of the Central Valley?",
+      "choices": [
+        "Cotton",
+        "Oil",
+        "Fruits, vegetables, and grains",
+        "Dairy products"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California redwood forest is home to the tallest trees on Earth?",
+      "choices": [
+        "Humboldt Lagoons State Park",
+        "Redwood National and State Parks",
+        "Big Sur",
+        "Point Lobos State Natural Reserve"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is California's state bird?",
+      "choices": [
+        "California Condor",
+        "California Quail",
+        "Western Meadowlark",
+        "Golden Eagle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California city is known as the 'Happiest Place on Earth' and home to a famous theme park?",
+      "choices": [
+        "Long Beach",
+        "Anaheim",
+        "Pasadena",
+        "Irvine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the large inland sea in Southern California that is below sea level?",
+      "choices": [
+        "Mono Lake",
+        "Salton Sea",
+        "Great Salt Lake",
+        "Walker Lake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous bridge connects San Francisco to Marin County?",
+      "choices": [
+        "Bay Bridge",
+        "Golden Gate Bridge",
+        "Oakland Bridge",
+        "Dumbarton Bridge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the highest mountain peak in the contiguous United States?",
+      "choices": [
+        "Mount Shasta",
+        "Mount Whitney",
+        "Mount Diablo",
+        "Mount Lassen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which California city is Disneyland located?",
+      "choices": [
+        "Long Beach",
+        "Los Angeles",
+        "Anaheim",
+        "Irvine"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which desert in southeastern California is famous for being one of the hottest places on Earth?",
+      "choices": [
+        "Mojave Desert",
+        "Death Valley",
+        "Anza-Borrego Desert",
+        "Colorado Desert"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What technology company headquartered in Cupertino, California invented the iPhone?",
+      "choices": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Intel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California city is known for its steep hills and historic cable cars?",
+      "choices": [
+        "Oakland",
+        "Berkeley",
+        "San Francisco",
+        "Vallejo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest freshwater lake in California by volume?",
+      "choices": [
+        "Clear Lake",
+        "Lake Tahoe",
+        "Mono Lake",
+        "Salton Sea"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which treaty in 1848 resulted in California becoming part of the United States?",
+      "choices": [
+        "Treaty of Paris",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Versailles",
+        "Adams-Onís Treaty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What short-lived independent nation was proclaimed in Sonoma County in 1846?",
+      "choices": [
+        "Pacific Republic",
+        "California Republic",
+        "Bear Republic",
+        "Sonoma Independence"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California city hosts the longest-running major street race in North America?",
+      "choices": [
+        "San Francisco",
+        "Los Angeles",
+        "Long Beach",
+        "San Diego"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which national park in California is famous for its giant sequoia trees?",
+      "choices": [
+        "Yosemite National Park",
+        "Joshua Tree National Park",
+        "Death Valley National Park",
+        "Channel Islands National Park"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary hub of technology companies in California known as Silicon Valley primarily located?",
+      "choices": [
+        "Los Angeles County",
+        "San Francisco County",
+        "Santa Clara County",
+        "San Diego County"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California desert is characterized by its Joshua trees and unique desert vegetation?",
+      "choices": [
+        "Death Valley",
+        "Mojave Desert",
+        "Colorado Desert",
+        "Anza-Borrego Desert"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What museum housed in a distinctive modern building in Los Angeles is one of the world's premier art institutions?",
+      "choices": [
+        "LACMA",
+        "The Getty Center",
+        "Broad Museum",
+        "Norton Simon Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California city is the most densely populated in the state?",
+      "choices": [
+        "Los Angeles",
+        "San Francisco",
+        "Oakland",
+        "Long Beach"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What large inland saltwater lake in southern California was created by accident in the early 1900s?",
+      "choices": [
+        "Mono Lake",
+        "Owens Lake",
+        "Salton Sea",
+        "Imperial Lake"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish explorer led the first major expedition to establish missions and presidios in California in 1769?",
+      "choices": [
+        "Juan Rodríguez Cabrillo",
+        "Gaspar de Portolá",
+        "Junípero Serra",
+        "Miguel Costansó"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the second-largest city in California by population?",
+      "choices": [
+        "San Francisco",
+        "San Diego",
+        "Los Angeles",
+        "Long Beach"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the iconic suspension bridge that spans the Golden Gate Strait between San Francisco and Marin County?",
+      "choices": [
+        "Bay Bridge",
+        "Golden Gate Bridge",
+        "Coronado Bridge",
+        "Dumbarton Bridge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean borders California on its western coast?",
+      "choices": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean",
+        "Indian Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous national park in California known for its giant sequoia trees and granite cliffs?",
+      "choices": [
+        "Yosemite National Park",
+        "Sequoia National Park",
+        "Joshua Tree National Park",
+        "Death Valley National Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which technology hub in California is home to major companies like Apple, Google, and Facebook?",
+      "choices": [
+        "San Diego Tech District",
+        "Silicon Valley",
+        "Oakland Tech Park",
+        "Fresno Innovation Center"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major historical event in the 1800s brought hundreds of thousands of people to California in search of wealth?",
+      "choices": [
+        "The Oil Boom",
+        "The Gold Rush",
+        "The Silver Strike",
+        "The Diamond Discovery"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which California city is known for its hilly terrain, historic cable cars, and was significantly populated during the Gold Rush?",
+      "choices": [
+        "Los Angeles",
+        "San Diego",
+        "San Francisco",
+        "Sacramento"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
       "q": "Which massive body of salt water, accidentally created in 1905 from irrigation failures, sits in the Imperial Valley?",
-      "choices": ["Mono Lake", "Salton Sea", "Owens Lake", "Cachuma Lake"],
+      "choices": [
+        "Mono Lake",
+        "Salton Sea",
+        "Owens Lake",
+        "Cachuma Lake"
+      ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "hard",
-      "source": { "original_a": "Salton Sea", "verified": true, "notes": "Formed when the Colorado River breached an irrigation canal." }
+      "difficulty": "hard"
     },
     {
       "q": "Which river forms much of California's eastern border with Arizona?",
@@ -211,25 +782,1525 @@
         "The Klamath River"
       ],
       "correct": 1,
-      "category": "California",
-      "difficulty": "hard",
-      "source": { "original_a": "Sacramento-San Joaquin River Delta", "verified": true, "notes": "The Colorado marks the California-Arizona border." }
+      "difficulty": "hard"
     },
     {
       "q": "The short-lived 1846 'Bear Flag Revolt' declared California independent from which nation?",
-      "choices": ["Spain", "France", "Mexico", "Russia"],
+      "choices": [
+        "Spain",
+        "France",
+        "Mexico",
+        "Russia"
+      ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "hard",
-      "source": { "original_a": "California Republic", "verified": true, "notes": "Lasted 25 days; U.S. forces took over during the Mexican-American War." }
+      "difficulty": "hard"
     },
     {
       "q": "The 1869 completion of the First Transcontinental Railroad was celebrated with a Golden Spike ceremony in which U.S. state?",
-      "choices": ["California", "Nevada", "Utah", "Wyoming"],
+      "choices": [
+        "California",
+        "Nevada",
+        "Utah",
+        "Wyoming"
+      ],
       "correct": 2,
-      "category": "California",
-      "difficulty": "hard",
-      "source": { "original_a": "Transcontinental Railroad", "verified": true, "notes": "Promontory Summit, Utah — the Central Pacific started from Sacramento." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California state senator introduced the legislation that became the Chinese Exclusion Act of 1882?",
+      "choices": [
+        "Aaron Sargent",
+        "Leland Stanford",
+        "James Blaine",
+        "John Miller"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary water source for the Central Valley Project, completed in 1951?",
+      "choices": [
+        "The Colorado River",
+        "The Sacramento and San Joaquin Rivers",
+        "Groundwater aquifers",
+        "Lake Tahoe drainage systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California endemic shrubland ecosystem, covering less than 10% of its original range, is home to the California condor's native habitat?",
+      "choices": [
+        "Coastal sage scrub",
+        "Chaparral",
+        "Serpentine grassland",
+        "Oak woodland"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Juan Rodríguez Cabrillo establish the first European settlement claim in present-day San Diego?",
+      "choices": [
+        "1542",
+        "1602",
+        "1769",
+        "1848"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California mission, founded in 1823, became the most prosperous and influential under its Mexican administrator?",
+      "choices": [
+        "Mission San Gabriel Arcángel",
+        "Mission Santa Barbara",
+        "Mission San Diego de Alcalá",
+        "Mission San Francisco de Asís"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geological feature creates California's characteristic Mediterranean climate in coastal regions?",
+      "choices": [
+        "The Sierra Nevada rain shadow",
+        "The California Current and Pacific High pressure system",
+        "Proximity to the equator",
+        "Volcanic activity in the Cascade Range"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California governor's administration implemented policies directly responsible for the intentional killing of thousands of Native Americans between 1850 and 1860?",
+      "choices": [
+        "Peter Hardeman Burnett",
+        "John C. Frémont",
+        "Leland Stanford",
+        "Hiram Johnson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical name for the high-speed rail project connecting California's major metropolitan areas, with initial construction beginning in 2015?",
+      "choices": [
+        "California Intercity Express",
+        "California High-Speed Rail Authority project",
+        "Pacific Corridor Transit",
+        "Western Electric Railway Initiative"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California county produces more agricultural output by value than any other county in the United States?",
+      "choices": [
+        "Kern County",
+        "Tulare County",
+        "Fresno County",
+        "Kings County"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did California ratify the 15th Amendment, making it the first state to do so on the same day Congress passed it?",
+      "choices": [
+        "1870",
+        "1869",
+        "1871",
+        "1868"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California national park contains the lowest point in North America and the hottest temperature ever reliably recorded on Earth?",
+      "choices": [
+        "Joshua Tree National Park",
+        "Death Valley National Park",
+        "Mojave National Preserve",
+        "Anza-Borrego Desert State Park"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What controversial water rights agreement, established in 1922, allocates Colorado River water among multiple states with California receiving the largest share?",
+      "choices": [
+        "The Boulder Canyon Project Act",
+        "The Colorado River Compact",
+        "The All-American Canal Treaty",
+        "The Imperial Valley Water Rights Act"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California wildfire, burning in 1933, was the state's deadliest on record at that time with over 25 fatalities?",
+      "choices": [
+        "The Camp Fire",
+        "The Griffith Park Fire",
+        "The Aspen Fire",
+        "The Woolsey Fire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the fossiliferous formation in California, dating to the Paleocene epoch, famous for its exceptionally preserved mammal specimens?",
+      "choices": [
+        "The Green River Formation",
+        "The Gipfel Formation",
+        "The Chico Formation",
+        "The Point Lookout Sandstone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California artist and photographer, known for landscape documentation, founded the Group f/64 in 1932?",
+      "choices": [
+        "Ansel Adams",
+        "Edward Weston",
+        "Imogen Cunningham",
+        "Willard Van Dyke"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary reason the Salton Sea, California's largest lake by surface area, experiences extremely high salinity levels?",
+      "choices": [
+        "Natural mineral deposits beneath the lake floor",
+        "Agricultural runoff and evaporation without oceanic water exchange",
+        "Tidal influence from the Gulf of California",
+        "Geothermal mineral-rich springs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California indigenous tribe, based in the Sierra Nevada foothills, was led by Chief Joseph during conflicts in the 1870s?",
+      "choices": [
+        "The Nez Percé",
+        "The Maidu",
+        "The Miwok",
+        "The Yana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geological phenomenon, occurring along the San Andreas Fault system, produces the characteristic offset visible in the Carrizo Plain?",
+      "choices": [
+        "Strike-slip faulting",
+        "Reverse faulting",
+        "Normal faulting",
+        "Transform boundary convergence"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California city became a major population center during the 1920s due to the discovery of oil in the Los Angeles Basin?",
+      "choices": [
+        "Long Beach",
+        "Huntington Beach",
+        "Signal Hill",
+        "Torrance"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the scientific name for the ancient bristlecone pine species found in California's White Mountains, with specimens over 5,000 years old?",
+      "choices": [
+        "Pinus aristata",
+        "Pinus balfouriana",
+        "Pinus longaeva",
+        "Pinus flexilis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did California ratify the 15th Amendment, becoming one of the first states to grant voting rights regardless of race?",
+      "choices": [
+        "1870",
+        "1868",
+        "1872",
+        "1875"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California governor signed the first comprehensive state environmental quality act in 1970, predating the federal NEPA?",
+      "choices": [
+        "Ronald Reagan",
+        "Jerry Brown",
+        "Edmund G. Brown Sr.",
+        "George Deukmejian"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the massive aqueduct system, completed in 1913, that brought water from the Owens Valley to Los Angeles?",
+      "choices": [
+        "Hetch Hetchy Aqueduct",
+        "Los Angeles Aqueduct",
+        "State Water Project",
+        "Central Valley Project"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Californian national park contains the lowest point in North America?",
+      "choices": [
+        "Death Valley National Park",
+        "Joshua Tree National Park",
+        "Mojave National Preserve",
+        "Anza-Borrego Desert State Park"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Bear Flag Revolt declared in Sonoma, establishing the short-lived California Republic?",
+      "choices": [
+        "1844",
+        "1846",
+        "1848",
+        "1850"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1906 legal proceeding resulted from the San Francisco earthquake and involved disputes over insurance claims and property damage?",
+      "choices": [
+        "Lochner v. New York",
+        "Munn v. Illinois",
+        "San Francisco Relief and Reconstruction Commission cases",
+        "Ex parte Young"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What indigenous Californian language family includes the Yokuts and Maidu languages spoken in the Central Valley?",
+      "choices": [
+        "Siouan-Catawban",
+        "Penutian",
+        "Hokan",
+        "Uto-Aztecan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California state proposition in 1978 capped property tax assessments at 1% of assessed value, fundamentally changing local tax revenue?",
+      "choices": [
+        "Proposition 8",
+        "Proposition 13",
+        "Proposition 63",
+        "Proposition 98"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did California experience the largest wildfire by acreage burned up to that point, the Dixie Fire?",
+      "choices": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California mission, founded in 1786, was named after Saint Francis of Assisi and became the most economically successful?",
+      "choices": [
+        "Mission San Diego de Alcalá",
+        "Mission Santa Clara de Asís",
+        "Mission San Francisco de Asís",
+        "Mission San Antonio de Padua"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the geographic feature in the Sierra Nevada that created a rain shadow and contributed to the formation of the Great Basin deserts?",
+      "choices": [
+        "Cascade Range",
+        "Wasatch Range",
+        "Sierra Nevada rain shadow effect",
+        "Transverse Ranges barrier"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California Supreme Court case in 1948, Shelley v. Kraemer, involved the invalidation of racially restrictive covenants in housing?",
+      "choices": [
+        "Brown v. Board of Education",
+        "Shelley v. Kraemer",
+        "Plessy v. Ferguson",
+        "Loving v. Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the California Legislature first establish a dedicated state water agency to manage water resources statewide?",
+      "choices": [
+        "1921",
+        "1933",
+        "1956",
+        "1970"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Central Valley agricultural region produces more cotton than any other county in the United States?",
+      "choices": [
+        "Kern County",
+        "Kings County",
+        "Tulare County",
+        "Fresno County"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary reason the Portolá Expedition of 1769 was sent to California?",
+      "choices": [
+        "To search for gold deposits",
+        "To establish Spanish missions and military presidios",
+        "To map the Pacific coastline",
+        "To negotiate with Russian fur traders"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California state park, located in the San Gabriel Mountains, contains the oldest standing structure in Los Angeles County?",
+      "choices": [
+        "Torrey Pines State Natural Reserve",
+        "Crystal Cove State Park",
+        "Leo Carrillo State Park",
+        "Anza State Historic Park"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did California voters approve Proposition 187, which sought to restrict social services for undocumented immigrants?",
+      "choices": [
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California congressman authored the Chinese Exclusion Act of 1882, which barred Chinese immigration?",
+      "choices": [
+        "James G. Blaine",
+        "John Miller",
+        "Bret Harte",
+        "William Stewart"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geological formation in the Sierra Nevada, partially protected within Yosemite, was created by glacial action and contains Half Dome?",
+      "choices": [
+        "Glacial Valley",
+        "Yosemite Valley",
+        "Kings Canyon",
+        "Tenaya Canyon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California county has historically been the largest producer of almonds, accounting for over 80% of global almond production?",
+      "choices": [
+        "Merced County",
+        "Kern County",
+        "Fresno County",
+        "San Joaquin County"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did California ratify the 15th Amendment to the United States Constitution, becoming the first state to do so?",
+      "choices": [
+        "1870",
+        "1869",
+        "1871",
+        "1868"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California governor signed the Coastal Zone Management Act in 1976, establishing one of the nation's first comprehensive coastal protection frameworks?",
+      "choices": [
+        "Jerry Brown",
+        "Ronald Reagan",
+        "Edmund G. Brown Sr.",
+        "George Deukmejian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the large aquifer system beneath California's Central Valley that supplies approximately one-third of the state's groundwater?",
+      "choices": [
+        "Tulare Basin Aquifer",
+        "Central Valley Aquifer System",
+        "Sacramento-San Joaquin Aquifer",
+        "Kings River Basin Aquifer"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1994, California voters approved Proposition 187, which attempted to deny which of the following to undocumented immigrants?",
+      "choices": [
+        "Employment opportunities",
+        "Social services, healthcare, and public education",
+        "Property ownership rights",
+        "Driver's licenses"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California county, located in the northeastern part of the state, has the smallest population of any county in California as of recent census data?",
+      "choices": [
+        "Alpine County",
+        "Mono County",
+        "Inyo County",
+        "Mariposa County"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geological formation, discovered near the town of Point Lobos, is the deepest underwater submarine canyon on the California coast?",
+      "choices": [
+        "Monterey Canyon",
+        "Klamath Canyon",
+        "Carmel Canyon",
+        "Big Sur Submarine Canyon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1906 San Francisco earthquake registered approximately what magnitude on the Richter scale?",
+      "choices": [
+        "7.2",
+        "7.9",
+        "8.1",
+        "6.8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California mission, founded in 1769 by Father Junípero Serra, served as the headquarters of the mission system?",
+      "choices": [
+        "Mission San Diego de Alcalá",
+        "Mission San Gabriel Arcángel",
+        "Mission San Carlos Borromeo de Carmelo",
+        "Mission Santa Clara de Asís"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary cause of the 1928 failure of the St. Francis Dam near Los Angeles, resulting in over 600 deaths?",
+      "choices": [
+        "Structural design flaw and weak geology",
+        "Extreme rainfall event",
+        "Earthquake damage",
+        "Sabotage by labor activists"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1978, California voters approved Proposition 13, which primarily limited increases in which type of government revenue?",
+      "choices": [
+        "Income tax rates",
+        "Sales tax rates",
+        "Property tax assessments",
+        "Gasoline tax rates"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The California Aqueduct, completed in 1972, primarily transports water from which northern California source to the south?",
+      "choices": [
+        "Sacramento River",
+        "San Joaquin-Sacramento Delta",
+        "Feather River",
+        "Klamath River"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which naturalist, whose preserved cabin stands in Yosemite Valley, was instrumental in establishing the national park system through his advocacy?",
+      "choices": [
+        "Aldo Leopold",
+        "John Muir",
+        "Theodore Roosevelt",
+        "David Brower"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Berkeley Free Speech Movement of 1964 originated as a protest against what administrative action at UC Berkeley?",
+      "choices": [
+        "Tuition increases",
+        "Restrictions on political activism on campus",
+        "Racial discrimination policies",
+        "Military recruitment on campus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the maximum speed limit imposed on California highways in 1974 as part of a federal fuel conservation measure?",
+      "choices": [
+        "50 mph",
+        "55 mph",
+        "60 mph",
+        "65 mph"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California-based aerospace company built the majority of commercial jetliners in North America during the late 20th century?",
+      "choices": [
+        "Lockheed Martin",
+        "Northrop Grumman",
+        "Douglas Aircraft/McDonnell Douglas",
+        "Rockwell International"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1969 oil spill near Santa Barbara released approximately how many gallons of crude oil into the Pacific Ocean?",
+      "choices": [
+        "1 million gallons",
+        "3 million gallons",
+        "5 million gallons",
+        "10 million gallons"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2020, California became the first state to eliminate the cash bail system in favor of which alternative assessment method?",
+      "choices": [
+        "Risk assessment algorithms",
+        "Pretrial detention for all cases",
+        "Public opinion voting",
+        "No bail system implementation was finalized"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California-born author won the Nobel Prize in Literature in 1962 and is known for works set in the Monterey Peninsula?",
+      "choices": [
+        "Jack Kerouac",
+        "John Steinbeck",
+        "Richard Brautigan",
+        "William Saroyan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Anza-Borrego Desert in California experiences an ephemeral wildflower bloom known as what phenomenon, occurring when conditions align?",
+      "choices": [
+        "Superbloom",
+        "Desert flush",
+        "Wildflower cascade",
+        "Petal bloom"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official state rock of California, adopted in 1985?",
+      "choices": [
+        "Serpentine",
+        "Tourmaline",
+        "Tourmaline quartz",
+        "Serpentine jade"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did California's state legislature officially ratify the Fifteenth Amendment to the U.S. Constitution, becoming the first state to do so?",
+      "choices": [
+        "1869",
+        "1870",
+        "1868",
+        "1871"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Oroville Dam, one of California's critical water infrastructure projects, is located in which northern California county?",
+      "choices": [
+        "Butte County",
+        "Glenn County",
+        "Tehama County",
+        "Colusa County"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California national park contains Mount Whitney, the tallest peak in the contiguous United States?",
+      "choices": [
+        "Inyo National Forest",
+        "Death Valley National Park",
+        "Sequoia National Park",
+        "Kings Canyon National Park"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Salton Sea was created accidentally in 1905 as a result of a failure in which irrigation canal system?",
+      "choices": [
+        "All-American Canal",
+        "California Development Company Canal",
+        "Imperial Canal",
+        "Coachella Canal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which California county produces the highest dollar value of agricultural output annually across all crop and livestock categories?",
+      "choices": [
+        "Kern County",
+        "Tulare County",
+        "Fresno County",
+        "Kings County"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tule elk, a subspecies endemic to California, was hunted to near extinction and reduced to how many individuals by the early 1900s?",
+      "choices": [
+        "Fewer than 50",
+        "Between 100 and 200",
+        "Approximately 500",
+        "Around 1,000"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "California became the 31st U.S. state in what year?",
+      "choices": [
+        "1846",
+        "1848",
+        "1850",
+        "1865"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1848 event touched off California's largest population boom?",
+      "choices": [
+        "The Gold Rush",
+        "The Mexican-American War",
+        "The Bear Flag Revolt",
+        "The Silver Rush"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the highest mountain in the contiguous United States, located in California's Sierra Nevada?",
+      "choices": [
+        "Mount Shasta",
+        "Mount Whitney",
+        "Mount Lassen",
+        "Mount San Jacinto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California national park is famous for being one of the hottest places on Earth?",
+      "choices": [
+        "Joshua Tree",
+        "Death Valley",
+        "Channel Islands",
+        "Lassen Volcanic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What's the name of the giant alpine lake straddling the California–Nevada border?",
+      "choices": [
+        "Lake Tahoe",
+        "Mono Lake",
+        "Clear Lake",
+        "Shasta Lake"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "California's famed wine-producing valley, north of San Francisco, is which one?",
+      "choices": [
+        "Sonoma Valley",
+        "Napa Valley",
+        "Paso Robles",
+        "Santa Ynez"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish Franciscan founded the first California mission in 1769 and 20 more thereafter?",
+      "choices": [
+        "Juan Rodríguez Cabrillo",
+        "Junípero Serra",
+        "Bartolomé Ferrer",
+        "Sebastián Vizcaíno"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1906 disaster devastated one of California's major cities and killed around 3,000 people?",
+      "choices": [
+        "The Long Beach Earthquake",
+        "The San Francisco Earthquake and Fire",
+        "The Oakland Firestorm",
+        "The Los Angeles Flood"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Silicon Valley is centered on which Northern California region?",
+      "choices": [
+        "Sacramento Valley",
+        "East Bay",
+        "Santa Clara Valley",
+        "Central Valley"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which labor leader co-founded the United Farm Workers and led a famous 1965-70 grape boycott?",
+      "choices": [
+        "Dolores Huerta",
+        "Cesar Chavez",
+        "Fred Ross",
+        "Bert Corona"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Spanish explorer who first mapped the California coast in 1542 was whom?",
+      "choices": [
+        "Juan Rodríguez Cabrillo",
+        "Hernán Cortés",
+        "Vasco Núñez de Balboa",
+        "Francisco Pizarro"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Juan Rodríguez Cabrillo become the first European explorer to reach the California coast?",
+      "choices": [
+        "1542",
+        "1602",
+        "1769",
+        "1848"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California national park is home to the world's largest trees by volume?",
+      "choices": [
+        "Yosemite National Park",
+        "Sequoia National Park",
+        "Redwood National Park",
+        "Joshua Tree National Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of California's major water redistribution system that supplies the Central Valley with water from northern regions?",
+      "choices": [
+        "State Water Project",
+        "Central Valley Project",
+        "Sacramento Basin Initiative",
+        "Sierra Nevada Aqueduct"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California wine region is located in Sonoma County and is particularly famous for Pinot Noir production?",
+      "choices": [
+        "Napa Valley",
+        "Paso Robles",
+        "Russian River Valley",
+        "Santa Barbara County"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What historic expedition led by Gaspar de Portolá in 1769 established the first Spanish missions and presidios in California?",
+      "choices": [
+        "Cabrillo Expedition",
+        "Portolá Expedition",
+        "Serra Missions",
+        "Spanish Colonial March"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California lake is the largest freshwater lake by volume located entirely within the state's borders?",
+      "choices": [
+        "Clear Lake",
+        "Lake Tahoe",
+        "Mono Lake",
+        "Goose Lake"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major agricultural product generates the highest value for California's farming industry?",
+      "choices": [
+        "Almonds",
+        "Dairy products",
+        "Cotton",
+        "Strawberries"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California national park contains the southernmost glacier in the continental United States?",
+      "choices": [
+        "Yosemite National Park",
+        "Sequoia National Park",
+        "Kings Canyon National Park",
+        "Death Valley National Park"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the large inland saltwater lake in Southern California known for its environmental challenges?",
+      "choices": [
+        "Mono Lake",
+        "Salton Sea",
+        "Walker Lake",
+        "Owens Lake"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California region experienced a massive population boom following the discovery of gold in 1848?",
+      "choices": [
+        "Sierra Nevada foothills",
+        "Central Valley",
+        "Coastal areas",
+        "San Francisco Bay"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary mountain range in California that contains Mount Whitney, the highest peak in the contiguous United States?",
+      "choices": [
+        "Cascade Range",
+        "Sierra Nevada",
+        "San Gabriel Mountains",
+        "Coastal Ranges"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California national park is notable for its volcanic features and geothermal activity within the Ring of Fire?",
+      "choices": [
+        "Death Valley National Park",
+        "Joshua Tree National Park",
+        "Lassen Volcanic National Park",
+        "Channel Islands National Park"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Transcontinental Railroad completed, directly connecting California to the eastern United States?",
+      "choices": [
+        "1859",
+        "1869",
+        "1879",
+        "1889"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California port complex handles the largest volume of cargo imports in the United States?",
+      "choices": [
+        "Port of San Francisco",
+        "Port of Oakland",
+        "Port of Los Angeles and Port of Long Beach",
+        "Port of San Diego"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the specific region in California recognized as the global center for technology startups and venture capital?",
+      "choices": [
+        "Bay Area Tech District",
+        "Silicon Valley",
+        "Digital Peninsula",
+        "Innovation Basin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California tree species can live longer than 5,000 years, making it among the oldest living organisms on Earth?",
+      "choices": [
+        "Giant Sequoia",
+        "Coast Redwood",
+        "Bristlecone Pine",
+        "Douglas Fir"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional fire management practice, used by California's indigenous peoples, helps prevent catastrophic wildfires?",
+      "choices": [
+        "Firebreak construction",
+        "Controlled burning",
+        "Forest suppression",
+        "Fuel removal harvesting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California valley is recognized as one of the world's most productive agricultural regions, producing a significant portion of America's vegetables?",
+      "choices": [
+        "San Joaquin Valley",
+        "Central Valley",
+        "Salinas Valley",
+        "Santa Clara Valley"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary reason for the establishment of Spanish missions throughout California beginning in 1769?",
+      "choices": [
+        "Gold exploration",
+        "Trade route control",
+        "Religious conversion and colonization",
+        "Military defense only"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous California national park is renowned for its massive granite formations, including Half Dome and El Capitan?",
+      "choices": [
+        "Joshua Tree National Park",
+        "Yosemite National Park",
+        "Sequoia National Park",
+        "Death Valley National Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did California achieve statehood as the 31st state of the United States?",
+      "choices": [
+        "1848",
+        "1850",
+        "1852",
+        "1849"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which treaty concluded the Mexican-American War and ceded California to the United States?",
+      "choices": [
+        "Treaty of Paris",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Versailles",
+        "Adams-Onís Treaty"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Whitney, the highest peak in the contiguous United States, is located in which California mountain range?",
+      "choices": [
+        "Cascade Range",
+        "Sierra Nevada",
+        "San Gabriel Mountains",
+        "White Mountains"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the large desert region in California that contains Badwater Basin, the lowest point in North America?",
+      "choices": [
+        "Mojave Desert",
+        "Death Valley",
+        "Anza-Borrego Desert",
+        "Salton Basin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city is home to the headquarters of the Walt Disney Company?",
+      "choices": [
+        "Anaheim",
+        "Los Angeles",
+        "Burbank",
+        "Glendale"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What architectural structure connects San Francisco to Marin County and is painted a distinctive orange-red color?",
+      "choices": [
+        "Bay Bridge",
+        "Golden Gate Bridge",
+        "Oakland Bridge",
+        "Richmond-San Rafael Bridge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sacramento became the capital of California in which year?",
+      "choices": [
+        "1848",
+        "1849",
+        "1854",
+        "1852"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which national park in California is famous for its ancient giant sequoia trees?",
+      "choices": [
+        "Joshua Tree National Park",
+        "Redwood National Park",
+        "Sequoia National Park",
+        "Kings Canyon National Park"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest freshwater lake located entirely within California's borders?",
+      "choices": [
+        "Mono Lake",
+        "Clear Lake",
+        "Lake Tahoe",
+        "Goose Lake"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major 1906 natural disaster devastated San Francisco and is considered one of the deadliest earthquakes in U.S. history?",
+      "choices": [
+        "Great Fire of San Francisco",
+        "San Francisco Earthquake",
+        "Bay Area Tremor",
+        "Pacific Coast Seismic Event"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Central Valley of California is primarily known for which economic activity?",
+      "choices": [
+        "Oil extraction",
+        "Technology manufacturing",
+        "Agricultural production",
+        "Gold mining"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California region is renowned worldwide for wine production and includes areas like Napa and Sonoma?",
+      "choices": [
+        "High Desert",
+        "Sierra Foothills",
+        "North Coast",
+        "San Joaquin Valley"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest salt lake located in Southern California?",
+      "choices": [
+        "Mono Lake",
+        "Great Salt Lake",
+        "Salton Sea",
+        "Owens Lake"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city serves as the primary hub for the technology industry known as Silicon Valley?",
+      "choices": [
+        "Mountain View",
+        "Palo Alto",
+        "San Jose",
+        "Sunnyvale"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Channel Islands National Park is located off the coast of which part of California?",
+      "choices": [
+        "Northern California",
+        "Central Coast",
+        "Southern California",
+        "San Francisco Bay Area"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city is home to Disneyland and is part of the Los Angeles metropolitan area?",
+      "choices": [
+        "Long Beach",
+        "Anaheim",
+        "Santa Ana",
+        "Irvine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary cause of the California Water Wars dispute between Los Angeles and Owens Valley?",
+      "choices": [
+        "Gold mining rights",
+        "Agricultural water rights",
+        "Oil drilling permits",
+        "Timber harvesting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fast-food chain was founded in California in 1940 and has since become a global corporation?",
+      "choices": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's",
+        "Chick-fil-A"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "William B. Ide served as the first governor of which short-lived independent entity in California?",
+      "choices": [
+        "California Republic",
+        "Sacramento Republic",
+        "Gold Coast Republic",
+        "Pacific Republic"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did California's population surpass that of all other U.S. states, making it the most populous state?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did California officially become a state of the United States?",
+      "choices": [
+        "1848",
+        "1850",
+        "1852",
+        "1855"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California national park is famous for its giant sequoia trees and granite monoliths?",
+      "choices": [
+        "Yosemite National Park",
+        "Sequoia National Park",
+        "Joshua Tree National Park",
+        "Death Valley National Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The San Francisco earthquake of 1906 is primarily remembered for causing how much of the city to burn?",
+      "choices": [
+        "One quarter",
+        "One half",
+        "Three quarters",
+        "Nearly the entire city"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city served as the capital during the Gold Rush era and is now a historic tourist destination?",
+      "choices": [
+        "Sacramento",
+        "Stockton",
+        "Placerville",
+        "Nevada City"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lake Tahoe's remarkable clarity is primarily due to which characteristic of its water?",
+      "choices": [
+        "High salt content",
+        "Low mineral content and great depth",
+        "Constant cold temperatures",
+        "Active filtration by surrounding plants"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish explorer led the 1769 expedition that established the first European settlements in California?",
+      "choices": [
+        "Hernán Cortés",
+        "Gaspar de Portolá",
+        "Juan Cabrillo",
+        "Sebastian Vizcaíno"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The California Republic, a short-lived independent nation, was established in which California region in 1846?",
+      "choices": [
+        "Sonoma",
+        "Sacramento Valley",
+        "Los Angeles basin",
+        "San Francisco Bay"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major fast-food restaurant chain, now a global phenomenon, was founded in San Bernardino, California in 1940?",
+      "choices": [
+        "Burger King",
+        "Wendy's",
+        "McDonald's",
+        "In-N-Out Burger"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Central Valley Project was primarily designed to serve which purpose in California?",
+      "choices": [
+        "Generate hydroelectric power",
+        "Distribute water for irrigation and municipal use",
+        "Create recreational lakes",
+        "Control flood waters only"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city is home to the headquarters of the Disney Corporation?",
+      "choices": [
+        "Los Angeles",
+        "Anaheim",
+        "Burbank",
+        "Glendale"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Transcontinental Railroad, completed in 1869, had its western terminus located in which California city?",
+      "choices": [
+        "San Francisco",
+        "Sacramento",
+        "Oakland",
+        "Los Angeles"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which indigenous Californian practice, now being revived, involves controlled burning to manage forests and reduce catastrophic wildfires?",
+      "choices": [
+        "Slash burning",
+        "Cultural burning",
+        "Seasonal clearing",
+        "Controlled logging"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest agricultural product by monetary value produced in California?",
+      "choices": [
+        "Cotton",
+        "Dairy milk and cream",
+        "Almonds",
+        "Strawberries"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Golden Gate Bridge connects San Francisco to which adjacent county?",
+      "choices": [
+        "Alameda County",
+        "Marin County",
+        "Santa Clara County",
+        "Contra Costa County"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California inland body of water, located in the southern desert region, was created as an unintended consequence of irrigation canal construction?",
+      "choices": [
+        "Mono Lake",
+        "Salton Sea",
+        "Walker Lake",
+        "Owens Lake"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The San Andreas Fault in California is responsible for approximately what percentage of total U.S. earthquake risk?",
+      "choices": [
+        "One third",
+        "One half",
+        "Two thirds",
+        "Three quarters"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city is known as the birthplace of the entertainment industry and remains the headquarters of major film studios?",
+      "choices": [
+        "San Francisco",
+        "San Diego",
+        "Los Angeles",
+        "Pasadena"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The bristlecone pines found in California's Inyo National Forest are notable for possessing which characteristic?",
+      "choices": [
+        "Tallest trees in North America",
+        "Fastest growth rate of any tree",
+        "Greatest age of any living organism",
+        "Largest diameter of any conifer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2010, California voters approved Proposition 14, which reformed the state's primary election system to use which model?",
+      "choices": [
+        "Closed primary system",
+        "Nonpartisan blanket primary",
+        "Two-party proportional representation",
+        "Open caucus system"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

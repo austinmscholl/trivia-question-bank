@@ -1,299 +1,1668 @@
 {
   "slug": "hard-trivia",
   "name": "Hard",
-  "description": "Tough general knowledge — for trivia masters and tiebreakers.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.568Z",
   "questions": [
     {
-      "q": "Which 1815 battle ended Napoleon's reign?",
-      "choices": ["Waterloo", "Austerlitz", "Trafalgar", "Borodino"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Waterloo",
-        "verified": true,
-        "notes": "June 18, 1815. Defeated by Wellington and Blücher."
-      }
-    },
-    {
-      "q": "In what year did the Black Death first arrive in Europe?",
-      "choices": ["1347", "1492", "1066", "1215"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1347",
-        "verified": true,
-        "notes": "Arrived via Genoese ships from Crimea."
-      }
-    },
-    {
-      "q": "Who was the most famous female pharaoh of ancient Egypt who ruled in her own right?",
-      "choices": ["Hatshepsut", "Cleopatra VII", "Nefertiti", "Nefertari"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Hatshepsut",
-        "verified": true,
-        "notes": "18th dynasty, ruled ~1479-1458 BC. Cleopatra was the *last* but is more famous."
-      }
-    },
-    {
-      "q": "Which English civil war (1455-1487) was fought between the Houses of York and Lancaster?",
+      "q": "Which Renaissance artist sculpted the statue of David from a single block of marble?",
       "choices": [
-        "Wars of the Roses",
-        "Hundred Years' War",
-        "English Civil War",
-        "Anarchy"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "War of the Roses",
-        "verified": true,
-        "notes": "Ended at Battle of Bosworth Field (1485) with Henry Tudor's victory."
-      }
-    },
-    {
-      "q": "Which Inca civilization built Machu Picchu in the Peruvian Andes?",
-      "choices": ["Inca", "Maya", "Aztec", "Olmec"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Inca",
-        "verified": true,
-        "notes": "Built ~1450 CE under emperor Pachacuti."
-      }
-    },
-    {
-      "q": "Which 1939 event marked the start of World War II in Europe?",
-      "choices": [
-        "German invasion of Poland",
-        "Anschluss of Austria",
-        "Munich Agreement",
-        "Pearl Harbor attack"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Invasion of Poland",
-        "verified": true,
-        "notes": "September 1, 1939; Britain & France declared war 9/3."
-      }
-    },
-    {
-      "q": "Which Roman city was buried by Vesuvius in 79 AD?",
-      "choices": ["Pompeii", "Herculaneum", "Ostia", "Naples"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Pompeii",
-        "verified": true,
-        "notes": "Herculaneum was also destroyed. Pompeii is more famous."
-      }
-    },
-    {
-      "q": "What was the 1840 treaty between the British Crown and Māori chiefs in New Zealand?",
-      "choices": [
-        "Treaty of Waitangi",
-        "Treaty of Aotearoa",
-        "Treaty of Wellington",
-        "Treaty of Auckland"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Treaty of Waitangi",
-        "verified": true,
-        "notes": "February 6, 1840. Foundational document of New Zealand."
-      }
-    },
-    {
-      "q": "What was the original German name for the Berlin Wall in 1961?",
-      "choices": [
-        "Antifaschistischer Schutzwall (Anti-Fascist Protection Rampart)",
-        "Mauer der Freiheit",
-        "Schutzgrenze",
-        "Eisernes Vorhang"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Antifaschistischer Schutzwall",
-        "verified": true,
-        "notes": "East German euphemism. Wall stood 1961-1989."
-      }
-    },
-    {
-      "q": "What was the strategic objective of Sherman's March to the Sea (1864)?",
-      "choices": [
-        "Destroy Confederate economic capacity",
-        "Liberate enslaved people directly",
-        "Capture Robert E. Lee",
-        "Burn Richmond"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Hard",
-        "verified": true,
-        "notes": "From Atlanta to Savannah, ~285 miles. Total war doctrine."
-      }
-    },
-    {
-      "q": "What is the science of earthquakes called?",
-      "choices": ["Seismology", "Volcanology", "Meteorology", "Geology"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Seismology",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the science of fossils called?",
-      "choices": ["Paleontology", "Archaeology", "Anthropology", "Geology"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Paleontology",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the speed of light in a vacuum (in m/s)?",
-      "choices": [
-        "299,792,458",
-        "300,000,000 (approx — exact value lower)",
-        "186,000,000",
-        "150,000,000"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "299,792,458 m/s",
-        "verified": true,
-        "notes": "Exact value used to define the meter since 1983."
-      }
-    },
-    {
-      "q": "What is the chemical symbol for Oganesson — the heaviest known element?",
-      "choices": ["Og", "On", "Os", "Oa"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Og",
-        "verified": true,
-        "notes": "Atomic number 118. Synthesized 2002."
-      }
-    },
-    {
-      "q": "What was Pepsi-Cola originally called when first served in 1893, before its 1898 rename?",
-      "choices": [
-        "Brad's Drink",
-        "Pep's Cola",
-        "Cola Brad",
-        "North Carolina Cola"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Brad's Drink",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: clarified 1893 invention vs 1898 rename. Caleb Bradham, New Bern, NC. Renamed 'Pepsi-Cola' in 1898."
-      }
-    },
-    {
-      "q": "Which African nation is known as the 'Land of a Thousand Hills'?",
-      "choices": ["Rwanda", "Burundi", "Uganda", "Ethiopia"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Rwanda",
-        "verified": true,
-        "notes": "French nickname: 'pays des mille collines.'"
-      }
-    },
-    {
-      "q": "What's the largest lake in Africa, named after a British queen?",
-      "choices": [
-        "Lake Victoria",
-        "Lake Tanganyika",
-        "Lake Malawi",
-        "Lake Nasser"
-      ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Lake Victoria",
-        "verified": true,
-        "notes": "Largest by area; Tanganyika is largest by volume."
-      }
-    },
-    {
-      "q": "Which Renaissance polymath painted the Sistine Chapel ceiling?",
-      "choices": [
+        "Leonardo da Vinci",
         "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the largest lake in Africa?",
+      "choices": [
+        "Lake Tanganyika",
+        "Lake Victoria",
+        "Lake Malawi",
+        "Lake Turkana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country produces more coffee than any other nation in the world?",
+      "choices": [
+        "Colombia",
+        "Vietnam",
+        "Brazil",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What biological process allows plants to convert sunlight into chemical energy?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Osmosis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which continent is also a country and is home to kangaroos and koalas?",
+      "choices": [
+        "New Zealand",
+        "Papua New Guinea",
+        "Australia",
+        "Fiji"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Mount Vesuvius erupt and destroy the Roman city of Pompeii?",
+      "choices": [
+        "63 AD",
+        "79 AD",
+        "98 AD",
+        "114 AD"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote The Hunger Games trilogy?",
+      "choices": [
+        "Veronica Roth",
+        "Suzanne Collins",
+        "Rick Riordan",
+        "J.K. Rowling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pop artist famously painted Campbell's soup cans?",
+      "choices": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "Keith Haring",
+        "Jean-Michel Basquiat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Shakespeare play does the character Ophelia appear alongside Prince Hamlet?",
+      "choices": [
+        "Macbeth",
+        "Othello",
+        "Hamlet",
+        "A Midsummer Night's Dream"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous battle in 1815 marked the end of Napoleon Bonaparte's military dominance?",
+      "choices": [
+        "Battle of Austerlitz",
+        "Battle of Waterloo",
+        "Battle of Borodino",
+        "Battle of Leipzig"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who painted The Persistence of Memory, famous for its melting clocks?",
+      "choices": [
+        "Pablo Picasso",
+        "Joan Miró",
+        "Salvador Dalí",
+        "Max Ernst"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which scientist formulated the law of universal gravitation?",
+      "choices": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Johannes Kepler",
+        "Nicolaus Copernicus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "During which historical period did the Renaissance begin in Italy?",
+      "choices": [
+        "13th century",
+        "14th century",
+        "15th century",
+        "16th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What art technique uses small dots of color placed side by side to create an image?",
+      "choices": [
+        "Chiaroscuro",
+        "Pointillism",
+        "Sfumato",
+        "Impasto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which actor portrayed James Bond in the film Casino Royale?",
+      "choices": [
+        "Pierce Brosnan",
+        "Daniel Craig",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the scientific study of fossils called?",
+      "choices": [
+        "Archaeology",
+        "Paleontology",
+        "Geology",
+        "Paleography"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the film The Godfather, who delivers the famous line 'I'm going to make him an offer he can't refuse'?",
+      "choices": [
+        "Michael Corleone",
+        "Vito Corleone",
+        "Tom Hagen",
+        "Peter Clemenza"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote the novel 'Jane Eyre,' published in 1847 under a pen name?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Dickinson",
+        "George Eliot",
+        "Jane Austen"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who composed 'The Four Seasons,' a famous set of violin concertos?",
+      "choices": [
+        "Antonio Vivaldi",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "George Frideric Handel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who painted 'The Starry Night' in 1889?",
+      "choices": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'Pride and Prejudice,' published in 1813?",
+      "choices": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Mary Shelley",
+        "Louisa May Alcott"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did World War II end in Europe?",
+      "choices": [
+        "1945",
+        "1944",
+        "1946",
+        "1943"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous physicist developed the theory of relativity?",
+      "choices": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Galileo Galilei",
+        "Stephen Hawking"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the American Declaration of Independence get signed?",
+      "choices": [
+        "1776",
+        "1774",
+        "1781",
+        "1789"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote the novel 'Pride and Prejudice'?",
+      "choices": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "Emily Dickinson",
+        "George Eliot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who composed the opera 'The Magic Flute'?",
+      "choices": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "George Frideric Handel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which French artist painted 'Water Lilies'?",
+      "choices": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Paul Cézanne",
+        "Edgar Degas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most spoken language in the world by native speakers?",
+      "choices": [
+        "English",
+        "Spanish",
+        "Mandarin Chinese",
+        "Hindi"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which element has the atomic number 1?",
+      "choices": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Carbon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is the fastest land mammal?",
+      "choices": [
+        "Lion",
+        "Antelope",
+        "Cheetah",
+        "Greyhound"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which artist famously cut off part of his own ear in 1888?",
+      "choices": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Paul Cézanne",
+        "Henri Matisse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous composer wrote 'Für Elise,' one of the most recognizable piano pieces in the world?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Liszt",
+        "Frédéric Chopin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process by which plants convert sunlight into chemical energy to grow and survive?",
+      "choices": [
+        "Respiration",
+        "Fermentation",
+        "Photosynthesis",
+        "Oxidation"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British actor portrayed the cannibalistic psychiatrist Hannibal Lecter in 'The Silence of the Lambs'?",
+      "choices": [
+        "Gary Oldman",
+        "Anthony Hopkins",
+        "Ian McKellen",
+        "Jeremy Irons"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the Library of Alexandria suffer its final destruction, effectively ending the ancient world's greatest repository of knowledge?",
+      "choices": [
+        "48 BC",
+        "391 AD",
+        "642 AD",
+        "1453 AD"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian author wrote 'Crime and Punishment' and is known for exploring psychological torment and moral redemption?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Anton Chekhov",
+        "Ivan Turgenev"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theoretical boundary surrounding a black hole beyond which no light can escape?",
+      "choices": [
+        "Schwarzschild radius",
+        "Event horizon",
+        "Photon sphere",
+        "Ergosphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In music theory, what is the interval between the first and fifth scale degrees called?",
+      "choices": [
+        "Perfect fourth",
+        "Perfect fifth",
+        "Augmented fifth",
+        "Tritone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French mathematician and philosopher developed the philosophical method known as Cartesian doubt?",
+      "choices": [
+        "Blaise Pascal",
+        "René Descartes",
+        "Pierre de Fermat",
+        "Jean-Baptiste Fourier"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American composer wrote 'Appalachian Spring' and served as a cultural ambassador for classical music?",
+      "choices": [
+        "George Gershwin",
+        "Aaron Copland",
+        "Duke Ellington",
+        "John Philip Sousa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In organic chemistry, what is the name of the reaction where an ester is broken down into an alcohol and a carboxylic acid?",
+      "choices": [
+        "Esterification",
+        "Saponification",
+        "Hydrolysis",
+        "Transesterification"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish artist's radical deconstruction of human form through cubism revolutionized 20th-century visual art?",
+      "choices": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geological epoch immediately preceded the Quaternary Period, ending approximately 2.6 million years ago?",
+      "choices": [
+        "Miocene",
+        "Pliocene",
+        "Oligocene",
+        "Eocene"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British author created the character of the aristocratic detective Lord Peter Wimsey?",
+      "choices": [
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "P.D. James",
+        "Ruth Rendell"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Treaty of Westphalia conclude the Thirty Years' War and reshape the political map of Europe?",
+      "choices": [
+        "1618",
+        "1648",
+        "1668",
+        "1688"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the philosophical position that prioritizes intuition and emotional experience over rational analysis?",
+      "choices": [
+        "Rationalism",
+        "Empiricism",
+        "Romanticism",
+        "Positivism"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese film director is celebrated for the technique of using extreme long shots and sparse dialogue in works like 'Tokyo Story'?",
+      "choices": [
+        "Akira Kurosawa",
+        "Yasujirō Ozu",
+        "Masaki Kobayashi",
+        "Mikio Naruse"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mathematics, what term describes a sequence where each term after the first is found by multiplying the previous one by a fixed non-zero number?",
+      "choices": [
+        "Arithmetic sequence",
+        "Geometric sequence",
+        "Fibonacci sequence",
+        "Harmonic sequence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek mathematician is credited with formulating the principle of buoyancy, often called Archimedes' Principle?",
+      "choices": [
+        "Euclid",
+        "Pythagoras",
+        "Archimedes",
+        "Thales"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the political movement in 19th-century Europe that sought to unify fragmented territories based on shared language and culture?",
+      "choices": [
+        "Federalism",
+        "Nationalism",
+        "Imperialism",
+        "Liberalism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Tolkien's The Lord of the Rings, what is the name of Frodo's sword that glows blue when orcs are near?",
+      "choices": [
+        "Anduril",
+        "Sting",
+        "Glamdring",
+        "Excalibur"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tectonic plate underlies most of the Pacific Ocean floor?",
+      "choices": [
+        "Philippine Plate",
+        "Pacific Plate",
+        "Nazca Plate",
+        "Cocos Plate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary architectural innovation that allowed the construction of the Roman Pantheon's massive concrete dome?",
+      "choices": [
+        "Steel reinforcement",
+        "Relieving arches",
+        "Coffered ceiling with gradually lighter aggregate",
+        "Wooden internal scaffolding"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the opera 'The Magic Flute' with its famous Queen of the Night aria?",
+      "choices": [
+        "Giuseppe Verdi",
+        "Wolfgang Amadeus Mozart",
+        "Georges Bizet",
+        "Gioachino Rossini"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Library of Alexandria burn, effectively ending the ancient library's legacy during the Roman period?",
+      "choices": [
+        "48 BCE",
+        "391 CE",
+        "642 CE",
+        "1453 CE"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical formula for the compound commonly known as laughing gas, used in dentistry?",
+      "choices": [
+        "N2O",
+        "NO2",
+        "NH3",
+        "N2O5"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of Michelangelo's paintings on the Sistine Chapel ceiling depicts the creation of Adam?",
+      "choices": [
+        "The Fall of Man",
+        "The Creation of Adam",
+        "The Flood",
+        "The Last Judgment"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of true echolocation among these options?",
+      "choices": [
+        "Elephant",
+        "Bat",
+        "Dolphin",
+        "Shrew"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek philosopher developed the atomic theory centuries before modern science confirmed it?",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Democritus",
+        "Epicurus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1929, which stock market crash triggered the Great Depression?",
+      "choices": [
+        "Black Monday",
+        "Black Thursday",
+        "Black Friday",
+        "Black Tuesday"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which enzyme in human saliva begins the digestion of carbohydrates?",
+      "choices": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Protease"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the 1947 supersonic aircraft piloted by Chuck Yeager that broke the sound barrier?",
+      "choices": [
+        "X-15",
+        "Bell X-1",
+        "XF-92",
+        "D-558"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian author wrote Crime and Punishment, exploring guilt and redemption in 19th-century Saint Petersburg?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In quantum mechanics, what is the name of the principle stating that the position and momentum of a particle cannot both be precisely known simultaneously?",
+      "choices": [
+        "Pauli Exclusion Principle",
+        "Uncertainty Principle",
+        "Superposition Principle",
+        "Correspondence Principle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the smallest country in Africa by area, located on the western coast of the continent?",
+      "choices": [
+        "Equatorial Guinea",
+        "Mauritius",
+        "Seychelles",
+        "Gambia"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of metamorphic rock is produced when limestone is subjected to extreme heat and pressure?",
+      "choices": [
+        "Slate",
+        "Marble",
+        "Schist",
+        "Gneiss"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In molecular biology, what is the term for the sequence of three nucleotide bases that codes for a specific amino acid during protein synthesis?",
+      "choices": [
+        "Exon",
+        "Intron",
+        "Codon",
+        "Promoter"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Library of Alexandria experience its final major destruction?",
+      "choices": [
+        "48 BC",
+        "391 AD",
+        "642 AD",
+        "1453 AD"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the opera 'The Magic Flute' in 1791?",
+      "choices": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Georges Bizet",
+        "Gioachino Rossini"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the theoretical boundary around a black hole beyond which nothing can escape?",
+      "choices": [
+        "Schwarzschild radius",
+        "Event horizon",
+        "Photon sphere",
+        "Ergosphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Renaissance artist designed both the dome of Florence Cathedral and served as its chief architect?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Filippo Brunelleschi",
+        "Andrea Palladio",
+        "Donato Bramante"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dante Alighieri's 'Inferno,' how many circles of Hell are there?",
+      "choices": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Soviet cosmonaut became the first human to conduct a spacewalk in 1965?",
+      "choices": [
+        "Yuri Gagarin",
+        "Alexei Leonov",
+        "Valentina Tereshkova",
+        "Pavel Belyayev"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical formula for the mineral corundum, which includes rubies and sapphires?",
+      "choices": [
+        "Al₂O₃",
+        "SiO₂",
+        "MgAl₂O₄",
+        "BeAl₂O₄"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Impressionist painter created the series of paintings depicting water lilies at his garden in Giverny?",
+      "choices": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Alfred Sisley",
+        "Frédéric Bazille"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary language spoken in the Byzantine Empire during the 6th century?",
+      "choices": [
+        "Latin",
+        "Greek",
+        "Old Church Slavonic",
+        "Aramaic"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mathematician formulated the incompleteness theorems in 1931?",
+      "choices": [
+        "David Hilbert",
+        "Kurt Gödel",
+        "Bertrand Russell",
+        "Alfred Whitehead"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Treaty of Westphalia end the Thirty Years' War?",
+      "choices": [
+        "1643",
+        "1648",
+        "1652",
+        "1660"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of sustained echolocation using ultrasonic frequencies?",
+      "choices": [
+        "Dolphin",
+        "Bat",
+        "Shrew",
+        "Tenrec"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese ukiyo-e artist created 'The Great Wave off Kanagawa'?",
+      "choices": [
+        "Tsukioka Yoshitoshi",
+        "Katsushika Hokusai",
+        "Utagawa Hiroshige",
+        "Kawanabe Kyōsai"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the first commercial transatlantic telegraph cable, completed in 1858?",
+      "choices": [
+        "Atlantic Cable",
+        "Morse Cable",
+        "Transatlantic Telegraph Cable",
+        "Oxford Cable"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher developed phenomenology as a philosophical method?",
+      "choices": [
+        "Martin Heidegger",
+        "Edmund Husserl",
+        "Friedrich Nietzsche",
+        "Arthur Schopenhauer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the second-highest mountain peak on Earth by elevation?",
+      "choices": [
+        "Kangchenjunga",
+        "Lhotse",
+        "K2",
+        "Makalu"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote the existentialist novel 'Nausea' published in 1938?",
+      "choices": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir",
+        "Maurice Merleau-Ponty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In organic chemistry, what is the name of the bond formed between a carboxyl group and an amine?",
+      "choices": [
+        "Ester bond",
+        "Peptide bond",
+        "Glycosidic bond",
+        "Phosphodiester bond"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Byzantine emperor ruled during the construction of the Hagia Sophia?",
+      "choices": [
+        "Justinian I",
+        "Constantine VII",
+        "Basil II",
+        "Leo III"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary active compound in the opium poppy that was first isolated in 1804?",
+      "choices": [
+        "Codeine",
+        "Papaverine",
+        "Morphine",
+        "Thebaine"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Portuguese navigator led the first European expedition to reach the southern tip of Africa in 1488, opening a sea route to Asia?",
+      "choices": [
+        "Vasco da Gama",
+        "Bartolomeu Dias",
+        "Ferdinand Magellan",
+        "Prince Henry the Navigator"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In molecular biology, what is the name of the enzyme that unwinds the DNA double helix during replication?",
+      "choices": [
+        "Helicase",
+        "Ligase",
+        "Primase",
+        "Topoisomerase"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian composer wrote the ballet 'The Rite of Spring,' a work whose 1913 premiere sparked a riot due to its revolutionary harmonies and choreography?",
+      "choices": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Sergei Prokofiev",
+        "Dmitri Shostakovich"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian composer wrote the ballet 'The Rite of Spring,' whose 1913 premiere sparked a riot due to its dissonant harmonies and innovative choreography?",
+      "choices": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Sergei Prokofiev",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Renaissance sculptor created the marble statue of David in Florence, completed in 1504?",
+      "choices": [
+        "Donatello",
+        "Michelangelo",
+        "Bernini",
+        "Cellini"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the underground train station beneath City Hall in New York City that was abandoned in 1945 but remains accessible for tours?",
+      "choices": [
+        "Grand Central Terminal",
+        "City Hall Station",
+        "South Ferry Station",
+        "Bowling Green Station"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Brazil surpass other nations to become the world's largest coffee producer?",
+      "choices": [
+        "1850",
+        "1920",
+        "1974",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Inca emperor ordered the construction of Machu Picchu in the mid-15th century?",
+      "choices": [
+        "Huayna Capac",
+        "Pachacuti",
+        "Tupac Amaru",
+        "Atahualpa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The first Harry Potter novel was titled 'Harry Potter and the Philosopher's Stone' in the UK, but what title was used for the US release?",
+      "choices": [
+        "Harry Potter and the Sorcerer's Stone",
+        "Harry Potter and the Magic Stone",
+        "Harry Potter and the Wizard's Stone",
+        "Harry Potter and the Enchanted Stone"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which film surpassed Avatar to become the highest-grossing film of all time in 2019?",
+      "choices": [
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "The Lion King",
+        "Star Wars: The Rise of Skywalker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In DC Comics, Gotham City is typically depicted as being located in which real-world US state?",
+      "choices": [
+        "New York",
+        "New Jersey",
+        "Pennsylvania",
+        "Massachusetts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Germany invade Poland, marking the official start of World War II in Europe?",
+      "choices": [
+        "1937",
+        "1938",
+        "1939",
+        "1940"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jane Austen's 'Pride and Prejudice' was originally published under what attribution?",
+      "choices": [
+        "By a Lady",
+        "By the Author of Emma",
+        "Anonymous",
+        "By Miss J. Austen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Andy Warhol's Campbell's Soup Cans series, created in 1962, featured how many different soup varieties in the original installation?",
+      "choices": [
+        "32",
+        "48",
+        "64",
+        "100"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Christopher Nolan directed The Dark Knight, but who played the Joker in that 2008 film?",
+      "choices": [
+        "Jared Leto",
+        "Heath Ledger",
+        "Joaquin Phoenix",
+        "Jack Nicholson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Denali, the highest peak in North America, is located in which US state?",
+      "choices": [
+        "Colorado",
+        "Montana",
+        "Alaska",
+        "Washington"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the speed of light in a vacuum, expressed in meters per second?",
+      "choices": [
+        "299,792,458 m/s",
+        "300,000,000 m/s",
+        "250,000,000 m/s",
+        "350,000,000 m/s"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Vincent van Gogh painted 'Starry Night' while staying at a hospital in which French town?",
+      "choices": [
+        "Paris",
+        "Lyon",
+        "Saint-Rémy-de-Provence",
+        "Arles"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jupiter's Great Red Spot is a storm system that has been observed for at least how many years?",
+      "choices": [
+        "100 years",
+        "200 years",
+        "350 years",
+        "500 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Quentin Tarantino's 'Pulp Fiction' was released in what year?",
+      "choices": [
+        "1992",
+        "1994",
+        "1996",
+        "1998"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Battle of Waterloo, which ended Napoleon's rule, took place in what year?",
+      "choices": [
+        "1812",
+        "1813",
+        "1814",
+        "1815"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pepsi-Cola was originally marketed under what name by pharmacist Caleb Bradham in 1898?",
+      "choices": [
+        "Bradham's Tonic",
+        "Brad's Drink",
+        "Pepsin Beverage",
+        "Bradham's Cola"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Freddie Mercury, the lead singer of Queen, was born in what location?",
+      "choices": [
+        "London, England",
+        "Zanzibar, Tanzania",
+        "Mumbai, India",
+        "Kingston, Jamaica"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lake Victoria, Africa's largest lake, is named after which British monarch?",
+      "choices": [
+        "Queen Victoria",
+        "King George V",
+        "King William IV",
+        "Queen Elizabeth I"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French Impressionist painter is known for his series of paintings depicting water lilies in his garden at Giverny?",
+      "choices": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Alfred Sisley",
+        "Frédéric Bazille"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In chemistry, what is the atomic number of Oganesson, the synthetic element with the highest atomic number?",
+      "choices": [
+        "116",
+        "118",
+        "120",
+        "114"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Gothic novel by Mary Shelley, published in 1818, features a scientist obsessed with creating life?",
+      "choices": [
+        "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "Frankenstein",
+        "The Picture of Dorian Gray",
+        "Wuthering Heights"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did the eruption of Mount Vesuvius bury the Roman cities of Pompeii and Herculaneum?",
+      "choices": [
+        "63 AD",
+        "79 AD",
+        "98 AD",
+        "71 AD"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance artist completed the bronze doors of the Florence Baptistry, often called the 'Gates of Paradise'?",
+      "choices": [
+        "Donatello",
+        "Lorenzo Ghiberti",
+        "Filippo Brunelleschi",
+        "Andrea del Verrocchio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Shakespeare's Macbeth, what is the name of the Scottish general who becomes obsessed with a witches' prophecy?",
+      "choices": [
+        "Banquo",
+        "Macduff",
+        "Macbeth",
+        "Malcolm"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which battle in 1815 effectively ended Napoleon Bonaparte's Hundred Days and his military career?",
+      "choices": [
+        "Battle of Leipzig",
+        "Battle of Austerlitz",
+        "Battle of Waterloo",
+        "Battle of Borodino"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the study of earthquakes, their causes, and their effects on Earth's surface called?",
+      "choices": [
+        "Volcanology",
+        "Seismology",
+        "Geomorphology",
+        "Tectonics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which German composer wrote the opera 'The Magic Flute,' which premiered in Vienna in 1791?",
+      "choices": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Georg Friedrich Händel",
+        "Joseph Haydn"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Black Death, the devastating bubonic plague, first arrive in Europe?",
+      "choices": [
+        "1340",
+        "1347",
+        "1353",
+        "1360"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which element on the periodic table has the symbol 'Au' and has been valued as currency and jewelry throughout history?",
+      "choices": [
+        "Silver",
+        "Platinum",
+        "Gold",
+        "Copper"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What biological process converts light energy into chemical energy in plants, producing glucose and oxygen?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which English author wrote 'Wuthering Heights,' a novel featuring the passionate relationship between Heathcliff and Catherine?",
+      "choices": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian country is famous for its dramatic fjords, particularly Geirangerfjord and Sognefjord?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which work did Andy Warhol create his famous pop art series depicting Campbell's tomato soup cans?",
+      "choices": [
+        "A series of silk-screened prints from 1962",
+        "A live performance art piece from 1960",
+        "A mural painted in 1965",
+        "An installation at his Factory from 1968"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which conflict between the Houses of York and Lancaster lasted approximately 30 years and determined the English throne?",
+      "choices": [
+        "The Peasants' Revolt",
+        "The War of the Roses",
+        "The English Civil War",
+        "The Hundred Years' War"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest organ by surface area in the human body that serves as a protective barrier?",
+      "choices": [
+        "The liver",
+        "The skin",
+        "The stomach",
+        "The intestines"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian city-state served as the birthplace of the Renaissance and is home to the Uffizi Gallery?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which South American nation is the world's largest producer of coffee and accounts for about one-third of global production?",
+      "choices": [
+        "Colombia",
+        "Ethiopia",
+        "Brazil",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1969, which physicist received the Nobel Prize in Physics for theoretical predictions of elementary particles?",
+      "choices": [
+        "Richard Feynman",
+        "Murray Gell-Mann",
+        "Sheldon Glashow",
+        "Steven Weinberg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Lord of the Rings,' what is the name of Frodo's hobbit friend who carries him up Mount Doom?",
+      "choices": [
+        "Merry Brandybuck",
+        "Samwise Gamgee",
+        "Pippin Took",
+        "Bilbo Baggins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which physicist developed the theory of special relativity in 1905?",
+      "choices": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Max Planck",
+        "Werner Heisenberg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary pigment responsible for photosynthesis in plants?",
+      "choices": [
+        "Xanthophyll",
+        "Chlorophyll",
+        "Carotenoid",
+        "Anthocyanin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Roman orator and statesman was assassinated on the Ides of March in 44 BC?",
+      "choices": [
+        "Pompey the Great",
+        "Julius Caesar",
+        "Mark Antony",
+        "Cicero"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In film, who directed 'Inception,' the science fiction thriller about dreams within dreams?",
+      "choices": [
+        "Denis Villeneuve",
+        "Christopher Nolan",
+        "Ridley Scott",
+        "Steven Spielberg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What musical composition by Pyotr Ilyich Tchaikovsky is traditionally performed during New Year's celebrations?",
+      "choices": [
+        "Swan Lake",
+        "The Nutcracker Suite",
+        "1812 Overture",
+        "Romeo and Juliet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance artist is credited with sculpting both 'David' and painting the Sistine Chapel ceiling?",
+      "choices": [
         "Leonardo da Vinci",
         "Raphael",
-        "Botticelli"
+        "Michelangelo",
+        "Donatello"
       ],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Hard",
-        "verified": true,
-        "notes": "Painted 1508-1512 for Pope Julius II."
-      }
+      "correct": 2,
+      "difficulty": "medium"
     },
     {
-      "q": "What's the name of the world's largest desert (counting Antarctica)?",
-      "choices": ["Antarctic", "Sahara", "Arabian", "Gobi"],
-      "correct": 0,
-      "category": "Hard",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Hard",
-        "verified": true,
-        "notes": "Antarctica receives <2 inches/year, qualifying it as a polar desert."
-      }
-    },
-    {
-      "q": "Which 1066 battle ended Anglo-Saxon rule of England?",
+      "q": "What was the primary economic motivation behind the European exploration of the Americas in the 15th and 16th centuries?",
       "choices": [
-        "Battle of Hastings",
-        "Battle of Stamford Bridge",
-        "Battle of Bosworth",
-        "Battle of Agincourt"
+        "Establishing democratic governments",
+        "Finding spice and trade routes to Asia",
+        "Spreading Christianity exclusively",
+        "Discovering new agricultural techniques"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Pride and Prejudice,' what is Mr. Darcy's first name?",
+      "choices": [
+        "Edward",
+        "William",
+        "Fitzwilliam",
+        "Charles"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which chemical element has the atomic number 79 and is commonly used in jewelry?",
+      "choices": [
+        "Silver",
+        "Copper",
+        "Gold",
+        "Platinum"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the opera 'The Magic Flute' in 1791?",
+      "choices": [
+        "Giuseppe Verdi",
+        "Richard Wagner",
+        "Wolfgang Amadeus Mozart",
+        "Georges Bizet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British author wrote the detective character Sherlock Holmes?",
+      "choices": [
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Wilkie Collins",
+        "G.K. Chesterton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technique did Salvador Dalí famously employ in paintings like 'The Persistence of Memory'?",
+      "choices": [
+        "Cubism",
+        "Surrealism",
+        "Expressionism",
+        "Dadaism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Star Wars: Episode V,' what planet serves as the secret rebel base where Luke trains with Yoda?",
+      "choices": [
+        "Hoth",
+        "Endor",
+        "Dagobah",
+        "Tatooine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient Wonder of the World was a lighthouse located on the island of Pharos?",
+      "choices": [
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria",
+        "Temple of Artemis",
+        "Mausoleum at Halicarnassus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical formula for sulfuric acid?",
+      "choices": [
+        "H₂SO₃",
+        "H₂SO₄",
+        "HSO₄",
+        "H₃SO₄"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Charles Dickens' 'A Christmas Carol,' what is the name of Scrooge's deceased business partner?",
+      "choices": [
+        "Jacob Marley",
+        "Bob Cratchit",
+        "Ebenezer Scrooge Jr.",
+        "Fred Scrooge"
       ],
       "correct": 0,
-      "category": "Hard",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Hard",
-        "verified": true,
-        "notes": "October 14, 1066. William the Conqueror over Harold II."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian country was never occupied by Nazi Germany during World War II?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1979 film 'Apocalypse Now', what is the name of the river that Captain Willard travels upriver to find Colonel Kurtz?",
+      "choices": [
+        "Mekong River",
+        "Saigon River",
+        "Nung River",
+        "Red River"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mathematician developed the notation for calculus and engaged in a famous priority dispute with Isaac Newton over its invention?",
+      "choices": [
+        "Pierre-Simon Laplace",
+        "Gottfried Wilhelm Leibniz",
+        "Joseph-Louis Lagrange",
+        "Leonhard Euler"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

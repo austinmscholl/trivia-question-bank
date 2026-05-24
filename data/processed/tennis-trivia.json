@@ -1,169 +1,3164 @@
 {
   "slug": "tennis-trivia",
   "name": "Tennis",
-  "description": "Grand Slams, legendary players, and tennis history",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.751Z",
   "questions": [
     {
-      "q": "How many Grand Slam tournaments make up the 'tennis calendar year'?",
-      "choices": ["3", "4", "5", "6"],
-      "correct": 1,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Australian Open, French Open (Roland Garros), Wimbledon, US Open." }
+      "q": "What does ATP mean?",
+      "choices": [
+        "Rafael Nadal",
+        "Steffi Graf",
+        "Association of Tennis Pros.",
+        "Grand Slam"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "In what year was the first Wimbledon Championship held?",
-      "choices": ["1868", "1877", "1890", "1905"],
+      "q": "What item is used to hit tennis balls during a match?",
+      "choices": [
+        "Indian Wells",
+        "Racquet",
+        "Maria Sharapova",
+        "Jimmy Connors"
+      ],
       "correct": 1,
-      "category": "Tennis",
-      "difficulty": "medium",
-      "source": { "original_a": "1877", "verified": true, "notes": "Oldest tennis tournament in the world. Held in Wimbledon, London." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which company has supplied the tennis balls at Wimbledon continuously since 1902?",
-      "choices": ["Wilson", "Dunlop", "Head", "Slazenger"],
+      "q": "In what Swiss city was Roger Federer born?",
+      "choices": [
+        "Steffi Graf",
+        "set",
+        "Basel",
+        "Boris Becker"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality is Boris Becker?",
+      "choices": [
+        "break point",
+        "French Open",
+        "grass",
+        "German"
+      ],
       "correct": 3,
-      "category": "Tennis",
-      "difficulty": "hard",
-      "source": { "original_a": "Slazenger", "verified": true, "notes": "Longest-running sporting sponsorship in history." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where was Andrei Pavel born?",
+      "choices": [
+        "Romania",
+        "Bjorn Borg",
+        "Venus Williams",
+        "forehand"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Andy Murray's tennis playing brother?",
+      "choices": [
+        "Pete Sampras",
+        "grass",
+        "Venus Williams",
+        "Jamie"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where was Justin Gimelstob born?",
+      "choices": [
+        "Monica Seles",
+        "French Open",
+        "Indian Wells",
+        "USA"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Grand Slam tournaments make up the 'tennis calendar year'?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "What surface is the Wimbledon Championships played on?",
-      "choices": ["Clay", "Hard court", "Grass", "Carpet"],
+      "choices": [
+        "Clay",
+        "Hard court",
+        "Grass",
+        "Carpet"
+      ],
       "correct": 2,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "1877", "verified": true, "notes": "Only grass-court Grand Slam. Traditional 'lawn tennis' surface." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Grand Slam is played on clay courts at Roland Garros?",
-      "choices": ["Australian Open", "French Open", "Wimbledon", "US Open"],
+      "choices": [
+        "Australian Open",
+        "French Open",
+        "Wimbledon",
+        "US Open"
+      ],
       "correct": 1,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "Red clay (crushed brick). Rafael Nadal has won 14 French Open titles." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Swiss player won 20 Grand Slam singles titles during his career?",
-      "choices": ["Roger Federer", "Stan Wawrinka", "Martina Hingis", "Pete Sampras"],
+      "choices": [
+        "Roger Federer",
+        "Stan Wawrinka",
+        "Martina Hingis",
+        "Pete Sampras"
+      ],
       "correct": 0,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Career Grand Slam winner. Retired September 2022." }
-    },
-    {
-      "q": "Who became the youngest ever Wimbledon men's singles champion at age 17 in 1985?",
-      "choices": ["Boris Becker", "John McEnroe", "Björn Borg", "Stefan Edberg"],
-      "correct": 0,
-      "category": "Tennis",
-      "difficulty": "medium",
-      "source": { "original_a": "17", "verified": true, "notes": "Unseeded player from West Germany at the time. Won again in 1986 and 1989." }
-    },
-    {
-      "q": "In 1968, tennis entered the 'Open Era,' meaning:",
-      "choices": ["Indoor play allowed", "Professional and amateur players competed together", "Year-round schedule created", "Five sets became standard"],
-      "correct": 1,
-      "category": "Tennis",
-      "difficulty": "hard",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Prior to 1968, Grand Slams were amateur-only. The Open Era began at the 1968 French Open." }
-    },
-    {
-      "q": "How many Grand Slam singles titles has Serena Williams won (career total)?",
-      "choices": ["18", "21", "23", "25"],
-      "correct": 2,
-      "category": "Tennis",
-      "difficulty": "medium",
-      "source": { "original_a": "23", "verified": true, "notes": "audit-corrected 2026-05-09: fixed inconsistent original_a metadata (was '12'). 23 Grand Slams. Retired September 2022. One behind Margaret Court's all-time record of 24." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Spanish player is dubbed the 'King of Clay' for his dominance at the French Open?",
-      "choices": ["Carlos Alcaraz", "Rafael Nadal", "David Ferrer", "Juan Carlos Ferrero"],
+      "choices": [
+        "Carlos Alcaraz",
+        "Rafael Nadal",
+        "David Ferrer",
+        "Juan Carlos Ferrero"
+      ],
       "correct": 1,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "14 French Open titles — most at any single Grand Slam. 22 total Grand Slams." }
+      "difficulty": "easy"
     },
     {
       "q": "In tennis, what is a score of 40-40 called?",
-      "choices": ["Tie-break", "Deuce", "Advantage", "Love-all"],
+      "choices": [
+        "Tie-break",
+        "Deuce",
+        "Advantage",
+        "Love-all"
+      ],
       "correct": 1,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "Next point wins 'advantage'; following point takes the game. Can continue indefinitely." }
+      "difficulty": "easy"
     },
     {
       "q": "What does 'love' mean in tennis scoring?",
-      "choices": ["A winning shot", "Zero / nil", "Match point", "The final set"],
+      "choices": [
+        "A winning shot",
+        "Zero / nil",
+        "Match point",
+        "The final set"
+      ],
       "correct": 1,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "Etymology debated — possibly from French 'l'oeuf' (egg, meaning zero)." }
-    },
-    {
-      "q": "Which tennis player has won the most men's Grand Slam titles (24, tied with Margaret Court in women's)?",
-      "choices": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
-      "correct": 2,
-      "category": "Tennis",
-      "difficulty": "medium",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "24 Grand Slams. Serbian. Tied with Margaret Court as the all-time Grand Slams leader (any gender)." }
+      "difficulty": "easy"
     },
     {
       "q": "The Australian Open is traditionally held in which month?",
-      "choices": ["January", "March", "June", "September"],
+      "choices": [
+        "January",
+        "March",
+        "June",
+        "September"
+      ],
       "correct": 0,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Played in Melbourne's height of summer. First Grand Slam of the year." }
-    },
-    {
-      "q": "Which stadium hosts the US Open tennis tournament?",
-      "choices": ["Arthur Ashe Stadium", "Centre Court", "Philippe-Chatrier", "Rod Laver Arena"],
-      "correct": 0,
-      "category": "Tennis",
-      "difficulty": "medium",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Named after African-American tennis champion. Part of the Billie Jean King National Tennis Center." }
-    },
-    {
-      "q": "In 2008, Rafael Nadal completed the 'Channel Slam' — winning which two titles in the same calendar year, joining Rod Laver and Björn Borg?",
-      "choices": ["French Open and Wimbledon", "Wimbledon and US Open", "Australian Open and French Open", "French Open and Olympics"],
-      "correct": 0,
-      "category": "Tennis",
-      "difficulty": "hard",
-      "source": { "original_a": "Rafael Nadal", "verified": true, "notes": "audit-corrected 2026-05-09: reframed away from 'second man… FO+W+Olympics' (Agassi never did this in one year). Nadal's 2008 Channel Slam (FO+W same year) made him the third man to do it after Laver (1969) and Borg (1978-80)." }
-    },
-    {
-      "q": "Which annual team event is the oldest international tennis competition?",
-      "choices": ["Fed Cup", "Davis Cup", "ATP Cup", "Laver Cup"],
-      "correct": 1,
-      "category": "Tennis",
-      "difficulty": "medium",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Started 1900. Annual international men's team tennis. Renamed Billie Jean King Cup (women) from Fed Cup in 2020." }
-    },
-    {
-      "q": "What year did tennis first become an Olympic sport (before being reintroduced in 1988)?",
-      "choices": ["1896", "1900", "1904", "1912"],
-      "correct": 0,
-      "category": "Tennis",
-      "difficulty": "hard",
-      "source": { "original_a": "1896", "verified": true, "notes": "Athens, Greece — first modern Olympics. Dropped after 1924, reintroduced 1988 in Seoul." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the maximum number of sets in a men's Grand Slam final?",
-      "choices": ["Three", "Four", "Five", "Seven"],
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
+      ],
       "correct": 2,
-      "category": "Tennis",
-      "difficulty": "easy",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Best of 5 sets. Women play best of 3 sets even in Grand Slams." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did tennis become an official Olympic sport?",
+      "choices": [
+        "1896",
+        "1900",
+        "1912",
+        "1924"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon singles titles did Björn Borg win during his career?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has won the Hopman Cup the most times?",
+      "choices": [
+        "Australia",
+        "USA",
+        "Germany",
+        "Sweden"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality is Boris Becker, the three-time Wimbledon champion?",
+      "choices": [
+        "Austrian",
+        "German",
+        "Czech",
+        "Swiss"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Australian Open first founded?",
+      "choices": [
+        "1895",
+        "1905",
+        "1915",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous tennis player won a gold medal at the 1996 Olympic Games?",
+      "choices": [
+        "Pete Sampras",
+        "Andre Agassi",
+        "Jim Courier",
+        "Michael Chang"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many times did Pete Sampras win the US Open?",
+      "choices": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Pat Cash win his only Wimbledon singles title?",
+      "choices": [
+        "1985",
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Argentine player was known as the 'Princess of the Pampas'?",
+      "choices": [
+        "Mary Pierce",
+        "Gabriela Sabatini",
+        "Monica Seles",
+        "Arantxa Sánchez"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Lindsay Davenport win the Wimbledon singles title?",
+      "choices": [
+        "1997",
+        "1999",
+        "2001",
+        "2003"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which player won his first Grand Slam title in only his third attempt, the fastest in the Open era?",
+      "choices": [
+        "Goran Ivanisevic",
+        "Gustavo Kuerten",
+        "Michael Chang",
+        "Marcelo Ríos"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Goran Ivanisevic's world ranking when he won Wimbledon in 2001?",
+      "choices": [
+        "No. 1",
+        "No. 32",
+        "No. 125",
+        "No. 200"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American siblings won the mixed doubles championship at Wimbledon in 1980?",
+      "choices": [
+        "Tracy Austin and John McEnroe",
+        "Tracy Austin and John Austin",
+        "Billie Jean King and Bobby Riggs",
+        "Martina Navratilova and Pam Shriver"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what age did Michael Chang become the youngest male player to win a Grand Slam singles title?",
+      "choices": [
+        "16 years old",
+        "17 years old",
+        "18 years old",
+        "19 years old"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Olympic tennis medals did Martina Navratilova win for Czechoslovakia and the USA?",
+      "choices": [
+        "2",
+        "3",
+        "5",
+        "0"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how much prize money did Boris Becker earn throughout his professional career?",
+      "choices": [
+        "$12 million",
+        "$18 million",
+        "$25 million",
+        "$30 million"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Lindsay Davenport win the WTA Rookie of the Year award?",
+      "choices": [
+        "1991",
+        "1993",
+        "1995",
+        "1997"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon singles titles did Steffi Graf win throughout her career?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the charity event created during the 2010 Australian Open to aid Haiti?",
+      "choices": [
+        "Hearts for Haiti",
+        "Hit for Haiti",
+        "Help for Haiti",
+        "Hope for Haiti"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Swedish player held the No. 1 ranking continuously from 1977 to 1981?",
+      "choices": [
+        "Stefan Edberg",
+        "Björn Borg",
+        "Mats Wilander",
+        "Anders Järryd"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year were the Wimbledon Championships first held?",
+      "choices": [
+        "1873",
+        "1877",
+        "1881",
+        "1885"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the equipment used by players to hit the ball during a tennis match?",
+      "choices": [
+        "Paddle",
+        "Racquet",
+        "Bat",
+        "Stick"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the tiebreak system in 1965?",
+      "choices": [
+        "Bill Tilden",
+        "James Van Alen",
+        "Arthur Ashe",
+        "Don Budge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was tennis reintroduced as an Olympic sport?",
+      "choices": [
+        "1984",
+        "1988",
+        "1992",
+        "1996"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company supplies the official tennis balls for Wimbledon?",
+      "choices": [
+        "Wilson",
+        "Slazenger",
+        "Dunlop",
+        "Penn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the original name of the Australian Open before it became known by that title?",
+      "choices": [
+        "Australasian Open",
+        "Australian Championships",
+        "Melbourne Open",
+        "Oceania Championships"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Johanna Konta become a British citizen?",
+      "choices": [
+        "2009",
+        "2011",
+        "2012",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Grand Slam singles titles did Billie Jean King win?",
+      "choices": [
+        "24",
+        "32",
+        "39",
+        "45"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which male tennis player has won the maximum number of Grand Slam singles titles?",
+      "choices": [
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Roger Federer",
+        "Pete Sampras"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Maria Sharapova born?",
+      "choices": [
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon singles titles did Roger Federer win?",
+      "choices": [
+        "5",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Lindsay Davenport win the Wimbledon singles championship?",
+      "choices": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who earned a gold medal at the 1996 Olympic Games in tennis?",
+      "choices": [
+        "Pete Sampras",
+        "Andre Agassi",
+        "Michael Chang",
+        "Jim Courier"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname was given to tennis player Gabriela Sabatini?",
+      "choices": [
+        "Queen of Clay",
+        "Princess of the Pampas",
+        "Duchess of the Court",
+        "Angel of Tennis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Venus Williams achieve her highest career ranking?",
+      "choices": [
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was Roger Federer's mixed doubles partner when they won gold at the 2008 Olympics?",
+      "choices": [
+        "Yves Allegro",
+        "Stanislao Wawrinka",
+        "Marco Chiudinelli",
+        "Michael Lammer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American tennis siblings won the Wimbledon mixed doubles championship in 1980?",
+      "choices": [
+        "Venus and Serena Williams",
+        "Tracy Austin and John Austin",
+        "Jimmy Connors and Pam Shriver",
+        "Pete Sampras and Lindsay Davenport"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did a British player last win the Wimbledon singles championship?",
+      "choices": [
+        "1957",
+        "1963",
+        "1969",
+        "1977"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a key format in professional tennis where players compete in best-of-three or best-of-five sets?",
+      "choices": [
+        "Rally scoring",
+        "Match play",
+        "Singles competition",
+        "Deuce system"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many professional tennis Grand Slam tournaments are held each year?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company supplies the official balls used at Wimbledon?",
+      "choices": [
+        "Wilson",
+        "Penn",
+        "Slazenger",
+        "Dunlop"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon men's singles titles did Björn Borg win?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did John McEnroe retire for the final time?",
+      "choices": [
+        "2000",
+        "2003",
+        "2006",
+        "2008"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon men's singles championships did Jimmy Connors win?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Andre Agassi win an Olympic gold medal?",
+      "choices": [
+        "1992",
+        "1996",
+        "2000",
+        "2004"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Grand Slam singles titles had Maria Sharapova won by the end of her career?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Martina Hingis win her only Wimbledon singles title?",
+      "choices": [
+        "1995",
+        "1996",
+        "1997",
+        "1998"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Olympic gold medals did Serena Williams win?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Lindsay Davenport retire from professional tennis?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Jennifer Capriati retire from professional tennis?",
+      "choices": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Grand Slam singles titles had Venus Williams won as of 2009?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Grand Slam singles titles had Serena Williams won as of 2009?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Jamie Murray win the Wimbledon Mixed Doubles title?",
+      "choices": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Heather Watson win the Junior US Open?",
+      "choices": [
+        "2007",
+        "2008",
+        "2009",
+        "2010"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tennis player won the French Open, Wimbledon, and Olympic gold in 2008?",
+      "choices": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Andy Murray"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which male tennis player has won the most Grand Slam singles titles in history?",
+      "choices": [
+        "Pete Sampras",
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname of former French tennis player René Lacoste?",
+      "choices": [
+        "The Eagle",
+        "The Crocodile",
+        "The Fox",
+        "The Panther"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon singles titles did Jimmy Connors win?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what age did Boris Becker win his first Wimbledon title?",
+      "choices": [
+        "17",
+        "19",
+        "21",
+        "23"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Pat Cash win the Wimbledon championship?",
+      "choices": [
+        "1982",
+        "1985",
+        "1987",
+        "1989"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was tennis first introduced as an Olympic sport?",
+      "choices": [
+        "1896",
+        "1900",
+        "1912",
+        "1920"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which male tennis player has won the most Grand Slam singles titles?",
+      "choices": [
+        "Pete Sampras",
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the official name of the chair-based official who oversees a tennis match?",
+      "choices": [
+        "Referee",
+        "Umpire",
+        "Judge",
+        "Supervisor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has won the Davis Cup the most times?",
+      "choices": [
+        "Australia",
+        "Great Britain",
+        "United States",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did John McEnroe retire from professional tennis for the final time?",
+      "choices": [
+        "1992",
+        "2000",
+        "2006",
+        "2010"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What company has supplied the official tennis balls for Wimbledon?",
+      "choices": [
+        "Wilson",
+        "Dunlop",
+        "Slazenger",
+        "Penn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Jamie Murray win the Wimbledon Mixed Doubles championship?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which female tennis player won the most Grand Slam titles during the 1980s?",
+      "choices": [
+        "Chris Evert",
+        "Martina Navratilova",
+        "Steffi Graf",
+        "Billie Jean King"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is believed to be the origin of modern tennis?",
+      "choices": [
+        "England",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Olympic medal did Andre Agassi win at the 1996 Olympic Games?",
+      "choices": [
+        "Silver",
+        "Gold",
+        "Bronze",
+        "No medal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Lleyton Hewitt turn professional?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which South African female player earned the nickname 'The Little Assassin'?",
+      "choices": [
+        "Liezel Huber",
+        "Amanda Coetzer",
+        "Joannette Kruger",
+        "Catharina Castano"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country was Roger Federer born?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Sweden"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Rafael Nadal is most famous for his dominance on which type of court surface?",
+      "choices": [
+        "Grass",
+        "Hard court",
+        "Clay",
+        "Carpet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Wimbledon Championships first held?",
+      "choices": [
+        "1865",
+        "1877",
+        "1891",
+        "1903"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Grand Slam tournament is played on hard courts in the United States?",
+      "choices": [
+        "Wimbledon",
+        "French Open",
+        "Australian Open",
+        "US Open"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for winning all four Grand Slam tournaments in a single calendar year?",
+      "choices": [
+        "Triple Crown",
+        "Calendar Slam",
+        "Golden Slam",
+        "Super Slam"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tennis player was the first to earn over $1 million in career prize money?",
+      "choices": [
+        "Jimmy Connors",
+        "Rod Laver",
+        "Arthur Ashe",
+        "Stan Smith"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At which Grand Slam did Andre Agassi win an Olympic gold medal?",
+      "choices": [
+        "1992 Barcelona Olympics",
+        "1996 Atlanta Olympics",
+        "2000 Sydney Olympics",
+        "2004 Athens Olympics"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tennis legend famously said 'You cannot be serious!' during matches?",
+      "choices": [
+        "Jimmy Connors",
+        "John McEnroe",
+        "Bjorn Borg",
+        "Ivan Lendl"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Since 2006, the US Open venue has been officially named after which pioneering female tennis player?",
+      "choices": [
+        "Venus Williams",
+        "Chris Evert",
+        "Billie Jean King",
+        "Martina Navratilova"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality is tennis player Novak Djokovic?",
+      "choices": [
+        "Croatian",
+        "Serbian",
+        "Bosnian",
+        "Montenegrin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In tennis, what is the name of the annual men's professional tennis tournament held in Moscow?",
+      "choices": [
+        "Russian Cup",
+        "Kremlin Cup",
+        "Moscow Masters",
+        "Soviet Open"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Wimbledon singles championships did Jimmy Connors win?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nickname given to former French tennis star Rene Lacoste?",
+      "choices": [
+        "grass",
+        "serve",
+        "Crocodile",
+        "Carlos Alcaraz"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which player, nicknamed 'Guga', won the French Open 3 times?",
+      "choices": [
+        "Gustavo Kuerten",
+        "Wimbledon",
+        "Martina Navratilova",
+        "Pete Sampras"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Whose calm court demeanor earned him the nickname of the 'Ice Man'?",
+      "choices": [
+        "Novak Djokovic",
+        "Martina Navratilova",
+        "Monica Seles",
+        "Bjorn Borg"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South African lady was nicknamed 'The Little Assassin'?",
+      "choices": [
+        "Amanda Coetzer",
+        "volley",
+        "clay",
+        "Venus Williams"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company has supplied the tennis balls at Wimbledon continuously since 1902?",
+      "choices": [
+        "Wilson",
+        "Dunlop",
+        "Head",
+        "Slazenger"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1968, tennis entered the 'Open Era,' meaning:",
+      "choices": [
+        "Indoor play allowed",
+        "Professional and amateur players competed together",
+        "Year-round schedule created",
+        "Five sets became standard"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2008, Rafael Nadal became only the second man to win which combination in one year?",
+      "choices": [
+        "French Open, Wimbledon, Olympics",
+        "Career Grand Slam",
+        "All 4 Slams in one year",
+        "Davis Cup + Wimbledon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did tennis first become an Olympic sport (before being reintroduced in 1988)?",
+      "choices": [
+        "1896",
+        "1900",
+        "1904",
+        "1912"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
     },
     {
       "q": "Which tournament is known as the 'fifth Grand Slam,' held annually at Indian Wells, California?",
-      "choices": ["BNP Paribas Open", "Miami Open", "Canadian Open", "Cincinnati Masters"],
+      "choices": [
+        "BNP Paribas Open",
+        "Miami Open",
+        "Canadian Open",
+        "Cincinnati Masters"
+      ],
       "correct": 0,
-      "category": "Tennis",
-      "difficulty": "hard",
-      "source": { "original_a": "Roger Federer", "verified": true, "notes": "Also called 'Tennis Paradise.' Largest tournament outside of Grand Slams." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Goran Ivanisevic win Wimbledon as the lowest-seeded player in the tournament's history?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of set tiebreaks that can occur in a best-of-five-set men's Grand Slam match under traditional scoring rules?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Venus Williams win her first Grand Slam singles title?",
+      "choices": [
+        "1997",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive Wimbledon titles did Pete Sampras win in the 1990s?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country did Jelena Janković represent when she reached the 2008 US Open final?",
+      "choices": [
+        "Croatia",
+        "Serbia",
+        "Slovenia",
+        "Bosnia and Herzegovina"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the prestigious clay court tournament held annually in Monte Carlo?",
+      "choices": [
+        "French Open",
+        "Monte Carlo Masters",
+        "Rome Masters",
+        "Madrid Masters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of tennis scoring, what term describes a score of 40-40?",
+      "choices": [
+        "Parity",
+        "Deuce",
+        "Equal",
+        "Tied"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Grand Slam singles titles had Björn Borg won by the time he retired in 1983?",
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tennis player won the 1988 Olympic gold medal in the women's singles at Seoul?",
+      "choices": [
+        "Steffi Graf",
+        "Monica Seles",
+        "Martina Navratilova",
+        "Chris Evert"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum number of games a player must win to secure a set in a standard tie-break format?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Andre Agassi achieve his only Wimbledon singles title?",
+      "choices": [
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which player won the 1999 Wimbledon men's singles title, defeating Pete Sampras in the final?",
+      "choices": [
+        "Goran Ivanisevic",
+        "Boris Becker",
+        "Andre Agassi",
+        "Lleyton Hewitt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times did Margaret Court win the Australian Open singles title during her career?",
+      "choices": [
+        "8",
+        "10",
+        "11",
+        "13"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What nationality is Ana Ivanovic, who won the 2008 French Open?",
+      "choices": [
+        "Croatian",
+        "Serbian",
+        "Bulgarian",
+        "Romanian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In tennis, what is the term for winning all four Grand Slam tournaments and the Olympic gold medal in the same calendar year?",
+      "choices": [
+        "The Slam",
+        "The Golden Slam",
+        "The Perfect Year",
+        "The Crown Jewel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which male tennis player won the Australian Open three times between 2009 and 2013?",
+      "choices": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Andy Murray"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the ATP Tour first introduce the ATP Rankings system?",
+      "choices": [
+        "1973",
+        "1975",
+        "1979",
+        "1981"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Fed Cup titles did the United States win between 1990 and 2010?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tennis player was ranked world number one for 286 consecutive weeks, a record at the time?",
+      "choices": [
+        "Pete Sampras",
+        "Roger Federer",
+        "Ivan Lendl",
+        "Jimmy Connors"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Marat Safin achieve the world No. 1 ranking?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive weeks did Rafael Nadal hold the world No. 2 ranking, the longest streak by any male player in that position?",
+      "choices": [
+        "156 weeks",
+        "187 weeks",
+        "209 weeks",
+        "234 weeks"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At which Grand Slam tournament did Martina Hingis test positive for cocaine in 2007?",
+      "choices": [
+        "Australian Open",
+        "French Open",
+        "Wimbledon",
+        "US Open"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Pat Cash win his sole Wimbledon singles championship?",
+      "choices": [
+        "1985",
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times did Pete Sampras win the US Open during his professional career?",
+      "choices": [
+        "3 times",
+        "4 times",
+        "5 times",
+        "6 times"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hand does Petra Kvitova use to play tennis?",
+      "choices": [
+        "Right",
+        "Left",
+        "Ambidextrous",
+        "Switch (varied by tournament)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the approximate prize money earnings for Boris Becker throughout his professional career?",
+      "choices": [
+        "$12 million",
+        "$18 million",
+        "$25 million",
+        "$31 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Lleyton Hewitt turn professional?",
+      "choices": [
+        "1996",
+        "1997",
+        "1998",
+        "1999"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Olympic gold medals has Serena Williams won in her career?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which player, nicknamed 'Guga', won the French Open three times during his career?",
+      "choices": [
+        "Alberto Costa",
+        "Gustavo Kuerten",
+        "Juan Carlos Ferrero",
+        "Guillermo Vilas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Wimbledon singles titles did Jimmy Connors win during his career?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the duration of Pete Sampras' professional tennis career?",
+      "choices": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Steffi Graf has two children with another tennis great. What are their names?",
+      "choices": [
+        "Roger and Caroline",
+        "Jaden and Jaz Elle",
+        "Alexander and Angelique",
+        "Stefan and Stella"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the assailant that stabbed Monica Seles during a match in 1993?",
+      "choices": [
+        "Gunter Parche",
+        "Riccardo Piatti",
+        "Thomas Muster",
+        "Stefan Edberg"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which famous actress was Andre Agassi previously married to?",
+      "choices": [
+        "Brooke Shields",
+        "Stefanie Graf",
+        "Barbara Streisand",
+        "Demi Moore"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When Roger Federer won his 15th Grand Slam at the 2009 US Open, whose record did he surpass?",
+      "choices": [
+        "Pete Sampras",
+        "Ivan Lendl",
+        "Jimmy Connors",
+        "Rod Laver"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "As of 2009, how many Grand Slam singles titles had Maria Sharapova won?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times did Andy Roddick reach the final of Wimbledon during his career?",
+      "choices": [
+        "1 time",
+        "2 times",
+        "3 times",
+        "4 times"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Pete Sampras win his 14th Grand Slam title, breaking Ivan Lendl's previous record of 8?",
+      "choices": [
+        "2000",
+        "2002",
+        "1999",
+        "2001"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which player won the 2003 Australian Open men's singles title after returning from a wrist injury that sidelined him for over a year?",
+      "choices": [
+        "Andre Agassi",
+        "Goran Ivanisevic",
+        "Mats Safin",
+        "Rainer Schüttler"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what age did Michael Chang become the youngest male Grand Slam singles champion when he won the 1989 French Open?",
+      "choices": [
+        "19",
+        "17",
+        "20",
+        "18"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive Wimbledon titles did Bjorn Borg win between 1976 and 1980?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which female player won the 1997 Australian Open at age 15, becoming one of the youngest Grand Slam champions?",
+      "choices": [
+        "Anna Kournikova",
+        "Martina Hingis",
+        "Monica Seles",
+        "Jennifer Capriati"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1975 Wimbledon final, Arthur Ashe defeated Jimmy Connors in a historic match. What was the final set score?",
+      "choices": [
+        "6-4",
+        "6-3",
+        "7-5",
+        "5-7"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which male player achieved a Golden Slam by winning all four Grand Slams and Olympic gold in 1988?",
+      "choices": [
+        "Andre Agassi",
+        "Stefan Edberg",
+        "Boris Becker",
+        "Ivan Lendl"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the tiebreak format used in tennis where the first player to reach 7 points with a 2-point lead wins?",
+      "choices": [
+        "Sudden Death",
+        "Super Tiebreak",
+        "Standard Tiebreak",
+        "Extended Tiebreak"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British female player won Wimbledon in 1977, becoming the last British woman to win the tournament as of 2024?",
+      "choices": [
+        "Ann Jones",
+        "Virginia Ruffin",
+        "Virginia Wade",
+        "Sue Barker"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1990, Goran Ivanisevic reached the Wimbledon final on a wild card entry. In what year did he finally win Wimbledon?",
+      "choices": [
+        "1992",
+        "1994",
+        "2001",
+        "2002"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which player famously struck a line judge with a ball during the 2009 US Open, leading to his disqualification from the tournament?",
+      "choices": [
+        "Juan Martin del Potro",
+        "Andy Roddick",
+        "Novak Djokovic",
+        "Roger Federer"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times did Margaret Court win the Australian Open singles title between 1960 and 1973?",
+      "choices": [
+        "11",
+        "9",
+        "13",
+        "10"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the US Open move from grass to hard courts at the USTA National Tennis Center in Flushing Meadows?",
+      "choices": [
+        "1975",
+        "1978",
+        "1980",
+        "1982"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which player won his only Grand Slam title at the 2003 US Open, defeating Andre Agassi in the final?",
+      "choices": [
+        "Andy Roddick",
+        "Juan Carlos Ferrero",
+        "Tim Henman",
+        "Yevgeny Kafelnikov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the nationality of Guillermo Vilas, who reached four Grand Slam finals in the 1970s and 1980s?",
+      "choices": [
+        "Chilean",
+        "Argentine",
+        "Brazilian",
+        "Peruvian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1991 Wimbledon final, Michael Stich defeated Boris Becker. What was the final set score?",
+      "choices": [
+        "6-4, 7-6, 6-4",
+        "7-6, 6-4, 7-6",
+        "6-3, 6-7, 6-4",
+        "6-4, 6-3, 7-5"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Czech player won the 1998 Australian Open at age 21, becoming the second-youngest Grand Slam champion of the 1990s?",
+      "choices": [
+        "Jana Novotna",
+        "Petr Korda",
+        "Martina Navratilova",
+        "Hana Mandlikova"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional tennis, what is the maximum number of set points a player can have in a standard best-of-three-sets match?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which male player holds the record for most consecutive weeks ranked No. 1 in the ATP rankings as of 2024?",
+      "choices": [
+        "Novak Djokovic",
+        "Roger Federer",
+        "Pete Sampras",
+        "Ivan Lendl"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Venus and Serena Williams first face each other in a Grand Slam final, at the Australian Open?",
+      "choices": [
+        "2001",
+        "2002",
+        "2003",
+        "2000"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Goran Ivanisevic win Wimbledon as a wildcard, the only man to achieve this feat?",
+      "choices": [
+        "1999",
+        "2001",
+        "2003",
+        "1997"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tennis player won the Golden Slam in 1988, claiming all four Grand Slams and Olympic gold in the same calendar year?",
+      "choices": [
+        "Martina Navratilova",
+        "Steffi Graf",
+        "Monica Seles",
+        "Margaret Court"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Muster made a remarkable comeback to tennis after suffering what type of accident in 1989?",
+      "choices": [
+        "Being struck by a car",
+        "Falling down stairs",
+        "Skateboarding injury",
+        "Tennis ball incident"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Indian tennis player and Davis Cup captain led India to refuse playing South Africa in the 1974 Davis Cup due to apartheid policies?",
+      "choices": [
+        "Vijay Amritraj",
+        "Ramesh Krishnan",
+        "Not officially named in records",
+        "Ramanathan Krishnan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the retractable roof first installed and used during Wimbledon play?",
+      "choices": [
+        "2007",
+        "2009",
+        "2011",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rod Laver's autobiography shares what title?",
+      "choices": [
+        "The Professional Game",
+        "The Education of a Tennis Player",
+        "My Life on Court",
+        "Winning Matters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beverage company has served as the official drink supplier at Wimbledon since 1934?",
+      "choices": [
+        "Twinings",
+        "Robinsons",
+        "Pimm's",
+        "Lipton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lleyton Hewitt achieved the world No. 1 ranking in which year, becoming the youngest man to reach this position?",
+      "choices": [
+        "2000",
+        "2001",
+        "2002",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2009 Wimbledon final, Roger Federer faced which British player in what would be one of the tournament's most memorable matches?",
+      "choices": [
+        "Greg Rusedski",
+        "Andy Murray",
+        "Tim Henman",
+        "Wade Henman"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pat Cash's autobiography carries which title?",
+      "choices": [
+        "Uncovered",
+        "Beyond the Baseline",
+        "Serve and Volley",
+        "Court Memoirs"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bjorn Borg held the world No. 1 ranking continuously during which two years?",
+      "choices": [
+        "1975-1976",
+        "1977-1981",
+        "1978-1980",
+        "1976-1978"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The US Open tennis tournament venue was renamed in 2006 to honor which pioneering player and women's rights advocate?",
+      "choices": [
+        "Martina Navratilova",
+        "Billie Jean King",
+        "Billie Jean Moffitt",
+        "Chris Evert"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of John McEnroe's siblings captained the United States Davis Cup team?",
+      "choices": [
+        "Mark McEnroe",
+        "Patrick McEnroe",
+        "Sean McEnroe",
+        "Michael McEnroe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Davis Cup was originally conceived in 1899 by four members of which American university?",
+      "choices": [
+        "Yale University",
+        "Harvard University",
+        "Princeton University",
+        "Columbia University"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the charity tennis event that was created during the 2010 Australian Open in response to the Haiti earthquake?",
+      "choices": [
+        "Serve for Haiti",
+        "Hit for Haiti",
+        "Play for Haiti",
+        "Rally for Haiti"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "As of 2010, which player held the record for most Grand Slam men's singles titles with 16 championships?",
+      "choices": [
+        "Pete Sampras",
+        "Andre Agassi",
+        "Roger Federer",
+        "Boris Becker"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which term, commonly used in golf to describe winning all major championships in one year, was first applied to tennis when Margaret Court achieved this feat in 1970?",
+      "choices": [
+        "Triple Crown",
+        "Grand Slam",
+        "Career Sweep",
+        "Major Slam"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At which Grand Slam tournament is the first major championship of the calendar year contested?",
+      "choices": [
+        "French Open",
+        "Australian Open",
+        "Wimbledon",
+        "US Open"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern European nation won the Davis Cup championship in 2012, 2013, and 2014?",
+      "choices": [
+        "Serbia",
+        "Czech Republic",
+        "Croatia",
+        "Slovakia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Roger Federer's native country is which European nation?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Sweden"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Goran Ivanisevic win Wimbledon as a wildcard, becoming the only man to achieve this feat?",
+      "choices": [
+        "1999",
+        "2001",
+        "2003",
+        "1997"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive Wimbledon titles did Björn Borg win during his dominant streak in the late 1970s and early 1980s?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tennis player defeated Pete Sampras in the 1990 US Open final, ending Sampras' Grand Slam final debut in defeat?",
+      "choices": [
+        "Andre Agassi",
+        "Jim Courier",
+        "Pete Korda",
+        "Thomas Muster"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Michael Chang become the youngest male player to win a Grand Slam singles title at age 17?",
+      "choices": [
+        "1989",
+        "1990",
+        "1988",
+        "1991"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many Grand Slam singles titles did Martina Navratilova win during the 1980s decade?",
+      "choices": [
+        "15",
+        "18",
+        "20",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tennis player was married to actress Brooke Shields in the 1990s?",
+      "choices": [
+        "Pete Sampras",
+        "Andre Agassi",
+        "Boris Becker",
+        "Jim Courier"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Steffi Graf achieve the Golden Slam by winning all four major tournaments plus Olympic gold in the same calendar year?",
+      "choices": [
+        "1987",
+        "1989",
+        "1988",
+        "1990"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Czech tennis player was known for performing the 'Scissors Kick' celebration at midcourt after winning matches?",
+      "choices": [
+        "Ivan Lendl",
+        "Petr Korda",
+        "Jiří Novák",
+        "Petr Cermak"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many games were played in the longest men's singles match ever recorded at Wimbledon?",
+      "choices": [
+        "98 games",
+        "110 games",
+        "112 games",
+        "105 games"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Pat Cash win his sole Wimbledon singles title?",
+      "choices": [
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how much prize money did Boris Becker earn throughout his professional tennis career?",
+      "choices": [
+        "$12 million",
+        "$18 million",
+        "$25 million",
+        "$15 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who is the youngest player who won then US Opens at the age of 19 on the year 1990?",
+      "choices": [
+        "Billie Jean King",
+        "Andy Murray",
+        "Pete Sampras",
+        "Chris Evert"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Since retiring, which former player has played in World Series Poker?",
+      "choices": [
+        "Yevgeny Kafelnikov",
+        "set",
+        "Grand Slam",
+        "Naomi Osaka"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The US Open venue is named after who since 2006?",
+      "choices": [
+        "Bjorn Borg",
+        "Stefan Edberg",
+        "Novak Djokovic",
+        "Billie Jean King"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who won the men's title at the 2008 Olympics?",
+      "choices": [
+        "Carlos Alcaraz",
+        "Rafael Nadal",
+        "Pete Sampras",
+        "Venus Williams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is this former tennis player and now a wife to Roger Federer?",
+      "choices": [
+        "Maria Sharapova",
+        "match",
+        "tiebreak",
+        "Mirka Vavrinec"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who became the youngest - ever male player to win a Grand Slam singles title at 17 years?",
+      "choices": [
+        "love",
+        "Michael Chang",
+        "John McEnroe",
+        "Naomi Osaka"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which maverick said, 'Being number two sucks'?",
+      "choices": [
+        "Andy Murray",
+        "Andre Agassi",
+        "Venus Williams",
+        "Maria Sharapova"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is only person to win the men's singles title at Wimbledon as a wildcard?",
+      "choices": [
+        "Boris Becker",
+        "match",
+        "Goran Ivanisevic",
+        "Maria Sharapova"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the venue for the Australian Open?",
+      "choices": [
+        "forehand",
+        "Roger Federer",
+        "Naomi Osaka",
+        "Melbourne Park"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do you call the charity event that was made during the 2010 Australian Open?",
+      "choices": [
+        "rally",
+        "Carlos Alcaraz",
+        "backhand",
+        "Hit for Haiti"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actress was Andre Agassi once married to?",
+      "choices": [
+        "Brooke Shields",
+        "set",
+        "forehand",
+        "Serena Williams"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bad boy said, 'Everybody loves success, but they hate successful people'?",
+      "choices": [
+        "John McEnroe",
+        "Monica Seles",
+        "Billie Jean King",
+        "Boris Becker"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which current champion is called The King of Clay?",
+      "choices": [
+        "Andre Agassi",
+        "Rafael Nadal",
+        "Roger Federer",
+        "Martina Navratilova"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "As of 2010, who is seeded # 5 in the women's single?",
+      "choices": [
+        "Venus Williams",
+        "Monica Seles",
+        "Billie Jean King",
+        "Novak Djokovic"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the first Wimbledon Championship held?",
+      "choices": [
+        "1868",
+        "1877",
+        "1890",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who became the youngest ever Wimbledon men's singles champion at age 17 in 1985?",
+      "choices": [
+        "Boris Becker",
+        "John McEnroe",
+        "Björn Borg",
+        "Stefan Edberg"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Grand Slam singles titles has Serena Williams won (career total)?",
+      "choices": [
+        "18",
+        "21",
+        "23",
+        "25"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis player has won the most men's Grand Slam titles (24, tied with Margaret Court in women's)?",
+      "choices": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which stadium hosts the US Open tennis tournament?",
+      "choices": [
+        "Arthur Ashe Stadium",
+        "Centre Court",
+        "Philippe-Chatrier",
+        "Rod Laver Arena"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which annual team event is the oldest international tennis competition?",
+      "choices": [
+        "Fed Cup",
+        "Davis Cup",
+        "ATP Cup",
+        "Laver Cup"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was the tiebreak system invented by James Van Alen?",
+      "choices": [
+        "1963",
+        "1965",
+        "1967",
+        "1969"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the first Wimbledon Championships take place?",
+      "choices": [
+        "1875",
+        "1877",
+        "1879",
+        "1881"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company has traditionally supplied the official tennis balls for Wimbledon?",
+      "choices": [
+        "Wilson",
+        "Slazenger",
+        "Dunlop",
+        "Penn"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At what ranking did Goran Ivanisevic win the 2001 Wimbledon Men's Singles title?",
+      "choices": [
+        "89",
+        "105",
+        "125",
+        "152"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Olympic Games did Andre Agassi win a gold medal in tennis?",
+      "choices": [
+        "1992 Barcelona",
+        "1996 Atlanta",
+        "2000 Sydney",
+        "2004 Athens"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Pat Cash win his only Wimbledon Men's Singles title?",
+      "choices": [
+        "1985",
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Grand Slam singles titles did John McEnroe win during his career?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which South American player was known by the nickname 'Princess of the Pampas'?",
+      "choices": [
+        "Monica Seles",
+        "Gabriela Sabatini",
+        "Mary Pierce",
+        "Arantxa Sanchez-Vicario"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Lindsay Davenport win the Wimbledon Women's Singles title?",
+      "choices": [
+        "1997",
+        "1998",
+        "1999",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many career Grand Slam singles titles had Venus Williams won as of 2010?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actress was professional tennis player Andre Agassi married to?",
+      "choices": [
+        "Demi Moore",
+        "Brooke Shields",
+        "Jennifer Aniston",
+        "Courteney Cox"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many games were played in the longest Wimbledon Men's Singles match on record?",
+      "choices": [
+        "98",
+        "105",
+        "112",
+        "119"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player was known for performing a scissors kick at midcourt after winning matches?",
+      "choices": [
+        "Goran Ivanisevic",
+        "Petr Korda",
+        "Boris Becker",
+        "Stefan Edberg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many nations participate in the Davis Cup World Group?",
+      "choices": [
+        "12",
+        "16",
+        "20",
+        "24"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Serena Williams win her 23rd Grand Slam title, tying Margaret Court's all-time record?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis court surface is used at the French Open?",
+      "choices": [
+        "Grass",
+        "Clay",
+        "Hard court",
+        "Synthetic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many times did Björn Borg win the French Open during his career?",
+      "choices": [
+        "4 times",
+        "5 times",
+        "6 times",
+        "3 times"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country hosted the US Open tennis tournament before it moved to New York?",
+      "choices": [
+        "New Jersey",
+        "Connecticut",
+        "Pennsylvania",
+        "Massachusetts"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Australian Open switch from grass courts to hard courts?",
+      "choices": [
+        "1986",
+        "1988",
+        "1990",
+        "1992"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis legend won Wimbledon five times in the 1970s and 80s?",
+      "choices": [
+        "John McEnroe",
+        "Jimmy Connors",
+        "Björn Borg",
+        "Pete Sampras"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Grand Slam titles did Ivan Lendl win during his professional career?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which female player won the French Open three consecutive times from 2013 to 2015?",
+      "choices": [
+        "Victoria Azarenka",
+        "Maria Sharapova",
+        "Serena Williams",
+        "Dominika Cibulkova"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Martina Navratilova win her final Grand Slam singles title?",
+      "choices": [
+        "1985",
+        "1986",
+        "1987",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player achieved the Golden Slam in 1988 by winning all four Grand Slams and Olympic gold?",
+      "choices": [
+        "Chris Evert",
+        "Steffi Graf",
+        "Martina Navratilova",
+        "Monica Seles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many times did Margaret Court win the Australian Open?",
+      "choices": [
+        "9 times",
+        "11 times",
+        "13 times",
+        "15 times"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis player's autobiography is titled 'The Way It Was'?",
+      "choices": [
+        "Rod Laver",
+        "Arthur Ashe",
+        "Chris Evert",
+        "Billie Jean King"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Billie Jean King defeat Bobby Riggs in the famous 'Battle of the Sexes' match?",
+      "choices": [
+        "1971",
+        "1972",
+        "1973",
+        "1974"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player won the men's singles title at Wimbledon in 1985, 1986, and 1990?",
+      "choices": [
+        "Ivan Lendl",
+        "Boris Becker",
+        "Stefan Edberg",
+        "Pete Sampras"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many consecutive Grand Slam tournaments did Novak Djokovic win in 2015 and early 2016?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis legend was known for his powerful serve and won the US Open four consecutive times from 1990 to 1993?",
+      "choices": [
+        "Andre Agassi",
+        "Pete Sampras",
+        "Jimmy Connors",
+        "John McEnroe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Venus Williams win her first Grand Slam singles title?",
+      "choices": [
+        "1997",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player won the Wimbledon women's singles title seven times between 1927 and 1938?",
+      "choices": [
+        "Helen Wills Moody",
+        "Alice Marble",
+        "Suzanne Lenglen",
+        "Dorothy Round"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Steffi Graf achieve the Golden Slam by winning all four major championships and the Olympic gold medal in the same calendar year?",
+      "choices": [
+        "1986",
+        "1988",
+        "1990",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At what ranking was Goran Ivanisevic seeded when he won the Wimbledon men's singles title in 2001?",
+      "choices": [
+        "125",
+        "89",
+        "156",
+        "101"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the first Wimbledon Championships held?",
+      "choices": [
+        "1875",
+        "1877",
+        "1879",
+        "1881"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American tennis player famously stated 'Being number two sucks' during his career?",
+      "choices": [
+        "Pete Sampras",
+        "Andre Agassi",
+        "Jim Courier",
+        "Michael Chang"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Wimbledon singles titles did Roger Federer win during his career?",
+      "choices": [
+        "5",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British tennis legend has an international clothing brand named after him?",
+      "choices": [
+        "Fred Perry",
+        "Pat Cash",
+        "John McEnroe",
+        "Jimmy Connors"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is Xavier Malisse originally from?",
+      "choices": [
+        "Netherlands",
+        "Belgium",
+        "Austria",
+        "Switzerland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At the 2008 Summer Olympics, which player won the men's tennis singles gold medal?",
+      "choices": [
+        "Roger Federer",
+        "Andy Murray",
+        "Rafael Nadal",
+        "Novak Djokovic"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Olympic Games did Andre Agassi capture his gold medal in tennis?",
+      "choices": [
+        "1992 Barcelona",
+        "1996 Atlanta",
+        "2000 Sydney",
+        "2004 Athens"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the maximum age requirement for players competing in the Junior division of professional tennis?",
+      "choices": [
+        "16 years old",
+        "18 years old",
+        "20 years old",
+        "21 years old"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Heather Watson win the Junior US Open championship?",
+      "choices": [
+        "2007",
+        "2009",
+        "2011",
+        "2013"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Pat Cash turn professional?",
+      "choices": [
+        "1980",
+        "1982",
+        "1984",
+        "1986"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beverage company has been the official drink supplier of the Wimbledon Championships since 1934?",
+      "choices": [
+        "Coca-Cola",
+        "Robinsons",
+        "Sprite",
+        "Schweppes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis legend later became involved in professional poker after retiring from the sport?",
+      "choices": [
+        "Boris Becker",
+        "Yevgeny Kafelnikov",
+        "Goran Ivanisevic",
+        "Pete Sampras"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Jamie Murray win the mixed doubles championship at Wimbledon?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long was Pete Sampras' professional tennis career in total?",
+      "choices": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how much prize money did Anna Kournikova earn throughout her professional tennis career?",
+      "choices": [
+        "2 million dollars",
+        "3 million dollars",
+        "5 million dollars",
+        "8 million dollars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis player won the Wimbledon women's singles title for the second time in 2014?",
+      "choices": [
+        "Serena Williams",
+        "Petra Kvitova",
+        "Maria Sharapova",
+        "Agnieszka Radwańska"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Serena Williams win her 23rd Grand Slam title at the Australian Open?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which male player won the Australian Open three times in the 1990s?",
+      "choices": [
+        "Stefan Edberg",
+        "Ivan Lendl",
+        "Andre Agassi",
+        "Michael Chang"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many consecutive Wimbledon titles did Roger Federer win from 2003 to 2009?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis player became the first man to win the Golden Slam in 1988?",
+      "choices": [
+        "Ivan Lendl",
+        "Stefan Edberg",
+        "Andre Agassi",
+        "Pete Sampras"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Martina Navratilova retire from professional tennis?",
+      "choices": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country has won the most Davis Cup titles as of 2024?",
+      "choices": [
+        "Sweden",
+        "United States",
+        "France",
+        "Spain"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many US Open men's singles titles did Jimmy Connors win during his career?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis player famously bit an opponent's ear during a match?",
+      "choices": [
+        "John McEnroe",
+        "Ilie Nastase",
+        "Mike Tyson",
+        "This did not happen in tennis"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Billie Jean King defeat Bobby Riggs in the Battle of the Sexes?",
+      "choices": [
+        "1970",
+        "1972",
+        "1973",
+        "1975"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player won the French Open five times in the 2010s?",
+      "choices": [
+        "Novak Djokovic",
+        "Rafael Nadal",
+        "Stan Wawrinka",
+        "Andy Murray"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Grand Slam singles titles did John McEnroe win in his career?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tennis tournament is played on clay courts in Paris each spring?",
+      "choices": [
+        "Wimbledon",
+        "US Open",
+        "French Open",
+        "Australian Open"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country did Monica Seles win her ninth Grand Slam title in 1992?",
+      "choices": [
+        "England",
+        "France",
+        "Australia",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the maximum number of sets played in a men's Grand Slam final?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which doubles partnership won 20 Grand Slam titles together in the early 2000s?",
+      "choices": [
+        "Wojtowicz & Ulset",
+        "Woodforde & Woodbridge",
+        "Henman & Perry",
+        "McEnroe & Fleming"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Novak Djokovic win the Australian Open for the third time?",
+      "choices": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which female player won the US Open four consecutive times from 1995 to 1998?",
+      "choices": [
+        "Steffi Graf",
+        "Monica Seles",
+        "Martina Navratilova",
+        "Pam Shriver"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many times did Boris Becker win the Australian Open during his career?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "0"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which player became the youngest Grand Slam champion in the Open era when she won the US Open in 1997?",
+      "choices": [
+        "Maria Sharapova",
+        "Martina Hingis",
+        "Jelena Dokic",
+        "Venus Williams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Andy Murray win his first Grand Slam singles title?",
+      "choices": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

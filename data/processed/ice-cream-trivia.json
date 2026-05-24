@@ -1,324 +1,2306 @@
 {
   "slug": "ice-cream-trivia",
   "name": "Ice Cream",
-  "description": "Cones, sundaes, scoops, and Ben & Jerry's — the cold history of frozen treats.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.585Z",
   "questions": [
     {
-      "q": "What flavor was the first commercially sold ice cream in the United States?",
-      "choices": ["Chocolate", "Strawberry", "Vanilla", "Butter pecan"],
-      "correct": 2,
-      "category": "Ice Cream",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Vanilla",
-        "verified": true,
-        "notes": "Still the bestselling flavor in the U.S. today."
-      }
+      "q": "What iconic hand-held ice-cream container is said to have been popularized at the 1904 St. Louis World's Fair?",
+      "choices": [
+        "The waffle cone",
+        "The sugar cone",
+        "The pint",
+        "The soft-serve swirl"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which First Lady is credited with making ice cream a White House dessert staple in the early 1800s?",
+      "q": "Vanilla, chocolate, and strawberry together in one block are called what classic ice-cream style?",
+      "choices": [
+        "Spumoni",
+        "Neapolitan",
+        "Tutti Frutti",
+        "Trio"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ice cream's main ingredient — besides sugar and flavoring — is what?",
+      "choices": [
+        "Fruit juice",
+        "Dairy (milk and cream)",
+        "Egg yolks",
+        "Starch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ice-cream Sundaes are said to have been invented in the 1880s in the U.S. — what flavor topping defined the original?",
+      "choices": [
+        "Caramel",
+        "Chocolate syrup",
+        "Strawberry",
+        "Butterscotch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ingredient-packed ice-cream flavor features marshmallows, nuts, and chocolate?",
+      "choices": [
+        "Rocky Road",
+        "Moose Tracks",
+        "Fudge Ripple",
+        "Tin Roof Sundae"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Italian-style 'gelato' is different from American ice cream in which way?",
+      "choices": [
+        "It's lower in fat and has less air whipped in",
+        "It's made only from soy milk",
+        "It's always flavored with coffee",
+        "It's always served frozen solid"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classic dairy-free frozen dessert is made primarily of fruit and sugar, without milk or cream?",
+      "choices": [
+        "Gelato",
+        "Sherbet",
+        "Sorbet",
+        "Mousse"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What dairy ingredient is the primary base of traditional ice cream?",
+      "choices": [
+        "Milk and cream",
+        "Coconut oil",
+        "Vegetable shortening",
+        "Whipped egg whites"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did the Roman Empire enjoy a frozen dessert made from snow and fruit juice?",
+      "choices": [
+        "1st century AD",
+        "5th century AD",
+        "10th century AD",
+        "15th century AD"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the ice cream cone by combining it with a crispy waffle structure?",
+      "choices": [
+        "Harry Burt",
+        "Italo Marchiony",
+        "Charles Menches",
+        "Antonio Valloni"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Harry Burt create the ice cream on a stick, later known as the Edy's Pie?",
+      "choices": [
+        "1920",
+        "1934",
+        "1951",
+        "1965"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which First Lady famously served ice cream at White House social events during the early 1800s?",
+      "choices": [
+        "Dolley Madison",
+        "Martha Washington",
+        "Abigail Adams",
+        "Eleanor Roosevelt"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What flavor was the first commercially produced ice cream sold in the United States?",
+      "choices": [
+        "Vanilla",
+        "Chocolate",
+        "Strawberry",
+        "Butter pecan"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the mechanical ice cream freezer using a hand crank first become available?",
+      "choices": [
+        "1843",
+        "1876",
+        "1912",
+        "1928"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited with popularizing gelato, a dense frozen dessert made with less air than ice cream?",
+      "choices": [
+        "Italy",
+        "France",
+        "Austria",
+        "Spain"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main textural difference between ice cream and gelato?",
+      "choices": [
+        "Gelato contains less air and is denser",
+        "Gelato uses no dairy products",
+        "Gelato is served at a higher temperature",
+        "Gelato has more sugar content"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What frozen treat consists of honeycomb candy pieces mixed into vanilla ice cream?",
+      "choices": [
+        "Hokey Pokey",
+        "Rocky Road",
+        "Cookies and cream",
+        "Pralines and cream"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which flavor combines marshmallows, nuts, and chocolate into a single scoop?",
+      "choices": [
+        "Rocky Road",
+        "Butter pecan",
+        "Mint chocolate chip",
+        "Cookie dough"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What key ingredient makes mint chocolate chip ice cream turn green?",
+      "choices": [
+        "Peppermint extract and food coloring",
+        "Natural mint leaves",
+        "Chlorophyll",
+        "Spirulina"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month does the United States officially celebrate National Ice Cream Month?",
+      "choices": [
+        "July",
+        "June",
+        "August",
+        "May"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What day of the week is traditionally associated with eating ice cream sundaes?",
+      "choices": [
+        "Sunday",
+        "Saturday",
+        "Friday",
+        "Wednesday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the frozen dessert made by churning a custard-like mixture while freezing?",
+      "choices": [
+        "Ice cream",
+        "Sherbet",
+        "Sorbet",
+        "Granita"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ingredient separates ice cream from sorbet?",
+      "choices": [
+        "Dairy products",
+        "Sugar",
+        "Air",
+        "Eggs"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a sundae topped with?",
+      "choices": [
+        "Syrup, whipped cream, and toppings",
+        "Nuts only",
+        "Cookie crumbles only",
+        "Fruit only"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many main flavors are traditionally offered at a classic American ice cream parlor?",
+      "choices": [
+        "At least three",
+        "Exactly two",
+        "Only one",
+        "Never fewer than five"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What temperature range is ice cream typically stored at in a freezer?",
+      "choices": [
+        "0°F or below",
+        "10°F to 15°F",
+        "20°F to 25°F",
+        "-10°F or below"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which spice is commonly used in Indian ice cream preparations?",
+      "choices": [
+        "Cardamom",
+        "Cinnamon",
+        "Turmeric",
+        "Clove"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was the hand-crank ice cream machine invented?",
+      "choices": [
+        "1823",
+        "1843",
+        "1863",
+        "1883"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. president famously served ice cream with oysters?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "James Madison",
+        "John Adams"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which First Lady popularized ice cream at White House events during the 1800s?",
+      "choices": [
+        "Abigail Adams",
+        "Dolley Madison",
+        "Martha Washington",
+        "Eleanor Roosevelt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many distinct flavor layers does traditional Neapolitan ice cream contain?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which flavor is the most popular ice cream choice worldwide?",
+      "choices": [
+        "Chocolate",
+        "Strawberry",
+        "Vanilla",
+        "Mint"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary aromatic spice used in traditional Indian Kulfi ice cream?",
+      "choices": [
+        "Cinnamon",
+        "Cardamom",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country did the ice cream sundae originate?",
+      "choices": [
+        "France",
+        "Italy",
+        "United States",
+        "Switzerland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did ice cream trucks with musical jingles first become popular in America?",
+      "choices": [
+        "1900",
+        "1910",
+        "1920",
+        "1930"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient civilization is credited with creating an early version of sorbet using snow and fruit?",
+      "choices": [
+        "Greek Empire",
+        "Roman Empire",
+        "Persian Empire",
+        "Egyptian Empire"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What frozen dessert is considered a healthier alternative to traditional ice cream?",
+      "choices": [
+        "Gelato",
+        "Frozen yogurt",
+        "Sherbet",
+        "Sorbet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dessert flavor combines chocolate, caramel, and crispy waffle elements?",
+      "choices": [
+        "Salted Caramel",
+        "Caramel Cone",
+        "Chocolate Waffle",
+        "Caramel Crunch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ice cream flavor is inspired by the taste of baked apple pie with crumbled topping?",
+      "choices": [
+        "Cinnamon Pie",
+        "Apple Crumble",
+        "Baked Apple",
+        "Pie à la Mode"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ice cream flavor combines the taste of chocolate, marshmallow, and graham cracker?",
+      "choices": [
+        "Cookies and Cream",
+        "S'mores",
+        "Rocky Road",
+        "Chocolate Crunch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ice cream flavor features candy pieces resembling a holiday decoration?",
+      "choices": [
+        "Peppermint Stick",
+        "Candy Cane",
+        "Christmas Cookie",
+        "Holiday Mix"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ice cream flavor is known for combining chocolate, nuts, and marshmallow?",
+      "choices": [
+        "Turtle Crunch",
+        "Rocky Road",
+        "Brownie Blast",
+        "Nut Fudge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What flavor combines coffee taste with chocolate fudge swirls?",
+      "choices": [
+        "Mocha Chip",
+        "Coffee Fudge",
+        "Coffee Coffee BuzzBuzzBuzz!",
+        "Espresso Dream"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ice cream flavor includes cookie dough pieces that are safe to eat raw?",
+      "choices": [
+        "Cookies and Cream",
+        "Chocolate Chip Cookie Dough",
+        "Raw Cookie Blend",
+        "Dough Bites"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient that gives Hokey Pokey ice cream its signature texture?",
+      "choices": [
+        "Caramel ribbons",
+        "Honeycomb candy",
+        "Waffle pieces",
+        "Brittle shards"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the ice cream cone receive its patent?",
+      "choices": [
+        "1895",
+        "1903",
+        "1912",
+        "1920"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which month is recognized as National Ice Cream Month in the United States?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What flavor of ice cream was the first to be mass-produced and sold commercially in the United States?",
+      "choices": [
+        "Chocolate",
+        "Vanilla",
+        "Strawberry",
+        "Mint"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the hand-cranked ice cream maker in the 19th century?",
+      "choices": [
+        "Thomas Edison",
+        "Nancy Johnson",
+        "Alexander Graham Bell",
+        "George Washington"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country consumes more ice cream per capita than any other nation in the world?",
+      "choices": [
+        "United States",
+        "Sweden",
+        "New Zealand",
+        "Denmark"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the ice cream sundae invented?",
+      "choices": [
+        "1875",
+        "1881",
+        "1889",
+        "1895"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What dessert item did Ernest Hamwi create at the 1904 World's Fair that changed ice cream forever?",
+      "choices": [
+        "The sugar cone",
+        "The waffle cone",
+        "The chocolate shell",
+        "The ice cream sandwich"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient civilization is credited with making early forms of ice cream using snow and sweetened liquids?",
+      "choices": [
+        "Ancient Rome",
+        "Ancient China",
+        "Ancient Greece",
+        "Ancient Egypt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what decade did ice cream trucks first begin selling frozen treats to neighborhoods?",
+      "choices": [
+        "1900s",
+        "1910s",
+        "1920s",
+        "1930s"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. president was famously known to enjoy oyster-flavored ice cream?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most popular ice cream flavor worldwide?",
+      "choices": [
+        "Chocolate",
+        "Strawberry",
+        "Vanilla",
+        "Mint Chip"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how much money does the American ice cream industry generate annually?",
+      "choices": [
+        "Over $10 billion",
+        "Over $15 billion",
+        "Over $21 billion",
+        "Over $30 billion"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what country did the tradition of adding toppings and sauces to ice cream originate?",
+      "choices": [
+        "France",
+        "Italy",
+        "United States",
+        "Switzerland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What flavor combination pairs chocolate with peanut butter and is a classic favorite?",
+      "choices": [
+        "Rocky Road",
+        "Butter Pecan",
+        "Peanut Butter Fudge",
+        "Cookies and Cream"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which frozen dessert is made by churning ice cream while freezing it?",
+      "choices": [
+        "Gelato",
+        "Sorbet",
+        "Frozen yogurt",
+        "Sherbet"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What month is officially designated as National Ice Cream Month in the United States?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which flavor combines vanilla ice cream with cookie pieces mixed throughout?",
+      "choices": [
+        "Mint Chip",
+        "Cookies and Cream",
+        "Butter Pecan",
+        "Cookie Dough"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient that gives traditional ice cream its creamy texture?",
+      "choices": [
+        "Milk",
+        "Sugar",
+        "Cream",
+        "Gelatin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dessert topping of hot syrup poured over cold ice cream defines a sundae?",
+      "choices": [
+        "Whipped cream",
+        "Syrup or sauce",
+        "Sprinkles",
+        "Nuts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What temperature does ice cream need to be stored at to maintain its quality?",
+      "choices": [
+        "0°F or below",
+        "10°F or below",
+        "20°F or below",
+        "32°F or below"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which frozen dessert is made primarily from fruit juice or puree without dairy?",
+      "choices": [
+        "Ice cream",
+        "Gelato",
+        "Sorbet",
+        "Frozen custard"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary dairy ingredient that forms the base of traditional ice cream?",
+      "choices": [
+        "Milk and cream",
+        "Yogurt and buttermilk",
+        "Condensed milk only",
+        "Coconut milk"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the ice cream cone first invented at the World's Fair?",
+      "choices": [
+        "1893",
+        "1903",
+        "1912",
+        "1920"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which flavor is the classic three-part flavor combination with vanilla, chocolate, and strawberry?",
+      "choices": [
+        "Tricolor",
+        "Neapolitan",
+        "Trinity",
+        "Tri-Scoop"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Vanilla became America's first commercially sold ice cream flavor because of its popularity in which century?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "Early 20th century"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 13th-century Venetian explorer is sometimes (debatably) credited with bringing ice-cream-like recipes from the East to Italy?",
+      "choices": [
+        "Marco Polo",
+        "Christopher Columbus",
+        "Amerigo Vespucci",
+        "Giovanni Caboto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ice-cream-related term describes the air whipped into the mix during churning?",
+      "choices": [
+        "Overrun",
+        "Aeration",
+        "Fluff",
+        "Whip-ratio"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which First Lady is famously associated with serving ice cream at the White House in the early 19th century?",
       "choices": [
         "Martha Washington",
         "Dolley Madison",
         "Abigail Adams",
-        "Eleanor Roosevelt"
+        "Julia Grant"
       ],
       "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dolley Madison",
-        "verified": true,
-        "notes": "She famously served strawberry ice cream at her husband's 1813 inauguration ball."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which U.S. president had over 200 ice cream recipes and is sometimes called America's first ice cream connoisseur?",
+      "q": "The first documented U.S. ice-cream parlor opened in which city around 1776?",
+      "choices": [
+        "Boston",
+        "New York City",
+        "Philadelphia",
+        "Baltimore"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ernest Hamwi invent the ice cream cone at the 1904 World's Fair?",
+      "choices": [
+        "1902",
+        "1904",
+        "1906",
+        "1908"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor was named after a Grateful Dead song and features cherry pieces?",
+      "choices": [
+        "Cherry Garcia",
+        "Strawberry Jam",
+        "Grateful Blend",
+        "Dead Notes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary flavoring ingredient in traditional Italian gelato that distinguishes it from American ice cream?",
+      "choices": [
+        "Higher fat content",
+        "Lower air incorporation",
+        "Corn syrup base",
+        "Egg yolks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country consumes more ice cream per capita than any other nation, surpassing the United States?",
+      "choices": [
+        "Norway",
+        "New Zealand",
+        "Denmark",
+        "Sweden"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Ben & Jerry's flavor that parodies a Saturday Night Live sketch about meatballs?",
+      "choices": [
+        "Swedish Meatballs",
+        "Schweddy Balls",
+        "Nordic Nougat",
+        "Scandinavia Swirl"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what decade did mobile ice cream trucks first become a widespread phenomenon in American cities?",
+      "choices": [
+        "1900s",
+        "1920s",
+        "1940s",
+        "1960s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ben & Jerry's core flavor combines chocolate ice cream with brownie chunks and fudge swirls?",
+      "choices": [
+        "Chocolate Fudge Brownie",
+        "Brownie Batter",
+        "Fudge Chunk Chocolate",
+        "Triple Chocolate Swirl"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional flavor combination in Neapolitan ice cream by layer order?",
+      "choices": [
+        "Vanilla, Chocolate, Strawberry",
+        "Chocolate, Vanilla, Strawberry",
+        "Strawberry, Vanilla, Chocolate",
+        "Vanilla, Strawberry, Chocolate"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American ice cream parlor, established in 1776, is credited as the nation's first dedicated ice cream shop?",
+      "choices": [
+        "Homemade Ice Cream Parlor",
+        "Propr's Confectionery",
+        "The Ice Cream Kitchen",
+        "Colonial Creamery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ingredient does Hokey Pokey ice cream, popular in New Zealand, incorporate throughout its vanilla base?",
+      "choices": [
+        "Honeycomb candy",
+        "Toffee bits",
+        "Caramel crunch",
+        "Malt pieces"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which federal holiday in the United States is officially designated as National Ice Cream Month?",
+      "choices": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary difference in churning speed between traditional ice cream and gelato production?",
+      "choices": [
+        "Gelato is churned faster",
+        "Gelato is churned slower",
+        "Gelato is not churned",
+        "There is no difference"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor features cookie dough pieces suspended in vanilla ice cream?",
+      "choices": [
+        "Chocolate Chip Cookie Dough",
+        "Cookie Dough Dream",
+        "Raw Cookie Dough",
+        "Edible Cookie Dough"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the French frozen dessert made from a custard base that pre-dates modern ice cream?",
+      "choices": [
+        "Crème Glacée",
+        "Sorbet Classique",
+        "Parfait Français",
+        "Glace Vanille"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ice cream production, what is the term for the proportion of air whipped into the mixture?",
+      "choices": [
+        "Aeration ratio",
+        "Overrun percentage",
+        "Air incorporation",
+        "Whip factor"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor is distinguished by its combination of chocolate and vanilla ice cream with brownie and cookie chunks?",
+      "choices": [
+        "Half Baked",
+        "Batter Up",
+        "Brownie Bliss",
+        "Cookie Monster"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What temperature range is ice cream typically stored at for optimal texture and preservation?",
+      "choices": [
+        "-5 to 0 Fahrenheit",
+        "-15 to -10 Fahrenheit",
+        "-25 to -15 Fahrenheit",
+        "-35 to -25 Fahrenheit"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region is traditionally credited with originating the modern gelato as we know it today?",
+      "choices": [
+        "Tuscany",
+        "Piedmont",
+        "Sicily",
+        "Emilia-Romagna"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What chemical compound is responsible for the bitter flavor in coffee ice cream and its characteristic color?",
+      "choices": [
+        "Caffeine",
+        "Chlorogenic acid",
+        "Melanoidin",
+        "Tannin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1851, which American businessman is credited with patenting the first hand-cranked ice cream freezer?",
+      "choices": [
+        "Jacob Fussell",
+        "Gail Borden",
+        "Thomas Jefferson",
+        "William Underwood"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Jacob Fussell establish the first ice cream factory in commercial operation in the United States?",
+      "choices": [
+        "1851",
+        "1843",
+        "1867",
+        "1875"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. president served ice cream regularly at White House dinners and left detailed recipes in his personal papers?",
+      "choices": [
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "George Washington",
+        "James Madison"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ernest Hamwi is credited with inventing the ice cream cone at which major American event in 1904?",
+      "choices": [
+        "The Panama-Pacific Exposition",
+        "The St. Louis World's Fair",
+        "The Chicago Columbian Exposition",
+        "The San Francisco Golden Gate Exhibition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Nancy Johnson patented the first hand-cranked ice cream freezer in what decade?",
+      "choices": [
+        "1830s",
+        "1840s",
+        "1850s",
+        "1860s"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city is widely recognized as the birthplace of the ice cream soda in the late 19th century?",
+      "choices": [
+        "New York",
+        "Boston",
+        "Philadelphia",
+        "Chicago"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Edy's ice cream flavor 'Mint Chocolate Chip' became a permanent menu item in what year?",
+      "choices": [
+        "1953",
+        "1961",
+        "1947",
+        "1958"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ben & Jerry's 'Cherry Garcia' flavor was named after which member of a prominent American rock band?",
+      "choices": [
+        "Jerry Garcia from The Grateful Dead",
+        "Carlos Santana from Santana",
+        "Robbie Krieger from The Doors",
+        "Phil Lesh from The Grateful Dead"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did ice cream trucks first become a widespread phenomenon in American neighborhoods?",
+      "choices": [
+        "1905",
+        "1920",
+        "1935",
+        "1950"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ingredient did Thomas Jefferson famously add to his ice cream recipes that shocked contemporaries?",
+      "choices": [
+        "Oyster extract",
+        "Champagne",
+        "Goat cheese",
+        "Black pepper"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Italian ice cream style known as 'gelato' differs from American ice cream primarily in what aspect?",
+      "choices": [
+        "It contains no dairy products",
+        "It has lower fat content and less air incorporation",
+        "It is always served at room temperature",
+        "It requires no freezing process"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor references both a David Bowie album title and contains brownie chunks?",
+      "choices": [
+        "Ziggy's Stardust",
+        "Half Baked",
+        "Hunky Dory Fudge",
+        "Golden Years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary reason that ice cream melts faster at higher altitudes?",
+      "choices": [
+        "Lower atmospheric pressure reduces freezing point",
+        "Increased UV radiation from thinner air",
+        "Higher oxygen concentration accelerates melting",
+        "Reduced gravity affects molecular bonds"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'overrun' percentage in commercial ice cream production refers to what measurement?",
+      "choices": [
+        "The percentage of dairy fat content",
+        "The amount of air whipped into the mixture",
+        "The production time exceeding schedule",
+        "The sugar crystallization rate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which flavoring compound gives traditional French vanilla ice cream its distinctive taste compared to vanilla?",
+      "choices": [
+        "Vanillin extract",
+        "Egg yolk emulsification",
+        "Bourbon vanilla bean",
+        "Madagascar vanilla pods"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Japanese ice cream culture, which specialty dessert combines shaved ice with condensed milk and fruit?",
+      "choices": [
+        "Kakigori with ice cream",
+        "Mochi ice cream",
+        "Kakigori",
+        "Shaved ice sundae"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What breakthrough ingredient did Clarence Birdseye's freezing technology introduce to ice cream production in the 1920s?",
+      "choices": [
+        "Artificial emulsifiers",
+        "Quick-frozen dairy bases",
+        "Stabilizing gum additives",
+        "Homogenized milk solids"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The term 'soft serve' ice cream became popularized in America following the invention by which entrepreneur in 1934?",
+      "choices": [
+        "J. Frederick Trump",
+        "Tom Carvel",
+        "Ray Kroc",
+        "Richard Seiter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which natural stabilizer, derived from seaweed, is commonly used in premium ice cream to prevent ice crystal formation?",
+      "choices": [
+        "Guar gum",
+        "Carrageenan",
+        "Gelatin",
+        "Agar-agar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional gelato production, the optimal serving temperature is typically between which two temperatures?",
+      "choices": [
+        "-18°C to -15°C",
+        "-12°C to -8°C",
+        "-8°C to -5°C",
+        "-5°C to 0°C"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nancy Johnson patent the first hand-cranked ice cream freezer in the United States?",
+      "choices": [
+        "1843",
+        "1851",
+        "1847",
+        "1855"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. president was known to have ordered ice cream with oyster flavoring during his time in office?",
       "choices": [
         "George Washington",
         "Thomas Jefferson",
-        "Andrew Jackson",
-        "Abraham Lincoln"
+        "Benjamin Franklin",
+        "John Adams"
       ],
       "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Thomas Jefferson",
-        "verified": true,
-        "notes": "His handwritten vanilla ice cream recipe is held by the Library of Congress."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Who patented the first hand-cranked ice cream maker in 1843?",
-      "choices": ["Nancy Johnson", "Henry Heinz", "Jacob Fussell", "Ernest Hamwi"],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Nancy Johnson",
-        "verified": true,
-        "notes": "Philadelphia inventor; her hand-crank double-cylinder design was the basis for home machines for over 100 years."
-      }
-    },
-    {
-      "q": "At what World's Fair was the ice cream cone reportedly popularized in 1904?",
+      "q": "In what year was the ice cream cone officially patented as a food container?",
       "choices": [
-        "Chicago",
-        "St. Louis",
-        "New York",
-        "San Francisco"
+        "1903",
+        "1912",
+        "1908",
+        "1899"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which First Lady of the United States was instrumental in popularizing ice cream at White House social events during the early 1800s?",
+      "choices": [
+        "Martha Washington",
+        "Dolley Madison",
+        "Abigail Adams",
+        "Elizabeth Monroe"
       ],
       "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ice Cream",
-        "verified": true,
-        "notes": "Syrian-American Ernest Hamwi rolled a waffle into a cone for an ice-cream vendor whose dishes ran out."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which country consistently ranks at or near the top in per-capita ice cream consumption?",
-      "choices": ["Italy", "United States", "New Zealand", "Sweden"],
+      "q": "The Quaker colonists are credited with introducing ice cream to North America. In approximately what century did this occur?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
       "correct": 2,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "New Zealand",
-        "verified": true,
-        "notes": "About 28 liters per person per year — close to the U.S."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which Ben & Jerry's flavor is named after a Grateful Dead member and combines cherry ice cream with fudge flakes?",
+      "q": "Which Italian city is most historically associated with the development and refinement of gelato as a distinct frozen dessert?",
+      "choices": [
+        "Rome",
+        "Florence",
+        "Venice",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which explorer's 13th-century travels to the East are credited with bringing ice cream recipes and techniques back to Italy?",
+      "choices": [
+        "Bartolomeu Dias",
+        "Marco Polo",
+        "Christopher Columbus",
+        "Vasco da Gama"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The ancient Romans created an early form of frozen dessert by combining snow from mountain peaks with what sweetening ingredient?",
+      "choices": [
+        "Maple syrup",
+        "Honey and fruit juice",
+        "Date paste",
+        "Grape must"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Indian ice cream preparation, which spice is a dominant flavor that distinguishes it from Western varieties?",
+      "choices": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Clove"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Asian tea-based ice cream flavor combines the earthiness of tea with sweetened condensed milk in Thai dessert traditions?",
+      "choices": [
+        "Jasmine Tea",
+        "Thai Tea",
+        "Oolong Tea",
+        "Green Matcha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate annual revenue of the ice cream industry in the United States as of the early 21st century?",
+      "choices": [
+        "$12 billion",
+        "Over $21 billion",
+        "$18 billion",
+        "$15 billion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The original Neapolitan ice cream flavor combination consists of which three flavors arranged in distinct layers?",
+      "choices": [
+        "Vanilla, chocolate, and pistachio",
+        "Vanilla, chocolate, and strawberry",
+        "Vanilla, coffee, and chocolate",
+        "Vanilla, hazelnut, and chocolate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following was the first commercially produced ice cream flavor in the United States during the 19th century?",
+      "choices": [
+        "Chocolate",
+        "Strawberry",
+        "Vanilla",
+        "Peach"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Blue Moon ice cream flavor, popular in certain U.S. regions, is known for tasting like which breakfast cereal?",
+      "choices": [
+        "Frosted Flakes",
+        "Froot Loops",
+        "Lucky Charms",
+        "Cinnamon Toast Crunch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ben & Jerry's flavor 'Half Baked' combines which two baked goods mixed into vanilla ice cream?",
+      "choices": [
+        "Brownies and chocolate chip cookies",
+        "Cookie dough and brownies",
+        "Brownies and sugar cookies",
+        "Cookie dough and chocolate chip cookies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state is credited with the highest per-capita consumption of ice cream annually?",
+      "choices": [
+        "California",
+        "Wisconsin",
+        "Texas",
+        "New York"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The texture distinction between ice cream and gelato is primarily due to which factor?",
+      "choices": [
+        "Gelato contains more fat content",
+        "Ice cream contains more air incorporation during churning",
+        "Gelato is churned at higher speeds",
+        "Ice cream uses different stabilizers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Turkish ice cream, the addition of which plant-derived ingredient creates its characteristically thick, stretchy texture?",
+      "choices": [
+        "Guar gum",
+        "Salep (orchid root powder)",
+        "Xanthan gum",
+        "Cornstarch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following ice cream flavors was first introduced by a major U.S. brand in 1984, combining cookies and cream?",
+      "choices": [
+        "Oreo by Breyer's",
+        "Cookies and Cream by Edy's",
+        "Cookie Crumble by Blue Bell",
+        "Cookies 'n Cream by Ben & Jerry's"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the freezing point depression mechanism that prevents ice cream from freezing solid like ice?",
+      "choices": [
+        "High salt content lowers melting point",
+        "Sugar and solutes lower the freezing point of water",
+        "Air incorporation reduces density",
+        "Emulsifiers prevent crystallization entirely"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Harry Burt patent the ice cream cone with a wooden stick, creating the first mass-produced ice cream bar?",
+      "choices": [
+        "1920",
+        "1923",
+        "1927",
+        "1931"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. president famously requested oyster-flavored ice cream as his preferred dessert during his time in office?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "James Madison",
+        "John Quincy Adams"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The ice cream sundae is traditionally credited to have been invented in which U.S. city in 1881?",
+      "choices": [
+        "Philadelphia, Pennsylvania",
+        "Ithaca, New York",
+        "Chicago, Illinois",
+        "Boston, Massachusetts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Nancy Johnson is credited with inventing the first hand-cranked ice cream machine. In what decade did she patent this kitchen device?",
+      "choices": [
+        "1830s",
+        "1840s",
+        "1850s",
+        "1860s"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which explorer's travels along the Silk Road are historically credited with introducing ice cream-making techniques from the East to Renaissance Italy?",
+      "choices": [
+        "Christopher Columbus",
+        "Marco Polo",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hokey Pokey ice cream, a regional favorite in New Zealand and Australia, is characterized by which core flavor component mixed with honeycomb candy?",
+      "choices": [
+        "Salted caramel",
+        "Vanilla",
+        "Butterscotch",
+        "Brown sugar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which ancient civilization were frozen desserts created by combining snow collected from mountains with honey and fruit nectar, predating mechanical refrigeration by centuries?",
+      "choices": [
+        "Ancient Greece",
+        "Ancient Egypt",
+        "Ancient China",
+        "Ancient Persia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ben & Jerry's ice cream was founded in which U.S. state in 1978?",
+      "choices": [
+        "Vermont",
+        "New Hampshire",
+        "Maine",
+        "Massachusetts"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian city is considered the birthplace of modern gelato?",
+      "choices": [
+        "Rome",
+        "Florence",
+        "Milan",
+        "Naples"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The world's largest ice-cream manufacturer is which UK-headquartered consumer-goods giant?",
+      "choices": [
+        "Unilever",
+        "Nestlé",
+        "Dean Foods",
+        "Nestlé-Haagen-Dazs"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ice-cream chain is famous for its '31 flavors' slogan?",
+      "choices": [
+        "Baskin-Robbins",
+        "Dairy Queen",
+        "Braum's",
+        "Carvel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the cold-stirred style of ice cream popularized as 'stretchy ice cream' from Turkey?",
+      "choices": [
+        "Dondurma",
+        "Gelato",
+        "Kulfi",
+        "Mochi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country consumes the most ice cream per capita globally?",
+      "choices": [
+        "United States",
+        "Italy",
+        "Australia",
+        "New Zealand"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what month does the U.S. celebrate National Ice Cream Day, per a 1984 presidential proclamation?",
+      "choices": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which popular ice-cream shop's name is a combination of 'Dave' and 'buster'?",
+      "choices": [
+        "Dairy Queen",
+        "Cold Stone Creamery",
+        "Dippin' Dots",
+        "Häagen-Dazs"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Indian ice-cream-like dessert has a denser, creamier texture, often flavored with cardamom and pistachio?",
+      "choices": [
+        "Kulfi",
+        "Gulab jamun",
+        "Lassi",
+        "Falooda"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Häagen-Dazs brand was actually created in what U.S. state in 1961?",
+      "choices": [
+        "Illinois",
+        "Denmark/California",
+        "New York",
+        "Ohio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which iconic Ben & Jerry's flavor honors a Grateful Dead frontman?",
+      "choices": [
+        "Phish Food",
+        "Cherry Garcia",
+        "Chubby Hubby",
+        "Americone Dream"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Harry Burt patent the first ice cream cone with a stick, creating the modern Edy's pie?",
+      "choices": [
+        "1920",
+        "1923",
+        "1925",
+        "1928"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country has the highest per-capita ice cream consumption in the world?",
+      "choices": [
+        "United States",
+        "New Zealand",
+        "Italy",
+        "Denmark"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Thomas Jefferson, an early American president, famously enjoyed ice cream flavored with what unusual ingredient?",
+      "choices": [
+        "Oysters",
+        "Caviar",
+        "Pine nuts",
+        "Truffle"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flavor was the first to be commercially produced and sold in the United States?",
+      "choices": [
+        "Chocolate",
+        "Vanilla",
+        "Strawberry",
+        "Butter pecan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did ice cream first become popular among British royalty and the upper classes?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Roman Empire enjoyed a frozen dessert made from snow mixed with fruit juices and honey. What was this treat called?",
+      "choices": [
+        "Gelato",
+        "Sorbetto",
+        "Granita",
+        "Sherbet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ice cream company created the flavor 'Cherry Garcia' as a tribute to a famous musician?",
+      "choices": [
+        "Häagen-Dazs",
+        "Ben & Jerry's",
+        "Baskin-Robbins",
+        "Dreyer's"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did mobile ice cream trucks first begin operating in the United States?",
+      "choices": [
+        "1912",
+        "1920",
+        "1935",
+        "1950"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor combines peanut butter, pretzels, and fudge?",
+      "choices": [
+        "Chubby Hubby",
+        "Peanut Butter Cup",
+        "Pretzel Bliss",
+        "Fudgy PB"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the first mechanical hand-crank ice cream freezer patented?",
+      "choices": [
+        "1837",
+        "1843",
+        "1851",
+        "1865"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which flavor combines chocolate chip cookie dough with brownie pieces in a chocolatey base?",
+      "choices": [
+        "Chunky Monkey",
+        "Half Baked",
+        "The Tonight Dough",
+        "Everything But The..."
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference between gelato and traditional American ice cream?",
+      "choices": [
+        "Gelato uses less cream and is churned more slowly",
+        "Gelato is always dairy-free",
+        "Gelato is served frozen solid",
+        "Gelato contains more sugar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state designated ice cream as its official state dessert in 1998?",
+      "choices": [
+        "California",
+        "New York",
+        "Delaware",
+        "Wisconsin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What temperature is ice cream typically stored at in commercial freezers?",
+      "choices": [
+        "-4°F or colder",
+        "-10°F or colder",
+        "0°F or colder",
+        "-20°F or colder"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor is described as having 'Late Night Snack' inspiration with chips mixed throughout?",
+      "choices": [
+        "Midnight Munchies",
+        "Late Night Snack",
+        "Snack Attack",
+        "Bedtime Bites"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the ice cream cone first introduced at a world's fair?",
+      "choices": [
+        "1900",
+        "1904",
+        "1908",
+        "1912"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ice cream flavor was created by Baskin-Robbins and featured a bourbon pecan combination?",
+      "choices": [
+        "Southern Comfort",
+        "Bourbon Bliss",
+        "Bourbon Pecan",
+        "Kentucky Dream"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ingredient distinguishes 'Cookie Dough' ice cream flavors from actually eating raw cookie dough?",
+      "choices": [
+        "Pasteurized flour",
+        "Heat-treated eggs",
+        "Edible cookie dough chunks",
+        "Cooked dough pieces"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is credited with inventing modern ice cream cones in the early 1900s?",
+      "choices": [
+        "France",
+        "Italy",
+        "United States",
+        "Austria"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the first ice cream sundae appear in the United States?",
+      "choices": [
+        "1881",
+        "1876",
+        "1895",
+        "1903"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. president was known for serving ice cream with oyster sauce at state dinners?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "James Madison",
+        "John Adams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What key ingredient is responsible for ice cream's creamy texture?",
+      "choices": [
+        "Sugar",
+        "Milk fat",
+        "Gelatin",
+        "Cornstarch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient civilization is credited with combining snow from mountains with honey and fruit juice to create an early frozen dessert?",
+      "choices": [
+        "Ancient Egypt",
+        "Ancient Greece",
+        "Ancient Rome",
+        "Ancient Persia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Nancy Johnson patent the first hand-cranked ice cream freezer?",
+      "choices": [
+        "1834",
+        "1843",
+        "1851",
+        "1862"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Vanilla was the first ice cream flavor to be commercially produced and sold in which country?",
+      "choices": [
+        "France",
+        "Italy",
+        "United States",
+        "England"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did ice cream consumption become popular among the English upper class?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spice is the signature flavoring in Indian kulfi, a traditional frozen dessert?",
+      "choices": [
+        "Cinnamon",
+        "Cardamom",
+        "Clove",
+        "Nutmeg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many distinct flavor layers does a traditional Neapolitan ice cream contain?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did ice cream trucks first begin operating as mobile vendors in the United States?",
+      "choices": [
+        "1910s",
+        "1920s",
+        "1930s",
+        "1940s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What frozen dessert alternative is made from cultured milk and offers a tangy flavor similar to yogurt?",
+      "choices": [
+        "Gelato",
+        "Frozen yogurt",
+        "Sorbet",
+        "Granita"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian frozen dessert is traditionally denser and creamier than American ice cream?",
+      "choices": [
+        "Sorbet",
+        "Gelato",
+        "Panna cotta",
+        "Zabaglione"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference between ice cream and sherbet?",
+      "choices": [
+        "Sherbet contains no dairy",
+        "Ice cream is frozen longer",
+        "Sherbet has more sugar",
+        "Ice cream uses eggs"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which month is officially designated as National Ice Cream Month in the United States?",
+      "choices": [
+        "June",
+        "July",
+        "August",
+        "September"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ingredient is typically added to ice cream to lower its freezing point and create a smoother texture?",
+      "choices": [
+        "Baking soda",
+        "Salt",
+        "Sugar",
+        "Vanilla extract"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ben & Jerry's ice cream flavor 'Cherry Garcia' is named after which famous musician?",
+      "choices": [
+        "Jerry Garcia of the Grateful Dead",
+        "Jerry Lee Lewis",
+        "Jerry Dammers",
+        "Jerry Leiber"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did ice cream first become available to common people rather than only the wealthy?",
+      "choices": [
+        "16th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of cone was invented to solve the problem of melting ice cream dripping on clothes?",
+      "choices": [
+        "Sugar cone",
+        "Waffle cone",
+        "Cake cone",
+        "Pretzel cone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard serving temperature range for ice cream to maximize flavor?",
+      "choices": [
+        "-20°F to -10°F",
+        "-15°F to -5°F",
+        "-10°F to 0°F",
+        "0°F to 10°F"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country produces the most ice cream per capita annually?",
+      "choices": [
+        "France",
+        "Italy",
+        "New Zealand",
+        "United States"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the ice cream sundae first created, reportedly by a soda fountain operator in Wisconsin?",
+      "choices": [
+        "1881",
+        "1901",
+        "1921",
+        "1941"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Harry Burt is credited with inventing which ice cream product in 1920?",
+      "choices": [
+        "The ice cream cone",
+        "The ice cream sandwich",
+        "The ice cream bar on a stick",
+        "The ice cream float"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. president was known to have ordered ice cream containing oysters?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "John Adams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flavor of ice cream is characterized by the combination of green tea and sweetened milk?",
+      "choices": [
+        "Matcha",
+        "Thai Tea",
+        "Sesame",
+        "Yuzu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor is named after a Grateful Dead song?",
       "choices": [
         "Phish Food",
         "Cherry Garcia",
         "Chunky Monkey",
-        "Half Baked"
+        "Mint Chocolate Cookie"
       ],
       "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cherry Garcia",
-        "verified": true,
-        "notes": "Named after Jerry Garcia."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which Ben & Jerry's flavor is named after a Vermont jam band?",
+      "q": "The ice cream flavor Rocky Road traditionally contains chocolate, nuts, and which marshmallow-like ingredient?",
       "choices": [
-        "Phish Food",
-        "Cherry Garcia",
-        "Imagine Whirled Peace",
-        "Americone Dream"
-      ],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Phish Food",
-        "verified": true,
-        "notes": "Chocolate ice cream with marshmallow swirls, caramel swirls, and fudge fish."
-      }
-    },
-    {
-      "q": "Which Ben & Jerry's flavor was named after Stephen Colbert?",
-      "choices": [
-        "The Tonight Dough",
-        "Americone Dream",
-        "Schweddy Balls",
-        "Chubby Hubby"
+        "Whipped cream",
+        "Marshmallows",
+        "Caramel swirl",
+        "Cookie crumbles"
       ],
       "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Americone Dream",
-        "verified": true,
-        "notes": "Vanilla ice cream with fudge-covered waffle cone pieces and caramel."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which Ben & Jerry's flavor was inspired by Jimmy Fallon and his Tonight Show?",
+      "q": "Which Renaissance-era figure is often credited with bringing early ice cream recipes to France?",
       "choices": [
-        "The Tonight Dough",
-        "Americone Dream",
-        "Late Night Snack",
-        "Chubby Hubby"
-      ],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "The Tonight Dough",
-        "verified": true,
-        "notes": "Caramel and chocolate ice cream with cookie dough swirls. ('Late Night Snack' is also a Fallon flavor.)"
-      }
-    },
-    {
-      "q": "Which classic three-flavor combo of vanilla, chocolate, and strawberry is named after an Italian city?",
-      "choices": [
-        "Spumoni",
-        "Neapolitan",
-        "Florentine",
-        "Tutti Frutti"
-      ],
-      "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Neapolitan",
-        "verified": true,
-        "notes": "Named after Naples (Napoli) — colors mirror the Italian flag."
-      }
-    },
-    {
-      "q": "Which Italian three-flavor frozen dessert often features pistachio, cherry, and chocolate?",
-      "choices": ["Spumoni", "Gelato", "Sorbetto", "Granita"],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Spumoni",
-        "verified": true,
-        "notes": "From the Italian 'spuma' = foam."
-      }
-    },
-    {
-      "q": "How does Italian gelato differ from American ice cream?",
-      "choices": [
-        "Less butterfat and less air",
-        "More butterfat and more air",
-        "More sugar and more air",
-        "It contains no milk"
-      ],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ice Cream",
-        "verified": true,
-        "notes": "Gelato uses more milk than cream and is churned slowly to limit air."
-      }
-    },
-    {
-      "q": "What is the typical minimum butterfat percentage for U.S. ice cream to be labeled 'ice cream' (FDA)?",
-      "choices": ["5%", "8%", "10%", "20%"],
-      "correct": 2,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ice Cream",
-        "verified": true,
-        "notes": "21 CFR 135.110."
-      }
-    },
-    {
-      "q": "When is U.S. National Ice Cream Day celebrated?",
-      "choices": [
-        "First Sunday in June",
-        "Third Sunday in July",
-        "Last Sunday in August",
-        "First Sunday in September"
-      ],
-      "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "3rd Sunday in July",
-        "verified": true,
-        "notes": "Established by President Reagan in 1984. July is National Ice Cream Month."
-      }
-    },
-    {
-      "q": "Which 1903 inventor patented the Popsicle (frozen-on-a-stick) concept after accidentally leaving fruit-flavored soda outside?",
-      "choices": [
-        "Frank Epperson",
-        "Harry Burt",
-        "Ernest Hamwi",
-        "Jacob Fussell"
-      ],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ice Cream",
-        "verified": true,
-        "notes": "Then 11 years old. Patented in 1924."
-      }
-    },
-    {
-      "q": "Who invented the chocolate-coated Good Humor bar in 1920 and started the ice cream truck industry?",
-      "choices": [
-        "Frank Epperson",
-        "Harry Burt",
-        "Ben Cohen",
-        "Reuben Mattus"
-      ],
-      "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Harry Burt",
-        "verified": true,
-        "notes": "Burt added a stick to chocolate-dipped ice cream and put bells on his trucks."
-      }
-    },
-    {
-      "q": "What is a 'sundae'?",
-      "choices": [
-        "Soda + ice cream",
-        "Ice cream with toppings (sauces, nuts, fruit)",
-        "Two scoops with no toppings",
-        "An Italian-style ice cream"
-      ],
-      "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ice Cream",
-        "verified": true,
-        "notes": "Said to have been invented in 1881; spelling 'sundae' likely arose from blue-law restrictions on selling 'soda' on Sundays."
-      }
-    },
-    {
-      "q": "According to popular legend, which 16th-century Italian-born French queen is credited with introducing gelato to France?",
-      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
         "Catherine de' Medici",
-        "Marie Antoinette",
-        "Anne of Brittany",
-        "Marie de Médicis"
+        "Dante Alighieri"
       ],
-      "correct": 0,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Catherine de' Medici",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: reframed as legend rather than fact — food historians have largely discredited the Medici-introduced-gelato story, though the legend persists. Bernardo Buontalenti is more reliably credited with refining gelato alla crema."
-      }
+      "correct": 2,
+      "difficulty": "medium"
     },
     {
-      "q": "What is the iconic Häagen-Dazs name's origin?",
+      "q": "Hokey Pokey is a popular ice cream flavor in which country?",
       "choices": [
-        "Danish surname",
-        "Made-up Scandinavian-sounding name",
-        "Yiddish phrase",
-        "Acronym for the founders"
+        "Australia",
+        "New Zealand",
+        "Canada",
+        "Ireland"
       ],
       "correct": 1,
-      "category": "Ice Cream",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ice Cream",
-        "verified": true,
-        "notes": "Founders Reuben & Rose Mattus invented it in 1961 to evoke Old World craftsmanship; it has no actual meaning in Danish."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ice cream flavor pairs caramel sauce with a specific type of nut?",
+      "choices": [
+        "Pecan Pie",
+        "Pralines and Cream",
+        "Walnut Fudge",
+        "Almond Brittle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference between ice cream and gelato in terms of texture and fat content?",
+      "choices": [
+        "Gelato has more fat and is softer",
+        "Ice cream has more fat and is denser",
+        "Gelato has more fat and is denser",
+        "There is no significant difference"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breakfast meat-inspired ice cream flavor was created by a premium ice cream brand?",
+      "choices": [
+        "Sausage Swirl",
+        "Bacon Bits",
+        "Ham and Cream",
+        "Maple Bacon"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cookies and Cream ice cream is primarily based on which cookie brand?",
+      "choices": [
+        "Nutter Butter",
+        "Oreo",
+        "Fig Newton",
+        "Thin Mint"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ice cream flavor is inspired by the popular cereal known for colorful fruity rings?",
+      "choices": [
+        "Fruity Pebbles",
+        "Lucky Charms",
+        "Froot Loops",
+        "Blue Moon"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did ice cream trucks first become a popular way to sell ice cream in American neighborhoods?",
+      "choices": [
+        "1910s",
+        "1920s",
+        "1930s",
+        "1940s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which frozen dessert serves as a lower-calorie alternative to traditional ice cream while maintaining a similar creamy texture?",
+      "choices": [
+        "Sorbet",
+        "Frozen yogurt",
+        "Sherbet",
+        "Italian ice"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Coffee-flavored ice cream is sometimes preferred by people who enjoy which type of beverage?",
+      "choices": [
+        "Tea",
+        "Soda",
+        "Caffeine-containing drinks",
+        "Energy drinks"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ice cream flavor combines chocolate with nuts and a distinctive bumpy texture?",
+      "choices": [
+        "Mocha Nut",
+        "Rocky Road",
+        "Chocolate Almond",
+        "Fudge Crunch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ben & Jerry's flavor includes Late Night Snack components like fudge-covered potato chips?",
+      "choices": [
+        "Midnight Cookie",
+        "Late Night Crunch",
+        "Late Night Snack",
+        "Salty Midnight"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that gives Butter Pecan ice cream its distinctive nutty flavor?",
+      "choices": [
+        "Walnut extract",
+        "Pecan nuts",
+        "Almond paste",
+        "Macadamia oil"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

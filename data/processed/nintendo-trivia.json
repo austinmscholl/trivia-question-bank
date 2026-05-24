@@ -1,169 +1,2295 @@
 {
   "slug": "nintendo-trivia",
   "name": "Nintendo",
-  "description": "The Japanese gaming giant's consoles, games, and history",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.660Z",
   "questions": [
     {
-      "q": "Nintendo was originally founded in what year?",
-      "choices": ["1889", "1925", "1945", "1972"],
-      "correct": 0,
-      "category": "Nintendo",
-      "difficulty": "hard",
-      "source": { "original_a": "1889", "verified": true, "notes": "Founded by Fusajiro Yamauchi as a playing card company. Still headquartered in Kyoto." }
-    },
-    {
-      "q": "Before becoming a video game company, what did Nintendo originally manufacture?",
-      "choices": ["Toys", "Hanafuda playing cards", "Televisions", "Clocks"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Hanafuda playing cards", "verified": true, "notes": "Traditional Japanese playing cards. Nintendo still makes them today." }
-    },
-    {
-      "q": "Approximately what does the name 'Nintendo' mean in Japanese?",
-      "choices": ["Games of kings", "Leave luck to heaven", "Digital joy", "Electronic fun"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "hard",
-      "source": { "original_a": "Leave luck to heaven", "verified": true, "notes": "Common translation of '任天堂' (nin-ten-dō). Though the interpretation is debated." }
-    },
-    {
-      "q": "Which 1981 arcade game gave Nintendo its first major international hit?",
-      "choices": ["Duck Hunt", "Donkey Kong", "Pac-Man", "Space Invaders"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Donkey Kong", "verified": true, "notes": "Designed by Shigeru Miyamoto. Featured 'Jumpman' (later Mario)." }
-    },
-    {
-      "q": "In what year was the NES (Nintendo Entertainment System) released in North America?",
-      "choices": ["1983", "1985", "1987", "1989"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "1985", "verified": true, "notes": "Test-launched in NYC October 1985. Full North American release 1986. Revived the US video game market." }
-    },
-    {
-      "q": "What year was the original Game Boy released?",
-      "choices": ["1987", "1989", "1991", "1993"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "1989", "verified": true, "notes": "Released in Japan April 1989, US July 1989. Tetris made it a cultural phenomenon." }
-    },
-    {
-      "q": "When was the Nintendo 64 released in North America?",
-      "choices": ["1994", "1996", "1998", "2000"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "1996", "verified": true, "notes": "September 1996 in North America. Launched with 'Super Mario 64' and 'Pilotwings 64.'" }
-    },
-    {
-      "q": "Which Nintendo console launched in 1990 with an innovative controller featuring shoulder buttons (L/R)?",
-      "choices": ["Nintendo GameCube", "Super Nintendo Entertainment System (SNES)", "Virtual Boy", "Nintendo DS"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Super Nintendo Entertainment System (SNES)", "verified": true, "notes": "audit-corrected 2026-05-09: SNES had no trackpad — corrected the question to reference its actual innovation, the L/R shoulder buttons. SNES launched in Japan Nov 1990, US 1991." }
-    },
-    {
-      "q": "What Nintendo console competed with the Sega Genesis in the late '80s and early '90s?",
-      "choices": ["NES", "SNES", "N64", "Game Boy"],
-      "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "1990", "verified": true, "notes": "Generally considered the 'console wars' of the 4th generation." }
-    },
-    {
-      "q": "Who designed Donkey Kong, Mario, and The Legend of Zelda?",
-      "choices": ["Satoru Iwata", "Hiroshi Yamauchi", "Shigeru Miyamoto", "Gunpei Yokoi"],
-      "correct": 2,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Mario", "verified": true, "notes": "Joined Nintendo in 1977. Widely regarded as one of the greatest video game designers." }
-    },
-    {
       "q": "Which Nintendo handheld was released in 2004 with dual screens?",
-      "choices": ["Game Boy Advance", "Nintendo DS", "Nintendo 3DS", "Virtual Boy"],
+      "choices": [
+        "Game Boy Advance",
+        "Nintendo DS",
+        "Nintendo 3DS",
+        "Virtual Boy"
+      ],
       "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "easy",
-      "source": { "original_a": "1989", "verified": true, "notes": "November 2004 in Japan. 'DS' stands for 'Dual Screen' or 'Developers' System.'" }
+      "difficulty": "easy"
     },
     {
       "q": "Which Nintendo console was released in 2006 with motion-controlled 'Wii Remotes'?",
-      "choices": ["Wii", "GameCube", "Switch", "Wii U"],
+      "choices": [
+        "Wii",
+        "GameCube",
+        "Switch",
+        "Wii U"
+      ],
       "correct": 0,
-      "category": "Nintendo",
-      "difficulty": "easy",
-      "source": { "original_a": "1985", "verified": true, "notes": "Named Wii for its accessibility to 'we' (everyone). Sold ~102M units." }
+      "difficulty": "easy"
     },
     {
       "q": "What hybrid console released by Nintendo in 2017 works both portably and docked to a TV?",
-      "choices": ["Wii U", "Nintendo Switch", "3DS XL", "DSi"],
+      "choices": [
+        "Wii U",
+        "Nintendo Switch",
+        "3DS XL",
+        "DSi"
+      ],
       "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "easy",
-      "source": { "original_a": "Mario", "verified": true, "notes": "Released March 3, 2017. Over 140M units sold — one of best-selling consoles ever." }
-    },
-    {
-      "q": "What was the first Pokémon video game called (released 1996 in Japan)?",
-      "choices": ["Pokémon Red and Green", "Pokémon Yellow", "Pokémon Blue", "Pokémon Gold"],
-      "correct": 0,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Pokémon Red and Green", "verified": true, "notes": "Red/Green in Japan, Red/Blue in North America (1998)." }
-    },
-    {
-      "q": "What was Nintendo's failed 1995 attempt at virtual reality gaming?",
-      "choices": ["Virtual Boy", "Power Glove", "R.O.B.", "Wii Vitality"],
-      "correct": 0,
-      "category": "Nintendo",
-      "difficulty": "hard",
-      "source": { "original_a": "Mario", "verified": true, "notes": "Discontinued after less than a year. Red-and-black stereoscopic display caused headaches." }
-    },
-    {
-      "q": "What city is Nintendo headquartered in?",
-      "choices": ["Tokyo", "Osaka", "Kyoto", "Sapporo"],
-      "correct": 2,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Mario", "verified": true, "notes": "Headquartered there since founding in 1889." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Nintendo game franchise features the Hylian hero Link?",
-      "choices": ["Kirby", "Metroid", "The Legend of Zelda", "Fire Emblem"],
+      "choices": [
+        "Kirby",
+        "Metroid",
+        "The Legend of Zelda",
+        "Fire Emblem"
+      ],
       "correct": 2,
-      "category": "Nintendo",
-      "difficulty": "easy",
-      "source": { "original_a": "Mario", "verified": true, "notes": "First game released 1986. Princess Zelda is the series' namesake, but Link is the protagonist." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Nintendo franchise features a pink puffball who can inhale enemies?",
-      "choices": ["Yoshi", "Kirby", "Mother", "Star Fox"],
+      "choices": [
+        "Yoshi",
+        "Kirby",
+        "Mother",
+        "Star Fox"
+      ],
       "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "easy",
-      "source": { "original_a": "Mario", "verified": true, "notes": "First game 'Kirby's Dream Land' (1992) on Game Boy. Created by Masahiro Sakurai." }
-    },
-    {
-      "q": "What is the name of Nintendo's bounty hunter in a power suit, protagonist of a long-running sci-fi franchise?",
-      "choices": ["Samus Aran", "Captain Falcon", "Fox McCloud", "Sheik"],
-      "correct": 0,
-      "category": "Nintendo",
-      "difficulty": "medium",
-      "source": { "original_a": "Star Fox", "verified": true, "notes": "Debuted 1986 in 'Metroid.' Her being female was a famous reveal at game's end." }
+      "difficulty": "easy"
     },
     {
       "q": "What Nintendo game pits characters from many Nintendo franchises in a battle royale?",
-      "choices": ["Mario Party", "Super Smash Bros.", "Kirby Super Star", "Super Mario Strikers"],
+      "choices": [
+        "Mario Party",
+        "Super Smash Bros.",
+        "Kirby Super Star",
+        "Super Mario Strikers"
+      ],
       "correct": 1,
-      "category": "Nintendo",
-      "difficulty": "easy",
-      "source": { "original_a": "Star Fox", "verified": true, "notes": "First released 1999 on N64. Created by Masahiro Sakurai." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Nintendo originally founded as a playing card company?",
+      "choices": [
+        "1889",
+        "1902",
+        "1920",
+        "1945"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console was released in 1985 and became one of the most successful gaming systems of all time?",
+      "choices": [
+        "Game Boy",
+        "Nintendo Entertainment System",
+        "Super Nintendo Entertainment System",
+        "Nintendo 64"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Nintendo's most iconic video game character?",
+      "choices": [
+        "Link",
+        "Mario",
+        "Donkey Kong",
+        "Kirby"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game series features a hero named Link trying to save Princess Zelda?",
+      "choices": [
+        "The Legend of Zelda",
+        "Super Mario Bros.",
+        "Metroid",
+        "Fire Emblem"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Nintendo open its American subsidiary to expand into the North American market?",
+      "choices": [
+        "1975",
+        "1980",
+        "1985",
+        "1990"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What handheld gaming device did Nintendo release in 1989 that became hugely popular worldwide?",
+      "choices": [
+        "Game & Watch",
+        "Game Boy",
+        "Nintendo DS",
+        "Nintendo 3DS"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fighting game features a roster of Nintendo characters battling each other?",
+      "choices": [
+        "Street Fighter",
+        "Super Smash Bros.",
+        "Tekken",
+        "Mortal Kombat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was the Super Nintendo Entertainment System released in Japan?",
+      "choices": [
+        "1988",
+        "1990",
+        "1992",
+        "1994"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game series allows players to train and battle creatures called Pokémon?",
+      "choices": [
+        "Digimon",
+        "Pokémon",
+        "Monster Hunter",
+        "Yo-kai Watch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the first game released for the Nintendo Entertainment System?",
+      "choices": [
+        "Donkey Kong",
+        "The Legend of Zelda",
+        "Super Mario Bros.",
+        "Metroid"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which game do players race in karts on themed tracks with power-ups?",
+      "choices": [
+        "F-Zero",
+        "Mario Kart",
+        "Crash Team Racing",
+        "Sonic & All-Stars Racing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo game gave the company major international recognition in 1981?",
+      "choices": [
+        "Super Mario Bros.",
+        "Donkey Kong",
+        "The Legend of Zelda",
+        "Metroid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What pink character with the ability to inhale enemies is the star of his own game series?",
+      "choices": [
+        "Yoshi",
+        "Kirby",
+        "Waddle Dee",
+        "Meta Knight"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Nintendo release the Nintendo DS handheld console?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game series features the character Samus Aran exploring alien worlds?",
+      "choices": [
+        "Star Fox",
+        "Metroid",
+        "F-Zero",
+        "Wave Race"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color was the first Game Boy Color variant released by Nintendo in 1998?",
+      "choices": [
+        "Blue and Red",
+        "Silver and Black",
+        "Gold and Silver",
+        "Purple and Green"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which platformer game series features a dinosaur named Yoshi as a main character?",
+      "choices": [
+        "Donkey Kong Country",
+        "Yoshi's Island",
+        "Super Mario World",
+        "Kirby's Dream Land"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Nintendo become a public company?",
+      "choices": [
+        "1950",
+        "1962",
+        "1975",
+        "1980"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console featured cartridges and introduced 3D gaming to the company's main lineup?",
+      "choices": [
+        "Super Nintendo",
+        "Nintendo 64",
+        "GameCube",
+        "Wii"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What game series involves tactical battles with characters like Marth and strategic map-based gameplay?",
+      "choices": [
+        "Fire Emblem",
+        "Advance Wars",
+        "Final Fantasy Tactics",
+        "Disgaea"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Nintendo founded?",
+      "choices": [
+        "1889",
+        "1901",
+        "1912",
+        "1925"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character is Nintendo's official mascot?",
+      "choices": [
+        "Sonic",
+        "Mario",
+        "Donkey Kong",
+        "Link"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the protagonist in the Metroid series?",
+      "choices": [
+        "Samus Aran",
+        "Ridley Kane",
+        "Adam Malkovich",
+        "Dark Samus"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game series features the hero Link and his quest to save Princess Zelda?",
+      "choices": [
+        "The Legend of Zelda",
+        "Fire Emblem",
+        "Advance Wars",
+        "Golden Sun"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What handheld console was bundled with the game Tetris?",
+      "choices": [
+        "Game Boy Color",
+        "Game Boy",
+        "Game Boy Advance",
+        "Nintendo DS"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Game Boy Color released?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console features a hybrid design combining home and handheld gaming?",
+      "choices": [
+        "Nintendo Wii U",
+        "Nintendo Switch",
+        "Nintendo 3DS",
+        "Nintendo GameCube"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the first Nintendo console to use optical discs for games?",
+      "choices": [
+        "Nintendo 64",
+        "Wii",
+        "GameCube",
+        "Wii U"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which handheld console featured dual screens with a touchscreen?",
+      "choices": [
+        "Game Boy Advance",
+        "Nintendo 3DS",
+        "Nintendo DS",
+        "Game Boy Color"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Nintendo 3DS released?",
+      "choices": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console introduced 3D effects without requiring special glasses?",
+      "choices": [
+        "Nintendo Wii",
+        "Nintendo 3DS",
+        "Nintendo Switch",
+        "Game Boy Advance"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the motion-sensing controller used with the Nintendo Wii?",
+      "choices": [
+        "Joy-Con",
+        "Wiimote",
+        "GamePad",
+        "Pro Controller"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which balance board peripheral was used for fitness-based games on the Wii?",
+      "choices": [
+        "Wii Balance Board",
+        "Wii Fit Pad",
+        "Nintendo Balance Plate",
+        "Wii Trainer Board"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What device attachment for the Nintendo 64 controller produced vibration feedback during gameplay?",
+      "choices": [
+        "Rumble Pak",
+        "Vibro Controller",
+        "Force Feedback Unit",
+        "Haptic Module"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of Nintendo's very first handheld gaming system?",
+      "choices": [
+        "Game & Watch",
+        "Game Boy",
+        "Virtual Boy",
+        "Game & Play"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which arcade game is considered Nintendo's first successful platform game?",
+      "choices": [
+        "Donkey Kong",
+        "Mario Bros.",
+        "Punch-Out!!",
+        "Sheriff"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What character appears frequently in the Yoshi's Island game series?",
+      "choices": [
+        "Yoshi",
+        "Baby Mario",
+        "Kamek",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mario racing game features anti-gravity track segments?",
+      "choices": [
+        "Mario Kart: Double Dash",
+        "Mario Kart 8",
+        "Mario Kart 7",
+        "Mario Kart DS"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the first Mario Kart game released in 1992?",
+      "choices": [
+        "Mario Kart",
+        "Super Mario Kart",
+        "Mario Kart 64",
+        "Mario Kart GP"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Nintendo Switch released to the public?",
+      "choices": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Nintendo release the original Nintendo Entertainment System (NES)?",
+      "choices": [
+        "1983",
+        "1985",
+        "1987",
+        "1989"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Nintendo's handheld device that features a touchscreen as its lower display?",
+      "choices": [
+        "Game Boy Advance",
+        "Nintendo DS",
+        "Nintendo 3DS",
+        "Game Boy Color"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which video game character uses a sword and shield to defeat puzzles and enemies in Hyrule?",
+      "choices": [
+        "Link",
+        "Mario",
+        "Donkey Kong",
+        "Fox McCloud"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was the Nintendo 64 console released to the public?",
+      "choices": [
+        "1994",
+        "1996",
+        "1998",
+        "2000"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo handheld device allows players to experience 3D graphics without wearing special glasses?",
+      "choices": [
+        "Nintendo DS",
+        "Game Boy Advance SP",
+        "Nintendo 3DS",
+        "Game Boy Color"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Nintendo's latest major home console that features detachable controllers?",
+      "choices": [
+        "Wii U",
+        "Nintendo Switch",
+        "GameCube",
+        "Wii"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Metroid game series, what is the name of the main playable character?",
+      "choices": [
+        "Samus Aran",
+        "Ridley",
+        "Kraid",
+        "Mother Brain"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game series is known for featuring anthropomorphic animals competing in racing and mini-games on Nintendo consoles?",
+      "choices": [
+        "Mario Party",
+        "Mario Kart",
+        "Donkey Kong Country",
+        "Super Smash Bros."
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of Nintendo's first handheld electronic game device?",
+      "choices": [
+        "Game Boy",
+        "Game & Watch",
+        "Virtual Boy",
+        "Game Boy Pocket"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console introduced motion-controlled gameplay with the Wii Remote?",
+      "choices": [
+        "GameCube",
+        "Wii",
+        "Wii U",
+        "Nintendo Switch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Nintendo DS launch in North America?",
+      "choices": [
+        "2002",
+        "2003",
+        "2004",
+        "2005"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character is the primary protagonist in the Super Mario series?",
+      "choices": [
+        "Luigi",
+        "Mario",
+        "Bowser",
+        "Toad"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary setting of the Animal Crossing game series?",
+      "choices": [
+        "A mystical kingdom",
+        "A village with anthropomorphic animals",
+        "A space station",
+        "An underground cavern"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game series features star pilots like Fox McCloud flying combat spacecraft?",
+      "choices": [
+        "F-Zero",
+        "Star Fox",
+        "Metroid",
+        "Wave Race"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What company did Nintendo partner with to develop and publish the Pokémon video games?",
+      "choices": [
+        "Bandai Namco",
+        "Game Freak",
+        "Capcom",
+        "Square Enix"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console was the first to feature high-definition graphics capabilities?",
+      "choices": [
+        "Wii",
+        "Wii U",
+        "GameCube",
+        "Wii Sports"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fighting game series brings together Nintendo characters and third-party video game icons to battle?",
+      "choices": [
+        "Mario Party",
+        "Super Smash Bros.",
+        "Mario Combat",
+        "Nintendo Fighters"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What accessory allowed players to connect their Game Boy to a Nintendo GameCube and display games on a television?",
+      "choices": [
+        "Game Boy Link Cable",
+        "Game Boy Player",
+        "Game Boy Transfer Pak",
+        "Game Boy Connector"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which platformer game, featuring a giant ape throwing barrels, was Nintendo's first major arcade success?",
+      "choices": [
+        "Super Mario Bros.",
+        "Donkey Kong",
+        "Kirby's Dream Land",
+        "Metroid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Nintendo's original business before entering the video game industry?",
+      "choices": [
+        "Toy manufacturing",
+        "Playing card production",
+        "Arcade machine repair",
+        "Trading card printing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo console featured the Wii Remote as its primary controller?",
+      "choices": [
+        "Nintendo GameCube",
+        "Nintendo Wii",
+        "Nintendo 64",
+        "Wii U"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the protagonist in the Metroid video game series?",
+      "choices": [
+        "Link",
+        "Samus Aran",
+        "Donkey Kong",
+        "Fox McCloud"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Nintendo launch the Game Boy handheld console?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Nintendo handheld console eliminated the clamshell design of its predecessors?",
+      "choices": [
+        "Nintendo 3DS",
+        "Nintendo 2DS",
+        "Nintendo DS Lite",
+        "Game Boy Micro"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Nintendo was originally founded in what year?",
+      "choices": [
+        "1889",
+        "1925",
+        "1945",
+        "1972"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately what does the name 'Nintendo' mean in Japanese?",
+      "choices": [
+        "Games of kings",
+        "Leave luck to heaven",
+        "Digital joy",
+        "Electronic fun"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was Nintendo's failed 1995 attempt at virtual reality gaming?",
+      "choices": [
+        "Virtual Boy",
+        "Power Glove",
+        "R.O.B.",
+        "Wii Vitality"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo establish its American subsidiary, Nintendo of America?",
+      "choices": [
+        "1978",
+        "1980",
+        "1982",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which handheld console did Nintendo release immediately after the original Game Boy in 1998?",
+      "choices": [
+        "Game Boy Pocket",
+        "Game Boy Color",
+        "Game Boy Advance",
+        "Virtual Boy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the vibration accessory that was released for the Nintendo 64 controller?",
+      "choices": [
+        "Tremor Pak",
+        "Rumble Pak",
+        "Vibration Module",
+        "Shake Adapter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who became President of Nintendo in 2018?",
+      "choices": [
+        "Satoru Iwata",
+        "Shuntaro Furukawa",
+        "Tatsumi Kimishima",
+        "Reggie Fils-Aimé"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo acquire Shiver Entertainment?",
+      "choices": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Nintendo console first introduced the amiibo interactive figurine system?",
+      "choices": [
+        "Nintendo 3DS",
+        "Wii U",
+        "Nintendo Switch",
+        "GameCube"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's first touchscreen handheld gaming device released in 2004?",
+      "choices": [
+        "Game Boy Micro",
+        "Nintendo DS",
+        "Game Boy Advance SP",
+        "Virtual Boy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo open its flagship retail store in New York City?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which game console featured games distributed on miniDVD discs and included built-in Internet connectivity?",
+      "choices": [
+        "Nintendo 64",
+        "GameCube",
+        "Wii",
+        "Wii U"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's first home video game console released in 1977?",
+      "choices": [
+        "Color TV-Game 6",
+        "Game & Watch",
+        "Nintendo Entertainment System",
+        "Famicom"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which peripheral device for the Nintendo Wii allowed players to engage in balance-based games?",
+      "choices": [
+        "Wii Remote Plus",
+        "Wii Balance Board",
+        "Nunchuk",
+        "Wii Zapper"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Game Boy Advance officially released?",
+      "choices": [
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What company did Nintendo partner with to develop and produce the Pokémon franchise games?",
+      "choices": [
+        "Creatures Inc.",
+        "Game Freak",
+        "The Pokémon Company",
+        "HAL Laboratory"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which production facility did Nintendo open in Uji, Japan in 1983?",
+      "choices": [
+        "Research and Development Center",
+        "Manufacturing Plant",
+        "Uji Facility",
+        "Game Development Studio"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first game released in the Mario Kart franchise called?",
+      "choices": [
+        "Mario Kart",
+        "Super Mario Kart",
+        "Mario Kart 64",
+        "Mario Kart: Double Dash"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Super Nintendo Entertainment System launch in the United States?",
+      "choices": [
+        "1990",
+        "1991",
+        "1992",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's first mobile application launched in 2016?",
+      "choices": [
+        "Nintendo Mobile",
+        "Miitomo",
+        "Switch Companion",
+        "Nintendo Play"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Metroid series protagonist is known for wearing a power suit and hunting space pirates?",
+      "choices": [
+        "Zero Suit Samus",
+        "Samus Aran",
+        "Dark Samus",
+        "Ridley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first game released for the Nintendo Entertainment System in North America?",
+      "choices": [
+        "Donkey Kong",
+        "Excitebike",
+        "Super Mario Bros.",
+        "Ice Climber"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Nintendo 64 launch title introduced 3D platforming with a character collecting stars in paintings?",
+      "choices": [
+        "The Legend of Zelda: Ocarina of Time",
+        "Super Mario 64",
+        "Mario Kart 64",
+        "GoldenEye 007"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo relocate its headquarters from Osaka to Minami-ku, Kyoto?",
+      "choices": [
+        "1997",
+        "2000",
+        "2003",
+        "2006"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which development studio did Nintendo acquire in 2021 to strengthen its internal game development capabilities?",
+      "choices": [
+        "Next Level Games",
+        "Monolith Soft",
+        "Intelligent Systems",
+        "Silicon Knights"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's first original handheld gaming device released in 1980?",
+      "choices": [
+        "Game Boy",
+        "Game & Watch",
+        "Virtual Boy",
+        "Nintendo 3DS"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Satoru Iwata served as Nintendo's president from 2002 until his death in 2015. What was his previous role at Nintendo?",
+      "choices": [
+        "Head of R&D",
+        "Senior Executive Officer and Corporate Planning Division Head",
+        "Chief Financial Officer",
+        "Head of Marketing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Super Smash Bros. for Nintendo 64, how many playable characters were included at launch?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original North American release date of the Nintendo Entertainment System?",
+      "choices": [
+        "October 18, 1985",
+        "November 15, 1985",
+        "December 25, 1985",
+        "January 10, 1986"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist composed the original theme music for The Legend of Zelda series?",
+      "choices": [
+        "Koji Kondo",
+        "Nobuo Uematsu",
+        "Yoko Shimomura",
+        "Shinobu Tanaka"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sega Master System competed directly with which Nintendo console in the 1980s?",
+      "choices": [
+        "Game Boy",
+        "Nintendo Entertainment System",
+        "Super Nintendo Entertainment System",
+        "Nintendo 64"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo file its first major patent related to interactive entertainment hardware?",
+      "choices": [
+        "1960",
+        "1974",
+        "1982",
+        "1989"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the fictional region in which Pokémon Sword and Shield take place?",
+      "choices": [
+        "Galar",
+        "Sinnoh",
+        "Alola",
+        "Unova"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which game introduced the mechanic of capturing creatures in balls to the handheld market in 1989?",
+      "choices": [
+        "Pokémon Red",
+        "Kirby's Dream Land",
+        "The Legend of Zelda: Link's Awakening",
+        "Metroid II: Return of Samus"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary reason Nintendo released the Game Boy Pocket in 1996?",
+      "choices": [
+        "Improved processing power",
+        "Smaller form factor and improved screen contrast",
+        "Color display capabilities",
+        "Increased memory capacity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Kirby franchise, what is the name of Kirby's home world?",
+      "choices": [
+        "Dream Land",
+        "Pop Star",
+        "Ripple Star",
+        "Floating Island"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company developed the Star Fox series' arcade predecessor that influenced its gameplay design?",
+      "choices": [
+        "Atari",
+        "Sega",
+        "Namco",
+        "Capcom"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the maximum resolution supported by the GameCube console?",
+      "choices": [
+        "480i only",
+        "480p",
+        "720p",
+        "1080i"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Nintendo first introduce the Virtual Console service for downloading classic games?",
+      "choices": [
+        "2004",
+        "2006",
+        "2008",
+        "2010"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official name of the economic system used in Animal Crossing: New Horizons for trading items?",
+      "choices": [
+        "Bells Only",
+        "Turnip Market",
+        "No official name; player-driven economy",
+        "Tom Nook Exchange"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Nintendo developer created the F-Zero franchise?",
+      "choices": [
+        "Silicon Knights",
+        "Rare",
+        "Indieszero",
+        "Monster Games"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo discontinue production of the original Game Boy?",
+      "choices": [
+        "2000",
+        "2002",
+        "2004",
+        "2006"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's motion-based arcade cabinet system introduced in the 1980s?",
+      "choices": [
+        "Nintendo VS. System",
+        "Arcade Revolution",
+        "Power Glove Cabinet",
+        "DK Cabinet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo transition from playing card manufacturing to toy production under the leadership of Hiroshi Yamauchi?",
+      "choices": [
+        "1956",
+        "1963",
+        "1968",
+        "1975"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which arcade game, released by Nintendo in 1981, featured the character Jumpman before he was renamed Mario?",
+      "choices": [
+        "Mario Bros.",
+        "Donkey Kong",
+        "Mario's Cement Factory",
+        "Radar Scope"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's first Game Boy bundled title in North America that became one of the system's defining games?",
+      "choices": [
+        "The Legend of Zelda: Link's Awakening",
+        "Tetris",
+        "Super Mario Land",
+        "Kirby's Dream Land"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Nintendo release the Virtual Boy, its only home console attempt at 3D gaming?",
+      "choices": [
+        "1993",
+        "1995",
+        "1997",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which developer, known for creating the Kirby and Smash Bros. series, is a second-party partner heavily associated with Nintendo?",
+      "choices": [
+        "Intelligent Systems",
+        "HAL Laboratory",
+        "Silicon Knights",
+        "Factor 5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the card-based battle system introduced in Pokémon Trading Card Game Online?",
+      "choices": [
+        "Stage System",
+        "Prize Card System",
+        "Energy Attachment System",
+        "Bench System"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Game Boy Advance title served as a spiritual successor to Final Fantasy VI and was exclusively published by Nintendo?",
+      "choices": [
+        "Chrono Trigger Advance",
+        "Final Fantasy VII Advance",
+        "Final Fantasy VI Advance",
+        "Final Fantasy: The Four Heroes of Light"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo acquire the Monolith Soft studio, known for developing Xenoblade Chronicles?",
+      "choices": [
+        "2007",
+        "2011",
+        "2013",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Fire Emblem game introduced the permadeath 'Ironman' mode and became the series' international breakthrough title?",
+      "choices": [
+        "Fire Emblem: Path of Radiance",
+        "Fire Emblem: The Sacred Stones",
+        "Fire Emblem Awakening",
+        "Fire Emblem Fates"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the maximum storage capacity in megabytes of the Nintendo 64's cartridge format?",
+      "choices": [
+        "64 MB",
+        "128 MB",
+        "256 MB",
+        "512 MB"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Metroid game introduced the morph ball mechanic that became a series signature?",
+      "choices": [
+        "Metroid Prime",
+        "Super Metroid",
+        "Metroid II: Return of Samus",
+        "Metroid"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Nintendo Switch's hardware revision with improved battery life officially announced?",
+      "choices": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which legendary game designer created the original Donkey Kong arcade game and later founded his own studio?",
+      "choices": [
+        "Gunpei Yokoi",
+        "Shigeru Miyamoto",
+        "Donkey Kong Jr., creator",
+        "Hiroshi Yamauchi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Nintendo's motion-controlled tennis game released as a Wii Sports title?",
+      "choices": [
+        "Wii Tennis",
+        "Wii Sports: Tennis",
+        "Tennis for Wii",
+        "Wii Play: Tennis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which handheld console featured interchangeable game cartridges and was compatible with Game Boy games through backwards compatibility?",
+      "choices": [
+        "Game Boy Pocket",
+        "Game Boy Color",
+        "Game Boy Advance",
+        "Nintendo DS Phat"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo establish its American subsidiary, Nintendo of America, in New York?",
+      "choices": [
+        "1980",
+        "1982",
+        "1985",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Star Fox game introduced the Landmaster tank and aerial combat sequences on the Nintendo 64?",
+      "choices": [
+        "Star Fox",
+        "Star Fox 64",
+        "Star Fox: Assault",
+        "Star Fox Command"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the codename for the Nintendo console that eventually became the Wii?",
+      "choices": [
+        "Revolution",
+        "Dolphin",
+        "Cafe",
+        "NX"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Zelda game introduced the time-travel mechanic with Young Link and Adult Link as playable characters?",
+      "choices": [
+        "A Link to the Past",
+        "The Legend of Zelda: Ocarina of Time",
+        "Twilight Princess",
+        "Skyward Sword"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the original Game Boy release in Japan before its North American launch?",
+      "choices": [
+        "1988",
+        "1989",
+        "1990",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo acquire Monolith Soft, the developer behind the Xenoblade Chronicles series?",
+      "choices": [
+        "2007",
+        "2011",
+        "2009",
+        "2013"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which developer did Nintendo partner with to create the Pokémon Trading Card Game, separate from Game Freak's video game development?",
+      "choices": [
+        "The Pokémon Company International",
+        "Media Factory",
+        "Creatures Inc.",
+        "Hudson Soft"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the retail price of the original Nintendo Entertainment System when it launched in North America in 1985?",
+      "choices": [
+        "$149.99",
+        "$199.99",
+        "$99.99",
+        "$179.99"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which game engine did Nintendo develop internally and use for titles like The Legend of Zelda: Breath of the Wild?",
+      "choices": [
+        "Unreal Engine 4",
+        "Unity",
+        "Havok",
+        "Camelot Engine"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nintendo release the Virtual Boy, its failed attempt at 3D handheld gaming?",
+      "choices": [
+        "1993",
+        "1995",
+        "1997",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many units did the Nintendo Wii sell worldwide, making it one of the best-selling home consoles of all time?",
+      "choices": [
+        "Over 85 million",
+        "Over 101 million",
+        "Over 75 million",
+        "Over 110 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Kirby spin-off series, developed by Good-Feel and published by Nintendo, features yarn-based mechanics and crafting?",
+      "choices": [
+        "Kirby's Dream Land",
+        "Kirby Triple Deluxe",
+        "Kirby's Epic Yarn",
+        "Kirby Star Allies"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before becoming a video game company, what did Nintendo originally manufacture?",
+      "choices": [
+        "Toys",
+        "Hanafuda playing cards",
+        "Televisions",
+        "Clocks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1981 arcade game gave Nintendo its first major international hit?",
+      "choices": [
+        "Duck Hunt",
+        "Donkey Kong",
+        "Pac-Man",
+        "Space Invaders"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the NES (Nintendo Entertainment System) released in North America?",
+      "choices": [
+        "1983",
+        "1985",
+        "1987",
+        "1989"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the original Game Boy released?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was the Nintendo 64 released in North America?",
+      "choices": [
+        "1994",
+        "1996",
+        "1998",
+        "2000"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nintendo console was released with an innovative trackpad controller in 1990?",
+      "choices": [
+        "Nintendo GameCube",
+        "Super Nintendo Entertainment System (SNES)",
+        "Virtual Boy",
+        "Nintendo DS"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Nintendo console competed with the Sega Genesis in the late '80s and early '90s?",
+      "choices": [
+        "NES",
+        "SNES",
+        "N64",
+        "Game Boy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who designed Donkey Kong, Mario, and The Legend of Zelda?",
+      "choices": [
+        "Satoru Iwata",
+        "Hiroshi Yamauchi",
+        "Shigeru Miyamoto",
+        "Gunpei Yokoi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first Pokémon video game called (released 1996 in Japan)?",
+      "choices": [
+        "Pokémon Red and Green",
+        "Pokémon Yellow",
+        "Pokémon Blue",
+        "Pokémon Gold"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What city is Nintendo headquartered in?",
+      "choices": [
+        "Tokyo",
+        "Osaka",
+        "Kyoto",
+        "Sapporo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Nintendo's bounty hunter in a power suit, protagonist of a long-running sci-fi franchise?",
+      "choices": [
+        "Samus Aran",
+        "Captain Falcon",
+        "Fox McCloud",
+        "Sheik"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo establish Nintendo of America as a major subsidiary to handle North American operations?",
+      "choices": [
+        "1978",
+        "1980",
+        "1982",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which arcade game released by Nintendo in 1981 featured a gorilla character and became the company's first major international success?",
+      "choices": [
+        "Mario Bros.",
+        "Donkey Kong",
+        "Donkey Kong Jr.",
+        "King Kong"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of Nintendo's first mobile application, released in 2016?",
+      "choices": [
+        "Miitomo",
+        "Mario Run",
+        "Pokémon Go",
+        "Fire Emblem Heroes"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animation studio did Nintendo partner with to produce the 2023 Super Mario Bros. Movie?",
+      "choices": [
+        "Sony Pictures Animation",
+        "Illumination",
+        "Walt Disney Animation",
+        "DreamWorks Animation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What handheld console, released in 2013, was specifically designed without a clamshell mechanism used in previous portable Nintendo systems?",
+      "choices": [
+        "Nintendo 3DS XL",
+        "Nintendo 2DS",
+        "Nintendo Switch Lite",
+        "Game Boy Micro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo open its first official retail store location in New York City?",
+      "choices": [
+        "2001",
+        "2005",
+        "2008",
+        "2010"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which input device was released as a peripheral for the Nintendo Wii to enable motion-based gameplay and fitness applications?",
+      "choices": [
+        "Wii Remote Plus",
+        "Wii Balance Board",
+        "Nunchuk",
+        "Classic Controller"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the word 'Nintendo' translate to in English from its Japanese origins?",
+      "choices": [
+        "Games of Harmony",
+        "Leave Luck to Heaven",
+        "Playing Cards Company",
+        "Entertainment House"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tactical role-playing game series, featuring characters like Marth and Roy, was created by Nintendo and Intelligent Systems?",
+      "choices": [
+        "Advance Wars",
+        "Fire Emblem",
+        "Golden Sun",
+        "Tactics Ogre"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of the first handheld console that succeeded the original Game Boy, released by Nintendo in 1998?",
+      "choices": [
+        "Game Boy Pocket",
+        "Game Boy Color",
+        "Game Boy Advance",
+        "Virtual Boy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game console released by Nintendo in 2012 was the first in the home console line to feature high-definition graphics?",
+      "choices": [
+        "Nintendo 64",
+        "GameCube",
+        "Wii U",
+        "Nintendo Switch"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What accessory peripheral for the Nintendo 64 controller was designed to produce haptic vibration feedback during gameplay?",
+      "choices": [
+        "Pak Tilt",
+        "Rumble Pak",
+        "Force Pak",
+        "Vibration Pack"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pokémon franchise began with which two game titles released for the Game Boy in Japan in 1996?",
+      "choices": [
+        "Pokémon Red and Blue",
+        "Pokémon Red and Green",
+        "Pokémon Blue and Yellow",
+        "Pokémon Gold and Silver"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company co-developed the Pokémon games alongside Nintendo and The Pokémon Company?",
+      "choices": [
+        "Bandai Namco",
+        "Game Freak",
+        "Capcom",
+        "Square Enix"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary design inspiration for the Famicom, Nintendo's home console released in Japan in 1983?",
+      "choices": [
+        "Atari 2600",
+        "ColecoVision",
+        "Intellivision",
+        "Commodore 64"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was Nintendo's original headquarters building in Kyoto converted into a luxury hotel?",
+      "choices": [
+        "2018",
+        "2020",
+        "2022",
+        "2024"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gaming console released by Nintendo in 2017 features detachable Joy-Con controllers and can be used as both a handheld and home console?",
+      "choices": [
+        "Nintendo 3DS",
+        "Wii U",
+        "Nintendo Switch",
+        "Game Boy Advance SP"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The first game in the Fire Emblem series, released in 1990, was subtitled with what title?",
+      "choices": [
+        "Genealogy of the Holy War",
+        "Shadow Dragon and the Blade of Light",
+        "Blazing Blade",
+        "Three Houses"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Nintendo release the NES Classic Edition, a miniaturized console featuring 30 pre-loaded classic games?",
+      "choices": [
+        "2014",
+        "2016",
+        "2018",
+        "2020"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo release the Virtual Boy, its first attempt at 3D gaming?",
+      "choices": [
+        "1993",
+        "1995",
+        "1997",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nintendo handheld console featured interchangeable colored faceplates as a major selling point?",
+      "choices": [
+        "Game Boy Pocket",
+        "Game Boy Advance",
+        "Nintendo DSi",
+        "Nintendo 3DS"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the villainous turtle character who serves as Mario's primary antagonist?",
+      "choices": [
+        "Bowser",
+        "King Koopa",
+        "Toad",
+        "Bullet Bill"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo first release the Game Boy, revolutionizing portable gaming?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Zelda game introduced the mechanic of traveling between parallel Light and Dark worlds?",
+      "choices": [
+        "A Link to the Past",
+        "Ocarina of Time",
+        "Twilight Princess",
+        "Link's Awakening"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of Nintendo's online service that launched alongside the Wii console?",
+      "choices": [
+        "Nintendo Network",
+        "Wii Connect24",
+        "Nintendo Online",
+        "Wii Shop Channel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gaming character did Nintendo create in 1980 as a carpenter trying to rescue a damsel?",
+      "choices": [
+        "Luigi",
+        "Jumpman",
+        "Mario",
+        "Toad"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Animal Crossing series, what currency is used to purchase items in the game?",
+      "choices": [
+        "Bells",
+        "Coins",
+        "Stars",
+        "Seeds"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nintendo 64 game introduced the Rumble Pak accessory to mainstream gaming?",
+      "choices": [
+        "Super Mario 64",
+        "GoldenEye 007",
+        "Star Fox 64",
+        "The Legend of Zelda: Ocarina of Time"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the pink puffball character who can inhale enemies and copy their abilities?",
+      "choices": [
+        "Jigglypuff",
+        "Kirby",
+        "Waddle Dee",
+        "Meta Knight"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Metroid game introduced the morph ball transformation as a core mechanic?",
+      "choices": [
+        "Metroid II: Return of Samus",
+        "Super Metroid",
+        "Metroid Prime",
+        "Metroid: Zero Mission"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo release the Wii U, its first tablet-controller hybrid console?",
+      "choices": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Star Fox game featured the Arwing transforming into different vehicle forms?",
+      "choices": [
+        "Star Fox",
+        "Star Fox 64",
+        "Star Fox Adventures",
+        "Star Fox Assault"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What mechanic did the original Super Mario Bros. introduce that became standard in platformers?",
+      "choices": [
+        "Double jumping",
+        "Power-ups",
+        "Dash running",
+        "Wall sliding"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Fire Emblem game was the first to introduce permadeath as an optional 'Classic Mode'?",
+      "choices": [
+        "Fire Emblem: The Blazing Blade",
+        "Fire Emblem: The Sacred Stones",
+        "Fire Emblem: Awakening",
+        "Fire Emblem Fates"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon games, what is the maximum number of moves a Pokémon can know at once?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Splatoon game introduced the Salmon Run cooperative game mode?",
+      "choices": [
+        "Splatoon",
+        "Splatoon 2",
+        "Splatoon 3",
+        "Splatoon X"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Link's primary weapon throughout most Legend of Zelda games?",
+      "choices": [
+        "Master Sword",
+        "Biggoron's Sword",
+        "Flame Blade",
+        "Goddess Sword"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nintendo console was the first to include built-in Wi-Fi connectivity for online gaming?",
+      "choices": [
+        "Nintendo 64",
+        "GameCube",
+        "Wii",
+        "Nintendo DS"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo file its first patent related to video game technology?",
+      "choices": [
+        "1968",
+        "1972",
+        "1975",
+        "1978"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nintendo establish its North American subsidiary in New York?",
+      "choices": [
+        "1978",
+        "1980",
+        "1982",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nintendo handheld console featured a dual-screen design as its defining characteristic?",
+      "choices": [
+        "Game Boy Advance",
+        "Nintendo DS",
+        "Game Boy Color",
+        "Nintendo 3DS"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Super Mario series, what is the name of Princess Peach's castle location?",
+      "choices": [
+        "Toad's Town",
+        "Peach's Castle",
+        "Mushroom Kingdom Palace",
+        "Star Haven"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Fire Emblem protagonist is known as the 'Divine Dragon' and comes from the kingdom of Ylisse?",
+      "choices": [
+        "Marth",
+        "Ike",
+        "Lucina",
+        "Corrin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the Nintendo GameCube released in North America?",
+      "choices": [
+        "2000",
+        "2001",
+        "2002",
+        "2003"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Pokémon franchise, what type of Pokémon is Charizard?",
+      "choices": [
+        "Fire/Flying",
+        "Fire/Dragon",
+        "Flying/Dragon",
+        "Fire/Normal"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Legend of Zelda game introduced the puzzle mechanic of manipulating time with the Song of Time?",
+      "choices": [
+        "Ocarina of Time",
+        "Majora's Mask",
+        "Twilight Princess",
+        "Wind Waker"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Mario Kart 8, which track feature allows drivers to drive on walls and ceilings?",
+      "choices": [
+        "Boost Pads",
+        "Anti-gravity",
+        "Dash Zones",
+        "Speed Tunnels"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary innovation that made the Nintendo Wii successful compared to its competitors?",
+      "choices": [
+        "Superior graphics processor",
+        "Motion control gameplay",
+        "Online multiplayer",
+        "Backwards compatibility"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Animal Crossing, what currency do players use to purchase items and pay loans?",
+      "choices": [
+        "Bells",
+        "Coins",
+        "Tokens",
+        "Nook Miles"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Star Fox game introduced the character Krystal, a female fox pilot?",
+      "choices": [
+        "Star Fox 64",
+        "Star Fox Adventures",
+        "Star Fox Assault",
+        "Star Fox Zero"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Donkey Kong Country series, what is the name of the primary antagonist group led by King K. Rool?",
+      "choices": [
+        "Kremling Krew",
+        "Barrel Army",
+        "Jungle Invaders",
+        "Crocodile Gang"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first game to feature the character Samus Aran?",
+      "choices": [
+        "Super Metroid",
+        "Metroid",
+        "Metroid Prime",
+        "Zero Mission"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Pikmin, what type of creature do the Pikmin serve and take orders from?",
+      "choices": [
+        "Captain Olimar",
+        "The Onion",
+        "A botanical entity",
+        "The Pikmin Queen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gaming platform did Nintendo release in 2012 to compete with other home consoles?",
+      "choices": [
+        "Nintendo Switch",
+        "Wii U",
+        "New 3DS",
+        "Virtual Boy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Kirby series, what is Kirby's primary special ability?",
+      "choices": [
+        "Wall jumping",
+        "Copying enemy powers through inhaling",
+        "Time manipulation",
+        "Transforming into objects"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Splatoon game introduced the Splatfest event where players choose between two competing factions?",
+      "choices": [
+        "Splatoon 2",
+        "Splatoon",
+        "Splatoon 3",
+        "Splatoon X"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Super Smash Bros. series, which character is known as the 'King of Evil' and wields the Triforce of Power?",
+      "choices": [
+        "Ganondorf",
+        "King Dedede",
+        "Bowser",
+        "Dark Pit"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

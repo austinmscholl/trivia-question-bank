@@ -1,273 +1,2350 @@
 {
   "slug": "mammals-trivia",
   "name": "Mammals",
-  "description": "Mammalian wildlife — facts, species, and behaviors",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.618Z",
   "questions": [
     {
-      "q": "What is the largest living mammal on Earth?",
-      "choices": ["African elephant", "Blue whale", "Giraffe", "Polar bear"],
+      "q": "What is the largest rodent species in the world?",
+      "choices": [
+        "Beaver",
+        "Capybara",
+        "Porcupine",
+        "Nutria"
+      ],
       "correct": 1,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Can reach 30 metres long and weigh over 180 tonnes."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which mammal holds the title of the world's tallest?",
-      "choices": ["Giraffe", "Elephant", "Moose", "Elk"],
-      "correct": 0,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "1",
-        "verified": true,
-        "notes": "Can reach up to 5.5 metres tall."
-      }
-    },
-    {
-      "q": "What is the fastest land mammal?",
-      "choices": ["Lion", "Cheetah", "Gazelle", "Pronghorn"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Top speed around 110–120 km/h in short bursts."
-      }
-    },
-    {
-      "q": "What is the meat of a deer called in cooking?",
-      "choices": ["Mutton", "Venison", "Game", "Veal"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Deer Meat",
-        "verified": true,
-        "notes": "From the Latin 'venari', meaning 'to hunt'."
-      }
-    },
-    {
-      "q": "A 'leveret' is the young of which animal?",
-      "choices": ["Deer", "Hare", "Fox", "Rabbit"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Hare",
-        "verified": true,
-        "notes": "Technically a hare in its first year of life."
-      }
-    },
-    {
-      "q": "A 'stallion' is specifically what?",
-      "choices": ["A young male horse", "An adult male horse", "A type of racehorse", "A gelded horse"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Adult Male Horse",
-        "verified": true,
-        "notes": "A young male horse is a 'colt'; a castrated one is a 'gelding'."
-      }
-    },
-    {
-      "q": "A 'filly' is a young female what?",
-      "choices": ["Horse", "Dog", "Deer", "Cow"],
-      "correct": 0,
-      "category": "Mammals",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Filly",
-        "verified": true,
-        "notes": "Female horse under four years old."
-      }
-    },
-    {
-      "q": "Which mammals are the only ones capable of true, sustained flight?",
-      "choices": ["Birds", "Flying squirrels", "Bats", "Pterosaurs"],
+      "q": "Which animal is known as the 'King of the Jungle'?",
+      "choices": [
+        "Tiger",
+        "Elephant",
+        "Lion",
+        "Gorilla"
+      ],
       "correct": 2,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Flying squirrels glide but don't truly fly."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Australian/New Guinean mammal is famous for laying eggs despite being a mammal?",
-      "choices": ["Koala", "Wallaby", "Tasmanian devil", "Platypus"],
-      "correct": 3,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Platypus and echidnas are monotremes — egg-laying mammals."
-      }
-    },
-    {
-      "q": "What is the largest living rodent in the world?",
-      "choices": ["Beaver", "Capybara", "Porcupine", "Coypu"],
+      "q": "What is a male sheep called?",
+      "choices": [
+        "Buck",
+        "Ram",
+        "Stag",
+        "Boar"
+      ],
       "correct": 1,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Native to South America; can weigh over 60 kg."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "A group of whales or dolphins is called what?",
-      "choices": ["Pod", "Flock", "Herd", "Swarm"],
-      "correct": 0,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dolphin",
-        "verified": true,
-        "notes": "Sometimes also 'school' for smaller dolphins."
-      }
-    },
-    {
-      "q": "Which marsupial's pouch famously faces backwards — opening toward its hind legs?",
-      "choices": ["Kangaroo", "Wombat", "Opossum", "Wallaby"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Protects young from dirt as the wombat digs burrows."
-      }
-    },
-    {
-      "q": "A baby kangaroo, koala, or possum is called what?",
-      "choices": ["Cub", "Kit", "Joey", "Pup"],
+      "q": "At what age do lion cubs typically develop their characteristic mane?",
+      "choices": [
+        "6 months",
+        "1 year",
+        "2-3 years",
+        "5 years"
+      ],
       "correct": 2,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Used for most marsupials."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many cervical (neck) vertebrae does a giraffe have — the same as a human?",
-      "choices": ["Seven", "Fourteen", "Twenty-one", "Thirty"],
+      "q": "What is the name for a young hare?",
+      "choices": [
+        "Fawn",
+        "Kid",
+        "Leveret",
+        "Pup"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which rodent is famous for digging extensive tunnel systems?",
+      "choices": [
+        "Squirrel",
+        "Gopher",
+        "Hamster",
+        "Mouse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest species of kangaroo?",
+      "choices": [
+        "Rat Kangaroo",
+        "Wallaby",
+        "Musky Rat-Kangaroo",
+        "Potoroo"
+      ],
       "correct": 0,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Each vertebra is just massive — up to 28 cm long."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Approximately how long is an African elephant's gestation period — the longest of any mammal?",
-      "choices": ["9 months", "12 months", "18 months", "22 months"],
+      "q": "Both deer and moose possess what physical feature?",
+      "choices": [
+        "Tusks",
+        "Horns",
+        "Antlers",
+        "Spikes"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What substance produced by sheep is used to make candles?",
+      "choices": [
+        "Lanolin",
+        "Tallow",
+        "Grease",
+        "Wax"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the fastest natural gait of a horse?",
+      "choices": [
+        "Trot",
+        "Canter",
+        "Gallop",
+        "Walk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is another name for the drug diazepam, sometimes used to treat behavioral issues in cats?",
+      "choices": [
+        "Xanax",
+        "Valium",
+        "Prozac",
+        "Ativan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Why are grizzly bears called 'grizzly'?",
+      "choices": [
+        "Their fierce temperament",
+        "Their grizzled-colored fur",
+        "Their size",
+        "Their territorial nature"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Must a sheep be harmed to obtain its wool?",
+      "choices": [
+        "Yes, the wool damages the sheep",
+        "Yes, the sheep must be killed",
+        "No, wool is shorn from living sheep",
+        "Only during winter"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A kangaroo rat can leap approximately how far in a single jump?",
+      "choices": [
+        "2 feet",
+        "4 feet",
+        "6 feet",
+        "10 feet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical lifespan of a tiger in the wild?",
+      "choices": [
+        "5-8 years",
+        "10-15 years",
+        "15-20 years",
+        "20-25 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how deep can seals dive underwater?",
+      "choices": [
+        "500 feet",
+        "2000 feet",
+        "5000 feet",
+        "10000 feet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate wingspan of a flying fox?",
+      "choices": [
+        "3 feet",
+        "4 feet",
+        "6 feet",
+        "8 feet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient in lard?",
+      "choices": [
+        "Beef fat",
+        "Chicken fat",
+        "Pig fat",
+        "Sheep fat"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what approximate gestation period are mice born after conception?",
+      "choices": [
+        "10-12 days",
+        "19-21 days",
+        "30-35 days",
+        "45-50 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest species of deer by height?",
+      "choices": [
+        "Red deer",
+        "Elk",
+        "Moose",
+        "Reindeer"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the world's largest land mammal by weight?",
+      "choices": [
+        "Giraffe",
+        "Hippopotamus",
+        "African Elephant",
+        "Rhinoceros"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal is known to sleep standing up and can lock its legs in place?",
+      "choices": [
+        "Cow",
+        "Horse",
+        "Giraffe",
+        "Elephant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many legs does a bat use to hang upside down while resting?",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "Bats don't hang by their legs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call the hard, protective covering on a porcupine's back?",
+      "choices": [
+        "Spines",
+        "Quills",
+        "Needles",
+        "Barbs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many humps does a Dromedary camel have?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary food source for a giant panda?",
+      "choices": [
+        "Bamboo",
+        "Insects",
+        "Fish",
+        "Fruit"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal has the longest neck relative to its body size?",
+      "choices": [
+        "Ostrich",
+        "Llama",
+        "Giraffe",
+        "Alpaca"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of mammal is a dolphin?",
+      "choices": [
+        "Fish",
+        "Cetacean",
+        "Amphibian",
+        "Crustacean"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many species of bears are there in the world?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How long can a camel go without drinking water?",
+      "choices": [
+        "1 week",
+        "2 weeks",
+        "Several weeks",
+        "3 weeks"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call a female deer?",
+      "choices": [
+        "Doe",
+        "Hind",
+        "Mare",
+        "Ewe"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which primate is known for its bright red face and posterior?",
+      "choices": [
+        "Mandrill",
+        "Baboon",
+        "Macaque",
+        "Capuchin"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the gestation period of an elephant?",
+      "choices": [
+        "6 months",
+        "9 months",
+        "22 months",
+        "18 months"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many horns does a rhinoceros typically have?",
+      "choices": [
+        "1 or 2",
+        "Always 2",
+        "Always 1",
+        "3 or more"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary hunting method of an orca?",
+      "choices": [
+        "Filter feeding",
+        "Cooperation in pods",
+        "Ambush hunting",
+        "Scavenging"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal can rotate its ears independently of each other?",
+      "choices": [
+        "Cat",
+        "Dog",
+        "Owl",
+        "Deer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a female horse that has not yet reached adulthood called?",
+      "choices": [
+        "Mare",
+        "Filly",
+        "Colt",
+        "Yearling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large African animal spends most of its day in water to keep cool?",
+      "choices": [
+        "Elephant",
+        "Rhinoceros",
+        "Hippopotamus",
+        "Wildebeest"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call a young male sheep?",
+      "choices": [
+        "Kid",
+        "Lamb",
+        "Ram",
+        "Ewe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many years does a typical pet hamster live?",
+      "choices": [
+        "1 to 2 years",
+        "2 to 3 years",
+        "4 to 5 years",
+        "6 to 7 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of animal is a seal?",
+      "choices": [
+        "Fish",
+        "Reptile",
+        "Mammal",
+        "Amphibian"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sense do dogs have that is far more developed than in humans?",
+      "choices": [
+        "Vision",
+        "Hearing",
+        "Smell",
+        "Taste"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is a panda's fur primarily?",
+      "choices": [
+        "Brown and tan",
+        "Black and white",
+        "Gray and white",
+        "Black and gray"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal is known as the king of the jungle?",
+      "choices": [
+        "Tiger",
+        "Elephant",
+        "Lion",
+        "Bear"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary diet of most deer species?",
+      "choices": [
+        "Insects",
+        "Green plants and vegetation",
+        "Fish",
+        "Small rodents"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do we call the fat rendered from a pig and used in cooking?",
+      "choices": [
+        "Tallow",
+        "Lard",
+        "Shortening",
+        "Dripping"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a young goat called?",
+      "choices": [
+        "Calf",
+        "Lamb",
+        "Kid",
+        "Fawn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which whale species is known for having the longest flippers?",
+      "choices": [
+        "Blue whale",
+        "Humpback whale",
+        "Right whale",
+        "Gray whale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how fast can a kangaroo hop?",
+      "choices": [
+        "20 mph",
+        "35 mph",
+        "50 mph",
+        "70 mph"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the scientific classification of a bat?",
+      "choices": [
+        "Bird",
+        "Reptile",
+        "Mammal",
+        "Amphibian"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which feature do foxes use to navigate in darkness?",
+      "choices": [
+        "Echolocation",
+        "Enhanced hearing only",
+        "Whiskers",
+        "Thermal sensing"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a mature male pig called?",
+      "choices": [
+        "Hog",
+        "Boar",
+        "Sow",
+        "Gilt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal is the largest animal on Earth?",
+      "choices": [
+        "African elephant",
+        "Giraffe",
+        "Blue whale",
+        "Hippopotamus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal is known for its ability to spray a foul-smelling liquid as a defense mechanism?",
+      "choices": [
+        "Badger",
+        "Skunk",
+        "Weasel",
+        "Porcupine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these mammals is the only one that lays eggs?",
+      "choices": [
+        "Platypus",
+        "Koala",
+        "Echidna",
+        "Wallaby"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which land mammal has the longest neck?",
+      "choices": [
+        "Ostrich",
+        "Llama",
+        "Giraffe",
+        "Emu"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call a female lion?",
+      "choices": [
+        "Dame",
+        "Lioness",
+        "Queen",
+        "Vixen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal sleeps while standing upright and can lock its joints in place?",
+      "choices": [
+        "Camel",
+        "Horse",
+        "Moose",
+        "Giraffe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main sensory organ that bats use to navigate in the dark?",
+      "choices": [
+        "Whiskers",
+        "Echolocation",
+        "Large eyes",
+        "Nose"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal produces milk but does not have nipples?",
+      "choices": [
+        "Whale",
+        "Platypus",
+        "Dolphin",
+        "Manatee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many humps does a Bactrian camel have?",
+      "choices": [
+        "1 hump",
+        "2 humps",
+        "3 humps",
+        "4 humps"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which primate is known for having opposable thumbs on all four limbs?",
+      "choices": [
+        "Orangutan",
+        "Chimpanzee",
+        "Gorilla",
+        "Gibbon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of sound do sperm whales use to communicate underwater?",
+      "choices": [
+        "Clicks",
+        "Whistles",
+        "Songs",
+        "Grunts"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal has black and white striped skin beneath its fur?",
+      "choices": [
+        "Tiger",
+        "Badger",
+        "Zebra",
+        "Panda"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How fast can a cheetah run in short bursts?",
+      "choices": [
+        "40 mph",
+        "55 mph",
+        "70 mph",
+        "85 mph"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal has the longest lifespan in the animal kingdom?",
+      "choices": [
+        "Parrot",
+        "Bowhead whale",
+        "Elephant",
+        "Human"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary function of a whale's baleen plates?",
+      "choices": [
+        "Producing sound",
+        "Filtering food from water",
+        "Producing oxygen",
+        "Detecting predators"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary hunting technique that allows a fox to locate prey beneath snow cover?",
+      "choices": [
+        "Echolocation similar to bats",
+        "Listening for vole movements and pinpointing location by sound",
+        "Thermal imaging vision in the infrared spectrum",
+        "Pheromone detection through specialized nasal glands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mammal possesses a specialized structure called the vomeronasal organ that enhances pheromone detection?",
+      "choices": [
+        "Elephants",
+        "Snakes (reptile, not mammal)",
+        "Ungulates such as deer and elk",
+        "Primates"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The babirusa, a pig species native to Indonesia, is notable for which distinctive anatomical feature?",
+      "choices": [
+        "Tusks that curl upward and can pierce its own skull",
+        "Venomous spurs on its hind legs",
+        "A prehensile tail used for grasping branches",
+        "Webbed feet for semi-aquatic living"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The rete mirabile, a vascular structure found in marine mammals like dolphins, serves what primary function?",
+      "choices": [
+        "Temperature regulation through heat exchange",
+        "Nitrogen gas absorption to prevent decompression sickness",
+        "Oxygen storage in muscle tissue",
+        "Salinity filtration in the bloodstream"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which monotreme mammal produces venomous spurs only during breeding season?",
+      "choices": [
+        "Platypus males",
+        "Echidna females",
+        "Both male and female platypuses",
+        "Only echidna males"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The caracal, a wild felid, is capable of reaching what height when jumping vertically to catch birds?",
+      "choices": [
+        "3 feet",
+        "6 feet",
+        "10 feet",
+        "12 feet"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The blue whale's heart weighs approximately how much?",
+      "choices": [
+        "200 pounds",
+        "400 pounds",
+        "600 pounds",
+        "800 pounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which primate species practices infanticide as a reproductive strategy to accelerate female fertility?",
+      "choices": [
+        "Chimpanzees exclusively",
+        "Langurs and some other primate species",
+        "Gorillas exclusively",
+        "Bonobos"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The aardvark's teeth lack enamel and continuously grow throughout its lifetime. What is this adaptation primarily for?",
+      "choices": [
+        "Grinding tough insect exoskeletons",
+        "Breaking through termite mound cement",
+        "Compensating for constant wear from termite consumption",
+        "Detecting vibrations in underground tunnels"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary difference between the African and Asian elephant in terms of ear size?",
+      "choices": [
+        "Asian elephants have smaller ears for temperature regulation in humid climates",
+        "African elephants have larger ears for heat dissipation in open savannas",
+        "Ear size is identical; the difference is optical illusion",
+        "African elephants have smaller ears for protection in dense forests"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The thylacine, also known as the Tasmanian tiger, went extinct in what year?",
+      "choices": [
+        "1936",
+        "1954",
+        "1912",
+        "1925"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mammal has the longest migration route of any terrestrial animal?",
+      "choices": [
+        "Arctic tern",
+        "Gray whale",
+        "Pronghorn antelope",
+        "Wildebeest"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The mantis shrimp is not a mammal, but what is the closest marine mammal in hunting complexity?",
+      "choices": [
+        "Sea lion using echolocation",
+        "Dolphin using cooperative hunting and echolocation",
+        "Seal using electroreception",
+        "Manatee using pressure sensitivity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary reason giraffes have such elongated necks according to sexual selection theory?",
+      "choices": [
+        "Male-male combat advantage for feeding dominance",
+        "Thermoregulation in extreme African heat",
+        "Predator detection and escape advantage",
+        "Female mate choice based on neck length as health indicator"
+      ],
       "correct": 3,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Approximately 22 months — about two years."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which mammal is famous for 'playing dead' when threatened?",
-      "choices": ["Opossum", "Raccoon", "Badger", "Skunk"],
+      "q": "The star-nosed mole uses its distinctive nasal appendage to sense what physical property of its prey?",
+      "choices": [
+        "Electrical fields emitted by muscle contractions",
+        "Heat signatures through infrared detection",
+        "Tactile pressure and touch sensitivity",
+        "Pheromone concentration gradients"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which marsupial can enter a state of torpor to conserve energy during food scarcity?",
+      "choices": [
+        "Koala exclusively",
+        "Tasmanian devil",
+        "Quokka",
+        "Feathertail glider"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The proboscis monkey's large nose increases in size proportionally with what factor?",
+      "choices": [
+        "Age and body weight",
+        "Social rank and testosterone levels",
+        "Geographic altitude of habitat",
+        "Dietary fruit intake"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The rete mirabile, a specialized vascular network found in certain marine mammals, primarily functions to enable which physiological process?",
+      "choices": [
+        "Thermoregulation during deep dives",
+        "Oxygen conservation and heat exchange during extended breath-holds",
+        "Enhanced echolocation signal processing",
+        "Rapid nutrient absorption in the intestines"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mammal possesses a specialized stomach chamber called the rumen that contains millions of symbiotic microorganisms for cellulose digestion?",
+      "choices": [
+        "All herbivorous mammals",
+        "Only ruminants such as cattle, deer, and camels",
+        "All hoofed mammals",
+        "Exclusively African ungulates"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The proboscis of an elephant contains approximately how many muscles and nerve endings, enabling its exceptional dexterity?",
+      "choices": [
+        "1,500 muscles and 5,000 nerve endings",
+        "40,000 muscles and 2,000 nerve endings",
+        "5,000 muscles and 40,000 nerve endings",
+        "10,000 muscles and 8,000 nerve endings"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Monotremes, the most primitive living mammals, are characterized by which unique reproductive feature?",
+      "choices": [
+        "Bearing live young with an external placenta",
+        "Laying eggs instead of bearing live young",
+        "Extended gestation periods exceeding 20 months",
+        "Producing offspring in large litters of 8-12 individuals"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The tapetum lucidum, a reflective layer behind the retina in many nocturnal mammals, primarily serves to accomplish which function?",
+      "choices": [
+        "Filter ultraviolet light to prevent eye damage",
+        "Amplify incoming light to enhance night vision",
+        "Regulate intraocular pressure during rapid elevation changes",
+        "Produce bioluminescent compounds for self-illumination"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which rodent species is notable for its ability to survive without drinking water for its entire lifespan, obtaining all necessary moisture from seeds?",
+      "choices": [
+        "Kangaroo rat",
+        "Gerbil",
+        "Desert hamster",
+        "Jerboa"
+      ],
       "correct": 0,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Gave rise to the phrase 'playing possum'."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Hippopotamuses secrete a reddish substance often called 'blood sweat' that acts as what?",
-      "choices": ["A poison for predators", "A natural sunscreen", "A mating scent", "A warning pigment"],
+      "q": "The baleen plates found in filter-feeding whales are composed primarily of which protein derivative?",
+      "choices": [
+        "Chitin reinforced with calcium deposits",
+        "Keratin, the same substance as mammalian hair and nails",
+        "Collagen fibrils cross-linked with elastin",
+        "Cartilaginous tissue with mineral reinforcement"
+      ],
       "correct": 1,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "It Has A Clear Film That Protects Its Eyes",
-        "verified": true,
-        "notes": "Contains pigments that protect skin from UV radiation and bacteria."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What famous carnivorous marsupial is native to the Australian island of Tasmania?",
-      "choices": ["Tasmanian tiger", "Tasmanian devil", "Quokka", "Numbat"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "The Tasmanian tiger (thylacine) went extinct in the 20th century."
-      }
+      "q": "Certain species of shrews and platypuses produce toxic saliva through specialized glands; this adaptation is termed what?",
+      "choices": [
+        "Venom secretion",
+        "Solenodons",
+        "Envenomation",
+        "Sialotoxicity"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
     },
     {
-      "q": "Bats navigate using what kind of sound-based sense?",
-      "choices": ["Infrasound", "Echolocation", "Sonar beams", "Ultrasound vibration"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "4",
-        "verified": true,
-        "notes": "Emit high-frequency calls and listen to the echoes."
-      }
+      "q": "The fennec fox's disproportionately large ears account for approximately what percentage of its total head surface area?",
+      "choices": [
+        "15-20 percent",
+        "35-40 percent",
+        "55-60 percent",
+        "70-75 percent"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
     },
     {
-      "q": "What is the smallest mammal in the world by mass?",
-      "choices": ["Pygmy marmoset", "Etruscan shrew", "Bumblebee bat", "Mouse lemur"],
-      "correct": 1,
-      "category": "Mammals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Also called the 'white-toothed pygmy shrew'; weighs around 2 grams."
-      }
-    },
-    {
-      "q": "Which mammal's tongue can be 45–50 cm (18–20 inches) long?",
-      "choices": ["Giraffe", "Anteater", "Chameleon", "Okapi"],
+      "q": "In which mammalian order do females lack a functional uterus but instead possess a duplex reproductive system with two separate uteri?",
+      "choices": [
+        "Marsupials",
+        "Rodents",
+        "Primates",
+        "Carnivores"
+      ],
       "correct": 0,
-      "category": "Mammals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Used for grasping leaves from acacia trees."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "A sloth belongs to the biological order Pilosa. Roughly how many teeth does a typical two-toed sloth have?",
-      "choices": ["18", "32", "Zero (no teeth)", "10"],
+      "q": "The counter-current heat exchange system found in the flippers of dolphins and whales functions to achieve which outcome?",
+      "choices": [
+        "Accelerate swimming speed through thermal expansion",
+        "Prevent heat loss to cold ocean water while maintaining limb function",
+        "Generate bioluminescence through metabolic heat",
+        "Concentrate oxygen distribution to critical organs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which primate species exhibits a specialized laryngeal sac that amplifies its calls and can be inflated to nearly the size of its head?",
+      "choices": [
+        "Howler monkey",
+        "Gelada baboon",
+        "Proboscis monkey",
+        "Mandrill"
+      ],
       "correct": 0,
-      "category": "Mammals",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Mammals",
-        "verified": true,
-        "notes": "Sloths have simple, peg-like teeth with no enamel and no incisors."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Jacobson's organ, a vomeronasal sensory structure, is particularly well-developed in which group of mammals?",
+      "choices": [
+        "Cetaceans",
+        "Snakes and reptiles only, not mammals",
+        "Ungulates and carnivores with flehmen response behavior",
+        "Insectivores like hedgehogs"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Some species of ground squirrels produce a specialized alarm call that linguistically describes the predator's physical characteristics; this behavior is documented in which species?",
+      "choices": [
+        "California ground squirrel",
+        "Arctic ground squirrel",
+        "Rock squirrel",
+        "Columbian ground squirrel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The aardvark's tubular tongue can extend beyond its mouth by approximately how many inches to extract termites from deep tunnels?",
+      "choices": [
+        "6-8 inches",
+        "12-16 inches",
+        "20-24 inches",
+        "28-32 inches"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cetacean species undertakes the longest migration of any mammal, traveling approximately 44,000 miles annually?",
+      "choices": [
+        "Gray whale",
+        "Humpback whale",
+        "Arctic tern whale",
+        "Blue whale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The hyena's digestive system possesses which specialized adaptation that no other large terrestrial carnivore exhibits?",
+      "choices": [
+        "The ability to digest bone through an extremely acidic stomach environment",
+        "A secondary stomach chamber for microbial fermentation",
+        "Expandable esophageal pouches for food storage",
+        "Enzymes that dissolve calcium phosphate in the small intestine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The mantled howler monkey's specialized hyoid bone structure enables it to produce calls that can be heard from how many miles away in a rainforest setting?",
+      "choices": [
+        "0.5 miles",
+        "2-3 miles",
+        "5-6 miles",
+        "8-10 miles"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Certain species of bats utilize echolocation at frequencies exceeding 200 kHz, which is what multiple above the upper range of human hearing?",
+      "choices": [
+        "8-10 times higher",
+        "15-20 times higher",
+        "40-50 times higher",
+        "100 times or more higher"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The pangolin's scales are composed of the same material as which mammalian body structure?",
+      "choices": [
+        "Whale baleen",
+        "Keratin, identical to human fingernails",
+        "Bone reinforced with calcium carbonate",
+        "Cartilage fused with collagen fibers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of true sustained sonar echolocation for navigation?",
+      "choices": [
+        "Shrews",
+        "Bats",
+        "Dolphins",
+        "Hedgehogs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which primate species has the highest bite force relative to its body size?",
+      "choices": [
+        "Mandrill",
+        "Gorilla",
+        "Baboon",
+        "Capuchin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The gestation period of an African elephant is approximately how many months?",
+      "choices": [
+        "18 months",
+        "22 months",
+        "14 months",
+        "26 months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which terrestrial mammal has the longest migration route annually?",
+      "choices": [
+        "Wildebeest",
+        "Caribou",
+        "Gray whale",
+        "Pronghorn antelope"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many chambers does a ruminant's stomach typically contain?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The platypus possesses electroreceptors called ampullae of Lorenzini primarily used for what purpose?",
+      "choices": [
+        "Temperature regulation",
+        "Detecting electrical fields of prey",
+        "Salt water balance",
+        "Sound amplification"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the typical lifespan of a sperm whale in its natural environment?",
+      "choices": [
+        "25-30 years",
+        "40-50 years",
+        "60-70 years",
+        "80-90 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mammal has the lowest metabolic rate relative to its body mass?",
+      "choices": [
+        "Sloth",
+        "Koala",
+        "Manatee",
+        "Slow loris"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The tusks of a narwhal are actually an extension of which tooth?",
+      "choices": [
+        "Canine",
+        "Incisor",
+        "Premolar",
+        "Molar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specialized adaptation do fennec foxes possess to survive in desert environments?",
+      "choices": [
+        "Reduced sweat glands",
+        "Enlarged ears for heat dissipation",
+        "Thick fur coat",
+        "Nocturnal hunting behavior"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many teeth does an adult hippopotamus typically have?",
+      "choices": [
+        "28",
+        "32",
+        "40",
+        "44"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The venom of a platypus is produced in which anatomical structure?",
+      "choices": [
+        "Salivary glands",
+        "Crural glands on hind legs",
+        "Liver tissue",
+        "Modified sweat glands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mammal can survive the longest without drinking water?",
+      "choices": [
+        "Camel",
+        "Dromedary",
+        "Oryx",
+        "Ostrich"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The rete mirabile is a specialized blood vessel system found in which marine mammal group?",
+      "choices": [
+        "Manatees",
+        "Cetaceans",
+        "Seals",
+        "Sea otters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary function of the mane in male lions?",
+      "choices": [
+        "Thermoregulation",
+        "Sexual selection and intimidation display",
+        "Protection during hunting",
+        "Camouflage"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many thoracic vertebrae does a giraffe possess, compared to most other mammals?",
+      "choices": [
+        "Significantly more",
+        "The same number as most mammals",
+        "Significantly fewer",
+        "None; giraffes lack a spine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The pouched wolf, now extinct, was native to which geographic region?",
+      "choices": [
+        "Tasmania",
+        "Australia mainland",
+        "New Guinea",
+        "New Zealand"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cetacean species exhibits the most complex social hierarchies documented in non-human mammals?",
+      "choices": [
+        "Bottlenose dolphins",
+        "Orcas",
+        "Humpback whales",
+        "Beluga whales"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The oxpecker bird has a mutualistic relationship with many mammals by removing what from their skin?",
+      "choices": [
+        "Dead skin cells",
+        "Parasites and ticks",
+        "Hair mats",
+        "Fungal infections"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary thermoregulatory challenge faced by the naked mole-rat?",
+      "choices": [
+        "Excessive heat loss",
+        "Inability to generate sufficient body heat",
+        "Poor circulation",
+        "Overheating in burrows"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary function of a walrus's vibrissae in locating prey on the ocean floor?",
+      "choices": [
+        "Detecting electrical impulses from fish",
+        "Sensing pressure changes and vibrations in water",
+        "Creating echolocation patterns",
+        "Measuring water temperature variations"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mammal possesses a specialized stomach compartment that ferments vegetation and requires regurgitation for proper digestion?",
+      "choices": [
+        "Hippopotamus",
+        "Ruminant ungulates",
+        "Sea lion",
+        "Platypus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The rete mirabile is a specialized vascular network found in which marine mammal that allows it to withstand extreme pressure changes during deep dives?",
+      "choices": [
+        "Sperm whale",
+        "Dolphin",
+        "Sea otter",
+        "Manatee"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the gestation period of an African elephant, making it the longest of any land mammal?",
+      "choices": [
+        "18 months",
+        "22 months",
+        "26 months",
+        "30 months"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The pronghorn antelope of North America evolved its exceptional running speed as a predator defense against which now-extinct megafauna?",
+      "choices": [
+        "American lion",
+        "Saber-toothed cat",
+        "American cheetah",
+        "Giant ground sloth"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which bat species is capable of echolocation clicks reaching frequencies above 200 kilohertz, the highest among all mammals?",
+      "choices": [
+        "Greater horseshoe bat",
+        "Spotted bat",
+        "Townsend's big-eared bat",
+        "Mustached bat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The musk ox's defensive formation, wherein adults encircle calves, provides protection against which predator that historically hunted them?",
+      "choices": [
+        "Brown bear",
+        "Gray wolf",
+        "Wolverine",
+        "Spotted hyena"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the layer of blubber in cetaceans that provides insulation and comprises up to 30 percent of their body mass?",
+      "choices": [
+        "Dermis layer",
+        "Panniculus carnosus",
+        "Hypodermis",
+        "Epidermis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The pygmy hippopotamus is native to which West African country as its primary natural habitat?",
+      "choices": [
+        "Ivory Coast",
+        "Liberia",
+        "Sierra Leone",
+        "Guinea"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which monotreme mammal secretes a venomous compound from spurs located on its hind legs during breeding season?",
+      "choices": [
+        "Echidna",
+        "Duck-billed platypus",
+        "Tasmanian devil",
+        "Sugar glider"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The counterurrent heat exchange system in a dolphin's flippers minimizes heat loss through which physiological mechanism?",
+      "choices": [
+        "Arteriovenous anastomoses",
+        "Arteries surrounded by venous networks",
+        "Increased metabolic rate",
+        "Subcutaneous fat redistribution"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of voluntary control over its trachea to produce echolocation frequencies independent of breathing?",
+      "choices": [
+        "Greater sperm whale",
+        "Bottlenose dolphin",
+        "Megabat species",
+        "Shrewlike tenrec"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The koala's specialized digestive system contains which bacterial flora that enables detoxification of eucalyptus leaves?",
+      "choices": [
+        "Lactobacillus species",
+        "Fibrobacter and Ruminococcus",
+        "Streptococcus thermophilus",
+        "Bacteroides uniformis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which carnivoran species exhibits the lowest basal metabolic rate relative to body size among all measured mammals?",
+      "choices": [
+        "Giant panda",
+        "Three-toed sloth",
+        "Manatee",
+        "Koala"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The fennec fox's enlarged ears serve primarily to dissipate heat in its desert environment through which process?",
+      "choices": [
+        "Evaporative cooling",
+        "Radiation from increased surface area",
+        "Conductive transfer to surrounding air",
+        "Behavioral thermoregulation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the reproductive strategy of certain whale species wherein females store sperm from multiple males before fertilization?",
+      "choices": [
+        "Polyandrous mating",
+        "Sperm stratification",
+        "Cryptic female choice",
+        "Delayed fertilization"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The proboscis monkey, native to Borneo, is distinguished by an unusually large nose. What primary function does this distinctive nasal structure serve?",
+      "choices": [
+        "It amplifies vocalizations to communicate across forest canopies",
+        "It cools blood through enhanced surface area to prevent overheating",
+        "It stores fat reserves for use during seasonal food scarcity",
+        "It filters airborne particles and toxins from the rainforest air"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary substance that baleen whales use to filter food from seawater?",
+      "choices": [
+        "Keratin plates",
+        "Bone structures",
+        "Cartilage ridges",
+        "Calcium deposits"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal has the longest gestation period of any land animal?",
+      "choices": [
+        "African elephant",
+        "Giraffe",
+        "Hippopotamus",
+        "Rhinoceros"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many chambers does a ruminant animal's stomach typically have?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these animals is the only mammal capable of echolocation for navigation?",
+      "choices": [
+        "Dolphin",
+        "Pangolin",
+        "Platypus",
+        "Hedgehog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary purpose of a porcupine's quills?",
+      "choices": [
+        "Temperature regulation",
+        "Defense against predators",
+        "Attracting mates",
+        "Digging burrows"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which primate species is known for having opposable big toes on their feet?",
+      "choices": [
+        "Chimpanzee",
+        "Gorilla",
+        "Orangutan",
+        "Gibbon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main component of a narwhal's characteristic long tusk?",
+      "choices": [
+        "Solidified keratin",
+        "A specialized tooth",
+        "Bone extension",
+        "Cartilage growth"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How do monotremes such as platypuses reproduce differently from most mammals?",
+      "choices": [
+        "They give live birth without a placenta",
+        "They lay eggs",
+        "They reproduce asexually",
+        "They have an extremely short gestation period"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal spends the most time sleeping per day on average?",
+      "choices": [
+        "Lion",
+        "Brown bat",
+        "Sloth",
+        "Koala"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What adaptation allows camels to survive extended periods without water?",
+      "choices": [
+        "Water stored in their humps",
+        "Highly efficient kidneys and water retention",
+        "A sealed respiratory system",
+        "Special blood cells that hold water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which marine mammal is known for creating complex hunting formations called 'bubble nets'?",
+      "choices": [
+        "Gray whale",
+        "Humpback whale",
+        "Beluga whale",
+        "Right whale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary reason a kangaroo's tail is so muscular and powerful?",
+      "choices": [
+        "For climbing trees",
+        "For balance and propulsion while jumping",
+        "For attracting mates",
+        "For thermoregulation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How do elephant tusks continue to grow throughout the animal's lifetime?",
+      "choices": [
+        "They regenerate from broken pieces",
+        "They are extended by keratin production",
+        "They never stop growing from the pulp",
+        "New layers are added annually like tree rings"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which primate species has the largest brain-to-body-size ratio among non-humans?",
+      "choices": [
+        "Capuchin monkey",
+        "Chimpanzee",
+        "Orangutan",
+        "Macaque"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What unique adaptation allows a sloth to remain camouflaged in trees?",
+      "choices": [
+        "Color-changing skin",
+        "Algae growth in its fur",
+        "Seasonal molting",
+        "Nocturnal behavior"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these mammals produces milk without having nipples?",
+      "choices": [
+        "Platypus",
+        "Echidna",
+        "Otter",
+        "Manatee"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of a whale's blubber layer?",
+      "choices": [
+        "Enhanced buoyancy",
+        "Insulation and energy storage",
+        "Improved swimming speed",
+        "Sound amplification"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal has a specialized stomach compartment designed specifically to break down leaves and woody plants?",
+      "choices": [
+        "Moose",
+        "Koala",
+        "Giraffe",
+        "Llama"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How do wolverines use their powerful claws in their natural environment?",
+      "choices": [
+        "Primarily for climbing trees",
+        "For digging and hunting in snow",
+        "For territorial marking",
+        "For swimming through water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of a walrus's vibrissae in hunting behavior?",
+      "choices": [
+        "Detecting electrical fields in water",
+        "Sensing vibrations and movements of prey on the seafloor",
+        "Maintaining body temperature in arctic waters",
+        "Communicating with other walruses during dives"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Keratin, the substance that makes up a rhinoceros horn, is also found in which of these mammalian structures?",
+      "choices": [
+        "Teeth enamel",
+        "Hair and fingernails",
+        "Bone tissue",
+        "Skin epidermis only"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In meerkat social hierarchies, what percentage of surviving litters are typically produced by the dominant female?",
+      "choices": [
+        "Approximately 50 percent",
+        "Approximately 80 percent",
+        "Approximately 95 percent",
+        "Approximately 60 percent"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which sense is notably poor in Eurasian badgers compared to their other sensory abilities?",
+      "choices": [
+        "Hearing",
+        "Taste",
+        "Eyesight",
+        "Smell"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How do badgers within the same clan primarily identify one another?",
+      "choices": [
+        "Through vocalizations and specific calls",
+        "By recognizing individual fur patterns",
+        "Through unique musk scent markers",
+        "By memorizing each member's size and shape"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A young female horse that has not yet reached maturity is called by which term?",
+      "choices": [
+        "Colt",
+        "Filly",
+        "Mare",
+        "Yearling"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Service dogs have been successfully trained to alert their handlers to impending seizures in individuals with which neurological condition?",
+      "choices": [
+        "Parkinson's disease",
+        "Epilepsy",
+        "Migraine disorder",
+        "Narcolepsy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Scientists classify living whales into how many distinct groups based on structural characteristics?",
+      "choices": [
+        "Three major groups",
+        "Two major groups",
+        "Four major groups",
+        "Five major groups"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The drug diazepam is commonly prescribed to treat urine spraying behavior in cats. By what brand name is diazepam more widely known?",
+      "choices": [
+        "Xanax",
+        "Valium",
+        "Ativan",
+        "Librium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is credited with first domesticating hogs during the Neolithic period?",
+      "choices": [
+        "India",
+        "China",
+        "Mesopotamia",
+        "Egypt"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for meat obtained from wild or farmed deer?",
+      "choices": [
+        "Game",
+        "Venison",
+        "Haunch",
+        "Cutlet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The average lifespan of a tiger living in its natural habitat is approximately how many years?",
+      "choices": [
+        "15 years",
+        "10 years",
+        "20 years",
+        "8 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A ewe refers to which type of animal?",
+      "choices": [
+        "Female goat",
+        "Female sheep",
+        "Male sheep",
+        "Young lamb of either sex"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what color variations can the fleece of a sheep naturally occur?",
+      "choices": [
+        "Only white and black",
+        "White, black, and brown only",
+        "White, black, brown, and tan",
+        "Only white"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which rodent species, commonly kept as a pet, is etymologically named from a German word meaning 'to hoard'?",
+      "choices": [
+        "Mouse",
+        "Gerbil",
+        "Hamster",
+        "Guinea pig"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The approximate maximum running speed of a fox is how many kilometers per hour?",
+      "choices": [
+        "30 kilometers per hour",
+        "50 kilometers per hour",
+        "40 kilometers per hour",
+        "60 kilometers per hour"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A hippopotamus can see underwater due to the presence of which adaptation?",
+      "choices": [
+        "A reflective layer behind the retina",
+        "A clear protective film covering the eyes",
+        "Enlarged pupils that open extremely wide",
+        "Eyes positioned on top of the head"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate maximum height of the tallest living deer species in the world?",
+      "choices": [
+        "Four feet",
+        "Five feet",
+        "Six feet",
+        "Seven feet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal holds the distinction of being the tallest living species on Earth?",
+      "choices": [
+        "Ostrich",
+        "Giraffe",
+        "Moose",
+        "Emu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Both deer and moose share which anatomical feature related to their skull structure?",
+      "choices": [
+        "Split hooves on their feet",
+        "Antlers that are shed annually",
+        "Specialized grinding molars",
+        "A elongated snout for browsing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which marine mammal is known for using rocks as tools to crack open shellfish?",
+      "choices": [
+        "Sea otter",
+        "Walrus",
+        "Seal",
+        "Manatee"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary reason elephants have such large ears?",
+      "choices": [
+        "To enhance hearing in noisy environments",
+        "To regulate body temperature through heat dissipation",
+        "To communicate over long distances",
+        "To store fat reserves"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many chambers does a whale's heart typically have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sloths typically descend to the ground to perform which bodily function?",
+      "choices": [
+        "Eat leaves",
+        "Drink water",
+        "Defecate",
+        "Sleep"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary diet of giant pandas despite being classified as carnivores?",
+      "choices": [
+        "Bamboo",
+        "Fish",
+        "Small rodents",
+        "Insects"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which land mammal can run at the highest sustained speed over long distances?",
+      "choices": [
+        "Pronghorn antelope",
+        "Greyhound",
+        "Cheetah",
+        "Thoroughbred horse"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What unique feature do monotremes like the platypus possess that other mammals lack?",
+      "choices": [
+        "The ability to lay eggs",
+        "Venomous spurs",
+        "Electroreception",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many teeth does an adult human typically have, including wisdom teeth?",
+      "choices": [
+        "28",
+        "30",
+        "32",
+        "36"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal produces a venomous secretion from glands in its skin?",
+      "choices": [
+        "Poison dart frog",
+        "Platypus",
+        "Aye-aye",
+        "Poison tree frog"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of a narwhal's long tusk?",
+      "choices": [
+        "Breaking ice",
+        "Sensory detection and communication",
+        "Hunting prey",
+        "Establishing dominance through combat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which primate species has the most complex vocal communication system after humans?",
+      "choices": [
+        "Chimpanzee",
+        "Gorilla",
+        "Gibbon",
+        "Bonobo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long can a sperm whale typically hold its breath during a deep dive?",
+      "choices": [
+        "15 minutes",
+        "30 minutes",
+        "60 minutes",
+        "90 minutes"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal is capable of echolocation to navigate in complete darkness?",
+      "choices": [
+        "Bat",
+        "Mole",
+        "Opossum",
+        "Hedgehog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name for the milk-producing glands unique to all mammals?",
+      "choices": [
+        "Sebaceous glands",
+        "Mammary glands",
+        "Sweat glands",
+        "Oil glands"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal has a bite force measured at over 1,200 pounds per square inch?",
+      "choices": [
+        "Hippopotamus",
+        "Saltwater crocodile",
+        "Lion",
+        "Grizzly bear"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many cervical vertebrae does a giraffe have compared to a human?",
+      "choices": [
+        "Giraffes have more",
+        "Giraffes have fewer",
+        "Both have the same number",
+        "Giraffes have double the number"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which whale species is known for producing the loudest call in the animal kingdom?",
+      "choices": [
+        "Blue whale",
+        "Fin whale",
+        "Sperm whale",
+        "Humpback whale"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary predator of adult African buffalo in the wild?",
+      "choices": [
+        "Lion",
+        "Hyena",
+        "Crocodile",
+        "Wild dog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How do kangaroos use their tail when moving at low speeds?",
+      "choices": [
+        "For balance during hopping",
+        "As a fifth leg to support their weight",
+        "To communicate with other kangaroos",
+        "To swat insects"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal can rotate its head nearly 270 degrees?",
+      "choices": [
+        "Owl",
+        "Giraffe",
+        "Owl monkey",
+        "Barn owl"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many chambers does a camel's stomach have?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary reason polar bears have black skin beneath their white fur?",
+      "choices": [
+        "To camouflage in snow",
+        "To absorb heat from the sun",
+        "To blend with arctic water",
+        "To intimidate other bears"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal produces milk despite being a monotreme?",
+      "choices": [
+        "Platypus",
+        "Echidna",
+        "Tasmanian devil",
+        "Koala"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is a female otter called?",
+      "choices": [
+        "Queen",
+        "Bitch",
+        "Doe",
+        "Sow"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which land mammal has the longest migration route?",
+      "choices": [
+        "Wildebeest",
+        "Gray whale",
+        "Arctic tern",
+        "Pronghorn antelope"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the pouch-like structure in a sloth's fur where moths live symbiotically?",
+      "choices": [
+        "Fur cavity",
+        "Hair pocket",
+        "Algae garden",
+        "Symbiotic chamber"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long can a sperm whale hold its breath underwater?",
+      "choices": [
+        "15 minutes",
+        "45 minutes",
+        "90 minutes",
+        "2 hours"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What substance do armadillos use to dig their burrows?",
+      "choices": [
+        "Their powerful claws",
+        "Their hard shells",
+        "Their prehensile tails",
+        "Their strong teeth"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal has the highest blood pressure of any animal?",
+      "choices": [
+        "Giraffe",
+        "Elephant",
+        "Blue whale",
+        "Hippopotamus"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of a mole's large front paws?",
+      "choices": [
+        "Climbing trees",
+        "Burrowing through soil",
+        "Catching prey quickly",
+        "Swimming underwater"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many species of bears are recognized by scientists?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The African elephant holds the record for the longest lifespan among land mammals. In the wild, what is the typical maximum lifespan of an African elephant?",
+      "choices": [
+        "40-50 years",
+        "60-70 years",
+        "80-90 years",
+        "100+ years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Among primates, which species has the largest brain relative to its body size?",
+      "choices": [
+        "Chimpanzee",
+        "Gorilla",
+        "Human",
+        "Orangutan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

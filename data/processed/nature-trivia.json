@@ -1,169 +1,2482 @@
 {
   "slug": "nature-trivia",
-  "name": "Nature & Wildlife",
-  "description": "Plants, ecosystems, and creatures of the wild",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Nature",
+  "processedAt": "2026-05-24T20:43:43.653Z",
   "questions": [
     {
-      "q": "Which eagle species is the national bird of the United States?",
-      "choices": ["Golden Eagle", "Harpy Eagle", "Bald Eagle", "Sea Eagle"],
-      "correct": 2,
-      "category": "Nature & Wildlife",
-      "difficulty": "easy",
-      "source": { "original_a": "Bald", "verified": true, "notes": "Adopted 1782. Not actually bald — 'bald' comes from old English 'balde,' meaning 'white.'" }
-    },
-    {
-      "q": "What is the largest cat species in the world?",
-      "choices": ["Lion", "Tiger", "Jaguar", "Leopard"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "easy",
-      "source": { "original_a": "Tiger", "verified": true, "notes": "Siberian/Amur tigers are the largest subspecies. Up to 11 feet long, 660 lbs." }
-    },
-    {
-      "q": "What is the name for a porcupine's sharp defensive spines?",
-      "choices": ["Bristles", "Barbs", "Quills", "Spikes"],
-      "correct": 2,
-      "category": "Nature & Wildlife",
-      "difficulty": "easy",
-      "source": { "original_a": "Quills", "verified": true, "notes": "Modified hairs coated with keratin. Contrary to myth, they cannot be 'thrown.'" }
-    },
-    {
-      "q": "Which animal, notorious for building dams, is a famous aquatic engineer?",
-      "choices": ["Otter", "Beaver", "Muskrat", "Platypus"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "easy",
-      "source": { "original_a": "Beaver", "verified": true, "notes": "North American beavers build lodges from sticks and mud. Teeth grow continuously." }
-    },
-    {
-      "q": "The word 'vulpine' relates to what animal?",
-      "choices": ["Wolf", "Fox", "Lynx", "Owl"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Fox", "verified": true, "notes": "From Latin 'vulpes' (fox). 'Lupine' relates to wolves, 'ursine' to bears." }
-    },
-    {
-      "q": "A squirrel's nest is called a what?",
-      "choices": ["Sett", "Drey", "Warren", "Lair"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Squirrel", "verified": true, "notes": "Made of twigs and leaves. Usually in tree forks. Distinct from ground burrows (earths)." }
-    },
-    {
-      "q": "On which continent are wild meerkats native?",
-      "choices": ["South America", "Asia", "Africa", "Australia"],
-      "correct": 2,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Africa", "verified": true, "notes": "Southern Africa, in the Kalahari Desert. Part of the mongoose family." }
-    },
-    {
-      "q": "What animal shares its name with one of the seven deadly sins?",
-      "choices": ["Wolf (Wrath)", "Sloth", "Snake (Envy)", "Pig (Gluttony)"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Sloth", "verified": true, "notes": "Native to Central/South American rainforests. The slowest mammal — move ~0.15 mph." }
-    },
-    {
-      "q": "How long is a typical dog's pregnancy?",
-      "choices": ["5 weeks", "7 weeks", "9 weeks", "12 weeks"],
-      "correct": 2,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "9", "verified": true, "notes": "Approximately 63 days (9 weeks). Similar to cats." }
-    },
-    {
-      "q": "Scaly anteater is another name for which mammal?",
-      "choices": ["Armadillo", "Pangolin", "Aardvark", "Opossum"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "hard",
-      "source": { "original_a": "Scaly Anteater", "verified": true, "notes": "Only mammal with true scales. Most trafficked mammal in the world." }
-    },
-    {
-      "q": "What insect family contains species like the Colorado potato beetle and the deathwatch beetle?",
-      "choices": ["Ants", "Beetles", "Moths", "Grasshoppers"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Beetle", "verified": true, "notes": "Coleoptera order. Most diverse order of animals on Earth — 400,000+ species." }
-    },
-    {
-      "q": "How many toes does a three-toed sloth have on each front foot?",
-      "choices": ["Two", "Three", "Four", "Five"],
-      "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Three", "verified": true, "notes": "Three-toed sloths have 3 toes on all four feet. Two-toed sloths have 2 on front, 3 on back." }
-    },
-    {
-      "q": "Where would you find the pygmy marmoset (world's smallest monkey) in the wild?",
-      "choices": ["Amazon Basin", "Congo Basin", "Himalayas", "Australian Outback"],
+      "q": "What type of rotating storm system produces the characteristic funnel cloud that touches down on land?",
+      "choices": [
+        "Tornado",
+        "Hurricane",
+        "Cyclone",
+        "Dust devil"
+      ],
       "correct": 0,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Amazon", "verified": true, "notes": "Also called 'finger monkey.' Weighs ~100 grams. Rainforest canopy dweller." }
+      "difficulty": "easy"
     },
     {
-      "q": "Chinchillas belong to which family of animals?",
-      "choices": ["Marsupials", "Rodents", "Lagomorphs", "Felines"],
+      "q": "Which colorful insect is known for its four delicate wings and complete metamorphosis from caterpillar?",
+      "choices": [
+        "Butterfly",
+        "Dragonfly",
+        "Grasshopper",
+        "Beetle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call an animal whose diet consists primarily of fruits?",
+      "choices": [
+        "Frugivore",
+        "Herbivore",
+        "Granivore",
+        "Folivore"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sudden shaking of the Earth's surface is caused by movement of rock layers beneath the ground?",
+      "choices": [
+        "Earthquake",
+        "Tsunami",
+        "Avalanche",
+        "Landslide"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for an uncontrolled fire that spreads rapidly through vegetation and trees?",
+      "choices": [
+        "Wildfire",
+        "Brush fire",
+        "Forest fire",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tick-borne disease is characterized by a circular rash and joint pain?",
+      "choices": [
+        "Lyme disease",
+        "Rocky Mountain spotted fever",
+        "Dengue fever",
+        "Malaria"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Lhasa Apso dog breed originates from which mountainous region?",
+      "choices": [
+        "Tibet",
+        "Nepal",
+        "Bhutan",
+        "Mongolia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which small wading bird is commonly found running along sandy beaches and shorelines?",
+      "choices": [
+        "Sandpiper",
+        "Heron",
+        "Egret",
+        "Stork"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the plural form of octopus that is commonly used in English?",
+      "choices": [
+        "Octopi",
+        "Octopuses",
+        "Octopodes",
+        "Octopus"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which soft, luxurious fiber comes from the coat of a cashmere goat?",
+      "choices": [
+        "Cashmere",
+        "Angora",
+        "Wool",
+        "Mohair"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A sloth typically has how many toes on each foot?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
       "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Rodents", "verified": true, "notes": "Native to the Andes Mountains. Dense, soft fur — up to 60 hairs per follicle." }
+      "difficulty": "easy"
     },
     {
-      "q": "What color are the largest members of the bear family, the polar bears?",
-      "choices": ["White (fur); black (skin)", "All white", "Grey", "Cream"],
-      "correct": 0,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Bald", "verified": true, "notes": "Fur is translucent/hollow, not truly white. Skin is black to absorb heat." }
+      "q": "What is an apiary used for in beekeeping?",
+      "choices": [
+        "Housing bees",
+        "Harvesting honey",
+        "Storing bee equipment",
+        "Housing bees and producing honey"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
     },
     {
-      "q": "How many species of great apes are there?",
-      "choices": ["2", "3", "4", "5"],
-      "correct": 2,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "4", "verified": true, "notes": "Orangutans, gorillas, chimpanzees, and bonobos. Humans are also technically great apes." }
-    },
-    {
-      "q": "Which animal is the only natural predator of the giant anteater?",
-      "choices": ["Ocelot", "Jaguar", "Bobcat", "Armadillo"],
+      "q": "Which large cat species is the biggest member of the felidae family?",
+      "choices": [
+        "Lion",
+        "Tiger",
+        "Jaguar",
+        "Leopard"
+      ],
       "correct": 1,
-      "category": "Nature & Wildlife",
-      "difficulty": "hard",
-      "source": { "original_a": "Tiger", "verified": true, "notes": "Jaguars and mountain lions. Anteaters lack teeth but have powerful claws." }
+      "difficulty": "easy"
     },
     {
-      "q": "Aviculture is the practice of keeping and raising which type of animal?",
-      "choices": ["Fish", "Insects", "Birds", "Reptiles"],
+      "q": "What term describes an animal that produces wool, such as a sheep?",
+      "choices": [
+        "Caprine",
+        "Ovine",
+        "Equine",
+        "Bovine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the prolonged period of abnormally low rainfall that can damage crops called?",
+      "choices": [
+        "Drought",
+        "Flood",
+        "Monsoon",
+        "Drought season"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which geological process occurs when wind or water deposits sand and silt in layers?",
+      "choices": [
+        "Erosion",
+        "Sedimentation",
+        "Weathering",
+        "Deposition"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for the cozy nest built and inhabited by squirrels?",
+      "choices": [
+        "Burrow",
+        "Drey",
+        "Warren",
+        "Lodge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large spotted feline is known for its ability to climb trees and drag prey into branches?",
+      "choices": [
+        "Cheetah",
+        "Lion",
+        "Leopard",
+        "Cougar"
+      ],
       "correct": 2,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Birds", "verified": true, "notes": "From Latin 'avis' (bird). Covers everything from parrot breeding to falconry." }
+      "difficulty": "easy"
     },
     {
-      "q": "Angora wool comes from which animal?",
-      "choices": ["Rabbit", "Sheep", "Goat", "Llama"],
-      "correct": 0,
-      "category": "Nature & Wildlife",
-      "difficulty": "hard",
-      "source": { "original_a": "Rabbit", "verified": true, "notes": "audit-corrected 2026-05-09: tightened to single-correct answer — by common usage, 'angora wool' refers to fiber from the Angora rabbit. Fiber from Angora goats is called 'mohair', not angora wool." }
+      "q": "In addition to grey squirrels, which other color variant of squirrels is found in UK woodlands?",
+      "choices": [
+        "Black",
+        "Red",
+        "Brown",
+        "White"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "A young shark is called what?",
-      "choices": ["Pup", "Fry", "Chick", "Cub"],
+      "q": "What geological feature is formed when the roof of a volcano collapses inward, creating a large depression?",
+      "choices": [
+        "Crater",
+        "Caldera",
+        "Cone",
+        "Lava tube"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large marine animal is known for producing a loud, haunting sound that can travel thousands of miles through the ocean?",
+      "choices": [
+        "Blue whale",
+        "Great white shark",
+        "Giant squid",
+        "Sperm whale"
+      ],
       "correct": 0,
-      "category": "Nature & Wildlife",
-      "difficulty": "medium",
-      "source": { "original_a": "Pup", "verified": true, "notes": "Some sharks (like great whites) give birth to live pups. Others lay egg cases ('mermaid purses')." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest member of the cat family in the world?",
+      "choices": [
+        "Lion",
+        "Tiger",
+        "Leopard",
+        "Jaguar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many toes does a three-toed sloth have on each of its front feet?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is known for its ability to curl into a nearly impenetrable ball as a defense mechanism?",
+      "choices": [
+        "Hedgehog",
+        "Porcupine",
+        "Pangolin",
+        "Armadillo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for a volcano that collapses inward after an eruption, creating a large depression?",
+      "choices": [
+        "Crater",
+        "Caldera",
+        "Cone",
+        "Vent"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which bird species serves as the national symbol of the United States?",
+      "choices": [
+        "Golden eagle",
+        "Bald eagle",
+        "Harpy eagle",
+        "Philippine eagle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which mountain range would you find the Lhasa Apso dog breed originating?",
+      "choices": [
+        "Rocky Mountains",
+        "Andes",
+        "Himalayas",
+        "Atlas Mountains"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of weather event occurs when a large amount of water rapidly overflows onto normally dry land?",
+      "choices": [
+        "Drought",
+        "Flood",
+        "Tornado",
+        "Typhoon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which insect group includes beetles such as the ladybug and dung beetle?",
+      "choices": [
+        "Lepidoptera",
+        "Hymenoptera",
+        "Coleoptera",
+        "Diptera"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many species of rhinoceros currently exist in Africa?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a wildfire also commonly called in different parts of the world?",
+      "choices": [
+        "Brush fire",
+        "Forest fire",
+        "Bushfire",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal, known for its intelligence, can have multiple arms and is sometimes spelled with a Latin plural as 'octopi'?",
+      "choices": [
+        "Squid",
+        "Octopus",
+        "Cuttlefish",
+        "Sea star"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes an animal that primarily eats fruit?",
+      "choices": [
+        "Herbivore",
+        "Carnivore",
+        "Frugivore",
+        "Omnivore"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which canine is traditionally recognized as the slyest animal in folklore?",
+      "choices": [
+        "Wolf",
+        "Coyote",
+        "Fox",
+        "Jackal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a squirrel's nest?",
+      "choices": [
+        "Burrow",
+        "Drey",
+        "Warren",
+        "Lodge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which disease is primarily transmitted to humans through mosquito bites in tropical regions?",
+      "choices": [
+        "Dengue fever",
+        "Malaria",
+        "Yellow fever",
+        "Zika virus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What occurs when the Earth's crust suddenly ruptures and releases built-up energy in the form of shaking?",
+      "choices": [
+        "Tsunami",
+        "Earthquake",
+        "Landslide",
+        "Aftershock"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which is the only mammal capable of true flight?",
+      "choices": [
+        "Flying squirrel",
+        "Flying fish",
+        "Bat",
+        "Flying lemur"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the collective term for a group of jellyfish?",
+      "choices": [
+        "School",
+        "Pod",
+        "Bloom",
+        "Swarm"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is known to be the fastest land animal on Earth?",
+      "choices": [
+        "Lion",
+        "Antelope",
+        "Cheetah",
+        "Horse"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for the rapid expansion of air that creates a loud boom following a lightning strike?",
+      "choices": [
+        "Thunder",
+        "Sonic boom",
+        "Shockwave",
+        "Echo"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large cat species is the largest member of the feline family?",
+      "choices": [
+        "Lion",
+        "Tiger",
+        "Jaguar",
+        "Leopard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process called when water vapor turns into liquid water in the atmosphere?",
+      "choices": [
+        "Evaporation",
+        "Sublimation",
+        "Condensation",
+        "Precipitation"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the sharp, pointed spines covering a porcupine's body?",
+      "choices": [
+        "Spines",
+        "Quills",
+        "Bristles",
+        "Needles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A massive ocean wave caused by underwater earthquakes or volcanic activity is called a what?",
+      "choices": [
+        "Tidal wave",
+        "Tsunami",
+        "Undertow",
+        "Rip current"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of rotating storm system is characterized by low pressure and intense winds?",
+      "choices": [
+        "Tornado",
+        "Hurricane",
+        "Thunderstorm",
+        "Blizzard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What animal is known for its ability to build dams across rivers?",
+      "choices": [
+        "Otter",
+        "Muskrat",
+        "Beaver",
+        "Platypus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When soil and rocks tumble down a hillside due to gravity, what is this event called?",
+      "choices": [
+        "Erosion",
+        "Sedimentation",
+        "Landslide",
+        "Subsidence"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for the colorful light display in the sky caused by charged particles from the sun?",
+      "choices": [
+        "Comet",
+        "Aurora",
+        "Meteor shower",
+        "Solar flare"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is commonly known as a 'scaly anteater' for its distinctive appearance?",
+      "choices": [
+        "Armadillo",
+        "Aardvark",
+        "Pangolin",
+        "Echidna"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a sudden, violent shaking of the Earth's surface?",
+      "choices": [
+        "Aftershock",
+        "Earthquake",
+        "Tremor",
+        "Seismic wave"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What process occurs when sand and silt are gradually deposited in layers by wind or water?",
+      "choices": [
+        "Weathering",
+        "Sedimentation",
+        "Compaction",
+        "Cementation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A peccary is a wild animal that most closely resembles which domesticated farm animal?",
+      "choices": [
+        "Boar",
+        "Pig",
+        "Deer",
+        "Goat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What hot, fast-moving cloud of gas and ash flows down a volcano during an eruption?",
+      "choices": [
+        "Lava flow",
+        "Pyroclastic flow",
+        "Ash column",
+        "Volcanic bomb"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is famous for producing Angora wool used in textiles and clothing?",
+      "choices": [
+        "Goat",
+        "Sheep",
+        "Rabbit",
+        "Alpaca"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process by which a solid transforms directly into a gas without becoming a liquid?",
+      "choices": [
+        "Melting",
+        "Evaporation",
+        "Sublimation",
+        "Deposition"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of jellyfish-like marine creature is known for its transparent, bell-shaped body?",
+      "choices": [
+        "Sea star",
+        "Sea cucumber",
+        "Jellyfish",
+        "Sea urchin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which family of animals does the chinchilla belong to?",
+      "choices": [
+        "Marsupials",
+        "Primates",
+        "Rodents",
+        "Carnivores"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the periodic rise and fall of ocean water levels caused by the moon and sun's gravity?",
+      "choices": [
+        "Ocean currents",
+        "Tides",
+        "Waves",
+        "Undertow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Chilean rose tarantula is a large spider native to which continent?",
+      "choices": [
+        "Africa",
+        "Asia",
+        "South America",
+        "Australia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large bear species is native to the bamboo forests of central China?",
+      "choices": [
+        "Giant Panda",
+        "Polar Bear",
+        "Grizzly Bear",
+        "Sloth Bear"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a group of flamingos?",
+      "choices": [
+        "A flamboyance",
+        "A colony",
+        "A flock",
+        "A congregation"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these animals is known for spraying a foul-smelling liquid as a defense mechanism?",
+      "choices": [
+        "Skunk",
+        "Badger",
+        "Weasel",
+        "Raccoon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of weather phenomenon is characterized by a rotating column of air extending from a thunderstorm to the ground?",
+      "choices": [
+        "Tornado",
+        "Hurricane",
+        "Cyclone",
+        "Typhoon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean is the largest by surface area on Earth?",
+      "choices": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process by which water turns from a liquid into a gas?",
+      "choices": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Precipitation"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these animals is the fastest land animal?",
+      "choices": [
+        "Cheetah",
+        "Greyhound",
+        "Gazelle",
+        "Ostrich"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the thick, greenish-brown liquid secreted by crocodiles and alligators?",
+      "choices": [
+        "Musk",
+        "Bile",
+        "Venom",
+        "Slime"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which continent is home to the majority of the world's rainforests?",
+      "choices": [
+        "South America",
+        "Africa",
+        "Asia",
+        "Australia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do we call a sudden, violent shaking of the Earth's crust?",
+      "choices": [
+        "Earthquake",
+        "Tremor",
+        "Seismic event",
+        "Aftershock"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal lays eggs instead of giving birth to live young?",
+      "choices": [
+        "Platypus",
+        "Echidna",
+        "Koala",
+        "Wombat"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary food source for giant pandas?",
+      "choices": [
+        "Bamboo",
+        "Leaves",
+        "Fruit",
+        "Insects"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these animals can change its skin color to match its surroundings?",
+      "choices": [
+        "Chameleon",
+        "Iguana",
+        "Gecko",
+        "Anole"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes a long period of abnormally low rainfall, leading to a shortage of water?",
+      "choices": [
+        "Drought",
+        "Famine",
+        "Aridity",
+        "Desiccation"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which flowering plant is known for having the largest flower in the world?",
+      "choices": [
+        "Rafflesia",
+        "Sunflower",
+        "Water lily",
+        "Lotus"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which parasitic nematode is responsible for causing river blindness, a disease that affects over 200 million people primarily in Africa and Yemen?",
+      "choices": [
+        "Onchocerca volvulus",
+        "Wuchereria bancrofti",
+        "Loa loa",
+        "Ancylostoma duodenale"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the process by which plants regulate water loss through microscopic pores in their leaves?",
+      "choices": [
+        "Osmosis",
+        "Transpiration",
+        "Photosynthesis",
+        "Diffusion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of weathering occurs when rocks are broken down by freeze-thaw cycles as water enters cracks and expands upon freezing?",
+      "choices": [
+        "Chemical weathering",
+        "Mechanical weathering",
+        "Frost wedging",
+        "Exfoliation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the zone in a lake or ocean where light penetration is insufficient for photosynthesis to occur?",
+      "choices": [
+        "Epipelagic zone",
+        "Bathypelagic zone",
+        "Aphotic zone",
+        "Mesopelagic zone"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which atmospheric phenomenon occurs when temperature increases with altitude, reversing the normal temperature gradient in the troposphere?",
+      "choices": [
+        "Adiabatic heating",
+        "Thermal inversion",
+        "Convection",
+        "Advection"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary mechanism by which mycorrhizal fungi assist plants in nutrient uptake?",
+      "choices": [
+        "Nitrogen fixation in the soil",
+        "Extending root surface area and accessing soil phosphorus",
+        "Breaking down organic matter into humus",
+        "Producing plant growth hormones"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which geological process describes the downward movement of material along a slope due to gravity, without the aid of water or other transport agents?",
+      "choices": [
+        "Erosion",
+        "Mass wasting",
+        "Weathering",
+        "Subsidence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the protein in red blood cells that allows mosquitoes to detect humans by sensing lactic acid in human breath and sweat?",
+      "choices": [
+        "Hemoglobin",
+        "Heat shock protein",
+        "Lactate receptors",
+        "CO2 sensors in antenna"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mycology, what term describes the fungal mycelium's role as a partner in a symbiotic relationship with plant roots?",
+      "choices": [
+        "Saprophyte",
+        "Endophyte",
+        "Mycobiont",
+        "Parasite"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which process in the water cycle involves the direct transformation of ice into water vapor without melting into liquid?",
+      "choices": [
+        "Sublimation",
+        "Evaporation",
+        "Condensation",
+        "Precipitation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the gradual sinking of the Earth's crust due to the weight of sediment or ice sheets?",
+      "choices": [
+        "Isostatic adjustment",
+        "Subsidence",
+        "Compaction",
+        "Lithification"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which genus of bioluminescent beetles displays a flashing pattern that is species-specific and used for mating communication?",
+      "choices": [
+        "Lampyris",
+        "Photinus",
+        "Luciola",
+        "Atlophrorus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ecology, what is the term for the maximum population size that an environment can sustainably support?",
+      "choices": [
+        "Population density",
+        "Carrying capacity",
+        "Biotic potential",
+        "Resource availability"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the plant tissue that conducts sugars produced during photosynthesis throughout the plant?",
+      "choices": [
+        "Xylem",
+        "Phloem",
+        "Cambium",
+        "Epidermis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mineral deficiency in soil most frequently requires treatment in agriculture to prevent chlorosis in plants?",
+      "choices": [
+        "Potassium deficiency",
+        "Iron deficiency",
+        "Calcium deficiency",
+        "Magnesium deficiency"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the geological term for a large depression or basin formed by the collapse of the roof of an underground cavern?",
+      "choices": [
+        "Stalactite formation",
+        "Karst topography",
+        "Sinkhole",
+        "Doline"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which aquatic organism produces a neurotoxin called tetrodotoxin, which is found in pufferfish and certain marine mollusks?",
+      "choices": [
+        "Vibrio bacteria",
+        "Dinoflagellates",
+        "Box jellyfish",
+        "Blue-ringed octopus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In biogeography, what is the name of the boundary that separates the fauna of Southeast Asia from that of Australia, first identified by Alfred Russel Wallace?",
+      "choices": [
+        "Wallace's Line",
+        "Equatorial Divide",
+        "Transitional Zone",
+        "Palearctic Boundary"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the adaptive coloration in which an organism matches the appearance of a different, more dangerous species to avoid predation?",
+      "choices": [
+        "Camouflage",
+        "Batesian mimicry",
+        "Müllerian mimicry",
+        "Disruptive coloration"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which soil order is characterized by the presence of an iron and aluminum oxide-rich layer called laterite, typically found in tropical regions?",
+      "choices": [
+        "Oxisol",
+        "Ultisol",
+        "Vertisol",
+        "Mollisol"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which process describes the gradual wearing away of rock surfaces through the mechanical action of wind, water, or ice particles?",
+      "choices": [
+        "Weathering",
+        "Erosion",
+        "Abrasion",
+        "Sedimentation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mariana Trench, the deepest oceanic location on Earth, reaches approximately how many meters below sea level?",
+      "choices": [
+        "7,000 meters",
+        "9,000 meters",
+        "11,000 meters",
+        "13,000 meters"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which carnivorous mammal possesses a specialized rumen with four chambers, allowing it to digest plant matter more efficiently than other predators?",
+      "choices": [
+        "Hyena",
+        "African Wild Dog",
+        "No such mammal exists",
+        "Cheetah"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phenomenon in which a solid transforms directly into a gas without passing through a liquid phase is primarily responsible for the disappearance of which frozen compound in high-altitude, dry environments?",
+      "choices": [
+        "Sea ice",
+        "Permafrost",
+        "Snow and ice",
+        "Glacial melt"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which species of bear has the smallest average body mass among all extant bear species?",
+      "choices": [
+        "Sun bear",
+        "Sloth bear",
+        "Spectacled bear",
+        "Asiatic black bear"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Coriolis effect, which influences large-scale atmospheric and oceanic movements, is caused by the rotation of which celestial body?",
+      "choices": [
+        "The Moon",
+        "The Sun",
+        "Earth",
+        "Solar wind patterns"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which deep-sea fish produces bioluminescence through specialized light organs called photophores, often found in the mesopelagic zone?",
+      "choices": [
+        "Anglerfish",
+        "Lanternfish",
+        "Gulper eel",
+        "Barreleye fish"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Barrier Reef is primarily composed of which type of colonial marine organism?",
+      "choices": [
+        "Sponges",
+        "Corals",
+        "Mollusks",
+        "Echinoderms"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which volcanic phenomenon, characterized by the rapid expansion of superheated water into steam, occurs in specific geyser systems and is responsible for periodic eruptions?",
+      "choices": [
+        "Phreatic eruption",
+        "Strombolian eruption",
+        "Geyser eruption",
+        "Plinian eruption"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The term 'halophyte' refers to plants that have adapted to survive in environments with high concentrations of which compound?",
+      "choices": [
+        "Sulfuric acid",
+        "Sodium chloride",
+        "Nitrates",
+        "Phosphates"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which layer of Earth's atmosphere contains the ozone layer and experiences temperature increases with altitude?",
+      "choices": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pompeii worm, discovered in deep-sea hydrothermal vent ecosystems, can withstand temperatures up to approximately how many degrees Celsius?",
+      "choices": [
+        "40 degrees Celsius",
+        "60 degrees Celsius",
+        "80 degrees Celsius",
+        "120 degrees Celsius"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which process describes the movement of water through soil and rock layers, eventually reaching groundwater aquifers?",
+      "choices": [
+        "Percolation",
+        "Evapotranspiration",
+        "Runoff",
+        "Infiltration"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Atacama Desert, one of the driest locations on Earth, receives an average annual precipitation of less than how many millimeters?",
+      "choices": [
+        "50 millimeters",
+        "25 millimeters",
+        "10 millimeters",
+        "100 millimeters"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which bioluminescent phenomenon, occurring in certain marine organisms, creates a glowing effect in ocean water and is caused by the disruption of dinoflagellates?",
+      "choices": [
+        "Aurora borealis",
+        "Bioluminescent plankton bloom",
+        "Chemiluminescence",
+        "Fluorescence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The process by which water vapor transforms directly into ice crystals in clouds, bypassing the liquid phase, is called which of the following?",
+      "choices": [
+        "Condensation",
+        "Deposition",
+        "Sublimation",
+        "Freezing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which insect order includes species that undergo incomplete metamorphosis, lacking a distinct pupal stage?",
+      "choices": [
+        "Lepidoptera",
+        "Hemiptera",
+        "Coleoptera",
+        "Diptera"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phenomenon in which certain animals reduce their metabolic rate and enter a dormant state during winter months is specifically termed which of the following?",
+      "choices": [
+        "Torpor",
+        "Hibernation",
+        "Estivation",
+        "Brumation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of plate boundary is characterized by the collision of two continental crustal plates, resulting in mountain formation and increased seismic activity?",
+      "choices": [
+        "Divergent boundary",
+        "Transform boundary",
+        "Convergent boundary",
+        "Subduction boundary"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Amazon Rainforest produces approximately what percentage of the world's oxygen through photosynthesis?",
+      "choices": [
+        "6 percent",
+        "20 percent",
+        "9 percent",
+        "15 percent"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which process describes the mechanical wearing and smoothing of rock surfaces through friction and collision with other sediment particles?",
+      "choices": [
+        "Abrasion",
+        "Weathering",
+        "Erosion",
+        "Diagenesis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "A pyroclastic flow from a volcano travels at speeds exceeding what minimum velocity in kilometers per hour?",
+      "choices": [
+        "50 km/h",
+        "100 km/h",
+        "200 km/h",
+        "400 km/h"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scale measures the energy released by an earthquake using seismic wave amplitudes recorded on a Wood-Anderson seismograph?",
+      "choices": [
+        "Richter scale",
+        "Mercalli scale",
+        "Moment magnitude scale",
+        "Beaufort scale"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary greenhouse gas responsible for approximately 75% of radiative forcing in Earth's atmosphere?",
+      "choices": [
+        "Methane",
+        "Carbon dioxide",
+        "Nitrous oxide",
+        "Ozone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Saffir-Simpson scale classifies tropical cyclones by sustained wind speeds, with Category 5 requiring winds exceeding what threshold?",
+      "choices": [
+        "157 mph",
+        "177 mph",
+        "197 mph",
+        "217 mph"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many extant species of rhinoceros are recognized by modern taxonomy?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which structural feature of the Earth lies directly beneath the crust and is characterized by convective motion driven by radioactive decay?",
+      "choices": [
+        "Lithosphere",
+        "Asthenosphere",
+        "Mantle",
+        "Outer core"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term describes the sudden, catastrophic collapse of a cave ceiling or underground cavity, creating a depression at the surface?",
+      "choices": [
+        "Subsidence",
+        "Sinkhole",
+        "Suffusion",
+        "Piping"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The blue poison dart frog, native to Central and South America, derives its toxicity primarily from which alkaloid compound?",
+      "choices": [
+        "Strychnine",
+        "Pumiliotoxin",
+        "Batrachotoxin",
+        "Tetrodotoxin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which phenomenon occurs when a large body of water is suddenly displaced, typically by underwater earthquakes or landslides, creating destructive waves?",
+      "choices": [
+        "Storm surge",
+        "Tsunami",
+        "Tidal bore",
+        "Seiche"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Meerkats, social carnivores known for sentinel behavior, are endemic to which African subregion?",
+      "choices": [
+        "East Africa",
+        "North Africa",
+        "Southern Africa",
+        "West Africa"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which biome is characterized by permafrost, sparse vegetation, and continuous daylight during summer months?",
+      "choices": [
+        "Taiga",
+        "Tundra",
+        "Steppe",
+        "Chaparral"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The beaver's dam-building behavior primarily serves which ecological function?",
+      "choices": [
+        "Territorial marking",
+        "Food storage",
+        "Water level management and habitat creation",
+        "Predator defense"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which geological epoch, spanning approximately 2.6 million to 11,700 years ago, was characterized by multiple glacial and interglacial cycles?",
+      "choices": [
+        "Pliocene",
+        "Pleistocene",
+        "Holocene",
+        "Miocene"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The process by which ocean water rises and falls in response to gravitational forces from the moon and sun is regulated by which primary mechanism?",
+      "choices": [
+        "Earth's rotation",
+        "Lunar and solar tidal forces",
+        "Atmospheric pressure",
+        "Continental shelf bathymetry"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which biotic index organism is commonly used to assess stream water quality and oxygen levels in freshwater ecosystems?",
+      "choices": [
+        "Mayfly nymphs",
+        "Tubifex worms",
+        "Dragonfly larvae",
+        "Caddisfly pupae"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Koppen climate classification system categorizes climates using which two primary variables?",
+      "choices": [
+        "Elevation and latitude",
+        "Temperature and precipitation",
+        "Humidity and wind speed",
+        "Solar radiation and albedo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which process describes the gradual transformation of plant matter into coal over millions of years through heat and pressure?",
+      "choices": [
+        "Fossilization",
+        "Carbonization",
+        "Mineralization",
+        "Lithification"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Barrier Reef, the world's largest coral reef system, is composed primarily of which type of coral?",
+      "choices": [
+        "Soft coral",
+        "Scleractinian coral",
+        "Gorgonian coral",
+        "Black coral"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which extremophile organism, capable of surviving extreme pH, temperature, and radiation, belongs to the archaeal domain?",
+      "choices": [
+        "Thermophilic bacteria",
+        "Halophilic archaea",
+        "Photosynthetic cyanobacteria",
+        "Chemosynthetic proteobacteria"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which bioluminescent deep-sea squid species is known for its ability to produce counterillumination to avoid predators from below?",
+      "choices": [
+        "Humboldt squid",
+        "Dana octopus squid",
+        "Atolla wyvillei",
+        "Giant squid"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary mechanism by which pitcher plants digest their prey without producing their own digestive enzymes?",
+      "choices": [
+        "Osmotic pressure from concentrated acids",
+        "Bacteria and enzymes from trapped insects",
+        "Mechanical breakdown through leaf movement",
+        "Photosynthetic byproducts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Arctic fox adaptation allows it to maintain body heat in extreme cold by reducing surface area exposure?",
+      "choices": [
+        "Increased metabolic rate",
+        "Counter-current heat exchange in limbs",
+        "Thick blubber layer like seals",
+        "Hibernation during winter months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mycology, what is the term for the network of fungal filaments that forms the vegetative body of a fungus?",
+      "choices": [
+        "Fruiting body",
+        "Mycelium",
+        "Sporangium",
+        "Hyphae bundle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which migratory bird species completes the longest animal migration by distance, traveling roughly 44,000 miles annually?",
+      "choices": [
+        "Bar-tailed godwit",
+        "Arctic tern",
+        "Swainson's hawk",
+        "Blackpoll warbler"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the scientific name for the phenomenon where plant leaves orient themselves perpendicular to direct sunlight to maximize photosynthetic efficiency?",
+      "choices": [
+        "Phototropism",
+        "Diaheliotropism",
+        "Heliotropism",
+        "Geotropism"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which deep-sea fish species exhibits extreme sexual dimorphism where males permanently fuse to females and lose their eyes?",
+      "choices": [
+        "Anglerfish (Cryptopsaras)",
+        "Viperfish",
+        "Gulper eel",
+        "Lanternfish"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In soil science, what is the name of the uppermost organic-rich soil layer composed primarily of decomposed plant material?",
+      "choices": [
+        "B horizon",
+        "O horizon",
+        "A horizon",
+        "C horizon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which carnivorous plant genus traps insects through the rapid closure of a hinged trap triggered by sensitive trigger hairs?",
+      "choices": [
+        "Nepenthes",
+        "Dionaea",
+        "Sarracenia",
+        "Drosera"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What biochemical compound do fireflies use in their bioluminescent reactions, which also occurs in deep-sea organisms?",
+      "choices": [
+        "Chlorophyll",
+        "Luciferin",
+        "Melanin",
+        "Carotenoid"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which geological epoch, lasting approximately 2.6 million years, is characterized by repeated glacial and interglacial cycles?",
+      "choices": [
+        "Pliocene",
+        "Pleistocene",
+        "Holocene",
+        "Miocene"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the vertical movement of water in soil caused by capillary forces against gravity?",
+      "choices": [
+        "Infiltration",
+        "Percolation",
+        "Capillary rise",
+        "Transpiration"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which primate species exhibits a unique form of aquatic locomotion by wading bipedally through water, primarily found in West African wetlands?",
+      "choices": [
+        "Bonobo",
+        "Chimpanzee",
+        "Orangutan",
+        "Gorilla"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In entomology, what is the specialized sensory organ found on insect antennae that detects chemical signals?",
+      "choices": [
+        "Ommatidium",
+        "Sensillum",
+        "Trichobothrium",
+        "Setae"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which endemic reptile species from New Zealand has remained virtually unchanged for over 200 million years and is sometimes called a 'living fossil'?",
+      "choices": [
+        "Tuatara",
+        "Kiwi",
+        "Leatherback turtle",
+        "Komodo dragon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the continuous flow of water vapor released by plants through their leaves into the atmosphere?",
+      "choices": [
+        "Condensation",
+        "Evaporation",
+        "Transpiration",
+        "Sublimation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which large flightless bird native to Australia is known for its powerful hind legs and is capable of delivering a formidable kick?",
+      "choices": [
+        "Emu",
+        "Ostrich",
+        "Cassowary",
+        "Rhea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary structural material that forms the exoskeleton of insects and crustaceans?",
+      "choices": [
+        "Keratin",
+        "Chitin",
+        "Collagen",
+        "Cellulose"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tree species is the tallest living organism on Earth?",
+      "choices": [
+        "Douglas Fir",
+        "Coast Redwood",
+        "Giant Sequoia",
+        "Sitka Spruce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which layer of Earth's atmosphere do most weather phenomena and clouds occur?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes an animal that is active primarily during twilight hours, at dawn and dusk?",
+      "choices": [
+        "Nocturnal",
+        "Diurnal",
+        "Crepuscular",
+        "Hibernating"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these ecosystems experiences the least amount of annual precipitation?",
+      "choices": [
+        "Taiga",
+        "Savanna",
+        "Desert",
+        "Temperate Grassland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the process by which plants convert light energy into chemical energy stored in glucose?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mammal is the only species capable of sustained powered flight?",
+      "choices": [
+        "Flying Squirrel",
+        "Flying Lemur",
+        "Bat",
+        "Flying Fish"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the muscular organ fish use to move water across their gills for respiration?",
+      "choices": [
+        "Operculum",
+        "Pharynx",
+        "Esophagus",
+        "Uvea"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cold-blooded vertebrate group includes snakes, lizards, and turtles?",
+      "choices": [
+        "Amphibians",
+        "Reptiles",
+        "Arachnids",
+        "Mollusks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What phenomenon occurs when water changes directly from a solid to a gas without passing through a liquid state?",
+      "choices": [
+        "Evaporation",
+        "Sublimation",
+        "Condensation",
+        "Deposition"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which biome is characterized by permafrost and low-growing vegetation adapted to extreme cold?",
+      "choices": [
+        "Tundra",
+        "Boreal Forest",
+        "Arctic Ocean",
+        "Alpine Meadow"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the maximum population size that an environment can sustainably support?",
+      "choices": [
+        "Biotic Potential",
+        "Carrying Capacity",
+        "Population Density",
+        "Resource Limit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of animal reproduces by laying eggs and has scales covering its body?",
+      "choices": [
+        "Amphibian",
+        "Mammal",
+        "Reptile",
+        "Fish"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the colorful, light-sensitive membrane at the back of the eye responsible for vision?",
+      "choices": [
+        "Cornea",
+        "Lens",
+        "Retina",
+        "Sclera"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary food source for baleen whales, consisting of tiny marine organisms?",
+      "choices": [
+        "Fish eggs",
+        "Krill",
+        "Coral polyps",
+        "Sea grasses"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which adaptation do cacti possess that reduces water loss in desert environments?",
+      "choices": [
+        "Broad leaves",
+        "Spines instead of leaves",
+        "Shallow roots",
+        "Thin bark"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the relationship between two organisms where one benefits and the other is harmed?",
+      "choices": [
+        "Mutualism",
+        "Parasitism",
+        "Commensalism",
+        "Competition"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of animal has a three-chambered heart and can breathe through its skin?",
+      "choices": [
+        "Reptile",
+        "Amphibian",
+        "Fish",
+        "Mammal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which flightless bird species is native to the Southern Hemisphere and is known for its distinctive tuxedo-like plumage?",
+      "choices": [
+        "Penguin",
+        "Ostrich",
+        "Emu",
+        "Kiwi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which process describes the conversion of water into water vapor due to heat?",
+      "choices": [
+        "Condensation",
+        "Evaporation",
+        "Sublimation",
+        "Precipitation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of animal is a platypus—one of the few mammals that lays eggs?",
+      "choices": [
+        "Marsupial",
+        "Monotreme",
+        "Placental mammal",
+        "Amphibian"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which layer of the Earth's atmosphere is closest to the surface and contains most weather systems?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary gas that plants use during photosynthesis?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Argon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which desert is the largest hot desert in the world by area?",
+      "choices": [
+        "Arabian Desert",
+        "Sahara Desert",
+        "Gobi Desert",
+        "Mojave Desert"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the supercontinent that existed approximately 200 million years ago?",
+      "choices": [
+        "Laurasia",
+        "Pangaea",
+        "Gondwana",
+        "Eurasia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of rock is formed from the cooling and solidification of molten lava?",
+      "choices": [
+        "Sedimentary rock",
+        "Metamorphic rock",
+        "Igneous rock",
+        "Crystalline rock"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary food source for a herbivorous animal such as a zebra?",
+      "choices": [
+        "Insects",
+        "Meat",
+        "Plants and grasses",
+        "Fish"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which biome is characterized by extremely low temperatures, permafrost, and sparse vegetation?",
+      "choices": [
+        "Taiga",
+        "Tundra",
+        "Desert",
+        "Savanna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the process by which plants release water vapor through their leaves?",
+      "choices": [
+        "Transpiration",
+        "Evaporation",
+        "Respiration",
+        "Photosynthesis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain range is home to Mount Everest, the tallest peak on Earth?",
+      "choices": [
+        "Rocky Mountains",
+        "Andes",
+        "Himalayas",
+        "Alps"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of volcanic eruption is characterized by highly viscous lava and explosive activity?",
+      "choices": [
+        "Effusive eruption",
+        "Strombolian eruption",
+        "Plinian eruption",
+        "Hawaiian eruption"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animal produces silk thread from specialized glands as part of its life cycle?",
+      "choices": [
+        "Spider",
+        "Silkworm moth",
+        "Ant",
+        "Bee"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the deepest ocean trench in the world?",
+      "choices": [
+        "Java Trench",
+        "Tonga Trench",
+        "Mariana Trench",
+        "Philippine Trench"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which process involves the breaking down of rock through physical or chemical means?",
+      "choices": [
+        "Erosion",
+        "Weathering",
+        "Sedimentation",
+        "Fossilization"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary purpose of a bird's migration?",
+      "choices": [
+        "To build new nests",
+        "To seek better food sources and breeding grounds",
+        "To escape predators permanently",
+        "To establish new territories"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the protective outer layer of skin found on most reptiles?",
+      "choices": [
+        "Fur",
+        "Feathers",
+        "Scales",
+        "Dermis"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which large African mammal is hunted primarily for its horn, which is used in traditional medicine despite being composed mainly of keratin?",
+      "choices": [
+        "Rhinoceros",
+        "Hippopotamus",
+        "African Buffalo",
+        "Wildebeest"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary dietary classification of an animal that exclusively feeds on nectar and pollen from flowers?",
+      "choices": [
+        "Nectarivore",
+        "Granivore",
+        "Folivore",
+        "Insectivore"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which mountain range would you find the natural habitat of the giant panda in its native state?",
+      "choices": [
+        "Himalayan Mountains",
+        "Andes Mountains",
+        "Rocky Mountains",
+        "Alps"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What geological process describes the gradual wearing away of rock surfaces by wind, water, or ice over time?",
+      "choices": [
+        "Erosion",
+        "Sedimentation",
+        "Crystallization",
+        "Oxidation"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which marine invertebrate belongs to the class Anthozoa and forms the foundation of tropical reef ecosystems?",
+      "choices": [
+        "Coral",
+        "Starfish",
+        "Sea Urchin",
+        "Crab"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the layer of Earth's atmosphere where weather phenomena such as rain and thunderstorms occur?",
+      "choices": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which flowering plant is the largest species of water lily and is native to the Amazon Basin?",
+      "choices": [
+        "Victoria amazonica",
+        "Nelumbo nucifera",
+        "Nymphaea alba",
+        "Euryale ferox"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes a biome characterized by permafrost, low precipitation, and sparse vegetation, found primarily in Arctic regions?",
+      "choices": [
+        "Tundra",
+        "Taiga",
+        "Steppe",
+        "Savanna"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bioluminescent organism produces light through a chemical reaction involving the compound luciferin?",
+      "choices": [
+        "Firefly",
+        "Anglerfish",
+        "Dinoflagellate",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the process by which plants convert sunlight, water, and carbon dioxide into glucose and oxygen?",
+      "choices": [
+        "Photosynthesis",
+        "Respiration",
+        "Fermentation",
+        "Transpiration"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which deep-sea fish species is known for having a bioluminescent lure dangling from its head to attract prey?",
+      "choices": [
+        "Anglerfish",
+        "Lanternfish",
+        "Viperfish",
+        "Gulper Eel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary source of energy for ecosystems in deep-sea hydrothermal vent communities?",
+      "choices": [
+        "Chemosynthesis from minerals",
+        "Photosynthesis from sunlight",
+        "Decomposition of organic matter",
+        "Thermal energy from the Earth"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which migratory bird species travels the longest distance annually, moving between Arctic and Antarctic regions?",
+      "choices": [
+        "Arctic Tern",
+        "Bar-tailed Godwit",
+        "Grey Whale",
+        "Monarch Butterfly"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the symbiotic relationship between fungi and plant roots that facilitates nutrient exchange?",
+      "choices": [
+        "Mycorrhiza",
+        "Rhizobia",
+        "Endosperm",
+        "Xylem"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of volcanic eruption is characterized by highly viscous lava and explosive release of gases and ash?",
+      "choices": [
+        "Plinian",
+        "Hawaiian",
+        "Strombolian",
+        "Effusive"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the gradual increase in Earth's average temperature due to increased atmospheric greenhouse gases?",
+      "choices": [
+        "Global warming",
+        "Climate variability",
+        "Solar variation",
+        "Atmospheric pressure change"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which membrane structure in plant cells is responsible for controlling water osmosis and maintaining turgor pressure?",
+      "choices": [
+        "Vacuole",
+        "Chloroplast",
+        "Mitochondrion",
+        "Ribosome"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What geological formation results when an underground cavern's ceiling collapses, creating a depression or hole in the ground surface?",
+      "choices": [
+        "Sinkhole",
+        "Crater",
+        "Canyon",
+        "Gorge"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which adaptations allow desert plants like cacti to minimize water loss in arid environments?",
+      "choices": [
+        "Reduced leaf surface area and waxy cuticles",
+        "Increased leaf surface area and thin cuticles",
+        "Multiple stomata on leaf surfaces",
+        "Absence of root systems"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the boundary zone where two tectonic plates meet and interact?",
+      "choices": [
+        "Plate boundary",
+        "Asthenosphere",
+        "Lithosphere",
+        "Mantle convection zone"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which process describes water vapor turning into liquid droplets on a cool surface, such as morning dew on grass?",
+      "choices": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Precipitation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the scientific term for an animal that primarily feeds on fruit?",
+      "choices": [
+        "Herbivore",
+        "Frugivore",
+        "Granivore",
+        "Follivore"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which aquatic mammal is renowned for constructing dams and lodges in freshwater environments?",
+      "choices": [
+        "Otter",
+        "Beaver",
+        "Muskrat",
+        "Platypus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the plural form of octopus that is commonly used in English?",
+      "choices": [
+        "Octopuses",
+        "Octopi",
+        "Octopodes",
+        "Octopus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A collared peccary belongs to which family of hoofed mammals?",
+      "choices": [
+        "Suidae",
+        "Cervidae",
+        "Tayassuidae",
+        "Bovidae"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During what tidal condition does the ocean recede and expose the seafloor near the shore?",
+      "choices": [
+        "High tide",
+        "Neap tide",
+        "Low tide",
+        "Spring tide"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many meters long can the jaws of a male saltwater crocodile extend?",
+      "choices": [
+        "3 meters",
+        "5 meters",
+        "7 meters",
+        "9 meters"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which process occurs when a solid transforms directly into a gas without becoming a liquid?",
+      "choices": [
+        "Melting",
+        "Evaporation",
+        "Sublimation",
+        "Deposition"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the common name for a baby shark?",
+      "choices": [
+        "Cub",
+        "Pup",
+        "Fry",
+        "Kit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which colorful tree-dwelling rodent constructs a nest known as a drey?",
+      "choices": [
+        "Chipmunk",
+        "Squirrel",
+        "Groundhog",
+        "Porcupine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of weather phenomenon is characterized by a rotating column of air, strong winds, and a low-pressure center?",
+      "choices": [
+        "Tornado",
+        "Blizzard",
+        "Hurricane",
+        "Thunderstorm"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which geometric geological event occurs when tectonic plates suddenly shift, causing the ground to shake?",
+      "choices": [
+        "Avalanche",
+        "Earthquake",
+        "Landslide",
+        "Tsunami"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the electrical discharge that occurs during a thunderstorm, producing a bright flash of light?",
+      "choices": [
+        "Thunder",
+        "Lightning",
+        "Static electricity",
+        "Plasma"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which small, brightly colored amphibian found in Central and South America secretes toxic alkaloids through its skin?",
+      "choices": [
+        "Blue poison dart frog",
+        "Red tree frog",
+        "Glass frog",
+        "Golden mantella"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the study and practice of raising birds in captivity called?",
+      "choices": [
+        "Ornithology",
+        "Aviculture",
+        "Falconry",
+        "Herpetology"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which large tarantula species, native to South America, is known for its distinctive body hairs and docile temperament?",
+      "choices": [
+        "Brazilian wandering spider",
+        "Chilean rose tarantula",
+        "Sydney funnel-web spider",
+        "Goliath birdeater"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What geological process involves the gradual wearing away of rock surfaces due to friction and contact with sediment?",
+      "choices": [
+        "Weathering",
+        "Erosion",
+        "Abrasion",
+        "Dissolution"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

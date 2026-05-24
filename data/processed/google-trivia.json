@@ -1,269 +1,1184 @@
 {
   "slug": "google-trivia",
   "name": "Google",
-  "description": "Search, Android, YouTube, Chrome — the company that became a verb.",
-  "processedAt": "2026-05-08T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.562Z",
   "questions": [
     {
-      "q": "Who co-founded Google in 1998?",
+      "q": "Who founded Google?",
       "choices": [
         "Larry Page and Sergey Brin",
         "Bill Gates and Paul Allen",
         "Steve Jobs and Steve Wozniak",
-        "Mark Zuckerberg and Eduardo Saverin"
+        "Jeff Bezos and Jeff Wilke"
       ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Larry Page and Sergey Brin",
-        "verified": true,
-        "notes": "Founded September 4, 1998."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What university were Page and Brin attending when they began Google?",
-      "choices": ["Stanford", "Berkeley", "MIT", "Harvard"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Stanford University",
-        "verified": true,
-        "notes": "PhD students at Stanford."
-      }
-    },
-    {
-      "q": "What was Google's original name as a research project?",
-      "choices": ["BackRub", "PageNet", "GoogolPlex", "WebCrawler"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Backrub",
-        "verified": true,
-        "notes": "Named after analyzing the web's 'back links.'"
-      }
-    },
-    {
-      "q": "What math term inspired the name 'Google'?",
+      "q": "In what year was Google founded?",
       "choices": [
-        "Googol (10^100)",
-        "Googolplex",
-        "Infinity",
-        "Pi"
+        "1995",
+        "1996",
+        "1998",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At which university did Page and Brin meet while working on their search algorithm?",
+      "choices": [
+        "MIT",
+        "Harvard",
+        "Stanford",
+        "UC Berkeley"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the original name of Google's search engine?",
+      "choices": [
+        "GoSearch",
+        "WebCrawler",
+        "BackRub",
+        "SearchEngine"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Google's web browser, released in 2008?",
+      "choices": [
+        "Google Chrome",
+        "Google Edge",
+        "Google Surfer",
+        "Google Navigator"
       ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "Misspelling of 'googol' — the number 1 followed by 100 zeros."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What name is Google's headquarters known by?",
-      "choices": ["Googleplex", "Google Hub", "Mountain HQ", "Google Tower"],
+      "q": "Which Google mobile operating system powers most of the world's smartphones?",
+      "choices": [
+        "iOS",
+        "Windows Phone",
+        "Android",
+        "WebOS"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What email service, launched on April 1, 2004, did Google release?",
+      "choices": [
+        "Outlook",
+        "Gmail",
+        "Hotmail",
+        "Gchat"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Google's headquarters campus?",
+      "choices": [
+        "The Googleplex",
+        "Google Central",
+        "Chrome Campus",
+        "Search Park"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "The Googleplex",
-        "verified": true,
-        "notes": "Located in Mountain View, CA."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What's Google's mobile operating system, used on Samsung, Pixel, etc.?",
-      "choices": ["Android", "iOS", "Symbian", "Tizen"],
+      "q": "Which university did Larry Page and Sergey Brin attend when they created Google?",
+      "choices": [
+        "MIT",
+        "Harvard University",
+        "Stanford University",
+        "University of California, Berkeley"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the algorithm that Larry Page and Sergey Brin developed to revolutionize web search?",
+      "choices": [
+        "SearchRank",
+        "PageRank",
+        "WebRank",
+        "LinkRank"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Google go public with its initial public offering?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Google's web browser called?",
+      "choices": [
+        "Firefox",
+        "Safari",
+        "Chrome",
+        "Edge"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Google acquire YouTube?",
+      "choices": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Google's email service that launched in 2004?",
+      "choices": [
+        "GoogleMail",
+        "Gmail",
+        "Google Email",
+        "Inbox"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where was Sergey Brin, one of Google's founders, born?",
+      "choices": [
+        "St. Petersburg",
+        "Moscow",
+        "Kyiv",
+        "Minsk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Google's philanthropic arm called?",
+      "choices": [
+        "Google Charity",
+        "Google.org",
+        "Google Foundation",
+        "Google Help"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Indian city is Google's largest office in Asia located?",
+      "choices": [
+        "Mumbai",
+        "New Delhi",
+        "Bangalore",
+        "Hyderabad"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who served as Google's CEO from 2001 to 2011?",
+      "choices": [
+        "Larry Page",
+        "Sergey Brin",
+        "Eric Schmidt",
+        "Sundar Pichai"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Google's venture capital seed fund?",
+      "choices": [
+        "Google Ventures",
+        "Google Launchpad",
+        "Google Growth",
+        "Google Catalyst"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where was Larry Page born?",
+      "choices": [
+        "Ann Arbor",
+        "East Lansing",
+        "Detroit",
+        "Flint"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city in Canada hosts Google's main office in the country?",
+      "choices": [
+        "Vancouver",
+        "Montreal",
+        "Toronto",
+        "Calgary"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What university did Larry Page attend for his undergraduate studies?",
+      "choices": [
+        "Stanford University",
+        "University of Michigan",
+        "Harvard University",
+        "MIT"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which European city is Google's largest office outside the United States located?",
+      "choices": [
+        "London",
+        "Berlin",
+        "Dublin",
+        "Amsterdam"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the first product Google released to the public?",
+      "choices": [
+        "Gmail",
+        "Google Search",
+        "Google Chrome",
+        "YouTube"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was Sergey Brin born?",
+      "choices": [
+        "August 21, 1972",
+        "August 21, 1973",
+        "July 10, 1973",
+        "September 15, 1972"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where was Sundar Pichai, a prominent Google executive, born?",
+      "choices": [
+        "New Delhi, India",
+        "Chennai, India",
+        "Bangalore, India",
+        "Mumbai, India"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Google founded by Larry Page and Sergey Brin?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Google's headquarters campus located in Mountain View, California?",
+      "choices": [
+        "Google Plaza",
+        "The Googleplex",
+        "Google Center",
+        "Silicon Valley Hub"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which web browser was developed and first released by Google in 2008?",
+      "choices": [
+        "Google Firefox",
+        "Google Explorer",
+        "Google Chrome",
+        "Google Navigator"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Google acquire the video-sharing platform YouTube?",
+      "choices": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Google's free email service called?",
+      "choices": [
+        "Google Mail Plus",
+        "Gmail",
+        "Google Inbox",
+        "Google Messages"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the algorithm developed by Larry Page and Sergey Brin that became fundamental to Google's search engine?",
+      "choices": [
+        "SearchRank",
+        "PageRank",
+        "WebRank",
+        "InfoRank"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many languages does Google Translate support?",
+      "choices": [
+        "Approximately 50",
+        "Approximately 75",
+        "Over 100",
+        "Over 150"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who became the CEO of Google in 2015 and continues to serve in that role as of recent years?",
+      "choices": [
+        "Eric Schmidt",
+        "Sundar Pichai",
+        "Satya Nadella",
+        "Tim Cook"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which university did Larry Page and Sergey Brin attend when they first developed Google?",
+      "choices": [
+        "MIT",
+        "Stanford University",
+        "University of California Berkeley",
+        "Carnegie Mellon University"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what city was Sergey Brin born?",
+      "choices": [
+        "Leningrad",
+        "Moscow",
+        "Saint Petersburg",
+        "Kiev"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Google launch its Chromebook laptops powered by Chrome OS?",
+      "choices": [
+        "2007",
+        "2009",
+        "2011",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Google's AI assistant, unveiled in 2016, is named what?",
+      "choices": [
+        "Google Now",
+        "Google Assistant",
+        "Google Siri",
+        "Google Agent"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Google's DeepMind AI unit became famous in 2016 for creating which game-playing AI?",
+      "choices": [
+        "Watson",
+        "DeepChess",
+        "AlphaGo",
+        "GPT-3"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Google's line of flagship Android phones, first released in 2016, is called what?",
+      "choices": [
+        "Nexus",
+        "Pixel",
+        "Galaxy",
+        "Android One"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google's parent company Alphabet Inc. complete its restructuring, placing Google as a subsidiary under the holding company?",
+      "choices": [
+        "2013",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the search engine algorithm that Larry Page developed before founding Google?",
+      "choices": [
+        "WebRank",
+        "Backrub",
+        "PageNet",
+        "RankWeb"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Google acquire DeepMind Technologies, the artificial intelligence research company?",
+      "choices": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Google's quantum computing initiative that was publicly announced in 2019?",
+      "choices": [
+        "Quantum Leap",
+        "Sycamore",
+        "Supremacy Engine",
+        "Qubit Initiative"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How much did Google pay to acquire the smart home company Nest Labs in 2014?",
+      "choices": [
+        "1.2 billion dollars",
+        "2.4 billion dollars",
+        "3.2 billion dollars",
+        "4.8 billion dollars"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was Sergey Brin's role at Google before becoming President?",
+      "choices": [
+        "Chief Financial Officer",
+        "Chief Technology Officer",
+        "Vice President of Engineering",
+        "Director of Research"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google launch Google Glass, its augmented reality wearable device?",
+      "choices": [
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Stanford University professor supervised Larry Page and Sergey Brin's doctoral research that led to the development of Google?",
+      "choices": [
+        "Terry Winograd",
+        "Andrew Ng",
+        "Fei-Fei Li",
+        "Geoffrey Hinton"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Android",
-        "verified": true,
-        "notes": "Acquired Android Inc. in 2005."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What's Google's web browser called?",
-      "choices": ["Chrome", "Edge", "Safari", "Firefox"],
+      "q": "What was the acquisition price of Motorola Mobility by Google in 2011, making it Google's largest acquisition at that time?",
+      "choices": [
+        "6.4 billion dollars",
+        "9.25 billion dollars",
+        "12.5 billion dollars",
+        "15.3 billion dollars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google introduce its cloud storage service Google Drive?",
+      "choices": [
+        "2010",
+        "2012",
+        "2014",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What machine learning framework did Google open-source in 2015, which became widely adopted in the AI community?",
+      "choices": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras",
+        "Theano"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which country does Google operate its largest data center outside the United States, completed in 2012?",
+      "choices": [
+        "Ireland",
+        "Finland",
+        "Belgium",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Google's AI assistant that was first released on Google Home devices in 2016?",
+      "choices": [
+        "Google Now",
+        "Google Assistant",
+        "Google Voice",
+        "Google Mind"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "For approximately how much did Google acquire Waze, the GPS navigation application, in 2013?",
+      "choices": [
+        "500 million dollars",
+        "966 million dollars",
+        "1.3 billion dollars",
+        "1.9 billion dollars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Google's modular smartphone project that was developed by the Advanced Technology and Projects division?",
+      "choices": [
+        "Ara",
+        "Tango",
+        "Daydream",
+        "Loon"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Chrome",
-        "verified": true,
-        "notes": "Released September 2, 2008."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What year did Google buy YouTube?",
-      "choices": ["2006", "2008", "2004", "2010"],
+      "q": "In what year did Google formally announce it was leaving the mainland Chinese market due to censorship concerns?",
+      "choices": [
+        "2008",
+        "2010",
+        "2012",
+        "2014"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Google's social networking platform launched in 2011 that was eventually shut down in 2019?",
+      "choices": [
+        "Google Wave",
+        "Google Buzz",
+        "Google+",
+        "Google Connect"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many employees did Google have when it went public with its IPO in 2004?",
+      "choices": [
+        "1,128",
+        "2,292",
+        "3,456",
+        "4,789"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was Google's original initial public offering stock price per share in August 2004?",
+      "choices": [
+        "52 dollars",
+        "85 dollars",
+        "105 dollars",
+        "150 dollars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google acquire the artificial intelligence company DeepMind, which later developed AlphaGo?",
+      "choices": [
+        "2013",
+        "2014",
+        "2015",
+        "2016"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of Google when Larry Page and Sergey Brin first launched their search engine as a Stanford University project?",
+      "choices": [
+        "BackRub",
+        "WebCrawler",
+        "SearchBox",
+        "PageIndex"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "2006",
-        "verified": true,
-        "notes": "Bought for $1.65B in stock."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Approximately how much did Google pay to acquire YouTube?",
-      "choices": ["$1.65 billion", "$500 million", "$5 billion", "$300 million"],
+      "q": "In what year did Google acquire DoubleClick, significantly expanding its digital advertising capabilities?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Google's quantum computing initiative and associated chip development program?",
+      "choices": [
+        "Quantum Brain",
+        "Sycamore",
+        "QuantumOS",
+        "ChromeQ"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company did Google acquire in 2014 to gain artificial intelligence and robotics expertise, only to later divest most of it?",
+      "choices": [
+        "Boston Dynamics",
+        "DeepMind",
+        "Rethink Robotics",
+        "SoftBank Robotics"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "$1.65 billion",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What is Google's parent company since 2015?",
-      "choices": ["Alphabet Inc.", "Google Holdings", "Verily", "Other Bets"],
+      "q": "What was the original name of Google's holding company before it was renamed Alphabet Inc. in 2015?",
+      "choices": [
+        "Google Parent Corp",
+        "Google Inc.",
+        "Verily Life Sciences",
+        "Google Holdings"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google launch Bard, its conversational AI system designed to compete with ChatGPT?",
+      "choices": [
+        "2022",
+        "2023",
+        "2021",
+        "2024"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which machine learning library developed by Google became one of the most widely used frameworks for building neural networks and deep learning models?",
+      "choices": [
+        "PyTorch",
+        "TensorFlow",
+        "Keras Solo",
+        "MindFlow"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Google's social networking platform that launched in 2011 and was shut down in 2019?",
+      "choices": [
+        "Google Connect",
+        "Google Network",
+        "Google+",
+        "Google Social"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which AI system developed by Google DeepMind defeated world champion Lee Sedol at the ancient board game Go in 2016?",
+      "choices": [
+        "AlphaZero",
+        "AlphaGo",
+        "DeepBlue",
+        "AlphaNet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Google's lightweight mobile operating system designed for lower-end devices and emerging markets?",
+      "choices": [
+        "Android Light",
+        "Chrome OS Mobile",
+        "Android Go",
+        "Wear OS"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Google complete its acquisition of Motorola Mobility, and in what year did it subsequently sell the company to Lenovo?",
+      "choices": [
+        "Acquired 2011, Sold 2014",
+        "Acquired 2012, Sold 2013",
+        "Acquired 2010, Sold 2015",
+        "Acquired 2013, Sold 2016"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Alphabet Inc.",
-        "verified": true,
-        "notes": "Reorganized August 2015. Larry Page became Alphabet CEO."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Who became Google's CEO in 2015 (and Alphabet's CEO in 2019)?",
+      "q": "What is the codename of Google's experimental project aimed at providing high-speed broadband internet access using high-altitude balloons?",
+      "choices": [
+        "Project Loon",
+        "Project Sky",
+        "Project Beam",
+        "Project Connect"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2006, Google acquired a video-sharing platform founded a year earlier. Which was it?",
+      "choices": [
+        "TikTok",
+        "Vine",
+        "YouTube",
+        "Dailymotion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Google's initial algorithm for ranking webpages, still a foundational concept, is called what?",
+      "choices": [
+        "SearchRank",
+        "PageRank",
+        "LinkRank",
+        "GoogleRank"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who served as Google's CEO from 2001 to 2011 before Larry Page returned to the role?",
       "choices": [
         "Sundar Pichai",
+        "Tim Cook",
         "Eric Schmidt",
-        "Larry Page",
-        "Sergey Brin"
+        "Satya Nadella"
       ],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "Born in India; previously led Chrome and Android."
-      }
+      "correct": 2,
+      "difficulty": "medium"
     },
     {
-      "q": "Who was Google's CEO from 2001-2011 before transitioning to executive chairman?",
-      "choices": ["Eric Schmidt", "Sundar Pichai", "Larry Page", "Vint Cerf"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Eric Schmidt",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the algorithm Page and Brin developed that became Google's foundation?",
-      "choices": ["PageRank", "WebRank", "RankBrain", "BackRank"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "PageRank",
-        "verified": true,
-        "notes": "Named after Larry Page (and 'web pages')."
-      }
-    },
-    {
-      "q": "What year did Gmail launch (initially as invite-only)?",
-      "choices": ["2004", "2002", "2006", "2008"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Gmail",
-        "verified": true,
-        "notes": "Launched April 1, 2004 — initially mistaken for an April Fool's joke."
-      }
-    },
-    {
-      "q": "What's Google's mapping service?",
-      "choices": ["Google Maps", "Bing Maps", "MapQuest", "Apple Maps"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Google Maps",
-        "verified": true,
-        "notes": "Launched 2005."
-      }
-    },
-    {
-      "q": "What is Google's cloud-storage and document service?",
-      "choices": ["Google Drive", "Google Cloud", "Google Docs", "Google Files"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google Drive",
-        "verified": true,
-        "notes": "Launched 2012; replaced Google Docs as primary brand."
-      }
-    },
-    {
-      "q": "What is Google's annual developer conference?",
-      "choices": ["Google I/O", "Google Summit", "Google Developer Days", "Build"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google I/O",
-        "verified": true,
-        "notes": "Held since 2008. 'I/O' stands for 'input/output.'"
-      }
-    },
-    {
-      "q": "Who acquired the AI lab DeepMind in 2014?",
-      "choices": ["Google", "Microsoft", "Amazon", "Meta"],
-      "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "London-based AI company; reportedly $500M-$650M deal."
-      }
-    },
-    {
-      "q": "What is Google's AI assistant on Pixel phones?",
+      "q": "Google's parent holding company, created in 2015, is called what?",
       "choices": [
-        "Google Assistant",
-        "Siri",
-        "Cortana",
-        "Alexa"
+        "Alphabet Inc.",
+        "Omega Corp",
+        "Google Holdings",
+        "GlobalNet"
       ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "Launched 2016. Successor to Google Now."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "What is Google's flagship multimodal AI model launched in 2023 to compete with GPT-4?",
-      "choices": ["Gemini", "Bard", "PaLM", "LaMDA"],
+      "q": "Who is Google's current (as of 2024) CEO?",
+      "choices": [
+        "Sundar Pichai",
+        "Larry Page",
+        "Eric Schmidt",
+        "Ruth Porat"
+      ],
       "correct": 0,
-      "category": "Google",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Google",
-        "verified": true,
-        "notes": "Launched December 2023; replaced Bard."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's headquarters in Mountain View, California?",
+      "choices": [
+        "The Googleplex",
+        "The Big G",
+        "Page Valley",
+        "Search Central"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Google Maps — launched in 2005 — grew out of the acquisition of which Australian mapping startup?",
+      "choices": [
+        "Where 2 Technologies",
+        "MapQuest",
+        "Navteq",
+        "TomTom"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's cloud-based office suite of apps?",
+      "choices": [
+        "Google Docs / Workspace",
+        "Google Office",
+        "GoogleSuite Pro",
+        "Google365"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Google's mission statement, famously starting 'to organize the world's ___'?",
+      "choices": [
+        "Information",
+        "Data",
+        "Knowledge",
+        "Facts"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's annual developer conference, where products and new features are typically unveiled?",
+      "choices": [
+        "Google I/O",
+        "Google Next",
+        "Google Dev",
+        "Google Day"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Google went public (IPO) on the Nasdaq in what year?",
+      "choices": [
+        "2001",
+        "2004",
+        "2007",
+        "2012"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Google officially launch its search engine to the public?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original name of Google before it became known as 'Google'?",
+      "choices": [
+        "SearchWeb",
+        "Backrub",
+        "WebCrawler",
+        "PageSearch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Google complete its initial public offering (IPO) on the stock market?",
+      "choices": [
+        "2000",
+        "2002",
+        "2004",
+        "2006"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the parent holding company that Google became a subsidiary of in 2015?",
+      "choices": [
+        "Alphabet Inc.",
+        "Google Holdings",
+        "Sundar Corporation",
+        "Android Group"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What algorithm, named after one of Google's founders, became the foundation of the search engine's ranking system?",
+      "choices": [
+        "BrinRank",
+        "PageRank",
+        "SearchRank",
+        "WebRank"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city is home to Google's largest office outside the United States?",
+      "choices": [
+        "London, England",
+        "Dublin, Ireland",
+        "Toronto, Canada",
+        "Sydney, Australia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what U.S. state did Larry Page, co-founder of Google, grow up?",
+      "choices": [
+        "California",
+        "Michigan",
+        "New York",
+        "Texas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's artificial intelligence research division?",
+      "choices": [
+        "Google Brain",
+        "Google AI",
+        "Google Neural",
+        "Google Deep"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Google's philanthropic organization dedicated to using technology to address global challenges?",
+      "choices": [
+        "Google Charity",
+        "Google.org",
+        "Google Foundation",
+        "Google Impact"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Sundar Pichai become CEO of Google?",
+      "choices": [
+        "2012",
+        "2014",
+        "2015",
+        "2019"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's annual developer conference where major product announcements are made?",
+      "choices": [
+        "Google Summit",
+        "Google Develop",
+        "Google I/O",
+        "Google Conference"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the acquisition price when Google purchased YouTube in 2006?",
+      "choices": [
+        "$800 million",
+        "$1.65 billion",
+        "$2.5 billion",
+        "$3.2 billion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's web browser launched in 2008?",
+      "choices": [
+        "Google Firefox",
+        "Google Chrome",
+        "Google Explorer",
+        "Google Navigator"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Canadian city is Google's primary office located?",
+      "choices": [
+        "Vancouver, British Columbia",
+        "Montreal, Quebec",
+        "Toronto, Ontario",
+        "Calgary, Alberta"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Google's research and development laboratory known for experimental projects?",
+      "choices": [
+        "Google Labs",
+        "Google X",
+        "Google Innovations",
+        "Google Future"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's corporate venture capital organization that invests in startups?",
+      "choices": [
+        "Google Ventures",
+        "GV",
+        "Google Capital",
+        "Google Invest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what country was Sergey Brin, co-founder of Google, born?",
+      "choices": [
+        "Ukraine",
+        "Russia",
+        "Soviet Union (Moscow)",
+        "Belarus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's mobile operating system that powers billions of devices worldwide?",
+      "choices": [
+        "iOS",
+        "Windows Mobile",
+        "Android",
+        "Symbian"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Google's seed-stage venture capital fund designed to support early-stage startups?",
+      "choices": [
+        "Google Seed Fund",
+        "Google Launchpad",
+        "Google Accelerator",
+        "Google StartUp"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Google complete its initial public offering and become a publicly traded company?",
+      "choices": [
+        "2001",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the PageRank algorithm's namesake, one of Google's two founders?",
+      "choices": [
+        "Sergey Brin",
+        "Larry Page",
+        "Eric Schmidt",
+        "Sundar Pichai"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "For approximately how much money did Google acquire YouTube in 2006?",
+      "choices": [
+        "$650 million",
+        "$1.05 billion",
+        "$1.65 billion",
+        "$2.3 billion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city is home to Google's largest office location outside the United States?",
+      "choices": [
+        "London, United Kingdom",
+        "Dublin, Ireland",
+        "Singapore",
+        "Toronto, Canada"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2015, Google restructured its corporate organization and became a subsidiary of which parent conglomerate?",
+      "choices": [
+        "Alphabet Inc.",
+        "Berkshire Hathaway",
+        "Microsoft Corporation",
+        "Amazon Web Services"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

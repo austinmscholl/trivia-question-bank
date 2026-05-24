@@ -1,169 +1,3285 @@
 {
   "slug": "easter-trivia",
   "name": "Easter",
-  "description": "Easter traditions, history, and religious significance",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.507Z",
   "questions": [
     {
       "q": "Easter commemorates which event in Christian belief?",
-      "choices": ["The birth of Jesus", "The crucifixion of Jesus", "The resurrection of Jesus", "The ascension of Jesus"],
+      "choices": [
+        "The birth of Jesus",
+        "The crucifixion of Jesus",
+        "The resurrection of Jesus",
+        "The ascension of Jesus"
+      ],
       "correct": 2,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Resurrection of Christ", "verified": true, "notes": "Easter Sunday, three days after Good Friday (the crucifixion)." }
+      "difficulty": "easy"
     },
     {
       "q": "On what day of Holy Week is Jesus said to have been crucified?",
-      "choices": ["Maundy Thursday", "Good Friday", "Holy Saturday", "Easter Sunday"],
+      "choices": [
+        "Maundy Thursday",
+        "Good Friday",
+        "Holy Saturday",
+        "Easter Sunday"
+      ],
       "correct": 1,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "'Good' from an older meaning of 'holy.' Also called 'Great Friday' in some traditions." }
-    },
-    {
-      "q": "Which council formally fixed the date of Easter in 325 AD?",
-      "choices": ["Council of Chalcedon", "Council of Nicaea", "Council of Trent", "First Vatican Council"],
-      "correct": 1,
-      "category": "Easter",
-      "difficulty": "hard",
-      "source": { "original_a": "Council of Nicaea", "verified": true, "notes": "First Sunday after the first full moon on or after the vernal equinox." }
-    },
-    {
-      "q": "The word 'Easter' is believed to derive from the name of an Anglo-Saxon goddess of what?",
-      "choices": ["War", "Dawn / spring / fertility", "Harvest", "The moon"],
-      "correct": 1,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Anglo-Saxon goddess of fertility", "verified": true, "notes": "From 'Eostre' or 'Eostrae.' First recorded by the Venerable Bede." }
+      "difficulty": "easy"
     },
     {
       "q": "What type of meat is most traditionally associated with Easter meals in the UK/US?",
-      "choices": ["Turkey", "Lamb", "Ham", "Both B and C"],
+      "choices": [
+        "Turkey",
+        "Lamb",
+        "Ham",
+        "Both B and C"
+      ],
       "correct": 3,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Lamb", "verified": true, "notes": "Lamb symbolizes Jesus (Lamb of God). Ham became popular in the US due to spring pig slaughter timing." }
-    },
-    {
-      "q": "Hot Cross Buns are traditionally eaten on which day?",
-      "choices": ["Shrove Tuesday", "Ash Wednesday", "Good Friday", "Easter Monday"],
-      "correct": 2,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Hot Cross Bun", "verified": true, "notes": "The cross represents Jesus's crucifixion. Sweet, spiced buns with currants or raisins." }
-    },
-    {
-      "q": "In the Easter story, who sentenced Jesus to crucifixion?",
-      "choices": ["Caiaphas", "King Herod", "Pontius Pilate", "Judas Iscariot"],
-      "correct": 2,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "Roman prefect of Judea. Famously 'washed his hands' of the decision." }
+      "difficulty": "easy"
     },
     {
       "q": "What famous tradition during Easter involves children searching for something hidden in gardens?",
-      "choices": ["Easter Egg Hunt", "Bunny Hop", "Jelly Bean Toss", "Chocolate Race"],
+      "choices": [
+        "Easter Egg Hunt",
+        "Bunny Hop",
+        "Jelly Bean Toss",
+        "Chocolate Race"
+      ],
       "correct": 0,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Hot Cross Bun", "verified": true, "notes": "Likely derives from Germanic pagan traditions of egg hunting for fertility." }
-    },
-    {
-      "q": "What kind of eggs did Imperial Russia's Fabergé workshop famously create for Tsars Alexander III and Nicholas II for Easter?",
-      "choices": ["Painted wooden eggs", "Jeweled imperial eggs", "Gold-dipped eggs", "Crystal eggs"],
-      "correct": 1,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Poland", "verified": true, "notes": "Peter Carl Fabergé. 50 imperial eggs created 1885-1917. Each contained a 'surprise' inside." }
-    },
-    {
-      "q": "Easter Monday is a public holiday in many Christian countries. Which famous water fight tradition occurs in Poland on this day?",
-      "choices": ["Śmigus-Dyngus", "Fat Tuesday", "Ragamuffin Day", "Carnival"],
-      "correct": 0,
-      "category": "Easter",
-      "difficulty": "hard",
-      "source": { "original_a": "Poland", "verified": true, "notes": "'Wet Monday.' Tradition of splashing water on each other. Also practiced in other Slavic countries." }
+      "difficulty": "easy"
     },
     {
       "q": "What period of 40 days precedes Easter in Christian tradition?",
-      "choices": ["Advent", "Lent", "Epiphany", "Pentecost"],
+      "choices": [
+        "Advent",
+        "Lent",
+        "Epiphany",
+        "Pentecost"
+      ],
       "correct": 1,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "Marks Jesus's 40 days of fasting in the wilderness. Begins on Ash Wednesday." }
-    },
-    {
-      "q": "What day immediately precedes Ash Wednesday (and Lent) in many countries?",
-      "choices": ["Palm Sunday", "Shrove Tuesday / Mardi Gras / Fat Tuesday", "Holy Saturday", "Good Friday"],
-      "correct": 1,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "Called 'Pancake Day' in the UK. Mardi Gras ('Fat Tuesday') in French-speaking regions." }
-    },
-    {
-      "q": "Which Orthodox Christian country is famous for its 'Pascha' Easter bread and red-dyed eggs?",
-      "choices": ["Russia", "Greece", "Serbia", "All of the above"],
-      "correct": 3,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Poland", "verified": true, "notes": "Orthodox Easter follows Julian calendar — often falls a week or more after Western Easter." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of the tradition where Catholics wave palm branches the Sunday before Easter?",
-      "choices": ["Ash Wednesday", "Palm Sunday", "Maundy Thursday", "Holy Saturday"],
+      "choices": [
+        "Ash Wednesday",
+        "Palm Sunday",
+        "Maundy Thursday",
+        "Holy Saturday"
+      ],
       "correct": 1,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "Commemorates Jesus's triumphant entry into Jerusalem. Palms often folded into crosses." }
-    },
-    {
-      "q": "The Last Supper, a key part of the Easter story, is commemorated on what day?",
-      "choices": ["Maundy Thursday", "Good Friday", "Easter Sunday", "Palm Sunday"],
-      "correct": 0,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "'Maundy' from Latin 'mandatum' (command) — Jesus's new commandment to love one another." }
+      "difficulty": "easy"
     },
     {
       "q": "Which holiday, often around Easter time, celebrates the Jewish people's liberation from slavery in Egypt?",
-      "choices": ["Hanukkah", "Passover", "Purim", "Sukkot"],
+      "choices": [
+        "Hanukkah",
+        "Passover",
+        "Purim",
+        "Sukkot"
+      ],
       "correct": 1,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Resurrection of Christ", "verified": true, "notes": "'Pesach' in Hebrew. Jesus's Last Supper was a Passover seder." }
-    },
-    {
-      "q": "What kind of flowers are traditionally associated with Easter, especially in North America?",
-      "choices": ["Lilies (Easter Lily)", "Daffodils", "Tulips", "Roses"],
-      "correct": 0,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Hot Cross Bun", "verified": true, "notes": "Easter Lily (Lilium longiflorum). White trumpet-shaped. Symbolizes purity and resurrection." }
+      "difficulty": "easy"
     },
     {
       "q": "In the Easter story, which disciple betrayed Jesus for 30 pieces of silver?",
-      "choices": ["Peter", "Judas Iscariot", "Thomas", "John"],
+      "choices": [
+        "Peter",
+        "Judas Iscariot",
+        "Thomas",
+        "John"
+      ],
       "correct": 1,
-      "category": "Easter",
-      "difficulty": "easy",
-      "source": { "original_a": "Good Friday", "verified": true, "notes": "Identified Jesus to the authorities with a kiss. Later hanged himself out of guilt." }
+      "difficulty": "easy"
     },
     {
-      "q": "On the first Easter morning, who first discovered Jesus's empty tomb?",
-      "choices": ["Mary Magdalene", "John the Apostle", "Peter", "Joseph of Arimathea"],
+      "q": "On which day of the week does Easter always fall?",
+      "choices": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Sunday before Easter that celebrates Jesus' entry into Jerusalem?",
+      "choices": [
+        "Maundy Sunday",
+        "Palm Sunday",
+        "Passion Sunday",
+        "Pentecost Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which day marks the beginning of Lent, the 40-day period before Easter?",
+      "choices": [
+        "Ash Wednesday",
+        "Maundy Thursday",
+        "Good Friday",
+        "Easter Monday"
+      ],
       "correct": 0,
-      "category": "Easter",
-      "difficulty": "medium",
-      "source": { "original_a": "Resurrection of Christ", "verified": true, "notes": "Gospels of Matthew, Mark, Luke, and John all name Mary Magdalene (sometimes with other women)." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Friday before Easter, when Christians commemorate the crucifixion of Jesus?",
+      "choices": [
+        "Maundy Friday",
+        "Holy Friday",
+        "Good Friday",
+        "Solemn Friday"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional food is eaten on Good Friday in many English-speaking countries?",
+      "choices": [
+        "Simnel cakes",
+        "Hot cross buns",
+        "Easter eggs",
+        "Pancakes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which day before Lent is it traditional to make and eat pancakes?",
+      "choices": [
+        "Maundy Thursday",
+        "Shrove Tuesday",
+        "Ash Tuesday",
+        "Palm Saturday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Ukrainian craft involves decorating eggs with traditional designs?",
+      "choices": [
+        "Pysanka",
+        "Pisanki",
+        "Pysanky",
+        "Psyanky"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to tradition, what did German children build to prepare for the Easter Hare?",
+      "choices": [
+        "Houses",
+        "Nests",
+        "Baskets",
+        "Boxes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What animal is commonly associated with bringing Easter eggs in many Western cultures?",
+      "choices": [
+        "Chicken",
+        "Duck",
+        "Bunny",
+        "Lamb"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Easter Island claimed by Chile?",
+      "choices": [
+        "1872",
+        "1888",
+        "1895",
+        "1901"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary color associated with Easter celebrations?",
+      "choices": [
+        "Red",
+        "Green",
+        "White",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to Christian tradition, with what material was Jesus' body wrapped after crucifixion?",
+      "choices": [
+        "Silk",
+        "Cotton",
+        "Linen",
+        "Wool"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the Easter egg symbolize in Christian tradition?",
+      "choices": [
+        "Abundance",
+        "Resurrection",
+        "Purity",
+        "Sacrifice"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does the period of Lent last?",
+      "choices": [
+        "30 days",
+        "35 days",
+        "40 days",
+        "50 days"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the day before Ash Wednesday called?",
+      "choices": [
+        "Fat Tuesday",
+        "Shrove Tuesday",
+        "Both A and B",
+        "Mardi Gras"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which season of the year does Easter occur?",
+      "choices": [
+        "Winter",
+        "Spring",
+        "Summer",
+        "Fall"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the day after Easter Sunday traditionally called?",
+      "choices": [
+        "Easter Monday",
+        "Low Sunday",
+        "Both A and B",
+        "Easter Tuesday"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of bread is traditionally eaten during Passover, which often occurs near Easter?",
+      "choices": [
+        "Matzo",
+        "Sourdough",
+        "Rye",
+        "Focaccia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What lily flower is commonly associated with Easter and spring celebrations?",
+      "choices": [
+        "Tiger lily",
+        "Easter lily",
+        "Water lily",
+        "Daffodil"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Easter Act passed, which set the date of Easter?",
+      "choices": [
+        "1918",
+        "1928",
+        "1938",
+        "1948"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the White House first hold an Easter Egg Roll?",
+      "choices": [
+        "1878",
+        "1865",
+        "1882",
+        "1890"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which day of the week is the White House Easter Egg Roll traditionally held?",
+      "choices": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Sunday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color were Easter eggs traditionally dyed most often in ancient times?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which century were chocolate Easter eggs first manufactured?",
+      "choices": [
+        "19th century",
+        "17th century",
+        "18th century",
+        "20th century"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Thursday before Easter Sunday?",
+      "choices": [
+        "Maundy Thursday",
+        "Holy Thursday",
+        "Green Thursday",
+        "Passion Thursday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which council established the method for calculating the date of Easter?",
+      "choices": [
+        "Council of Nicaea",
+        "Council of Trent",
+        "Council of Chalcedon",
+        "Council of Constantinople"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of bread is traditionally associated with Easter celebrations?",
+      "choices": [
+        "Hot Cross Bun",
+        "Focaccia",
+        "Sourdough",
+        "Rye"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What animal does Australia use for Easter celebrations instead of the Easter Bunny?",
+      "choices": [
+        "Bilby",
+        "Wallaby",
+        "Wombat",
+        "Koala"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is home to the world's largest chocolate bunny?",
+      "choices": [
+        "South Africa",
+        "Belgium",
+        "Switzerland",
+        "Austria"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the animated film 'Here Comes Peter Cottontail,' what is the name of the main villain?",
+      "choices": [
+        "Irontail",
+        "Blackwing",
+        "Shadowpaw",
+        "Darkbeast"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animated Easter special features the voice of Burl Ives?",
+      "choices": [
+        "The First Easter Rabbit",
+        "The Easter Bunny is Coming to Town",
+        "Here Comes Peter Cottontail",
+        "Hop"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 2011 animated film 'Hop,' what is the main character's role?",
+      "choices": [
+        "An Easter Bunny",
+        "A young rabbit learning magic",
+        "A holiday helper",
+        "A talking stuffed animal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Babka bread traditionally eaten during in many Eastern European cultures?",
+      "choices": [
+        "Easter",
+        "Christmas",
+        "Hanukkah",
+        "New Year"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'The Lion of Judah' Easter film, what type of animal is the character Judah?",
+      "choices": [
+        "A lamb",
+        "A lion",
+        "A goat",
+        "A dove"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most popular Easter candy purchased by consumers?",
+      "choices": [
+        "Chocolate eggs",
+        "Chocolate bunnies",
+        "Jelly beans",
+        "Marshmallow peeps"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to Christian tradition, on which day of the week did Jesus rise from the dead?",
+      "choices": [
+        "The first day of the week",
+        "The third day of the week",
+        "Sunday evening",
+        "Monday morning"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Påsk is the word for Easter in which language?",
+      "choices": [
+        "Swedish",
+        "Norwegian",
+        "Danish",
+        "Finnish"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the world's most expensive Fabergé egg sold at auction?",
+      "choices": [
+        "2002",
+        "1998",
+        "2007",
+        "1995"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. President is credited with starting the Easter Egg Roll at the White House?",
+      "choices": [
+        "Rutherford B. Hayes",
+        "Theodore Roosevelt",
+        "Benjamin Harrison",
+        "Andrew Johnson"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the White House Easter Egg Roll tradition begin?",
+      "choices": [
+        "1878",
+        "1865",
+        "1892",
+        "1901"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are Easter eggs traditionally dyed in many European countries?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animated character is best known as the Easter Bunny in North American popular culture?",
+      "choices": [
+        "Peter Rabbit",
+        "Bugs Bunny",
+        "Roger Rabbit",
+        "Elmer Fudd"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what day of the week does Easter Sunday always fall?",
+      "choices": [
+        "Sunday",
+        "Saturday",
+        "Monday",
+        "Friday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Thursday before Easter in the Christian calendar?",
+      "choices": [
+        "Maundy Thursday",
+        "Palm Thursday",
+        "Holy Thursday",
+        "Passion Thursday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which classic musical film does Fred Astaire perform the song 'Easter Parade'?",
+      "choices": [
+        "Easter Parade",
+        "Singin' in the Rain",
+        "An American in Paris",
+        "The Band Wagon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What part of a chocolate Easter bunny do surveys suggest most Americans eat first?",
+      "choices": [
+        "The ears",
+        "The tail",
+        "The feet",
+        "The nose"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many people attended the Last Supper with Jesus?",
+      "choices": [
+        "13",
+        "11",
+        "12",
+        "14"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what hill was the Garden of Gethsemane located?",
+      "choices": [
+        "Mount of Olives",
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount Tabor"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to the Gospel of Matthew, what is the name of the hill where Jesus was crucified?",
+      "choices": [
+        "Golgotha",
+        "Calvary",
+        "Gethsemane",
+        "Bethlehem"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was the Peanuts Easter special first broadcast on television?",
+      "choices": [
+        "1974",
+        "1969",
+        "1978",
+        "1971"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional Easter food is a sweet bread often decorated with eggs and fruit?",
+      "choices": [
+        "Hot cross bun",
+        "Simnel cake",
+        "Carrot cake",
+        "Pound cake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Christian calendar, how many days before Easter does Lent begin?",
+      "choices": [
+        "46",
+        "40",
+        "50",
+        "35"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary reason Easter eggs are given as gifts during the holiday?",
+      "choices": [
+        "They symbolize resurrection and new life",
+        "They are easy to decorate",
+        "They are inexpensive",
+        "They last a long time"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which disciple betrayed Jesus for thirty pieces of silver?",
+      "choices": [
+        "Judas Iscariot",
+        "Peter",
+        "Thomas",
+        "James"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the day before Easter Sunday in the Christian calendar?",
+      "choices": [
+        "Holy Saturday",
+        "Good Friday",
+        "Easter Eve",
+        "Passion Saturday"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In many cultures, what type of animal is associated with bringing Easter gifts to children?",
+      "choices": [
+        "A rabbit or bunny",
+        "A chicken",
+        "A lamb",
+        "A duck"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of lily is commonly used as a decoration during Easter celebrations?",
+      "choices": [
+        "Easter lily",
+        "Tiger lily",
+        "Water lily",
+        "Stargazer lily"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited with originating the tradition of decorating Easter eggs?",
+      "choices": [
+        "Germany",
+        "France",
+        "Poland",
+        "England"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do hot cross buns traditionally have marked on top?",
+      "choices": [
+        "A cross",
+        "A dot",
+        "A line",
+        "A star"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Easter Act passed, establishing when Easter is celebrated?",
+      "choices": [
+        "1920",
+        "1928",
+        "1935",
+        "1942"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to the Bible, on which day of the week did Jesus rise from the dead?",
+      "choices": [
+        "The second day of the week",
+        "The first day of the week",
+        "The third day of the week",
+        "The fourth day of the week"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the week leading up to Easter Sunday?",
+      "choices": [
+        "Passion Week",
+        "Holy Week",
+        "Spring Week",
+        "Resurrection Week"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What language uses the word 'Paques' to refer to Easter?",
+      "choices": [
+        "Spanish",
+        "German",
+        "French",
+        "Italian"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did the Easter rabbit first appear as a symbol?",
+      "choices": [
+        "14th century",
+        "15th century",
+        "16th century",
+        "17th century"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to the Bible, how many criminals were crucified alongside Jesus?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which disciple helped Jesus carry his cross to Golgotha?",
+      "choices": [
+        "Peter of Antioch",
+        "Simon of Cyrene",
+        "Mark of Jerusalem",
+        "Andrew of Bethsaida"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of fabric was used to wrap the body of Jesus after his crucifixion?",
+      "choices": [
+        "Cotton",
+        "Wool",
+        "Linen",
+        "Silk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which traditional Easter bread is marked with a cross on top?",
+      "choices": [
+        "Simnel cake",
+        "Hot cross buns",
+        "Panettone",
+        "Babka"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which day of Lent are hot cross buns traditionally eaten?",
+      "choices": [
+        "Maundy Thursday",
+        "Good Friday",
+        "Easter Saturday",
+        "Palm Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most popular type of candy purchased by Americans during Easter?",
+      "choices": [
+        "Jelly beans",
+        "Chocolate eggs",
+        "Candy corn",
+        "Marshmallow chicks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how much money do Americans spend on Easter candy annually?",
+      "choices": [
+        "$500 million",
+        "$1 billion",
+        "$2 billion",
+        "$5 billion"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which religious tradition is credited with originating the custom of Easter baskets?",
+      "choices": [
+        "Orthodox Christianity",
+        "Catholicism",
+        "Protestantism",
+        "Anglicanism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the traditional colors associated with Easter?",
+      "choices": [
+        "Red and green",
+        "Blue and white",
+        "Purple and yellow",
+        "Orange and black"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which actress starred as the lead female in the 1948 film 'Easter Parade'?",
+      "choices": [
+        "Audrey Hepburn",
+        "Judy Garland",
+        "Rita Hayworth",
+        "Ava Gardner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which filmmaker directed the 1977 film 'Annie Hall' that takes place during Easter?",
+      "choices": [
+        "Stanley Kubrick",
+        "Martin Scorsese",
+        "Woody Allen",
+        "Francis Ford Coppola"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What pastry is traditionally prepared on Shrove Tuesday, the day before Ash Wednesday?",
+      "choices": [
+        "Croissants",
+        "Pancakes",
+        "Donuts",
+        "Waffles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When did the Easter rabbit tradition first arrive in North America?",
+      "choices": [
+        "Before the American Revolution",
+        "After the American Civil War",
+        "During the Industrial Revolution",
+        "In the early 20th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which season of the year does Easter always occur?",
+      "choices": [
+        "Winter",
+        "Spring",
+        "Summer",
+        "Autumn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What food did Jesus break and distribute to his disciples at the Last Supper, telling them it represented his body?",
+      "choices": [
+        "Wine",
+        "Fish",
+        "Bread",
+        "Lamb"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many disciples sat with Jesus at the Last Supper?",
+      "choices": [
+        "10",
+        "12",
+        "13",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which disciple betrayed Jesus to the chief priests?",
+      "choices": [
+        "Peter",
+        "Thomas",
+        "Judas",
+        "James"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which hill was the Garden of Gethsemane located?",
+      "choices": [
+        "Mount Sinai",
+        "Mount of Olives",
+        "Mount Carmel",
+        "Mount Zion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color cloak did Jesus wear when he was brought to be crucified?",
+      "choices": [
+        "Red",
+        "White",
+        "Purple",
+        "Blue"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the year 325 AD, which council officially fixed the date of Easter?",
+      "choices": [
+        "Council of Jerusalem",
+        "Council of Nicaea",
+        "Council of Ephesus",
+        "Council of Chalcedon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President initiated the Easter Egg Roll tradition at the White House?",
+      "choices": [
+        "Abraham Lincoln",
+        "Andrew Johnson",
+        "Rutherford B. Hayes",
+        "Theodore Roosevelt"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the final week of Lent before Easter?",
+      "choices": [
+        "Passion Week",
+        "Holy Week",
+        "Resurrection Week",
+        "Easter Week"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the animated film 'Winnie the Pooh: Springtime with Roo', which character cancels Easter?",
+      "choices": [
+        "Pooh Bear",
+        "Piglet",
+        "Rabbit",
+        "Eeyore"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who composed the music for the classic film 'Easter Parade'?",
+      "choices": [
+        "George Gershwin",
+        "Irving Berlin",
+        "Cole Porter",
+        "Richard Rodgers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of meat is traditionally served at Easter celebrations in many Western cultures?",
+      "choices": [
+        "Beef",
+        "Pork",
+        "Lamb",
+        "Chicken"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the 2011 film 'Hop', which actor plays the lead human character?",
+      "choices": [
+        "Russell Brand",
+        "James Marsden",
+        "Hugh Laurie",
+        "David Schwimmer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The word 'Easter' is believed to derive from an ancient Anglo-Saxon goddess associated with what?",
+      "choices": [
+        "Spring and fertility",
+        "The moon and tides",
+        "War and victory",
+        "Harvest and grain"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the third hour of the day in biblical tradition when Jesus was crucified?",
+      "choices": [
+        "3 AM",
+        "9 AM",
+        "12 PM",
+        "3 PM"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which council formally fixed the date of Easter in 325 AD?",
+      "choices": [
+        "Council of Chalcedon",
+        "Council of Nicaea",
+        "Council of Trent",
+        "First Vatican Council"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Easter Monday is a public holiday in many Christian countries. Which famous water fight tradition occurs in Poland on this day?",
+      "choices": [
+        "Śmigus-Dyngus",
+        "Fat Tuesday",
+        "Ragamuffin Day",
+        "Carnival"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
     },
     {
       "q": "In the US, approximately how many jelly beans are eaten during the Easter season?",
-      "choices": ["100 million", "1 billion", "6 billion", "16 billion"],
+      "choices": [
+        "100 million",
+        "1 billion",
+        "6 billion",
+        "16 billion"
+      ],
       "correct": 3,
-      "category": "Easter",
-      "difficulty": "hard",
-      "source": { "original_a": "60 million", "verified": true, "notes": "16 billion jelly beans sold for Easter in the US alone. Most popular flavor: cherry." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Eastern European country is the world's largest collection of decorated Easter eggs housed?",
+      "choices": [
+        "Poland",
+        "Ukraine",
+        "Lithuania",
+        "Romania"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Hungarian language term for Easter?",
+      "choices": [
+        "Paskha",
+        "Húsvét",
+        "Velidens",
+        "Pasvalis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the musical film 'Easter Parade' starring Fred Astaire premiere?",
+      "choices": [
+        "1946",
+        "1948",
+        "1950",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which acclaimed cartoonist and comic strip creator died on Easter Saturday in 2007?",
+      "choices": [
+        "Bill Watterson",
+        "Johnny Hart",
+        "Jim Davis",
+        "Charles Schulz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who composed the orchestral music score for the 1948 film 'Easter Parade'?",
+      "choices": [
+        "George Gershwin",
+        "Irving Berlin",
+        "Cole Porter",
+        "Jerome Kern"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to historical accounts, who physically rolled away the stone from Jesus' tomb?",
+      "choices": [
+        "Peter",
+        "An angel",
+        "Mary Magdalene",
+        "John the Baptist"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Gospel account are exactly two angels described as being present inside the sepulchre?",
+      "choices": [
+        "Gospel of Mark",
+        "Gospel of John",
+        "Gospel of Luke",
+        "Gospel of Matthew"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian cosmonaut died on Easter Monday in 2010?",
+      "choices": [
+        "Georgy Dobrovolsky",
+        "Vladimir Komarov",
+        "Vitaly Sevastyanov",
+        "Anatoly Filipchenko"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the period following the American Civil War, what cultural tradition was introduced to North America regarding Easter?",
+      "choices": [
+        "Easter parades",
+        "The Easter Rabbit",
+        "Egg hunts",
+        "Hot cross buns"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What name is given to Easter in Spanish-speaking countries?",
+      "choices": [
+        "Semana Santa",
+        "Pascua",
+        "Fiesta de Resurrección",
+        "Día de Pascua"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to medieval European baking folklore, what property was attributed to bread baked on Good Friday?",
+      "choices": [
+        "It would cure illness",
+        "It would never spoil or grow moldy",
+        "It would bring good fortune",
+        "It would prevent nightmares"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Gospel account, what event occurred after Peter denied knowing Jesus for the third time?",
+      "choices": [
+        "Jesus appeared to him",
+        "A rooster crowed",
+        "An earthquake shook the temple",
+        "A bright light shone from heaven"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which method of execution was used for Jesus Christ according to all four Gospels?",
+      "choices": [
+        "Stoning",
+        "Beheading",
+        "Crucifixion",
+        "Drowning"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to market research surveys, which part of a chocolate Easter bunny do most American consumers eat first?",
+      "choices": [
+        "The feet",
+        "The ears",
+        "The tail",
+        "The body"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Babka is a traditional sweet bread primarily associated with which holiday celebration?",
+      "choices": [
+        "Passover",
+        "Hanukkah",
+        "Easter",
+        "Shavuot"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Peanuts television special 'It's the Easter Beagle, Charlie Brown!' first air?",
+      "choices": [
+        "1972",
+        "1974",
+        "1976",
+        "1978"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Irish writer was born on Good Friday in 1906?",
+      "choices": [
+        "W.B. Yeats",
+        "Samuel Beckett",
+        "James Joyce",
+        "Sean O'Casey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many chocolate Easter bunnies are sold commercially in the United States during a typical Easter season?",
+      "choices": [
+        "30 million",
+        "60 million",
+        "90 million",
+        "120 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which individual, according to Gospel accounts, was compelled to carry Jesus' cross to Golgotha?",
+      "choices": [
+        "Judas Iscariot",
+        "Simon of Cyrene",
+        "Pontius Pilate",
+        "Caiaphas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what mode of transportation did Jesus enter Jerusalem on what Christians commemorate as Palm Sunday?",
+      "choices": [
+        "On foot",
+        "Riding a donkey",
+        "In a chariot",
+        "Riding a horse"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Easter Island become a UNESCO World Heritage Site?",
+      "choices": [
+        "1995",
+        "2000",
+        "1988",
+        "1992"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the moai statues' ceremonial platform on Easter Island?",
+      "choices": [
+        "Ahu",
+        "Toromiro",
+        "Rongorongo",
+        "Orongo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what language is Easter called 'Pâques'?",
+      "choices": [
+        "French",
+        "Italian",
+        "Spanish",
+        "Portuguese"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Christian theologian wrote extensively about the computus, the calculation of Easter's date?",
+      "choices": [
+        "Bede the Venerable",
+        "Augustine of Hippo",
+        "Jerome",
+        "Origen"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Eastern European language is Easter known as 'Wielkanoc'?",
+      "choices": [
+        "Polish",
+        "Czech",
+        "Slovak",
+        "Ukrainian"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Greek island of Corfu has a unique Easter tradition where residents throw what from their balconies on Easter Saturday?",
+      "choices": [
+        "Clay pots",
+        "Painted eggs",
+        "Bread loaves",
+        "Flower petals"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Orthodox Christianity, the Paschal Greeting 'Christos Anesti' receives which traditional response?",
+      "choices": [
+        "Alithos Anesti",
+        "Kyrie Eleison",
+        "Axion Estin",
+        "Doxa Patri"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor, known for playing Superman, died on Easter Sunday in 1992?",
+      "choices": [
+        "Christopher Reeve",
+        "George Reeves",
+        "Dean Cain",
+        "Tom Welling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Seder meal, traditionally eaten during Passover, consists of how many symbolic foods on the Seder plate?",
+      "choices": [
+        "Seven",
+        "Six",
+        "Nine",
+        "Eight"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Council of Nicaea held, establishing rules for calculating Easter's date?",
+      "choices": [
+        "325 AD",
+        "313 AD",
+        "350 AD",
+        "300 AD"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Finnish Easter tradition involving young girls dressed as witches?",
+      "choices": [
+        "Noita",
+        "Pääsiäinen",
+        "Kekri",
+        "Juhannus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Italian Easter bread 'Colomba Pasquale' is traditionally shaped like what?",
+      "choices": [
+        "A dove",
+        "A cross",
+        "An egg",
+        "A lamb"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Swedish tradition, Easter witches are said to fly to which fictional mountain?",
+      "choices": [
+        "Blåkulla",
+        "Högskullen",
+        "Trollhättan",
+        "Kiviksbacken"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German theologian's writings on the Resurrection significantly influenced Protestant Easter theology in the 16th century?",
+      "choices": [
+        "Martin Luther",
+        "John Calvin",
+        "Huldrych Zwingli",
+        "Philip Melanchthon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Greek Orthodox tradition of the 'Epitaphios' involves a procession carrying a symbolic representation of what?",
+      "choices": [
+        "Christ's tomb",
+        "The Resurrection",
+        "The disciples",
+        "The Last Supper"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Egyptian Coptic Christianity, Easter fasting traditionally lasts for how many days?",
+      "choices": [
+        "55 days",
+        "40 days",
+        "50 days",
+        "60 days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Australian wildlife park on Easter Island opened to the public in 1995?",
+      "choices": [
+        "Ahu Tongariki",
+        "Anakena Beach",
+        "Rano Raraku",
+        "Puna Pau"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Easter Island script 'Rongorongo' remains largely undeciphered; how many tablets with this script are known to exist?",
+      "choices": [
+        "25",
+        "15",
+        "30",
+        "20"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which country is the Easter parade tradition of wearing elaborate hats and new spring clothing most prominently celebrated on Fifth Avenue?",
+      "choices": [
+        "United States",
+        "United Kingdom",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The moveable feast of Easter is calculated based on which astronomical event occurring after which ecclesiastical full moon?",
+      "choices": [
+        "First full moon after spring equinox",
+        "Second full moon after spring equinox",
+        "Full moon closest to spring equinox",
+        "First new moon after spring equinox"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the world's oldest preserved hot cross bun placed on display at the Whitchurch Almshouse in London?",
+      "choices": [
+        "1820",
+        "1835",
+        "1847",
+        "1862"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Fabergé egg commissioned by Russian Tsar Alexander III in 1885 was created to commemorate which significant event?",
+      "choices": [
+        "The coronation of the Tsar",
+        "The escape of the Tsar from assassination",
+        "The marriage of the Tsar's daughter",
+        "The birth of the Tsar's heir"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Pysanka, the world's largest decorated Easter egg, stands in which Canadian city?",
+      "choices": [
+        "Toronto",
+        "Pysanka",
+        "Vegreville",
+        "Montreal"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which theological concept, emphasized during Lent, refers to the 40-day period preceding Easter?",
+      "choices": [
+        "Paschal mystery",
+        "Penitential season",
+        "Advent cycle",
+        "Sanctification period"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Christian calendar, Maundy Thursday commemorates which event from the final week of Jesus's life?",
+      "choices": [
+        "The arrest of Jesus",
+        "The Last Supper and foot washing",
+        "The resurrection of Jesus",
+        "The entry into Jerusalem"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The term 'Paschal Lamb' in Christian theology originates from which Old Testament festival?",
+      "choices": [
+        "Feast of Unleavened Bread",
+        "Passover",
+        "Feast of Tabernacles",
+        "Day of Atonement"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African country replaced the Easter bunny with the Easter bilby as part of wildlife conservation efforts?",
+      "choices": [
+        "South Africa",
+        "Kenya",
+        "Australia",
+        "Tanzania"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The White House Easter Egg Roll tradition began in which year under President Rutherford B. Hayes?",
+      "choices": [
+        "1872",
+        "1878",
+        "1885",
+        "1891"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Eastern Orthodox Christianity, which feast day is celebrated 40 days after Easter?",
+      "choices": [
+        "Pentecost",
+        "Ascension of Jesus",
+        "All Saints' Day",
+        "Transfiguration"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Easter dating system is based on which astronomical event rather than a fixed calendar date?",
+      "choices": [
+        "The summer solstice",
+        "The vernal equinox",
+        "The autumnal equinox",
+        "The winter solstice"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ukrainian folk art tradition, involving intricate wax-resist dyeing, is central to pysanka egg decoration?",
+      "choices": [
+        "Batik",
+        "Batiking",
+        "Pysanka-dyeing",
+        "Wax-etching"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the island nation Bhutan hold its first-ever general elections on Easter Monday?",
+      "choices": [
+        "2006",
+        "2008",
+        "2010",
+        "2012"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Italian sweet bread panettone is traditionally associated with which holiday in Mediterranean cultures?",
+      "choices": [
+        "Christmas",
+        "Easter",
+        "Epiphany",
+        "Pentecost"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Polish Easter tradition involves the exchange of decorated eggs between young women and men?",
+      "choices": [
+        "Pisanki exchange",
+        "Śmigus-dyngus",
+        "Święconka",
+        "Jajko poświęcone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Russian Imperial Fabergé firm produced how many Easter eggs for the Romanov family between 1885 and 1917?",
+      "choices": [
+        "52",
+        "67",
+        "71",
+        "89"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval Europe, bread baked on Good Friday was believed to possess which purported property?",
+      "choices": [
+        "The ability to cure illnesses",
+        "Resistance to mold and decay",
+        "Enhanced nutritional value",
+        "Protection from evil spirits"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Simnel cake, traditionally served during Easter in Britain, contains how many marzipan balls symbolizing the apostles?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film director's rendition of 'The Passion of the Christ' was released in 2004 and became a cultural phenomenon?",
+      "choices": [
+        "Martin Scorsese",
+        "Mel Gibson",
+        "Pier Paolo Pasolini",
+        "Denys Arcand"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The chocolate Easter bunny tradition in Germany originated during which century?",
+      "choices": [
+        "15th century",
+        "17th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the liturgical calendar, the period of 50 days from Easter to Pentecost is known by which term?",
+      "choices": [
+        "Paschal season",
+        "Eastertide",
+        "Post-Easter period",
+        "Pentecostal season"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Council of Nicaea establish the method for calculating the date of Easter?",
+      "choices": [
+        "325 AD",
+        "381 AD",
+        "451 AD",
+        "529 AD"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to Christian tradition, which two aromatic substances were used to anoint Jesus' body before burial?",
+      "choices": [
+        "Frankincense and myrrh",
+        "Aloes and myrrh",
+        "Spikenard and frankincense",
+        "Cinnamon and aloes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The word 'Easter' is believed to derive from Eostre, an Anglo-Saxon goddess associated with which concept?",
+      "choices": [
+        "War and victory",
+        "Spring and fertility",
+        "The harvest and abundance",
+        "The moon and tides"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Gospel accounts, what physical characteristic revealed Peter's Galilean identity during Jesus' trial?",
+      "choices": [
+        "His clothing and accent",
+        "His accent alone",
+        "His dialect and manner of speech",
+        "His appearance and clothing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which color is historically documented as the color of the robe placed upon Jesus before his crucifixion?",
+      "choices": [
+        "Red",
+        "Scarlet",
+        "Purple",
+        "White"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Easter Island received its name from European explorers who discovered it on which significant day?",
+      "choices": [
+        "Christmas Day",
+        "Easter Sunday",
+        "Good Friday",
+        "Ascension Day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Chile formally annex Easter Island and bring it under its sovereignty?",
+      "choices": [
+        "1872",
+        "1888",
+        "1903",
+        "1926"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country's Easter tradition substitutes the Easter bilby for the Easter bunny due to ecological concerns?",
+      "choices": [
+        "New Zealand",
+        "South Africa",
+        "Australia",
+        "Austria"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The French word 'Pâques' for Easter derives from which Hebrew term relating to a major Jewish festival?",
+      "choices": [
+        "Pesach (Passover)",
+        "Shavuot",
+        "Sukkot",
+        "Hanukkah"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to historical records, approximately how many people were present at the Last Supper, including Jesus?",
+      "choices": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Eastern European country is 'Húsvét' the traditional name for the Easter celebration?",
+      "choices": [
+        "Poland",
+        "Hungary",
+        "Romania",
+        "Slovakia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Hollywood western film from 1965 featured John Wayne in a production about biblical events?",
+      "choices": [
+        "The Searchers",
+        "The Greatest Story Ever Told",
+        "True Grit",
+        "Rio Bravo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The animated television special 'The Easter Bunny Is Comin' to Town' premiered in which year?",
+      "choices": [
+        "1975",
+        "1977",
+        "1979",
+        "1981"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Poland is home to the world's largest collection of decorated Easter eggs, which are traditionally called by what name?",
+      "choices": [
+        "Pisanki",
+        "Kraszanki",
+        "Swieconka",
+        "Jajka"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During Jesus' trial, to which regional ruler did Pontius Pilate send Jesus upon learning of his Galilean origin?",
+      "choices": [
+        "Caiaphas",
+        "Herod Antipas",
+        "Philip",
+        "Archelaus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Central European country is historically credited with originating the Easter Bunny gift-giving tradition?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Alsace"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In biblical tradition, what was the primary occupation held by Zacchaeus before his encounter with Jesus?",
+      "choices": [
+        "A wealthy merchant",
+        "A chief tax collector",
+        "A Roman centurion",
+        "A temple money changer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Shrove Tuesday, which precedes Ash Wednesday, is known by what alternative name in French-speaking regions?",
+      "choices": [
+        "Mardi Gras",
+        "Mardi Blanc",
+        "Dimanche des Rameaux",
+        "Lundi de Pâques"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Hungarian communist leader and revolutionary figure died on Easter Monday in 2005?",
+      "choices": [
+        "János Kádár",
+        "Pál Lósonczy",
+        "Imre Nagy",
+        "György Lukács"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The animated film 'Hop', which featured an Easter Bunny character, was released in which year?",
+      "choices": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Eastern Orthodox tradition, what is the name of the week preceding Easter Sunday?",
+      "choices": [
+        "Passion Week",
+        "Holy Week",
+        "Bright Week",
+        "Great Week"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 19th-century jeweler created the first jeweled Easter egg as a gift for Russian royalty?",
+      "choices": [
+        "Peter Carl Fabergé",
+        "Augustin-Jean Lamy",
+        "Claude Monet",
+        "Georges Fouquet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the theological term for the 40-day period of fasting and penance before Easter?",
+      "choices": [
+        "Advent",
+        "Lent",
+        "Paschal Season",
+        "Pentecost"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Russian Orthodox Church, what is the traditional Easter greeting response to 'Christ is Risen'?",
+      "choices": [
+        "Truly He is Risen",
+        "He is Risen Indeed",
+        "Glory to the Resurrection",
+        "Verily, He Ascends"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German Easter tradition involves rolling decorated eggs downhill in competition?",
+      "choices": [
+        "Ostereierschieben",
+        "Eierrollen",
+        "Eierrennen",
+        "Rolleneier"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval times, what was the primary purpose of the Easter sepulchre in church architecture?",
+      "choices": [
+        "A burial vault for clergy",
+        "A representation of Christ's tomb for ceremonial reenactment",
+        "A storage chamber for communion wine",
+        "A monument to local nobility"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the astronomical basis for Easter's date calculation, involving the vernal equinox?",
+      "choices": [
+        "The first full moon after the vernal equinox",
+        "The vernal equinox itself",
+        "The second full moon after the winter solstice",
+        "The Sunday closest to the vernal equinox"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Roman festival was sometimes associated with early Easter celebrations?",
+      "choices": [
+        "Lupercalia",
+        "Floralia",
+        "Saturnalia",
+        "Parentalia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Poland, what is the traditional Easter Monday custom called 'Smigus-Dyngus' primarily involved?",
+      "choices": [
+        "Exchanging decorated bread loaves",
+        "Pouring water on and playfully spanking others",
+        "Burning effigies in bonfires",
+        "Competitive egg rolling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the Greek Orthodox practice of exchanging red-dyed eggs at Easter?",
+      "choices": [
+        "Paschal Eggs",
+        "Tsougaro",
+        "Byzantine Eggs",
+        "Liturgical Dyes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Venerable Bede's 8th-century writings, from which Germanic goddess was the word 'Easter' possibly derived?",
+      "choices": [
+        "Frigga",
+        "Eostre",
+        "Hel",
+        "Idunn"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific biblical event does the rending of the Temple veil during the Crucifixion symbolize in Christian theology?",
+      "choices": [
+        "God's anger at mankind",
+        "The end of the old covenant and access to God through Christ",
+        "The destruction of Jerusalem",
+        "The separation of the sacred and profane"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French composer created 'Les Rameaux' (The Palms), a work performed during Palm Sunday processions?",
+      "choices": [
+        "Gabriel Fauré",
+        "Jean-Baptiste Faure",
+        "Charles Gounod",
+        "Camille Saint-Saëns"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Ethiopian Orthodox Church, what is the traditional Easter bread called?",
+      "choices": [
+        "Dabo",
+        "Injera",
+        "Teff",
+        "Shiro"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the liturgical color traditionally used in Western Christian churches during the Easter season?",
+      "choices": [
+        "Gold",
+        "White",
+        "Purple",
+        "Red"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval Easter mystery plays, what was the comedic character figure accompanying the Three Maries called?",
+      "choices": [
+        "The Fool",
+        "The Devil's Advocate",
+        "The Unguentarius",
+        "The Sexton"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Protestant reformer's objection to indulgences for Easter penance was a catalyst for the Reformation?",
+      "choices": [
+        "John Calvin",
+        "Martin Luther",
+        "Huldrych Zwingli",
+        "John Knox"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The word 'Easter' is believed to derive from the name of an Anglo-Saxon goddess of what?",
+      "choices": [
+        "War",
+        "Dawn / spring / fertility",
+        "Harvest",
+        "The moon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Hot Cross Buns are traditionally eaten on which day?",
+      "choices": [
+        "Shrove Tuesday",
+        "Ash Wednesday",
+        "Good Friday",
+        "Easter Monday"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Easter story, who sentenced Jesus to crucifixion?",
+      "choices": [
+        "Caiaphas",
+        "King Herod",
+        "Pontius Pilate",
+        "Judas Iscariot"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What kind of eggs did Imperial Russia's Fabergé workshop famously create for Tsars Alexander III and Nicholas II for Easter?",
+      "choices": [
+        "Painted wooden eggs",
+        "Jeweled imperial eggs",
+        "Gold-dipped eggs",
+        "Crystal eggs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What day immediately precedes Ash Wednesday (and Lent) in many countries?",
+      "choices": [
+        "Palm Sunday",
+        "Shrove Tuesday / Mardi Gras / Fat Tuesday",
+        "Holy Saturday",
+        "Good Friday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Orthodox Christian country is famous for its 'Pascha' Easter bread and red-dyed eggs?",
+      "choices": [
+        "Russia",
+        "Greece",
+        "Serbia",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Last Supper, a key part of the Easter story, is commemorated on what day?",
+      "choices": [
+        "Maundy Thursday",
+        "Good Friday",
+        "Easter Sunday",
+        "Palm Sunday"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What kind of flowers are traditionally associated with Easter, especially in North America?",
+      "choices": [
+        "Lilies (Easter Lily)",
+        "Daffodils",
+        "Tulips",
+        "Roses"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On the first Easter morning, who first discovered Jesus's empty tomb?",
+      "choices": [
+        "Mary Magdalene",
+        "John the Apostle",
+        "Peter",
+        "Joseph of Arimathea"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Easter Act passed, establishing rules for calculating Easter's date?",
+      "choices": [
+        "1912",
+        "1928",
+        "1945",
+        "1961"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient council is credited with fixing the method for calculating the date of Easter?",
+      "choices": [
+        "Council of Constantinople",
+        "Council of Nicaea",
+        "Council of Trent",
+        "Council of Ephesus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional Ukrainian art form of decorating eggs called?",
+      "choices": [
+        "Pysanka",
+        "Paskha",
+        "Pisanki",
+        "Paques"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Friday before Easter Sunday is known by what name?",
+      "choices": [
+        "Holy Friday",
+        "Good Friday",
+        "Blessed Friday",
+        "Sacred Friday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The day before Easter Sunday is called what in the Christian calendar?",
+      "choices": [
+        "Easter Eve",
+        "Holy Saturday",
+        "Resurrection Eve",
+        "Easter Vigil"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Thursday before Easter Sunday traditionally called?",
+      "choices": [
+        "Holy Thursday",
+        "Maundy Thursday",
+        "Ascension Thursday",
+        "White Thursday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In French, the word for Easter is 'Pâques.' In which other Romance language does it translate to 'Pascua'?",
+      "choices": [
+        "Italian",
+        "Portuguese",
+        "Spanish",
+        "Romanian"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which traditional Easter bread is characterized by a cross marked on its top?",
+      "choices": [
+        "Panettone",
+        "Hot Cross Bun",
+        "Simnel Cake",
+        "Babka"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to biblical accounts, after his resurrection, Jesus appeared to the disciples beside which sea?",
+      "choices": [
+        "Sea of Galilee",
+        "Sea of Tiberias",
+        "Dead Sea",
+        "Mediterranean Sea"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which day of the week does the Easter Egg Roll traditionally take place at the White House?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The world's oldest hot cross bun, preserved in a London museum, is approximately how many years old?",
+      "choices": [
+        "89 years",
+        "139 years",
+        "189 years",
+        "239 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Bible, Zacchaeus held what occupation in Jericho?",
+      "choices": [
+        "Temple priest",
+        "Chief tax collector",
+        "Roman soldier",
+        "Merchant trader"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Gospel accounts, on which day of the week did Jesus rise from the dead?",
+      "choices": [
+        "Second day of the week",
+        "First day of the week",
+        "Third day of the week",
+        "Fourth day of the week"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which disciple denied knowing Jesus three times, as foretold?",
+      "choices": [
+        "Judas Iscariot",
+        "Thomas",
+        "Peter",
+        "James"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Peter's accent reveal when he denied knowing Jesus at the trial?",
+      "choices": [
+        "His Jewish heritage",
+        "His foreign origin",
+        "His Galilean origin",
+        "His priestly training"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The film 'The Last Temptation of Christ' is based on a novel by which author?",
+      "choices": [
+        "Nikos Kazantzakis",
+        "Fyodor Dostoyevsky",
+        "Leo Tolstoy",
+        "Mikhail Bulgakov"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actor portrayed Jesus Christ in Martin Scorsese's 'The Last Temptation of Christ'?",
+      "choices": [
+        "Robert Powell",
+        "Willem Dafoe",
+        "Jim Caviezel",
+        "Max von Sydow"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to a Hallmark survey, what is the most popular symbol featured on their Easter greeting cards?",
+      "choices": [
+        "Easter Bunny",
+        "Eggs",
+        "Flowers",
+        "Chicks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In North America, the Easter Bunny character most commonly known by what name?",
+      "choices": [
+        "Bugs Bunny",
+        "Peter Cottontail",
+        "Roger Rabbit",
+        "Thumper"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What percentage of people surveyed report biting off the ears of a chocolate bunny first?",
+      "choices": [
+        "63 percent",
+        "76 percent",
+        "88 percent",
+        "91 percent"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did the Easter bunny first emerge as a symbol in Germanic culture?",
+      "choices": [
+        "14th century",
+        "16th century",
+        "18th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary flower traditionally associated with Easter celebrations?",
+      "choices": [
+        "Rose",
+        "Tulip",
+        "Lily",
+        "Daisy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what day of the week does Lent begin each year?",
+      "choices": [
+        "Monday",
+        "Wednesday",
+        "Friday",
+        "Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many chocolate bunnies are produced and sold worldwide during a typical Easter season?",
+      "choices": [
+        "30 million",
+        "60 million",
+        "90 million",
+        "120 million"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gospel account describes Jesus being compelled to carry his cross to Golgotha?",
+      "choices": [
+        "Gospel of Mark",
+        "Gospel of Luke",
+        "Gospel of John",
+        "Gospel of Matthew"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional food is commonly eaten on Shrove Tuesday, the day before Ash Wednesday?",
+      "choices": [
+        "Hot cross buns",
+        "Pancakes",
+        "Chocolate eggs",
+        "Easter bread"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what country is the world's largest decorated Easter egg monument located?",
+      "choices": [
+        "United States",
+        "Germany",
+        "Canada",
+        "Australia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What event is commemorated on Palm Sunday?",
+      "choices": [
+        "Jesus' resurrection",
+        "Jesus' birth",
+        "Jesus riding into Jerusalem",
+        "The Last Supper"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Gospels, what action did Judas use to identify Jesus to the authorities?",
+      "choices": [
+        "He pointed at him",
+        "He kissed him",
+        "He called out his name",
+        "He handed him money"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what ancient language does the word 'Ostra' appear, referring to the Easter season?",
+      "choices": [
+        "Old Norse",
+        "Old German",
+        "Proto-Germanic",
+        "Old English"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what day is Jesus' crucifixion commemorated in the Christian calendar?",
+      "choices": [
+        "Maundy Thursday",
+        "Good Friday",
+        "Holy Saturday",
+        "Easter Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the trial narrative, what feature of Peter's speech betrayed his association with Jesus?",
+      "choices": [
+        "His accent from Galilee",
+        "His use of Aramaic",
+        "His tears",
+        "His loudness"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What price did the world's most expensive chocolate Easter egg fetch at auction?",
+      "choices": [
+        "£3,500",
+        "£7,000",
+        "£10,500",
+        "£14,000"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to historical records, approximately how old is the world's oldest preserved hot cross bun?",
+      "choices": [
+        "89 years",
+        "139 years",
+        "189 years",
+        "239 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animated film features a character named Sunny the bunny delivering eggs to neighboring towns?",
+      "choices": [
+        "Easter Parade",
+        "The Easter Bunny is Comin' to Town",
+        "Here Comes Peter Cottontail",
+        "The Tale of the Easter Bunny"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Christian tradition, what does Maundy Thursday commemorate?",
+      "choices": [
+        "Jesus' arrest",
+        "The Last Supper",
+        "The Crucifixion",
+        "The Resurrection"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gospel accounts, who is identified as the man who carried Jesus' cross for him?",
+      "choices": [
+        "Peter",
+        "John",
+        "Simon",
+        "Andrew"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the period of fasting and spiritual preparation that precedes Easter called?",
+      "choices": [
+        "Advent",
+        "Lent",
+        "Pentecost",
+        "Epiphany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what day of the week is Easter always celebrated in Western Christian tradition?",
+      "choices": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which European country did the tradition of the Easter Bunny as an egg-delivering figure originate?",
+      "choices": [
+        "Germany",
+        "France",
+        "Italy",
+        "Switzerland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to Christian tradition, what day of the week did Jesus rise from the dead?",
+      "choices": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "Friday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the period of fasting and spiritual preparation that precedes Easter?",
+      "choices": [
+        "Advent",
+        "Lent",
+        "Pentecost",
+        "Epiphany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which mount did Jesus pray in the garden the night before his crucifixion?",
+      "choices": [
+        "Mount Sinai",
+        "Mount Carmel",
+        "Mount of Olives",
+        "Mount Ararat"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional bread, marked with a cross, is commonly eaten during the Easter season?",
+      "choices": [
+        "Focaccia",
+        "Hot Cross Bun",
+        "Challah",
+        "Ciabatta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gospel accounts, how many times did Peter deny knowing Jesus before the crucifixion?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Jewish festival, celebrated around the same time as Easter, commemorates the exodus from Egypt?",
+      "choices": [
+        "Yom Kippur",
+        "Hanukkah",
+        "Passover",
+        "Shavuot"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In medieval Europe, what recreational activity involving eggs was sometimes permitted in churches on Easter?",
+      "choices": [
+        "Egg rolling",
+        "Toss the Egg",
+        "Egg decorating",
+        "Egg balancing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the week immediately preceding Easter Sunday?",
+      "choices": [
+        "Holy Week",
+        "Passion Week",
+        "Easter Week",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Gospel of Matthew, what was the name of the place where Jesus was crucified?",
+      "choices": [
+        "Calvary",
+        "Golgotha",
+        "The skull",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What method was used to fasten Jesus to the cross according to Christian tradition?",
+      "choices": [
+        "Ropes",
+        "Wooden pegs",
+        "Iron nails",
+        "Chains"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is credited with originating the Easter egg decoration tradition as a Christian symbol?",
+      "choices": [
+        "Poland",
+        "Russia",
+        "Ukraine",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what season of the year does Easter always occur?",
+      "choices": [
+        "Winter",
+        "Spring",
+        "Summer",
+        "Autumn"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Friday immediately before Easter Sunday called?",
+      "choices": [
+        "Black Friday",
+        "Good Friday",
+        "Holy Friday",
+        "Sorrowful Friday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many apostles attended the Last Supper with Jesus?",
+      "choices": [
+        "Ten",
+        "Eleven",
+        "Twelve",
+        "Thirteen"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Hebrew word, meaning 'praise the Lord,' is commonly sung during Easter celebrations?",
+      "choices": [
+        "Hosanna",
+        "Hallelujah",
+        "Amen",
+        "Gloria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the popular children's story, what is the name of the well-known Easter Bunny character?",
+      "choices": [
+        "Roger Rabbit",
+        "Peter Rabbit",
+        "Benjamin Bunny",
+        "Bugs Bunny"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What day of the week does Ash Wednesday, which marks the beginning of Lent, always occur?",
+      "choices": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Gospel of Mark, at what hour of the day was Jesus crucified?",
+      "choices": [
+        "First hour",
+        "Third hour",
+        "Sixth hour",
+        "Ninth hour"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of lily is traditionally associated with Easter and symbolizes rebirth?",
+      "choices": [
+        "Tiger lily",
+        "Water lily",
+        "Easter lily",
+        "Asiatic lily"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century were chocolate Easter eggs first commercially produced?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to Christian tradition, on which day of Holy Week does Maundy Thursday occur?",
+      "choices": [
+        "3rd day",
+        "4th day",
+        "5th day",
+        "6th day"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "To whom did Pontius Pilate send Jesus after learning he was from Galilee?",
+      "choices": [
+        "Caiaphas",
+        "Herod",
+        "Joseph of Arimathea",
+        "The Sanhedrin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What sign did Judas use to identify Jesus to the Roman soldiers and temple guards?",
+      "choices": [
+        "Pointing with his staff",
+        "Speaking a secret password",
+        "Kissing him",
+        "Touching his garment"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the animated film 'Hop' released?",
+      "choices": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to biblical accounts, how many disciples attended the Last Supper with Jesus?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Jesus tell his followers they were consuming when he offered them bread at the Last Supper?",
+      "choices": [
+        "His blood",
+        "His body",
+        "His spirit",
+        "His covenant"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many chocolate bunnies are sold in the United States each Easter season?",
+      "choices": [
+        "30 million",
+        "45 million",
+        "60 million",
+        "75 million"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the movie 'Mallrats', which holiday mascot character do Jay and Silent Bob fight?",
+      "choices": [
+        "Santa Claus",
+        "The Easter Bunny",
+        "Cupid",
+        "Uncle Sam"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What procession is traditionally headed by a cross as its leading symbolic object?",
+      "choices": [
+        "Palm procession",
+        "Crucession",
+        "Resurrection march",
+        "Ascension parade"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gospel of John, who provides the narration in the 1978 film adaptation?",
+      "choices": [
+        "Laurence Olivier",
+        "Christopher Plummer",
+        "Ian Richardson",
+        "Alec Guinness"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the hollow Easter egg symbolize in Christian tradition?",
+      "choices": [
+        "The stone rolled away from the tomb",
+        "Jesus' empty tomb",
+        "The resurrection of Christ",
+        "The covenant of life"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the voice cast of 'Winnie the Pooh: Springtime with Roo', who voiced Winnie the Pooh?",
+      "choices": [
+        "John Fiedler",
+        "Jim Cummings",
+        "Sterling Holloway",
+        "Peter Dennis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What sound did the Gospel describe hearing after Peter denied knowing Jesus three times?",
+      "choices": [
+        "A bell ringing",
+        "A rooster crowing",
+        "A drum beating",
+        "Thunder"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sweet focaccia bread is traditionally eaten during which Christian holiday?",
+      "choices": [
+        "Christmas",
+        "Pentecost",
+        "Easter",
+        "Epiphany"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the Gospel narrative, at what hour of the day was Jesus crucified?",
+      "choices": [
+        "The first hour",
+        "The third hour",
+        "The sixth hour",
+        "The ninth hour"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the animated film 'The Lion of Judah', what type of animal is the protagonist Judah?",
+      "choices": [
+        "Lion",
+        "Lamb",
+        "Donkey",
+        "Dove"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many Easter eggs are hunted by children each year in the United States?",
+      "choices": [
+        "500 million",
+        "1 billion",
+        "1.5 billion",
+        "2 billion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What meal that Jesus shared with his followers before his arrest is called the Last Supper?",
+      "choices": [
+        "The Passover feast",
+        "The breaking of bread",
+        "The communion meal",
+        "The covenant dinner"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did chocolate Easter eggs first become popular in Europe?",
+      "choices": [
+        "17th century",
+        "19th century",
+        "18th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to biblical accounts, how many silver coins did Judas receive to betray Jesus?",
+      "choices": [
+        "20 coins",
+        "30 coins",
+        "40 coins",
+        "50 coins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Easter celebration in the French language?",
+      "choices": [
+        "Pascua",
+        "Paques",
+        "Pask",
+        "Pascha"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actor starred as the voice of the Easter Bunny in the 2011 film Hop?",
+      "choices": [
+        "James Marsden",
+        "Russell Brand",
+        "Hugh Laurie",
+        "Seth Rogen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which day of the week is the White House Easter Egg Roll traditionally held?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to tradition in some European countries, what is burned in Easter bonfires to represent betrayal?",
+      "choices": [
+        "Straw figures",
+        "Effigies of Judas",
+        "Old wooden crosses",
+        "Candles and wax"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the word 'scourge' mean, as referenced in biblical accounts of Jesus's punishment?",
+      "choices": [
+        "Crown of thorns",
+        "Whip",
+        "Rope",
+        "Staff"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which individual helped Jesus carry his cross to Golgotha according to the Gospels?",
+      "choices": [
+        "Joseph of Arimathea",
+        "Simon of Cyrene",
+        "Nicodemus",
+        "James the Greater"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which day of the Christian calendar are hot cross buns traditionally eaten?",
+      "choices": [
+        "Easter Sunday",
+        "Good Friday",
+        "Maundy Thursday",
+        "Palm Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "From which Anglo-Saxon goddess does the English word 'Easter' derive its name?",
+      "choices": [
+        "Brigid",
+        "Eostre",
+        "Hecate",
+        "Frigga"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the world's most expensive decorated egg sold at auction?",
+      "choices": [
+        "1995",
+        "2002",
+        "2008",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

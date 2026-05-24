@@ -1,289 +1,2009 @@
 {
   "slug": "brands-worldwide-trivia",
   "name": "Brands Worldwide",
-  "description": "Logos, founders, taglines — the world's most iconic brands.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.450Z",
   "questions": [
     {
-      "q": "Which tech giant is headquartered in Armonk, New York?",
-      "choices": ["IBM", "Apple", "Microsoft", "Google"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "IBM",
-        "verified": true,
-        "notes": "Founded 1911."
-      }
+      "q": "Which fruit is the Apple computer brand named after?",
+      "choices": [
+        "Granny Smith apple",
+        "Macintosh apple",
+        "Golden Delicious apple",
+        "Honeycrisp apple"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What was IBM originally called when founded in 1911?",
+      "q": "In which Italian city was the Dolce & Gabbana fashion house founded?",
       "choices": [
-        "Computing-Tabulating-Recording Company",
-        "Tabulating Machine Company",
-        "International Tabulators",
-        "Hollerith Computing Co."
+        "Rome",
+        "Venice",
+        "Milan",
+        "Florence"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sports brand features a laurel wreath as part of its logo?",
+      "choices": [
+        "Fred Perry",
+        "Adidas",
+        "Nike",
+        "Puma"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Computing-Tabulating-Recording Company",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: IBM was founded as CTR in 1911 (a merger of TMC + 2 others); TMC was a predecessor. Fixed correct index from 3 to 0; replaced bogus 'both' option with 'Hollerith Computing Co.' distractor. Renamed IBM in 1924."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which iconic camera brand has fallen from cultural ubiquity to bankruptcy?",
-      "choices": ["Kodak", "Polaroid", "Olympus", "Fuji"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cameras",
-        "verified": true,
-        "notes": "Filed Chapter 11 in 2012."
-      }
-    },
-    {
-      "q": "What fruit is the Apple Macintosh computer named after?",
+      "q": "What iconic shape appears in the Taco Bell logo?",
       "choices": [
-        "McIntosh apple",
-        "Granny Smith",
-        "Honeycrisp",
-        "Red Delicious"
+        "A star",
+        "A bell",
+        "A taco",
+        "A flame"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Kodak is primarily known for manufacturing what type of product?",
+      "choices": [
+        "Film and cameras",
+        "Printers and ink",
+        "Smartphones",
+        "Television sets"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "An apple",
-        "verified": true,
-        "notes": "Project lead Jef Raskin's favorite apple variety."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which luxury car brand also produces engines for planes and submarines?",
+      "q": "Which brand is famous for selling nail polish products?",
+      "choices": [
+        "Revlon",
+        "Essie",
+        "MAC",
+        "Lancôme"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade did Barbara Hulanicki establish the Biba fashion boutiques?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fashion designer created the iconic 'New Look' style after World War II?",
+      "choices": [
+        "Coco Chanel",
+        "Christian Dior",
+        "Givenchy",
+        "Valentino"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What colorful characters are featured in M&M's branding?",
+      "choices": [
+        "Stars",
+        "Circles",
+        "Squares",
+        "Hearts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Steve Jobs orchestrate the merger of Pixar with Disney?",
+      "choices": [
+        "2004",
+        "2005",
+        "2006",
+        "2007"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fashion designer is credited with inventing the modern bikini?",
+      "choices": [
+        "Coco Chanel",
+        "Elsa Schiaparelli",
+        "Louis Reard",
+        "Jean Patou"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which retractable cosmetic product carries the brand name YOYO?",
+      "choices": [
+        "Eyeliner",
+        "Lip gloss",
+        "Concealer",
+        "Eyeshadow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which skincare brand was created by Dr. Jean-Charles Lissarrague?",
+      "choices": [
+        "Neutrogena",
+        "RoC",
+        "CeraVe",
+        "Eucerin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Jay-Z launched which fashion label?",
+      "choices": [
+        "Rocawear",
+        "Dereon",
+        "Ecko",
+        "Phat Farm"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which designer created Liz Hurley's famous safety pin dress in 1994?",
+      "choices": [
+        "Gianni Versace",
+        "Giorgio Armani",
+        "Tom Ford",
+        "Donatella Versace"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country was fashion designer Paco Rabanne born?",
+      "choices": [
+        "France",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which wireless payment system did Google launch in 2011?",
+      "choices": [
+        "Google Pay",
+        "Google Wallet",
+        "Google Cash",
+        "Google Transfer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which luxury skincare brand is owned by L'Oréal?",
+      "choices": [
+        "Clinique",
+        "Kiehl's",
+        "Estée Lauder",
+        "Shiseido"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the fashion brand launched by Lily Allen in 2007?",
+      "choices": [
+        "Lily Love",
+        "Lily Loves",
+        "Allen Wear",
+        "Lily Fashion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beauty brand created the lipstick color 'Red Russian' popularized by Madonna in 1990?",
+      "choices": [
+        "Revlon",
+        "M.A.C.",
+        "Chanel",
+        "Bobbi Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian fashion house was founded in Milan and is known for its luxury handbags and clothing?",
+      "choices": [
+        "Gucci",
+        "Dolce & Gabbana",
+        "Prada",
+        "Versace"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was the social networking platform Facebook launched?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which chocolate bar brand features a melting chocolate character in its advertising?",
+      "choices": [
+        "Cadbury",
+        "M&M's",
+        "Hershey's",
+        "Nestlé"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the 'M' stand for in the tech company IBM?",
+      "choices": [
+        "Machinery",
+        "Machines",
+        "Manufacturing",
+        "Modern"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast-food chain is famous for its golden arches logo?",
+      "choices": [
+        "Burger King",
+        "McDonald's",
+        "Wendy's",
+        "Subway"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What sporting goods company uses a swoosh as its logo?",
+      "choices": [
+        "Adidas",
+        "Nike",
+        "Puma",
+        "Reebok"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which luxury watch brand is known for its three interlocking rings logo?",
+      "choices": [
+        "Rolex",
+        "Omega",
+        "Bvlgari",
+        "Patek Philippe"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was the first iPhone released by Apple?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cosmetics brand is known for its red lipstick and fashion collaborations?",
+      "choices": [
+        "MAC",
+        "Maybelline",
+        "Revlon",
+        "L'Oréal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What soft drink brand has the slogan 'Open Happiness'?",
+      "choices": [
+        "Pepsi",
+        "Coca-Cola",
+        "Fanta",
+        "Sprite"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fashion magazine is the world's largest by circulation?",
+      "choices": [
+        "Vogue",
+        "Elle",
+        "Harper's Bazaar",
+        "Marie Claire"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the luxury car brand owned by BMW?",
       "choices": [
         "Rolls-Royce",
         "Bentley",
-        "Jaguar",
-        "Bugatti"
+        "Maybach",
+        "Lamborghini"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Rolls Royce",
-        "verified": true,
-        "notes": "Rolls-Royce plc (engines) and Rolls-Royce Motor Cars are now separate companies."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which streaming brand was started by Daniel Ek in Sweden?",
-      "choices": ["Spotify", "Tidal", "Deezer", "SoundCloud"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Founded 2006; launched 2008."
-      }
-    },
-    {
-      "q": "What logo is famously a swoosh, designed by Carolyn Davidson for $35 in 1971?",
-      "choices": ["Nike", "Adidas", "Reebok", "Puma"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Davidson was later given Nike stock, eventually worth ~$640K."
-      }
-    },
-    {
-      "q": "What's the slogan of Nike?",
+      "q": "Which streaming service is known for the Netflix logo and red background?",
       "choices": [
-        "Just Do It",
-        "Impossible Is Nothing",
-        "Forever Faster",
-        "I'm Lovin' It"
+        "Hulu",
+        "Netflix",
+        "Disney+",
+        "Amazon Prime Video"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What beverage brand is known for its white and red polar bear mascot?",
+      "choices": [
+        "Sprite",
+        "Fanta",
+        "Coca-Cola",
+        "7UP"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which luxury fashion designer created the iconic 'LV' monogram?",
+      "choices": [
+        "Gucci",
+        "Louis Vuitton",
+        "Hermès",
+        "Chanel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Twitter launch as a social media platform?",
+      "choices": [
+        "2005",
+        "2006",
+        "2007",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which hotel chain is famous for its five-star luxury and the phrase 'We are Ladies and Gentlemen serving Ladies and Gentlemen'?",
+      "choices": [
+        "Hilton",
+        "Ritz-Carlton",
+        "Four Seasons",
+        "Mandarin Oriental"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What gaming company created the Super Mario franchise?",
+      "choices": [
+        "Sega",
+        "Nintendo",
+        "Sony",
+        "Atari"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British fashion brand is known for its iconic tartan plaid pattern?",
+      "choices": [
+        "Burberry",
+        "Aquascutum",
+        "Barbour",
+        "Ted Baker"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Coined by Dan Wieden in 1988."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What's the slogan of McDonald's (post-2003)?",
+      "q": "What year was Instagram launched as a photo-sharing social media app?",
       "choices": [
-        "I'm Lovin' It",
-        "Have It Your Way",
-        "Eat Mor Chikin",
-        "Live Más"
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sportswear brand is known for its distinctive swoosh logo?",
+      "choices": [
+        "Adidas",
+        "Nike",
+        "Reebok",
+        "Puma"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What product does the cosmetics brand Essie primarily sell?",
+      "choices": [
+        "Lipstick",
+        "Nail polish",
+        "Foundation",
+        "Eye shadow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade did Mary Quant introduce the iconic mini skirt?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fast-food restaurant chain features a girl's face as part of its logo?",
+      "choices": [
+        "McDonald's",
+        "Burger King",
+        "Wendy's",
+        "Chick-fil-A"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient and flavor associated with the Tabasco brand?",
+      "choices": [
+        "Black pepper",
+        "Red chili peppers",
+        "Garlic",
+        "Vinegar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fashion designer introduced the Rocawear clothing label?",
+      "choices": [
+        "Kanye West",
+        "Jay-Z",
+        "Pharrell Williams",
+        "Diddy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the video game Pac-Man released?",
+      "choices": [
+        "1978",
+        "1980",
+        "1982",
+        "1984"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which luxury car manufacturer was the first to surpass 200 miles per hour?",
+      "choices": [
+        "Ferrari",
+        "Lamborghini",
+        "Porsche",
+        "Mercedes-Benz"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the technology company IBM stand for?",
+      "choices": [
+        "International Business Machines",
+        "Integrated Business Management",
+        "International Banking Model",
+        "Interactive Business Media"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What's the iconic three-stripes brand founded by a German cobbler?",
-      "choices": ["Adidas", "Puma", "New Balance", "Asics"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Founded by Adolf 'Adi' Dassler. Brother Rudolf founded Puma."
-      }
-    },
-    {
-      "q": "Which fashion brand uses a polo player on horseback as its logo?",
+      "q": "Which fashion designer is credited with popularizing cargo pants through his brand?",
       "choices": [
-        "Ralph Lauren",
-        "Lacoste",
         "Tommy Hilfiger",
+        "Houlihan",
+        "Ralph Lauren",
+        "Calvin Klein"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What mobile design philosophy did Apple adopt for iOS 7?",
+      "choices": [
+        "Gradient-heavy design",
+        "Skeuomorphic design",
+        "Flat design",
+        "Maximalist design"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which US state is the high-end fashion boutique Aloha Rag located?",
+      "choices": [
+        "California",
+        "Hawaii",
+        "Florida",
+        "New York"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the birth year of fashion designer Anna Sui?",
+      "choices": [
+        "1955",
+        "1960",
+        "1964",
+        "1970"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous fashion house did Givenchy found in 1952?",
+      "choices": [
+        "Dior",
+        "Givenchy",
+        "Balenciaga",
+        "Lanvin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand features a flower design in its iconic logo?",
+      "choices": [
+        "Dum Dums",
+        "Chupa Chups",
+        "Lollipop Guild",
+        "Sweetarts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city was the NARS cosmetics brand first sold?",
+      "choices": [
+        "Los Angeles",
+        "Miami",
+        "New York",
+        "Chicago"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fashion designer was born in a poorhouse in 1883 and became a legendary couturier?",
+      "choices": [
+        "Elsa Schiaparelli",
+        "Coco Chanel",
+        "Jeanne Lanvin",
+        "Madame Grès"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Bob Marley's daughter who became a fashion designer?",
+      "choices": [
+        "Cedella",
+        "Stephanie",
+        "Asha",
+        "Ziggy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which luxury Italian fashion house is famous for its interlocking GG logo?",
+      "choices": [
+        "Gucci",
+        "Giorgio Armani",
+        "Givenchy",
+        "Gianfranco Ferré"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What product is the German brand Braun primarily known for manufacturing?",
+      "choices": [
+        "Electrical appliances and shavers",
+        "Luxury watches",
+        "Athletic footwear",
+        "Coffee machines"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which soft drink brand features a polar bear in its advertising campaigns?",
+      "choices": [
+        "Coca-Cola",
+        "Pepsi",
+        "Sprite",
+        "Fanta"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which luxury watch manufacturer, founded in 1905, is known for its distinctive Calatrava cross logo?",
+      "choices": [
+        "Patek Philippe",
+        "Audemars Piguet",
+        "Vacheron Constantin",
+        "Jaeger-LeCoultre"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Airbnb officially launch its platform for short-term rental accommodations?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The fashion house Hermès is traditionally known for manufacturing which luxury item as its flagship product?",
+      "choices": [
+        "Sunglasses",
+        "Leather handbags and saddles",
+        "Perfumes",
+        "Jewelry"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which automotive brand's logo features a prancing horse on a yellow shield?",
+      "choices": [
+        "Lamborghini",
+        "Ferrari",
+        "Maserati",
+        "Porsche"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Snapchat officially launch as a mobile application?",
+      "choices": [
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swiss pharmaceutical company acquired the skincare brand Olay from Procter & Gamble in 2016?",
+      "choices": [
+        "Novartis",
+        "Roche",
+        "Nestlé",
+        "GSK"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The cosmetics brand MAC was founded in which Canadian city?",
+      "choices": [
+        "Vancouver",
+        "Toronto",
+        "Montreal",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese denim brand, known for its raw selvedge denim, was founded in Okayama Prefecture?",
+      "choices": [
+        "Uniqlo",
+        "Evisu",
+        "Fullcount",
+        "Pure Blue Japan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary ingredient that luxury brand Crème de la Mer claims distinguishes its moisturizer formula?",
+      "choices": [
+        "Sea kelp extract",
+        "Miracle Broth",
+        "Marine collagen",
+        "Dead Sea minerals"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The athletic apparel brand Lululemon was founded in which Canadian city?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which luxury eyewear brand is owned by EssilorLuxottica and features a tortoiseshell pattern as its trademark?",
+      "choices": [
+        "Ray-Ban",
+        "Prada",
+        "Gucci",
+        "Tom Ford"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Uber Technologies officially launch its ride-sharing service?",
+      "choices": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The high-end home furnishings brand Restoration Hardware is headquartered in which US state?",
+      "choices": [
+        "California",
+        "Texas",
+        "New York",
+        "Florida"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian luxury brand, founded in 1921, is known for its interlocking GG logo?",
+      "choices": [
+        "Prada",
+        "Gucci",
+        "Versace",
+        "Armani"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The premium coffee brand Blue Bottle Coffee was founded in which US city?",
+      "choices": [
+        "Seattle",
+        "Portland",
+        "Oakland",
+        "San Francisco"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British luxury car manufacturer produces the Range Rover line of vehicles?",
+      "choices": [
+        "Rolls-Royce",
+        "Bentley",
+        "Land Rover",
+        "Aston Martin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The minimalist fashion brand COS is a subsidiary of which major retail conglomerate?",
+      "choices": [
+        "Inditex",
+        "H&M Group",
+        "Fast Retailing",
+        "Kering"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French luxury goods conglomerate owns the most brands globally as of 2024?",
+      "choices": [
+        "Kering",
+        "LVMH",
+        "Richemont",
+        "Hermès"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The outdoor apparel brand Arc'teryx was founded in which Canadian province?",
+      "choices": [
+        "Alberta",
+        "British Columbia",
+        "Ontario",
+        "Quebec"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which South Korean beauty brand, known for sheet masks and K-beauty products, is majority-owned by L'Oréal?",
+      "choices": [
+        "Missha",
+        "Amorepacific",
+        "Innisfree",
+        "Sheet Nation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which luxury jewelry brand, founded in 1837, is known for its iconic blue box packaging?",
+      "choices": [
+        "Cartier",
+        "Tiffany & Co.",
+        "Van Cleef & Arpels",
+        "Bulgari"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Brunello Cucinelli, the Italian luxury fashion brand, is primarily known for its expertise in which material?",
+      "choices": [
+        "Silk",
+        "Cashmere",
+        "Leather",
+        "Linen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Patagonia, the outdoor clothing company, implement a corporate structure giving away a percentage of pre-tax profits to environmental causes?",
+      "choices": [
+        "1985",
+        "1982",
+        "1988",
+        "1990"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Acne Studios is a fashion brand that originated in which Scandinavian capital city?",
+      "choices": [
+        "Oslo",
+        "Copenhagen",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hermès, the French luxury house, was originally established as a manufacturer of what type of goods?",
+      "choices": [
+        "Perfume",
+        "Leather saddles and harnesses",
+        "Silk scarves",
+        "Porcelain"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the flagship fragrance launched by Tom Ford in 2006 that became one of the best-selling designer fragrances?",
+      "choices": [
+        "Black Orchid",
+        "Ombre Leather",
+        "Lost Cherry",
+        "Neroli Portofino"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The skateboarding brand Supreme was founded in 1994 in which New York neighborhood?",
+      "choices": [
+        "SoHo",
+        "Williamsburg",
+        "Lower East Side",
+        "East Village"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Loro Piana, the Italian luxury brand acquired by LVMH, is best known for its high-end products made from which fiber?",
+      "choices": [
+        "Alpaca wool",
+        "Storm System fabric",
+        "Vicuña",
+        "Merino wool"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dieter Rams, legendary industrial designer, served as Chief Designer for which consumer electronics brand?",
+      "choices": [
+        "Braun",
+        "Siemens",
+        "Philips",
+        "AEG"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Comme des Garçons, the avant-garde fashion label, was founded by designer Rei Kawakubo in which Japanese city?",
+      "choices": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Kobe"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The luxury automotive brand Bentley was acquired by which German corporation in 1998?",
+      "choices": [
+        "BMW",
+        "Volkswagen Group",
+        "Daimler-Benz",
+        "Porsche"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rimowa, the premium luggage manufacturer, is known for which distinctive exterior design element?",
+      "choices": [
+        "Diagonal grooves",
+        "Diamond quilting",
+        "Circular rivets",
+        "Honeycomb pattern"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Japanese beauty brand SK-II is famous for its flagship ingredient derived from which fermentation process?",
+      "choices": [
+        "Sake brewing",
+        "Miso fermentation",
+        "Soy fermentation",
+        "Kombucha cultures"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Yohji Yamamoto, the avant-garde fashion designer, founded his label in which year?",
+      "choices": [
+        "1972",
+        "1981",
+        "1977",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The luxury watchmaker Lange & Söhne, known for precision German engineering, is headquartered in which region?",
+      "choices": [
+        "Black Forest",
+        "Saxony",
+        "Bavaria",
+        "Rhineland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Balenciaga was founded in 1919 by Cristóbal Balenciaga in which Spanish city?",
+      "choices": [
+        "Madrid",
+        "Barcelona",
+        "Bilbao",
+        "Seville"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The outdoor apparel brand Arc'teryx takes its name from which prehistoric creature?",
+      "choices": [
+        "Archaeopteryx",
+        "Pterodactyl",
+        "Dimorphodon",
+        "Quetzalcoatlus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Valentino Garavani founded his namesake fashion house in Rome in which year?",
+      "choices": [
+        "1960",
+        "1962",
+        "1965",
+        "1968"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The British motorcycle brand Triumph was reestablished after its decline by which Japanese automaker in the 1980s?",
+      "choices": [
+        "Honda",
+        "Suzuki",
+        "Yamaha",
+        "Kawasaki"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Issey Miyake, the Japanese fashion innovator, is credited with inventing which revolutionary fabric technology?",
+      "choices": [
+        "Gore-Tex",
+        "Pleats Please",
+        "Neoprene weaving",
+        "Moisture-wicking polyester"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian luxury fashion house, founded in 1975, is known for its interlocking GG logo?",
+      "choices": [
+        "Gucci",
+        "Givenchy",
+        "Gianfranco Ferré",
+        "Giorgio Armani"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Estée Lauder Companies owns which prestige skincare brand that was created by a dermatologist in 1968?",
+      "choices": [
+        "Clinique",
+        "La Mer",
+        "Origins",
+        "MAC"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swiss luxury watchmaker is famous for its Nautilus model introduced in 1976?",
+      "choices": [
+        "Patek Philippe",
+        "Audemars Piguet",
+        "Rolex",
+        "Longines"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Burberry's signature check pattern, also called the Burberry Tartan, was first used on which product in 1924?",
+      "choices": [
+        "Coat lining",
+        "Handbags",
+        "Scarves",
+        "Umbrellas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese automotive company manufactures luxury vehicles under the Lexus brand?",
+      "choices": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Mazda"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hermès' iconic Kelly bag was originally called by what name before 1956?",
+      "choices": [
+        "Sac à Dépêches",
+        "Gladstone",
+        "Constance",
+        "Birkin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which sportswear brand is owned by Ziff Davis and is known for its distinctive Swoosh logo?",
+      "choices": [
+        "Nike",
+        "Adidas",
+        "Puma",
+        "New Balance"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Champagne house Moët & Chandon is currently owned by which French luxury conglomerate?",
+      "choices": [
+        "LVMH",
+        "Kering",
+        "Hermès",
+        "Richemont"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British beauty brand, founded in 1935, is famous for its lipsticks and uses a blue packaging color as its signature?",
+      "choices": [
+        "Boots",
+        "Clarins",
+        "MAC",
+        "Charlotte Tilbury"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Balenciaga was founded in 1919 by Cristóbal Balenciaga in which European city?",
+      "choices": [
+        "San Sebastián",
+        "Madrid",
+        "Milan",
+        "Paris"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Korean beauty conglomerate owns the brands Sulwhasoo, MAC, and Estée Lauder?",
+      "choices": [
+        "Amorepacific",
+        "AmorePacific Group",
+        "LG Household & Health Care",
+        "Coty Inc."
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Red Sole, a signature design element on luxury footwear, is the trademark of which French designer?",
+      "choices": [
+        "Christian Louboutin",
+        "Manolo Blahnik",
+        "Jimmy Choo",
+        "Salvatore Ferragamo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German pharmaceutical and consumer goods company produces Aspirin?",
+      "choices": [
+        "Bayer",
+        "Merck",
+        "Boehringer Ingelheim",
+        "Schering-Plough"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Yves Saint Laurent's iconic Le Smoking tuxedo suit was introduced in which decade?",
+      "choices": [
+        "1960s",
+        "1950s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "which luxury conglomerate acquired Donna Karan International in 2001?",
+      "choices": [
+        "LVMH",
+        "Kering",
+        "Richemont",
+        "EssilorLuxottica"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Birkin bag by Hermès was named after which British-French actress and singer?",
+      "choices": [
+        "Jane Birkin",
+        "Brigitte Bardot",
+        "Audrey Hepburn",
+        "Twiggy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese beauty brand, founded in 1872, is known for its geisha-inspired aesthetic and white packaging?",
+      "choices": [
+        "Shiseido",
+        "Kose",
+        "Pola",
+        "Albion"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Valentino SpA is an Italian fashion house founded by Valentino Garavani in which year?",
+      "choices": [
+        "1960",
+        "1958",
+        "1962",
+        "1965"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American cosmetics brand, founded in 1946, is known for its 'Maybe She's Born With It' slogan?",
+      "choices": [
+        "Maybelline",
+        "Revlon",
+        "CoverGirl",
+        "L'Oréal Paris"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Porsche Design is a luxury brand founded by Ferdinand Alexander Porsche, the grandson of which famous automotive engineer?",
+      "choices": [
+        "Ferdinand Porsche",
+        "Gottlieb Daimler",
+        "Karl Benz",
+        "Rudolf Diesel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which luxury automotive brand, founded in 1945, uses a prancing horse as its logo symbol?",
+      "choices": [
+        "Lamborghini",
+        "Ferrari",
+        "Maserati",
+        "Pagani"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which luxury Italian fashion house was founded in Milan in 1913 by Mario Prada?",
+      "choices": [
+        "Gucci",
+        "Prada",
+        "Versace",
+        "Armani"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Google launch its mobile payment system called Google Wallet?",
+      "choices": [
+        "2009",
+        "2010",
+        "2011",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fashion designer created the iconic safety-pin dress worn by Liz Hurley at the Four Rooms premiere in 1994?",
+      "choices": [
+        "Armani",
+        "Versace",
+        "Dolce & Gabbana",
+        "Valentino"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cedella Marley, daughter of reggae legend Bob Marley, is known for her work in which industry?",
+      "choices": [
+        "Music production",
+        "Fashion design",
+        "Film directing",
+        "Publishing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French fashion house, known for haute couture and luxury goods, was established in 1952?",
+      "choices": [
+        "Chanel",
+        "Givenchy",
+        "Dior",
+        "Celine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "PayPal co-founder Max Levchin was born in which country?",
+      "choices": [
+        "Russia",
+        "Ukraine",
+        "Belarus",
+        "Kazakhstan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The cosmetics brand M.A.C. created which signature red lipstick shade famously worn by Madonna in 1990?",
+      "choices": [
+        "Ruby Red",
+        "Red Russian",
+        "Crimson Kiss",
+        "Scarlet Statement"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fashion designer is credited with inventing the modern two-piece bikini in 1946?",
+      "choices": [
+        "Coco Chanel",
+        "Elsa Schiaparelli",
+        "Louis Reard",
+        "Cristóbal Balenciaga"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did Rolls-Royce, primarily known for luxury automobiles, begin producing power systems for aircraft?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which skincare brand was founded by dermatologist Dr. Jean-Charles Lissarrague in the 1970s?",
+      "choices": [
+        "La Roche-Posay",
+        "RoC",
+        "Eucerin",
+        "CeraVe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Essie, a well-known cosmetics brand, is primarily known for manufacturing which product category?",
+      "choices": [
+        "Foundation",
+        "Mascara",
+        "Nail polish",
+        "Lipstick"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pepe Jeans, founded in 1975, originated in which country?",
+      "choices": [
+        "Spain",
+        "Italy",
+        "United Kingdom",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Fashion designer John Galliano is known for his work with which luxury fashion house during the 1990s and 2000s?",
+      "choices": [
+        "Givenchy",
+        "Dior",
+        "Gucci",
+        "Valentino"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which U.S. state is the upscale fashion retailer Aloha Rag located?",
+      "choices": [
+        "California",
+        "Hawaii",
+        "Florida",
+        "Texas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The high-street fashion retailer Jigsaw is primarily based in which country?",
+      "choices": [
+        "United States",
+        "Canada",
+        "United Kingdom",
+        "Australia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lily Allen launched a clothing and fashion accessories brand called what in 2007?",
+      "choices": [
+        "Allen Collection",
+        "Lily Loves",
+        "Allen Wear",
+        "Lily's Label"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The footwear brand Dr. Martens pioneered which shoe technology to provide support for injured feet?",
+      "choices": [
+        "Memory foam insoles",
+        "Air-cushioned soles",
+        "Gel padding",
+        "Spring-loaded heels"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which apparel brand, known for casual wear, was founded in 1969 and uses a blue box as its primary logo?",
+      "choices": [
+        "Levi's",
+        "GAP",
+        "Old Navy",
+        "H&M"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Kick Pleat store in Austin, Texas, sells fashion items and also functions as what type of venue?",
+      "choices": [
+        "Restaurant",
+        "Art gallery",
+        "Concert hall",
+        "Movie theater"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which multinational footwear and apparel company was founded in Germany in 1949 and features three stripes in its logo?",
+      "choices": [
+        "Nike",
+        "Puma",
+        "Adidas",
+        "New Balance"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which luxury Swiss watchmaker is known for its Submariner diving watch model?",
+      "choices": [
+        "Patek Philippe",
+        "Rolex",
+        "Omega",
+        "Tag Heuer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Nike introduce the Air Jordan sneaker line?",
+      "choices": [
+        "1982",
+        "1985",
+        "1987",
+        "1990"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese automobile brand produces the Civic and Accord models?",
+      "choices": [
+        "Toyota",
+        "Nissan",
+        "Honda",
+        "Mazda"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in Heinz's most famous product?",
+      "choices": [
+        "Tomato",
+        "Vinegar",
+        "Salt",
+        "Sugar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dutch brewery produces Heineken beer?",
+      "choices": [
+        "Heineken Brouwerijen",
+        "Amstel Brewery",
+        "Royal Grolsch",
+        "Van Acker & Sons"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did Coca-Cola introduce Diet Coke to the market?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish fashion brand is known for its fast-fashion model and rapid inventory turnover?",
+      "choices": [
+        "Desigual",
+        "Zara",
+        "Mango",
+        "Palomo Spain"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What country is the luxury brand Hermès originally from?",
+      "choices": [
+        "Italy",
+        "France",
+        "Switzerland",
+        "Austria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cosmetics brand is owned by Estée Lauder Companies and known for its MAC Fix+ spray?",
+      "choices": [
+        "Bobbi Brown",
+        "M.A.C.",
+        "Clinique",
+        "Origins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym BMW stand for in the automotive industry?",
+      "choices": [
+        "Bavarian Motor Works",
+        "British Manufacturing Wheels",
+        "Belgian Motor Warehouse",
+        "Bielefeld Manufacturing Works"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tech company developed the Android operating system before being acquired by Google?",
+      "choices": [
+        "HTC",
+        "Android Inc.",
+        "Samsung",
+        "LG Electronics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the home country of the LEGO toy brick company?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British luxury car brand produces the Range Rover?",
+      "choices": [
+        "Rolls-Royce",
+        "Jaguar",
+        "Land Rover",
+        "Bentley"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Amazon launch its Prime membership service?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian sports car manufacturer is famous for its prancing horse logo?",
+      "choices": [
+        "Lamborghini",
+        "Ferrari",
+        "Maserati",
+        "Alfa Romeo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary country of origin for the Nestlé food corporation?",
+      "choices": [
+        "Germany",
+        "France",
+        "Switzerland",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American sneaker brand is known for its Jumpman logo?",
+      "choices": [
+        "Adidas",
+        "Nike",
+        "Converse",
+        "New Balance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of product is the brand Gillette primarily known for manufacturing?",
+      "choices": [
+        "Razors",
+        "Shampoo",
+        "Deodorant",
+        "Toothpaste"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Korean electronics conglomerate produces Galaxy smartphones?",
+      "choices": [
+        "LG Electronics",
+        "Samsung",
+        "SK Innovation",
+        "Hyundai"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Starbucks open its first coffeehouse in Seattle?",
+      "choices": [
+        "1971",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Facebook launch as a social media platform?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which soft drink brand is owned by The Coca-Cola Company and is known for its lemon-lime flavoring?",
+      "choices": [
+        "Fanta",
+        "Sprite",
+        "7UP",
+        "Mountain Dew"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the headquarters location of the luxury watchmaker Rolex?",
+      "choices": [
+        "Geneva, Switzerland",
+        "Basel, Switzerland",
+        "Zurich, Switzerland",
+        "Bern, Switzerland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American athletic shoe company was founded by Phil Knight in 1964?",
+      "choices": [
+        "Adidas",
+        "Nike",
+        "Puma",
+        "New Balance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Netflix transition from DVD rental to streaming services?",
+      "choices": [
+        "2005",
+        "2007",
+        "2010",
+        "2012"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which French luxury goods conglomerate owns both Louis Vuitton and Celine?",
+      "choices": [
+        "Hermès Group",
+        "LVMH",
+        "Kering",
+        "Richemont"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does BMW stand for in English?",
+      "choices": [
+        "Bavarian Motor Works",
+        "Berlin Motor Werke",
+        "Belgian Manufacturing Works",
+        "Bavarian Manufacturing Werks"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cosmetics brand, known for its red lipstick, was founded by François Coty in 1910?",
+      "choices": [
+        "Maybelline",
+        "Revlon",
+        "Coty",
+        "MAC"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary color associated with the Starbucks logo?",
+      "choices": [
+        "Red",
+        "Green",
+        "Brown",
+        "White"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fashion designer founded the brand bearing his name in Paris in 1956?",
+      "choices": [
+        "Yves Saint Laurent",
+        "Christian Dior",
+        "Coco Chanel",
+        "Givenchy"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technology company acquired WhatsApp for approximately $19 billion in 2014?",
+      "choices": [
+        "Google",
+        "Apple",
+        "Facebook",
+        "Microsoft"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British automotive brand produces the Jaguar line of luxury vehicles?",
+      "choices": [
+        "Rolls-Royce",
+        "Bentley",
+        "Tata Motors",
+        "Land Rover"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the video-sharing platform YouTube founded?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese automaker produces the Lexus luxury vehicle line?",
+      "choices": [
+        "Honda",
+        "Toyota",
+        "Nissan",
+        "Mazda"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What premium spirits brand is known for its signature Cognac with a centaur on its label?",
+      "choices": [
+        "Hennessy",
+        "Rémy Martin",
+        "Courvoisier",
+        "Martell"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fashion brand, known for its leather goods, was founded in Florence, Italy in 1921?",
+      "choices": [
+        "Salvatore Ferragamo",
+        "Bottega Veneta",
+        "Gucci",
         "Burberry"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which fashion brand uses a green crocodile as its logo?",
-      "choices": ["Lacoste", "Polo Ralph Lauren", "Crocs", "Diesel"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Founded by tennis player René Lacoste in 1933."
-      }
-    },
-    {
-      "q": "Which fast-food chain mascot is a red-haired girl with pigtails?",
-      "choices": ["Wendy's", "Arby's", "Sonic", "Carl's Jr."],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Founded by Dave Thomas, named after his daughter Melinda 'Wendy' Thomas."
-      }
-    },
-    {
-      "q": "Which Korean tech giant makes Galaxy phones, semiconductors, and ships?",
-      "choices": ["Samsung", "LG", "Hyundai", "Hanwha"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Samsung means 'three stars' in Korean."
-      }
-    },
-    {
-      "q": "What brand of British boot was favored by punks and pioneered the air-cushioned sole?",
+      "q": "What is the name of Amazon's cloud computing service division?",
       "choices": [
-        "Dr. Martens",
-        "Clarks",
-        "Timberland",
-        "Caterpillar"
+        "Azure",
+        "AWS",
+        "Google Cloud",
+        "CloudFlare"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Uber launch as a ride-sharing service?",
+      "choices": [
+        "2009",
+        "2011",
+        "2013",
+        "2015"
       ],
       "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dr. Martens",
-        "verified": true,
-        "notes": "Originally designed in 1945 by German doctor Klaus Märtens."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which Swedish furniture company is known for flat-pack assembly?",
-      "choices": ["IKEA", "Ekornes", "BoConcept", "Pottery Barn"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "IKEA = Ingvar Kamprad Elmtaryd Agunnaryd (founder + farm + village)."
-      }
-    },
-    {
-      "q": "Which French luxury fashion house is founded on monogram canvas leather goods?",
+      "q": "Which luxury fashion house did Tom Ford serve as Creative Director from 1994 to 2004 before moving to Yves Saint Laurent?",
       "choices": [
-        "Louis Vuitton",
-        "Chanel",
-        "Dior",
-        "Hermès"
+        "Prada",
+        "Gucci",
+        "Versace",
+        "Valentino"
       ],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Founded 1854. Part of LVMH."
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "What soda brand uses Santa Claus heavily in advertising and is from Atlanta?",
-      "choices": ["Coca-Cola", "Pepsi", "Dr Pepper", "RC Cola"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Modern Santa image popularized by 1930s Coke ads (Haddon Sundblom)."
-      }
-    },
-    {
-      "q": "Which first-letter fashion brand uses a double-G monogram and was founded in Florence?",
-      "choices": ["Gucci", "Givenchy", "Gianni Versace", "Galliano"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "Founded 1921 by Guccio Gucci."
-      }
-    },
-    {
-      "q": "What's the world's biggest brand of luxury cars by 2024 sales?",
-      "choices": ["BMW", "Mercedes-Benz", "Audi", "Lexus"],
-      "correct": 0,
-      "category": "Brands Worldwide",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Brands Worldwide",
-        "verified": true,
-        "notes": "BMW Group surpassed Mercedes in 2023-2024 luxury rankings."
-      }
+      "q": "In what year did Spotify launch as a music streaming service?",
+      "choices": [
+        "2006",
+        "2008",
+        "2011",
+        "2009"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
     }
   ]
 }

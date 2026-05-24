@@ -1,249 +1,2306 @@
 {
   "slug": "dragon-ball-trivia",
   "name": "Dragon Ball",
-  "description": "Akira Toriyama's Saiyan saga — Goku, Vegeta, Frieza, and four decades of orange gi.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.500Z",
   "questions": [
     {
-      "q": "Who created the 'Dragon Ball' manga?",
-      "choices": ["Eiichiro Oda", "Akira Toriyama", "Masashi Kishimoto", "Yoshihiro Togashi"],
+      "q": "Who is the main protagonist of Dragon Ball?",
+      "choices": [
+        "Vegeta",
+        "Son Goku",
+        "Piccolo",
+        "Gohan"
+      ],
       "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Akira Toriyama",
-        "verified": true,
-        "notes": "Toriyama died in March 2024."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year did the Dragon Ball manga debut in Japan?",
-      "choices": ["1979", "1984", "1989", "1992"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1984",
-        "verified": true,
-        "notes": "First serialized in Weekly Shōnen Jump on November 20, 1984."
-      }
+      "q": "How many Dragon Balls must be gathered to summon the wish-granting dragon?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Twelve"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which classic Chinese novel was Toriyama's main inspiration for Dragon Ball?",
-      "choices": ["Romance of the Three Kingdoms", "Journey to the West", "Dream of the Red Chamber", "Water Margin"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Journey to the West",
-        "verified": true,
-        "notes": "Goku is loosely based on the Monkey King, Sun Wukong."
-      }
-    },
-    {
-      "q": "Who is the protagonist of Dragon Ball?",
-      "choices": ["Son Goku", "Vegeta", "Piccolo", "Gohan"],
+      "q": "What is the name of the great wish-granting dragon summoned by the Dragon Balls?",
+      "choices": [
+        "Shenron",
+        "Smaug",
+        "Yamcha",
+        "Porunga"
+      ],
       "correct": 0,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Son Goku",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many Dragon Balls must be gathered to summon the wish-granting dragon Shenron?",
-      "choices": ["Five", "Seven", "Nine", "Twelve"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Seven",
-        "verified": true,
-        "notes": "Each is marked with a number of stars from 1 to 7."
-      }
-    },
-    {
-      "q": "Who is Goku's first major companion in the series, who builds the Dragon Radar?",
-      "choices": ["Krillin", "Bulma", "Yamcha", "Chi-Chi"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bulma",
-        "verified": true,
-        "notes": "Capsule Corporation heiress; later marries Vegeta."
-      }
-    },
-    {
-      "q": "Who is Goku's first martial arts master, the inventor of the Kamehameha?",
-      "choices": ["King Kai", "Master Roshi", "Korin", "Whis"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Master Roshi (Kame-Sen'nin)",
-        "verified": true,
-        "notes": "Also known as the Turtle Hermit (Kame-Sen'nin)."
-      }
-    },
-    {
-      "q": "What alien warrior race is Goku revealed to belong to in Dragon Ball Z?",
-      "choices": ["Namekian", "Saiyan", "Frieza Race", "Kai"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Saiyan race",
-        "verified": true,
-        "notes": "Goku's birth name is Kakarot."
-      }
-    },
-    {
-      "q": "What is the name of Goku's home planet, destroyed by Frieza?",
-      "choices": ["Namek", "Earth", "Planet Vegeta", "Planet Plant"],
-      "correct": 2,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Planet Vegeta",
-        "verified": true,
-        "notes": "Renamed after the Saiyan king. Also home to Prince Vegeta."
-      }
-    },
-    {
-      "q": "Who is Goku's older brother, the first major villain in Dragon Ball Z?",
-      "choices": ["Vegeta", "Bardock", "Raditz", "Nappa"],
-      "correct": 2,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Raditz",
-        "verified": true,
-        "notes": "Killed in a sacrifice play by Piccolo (with Goku) in DBZ episode 5."
-      }
-    },
-    {
-      "q": "Goku first achieves Super Saiyan transformation while fighting which villain?",
-      "choices": ["Cell", "Buu", "Frieza", "Vegeta"],
-      "correct": 2,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "The epic battle between Goku and Frieza on Planet Namek",
-        "verified": true,
-        "notes": "After Krillin's death."
-      }
-    },
-    {
-      "q": "Who is Goku's primary rival turned ally throughout the franchise?",
-      "choices": ["Piccolo", "Vegeta", "Tien", "Yamcha"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Vegeta",
-        "verified": true,
-        "notes": "Prince of all Saiyans."
-      }
-    },
-    {
-      "q": "What is the name of Goku's signature energy attack?",
-      "choices": ["Kamehameha", "Galick Gun", "Spirit Bomb", "Final Flash"],
+      "q": "Who created the Dragon Ball franchise?",
+      "choices": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Hirohiko Araki"
+      ],
       "correct": 0,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Spirit Bomb",
-        "verified": true,
-        "notes": "The Spirit Bomb (Genki-dama) is Goku's other signature attack — gathered from all living beings."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is Goku's older son's name?",
-      "choices": ["Goten", "Gohan", "Trunks", "Pan"],
-      "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Gohan",
-        "verified": true,
-        "notes": "Named after Goku's adoptive grandfather. Marries Videl; has daughter Pan."
-      }
-    },
-    {
-      "q": "What is Goku's younger son's name?",
-      "choices": ["Goten", "Trunks", "Tarble", "Bardock"],
+      "q": "What alien race is Goku revealed to belong to in Dragon Ball Z?",
+      "choices": [
+        "Saiyan",
+        "Namekian",
+        "Frieza Force",
+        "Majin"
+      ],
       "correct": 0,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Goten",
-        "verified": true,
-        "notes": "Best friends with Trunks; together they fuse into Gotenks."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is Goku's lifelong best friend and fellow disciple of Master Roshi?",
-      "choices": ["Tien", "Yamcha", "Krillin", "Chiaotzu"],
+      "q": "Who is Goku's lifelong best friend, who shaves his head and trains under Master Roshi alongside him?",
+      "choices": [
+        "Yamcha",
+        "Tien",
+        "Krillin",
+        "Piccolo"
+      ],
       "correct": 2,
-      "category": "Dragon Ball",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Kuririn",
-        "verified": true,
-        "notes": "Krillin (Kuririn). Famously dies multiple times."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Ginyu Force leader has the bizarre ability to switch bodies with opponents?",
-      "choices": ["Recoome", "Burter", "Captain Ginyu", "Jeice"],
-      "correct": 2,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Captain Ginyu",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which mad scientist created the Red Ribbon Army's Androids and the bio-engineered Cell?",
-      "choices": ["Dr. Briefs", "Dr. Gero", "Dr. Mashirito", "Dr. Wheelo"],
+      "q": "What is the name of Goku's most famous powerful energy attack?",
+      "choices": [
+        "Final Flash",
+        "Kamehameha",
+        "Special Beam Cannon",
+        "Spirit Bomb"
+      ],
       "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dr. Gero",
-        "verified": true,
-        "notes": "Originally Goku's Red Ribbon Army nemesis from Dragon Ball; transformed himself into Android 20."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In which Japanese magazine was Dragon Ball originally serialized?",
-      "choices": ["Shōnen Sunday", "Weekly Shōnen Jump", "Shōnen Magazine", "Young Jump"],
+      "q": "In what year did the Dragon Ball anime first air?",
+      "choices": [
+        "1984",
+        "1986",
+        "1988",
+        "1990"
+      ],
       "correct": 1,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weekly Shōnen Jump",
-        "verified": true,
-        "notes": "Published by Shueisha; ran from 1984 to 1995."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In which year did the original 'Dragon Ball' anime first air?",
-      "choices": ["1986", "1989", "1991", "1995"],
+      "q": "Who is Goku's primary rival throughout the Dragon Ball series?",
+      "choices": [
+        "Frieza",
+        "Vegeta",
+        "Cell",
+        "Majin Buu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Goku's first son?",
+      "choices": [
+        "Goten",
+        "Gohan",
+        "Trunks",
+        "Bulla"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which martial artist and film star influenced Akira Toriyama's creation of Dragon Ball?",
+      "choices": [
+        "Jackie Chan",
+        "Bruce Lee",
+        "Jet Li",
+        "Jean-Claude Van Damme"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Goku's lifelong friend who trained under Master Roshi?",
+      "choices": [
+        "Yamcha",
+        "Kuririn",
+        "Tien",
+        "Chiaotzu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which magazine was the original Dragon Ball manga serialized?",
+      "choices": [
+        "Weekly Shonen Magazine",
+        "Weekly Shōnen Jump",
+        "Monthly Shonen Jump",
+        "Shonen Sunday"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the tournament where Goku fights the world's strongest warriors?",
+      "choices": [
+        "Tenkaichi Budokai",
+        "World Martial Arts Tournament",
+        "Grand Tournament",
+        "Martial Arts Festival"
+      ],
       "correct": 0,
-      "category": "Dragon Ball",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1986",
-        "verified": true,
-        "notes": "Aired on Fuji TV starting February 26, 1986."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What anime series did Akira Toriyama create before Dragon Ball?",
+      "choices": [
+        "Dr. Slump",
+        "Penguin Village Chronicles",
+        "The Adventures of Arale",
+        "Robotics & Magic"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Goku's second son?",
+      "choices": [
+        "Gohan",
+        "Goten",
+        "Trunks",
+        "Bulla"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which powerful attack in Dragon Ball Z involves gathering energy from all living beings?",
+      "choices": [
+        "Kamehameha",
+        "Spirit Bomb",
+        "Galick Gun",
+        "Special Beam Cannon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the first major villain Goku faces in Dragon Ball Z?",
+      "choices": [
+        "Vegeta",
+        "Raditz",
+        "Nappa",
+        "Frieza"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the character with a special connection to time travel in Dragon Ball Z?",
+      "choices": [
+        "Future Gohan",
+        "Trunks",
+        "Cell",
+        "Zamasu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Z Fighter sacrificed himself attempting to defeat Nappa during the Saiyan Saga?",
+      "choices": [
+        "Tien",
+        "Chiaotzu",
+        "Yamcha",
+        "Krillin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What series name is given to the anime that covers the later chapters of the Dragon Ball manga?",
+      "choices": [
+        "Dragon Ball GT",
+        "Dragon Ball Z",
+        "Dragon Ball Super",
+        "Dragon Ball Kai"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Goku's first major companion at the beginning of the Dragon Ball series?",
+      "choices": [
+        "Master Roshi",
+        "Bulma",
+        "Kuririn",
+        "Yamcha"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dragon Ball Z video game has developed a significant professional eSports scene?",
+      "choices": [
+        "Budokai Tenkaichi 3",
+        "Dragon Ball FighterZ",
+        "Xenoverse 2",
+        "Burst Limit"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Dragon Ball widely credited with boosting in Western popular culture?",
+      "choices": [
+        "Manga readership",
+        "The popularity of Japanese animation",
+        "Video game sales",
+        "Anime conventions"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the title of the first anime TV series adaptation of the Dragon Ball manga?",
+      "choices": [
+        "Dragon Ball Z",
+        "Dragon Ball",
+        "Dragon Ball GT",
+        "Dragon Ball Kai"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Dragon Ball anime series first premiere?",
+      "choices": [
+        "1984",
+        "1986",
+        "1988",
+        "1990"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was Goku's first martial arts teacher?",
+      "choices": [
+        "Master Roshi",
+        "Grandpa Gohan",
+        "Krillin",
+        "Bulma"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous martial arts film actor influenced Akira Toriyama when creating Dragon Ball?",
+      "choices": [
+        "Jackie Chan",
+        "Bruce Lee",
+        "Jet Li",
+        "Steven Seagal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Goku's younger biological son?",
+      "choices": [
+        "Gohan",
+        "Goten",
+        "Vegeta Jr.",
+        "Trunks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which villain did Goku defeat on Planet Namek?",
+      "choices": [
+        "King Cold",
+        "Frieza",
+        "Vegeta",
+        "Nappa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how many copies of the Dragon Ball manga have been sold worldwide?",
+      "choices": [
+        "Over 200 million",
+        "Over 350 million",
+        "Over 500 million",
+        "Over 750 million"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Japanese title for the Dragon Ball series?",
+      "choices": [
+        "Ryū no Tama",
+        "Doragon Bōru",
+        "Tatsutama",
+        "Bōru no Senshi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which anime series directly follows Dragon Ball and covers the later manga chapters?",
+      "choices": [
+        "Dragon Ball GT",
+        "Dragon Ball Super",
+        "Dragon Ball Z",
+        "Dragon Ball AF"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the creator and illustrator of the Dragon Ball manga?",
+      "choices": [
+        "Masashi Kishimoto",
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Tite Kubo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What planet was Goku originally born on?",
+      "choices": [
+        "Planet Earth",
+        "Planet Vegeta",
+        "Planet Namek",
+        "Planet Arlia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country did Dragon Ball Z achieve ratings higher than popular Western shows like Friends?",
+      "choices": [
+        "United Kingdom",
+        "Canada",
+        "United States",
+        "Australia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the remastered and re-edited version of Dragon Ball Z?",
+      "choices": [
+        "Dragon Ball Remaster",
+        "Dragon Ball Kai",
+        "Dragon Ball HD",
+        "Dragon Ball Recut"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company acquired the film rights to Dragon Ball as part of a larger acquisition?",
+      "choices": [
+        "Universal Studios",
+        "Sony Pictures",
+        "Disney (20th Century Fox)",
+        "Warner Bros."
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Z Fighter famously sacrificed himself during the Saiyan Saga against Nappa?",
+      "choices": [
+        "Tien",
+        "Yamcha",
+        "Chiaotzu",
+        "Krillin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What French government cultural honor was awarded to Akira Toriyama in 2019?",
+      "choices": [
+        "Legion of Honor",
+        "Chevalier of the Ordre des Arts et des Lettres",
+        "Prix Goncourt",
+        "Palme d'Or"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sequel series to Dragon Ball Z was created by Toei Animation?",
+      "choices": [
+        "Dragon Ball Super",
+        "Dragon Ball GT",
+        "Dragon Ball Legends",
+        "Dragon Ball Heroes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the title of the live-action Dragon Ball film released in 2009?",
+      "choices": [
+        "Dragon Ball Live",
+        "Dragonball Evolution",
+        "Dragon Ball: The Movie",
+        "Dragonball Z: Origins"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who are the deities that oversee the multiverse in Dragon Ball Super?",
+      "choices": [
+        "The Supreme Kais",
+        "The Kais of Time",
+        "Zeno",
+        "The Gods of Destruction"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dragon Ball Z video game developed by Arc System Works has a prominent eSports competitive scene?",
+      "choices": [
+        "Dragon Ball Xenoverse",
+        "Dragon Ball FighterZ",
+        "Dragon Ball Budokai",
+        "Dragon Ball Sparking"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the title of the first Dragon Ball Z film released theatrically?",
+      "choices": [
+        "The World's Strongest",
+        "Dead Zone",
+        "The Tree of Might",
+        "Broly - The Legendary Super Saiyan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the creator of the Dragon Ball franchise?",
+      "choices": [
+        "Akira Toriyama",
+        "Eiichiro Oda",
+        "Masashi Kishimoto",
+        "Yoshiro Togashi"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Goku's older brother who appears at the beginning of Dragon Ball Z?",
+      "choices": [
+        "Vegeta",
+        "Raditz",
+        "Nappa",
+        "Kakarot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Dragon Balls exist in the series?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Nine"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which manga series by Akira Toriyama was created before Dragon Ball?",
+      "choices": [
+        "Jaco the Galactic Patrolman",
+        "Sandland",
+        "Cowa!",
+        "Dragon Boy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the live-action Dragon Ball film released in 2009?",
+      "choices": [
+        "Dragon Ball: The Movie",
+        "Dragonball Evolution",
+        "Dragon Ball Live",
+        "Dragonball Z: Origins"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what magazine was the original Dragon Ball manga serialized?",
+      "choices": [
+        "Weekly Shōnen Sunday",
+        "Weekly Shōnen Jump",
+        "Monthly Shōnen Magazine",
+        "Jump Square"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What transformation does Goku first achieve during his battle with Frieza on Planet Namek?",
+      "choices": [
+        "Ultra Instinct",
+        "Super Saiyan",
+        "Blue Kaio-ken",
+        "God Mode"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Goku's first major companion in the original Dragon Ball series?",
+      "choices": [
+        "Krillin",
+        "Bulma",
+        "Master Roshi",
+        "Yamcha"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classic Chinese novel inspired the creation of Dragon Ball?",
+      "choices": [
+        "The Romance of the Three Kingdoms",
+        "Journey to the West",
+        "Dream of the Red Chamber",
+        "Water Margin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many episodes are in the original Dragon Ball anime series?",
+      "choices": [
+        "139",
+        "153",
+        "167",
+        "191"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What date is celebrated in Japan as Goku Day?",
+      "choices": [
+        "April 9",
+        "May 9",
+        "June 9",
+        "July 9"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the title of the Dragon Ball film released to commemorate Weekly Shōnen Jump's 40th anniversary?",
+      "choices": [
+        "Dragon Ball: The Return",
+        "Dragon Ball Z: Celebration",
+        "Dragon Ball: Yo! Son Goku and His Friends Return!!",
+        "Dragon Ball: Legacy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many episodes does Dragon Ball Z contain?",
+      "choices": [
+        "265",
+        "291",
+        "318",
+        "245"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character from Journey to the West was Goku's character design based upon?",
+      "choices": [
+        "Sun Wukong",
+        "Tang Sanzang",
+        "Zhu Bajie",
+        "Sha Wujing"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the first Dragon Ball Z theatrical film?",
+      "choices": [
+        "Dragon Ball Z: The Dead Zone",
+        "Dragon Ball Z: Dead Zone",
+        "Dragon Ball Z: Zone of the Dead",
+        "Dragon Ball Z: Deadzone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What anime series first aired in 2015, becoming the first all-new Dragon Ball television series in 18 years?",
+      "choices": [
+        "Dragon Ball GT",
+        "Dragon Ball Super",
+        "Dragon Ball Evolution",
+        "Dragon Ball Kai"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the original Dragon Ball anime series first broadcast?",
+      "choices": [
+        "1984",
+        "1986",
+        "1989",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which editor played a significant role in shaping the Dragon Ball series during its early chapters?",
+      "choices": [
+        "Akira Toriyama",
+        "Kazuhiko Torishima",
+        "Hirohiko Araki",
+        "Masashi Kishimoto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary wish-granting entity summoned by collecting all Dragon Balls?",
+      "choices": [
+        "A Phoenix",
+        "A Dragon",
+        "A Genie",
+        "An Angel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Dragon Ball manga series first debut?",
+      "choices": [
+        "1982",
+        "1984",
+        "1986",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Dragon Balls exist in the series that can summon the wish-granting dragon Shenron?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet serves as the homeworld of the Saiyan race in the Dragon Ball Z universe?",
+      "choices": [
+        "Planet Frieza",
+        "Planet Vegeta",
+        "Planet Namek",
+        "Planet Earth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the remastered and re-edited version of Dragon Ball Z released to streamline the series?",
+      "choices": [
+        "Dragon Ball Evolution",
+        "Dragon Ball Kai",
+        "Dragon Ball GT",
+        "Dragon Ball Super"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character from Dragon Ball Z famously sacrificed himself during the battle against Nappa in the Saiyan Saga?",
+      "choices": [
+        "Krillin",
+        "Chiaotzu",
+        "Tien",
+        "Yamcha"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Dragon Ball series, how many Dragon Balls must be collected to summon the wish-granting dragon Shenron?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Nine",
+        "Eleven"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many tankōbon (collected) volumes is the original Dragon Ball manga?",
+      "choices": [
+        "35",
+        "42",
+        "55",
+        "73"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1990s Dragon Ball series, set after Z, follows an older Goku and Pan?",
+      "choices": [
+        "Dragon Ball GT",
+        "Dragon Ball Super",
+        "Dragon Ball Daima",
+        "Dragon Ball Heroes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Goku's final ascended state, achieved during the Tournament of Power in Dragon Ball Super?",
+      "choices": [
+        "Super Saiyan 4",
+        "Ultra Instinct",
+        "Super Saiyan God",
+        "Mastered Saiyan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1986 anime first adapted the Dragon Ball manga?",
+      "choices": [
+        "Dragon Ball",
+        "Dragon Ball Z",
+        "Dragon Ball Super",
+        "Dragon Ball GT"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball Super, what is the numerical designation of the universe where Goku and the Z-fighters primarily reside?",
+      "choices": [
+        "Universe 6",
+        "Universe 7",
+        "Universe 10",
+        "Universe 12"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which martial arts film actor's fighting style directly inspired Akira Toriyama's design of Goku's combat techniques?",
+      "choices": [
+        "Jackie Chan",
+        "Bruce Lee",
+        "Jet Li",
+        "Jean-Claude Van Damme"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official name of the Dragon Ball GT television special that aired as a standalone episode?",
+      "choices": [
+        "Goku's Adventures: The Four-Star Legacy",
+        "Goku's Side Story! The Proof of his Courage is the Four-Star Ball",
+        "The Final Battle of Goku",
+        "Goku's Last Journey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many total episodes comprise the Dragon Ball Super anime series?",
+      "choices": [
+        "128",
+        "131",
+        "135",
+        "140"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Weekly Shōnen Jump anniversary year prompted the release of the film 'Dragon Ball: Yo! Son Goku and His Friends Return!!'?",
+      "choices": [
+        "25th Anniversary",
+        "30th Anniversary",
+        "40th Anniversary",
+        "50th Anniversary"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What extraterrestrial species is Goku revealed to belong to during the Dragon Ball Z saga?",
+      "choices": [
+        "Tuffle",
+        "Saiyan",
+        "Namekian",
+        "Arcosiian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In how many countries did Dragon Ball Z anime broadcast during its original run and syndication?",
+      "choices": [
+        "Over 50 countries",
+        "Over 80 countries",
+        "Over 120 countries",
+        "Over 150 countries"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tyrannical emperor is defeated by Goku on the planet Namek during Dragon Ball Z?",
+      "choices": [
+        "King Cold",
+        "Frieza",
+        "Cooler",
+        "Zarbon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many copies of the Dragon Ball manga have been sold globally across all volumes?",
+      "choices": [
+        "Over 200 million",
+        "Over 350 million",
+        "Over 500 million",
+        "Over 700 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which live-action Dragon Ball adaptation film was released in 2009?",
+      "choices": [
+        "Dragon Ball: Origins",
+        "Dragonball Evolution",
+        "Dragon Ball Z: The Last Stand",
+        "Son Goku: The Live-Action Adventure"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Dragon Ball anime, what is the total episode count of the original Dragon Ball series before Dragon Ball Z begins?",
+      "choices": [
+        "149 episodes",
+        "153 episodes",
+        "157 episodes",
+        "161 episodes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who serves as Goku's martial arts instructor in the divine afterlife realm?",
+      "choices": [
+        "Supreme Kai",
+        "King Kai",
+        "Kaioshin",
+        "Old Kai"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which real-life martial arts movement inspired the visual appearance of Goku's Super Saiyan transformation?",
+      "choices": [
+        "Shaolin Temple techniques",
+        "Bruce Lee's iconic look",
+        "Muhammad Ali's stance",
+        "Karate Kid philosophy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Goku's biological brother who makes his first appearance at the beginning of Dragon Ball Z?",
+      "choices": [
+        "Vegeta",
+        "Raditz",
+        "Nappa",
+        "Turles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character serves as Goku's initial major companion at the start of the Dragon Ball series?",
+      "choices": [
+        "Krillin",
+        "Bulma",
+        "Yamcha",
+        "Oolong"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What major cultural impact is Dragon Ball widely credited with establishing in Western markets?",
+      "choices": [
+        "Mainstream acceptance of video game culture",
+        "The popularity of Japanese animation globally",
+        "The rise of manga over comic books",
+        "The success of anime streaming services"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major fast-food chain distributed approximately 20 million Dragon Ball Z promotional figures across North America?",
+      "choices": [
+        "McDonald's",
+        "Wendy's",
+        "Burger King",
+        "Taco Bell"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During which era of Dragon Ball manga creation did Akira Toriyama report finding story development more engaging than the actual drawing process?",
+      "choices": [
+        "Early Dragon Ball",
+        "Mid-Dragon Ball Z",
+        "Latter part of Dragon Ball",
+        "Dragon Ball Super planning phase"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What official date marks Goku Day as an annual celebration in Japan?",
+      "choices": [
+        "May 9",
+        "April 25",
+        "June 15",
+        "November 20"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film character's battle armor design drew inspiration from Dragon Ball's Saiyan prince in a major superhero blockbuster?",
+      "choices": [
+        "Tony Stark's suit in Iron Man",
+        "Killmonger's armor in Black Panther",
+        "Vision's body in Avengers: Age of Ultron",
+        "Thanos's armor in Infinity War"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Dragon Ball manga, what is the name of the village where Goku first meets Bulma?",
+      "choices": [
+        "Kame Village",
+        "Penguin Village",
+        "West City",
+        "Capsule Corporation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character does Goku train under after meeting Master Roshi at Kame House?",
+      "choices": [
+        "King Kai",
+        "Master Roshi",
+        "Grandpa Gohan",
+        "Kami"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical name for Vegeta's signature energy attack that he uses throughout the series?",
+      "choices": [
+        "Big Bang Attack",
+        "Final Flash",
+        "Galick Gun",
+        "All of the above are used by Vegeta"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball Z, what is the name of the android created by Dr. Gero as the ultimate weapon, who later absorbs the other androids?",
+      "choices": [
+        "Android 17",
+        "Android 18",
+        "Cell",
+        "Android 19"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the Cell Games tournament, which character sacrifices their life to defeat Cell alongside Goku?",
+      "choices": [
+        "Vegeta",
+        "Gohan",
+        "Goku",
+        "Trunks"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Future Trunks' sword that he wields in the alternate timeline?",
+      "choices": [
+        "Masamune Blade",
+        "Energy Blade",
+        "Z Sword",
+        "Heat Dome"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball Super, what is the name of the martial arts tournament that brings together warriors from multiple universes?",
+      "choices": [
+        "The Multiverse Tournament",
+        "The Tournament of Power",
+        "The Universal Martial Arts Tournament",
+        "The Gods' Competition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the birth name of the Saiyan prince who becomes one of the main Z Fighters?",
+      "choices": [
+        "Vegeta",
+        "Prince Vegeta",
+        "The name is simply Vegeta",
+        "Vegeta has no birth name, only his royal title"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which form does Goku achieve by combining his God Ki with the Super Saiyan transformation?",
+      "choices": [
+        "Super Saiyan Blue",
+        "Super Saiyan Rose",
+        "Ultra Instinct",
+        "Perfect Ultra Instinct"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Dragon Ball series, what is the name of the Red Ribbon Army's leader?",
+      "choices": [
+        "Commander Blue",
+        "General Red",
+        "Colonel Silver",
+        "Major Metallic"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Gohan's sword technique that he learns and later uses against Cell?",
+      "choices": [
+        "Sword Slash Technique",
+        "Burning Attack",
+        "Masenko",
+        "Shining Sword Attack"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball GT, what celestial objects must Goku collect after the wish made to Shenron goes wrong?",
+      "choices": [
+        "Star Balls",
+        "Shadow Dragons",
+        "Negative Energy Orbs",
+        "Black Star Dragon Balls"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Krillin's signature attack that he uses frequently throughout the series?",
+      "choices": [
+        "Destructo Disc",
+        "Solar Flare",
+        "Kamehameha",
+        "Tri-Beam"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the Majin Buu saga, which form of Majin Buu proves to be the most destructive and powerful?",
+      "choices": [
+        "Innocent Buu",
+        "Evil Buu",
+        "Super Buu",
+        "Kid Buu"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Kaioshin who trains Goku in Ultra Instinct during the Tournament of Power?",
+      "choices": [
+        "Kaioshin of Universe 10",
+        "Shin",
+        "East Kaioshin",
+        "This technique was not taught by a Kaioshin"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Buu saga, what is the name of the ancient magical artifact that releases Majin Buu from his stone prison?",
+      "choices": [
+        "The Demon's Seal",
+        "Babidi's Staff",
+        "The Sealed Ball",
+        "Majin's Cage"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year does the manga serialization of Dragon Ball conclude in Weekly Shōnen Jump?",
+      "choices": [
+        "1995",
+        "1997",
+        "1996",
+        "1998"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball Super, what is the name of Goku's new transformation that allows him to move without thinking?",
+      "choices": [
+        "Autonomous Ultra Instinct",
+        "Completed Ultra Instinct",
+        "Perfect Ultra Instinct",
+        "Ultra Instinct Sign"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Tien's three-eyed race, which is significant to his fighting abilities?",
+      "choices": [
+        "The Triclops",
+        "The Tri-beings",
+        "The Triclops Dynasty",
+        "The Three-Eyed People"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the Saiyan Saga, which Z Fighter achieves a significant power boost by recovering from near-fatal injuries in a medical pod?",
+      "choices": [
+        "Piccolo",
+        "Krillin",
+        "Goku",
+        "Vegeta"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character serves as the Supreme Kai of Universe 7 throughout most of the Dragon Ball Z series?",
+      "choices": [
+        "Shin",
+        "Old Kai",
+        "West Kai",
+        "Supreme Kai of Time"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Vegeta's signature energy attack that he first uses against Goku on Earth?",
+      "choices": [
+        "Big Bang Attack",
+        "Galick Gun",
+        "Final Flash",
+        "Destructo Disc"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Dragon Ball manga, what is the name of the martial artist who trains Goku as a child?",
+      "choices": [
+        "Master Roshi",
+        "Grandpa Gohan",
+        "Kame-Sen'nin",
+        "Ox-King"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film was released in 2015 to commemorate the 30th anniversary of the Dragon Ball franchise?",
+      "choices": [
+        "Dragon Ball Z: Battle of Gods",
+        "Dragon Ball Z: Resurrection F",
+        "Dragon Ball Super: Broly",
+        "Dragon Ball Z: The History of Trunks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball Z, what technique does Goku learn in the afterlife that allows him to move instantaneously across vast distances?",
+      "choices": [
+        "Flash Step",
+        "Teleportation",
+        "Instant Transmission",
+        "Dimensional Shift"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the time-traveling Saiyan who first warns the Z-fighters about the arrival of androids from the future?",
+      "choices": [
+        "Future Gohan",
+        "Trunks",
+        "Future Trunks",
+        "Chronoa"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character's body does the villain Goku Black inhabit in Dragon Ball Super?",
+      "choices": [
+        "Future Vegeta",
+        "Future Goku",
+        "Present-day Goku",
+        "Goten"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of minutes that Goku can maintain his Ultra Instinct transformation during the Tournament of Power?",
+      "choices": [
+        "5 minutes",
+        "10 minutes",
+        "15 minutes",
+        "Unlimited duration"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball GT, what is the name of the artificial dragon created by the Red Star Dragon Ball?",
+      "choices": [
+        "Shadow Dragon",
+        "Omega Shenron",
+        "Baby Dragon",
+        "Dark Shenron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Bulma's company that manufactures capsule technology throughout the Dragon Ball series?",
+      "choices": [
+        "Capsule Corporation",
+        "Bulma Industries",
+        "Future Tech",
+        "Technological Solutions Inc."
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which villain absorbs the other Androids to achieve his perfect form in Dragon Ball Z?",
+      "choices": [
+        "Android 19",
+        "Android 20",
+        "Cell",
+        "Android 16"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Frieza's race, which is characterized by their natural ability to sense and control ki?",
+      "choices": [
+        "Arcosians",
+        "Frieza-kin",
+        "Cold Clan",
+        "Galactic Tyrants"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Dragon Ball Super manga, which God of Destruction does Beerus defeat in a sparring match before the Tournament of Power?",
+      "choices": [
+        "Quitela",
+        "Shanpa",
+        "Champa",
+        "Belmod"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific weakness does Kryptonite represent in Superman's mythology that parallels which Dragon Ball weakness?",
+      "choices": [
+        "Energy depletion",
+        "Saiyan weakness to tail damage in early series",
+        "Divine ki rejection",
+        "Removal of power limiters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Z-fighter achieves the Super Saiyan 2 transformation for the first time during the Cell Games tournament?",
+      "choices": [
+        "Goku",
+        "Vegeta",
+        "Gohan",
+        "Trunks"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the technique where a warrior channels their life force into another person to amplify their power?",
+      "choices": [
+        "Ki Transfer",
+        "Energy Fusion",
+        "Power Bestowal",
+        "Spirit Bomb preparation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball, which of the original eight Dragon Balls is distinguished by containing four stars?",
+      "choices": [
+        "The Four-Star Ball",
+        "Goku's keepsake Ball",
+        "The Star Ball",
+        "The Sacred Four-Star Dragon Ball"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the filler arc in Dragon Ball Z that takes place between the Frieza and Android sagas?",
+      "choices": [
+        "Garlic Jr. Saga",
+        "Lord Slug Arc",
+        "The Garlic Junior Saga",
+        "Cooler's Revenge Arc"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Dragon Ball manga, what is the name of Master Roshi's island where he trains martial artists?",
+      "choices": [
+        "Kame House",
+        "Roshi Island",
+        "Turtle Sanctuary",
+        "Island of Training"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character does Goku train under during the Hyperbolic Time Chamber preparation before the Cell Games?",
+      "choices": [
+        "King Kai",
+        "Kami",
+        "Gohan",
+        "Vegeta"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the android who was originally designed by Dr. Gero to be a time machine user?",
+      "choices": [
+        "Android 17",
+        "Android 16",
+        "Cell",
+        "Android 13"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dragon Ball Z, which saga introduces the concept of Goku's Saiyan heritage and his birth name?",
+      "choices": [
+        "Frieza Saga",
+        "Saiyan Saga",
+        "Cell Saga",
+        "Majin Buu Saga"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Vegeta's signature energy attack technique that he uses throughout the series?",
+      "choices": [
+        "Destructo Disc",
+        "Galick Gun",
+        "Kamehameha",
+        "Big Bang Attack"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Dragon Ball manga, Bulma's initial quest to collect Dragon Balls is motivated by what?",
+      "choices": [
+        "To wish for immortality",
+        "To wish for the perfect boyfriend",
+        "To gain martial arts power",
+        "To wish for world peace"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which transformation state allows Goku to achieve godlike power by combining the energy of multiple Saiyans?",
+      "choices": [
+        "Ultra Instinct",
+        "Blue Kaio-ken",
+        "Super Saiyan Blue",
+        "Spirit Bomb"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which classic Chinese novel inspired Toriyama's early Dragon Ball stories?",
+      "choices": [
+        "Romance of the Three Kingdoms",
+        "Journey to the West",
+        "The Water Margin",
+        "Dream of the Red Chamber"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Dragon Ball manga first appear in Weekly Shōnen Jump?",
+      "choices": [
+        "1980",
+        "1984",
+        "1989",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Goku's longtime rival and fellow Saiyan, eventually his ally?",
+      "choices": [
+        "Vegeta",
+        "Piccolo",
+        "Frieza",
+        "Cell"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the green, antennae-sporting warrior who eventually trains Goku's son Gohan?",
+      "choices": [
+        "Piccolo",
+        "Krillin",
+        "Tien",
+        "Yamcha"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dragon Ball Z villain is a tyrannical, lavender, power-hungry galactic emperor?",
+      "choices": [
+        "Frieza",
+        "Cell",
+        "Buu",
+        "Cooler"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What golden-haired transformation does Goku achieve while battling Frieza on Namek?",
+      "choices": [
+        "Super Saiyan",
+        "Super Saiyan 2",
+        "Ultra Instinct",
+        "Kaio-Ken"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Goku's wife?",
+      "choices": [
+        "Bulma",
+        "Chi-Chi",
+        "Videl",
+        "Bra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Goku's eldest son, central to the Cell saga?",
+      "choices": [
+        "Goten",
+        "Gohan",
+        "Trunks",
+        "Pan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Goku's first major companion, a girl who joins him on his hunt for the Dragon Balls in early Dragon Ball?",
+      "choices": [
+        "Bulma",
+        "Chi-Chi",
+        "Videl",
+        "Launch"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Goku's first martial-arts teacher?",
+      "choices": [
+        "Master Roshi",
+        "Mr. Popo",
+        "Kami",
+        "King Kai"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which energy-based attack involves gathering power from all living things and is wielded by Goku as a last resort?",
+      "choices": [
+        "Spirit Bomb (Genki Dama)",
+        "Special Beam Cannon",
+        "Final Kamehameha",
+        "Solar Flare"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Dragon Ball manga series first begin serialization?",
+      "choices": [
+        "1982",
+        "1984",
+        "1986",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Goku's youngest son, who becomes a prominent character in Dragon Ball Z?",
+      "choices": [
+        "Trunks",
+        "Bulla",
+        "Goten",
+        "Krillin Jr."
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which anime series did creator Akira Toriyama produce immediately before Dragon Ball?",
+      "choices": [
+        "Arale",
+        "Dr. Slump",
+        "Penguin Village",
+        "Robot Girl"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the destructive energy attack that Vegeta uses to level entire cities?",
+      "choices": [
+        "Final Flash",
+        "Galick Gun",
+        "Big Bang Attack",
+        "Blue Hurricane"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many episodes comprise the original Dragon Ball Z anime series?",
+      "choices": [
+        "276",
+        "291",
+        "307",
+        "325"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What celestial body is revealed to be Goku's birthplace in the Dragon Ball series?",
+      "choices": [
+        "Planet Frieza",
+        "Planet Vegeta",
+        "Planet Namek",
+        "Planet Sadala"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer created the iconic musical score for the original Dragon Ball and Dragon Ball Z anime?",
+      "choices": [
+        "Keiji Inai",
+        "Shunsuke Kikuchi",
+        "Takayuki Hattori",
+        "Norihito Nakayama"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary martial arts film influence that shaped the fighting choreography in Dragon Ball?",
+      "choices": [
+        "Bruce Lee kung fu films",
+        "Jackie Chan action movies",
+        "Jet Li wire-fu",
+        "Donnie Yen combat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Dragon Ball Tournament saga, what is the name of the martial arts competition held every five years?",
+      "choices": [
+        "Tenkaichi Budokai",
+        "World Martial Arts Tournament",
+        "Strongest Under Heaven Tournament",
+        "All names are correct"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What transformation does Goku first achieve during his climactic battle against Frieza on Planet Namek?",
+      "choices": [
+        "Ultra Instinct",
+        "Super Saiyan",
+        "Kaio-ken x20",
+        "Spirit Bomb"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dragon Ball Z film was released in 1991 and featured Goku's father Bardock?",
+      "choices": [
+        "The World's Strongest",
+        "The Tree of Might",
+        "The History of Trunks",
+        "Bardock - The Father of Goku"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the energy technique where a fighter gathers power from all living beings to create a massive attack?",
+      "choices": [
+        "Spirit Bomb",
+        "Genki Dama",
+        "Energy Cannon",
+        "Life Force Blast"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character serves as Goku's primary rival and eventual ally throughout the Dragon Ball Z series?",
+      "choices": [
+        "Frieza",
+        "Cell",
+        "Vegeta",
+        "Majin Buu"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What remastered version of Dragon Ball Z was created to appeal to modern audiences with improved animation and pacing?",
+      "choices": [
+        "Dragon Ball Remaster",
+        "Dragon Ball HD",
+        "Dragon Ball Kai",
+        "Dragon Ball Evolution"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original Dragon Ball manga, how many tankōbon volumes were collected across the entire series?",
+      "choices": [
+        "34",
+        "38",
+        "42",
+        "46"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Vegeta and Bulma's firstborn son, who travels back in time in the Android saga?",
+      "choices": [
+        "Gohan",
+        "Trunks",
+        "Bulla Jr.",
+        "Vegeta Jr."
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Hollywood studio acquired the film rights to the Dragon Ball franchise through a major acquisition?",
+      "choices": [
+        "Warner Bros.",
+        "20th Century Fox",
+        "Sony Pictures",
+        "Paramount Pictures"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What martial arts technique allows a fighter to multiply their power level by increasing their ki output?",
+      "choices": [
+        "Kaio-ken",
+        "Instant Transmission",
+        "Fusion Dance",
+        "Zenkai Boost"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dragon Ball fighting game released in 2018 developed a significant competitive esports scene?",
+      "choices": [
+        "Dragon Ball Xenoverse 2",
+        "Dragon Ball FighterZ",
+        "Dragon Ball Heroes",
+        "Dragon Ball Sparking"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What rank did Dragon Ball Z achieve in TV Asahi's Top 100 Anime nationwide survey conducted in 2005?",
+      "choices": [
+        "First place",
+        "Second place",
+        "Third place",
+        "Fifth place"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Dragon Ball Z, what is the name of Goku's older brother who arrives on Earth and serves as the catalyst for the entire Z saga?",
+      "choices": [
+        "Vegeta",
+        "Raditz",
+        "Nappa",
+        "Turles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did the original Dragon Ball manga first debut in Weekly Shōnen Jump?",
+      "choices": [
+        "1982",
+        "1984",
+        "1986",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which classical Chinese novel served as the primary inspiration for Akira Toriyama's creation of Dragon Ball?",
+      "choices": [
+        "Romance of the Three Kingdoms",
+        "Journey to the West",
+        "Water Margin",
+        "The Tale of Genji"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the technique where Goku collects energy from people across the world to create a powerful destructive attack?",
+      "choices": [
+        "Kamehameha",
+        "Spirit Bomb",
+        "Final Flash",
+        "Galick Gun"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Dragon Ball Super, what title is given to the supreme ruler of each universe?",
+      "choices": [
+        "God of Destruction",
+        "Supreme Kai",
+        "Universe Master",
+        "Kaioshin"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Goku's closest childhood friend who trained alongside him under Master Roshi?",
+      "choices": [
+        "Yamcha",
+        "Kuririn",
+        "Tien",
+        "Chiaotzu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 2015 Dragon Ball Z film introduced a new Super Saiyan transformation and featured the character Broly's origins?",
+      "choices": [
+        "Dragon Ball Z: Resurrection F",
+        "Dragon Ball Super: Broly",
+        "Dragon Ball Z: Fusion Reborn",
+        "Dragon Ball Z: Battle of Gods"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official title of the remastered and recut version of Dragon Ball Z that aired starting in 2009?",
+      "choices": [
+        "Dragon Ball Remaster",
+        "Dragon Ball Kai",
+        "Dragon Ball Evolution",
+        "Dragon Ball Super Kai"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Dragon Balls must be collected to summon Shenron, the wish-granting dragon?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Nine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Goku's mentor in the afterlife who trains him after his death during the Saiyan saga?",
+      "choices": [
+        "Kami",
+        "King Kai",
+        "Grand Kai",
+        "Elder Kai"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What transformation does Goku achieve for the first time during his battle against Frieza?",
+      "choices": [
+        "Ultra Instinct",
+        "Super Saiyan",
+        "Super Saiyan 2",
+        "Kaio-ken x20"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the original Dragon Ball anime television series first air in Japan?",
+      "choices": [
+        "1984",
+        "1985",
+        "1986",
+        "1987"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous martial arts film actor served as the primary creative inspiration for Akira Toriyama when designing Dragon Ball?",
+      "choices": [
+        "Jackie Chan",
+        "Bruce Lee",
+        "Jet Li",
+        "Jean-Claude Van Damme"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the major martial arts competition that Goku frequently enters throughout the Dragon Ball series?",
+      "choices": [
+        "Saiyan Games",
+        "World Martial Arts Tournament",
+        "Tenkaichi Budokai",
+        "Both B and C are correct"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dragon Ball Z fighting video game developed by Arc System Works has become a major esports title?",
+      "choices": [
+        "Dragon Ball Xenoverse 2",
+        "Dragon Ball FighterZ",
+        "Dragon Ball Legends",
+        "Dragon Ball Sparking ZERO"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many total episodes are contained in Dragon Ball Super, the continuation series that aired after Dragon Ball Z?",
+      "choices": [
+        "109",
+        "131",
+        "153",
+        "167"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What date is officially recognized in Japan as Goku Day, celebrating the character's birthday and cultural impact?",
+      "choices": [
+        "April 8th",
+        "May 9th",
+        "June 19th",
+        "November 20th"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who served as Goku's first martial arts teacher, training him at Kame House in the original Dragon Ball series?",
+      "choices": [
+        "Grandpa Gohan",
+        "Roshi",
+        "Krillin's master",
+        "Shen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Dragon Ball Z, what is the name of Vegeta's female Saiyan companion who arrives on Earth alongside Nappa?",
+      "choices": [
+        "Caulifla",
+        "Kale",
+        "Towa",
+        "No female Saiyan arrived with Vegeta"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many countries have broadcast the Dragon Ball Z anime series worldwide?",
+      "choices": [
+        "Over 40",
+        "Over 60",
+        "Over 80",
+        "Over 100"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Goku's older adoptive grandfather who raises him in the mountains?",
+      "choices": [
+        "Grandpa Gohan",
+        "Master Roshi",
+        "King Kai",
+        "Oolong"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which martial arts tournament first introduces Goku to Krillin as a young boy?",
+      "choices": [
+        "World Martial Arts Tournament",
+        "21st Tenkaichi Budokai",
+        "Otherworld Tournament",
+        "Red Ribbon Army Games"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the shape-shifting pig who becomes one of Goku's earliest companions?",
+      "choices": [
+        "Oolong",
+        "Puar",
+        "Roshi",
+        "Yajirobe"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the synthetic human warrior created by Dr. Gero to exact revenge on Goku?",
+      "choices": [
+        "Android 17",
+        "Android 16",
+        "Android 19",
+        "Cell"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What planet do the Saiyans originate from before it is destroyed by Frieza?",
+      "choices": [
+        "Planet Vegeta",
+        "Planet Namek",
+        "Planet Arlia",
+        "Planet Frieza"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Dragon Ball manga series first published?",
+      "choices": [
+        "1984",
+        "1986",
+        "1988",
+        "1990"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Vegeta's younger brother who arrives on Earth with him?",
+      "choices": [
+        "Nappa",
+        "Raditz",
+        "Zarbon",
+        "Guldo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character sacrifices himself by detonating an internal bomb to try to destroy Android 16?",
+      "choices": [
+        "Android 17",
+        "Android 16",
+        "Android 19",
+        "Android 20"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the time-traveling cyborg who warns the Z Fighters about future androids?",
+      "choices": [
+        "Trunks",
+        "Goten",
+        "Bulla",
+        "Marron"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What item does Master Roshi use to spy on young women, much to Goku's innocent confusion?",
+      "choices": [
+        "Turtle Shell",
+        "Oxygen Tank",
+        "Sunglasses",
+        "Periscope"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Z Fighter is a trained martial artist from the Crane School, making him initially an enemy?",
+      "choices": [
+        "Tien Shinhan",
+        "Yamcha",
+        "Chiaotzu",
+        "Krillin"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary weakness of the Saiyans that becomes crucial during the Saiyan invasion?",
+      "choices": [
+        "Extreme temperatures",
+        "Artificial moonlight and full moons",
+        "Water and electricity",
+        "Ki manipulation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Dragon Balls must be collected to summon the eternal dragon Shenron?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the demonic alien being created from the cells of various powerful fighters by Dr. Gero?",
+      "choices": [
+        "Cell",
+        "Frieza's clone",
+        "Bio-Fighter",
+        "Hybrid Saiyan"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character becomes the ruler of the Demon Realm in the original Dragon Ball series?",
+      "choices": [
+        "King Piccolo",
+        "Piccolo Jr.",
+        "Kami",
+        "Shenron"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Krillin's daughter who appears in Dragon Ball Super?",
+      "choices": [
+        "Marron",
+        "Bulla",
+        "Pan",
+        "Caulifla"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is revealed to be a bio-mechanical android designed by the Red Ribbon Army?",
+      "choices": [
+        "Android 8",
+        "General Blue",
+        "Commander Red",
+        "Colonel Silver"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technique does Goku learn from King Kai that multiplies his power level significantly?",
+      "choices": [
+        "Kaio-ken",
+        "Kamehameha",
+        "Kaioken Times Four",
+        "Spirit Bomb"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Buu Saga, what is the primary source of power for the pink monster Majin Buu?",
+      "choices": [
+        "Ancient magic and demon rituals",
+        "Saiyan DNA extraction",
+        "The wish of a wizard named Babidi",
+        "Absorption of the Dragon Balls"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

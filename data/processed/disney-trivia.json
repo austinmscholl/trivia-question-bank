@@ -1,169 +1,1756 @@
 {
   "slug": "disney-trivia",
   "name": "Disney",
-  "description": "Disney movies, characters, villains, and parks",
-  "processedAt": "2026-04-16T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.496Z",
   "questions": [
     {
-      "q": "In 'The Jungle Book,' which bear teaches Mowgli about 'The Bare Necessities'?",
-      "choices": ["Yogi", "Paddington", "Baloo", "Winnie"],
+      "q": "In what year did Walt Disney open the original Disneyland park in California?",
+      "choices": [
+        "1951",
+        "1955",
+        "1959",
+        "1963"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Mickey Mouse's pet dog?",
+      "choices": [
+        "Goofy",
+        "Pluto",
+        "Buddy",
+        "Max"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney princess sings 'Part of Your World' in 'The Little Mermaid'?",
+      "choices": [
+        "Belle",
+        "Cinderella",
+        "Ariel",
+        "Jasmine"
+      ],
       "correct": 2,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Baloo", "verified": true, "notes": "Voiced by Phil Harris in the 1967 original. A sloth bear in the book." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of Mickey Mouse's loyal pet dog?",
-      "choices": ["Goofy", "Pluto", "Rex", "Max"],
+      "q": "What year was Mickey Mouse first created?",
+      "choices": [
+        "1926",
+        "1928",
+        "1930",
+        "1932"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Pluto", "verified": true, "notes": "First appeared 1930 as 'Rover.' Goofy is also a dog but anthropomorphic." }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year did Mickey Mouse first appear in the short film 'Steamboat Willie'?",
-      "choices": ["1923", "1928", "1934", "1940"],
+      "q": "Which Disney animated film features a street rat named Aladdin?",
+      "choices": [
+        "The Lion King",
+        "Aladdin",
+        "Hercules",
+        "Mulan"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "1928", "verified": true, "notes": "Released November 18, 1928. One of the first synchronized-sound cartoons." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1937 film was Walt Disney's first full-length animated feature?",
-      "choices": ["Pinocchio", "Bambi", "Fantasia", "Snow White and the Seven Dwarfs"],
-      "correct": 3,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Snow White and the Seven Dwarfs", "verified": true, "notes": "Budget ~$1.5M. Grossed $8M at release, highest-grossing film of its time." }
-    },
-    {
-      "q": "Who is the villainous sea witch in 'The Little Mermaid'?",
-      "choices": ["Morgana", "Ursula", "Maleficent", "Cruella"],
-      "correct": 1,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Ursula", "verified": true, "notes": "Voiced by Pat Carroll. Design inspired by drag performer Divine." }
-    },
-    {
-      "q": "In 'Toy Story,' what is the cowboy doll's name?",
-      "choices": ["Buzz", "Woody", "Jessie", "Rex"],
-      "correct": 1,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Woody", "verified": true, "notes": "Full name: Sheriff Woody Pride. Originally conceived as a ventriloquist dummy." }
-    },
-    {
-      "q": "What type of animal is Nick Wilde in 'Zootopia'?",
-      "choices": ["Wolf", "Fox", "Coyote", "Raccoon"],
-      "correct": 1,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Nick Wilde", "verified": true, "notes": "Red fox, voiced by Jason Bateman. 2016 film won Best Animated Feature Oscar." }
-    },
-    {
-      "q": "Pixar's film 'Brave' is set in which country?",
-      "choices": ["Ireland", "Wales", "Scotland", "Norway"],
+      "q": "What is the name of the evil sea witch in 'The Little Mermaid'?",
+      "choices": [
+        "Maleficent",
+        "Cruella",
+        "Ursula",
+        "Gaston"
+      ],
       "correct": 2,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Scotland", "verified": true, "notes": "2012 film. Merida is the first Pixar princess." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is the demigod with a magical fishhook in the 2016 film 'Moana'?",
-      "choices": ["Tamatoa", "Maui", "Tui", "Tala"],
+      "q": "In 'The Lion King,' what is the name of the wise mandrill who advises Simba?",
+      "choices": [
+        "Zazu",
+        "Rafiki",
+        "Scar",
+        "Nala"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Maui", "verified": true, "notes": "Voiced by Dwayne Johnson. Based on the Polynesian trickster god." }
+      "difficulty": "easy"
     },
     {
-      "q": "In which 2008 Pixar film does a trash-compacting robot fall in love with a probe named EVE?",
-      "choices": ["Big Hero 6", "WALL-E", "Monsters, Inc.", "Ratatouille"],
+      "q": "Which Disney park is home to the iconic Spaceship Earth attraction?",
+      "choices": [
+        "Magic Kingdom",
+        "Epcot",
+        "Hollywood Studios",
+        "Animal Kingdom"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "WALL-E", "verified": true, "notes": "Waste Allocation Load Lifter: Earth-class. Directed by Andrew Stanton." }
+      "difficulty": "easy"
     },
     {
-      "q": "In the 1998 animated film 'Mulan,' what is the country Mulan disguises herself to serve in?",
-      "choices": ["Japan", "Korea", "China", "Mongolia"],
-      "correct": 2,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Mulan", "verified": true, "notes": "Based on the Chinese legend of Hua Mulan from the Ballad of Mulan." }
+      "q": "What is the name of Cinderella's fairy godmother in the classic Disney film?",
+      "choices": [
+        "Flora",
+        "The Fairy Godmother",
+        "Aurora's helper",
+        "Merryweather"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "In the first 'Toy Story,' what is the name of the toy-torturing kid next door?",
-      "choices": ["Sid Phillips", "Dave Miller", "Scotty Collins", "Al McWhiggin"],
+      "q": "Which Disney film features a young deer learning about the forest?",
+      "choices": [
+        "The Lion King",
+        "Bambi",
+        "Brother Bear",
+        "Zootopia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the rabbit friend in 'Bambi'?",
+      "choices": [
+        "Flower",
+        "Thumper",
+        "Faline",
+        "The Great Prince"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'Tangled,' what is the name of the chameleon sidekick character?",
+      "choices": [
+        "Maximus",
+        "Pascal",
+        "Flynn",
+        "Mother Gothel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney animated robot spends most of the film collecting garbage in space?",
+      "choices": [
+        "B.E.N.",
+        "WALL-E",
+        "Baymax",
+        "Number 5"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the laid-back meerkat in 'The Lion King'?",
+      "choices": [
+        "Timon",
+        "Pumba",
+        "Zazu",
+        "Scar"
+      ],
       "correct": 0,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Sid Phillips", "verified": true, "notes": "Later appears as a garbage man in Toy Story 3." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which song from 'Frozen' won the Academy Award for Best Original Song in 2014?",
-      "choices": ["Do You Want to Build a Snowman?", "For the First Time in Forever", "Let It Go", "Love Is an Open Door"],
+      "q": "In 'Lilo & Stitch,' what is the name of the mischievous blue alien character?",
+      "choices": [
+        "Jumba",
+        "Pleakley",
+        "Stitch",
+        "Nani"
+      ],
       "correct": 2,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Let It Go", "verified": true, "notes": "Written by Kristen Anderson-Lopez and Robert Lopez. Performed by Idina Menzel." }
+      "difficulty": "easy"
     },
     {
-      "q": "'A Whole New World,' a duet sung on a flying carpet, comes from which Disney film?",
-      "choices": ["The Little Mermaid", "Aladdin", "Beauty and the Beast", "Hercules"],
-      "correct": 1,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "A Whole New World", "verified": true, "notes": "Won Academy Award for Best Original Song (1993). Music by Alan Menken." }
-    },
-    {
-      "q": "'Circle of Life' is the opening song of which Disney film?",
-      "choices": ["Tarzan", "Pocahontas", "The Lion King", "Hercules"],
+      "q": "Which Disney theme park features the Kilimanjaro Safaris attraction?",
+      "choices": [
+        "Magic Kingdom",
+        "Epcot",
+        "Animal Kingdom",
+        "Hollywood Studios"
+      ],
       "correct": 2,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Circle of Life", "verified": true, "notes": "Composed by Elton John and Tim Rice. Opens with Zulu vocals by Lebo M." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is the evil fairy who curses Princess Aurora in 'Sleeping Beauty'?",
-      "choices": ["Lady Tremaine", "Maleficent", "Cruella", "The Evil Queen"],
+      "q": "In 'Snow White and the Seven Dwarfs,' how many dwarfs accompany Snow White?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Eight",
+        "Six"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Maleficent", "verified": true, "notes": "Angelina Jolie played her in the 2014 live-action film." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is the hook-handed pirate villain in 'Peter Pan'?",
-      "choices": ["Captain Barbossa", "Long John Silver", "Captain Hook", "Blackbeard"],
+      "q": "What is the name of Winnie the Pooh's young human friend?",
+      "choices": [
+        "Piglet",
+        "Christopher Robin",
+        "Tigger",
+        "Eeyore"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Walt Disney's first full-length animated feature film released?",
+      "choices": [
+        "1935",
+        "1937",
+        "1939",
+        "1941"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Cinderella's fairy godmother in the 1950 animated film?",
+      "choices": [
+        "Fairy Flora",
+        "The Fairy Godmother",
+        "Magica",
+        "Enchantress"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the lazy, lovable lion cub in The Lion King?",
+      "choices": [
+        "Simba",
+        "Mufasa",
+        "Scar",
+        "Zazu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Frozen, what magical power does Queen Elsa possess?",
+      "choices": [
+        "Fire manipulation",
+        "Ice and snow control",
+        "Mind reading",
+        "Time travel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney character is a wooden puppet who dreams of becoming a real boy?",
+      "choices": [
+        "Peter Pan",
+        "Pinocchio",
+        "Dumbo",
+        "Jiminy Cricket"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the street urchin who finds a magic lamp in Aladdin?",
+      "choices": [
+        "Aladdin",
+        "Abu",
+        "Iago",
+        "Jafar"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Toy Story, what is Woody's occupation as a toy?",
+      "choices": [
+        "Spaceman",
+        "Cowboy",
+        "Astronaut",
+        "Pilot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney animated film features the song 'Let It Go'?",
+      "choices": [
+        "Tangled",
+        "Frozen",
+        "Moana",
+        "Encanto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the beast's castle in Beauty and the Beast?",
+      "choices": [
+        "Rose Castle",
+        "Enchanted Castle",
+        "Beast's Manor",
+        "The Castle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney villain is obsessed with making a fur coat from dalmatian puppies?",
+      "choices": [
+        "Maleficent",
+        "Cruella de Vil",
+        "Ursula",
+        "Jafar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Mulan's loyal horse companion in Disney's Mulan?",
+      "choices": [
+        "Khan",
+        "Spirit",
+        "Storm",
+        "Thunder"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In The Incredibles, what is the superhero family's last name?",
+      "choices": [
+        "Powers",
+        "Super",
+        "Parr",
+        "Storm"
+      ],
       "correct": 2,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "Captain Hook", "verified": true, "notes": "Lost his hand to a crocodile; the croc swallowed a clock and tracks him." }
+      "difficulty": "easy"
     },
     {
-      "q": "In 'Snow White,' which Disney villain repeatedly asks a magic mirror who is 'the fairest of them all'?",
-      "choices": ["Queen of Hearts", "Mother Gothel", "The Evil Queen", "Lady Tremaine"],
+      "q": "Which Disney princess lives in a tower with seventy feet of magical hair?",
+      "choices": [
+        "Rapunzel",
+        "Aurora",
+        "Cinderella",
+        "Belle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the magic carpet in Aladdin?",
+      "choices": [
+        "The carpet is unnamed",
+        "Carpet",
+        "Magic Rug",
+        "Abu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Moana, what is the name of the demigod who helps Moana on her voyage?",
+      "choices": [
+        "Tamatoa",
+        "Maui",
+        "Te Fiti",
+        "Heihei"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney park opened in Florida in 1971?",
+      "choices": [
+        "Disneyland",
+        "Magic Kingdom",
+        "EPCOT",
+        "Hollywood Studios"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the young deer protagonist in Disney's Bambi?",
+      "choices": [
+        "Felix",
+        "Bambi",
+        "Buck",
+        "Faline"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Beauty and the Beast, what is Belle's favorite activity?",
+      "choices": [
+        "Dancing",
+        "Singing",
+        "Reading",
+        "Cooking"
+      ],
       "correct": 2,
-      "category": "Disney",
-      "difficulty": "easy",
-      "source": { "original_a": "The Evil Queen (Snow White)", "verified": true, "notes": "Also called the Wicked Queen. Alternate name: Queen Grimhilde." }
+      "difficulty": "easy"
     },
     {
-      "q": "Disneyland Paris opened to the public in which year?",
-      "choices": ["1986", "1992", "1998", "2003"],
+      "q": "In what year did Mickey Mouse first appear in an animated film?",
+      "choices": [
+        "1926",
+        "1928",
+        "1930",
+        "1932"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Paris", "verified": true, "notes": "Opened April 12, 1992. Originally called Euro Disney Resort." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which family is the focus of 'Mary Poppins' (1964)?",
-      "choices": ["The Darling Family", "The Banks Family", "The Trotter Family", "The Smith Family"],
+      "q": "Which Disney princess lives in a castle and is poisoned by a magical apple?",
+      "choices": [
+        "Cinderella",
+        "Snow White",
+        "Sleeping Beauty",
+        "Rapunzel"
+      ],
       "correct": 1,
-      "category": "Disney",
-      "difficulty": "medium",
-      "source": { "original_a": "Banks", "verified": true, "notes": "Mr. George Banks, Mrs. Winifred Banks, Jane and Michael." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Aladdin's magical blue companion?",
+      "choices": [
+        "Genie",
+        "Jafar",
+        "Iago",
+        "Abu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney animated film features a wooden puppet who dreams of becoming a real boy?",
+      "choices": [
+        "Dumbo",
+        "Pinocchio",
+        "Bambi",
+        "Cinderella"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the crab character who sings 'Under the Sea' in 'The Little Mermaid'?",
+      "choices": [
+        "Sebastian",
+        "Flounder",
+        "Ursula",
+        "Scuttle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney film tells the story of a street urchin who finds a magic lamp?",
+      "choices": [
+        "Aladdin",
+        "Hercules",
+        "Mulan",
+        "Tangled"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Walt Disney open the first Disneyland theme park?",
+      "choices": [
+        "1953",
+        "1955",
+        "1957",
+        "1959"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'Moana,' what is the name of the legendary demigod Moana seeks out?",
+      "choices": [
+        "Maui",
+        "Te Fiti",
+        "Tamatoa",
+        "Kakamora"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney villain is known for her obsession with making a fur coat from dalmatian puppies?",
+      "choices": [
+        "Cruella de Vil",
+        "Ursula",
+        "Maleficent",
+        "Gaston"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'Beauty and the Beast,' what enchanted object does Belle's father take from the Beast's castle?",
+      "choices": [
+        "A candelabra",
+        "A rose",
+        "A mirror",
+        "A teacup"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney animated film features the song 'I'll Make a Man Out of You'?",
+      "choices": [
+        "Hercules",
+        "Mulan",
+        "The Emperor's New Groove",
+        "Aladdin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the street urchin best friend in 'Aladdin'?",
+      "choices": [
+        "Abu",
+        "Iago",
+        "Jafar",
+        "Gazeem"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'Tangled,' what is the name of Rapunzel's love interest?",
+      "choices": [
+        "Prince Charming",
+        "Flynn Rider",
+        "Maximus",
+        "Pascal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'The Lion King,' what is the name of Simba's childhood friend who becomes his romantic interest as an adult?",
+      "choices": [
+        "Sarabi",
+        "Nala",
+        "Sarafina",
+        "Zazu"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney animated film features the song 'I'll Make a Man Out of You' as a training montage sequence?",
+      "choices": [
+        "Hercules",
+        "Mulan",
+        "Aladdin",
+        "The Emperor's New Groove"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Cinderella,' what is the name of the Grand Duke who travels the kingdom searching for the mysterious maiden?",
+      "choices": [
+        "Duke Charming",
+        "Prince Charming",
+        "The Grand Duke",
+        "Lord Pembroke"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney villain is the biological mother of Maleficent's curse victim in 'Sleeping Beauty'?",
+      "choices": [
+        "Queen Leah",
+        "Queen Flora",
+        "Queen Fauna",
+        "Queen Merryweather"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Frozen,' what magical object does Elsa accidentally create when she loses control of her powers during her coronation?",
+      "choices": [
+        "An eternal blizzard",
+        "A frozen fortress",
+        "A magical ice rink",
+        "A snow monster"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney film opens with the character of Pacha as a peasant living on a hilltop in an Andean setting?",
+      "choices": [
+        "Hercules",
+        "The Emperor's New Groove",
+        "Encanto",
+        "Moana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Tangled,' what is the name of the thief who becomes Flynn Rider?",
+      "choices": [
+        "Eugene Fitzherbert",
+        "Daniel Colter",
+        "Adrian Thorne",
+        "Marcus Wells"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney animated feature film was the first to be based on a Hans Christian Andersen tale?",
+      "choices": [
+        "Frozen",
+        "The Little Mermaid",
+        "Cinderella",
+        "Snow White and the Seven Dwarfs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Hercules,' what is the name of the satyr who serves as Hercules' trainer and comedic sidekick?",
+      "choices": [
+        "Patroclus",
+        "Phil",
+        "Achilles",
+        "Thaddeus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney film features a climactic scene where the protagonist must navigate a ballroom while being chased by enchanted objects?",
+      "choices": [
+        "Cinderella",
+        "Beauty and the Beast",
+        "The Sleeping Beauty",
+        "Snow White"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Aladdin,' what is the name of the monkey who belongs to Aladdin and serves as his loyal companion?",
+      "choices": [
+        "Abu",
+        "Iago",
+        "Raja",
+        "Mushu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney princess film is set in the kingdom of Corona?",
+      "choices": [
+        "Tangled",
+        "The Princess and the Frog",
+        "Rapunzel",
+        "Cinderella"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Little Mermaid,' what does Ariel trade to Ursula in exchange for the ability to become human?",
+      "choices": [
+        "Her voice",
+        "Her heart",
+        "Her tail",
+        "Her crown"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animated Disney film features a character named Pacha who helps the protagonist undo a curse?",
+      "choices": [
+        "The Emperor's New Groove",
+        "Atlantis: The Lost Empire",
+        "Brother Bear",
+        "Treasure Planet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Moana,' what is the name of the demigod who reluctantly helps Moana on her ocean voyage?",
+      "choices": [
+        "Te Fiti",
+        "Maui",
+        "Te Kā",
+        "Tamatoa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney film concludes with a wedding ceremony at the end of the film and takes place primarily in the Bayou?",
+      "choices": [
+        "The Princess and the Frog",
+        "Tiana's Kitchen",
+        "Naveen's Quest",
+        "The Bayou Princess"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Pocahontas,' what is the name of John Smith's superior officer who leads the expedition to Virginia?",
+      "choices": [
+        "Governor Ratcliffe",
+        "Captain Neville",
+        "Lord Blackwood",
+        "Colonel Harrison"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney animated film features a transformation curse that can only be broken by true love's kiss before midnight?",
+      "choices": [
+        "The Sleeping Beauty",
+        "Cinderella",
+        "Beauty and the Beast",
+        "Snow White and the Seven Dwarfs"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Coco,' what is the name of Miguel's ancestor who was a famous musician in the Land of the Dead?",
+      "choices": [
+        "Héctor",
+        "Ernesto de la Cruz",
+        "Julio",
+        "Felipe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney animated feature was the first collaboration between Walt Disney Productions and Pixar Animation Studios?",
+      "choices": [
+        "Toy Story 3",
+        "A Bug's Life",
+        "Toy Story",
+        "Cars"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Walt Disney Animation Studios release 'Steamboat Willie,' marking Mickey Mouse's theatrical debut?",
+      "choices": [
+        "1927",
+        "1928",
+        "1929",
+        "1930"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the original score for 'The Lion King,' including the iconic 'Circle of Life'?",
+      "choices": [
+        "Alan Menken",
+        "Elton John",
+        "Hans Zimmer",
+        "Tim Rice"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Beauty and the Beast,' what is the name of the enchantress who casts the spell transforming the prince into a beast?",
+      "choices": [
+        "Maleficent",
+        "The Enchantress",
+        "Ursula",
+        "The Fairy Godmother"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Simba's majordomo, the red-billed hornbill who serves the Pride Lands?",
+      "choices": [
+        "Zazu",
+        "Rafiki",
+        "Scar",
+        "Sarabi"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Cinderella,' what time does the magical spell break, forcing Cinderella to flee the ball?",
+      "choices": [
+        "Midnight",
+        "11 PM",
+        "1 AM",
+        "Dawn"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney animated film was the first to be nominated for the Academy Award for Best Picture?",
+      "choices": [
+        "Snow White and the Seven Dwarfs",
+        "Pinocchio",
+        "Fantasia",
+        "Cinderella"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Aladdin,' what is the name of Jasmine's pet tiger companion?",
+      "choices": [
+        "Rajah",
+        "Shere Khan",
+        "Bagheera",
+        "Raja"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the sea witch Ursula in 'The Little Mermaid' according to supplementary Disney materials?",
+      "choices": [
+        "Ursula Grimsby",
+        "Ursula Morgana",
+        "The Sea Witch",
+        "Ursula (no human name given)"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Sleeping Beauty,' which of the three good fairies does NOT have a dominant color associated with her magic?",
+      "choices": [
+        "Flora (pink)",
+        "Fauna (green)",
+        "Merryweather (blue)",
+        "All three have colors"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the original Disneyland theme park open in Anaheim, California?",
+      "choices": [
+        "1950",
+        "1951",
+        "1952",
+        "1955"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Jungle Book,' what is the name of the python who hypnotizes Mowgli with his eyes?",
+      "choices": [
+        "Kaa",
+        "Shere Khan",
+        "Baloo",
+        "King Louie"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney princess film was the first to feature a completely original story not based on existing source material?",
+      "choices": [
+        "Moana",
+        "Tangled",
+        "Frozen",
+        "Brave"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Hercules,' what is the name of Megara's friend, the satyr who mentors Hercules?",
+      "choices": [
+        "Pan",
+        "Philoctetes",
+        "Hermes",
+        "Achilles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the cowboy doll who was Andy's favorite toy before Buzz Lightyear arrived in 'Toy Story'?",
+      "choices": [
+        "Woody Pride",
+        "Woody Carson",
+        "Woody Harrelson",
+        "Woody the Cowpoke"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Mulan,' what is the name of Mulan's ancestors' guardian spirit, a small red dragon?",
+      "choices": [
+        "Mushu",
+        "Cri-Kee",
+        "Khan",
+        "Shan Yu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney Renaissance film marked the studio's return to critical and commercial success in the late 1980s?",
+      "choices": [
+        "Oliver & Company",
+        "The Little Mermaid",
+        "DuckTales the Movie",
+        "Rescuers Down Under"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Frozen,' what is the name of the snow queen whose powers accidentally plunge the kingdom into eternal winter?",
+      "choices": [
+        "Elsa",
+        "Anna",
+        "Iduna",
+        "Ingrid"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the evil sorceress who curses Rapunzel in 'Tangled'?",
+      "choices": [
+        "Gothel",
+        "Gothelle",
+        "Giselle",
+        "Gazelle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Peter Pan,' what is the name of the Lost Boy who speaks with a Native American accent and serves as Peter's right-hand?",
+      "choices": [
+        "Nibs",
+        "Slightly",
+        "Tootles",
+        "The Twins"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney animated film was the first to use computer animation alongside traditional hand-drawn animation?",
+      "choices": [
+        "The Black Cauldron",
+        "Tron",
+        "Beauty and the Beast",
+        "Pocahontas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Little Mermaid' (1989), what is the name of King Triton's kingdom beneath the sea?",
+      "choices": [
+        "Atlantica",
+        "Poseidonia",
+        "Nerida",
+        "Aquatica"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Sleeping Beauty' (1959), what is the name of the good fairy who gives Aurora the gift of true love?",
+      "choices": [
+        "Merryweather",
+        "Flora",
+        "Fauna",
+        "Briar Rose"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Walt Disney open the first Disneyland theme park in Anaheim, California?",
+      "choices": [
+        "1951",
+        "1955",
+        "1957",
+        "1959"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Cinderella' (1950), what does the Fairy Godmother use as a carriage for Cinderella's journey to the ball?",
+      "choices": [
+        "A turnip",
+        "A pumpkin",
+        "A squash",
+        "A melon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney villain was inspired by the real-life personality of author P.L. Travers, who famously clashed with Walt Disney?",
+      "choices": [
+        "Mother Gothel",
+        "Cruella de Vil",
+        "Maleficent",
+        "Ursula"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Lion King' (1994), what is the name of Simba's childhood friend who becomes his mate?",
+      "choices": [
+        "Zazu",
+        "Nala",
+        "Sarafina",
+        "Sarabi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the enchanted objects' leader in 'Beauty and the Beast' who was transformed into a candelabra?",
+      "choices": [
+        "Cogsworth",
+        "Lumiere",
+        "Maurice",
+        "Chip"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Aladdin' (1992), what is the name of the street urchin's monkey companion?",
+      "choices": [
+        "Abu",
+        "Iago",
+        "Raja",
+        "Mushu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney theme park was the first to open outside the United States?",
+      "choices": [
+        "Tokyo Disneyland",
+        "Disneyland Paris",
+        "Hong Kong Disneyland",
+        "Shanghai Disneyland"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Mulan' (1998), what dynasty does the Hun invasion threaten during the film's setting?",
+      "choices": [
+        "Tang Dynasty",
+        "Han Dynasty",
+        "Ming Dynasty",
+        "Song Dynasty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the underwater kingdom in 'The Little Mermaid: The Series' spin-off animated show?",
+      "choices": [
+        "Atlantica",
+        "Poseidonia",
+        "The Pearl",
+        "Aquaria"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Hercules' (1997), what is the name of the nine-headed serpent monster that Hercules must defeat?",
+      "choices": [
+        "Hydra",
+        "Chimera",
+        "Medusa",
+        "Typhon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer created the iconic scores for both 'The Lion King' and 'The Little Mermaid'?",
+      "choices": [
+        "Alan Menken",
+        "Elton John",
+        "Tim Rice",
+        "Hans Zimmer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Tangled' (2010), what is the name of the kingdom's lost princess who is Rapunzel?",
+      "choices": [
+        "Rapunzel",
+        "Cassandra",
+        "Ariana",
+        "Corona"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Disney film was the studio's first animated feature to be adapted into a Broadway musical that opened on stage?",
+      "choices": [
+        "Aladdin",
+        "Beauty and the Beast",
+        "The Lion King",
+        "Frozen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Disney acquire Pixar Animation Studios, marking a transformative merger that would reshape computer animation for decades?",
+      "choices": [
+        "2004",
+        "2006",
+        "2008",
+        "2010"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Little Mermaid,' what is the name of King Triton's youngest daughter who dreams of becoming human?",
+      "choices": [
+        "Andrina",
+        "Ariel",
+        "Atena",
+        "Aquata"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which composer created the iconic scores for 'The Lion King,' 'Aladdin,' and 'The Hunchback of Notre Dame'?",
+      "choices": [
+        "John Williams",
+        "Elton John",
+        "Tim Rice",
+        "Hans Zimmer"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Frozen,' what is the name of the snow queen with ice powers who isolates herself from her kingdom?",
+      "choices": [
+        "Elsa",
+        "Anna",
+        "Iduna",
+        "Ingrid"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney park, located in Florida, was the first to be built after Disneyland California?",
+      "choices": [
+        "EPCOT",
+        "Disney's Hollywood Studios",
+        "Magic Kingdom",
+        "Disney's Animal Kingdom"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Beauty and the Beast,' what is the name of the enchanted castle staff member who is a clock?",
+      "choices": [
+        "Lumiere",
+        "Cogsworth",
+        "Mrs. Potts",
+        "Chip"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was 'Snow White and the Seven Dwarfs' released, marking Disney's first full-length animated feature film?",
+      "choices": [
+        "1935",
+        "1937",
+        "1939",
+        "1941"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Cinderella,' what item does the fairy godmother use to transform Cinderella's pumpkin into a carriage?",
+      "choices": [
+        "A magic wand",
+        "A golden key",
+        "A glass slipper",
+        "A magic mirror"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Mulan,' what is the name of the mountain where Mulan leads the Chinese army to a major victory?",
+      "choices": [
+        "Mount Jade",
+        "Mount Khan",
+        "Mount Forbidden",
+        "Mount Dragon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney villain plots to capture 101 dalmatian puppies to create a fur coat in the 1961 film?",
+      "choices": [
+        "Maleficent",
+        "Cruella de Vil",
+        "Ursula",
+        "Gaston"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Aladdin,' what is the name of the magical blue genie who grants Aladdin three wishes?",
+      "choices": [
+        "Jafar",
+        "Genie",
+        "Iago",
+        "Abu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney princess is raised by gorillas in the African jungle in 'Tarzan'?",
+      "choices": [
+        "Jane",
+        "Kala",
+        "Sabor",
+        "Terk"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Incredibles,' what is the superhero name of the father of the super-powered family?",
+      "choices": [
+        "Syndrome",
+        "Mr. Incredible",
+        "Elastigirl",
+        "Dash"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which theme park land in Disney World features attractions based on Disney films and television shows?",
+      "choices": [
+        "Tomorrowland",
+        "Fantasyland",
+        "Adventureland",
+        "Frontierland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 2009 Disney animated film features a widowed house owner and a young wilderness explorer on an adventure?",
+      "choices": [
+        "Tangled",
+        "Wreck-It Ralph",
+        "Up",
+        "The Princess and the Frog"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Sleeping Beauty,' what is the name of the evil fairy who curses Princess Aurora?",
+      "choices": [
+        "Maleficent",
+        "Merryweather",
+        "Flora",
+        "Fauna"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney character is a clownfish searching for his lost son in 'Finding Nemo'?",
+      "choices": [
+        "Nemo",
+        "Marlin",
+        "Dory",
+        "Bruce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Hercules,' what is the name of the satyr who serves as Hercules' mentor and trainer?",
+      "choices": [
+        "Phil",
+        "Megara",
+        "Hades",
+        "Zeus"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney park opened in Hong Kong in 2005?",
+      "choices": [
+        "Tokyo Disneyland",
+        "Disneyland Paris",
+        "Hong Kong Disneyland",
+        "Shanghai Disneyland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Frozen,' what is the name of the magical snow queen who accidentally plunges her kingdom into eternal winter?",
+      "choices": [
+        "Elsa",
+        "Anna",
+        "Iduna",
+        "Ingrid"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney film features the song 'How Far I'll Go' as its empowering main theme?",
+      "choices": [
+        "Moana",
+        "Encanto",
+        "Tangled",
+        "Brave"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Cinderella,' what time must Cinderella leave the ball before her magical disguise disappears?",
+      "choices": [
+        "Midnight",
+        "11 PM",
+        "Dawn",
+        "Sundown"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the street rat turned prince in 'Aladdin'?",
+      "choices": [
+        "Aladdin",
+        "Jafar",
+        "Cassim",
+        "Iago"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Lion King,' what is the name of Simba's best friend who is a wisecracking meerkat?",
+      "choices": [
+        "Timon",
+        "Pumba",
+        "Zazu",
+        "Nala"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney animated film tells the story of a street orphan who discovers her magical heritage as a princess?",
+      "choices": [
+        "Tangled",
+        "The Princess and the Frog",
+        "Enchanto",
+        "Wish"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Peter Pan,' what is the name of Captain Hook's ship?",
+      "choices": [
+        "The Jolly Roger",
+        "The Black Pearl",
+        "The Flying Dutchman",
+        "The Queen Anne's Revenge"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did Disney Animation Studios release 'The Little Mermaid,' which sparked the Disney Renaissance?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Mulan,' what is the name of Mulan's pet guardian dragon who acts as her sidekick throughout her journey?",
+      "choices": [
+        "Mushu",
+        "Khan",
+        "Cri-Kee",
+        "Shan Yu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney princess lives in a tower and possesses magical long, golden hair?",
+      "choices": [
+        "Rapunzel",
+        "Cinderella",
+        "Aurora",
+        "Belle"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Jungle Book,' what is the name of the fearless bear who mentors young Mowgli?",
+      "choices": [
+        "Baloo",
+        "Bagheera",
+        "King Louie",
+        "Shere Khan"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney villain is primarily motivated by jealousy over her stepdaughter's beauty in 'Snow White and the Seven Dwarfs'?",
+      "choices": [
+        "The Evil Queen",
+        "Maleficent",
+        "Ursula",
+        "Gaston"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Tangled,' what is the name of the charming thief who becomes Rapunzel's love interest?",
+      "choices": [
+        "Flynn Rider",
+        "Prince Hans",
+        "Prince Eric",
+        "Adam"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What magical object does Ariel trade to Ursula in exchange for the ability to walk on land in 'The Little Mermaid'?",
+      "choices": [
+        "Her voice",
+        "Her heart",
+        "Her crown",
+        "Her trident"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Beauty and the Beast,' how many enchanted objects serve the Beast in his castle?",
+      "choices": [
+        "7",
+        "5",
+        "12",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney animated film is set primarily in the fictional South American kingdom of Corona?",
+      "choices": [
+        "Tangled",
+        "Encanto",
+        "Coco",
+        "Elena of Avalor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Toy Story,' what is Woody's job title before the toys come to life?",
+      "choices": [
+        "Andy's favorite toy",
+        "Cowboy doll",
+        "Sheriff",
+        "Rancher"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the sea witch in 'The Little Mermaid' who makes a sinister deal with Ariel?",
+      "choices": [
+        "Ursula",
+        "Morgana",
+        "Vanessa",
+        "Moray"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Aladdin,' what is the profession of Jasmine's father, the Sultan?",
+      "choices": [
+        "Ruler of Agrabah",
+        "Grand Vizier",
+        "Guard Captain",
+        "Merchant Prince"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney film features the iconic ballroom dance scene set to the song 'Tale as Old as Time'?",
+      "choices": [
+        "Beauty and the Beast",
+        "Cinderella",
+        "Sleeping Beauty",
+        "The Little Mermaid"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Lion King,' what is the name of Simba's father, the king whose death sets the entire story in motion?",
+      "choices": [
+        "Mufasa",
+        "Scar",
+        "Ahadi",
+        "Ahmar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney animated film features a street urchin who discovers a magical lamp in the desert?",
+      "choices": [
+        "The Little Mermaid",
+        "Aladdin",
+        "Hercules",
+        "Mulan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Beauty and the Beast,' what object must Belle's father find to save his life when he is imprisoned by the Beast?",
+      "choices": [
+        "A golden rose",
+        "An enchanted mirror",
+        "A silver locket",
+        "A crystal key"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney villain is known for her obsession with making a coat from the fur of dalmatian puppies?",
+      "choices": [
+        "Ursula",
+        "Cruella de Vil",
+        "Maleficent",
+        "The Evil Queen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Cinderella,' what time does Cinderella's magical transformation end, forcing her to leave the royal ball?",
+      "choices": [
+        "Midnight",
+        "11 PM",
+        "1 AM",
+        "Sunset"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney theme park, opening in 1971, was the second Disney park built in North America?",
+      "choices": [
+        "Disneyland",
+        "Walt Disney World's Magic Kingdom",
+        "Epcot",
+        "Disney's Hollywood Studios"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Sleeping Beauty,' what does the good fairy Flora use her magic to change Maleficent's curse into?",
+      "choices": [
+        "A dream",
+        "A blessing",
+        "A gift",
+        "A temporary spell"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney animated film tells the story of a young Chinese woman who disguises herself as a man to join the army?",
+      "choices": [
+        "Moana",
+        "Mulan",
+        "Pocahontas",
+        "Brave"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Little Mermaid,' what is the name of King Triton's youngest daughter?",
+      "choices": [
+        "Ariel",
+        "Attena",
+        "Adela",
+        "Aurora"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney villain is a sea witch who makes a deal with Ariel to help her become human?",
+      "choices": [
+        "Maleficent",
+        "Mother Gothel",
+        "Ursula",
+        "Lady Tremaine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Frozen,' what magical power does Elsa possess that she initially struggles to control?",
+      "choices": [
+        "Fire manipulation",
+        "Frost and ice control",
+        "Mind reading",
+        "Time travel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney film features a street rat named Aladdin whose best friend is a blue genie?",
+      "choices": [
+        "Hercules",
+        "The Jungle Book",
+        "Aladdin",
+        "Moana"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Rapunzel,' what hair-related ability does the princess possess that allows her to heal others?",
+      "choices": [
+        "Her hair glows and sings",
+        "Her hair has magical healing powers",
+        "Her hair can transform into a weapon",
+        "Her hair extends indefinitely"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney character is a street orphan raised by dogs in the film 'Lady and the Tramp'?",
+      "choices": [
+        "Tramp",
+        "Lady",
+        "Jock",
+        "Trusty"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Moana,' what object does Moana need to return to the goddess Te Fiti to save her island?",
+      "choices": [
+        "The Heart of Te Fiti",
+        "A magical pearl",
+        "The golden hook",
+        "A celestial stone"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney villain, the mother figure in 'Tangled,' keeps Rapunzel imprisoned in a tower for years?",
+      "choices": [
+        "Maleficent",
+        "Mother Gothel",
+        "Lady Tremaine",
+        "The Evil Queen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

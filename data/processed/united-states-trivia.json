@@ -1,273 +1,2669 @@
 {
   "slug": "united-states-trivia",
   "name": "United States",
-  "description": "The USA — states, capitals, and Americana",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.774Z",
   "questions": [
     {
-      "q": "Which is the largest U.S. state by area?",
-      "choices": ["Texas", "California", "Alaska", "Montana"],
-      "correct": 2,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Alaska",
-        "verified": true,
-        "notes": "About 1.7 million square kilometers — more than twice the size of Texas."
-      }
-    },
-    {
-      "q": "What is the national bird of the United States?",
-      "choices": ["Wild Turkey", "Golden Eagle", "Bald Eagle", "Red-tailed Hawk"],
-      "correct": 2,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bald eagle",
-        "verified": true,
-        "notes": "Adopted as the national emblem in 1782."
-      }
-    },
-    {
       "q": "Which was the 50th and most recent state admitted to the Union?",
-      "choices": ["Alaska", "Hawaii", "Arizona", "New Mexico"],
+      "choices": [
+        "Alaska",
+        "Hawaii",
+        "Arizona",
+        "New Mexico"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Hawaii",
-        "verified": true,
-        "notes": "Admitted August 21, 1959, about seven months after Alaska."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "How many boroughs make up New York City?",
-      "choices": ["Three", "Four", "Five", "Six"],
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
       "correct": 2,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "5",
-        "verified": true,
-        "notes": "Manhattan, Brooklyn, Queens, The Bronx, Staten Island."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which state was first to ratify the U.S. Constitution, in 1787?",
-      "choices": ["Virginia", "Delaware", "Pennsylvania", "New Jersey"],
+      "choices": [
+        "Virginia",
+        "Delaware",
+        "Pennsylvania",
+        "New Jersey"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Delaware",
-        "verified": true,
-        "notes": "Nicknamed 'The First State' for this reason."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What is the capital city of the United States?",
-      "choices": ["New York", "Philadelphia", "Washington, D.C.", "Boston"],
+      "choices": [
+        "New York",
+        "Philadelphia",
+        "Washington, D.C.",
+        "Boston"
+      ],
       "correct": 2,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "1950s context",
-        "verified": true,
-        "notes": "Washington, D.C. has been the capital since 1800."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Hollywood, the center of the U.S. film industry, is in which state?",
-      "choices": ["New York", "California", "Florida", "Nevada"],
+      "choices": [
+        "New York",
+        "California",
+        "Florida",
+        "Nevada"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "California",
-        "verified": true,
-        "notes": "Neighborhood of Los Angeles; film industry moved there around 1910."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which state is nicknamed 'The Lone Star State'?",
-      "choices": ["Texas", "Oklahoma", "Arizona", "New Mexico"],
+      "q": "How many states border the Atlantic Ocean?",
+      "choices": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Mississippi River forms a natural border between which two states?",
+      "choices": [
+        "Minnesota and Wisconsin",
+        "Iowa and Illinois",
+        "Missouri and Illinois",
+        "Tennessee and Arkansas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Colorado?",
+      "choices": [
+        "Boulder",
+        "Denver",
+        "Fort Collins",
+        "Colorado Springs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state capital is also the name of a popular American breakfast grain?",
+      "choices": [
+        "Montpelier, Vermont",
+        "Pierre, South Dakota",
+        "Augusta, Georgia",
+        "Concord, New Hampshire"
+      ],
       "correct": 0,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Texas",
-        "verified": true,
-        "notes": "References the single star on the Republic of Texas flag."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "According to legend, Peter Minuit bought Manhattan Island from Native Americans in 1626 for goods estimated at what value?",
-      "choices": ["$10", "$24", "$100", "$500"],
+      "q": "Which state was the last to join the Union?",
+      "choices": [
+        "Alaska",
+        "Hawaii",
+        "Arizona",
+        "New Mexico"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "24 dollars",
-        "verified": true,
-        "notes": "Actually paid in trade goods worth about 60 guilders — famously pegged at $24 by 19th-century historians."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The iconic geyser Old Faithful is located in which U.S. national park?",
-      "choices": ["Yosemite", "Grand Canyon", "Yellowstone", "Glacier"],
+      "q": "What is the capital of Washington state?",
+      "choices": [
+        "Seattle",
+        "Tacoma",
+        "Olympia",
+        "Spokane"
+      ],
       "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Yellowstone",
-        "verified": true,
-        "notes": "Erupts roughly every 90 minutes."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In 1955, Rosa Parks sparked the civil rights movement by refusing to give up her bus seat in which city?",
-      "choices": ["Birmingham, AL", "Atlanta, GA", "Memphis, TN", "Montgomery, AL"],
+      "q": "The Rocky Mountains run through which western state?",
+      "choices": [
+        "Utah",
+        "Colorado",
+        "Nevada",
+        "Oregon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Massachusetts?",
+      "choices": [
+        "Worcester",
+        "Cambridge",
+        "Boston",
+        "Springfield"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many states border Mexico?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Georgia?",
+      "choices": [
+        "Savannah",
+        "Atlanta",
+        "Athens",
+        "Augusta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known as the 'Sunshine State'?",
+      "choices": [
+        "Arizona",
+        "California",
+        "Florida",
+        "Hawaii"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Pennsylvania?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Harrisburg",
+        "Allentown"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Great Lakes border which northern state?",
+      "choices": [
+        "Wisconsin",
+        "Minnesota",
+        "Michigan",
+        "Illinois"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Arizona?",
+      "choices": [
+        "Tucson",
+        "Mesa",
+        "Phoenix",
+        "Scottsdale"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is famous for its Yellowstone National Park?",
+      "choices": [
+        "Montana",
+        "Idaho",
+        "Wyoming",
+        "Utah"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Ohio?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Columbus",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is commonly known as the Green Mountain State?",
+      "choices": [
+        "New Hampshire",
+        "Vermont",
+        "Maine",
+        "Montana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which bird became the official national symbol of the United States in 1782?",
+      "choices": [
+        "Turkey",
+        "Bald Eagle",
+        "Hawk",
+        "Owl"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Minnesota?",
+      "choices": [
+        "Minneapolis",
+        "St. Paul",
+        "Duluth",
+        "Rochester"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is famous for its salt flats and national parks?",
+      "choices": [
+        "Arizona",
+        "Nevada",
+        "Utah",
+        "New Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Michigan?",
+      "choices": [
+        "Detroit",
+        "Grand Rapids",
+        "Lansing",
+        "Ann Arbor"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many U.S. states begin with the letter 'A'?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. city is known as 'Beantown'?",
+      "choices": [
+        "New York City",
+        "Boston",
+        "Philadelphia",
+        "Providence"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Louisiana?",
+      "choices": [
+        "New Orleans",
+        "Baton Rouge",
+        "Lafayette",
+        "Shreveport"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is shaped like it was broken in two?",
+      "choices": [
+        "Wisconsin",
+        "Illinois",
+        "Michigan",
+        "Minnesota"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many countries are larger than the United States in land area?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. city is famous for its Golden Gate Bridge and fog?",
+      "choices": [
+        "Los Angeles",
+        "San Diego",
+        "San Francisco",
+        "Oakland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Missouri?",
+      "choices": [
+        "St. Louis",
+        "Kansas City",
+        "Jefferson City",
+        "Springfield"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is famous for jazz music and Creole cuisine?",
+      "choices": [
+        "Mississippi",
+        "Alabama",
+        "Louisiana",
+        "Arkansas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Maine?",
+      "choices": [
+        "Portland",
+        "Bangor",
+        "Augusta",
+        "Lewiston"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state borders Canada and is known for the Rocky Mountains?",
+      "choices": [
+        "Washington",
+        "Oregon",
+        "Montana",
+        "Idaho"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many states have names beginning with the letter 'N'?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known as the 'Green Mountain State'?",
+      "choices": [
+        "New Hampshire",
+        "Vermont",
+        "Maine",
+        "New York"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state was the first to ratify the U.S. Constitution?",
+      "choices": [
+        "Pennsylvania",
+        "Delaware",
+        "New Jersey",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state has the longest coastline?",
+      "choices": [
+        "California",
+        "Florida",
+        "Alaska",
+        "Texas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is nicknamed 'The Sunshine State'?",
+      "choices": [
+        "California",
+        "Arizona",
+        "Florida",
+        "Hawaii"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many continental U.S. time zones are there?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state became a U.S. state in 1959 and is located in the Pacific Ocean?",
+      "choices": [
+        "Alaska",
+        "Hawaii",
+        "Puerto Rico",
+        "Guam"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is the most populous by population?",
+      "choices": [
+        "Texas",
+        "Florida",
+        "New York",
+        "California"
+      ],
       "correct": 3,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Montgomery, Alabama",
-        "verified": true,
-        "notes": "December 1, 1955; triggered the Montgomery bus boycott."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which California city is nicknamed 'The City by the Bay'?",
-      "choices": ["Oakland", "Los Angeles", "San Francisco", "San Diego"],
-      "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "San Francisco",
-        "verified": true,
-        "notes": "Named for its position on San Francisco Bay."
-      }
+      "q": "What is the capital of Virginia?",
+      "choices": [
+        "Virginia Beach",
+        "Richmond",
+        "Arlington",
+        "Roanoke"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which New England city is known by the nickname 'Beantown'?",
-      "choices": ["Portland", "Providence", "Hartford", "Boston"],
+      "q": "Which state has the Great Lakes as part of its border?",
+      "choices": [
+        "Ohio",
+        "Pennsylvania",
+        "Indiana",
+        "All of the above"
+      ],
       "correct": 3,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Reference to traditional Boston baked beans."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the capital of California?",
-      "choices": ["Los Angeles", "San Francisco", "Sacramento", "San Diego"],
+      "q": "Which state is located directly north of Mexico?",
+      "choices": [
+        "Arizona",
+        "Texas",
+        "New Mexico",
+        "California"
+      ],
       "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "San Francisco",
-        "verified": true,
-        "notes": "Sacramento has been California's capital since 1854."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the capital of the state of New York?",
-      "choices": ["New York City", "Buffalo", "Albany", "Syracuse"],
-      "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Albany",
-        "verified": true,
-        "notes": "Capital since 1797."
-      }
+      "q": "Which state is the smallest by land area?",
+      "choices": [
+        "Delaware",
+        "Rhode Island",
+        "Connecticut",
+        "Vermont"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which U.S. state lies just 90 miles north of Cuba at its closest point?",
-      "choices": ["Texas", "Louisiana", "Florida", "Mississippi"],
-      "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Florida",
-        "verified": true,
-        "notes": "Key West, Florida is approximately 90 miles from Cuba."
-      }
+      "q": "Which U.S. state is named after King George II of England?",
+      "choices": [
+        "Georgia",
+        "North Carolina",
+        "South Carolina",
+        "Virginia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which state followed Delaware as the second to ratify the U.S. Constitution?",
-      "choices": ["New Jersey", "Georgia", "Pennsylvania", "Virginia"],
+      "q": "Which state is shaped like a mitten?",
+      "choices": [
+        "Wisconsin",
+        "Illinois",
+        "Michigan",
+        "Ohio"
+      ],
       "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pennsylvania",
-        "verified": true,
-        "notes": "Ratified December 12, 1787."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which U.S. state has the longest total coastline?",
-      "choices": ["Florida", "California", "Alaska", "Texas"],
+      "q": "Which U.S. state is home to Pearl Harbor?",
+      "choices": [
+        "Hawaii",
+        "Guam",
+        "American Samoa",
+        "U.S. Virgin Islands"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What natural feature forms the border between Texas and Mexico?",
+      "choices": [
+        "The Colorado River",
+        "The Rio Grande",
+        "The Nueces River",
+        "The Pecos River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known for being home to the Grand Canyon?",
+      "choices": [
+        "Utah",
+        "Colorado",
+        "Arizona",
+        "New Mexico"
+      ],
       "correct": 2,
-      "category": "United States",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Alaska",
-        "verified": true,
-        "notes": "Alaska has more coastline than all other U.S. states combined."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many U.S. states begin and end with the same letter 'A'?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of New York?",
+      "choices": [
+        "New York City",
+        "Buffalo",
+        "Albany",
+        "Rochester"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known for bourbon whiskey production?",
+      "choices": [
+        "Tennessee",
+        "Kentucky",
+        "Virginia",
+        "North Carolina"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state was the last to join the Union in the continental U.S.?",
+      "choices": [
+        "Hawaii",
+        "Alaska",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many U.S. states border Mexico?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is home to Mount Rushmore?",
+      "choices": [
+        "Wyoming",
+        "Colorado",
+        "South Dakota",
+        "Montana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known as 'Big Sky Country'?",
+      "choices": [
+        "Wyoming",
+        "Montana",
+        "Colorado",
+        "Idaho"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known as the 'Grand Canyon State'?",
+      "choices": [
+        "Utah",
+        "Colorado",
+        "Arizona",
+        "Nevada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is the most populous by population?",
+      "choices": [
+        "Texas",
+        "Florida",
+        "New York",
+        "California"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state borders the most other states?",
+      "choices": [
+        "Texas",
+        "Colorado",
+        "Missouri",
+        "Tennessee"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known for Mount Rushmore?",
+      "choices": [
+        "Montana",
+        "Wyoming",
+        "North Dakota",
+        "South Dakota"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Washington?",
+      "choices": [
+        "Seattle",
+        "Olympia",
+        "Tacoma",
+        "Spokane"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is the smallest by land area?",
+      "choices": [
+        "Vermont",
+        "Delaware",
+        "Rhode Island",
+        "Connecticut"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known for the Statue of Liberty?",
+      "choices": [
+        "Connecticut",
+        "New York",
+        "New Jersey",
+        "Pennsylvania"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is home to Yellowstone National Park?",
+      "choices": [
+        "Montana",
+        "Idaho",
+        "Wyoming",
+        "Colorado"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many states border the Pacific Ocean?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state capital is located on the Colorado River?",
+      "choices": [
+        "Phoenix",
+        "Denver",
+        "Las Vegas",
+        "Salt Lake City"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the official national bird of the United States?",
+      "choices": [
+        "Golden Eagle",
+        "Bald Eagle",
+        "Red-tailed Hawk",
+        "American Crow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is famous for the natural hot spring geyser Old Faithful?",
+      "choices": [
+        "Colorado",
+        "Yellowstone",
+        "Wyoming",
+        "Montana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these states does NOT border the Atlantic Ocean?",
+      "choices": [
+        "Maine",
+        "Florida",
+        "Georgia",
+        "Pennsylvania"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state capital is located in the Mountain Time Zone and is known as the City Different?",
+      "choices": [
+        "Santa Fe, New Mexico",
+        "Denver, Colorado",
+        "Phoenix, Arizona",
+        "Salt Lake City, Utah"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
       "q": "Santa Fe, the oldest continuously inhabited U.S. state capital, has served in that role since what year?",
-      "choices": ["1492", "1610", "1776", "1850"],
+      "choices": [
+        "1492",
+        "1610",
+        "1776",
+        "1850"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Santa Fe",
-        "verified": true,
-        "notes": "Founded as a Spanish colonial capital in 1610."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "What is the capital of Vermont?",
-      "choices": ["Burlington", "Montpelier", "Rutland", "Stowe"],
+      "choices": [
+        "Burlington",
+        "Montpelier",
+        "Rutland",
+        "Stowe"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Montpelier",
-        "verified": true,
-        "notes": "Smallest U.S. state capital by population (about 8,000)."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "What is the capital of Nevada?",
-      "choices": ["Las Vegas", "Reno", "Henderson", "Carson City"],
+      "choices": [
+        "Las Vegas",
+        "Reno",
+        "Henderson",
+        "Carson City"
+      ],
       "correct": 3,
-      "category": "United States",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Carson City",
-        "verified": true,
-        "notes": "Named after Kit Carson; one of the smaller capitals by population."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Construction of the White House began in which year?",
-      "choices": ["1776", "1792", "1812", "1834"],
+      "choices": [
+        "1776",
+        "1792",
+        "1812",
+        "1834"
+      ],
       "correct": 1,
-      "category": "United States",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "1792",
-        "verified": true,
-        "notes": "Cornerstone laid October 13, 1792; first occupied by John Adams in 1800."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital is located at the highest elevation of any state capital in the continental United States?",
+      "choices": [
+        "Denver, Colorado",
+        "Santa Fe, New Mexico",
+        "Salt Lake City, Utah",
+        "Cheyenne, Wyoming"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states share a land border with Mexico?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state was the last to join the Union during the continental expansion era?",
+      "choices": [
+        "Texas",
+        "California",
+        "Oregon",
+        "Utah"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 49th parallel forms the international boundary between the United States and Canada across how many states?",
+      "choices": [
+        "4 states",
+        "6 states",
+        "8 states",
+        "10 states"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state was originally established as a penal colony by a foreign power before becoming a U.S. territory?",
+      "choices": [
+        "Georgia",
+        "Pennsylvania",
+        "Delaware",
+        "New Jersey"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states have coastlines along the Atlantic Ocean, Gulf of Mexico, or both?",
+      "choices": [
+        "18",
+        "22",
+        "26",
+        "30"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which midwestern state has the longest coastline relative to its area due to the Great Lakes?",
+      "choices": [
+        "Illinois",
+        "Michigan",
+        "Wisconsin",
+        "Minnesota"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did West Virginia separate from Virginia and achieve statehood?",
+      "choices": [
+        "1861",
+        "1863",
+        "1865",
+        "1867"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state contains the geographic center of the contiguous United States?",
+      "choices": [
+        "Kansas",
+        "Nebraska",
+        "South Dakota",
+        "North Dakota"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many time zones span the continental United States east of the Rocky Mountains?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state was granted statehood as part of the Missouri Compromise in 1820?",
+      "choices": [
+        "Missouri",
+        "Maine",
+        "Arkansas",
+        "Florida"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Appalachian Mountain range extends through approximately how many states?",
+      "choices": [
+        "12",
+        "15",
+        "18",
+        "21"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state has the most counties of any U.S. state?",
+      "choices": [
+        "Texas",
+        "California",
+        "Georgia",
+        "North Carolina"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which state is Fort Sumter, the site where the American Civil War began in 1861?",
+      "choices": [
+        "South Carolina",
+        "North Carolina",
+        "Georgia",
+        "Virginia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state became a U.S. territory in 1898 as a result of the Spanish-American War?",
+      "choices": [
+        "Hawaii",
+        "Puerto Rico",
+        "Guam",
+        "American Samoa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many states border the Great Lakes?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state seceded from the Union first in December 1860?",
+      "choices": [
+        "Mississippi",
+        "South Carolina",
+        "Georgia",
+        "Louisiana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Erie Canal connects the Hudson River to which Great Lake?",
+      "choices": [
+        "Lake Superior",
+        "Lake Michigan",
+        "Lake Erie",
+        "Lake Ontario"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did construction of the White House begin?",
+      "choices": [
+        "1788",
+        "1792",
+        "1795",
+        "1800"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state shares the longest international border with Canada?",
+      "choices": [
+        "Washington",
+        "Montana",
+        "Alaska",
+        "Michigan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states have names that begin with the letter 'N'?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the original thirteen colonies was the first to ratify the U.S. Constitution?",
+      "choices": [
+        "Virginia",
+        "Delaware",
+        "Pennsylvania",
+        "New York"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the approximate value, in dollars, at which Peter Minuit purchased Manhattan Island in 1626?",
+      "choices": [
+        "12",
+        "24",
+        "60",
+        "120"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital is located in the Mountain Time Zone and is known for its adobe architecture?",
+      "choices": [
+        "Denver, Colorado",
+        "Santa Fe, New Mexico",
+        "Phoenix, Arizona",
+        "Salt Lake City, Utah"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states begin with the letter 'O'?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state was admitted to the Union in 1959, making it the 50th state?",
+      "choices": [
+        "Alaska",
+        "Hawaii",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the easternmost U.S. location in which sunrise can first be observed each day?",
+      "choices": [
+        "Montauk Point, New York",
+        "Peacock Point, Wake Island",
+        "Cape Cod, Massachusetts",
+        "Key West, Florida"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state capital sits along the Mississippi River and is home to the Gateway Arch?",
+      "choices": [
+        "Memphis, Tennessee",
+        "St. Louis, Missouri",
+        "Minneapolis, Minnesota",
+        "New Orleans, Louisiana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states have names that both begin and end with the letter 'A'?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state does not border the Atlantic Ocean and is located entirely within the Appalachian region?",
+      "choices": [
+        "Kentucky",
+        "West Virginia",
+        "Tennessee",
+        "Maryland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of New York State, not to be confused with New York City?",
+      "choices": [
+        "Buffalo",
+        "Albany",
+        "Syracuse",
+        "Rochester"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which former U.S. state capital served as the seat of government before Lansing was established in Michigan?",
+      "choices": [
+        "Grand Rapids",
+        "Detroit",
+        "Pontiac",
+        "Ann Arbor"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital is located in the Eastern Time Zone and is the capital of Maine?",
+      "choices": [
+        "Portland",
+        "Augusta",
+        "Bangor",
+        "Lewiston"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city along the Mississippi River is historically known as the birthplace of jazz and blues music?",
+      "choices": [
+        "Memphis, Tennessee",
+        "St. Louis, Missouri",
+        "New Orleans, Louisiana",
+        "Chicago, Illinois"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Rhode Island, the smallest U.S. state?",
+      "choices": [
+        "Newport",
+        "Warwick",
+        "Providence",
+        "Pawtucket"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state is known for the Great Salt Lake and is characterized by significant religious homogeneity?",
+      "choices": [
+        "Nevada",
+        "Utah",
+        "Wyoming",
+        "Colorado"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Pacific Time Zone, how many hours behind Coordinated Universal Time (GMT/UTC) is California?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital in the Central Time Zone is known for its barbecue traditions?",
+      "choices": [
+        "Kansas City, Missouri",
+        "Jefferson City, Missouri",
+        "Austin, Texas",
+        "Baton Rouge, Louisiana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital, located on the Scioto River, is home to the Ohio Statehouse completed in 1839?",
+      "choices": [
+        "Cleveland",
+        "Columbus",
+        "Cincinnati",
+        "Dayton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Appalachian Mountains span approximately how many states across the eastern United States?",
+      "choices": [
+        "12",
+        "15",
+        "18",
+        "21"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Montana city served as the territorial capital before Helena assumed that role in 1875?",
+      "choices": [
+        "Virginia City",
+        "Fort Benton",
+        "Missoula",
+        "Great Falls"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Missouri River, the longest tributary of the Mississippi River, originates in which mountain range?",
+      "choices": [
+        "Rocky Mountains",
+        "Cascade Range",
+        "Sierra Nevada",
+        "Appalachian Mountains"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state became the first to ratify the Constitution on December 7, 1787?",
+      "choices": [
+        "Pennsylvania",
+        "Delaware",
+        "New Jersey",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Montpelier, Vermont's capital, sits in which county?",
+      "choices": [
+        "Washington County",
+        "Orange County",
+        "Franklin County",
+        "Windsor County"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Grand Coulee Dam, completed in 1942, is located in which Washington state county?",
+      "choices": [
+        "Spokane County",
+        "Grant County",
+        "Skagit County",
+        "King County"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state's name derives from the French phrase meaning 'great lake'?",
+      "choices": [
+        "Minnesota",
+        "Michigan",
+        "Wisconsin",
+        "Ontario"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The city of Baton Rouge, Louisiana's capital, was named after a distinctive natural feature. What does 'Baton Rouge' literally translate to in French?",
+      "choices": [
+        "Red Stick",
+        "Red River",
+        "Red Hill",
+        "Red Stone"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states border both the Atlantic Ocean and the Gulf of Mexico?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Fort Sumter, where the first shots of the Civil War were fired in 1861, is located in which state?",
+      "choices": [
+        "North Carolina",
+        "South Carolina",
+        "Virginia",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Continental Divide runs through which U.S. mountain range, determining water drainage patterns between ocean basins?",
+      "choices": [
+        "Cascade Range",
+        "Sierra Nevada",
+        "Rocky Mountains",
+        "Appalachian Mountains"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state was the last to join the Union in 1959, excluding Hawaii?",
+      "choices": [
+        "Hawaii",
+        "Alaska",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The city of Juneau became the capital of Alaska in what year?",
+      "choices": [
+        "1906",
+        "1912",
+        "1920",
+        "1959"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Iowa city, despite its name suggesting otherwise, is the capital of the state?",
+      "choices": [
+        "Iowa City",
+        "Des Moines",
+        "Cedar Rapids",
+        "Dubuque"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mississippi River forms the natural boundary between which pair of states for much of its southern course?",
+      "choices": [
+        "Missouri and Illinois",
+        "Tennessee and Mississippi",
+        "Louisiana and Mississippi",
+        "Arkansas and Tennessee"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital sits at the confluence of the Platte and Missouri Rivers?",
+      "choices": [
+        "Jefferson City, Missouri",
+        "Omaha, Nebraska",
+        "Kansas City, Kansas",
+        "Topeka, Kansas"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Basin, spanning portions of Nevada, Utah, Oregon, and California, is characterized by which hydrological feature?",
+      "choices": [
+        "No drainage to the ocean",
+        "Abundant mountain streams",
+        "Underground aquifers only",
+        "A single river system"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Maryland city, despite housing the U.S. Naval Academy, is not Baltimore?",
+      "choices": [
+        "Annapolis",
+        "Frederick",
+        "Salisbury",
+        "College Park"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ozark Mountains, spanning Arkansas, Missouri, and Oklahoma, are primarily composed of which rock type?",
+      "choices": [
+        "Granite",
+        "Limestone",
+        "Basalt",
+        "Sandstone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital was relocated from Natchez to Jackson in 1821?",
+      "choices": [
+        "Louisiana",
+        "Mississippi",
+        "Alabama",
+        "Arkansas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before Augusta became the capital of Maine in 1832, which city served as the state capital?",
+      "choices": [
+        "Portland",
+        "Bangor",
+        "Lewiston",
+        "Brunswick"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state was named in honor of King George II of Great Britain?",
+      "choices": [
+        "Virginia",
+        "Georgia",
+        "North Carolina",
+        "South Carolina"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states share a land border with New Jersey?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state entered the Union first and is often referred to as 'The First State'?",
+      "choices": [
+        "Virginia",
+        "Pennsylvania",
+        "Delaware",
+        "Massachusetts"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. state names begin with the letter 'N'?",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state has the lowest frequency of earthquake activity relative to its land area?",
+      "choices": [
+        "Florida",
+        "Iowa",
+        "Kansas",
+        "Illinois"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Old Faithful, located in Yellowstone National Park, is an example of what geological phenomenon?",
+      "choices": [
+        "Hot spring",
+        "Mud pot",
+        "Geyser",
+        "Fumarole"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before Baton Rouge became the capital of Louisiana, which city served as the state capital?",
+      "choices": [
+        "New Orleans",
+        "Shreveport",
+        "Lafayette",
+        "Natchitoches"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state is commonly referred to as 'The Green Mountain State'?",
+      "choices": [
+        "New Hampshire",
+        "Vermont",
+        "Maine",
+        "Montana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many countries have a larger land area than the entire United States?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. territory experiences sunrise first among all inhabited American lands?",
+      "choices": [
+        "Guam",
+        "Wake Island",
+        "American Samoa",
+        "U.S. Virgin Islands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Four U.S. states officially hold the title 'Commonwealth' rather than 'State.' Which of these is NOT one of them?",
+      "choices": [
+        "Massachusetts",
+        "Virginia",
+        "Connecticut",
+        "Kentucky"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the UTC offset for Pacific Standard Time in the continental United States?",
+      "choices": [
+        "UTC-7",
+        "UTC-8",
+        "UTC-9",
+        "UTC-10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which North Dakota state capital shares its name with a famous Prussian military strategist?",
+      "choices": [
+        "Fargo",
+        "Bismarck",
+        "Minot",
+        "Williston"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the United States ratify the 19th Amendment, granting women the right to vote?",
+      "choices": [
+        "1920",
+        "1922",
+        "1925",
+        "1928"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital is named after a South Carolina city that was the site of a significant Revolutionary War battle?",
+      "choices": [
+        "Camden",
+        "Columbia",
+        "Charleston",
+        "Sumter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The town of Eerie, Indiana was officially renamed in 1991 to what?",
+      "choices": [
+        "Erie",
+        "Erieville",
+        "Hayden",
+        "Geneva"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state's nickname, 'The Beehive State,' comes from its pioneering settlers' work ethic?",
+      "choices": [
+        "Idaho",
+        "Utah",
+        "Nevada",
+        "Wyoming"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states border the Great Lakes?",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. state capital, established in 1610, is the oldest continuously occupied state capital in the continental United States?",
+      "choices": [
+        "Williamsburg, Virginia",
+        "Santa Fe, New Mexico",
+        "Boston, Massachusetts",
+        "Annapolis, Maryland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The only Great Lake that does not border Michigan is Lake Ontario—but which two countries does it border instead?",
+      "choices": [
+        "Canada and New York",
+        "Canada and Pennsylvania",
+        "Canada and Ohio",
+        "Canada and Connecticut"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states have names that both begin and end with the same letter?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state is nicknamed 'The Lone Star State'?",
+      "choices": [
+        "Texas",
+        "Oklahoma",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to legend, Peter Minuit bought Manhattan Island from Native Americans in 1626 for goods estimated at what value?",
+      "choices": [
+        "$10",
+        "$24",
+        "$100",
+        "$500"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The iconic geyser Old Faithful is located in which U.S. national park?",
+      "choices": [
+        "Yosemite",
+        "Grand Canyon",
+        "Yellowstone",
+        "Glacier"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1955, Rosa Parks sparked the civil rights movement by refusing to give up her bus seat in which city?",
+      "choices": [
+        "Birmingham, AL",
+        "Atlanta, GA",
+        "Memphis, TN",
+        "Montgomery, AL"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which California city is nicknamed 'The City by the Bay'?",
+      "choices": [
+        "Oakland",
+        "Los Angeles",
+        "San Francisco",
+        "San Diego"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which New England city is known by the nickname 'Beantown'?",
+      "choices": [
+        "Portland",
+        "Providence",
+        "Hartford",
+        "Boston"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of California?",
+      "choices": [
+        "Los Angeles",
+        "San Francisco",
+        "Sacramento",
+        "San Diego"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of the state of New York?",
+      "choices": [
+        "New York City",
+        "Buffalo",
+        "Albany",
+        "Syracuse"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state lies just 90 miles north of Cuba at its closest point?",
+      "choices": [
+        "Texas",
+        "Louisiana",
+        "Florida",
+        "Mississippi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state followed Delaware as the second to ratify the U.S. Constitution?",
+      "choices": [
+        "New Jersey",
+        "Georgia",
+        "Pennsylvania",
+        "Virginia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state has the longest total coastline?",
+      "choices": [
+        "Florida",
+        "California",
+        "Alaska",
+        "Texas"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state capital is named after a hot spring and serves as the seat of government in Arkansas?",
+      "choices": [
+        "Hot Springs",
+        "Little Rock",
+        "Pine Bluff",
+        "Fayetteville"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the only state that borders exactly one other state?",
+      "choices": [
+        "Maine",
+        "Florida",
+        "Alaska",
+        "Hawaii"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state was the first to ratify the U.S. Constitution, earning it the nickname 'The First State'?",
+      "choices": [
+        "Pennsylvania",
+        "Delaware",
+        "New Jersey",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Denali, the tallest peak in North America, is located in which U.S. state?",
+      "choices": [
+        "Washington",
+        "Colorado",
+        "Alaska",
+        "Montana"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of South Dakota?",
+      "choices": [
+        "Sioux Falls",
+        "Rapid City",
+        "Pierre",
+        "Aberdeen"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state's official state bird is the Northern Cardinal?",
+      "choices": [
+        "Kentucky",
+        "Ohio",
+        "Indiana",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The city of Montpelier serves as the capital of which New England state?",
+      "choices": [
+        "New Hampshire",
+        "Vermont",
+        "Rhode Island",
+        "Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state was admitted to the Union in 1959 as the 50th state?",
+      "choices": [
+        "Hawaii",
+        "Alaska",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states does the Colorado River flow through or border?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state capital is located on the Willamette River?",
+      "choices": [
+        "Portland",
+        "Salem",
+        "Eugene",
+        "Springfield"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The state of Vermont was originally an independent nation called what from 1777 to 1791?",
+      "choices": [
+        "Green Mountain Republic",
+        "Vermont Republic",
+        "New Connecticut",
+        "New France"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state is home to the Great Salt Lake, one of the largest salt lakes in the world?",
+      "choices": [
+        "Nevada",
+        "Utah",
+        "Idaho",
+        "Wyoming"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the capital of Mississippi?",
+      "choices": [
+        "Meridian",
+        "Biloxi",
+        "Jackson",
+        "Gulfport"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state has a panhandle that extends farther west than any other part of the state?",
+      "choices": [
+        "Texas",
+        "Oklahoma",
+        "Idaho",
+        "Florida"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The capital of Louisiana, located on the Mississippi River, is which city?",
+      "choices": [
+        "New Orleans",
+        "Baton Rouge",
+        "Lafayette",
+        "Shreveport"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states were part of the original 13 colonies that formed the United States?",
+      "choices": [
+        "10",
+        "13",
+        "15",
+        "20"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state capital is known as the 'Mile High City' due to its elevation of approximately one mile?",
+      "choices": [
+        "Santa Fe",
+        "Denver",
+        "Salt Lake City",
+        "Albuquerque"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The state of Texas was an independent nation called the Republic of Texas for how many years?",
+      "choices": [
+        "7",
+        "9",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state capital is named after a Native American word meaning 'red earth'?",
+      "choices": [
+        "Pierre, South Dakota",
+        "Santa Fe, New Mexico",
+        "Montpelier, Vermont",
+        "Augusta, Maine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the only U.S. state capital located on two different islands?",
+      "choices": [
+        "Honolulu, Hawaii",
+        "Juneau, Alaska",
+        "Montpelier, Vermont",
+        "Concord, New Hampshire"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state capital was intentionally built in the geographic center of its state to avoid regional favoritism?",
+      "choices": [
+        "Jefferson City, Missouri",
+        "Topeka, Kansas",
+        "Pierre, South Dakota",
+        "Lincoln, Nebraska"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state has the most bordering states?",
+      "choices": [
+        "California",
+        "Texas",
+        "Missouri",
+        "Tennessee"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many U.S. states do not border any ocean?",
+      "choices": [
+        "24",
+        "27",
+        "30",
+        "33"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state was the last to join the Union during the 20th century?",
+      "choices": [
+        "Alaska",
+        "Hawaii",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most populous U.S. state capital?",
+      "choices": [
+        "Austin, Texas",
+        "Phoenix, Arizona",
+        "Sacramento, California",
+        "Denver, Colorado"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state was originally claimed by both Spain and France before being purchased by the United States?",
+      "choices": [
+        "Texas",
+        "Florida",
+        "Louisiana",
+        "California"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What time zone does the majority of Alaska observe?",
+      "choices": [
+        "Pacific Time",
+        "Mountain Time",
+        "Alaska Time",
+        "Hawaii-Aleutian Time"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state has a capital city that was named after a U.S. President while he was still alive?",
+      "choices": [
+        "Nebraska",
+        "Kansas",
+        "Ohio",
+        "Illinois"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states border the Mississippi River?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the smallest U.S. state by land area?",
+      "choices": [
+        "Delaware",
+        "Connecticut",
+        "Rhode Island",
+        "New Jersey"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state capital sits at the highest elevation of any state capital east of the Mississippi River?",
+      "choices": [
+        "Denver, Colorado",
+        "Santa Fe, New Mexico",
+        "Nashville, Tennessee",
+        "Montpelier, Vermont"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state has the longest coastline including all islands and inlets?",
+      "choices": [
+        "California",
+        "Florida",
+        "Alaska",
+        "Maine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states share a border with Colorado?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state capital was purposefully positioned to be equidistant from its state's two major cities?",
+      "choices": [
+        "Jackson, Mississippi",
+        "Harrisburg, Pennsylvania",
+        "Jefferson City, Missouri",
+        "Montpelier, Vermont"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the least populous U.S. state capital by population?",
+      "choices": [
+        "Montpelier, Vermont",
+        "Pierre, South Dakota",
+        "Augusta, Maine",
+        "Concord, New Hampshire"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state is home to the only U.S. national park that lies entirely above 10,000 feet elevation?",
+      "choices": [
+        "Colorado",
+        "Wyoming",
+        "Montana",
+        "Utah"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states are crossed by the Continental Divide?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state capital is located on the Missouri River and shares its name with a common interjection?",
+      "choices": [
+        "Bismarck, North Dakota",
+        "Pierre, South Dakota",
+        "Helena, Montana",
+        "Cheyenne, Wyoming"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many U.S. states share a border with Kentucky?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state has more total coastline than all other states combined?",
+      "choices": [
+        "Florida",
+        "California",
+        "Alaska",
+        "Maine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rio Grande forms a natural border between Texas and which country?",
+      "choices": [
+        "Canada",
+        "Mexico",
+        "Cuba",
+        "Belize"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many of the Great Lakes does Michigan touch?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "All 5"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state was the second to ratify the U.S. Constitution, immediately following Delaware?",
+      "choices": [
+        "New Jersey",
+        "Pennsylvania",
+        "New York",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before Augusta became the capital of Maine, which city held that distinction?",
+      "choices": [
+        "Portland",
+        "Bangor",
+        "Lewiston",
+        "Brunswick"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Montana is nicknamed the Big Sky Country. How many states share a border with Montana?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state capital is located in the Central Time Zone and was home to President Abraham Lincoln?",
+      "choices": [
+        "Springfield, Illinois",
+        "Springfield, Missouri",
+        "Jefferson City, Missouri",
+        "Indianapolis, Indiana"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state is home to Pearl Harbor, a major U.S. naval base?",
+      "choices": [
+        "Guam",
+        "Puerto Rico",
+        "Hawaii",
+        "U.S. Virgin Islands"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Green Mountains run through the center of which New England state?",
+      "choices": [
+        "New Hampshire",
+        "Vermont",
+        "Maine",
+        "Massachusetts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state is known for the Roswell incident, a famous alleged UFO crash site?",
+      "choices": [
+        "Arizona",
+        "Nevada",
+        "New Mexico",
+        "Utah"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states border Colorado?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. city is nicknamed 'Beantown'?",
+      "choices": [
+        "Providence, Rhode Island",
+        "Boston, Massachusetts",
+        "Portland, Maine",
+        "Hartford, Connecticut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Maryland shares its borders with how many other states?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state shares the longest border with Canada?",
+      "choices": [
+        "Washington",
+        "Montana",
+        "Alaska",
+        "Michigan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. city is home to NASA's Johnson Space Center, a major space exploration facility?",
+      "choices": [
+        "Cape Canaveral, Florida",
+        "Houston, Texas",
+        "Huntsville, Alabama",
+        "Edwards, California"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Columbia is the capital of which Southern state?",
+      "choices": [
+        "North Carolina",
+        "South Carolina",
+        "Georgia",
+        "Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which time zone is New Orleans, Louisiana located in?",
+      "choices": [
+        "Mountain Time Zone",
+        "Central Time Zone",
+        "Eastern Time Zone",
+        "Pacific Time Zone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state capital is named after a U.S. President and serves as the capital of Nebraska?",
+      "choices": [
+        "Lincoln",
+        "Jefferson City",
+        "Madison",
+        "Jackson"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before Baton Rouge became the capital of Louisiana, which city held that role and was known as a major center of jazz culture?",
+      "choices": [
+        "New Orleans",
+        "Shreveport",
+        "Alexandria",
+        "Lafayette"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state was the last to join the Union during the 20th century, bringing the total to 50 states?",
+      "choices": [
+        "Alaska",
+        "Hawaii",
+        "Arizona",
+        "Oklahoma"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Delaware was the first state to ratify the U.S. Constitution in 1787. Which state was the second to do so?",
+      "choices": [
+        "New Jersey",
+        "Pennsylvania",
+        "New York",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Missouri city has a larger population than St. Louis and shares its name with a Kansas city across the border?",
+      "choices": [
+        "Kansas City",
+        "Independence",
+        "Springfield",
+        "Columbia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Richmond is the capital of which state, known for its historical significance during the American Civil War?",
+      "choices": [
+        "Virginia",
+        "North Carolina",
+        "South Carolina",
+        "West Virginia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before Jackson became the state capital, which Mississippi city served as the political center and still retains historical significance?",
+      "choices": [
+        "Natchez",
+        "Biloxi",
+        "Meridian",
+        "Vicksburg"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state is directly north of Alabama and shares a border with Tennessee to its west?",
+      "choices": [
+        "Georgia",
+        "Kentucky",
+        "Tennessee",
+        "North Carolina"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Route 66, the historic highway, originally terminated in which California city known for its beaches and pier?",
+      "choices": [
+        "Santa Monica",
+        "Los Angeles",
+        "Long Beach",
+        "Malibu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state, located west of Kansas and known for the Rocky Mountains, shares a border with Wyoming?",
+      "choices": [
+        "Colorado",
+        "Utah",
+        "Montana",
+        "New Mexico"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Alaska is the only U.S. state where you can fish for salmon in ice-cold waters near which city with a glacier-filled landscape?",
+      "choices": [
+        "Valdez",
+        "Juneau",
+        "Anchorage",
+        "Fairbanks"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Salt Lake and its nearby salt flats are prominent geographical features of which U.S. state?",
+      "choices": [
+        "Utah",
+        "Nevada",
+        "Arizona",
+        "Colorado"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which capital of the smallest U.S. state is located in Rhode Island and is known for its historic colonial architecture?",
+      "choices": [
+        "Providence",
+        "Newport",
+        "Warwick",
+        "Cranston"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many U.S. states share a border with Louisiana?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Oklahoma Panhandle was historically referred to by which name during the era of frontier settlement?",
+      "choices": [
+        "Panhandle Territory",
+        "Cimarron Territory",
+        "Dust Bowl Territory",
+        "Indian Territory"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Detroit, often called the Motor City, became famous in the 20th century for being the center of which industry?",
+      "choices": [
+        "Steel Manufacturing",
+        "Automobile Manufacturing",
+        "Shipping",
+        "Coal Mining"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,284 +1,2306 @@
 {
   "slug": "leap-year-trivia",
   "name": "Leap Year",
-  "description": "February 29, leaplings, the Julian and Gregorian calendars, and why we need an extra day every four years.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.613Z",
   "questions": [
     {
-      "q": "On what date does the extra day fall in a leap year?",
-      "choices": ["February 28", "February 29", "March 1", "December 32"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "29 days",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many days are in a common (non-leap) year in the Gregorian calendar?",
-      "choices": ["360", "364", "365", "366"],
-      "correct": 2,
-      "category": "Leap Year",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "365 days",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many days does February have in a leap year?",
-      "choices": ["28", "29", "30", "31"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "29 days",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How often does a leap year occur in the Gregorian calendar (basic rule)?",
-      "choices": ["Every 2 years", "Every 4 years", "Every 5 years", "Every 10 years"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Every 4 years",
-        "verified": true,
-        "notes": "With exceptions for centurial years (see other questions)."
-      }
-    },
-    {
-      "q": "Who introduced the original 'every-4-years' leap year system in 46 BC?",
-      "choices": ["Augustus Caesar", "Julius Caesar", "Constantine", "Pope Gregory XIII"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Julius Caesar",
-        "verified": true,
-        "notes": "Created the Julian calendar with help from astronomer Sosigenes of Alexandria."
-      }
-    },
-    {
-      "q": "Which pope reformed the Julian calendar in 1582 to create the Gregorian calendar still in use today?",
-      "choices": ["Gregory I", "Gregory XIII", "Pius V", "Innocent III"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1582",
-        "verified": true,
-        "notes": "Issued the bull Inter gravissimas in 1582."
-      }
-    },
-    {
-      "q": "What additional rule did the Gregorian calendar add to the Julian system?",
+      "q": "In the Gregorian calendar, how many days does February have during a leap year?",
       "choices": [
-        "Add a leap day every 5 years instead of 4",
-        "Skip leap year in centurial years not divisible by 400",
-        "Add a leap month every 19 years",
-        "Skip leap year in years ending in 7"
+        "28 days",
+        "29 days",
+        "30 days",
+        "31 days"
       ],
       "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "He adjusted the leap year rule to skip leap years in centuries not divisible by 400",
-        "verified": true,
-        "notes": "So 1900 was NOT a leap year; 2000 WAS. This corrects the Julian calendar's slight overshoot."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Approximately how long does Earth take to orbit the Sun?",
-      "choices": ["365 days", "365.25 days", "365.2422 days", "366 days"],
-      "correct": 2,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Approximately 365.242190 days",
-        "verified": true,
-        "notes": "The fractional part is why we need leap years; the Gregorian rule averages 365.2425."
-      }
-    },
-    {
-      "q": "What is the affectionate term for someone born on February 29?",
-      "choices": ["Leapfrog", "Leapling", "Leaper", "29-er"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Leaplings",
-        "verified": true,
-        "notes": "Roughly 5 million leaplings live worldwide."
-      }
-    },
-    {
-      "q": "Which Texas town has branded itself the 'Leap Year Capital of the World'?",
-      "choices": ["Anthony, TX", "Marfa, TX", "Bandera, TX", "Luckenbach, TX"],
-      "correct": 0,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Leap Year Capital celebration",
-        "verified": true,
-        "notes": "Anthony — straddling the Texas–New Mexico border — has hosted a Leap Year Festival since 1988."
-      }
-    },
-    {
-      "q": "In Irish folklore, what 'privilege' is traditionally granted to women on February 29?",
+      "q": "How many extra hours does Earth's orbit around the Sun take compared to exactly 365 days?",
       "choices": [
-        "They can take the day off work",
-        "They can propose marriage to a man",
-        "They lead the local parade",
-        "They wear inverted clothing"
-      ],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "A day when women can propose marriage",
-        "verified": true,
-        "notes": "Sometimes called 'Bachelor's Day' or 'Lady's Privilege'. Original answer mis-labeled this as 'Sadie Hawkins Day' — Sadie Hawkins is a separate, U.S.-comic-strip tradition typically observed in November, not on Feb 29."
-      }
-    },
-    {
-      "q": "Why was February historically chosen as the month to receive the extra leap day?",
-      "choices": [
-        "It was the shortest month",
-        "It honors the Roman god February",
-        "It avoided affecting religious feast days",
-        "It was the warmest month"
+        "Approximately 6 hours",
+        "Approximately 12 hours",
+        "Approximately 24 hours",
+        "Approximately 48 hours"
       ],
       "correct": 0,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "It was the shortest month",
-        "verified": true,
-        "notes": "Going back to ancient Roman calendar reforms — February was already the runt of the year."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Was the year 1900 a leap year in the Gregorian calendar?",
+      "q": "Which Roman leader introduced the concept of adding an extra day every four years?",
       "choices": [
-        "Yes",
-        "No, because 1900 isn't divisible by 400",
-        "No, because 1900 isn't divisible by 4",
-        "Only in some countries"
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Marcus Aurelius",
+        "Nero"
       ],
       "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "He adjusted the leap year rule to skip leap years in centuries not divisible by 400",
-        "verified": true,
-        "notes": "1900 is divisible by 100 but not 400 → skipped. 2000 IS divisible by 400 → leap year."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Will 2100 be a leap year in the Gregorian calendar?",
+      "q": "What is the name for people born on February 29th?",
       "choices": [
-        "Yes — divisible by 4",
-        "No — divisible by 100 but not 400",
-        "Yes — only adjusted in 2200",
-        "Only in the Eastern Orthodox calendar"
+        "Februarians",
+        "Leaplings",
+        "Quadrennials",
+        "29ers"
       ],
       "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "He adjusted the leap year rule to skip leap years in centuries not divisible by 400",
-        "verified": true,
-        "notes": "Divisible by 100 but not 400 → not a leap year. The next century leap year is 2400."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many days are in the Ethiopian calendar's 13th month, Pagumē, in a leap year?",
-      "choices": ["3", "5", "6", "10"],
+      "q": "In the Julian calendar, how frequently does a leap year occur?",
+      "choices": [
+        "Every 3 years",
+        "Every 4 years",
+        "Every 5 years",
+        "Every 8 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary purpose of incorporating leap days into the calendar system?",
+      "choices": [
+        "To celebrate Roman emperors",
+        "To align the calendar with Earth's orbit around the Sun",
+        "To create more holidays",
+        "To adjust for lunar phases"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In how many days does Earth complete one full orbit around the Sun?",
+      "choices": [
+        "Exactly 365 days",
+        "Approximately 365.24 days",
+        "Approximately 366 days",
+        "Approximately 364.5 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What tradition in Ireland and Britain specifically involves February 29th?",
+      "choices": [
+        "Men propose to women",
+        "Women can propose to men",
+        "Cities hold parades",
+        "Schools close for the day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What calendar system was introduced by Pope Gregory XIII to improve upon the Julian calendar?",
+      "choices": [
+        "The Coptic calendar",
+        "The Gregorian calendar",
+        "The Islamic calendar",
+        "The Hebrew calendar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does a regular, non-leap year contain in the Gregorian calendar?",
+      "choices": [
+        "364 days",
+        "365 days",
+        "366 days",
+        "367 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas city is known as the 'Leap Year Capital' and hosts celebrations for February 29th?",
+      "choices": [
+        "Austin",
+        "Houston",
+        "Anthony",
+        "Dallas"
+      ],
       "correct": 2,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "It adds an extra day to the 13th month",
-        "verified": true,
-        "notes": "Pagumē usually has 5 days; gains a 6th in leap years."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which major sporting event reliably falls in leap years?",
-      "choices": ["The Tour de France", "The Summer Olympics", "The Super Bowl", "The Kentucky Derby"],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Leap year",
-        "verified": true,
-        "notes": "Modern Olympics generally on leap years (with rare exceptions like 2020-postponed-to-2021)."
-      }
-    },
-    {
-      "q": "Which U.S. quadrennial event is also held in leap years?",
+      "q": "Without leap year corrections, how long would it take for the calendar to drift by approximately one day?",
       "choices": [
-        "The U.S. Census",
-        "U.S. presidential elections",
-        "The State of the Union",
-        "Daylight Saving renewal"
-      ],
-      "correct": 1,
-      "category": "Leap Year",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Leap year",
-        "verified": true,
-        "notes": "Held every 4 years on leap years; the Census is every 10 (years ending in 0)."
-      }
-    },
-    {
-      "q": "Approximately how much extra time accumulates each year that requires a leap day to correct?",
-      "choices": [
-        "About 6 minutes",
-        "About 1 hour",
-        "About 6 hours",
-        "About 12 hours"
+        "About 500 years",
+        "About 1,000 years",
+        "About 3,000 years",
+        "About 10,000 years"
       ],
       "correct": 2,
-      "category": "Leap Year",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "5 hours, 48 minutes, and 56 seconds",
-        "verified": true,
-        "notes": "Earth's solar year is 365 days, 5 hours, 48 minutes, 46 seconds — close to 6 hours per year × 4 years ≈ 1 day."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year of the 21st century did February 29 fall on a Monday?",
-      "choices": ["2008", "2012", "2016", "2024"],
+      "q": "What term describes the concept of women proposing marriage on February 29th?",
+      "choices": [
+        "Bachelor's Day",
+        "Sadie Hawkins Day",
+        "Women's Proposal Day",
+        "Leap Engagement"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Ethiopian calendar, how is the leap year adjustment made differently from the Gregorian calendar?",
+      "choices": [
+        "By adding two days to February",
+        "By adding an extra day to the 13th month",
+        "By skipping a month entirely",
+        "By extending all months by one day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many times does February 29th occur in a typical 16-year period in the Gregorian calendar?",
+      "choices": [
+        "2 times",
+        "3 times",
+        "4 times",
+        "5 times"
+      ],
       "correct": 2,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Every 4 years, on February 29th",
-        "verified": true,
-        "notes": "Verified: Feb 29, 2016 was a Monday."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Approximately what are the odds of being born on February 29?",
-      "choices": ["1 in 100", "1 in 365", "1 in 1,000", "1 in 1,461"],
+      "q": "What is the discrepancy that accumulates over four years and necessitates adding one leap day?",
+      "choices": [
+        "Approximately 12 hours",
+        "Approximately 1 day",
+        "Approximately 2 days",
+        "Approximately 3 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which calendar did Julius Caesar first establish the leap year system?",
+      "choices": [
+        "The Gregorian calendar",
+        "The Julian calendar",
+        "The Roman solar calendar",
+        "The Alexandrian calendar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days did February contain before Julius Caesar's calendar reform?",
+      "choices": [
+        "26 days",
+        "27 days",
+        "28 days",
+        "29 days"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What astronomical event does the Gregorian calendar system specifically aim to keep synchronized?",
+      "choices": [
+        "The Moon's orbit",
+        "Earth's revolutions around the Sun",
+        "The precession of equinoxes",
+        "Solar flare cycles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Pope Gregory XIII introduce the Gregorian calendar reforms?",
+      "choices": [
+        "1456",
+        "1582",
+        "1666",
+        "1752"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How frequently do leap years occur in the Gregorian calendar?",
+      "choices": [
+        "Every 2 years",
+        "Every 4 years",
+        "Every 5 years",
+        "Every 8 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary reason leap years exist?",
+      "choices": [
+        "To honor Julius Caesar",
+        "To align the calendar with Earth's orbit around the Sun",
+        "To give workers an extra day off",
+        "To balance the number of weekdays"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many extra hours does Earth take to orbit the Sun beyond 365 days?",
+      "choices": [
+        "Approximately 6 hours",
+        "Approximately 12 hours",
+        "Approximately 24 hours",
+        "Approximately 48 hours"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient ruler introduced the first leap year system?",
+      "choices": [
+        "Pope Gregory XIII",
+        "Julius Caesar",
+        "Augustus Caesar",
+        "Cleopatra"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What calendar system did Julius Caesar create that included leap years?",
+      "choices": [
+        "Gregorian calendar",
+        "Julian calendar",
+        "Egyptian calendar",
+        "Roman calendar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What special term refers to people born on February 29th?",
+      "choices": [
+        "Leap pioneers",
+        "Leaplings",
+        "February babies",
+        "Calendar folk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In traditional British and Irish customs, who is permitted to propose marriage on February 29th?",
+      "choices": [
+        "Only men",
+        "Only the eldest person",
+        "Women",
+        "Anyone who pays a fee"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pope implemented reforms to make the leap year system more accurate?",
+      "choices": [
+        "Pope Leo X",
+        "Pope Gregory XIII",
+        "Pope Pius XII",
+        "Pope John Paul II"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Gregorian calendar skips a leap year in century years unless the year is divisible by what number?",
+      "choices": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
       "correct": 3,
-      "category": "Leap Year",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Leap year",
-        "verified": true,
-        "notes": "1 day out of 1,461 days in 4 years = ~0.0684%."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What would eventually happen to the calendar if leap days were never added?",
+      "choices": [
+        "It would gain extra months",
+        "It would fall out of sync with the seasons",
+        "Nothing would change",
+        "It would repeat every 100 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city in Texas has promoted itself as the 'leap year capital of the world'?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "Anthony",
+        "San Antonio"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Pope Gregory XIII introduce his reformed calendar system?",
+      "choices": [
+        "1582",
+        "1484",
+        "1692",
+        "1752"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many extra minutes and seconds per year accumulate beyond 365 days?",
+      "choices": [
+        "Approximately 48 minutes and 56 seconds",
+        "Approximately 30 minutes and 30 seconds",
+        "Approximately 1 hour and 15 minutes",
+        "Approximately 2 hours and 30 minutes"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What organization has established an honor society specifically for people born on February 29th?",
+      "choices": [
+        "The National Calendar Association",
+        "The Honor Society of Leap Year Day Babies",
+        "The International Astronomy Club",
+        "The Gregorian Society"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Julian calendar, leap years occurred strictly every how many years?",
+      "choices": [
+        "3 years",
+        "4 years",
+        "5 years",
+        "6 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which month is the shortest in non-leap years?",
+      "choices": [
+        "January",
+        "February",
+        "April",
+        "June"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What would be the consequence for seasonal accuracy if the year 1900 were counted as a leap year under Gregorian rules?",
+      "choices": [
+        "The calendar would gain 6 hours",
+        "The calendar would lose accuracy",
+        "Seasons would shift earlier",
+        "Nothing would happen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does it take Earth to complete one full orbit around the Sun?",
+      "choices": [
+        "Exactly 365 days",
+        "Slightly more than 365 days",
+        "Exactly 366 days",
+        "Approximately 364 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Before the Gregorian reform, which calendar system was used throughout most of Europe?",
+      "choices": [
+        "Egyptian calendar",
+        "Julian calendar",
+        "Islamic calendar",
+        "Hebrew calendar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month is leap day added to the calendar?",
+      "choices": [
+        "January",
+        "February",
+        "March",
+        "April"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does February have during a leap year?",
+      "choices": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the special name for people born on February 29th?",
+      "choices": [
+        "Februarians",
+        "Leaplings",
+        "Calendarites",
+        "Cycle-borns"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Leap years occur approximately how often?",
+      "choices": [
+        "Every 2 years",
+        "Every 4 years",
+        "Every 5 years",
+        "Every 8 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Roman leader introduced the leap day system?",
+      "choices": [
+        "Augustus",
+        "Julius Caesar",
+        "Nero",
+        "Trajan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Why is an extra day added to the calendar in leap years?",
+      "choices": [
+        "To honor Roman emperors",
+        "To prevent the calendar from drifting out of sync with Earth's orbit",
+        "To balance the number of weekdays",
+        "To give people an extra day off"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city in Texas calls itself the leap year capital of the world?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "Anthony",
+        "Austin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does it actually take Earth to orbit the Sun?",
+      "choices": [
+        "365 days exactly",
+        "365.24 days",
+        "366 days",
+        "364 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What tradition allows women to propose to men on February 29th?",
+      "choices": [
+        "Cupid's Day",
+        "Women's Rights Day",
+        "Sadie Hawkins Day",
+        "Bachelor Day"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Ethiopian calendar has how many months?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which calendar was February 29th first officially recognized as a leap day?",
+      "choices": [
+        "Gregorian calendar",
+        "Julian calendar",
+        "Hebrew calendar",
+        "Islamic calendar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What happens to February 29th in non-leap years?",
+      "choices": [
+        "It is merged with March 1st",
+        "It is celebrated on February 28th instead",
+        "It does not occur",
+        "It is moved to January"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which calendar reform corrected the drift problem of the Julian calendar?",
+      "choices": [
+        "Islamic calendar reform",
+        "Gregorian calendar reform",
+        "Hebrew calendar reform",
+        "Buddhist calendar reform"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Why is the day called 'leap day'?",
+      "choices": [
+        "Because people celebrate by jumping",
+        "Because it 'leaps' over the normal day pattern by adding an extra day",
+        "Because it was discovered by someone named Leap",
+        "Because the calendar jumps forward by a week"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary reason the Ethiopian calendar has 13 months?",
+      "choices": [
+        "Religious tradition",
+        "Ancient Roman influence",
+        "To align with the solar year and accommodate leap year adjustments",
+        "To match the lunar cycle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days does February have in a non-leap year?",
+      "choices": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Julian calendar, how often is an extra day added to February?",
+      "choices": [
+        "Every 2 years",
+        "Every 3 years",
+        "Every 4 years",
+        "Every 5 years"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What astronomical alignment is the Gregorian calendar designed to maintain?",
+      "choices": [
+        "The position of the Moon",
+        "The rotation of Earth on its axis",
+        "Earth's orbit around the Sun",
+        "The alignment of planets"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Without leap years, the calendar would gradually become misaligned with which of the following?",
+      "choices": [
+        "The phases of the Moon",
+        "The seasons of the year",
+        "The days of the week",
+        "The position of stars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate age of someone with a February 29th birthday who has experienced exactly 10 leap day celebrations?",
+      "choices": [
+        "10 years old",
+        "20 years old",
+        "30 years old",
+        "40 years old"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Gregorian calendar, how many days does a common year contain?",
+      "choices": [
+        "364 days",
+        "365 days",
+        "366 days",
+        "367 days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Roman leader first introduced the concept of leap years into the calendar?",
+      "choices": [
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Mark Antony",
+        "Pompey the Great"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary reason leap days are added to the calendar?",
+      "choices": [
+        "To honor Roman emperors",
+        "To keep the calendar synchronized with Earth's orbit around the Sun",
+        "To create longer months",
+        "To align with lunar cycles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Pope Gregory XIII reform the calendar to create the system we use today?",
+      "choices": [
+        "1492",
+        "1582",
+        "1642",
+        "1752"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common term for people born on February 29th?",
+      "choices": [
+        "Februaries",
+        "Leaplings",
+        "Gregorians",
+        "Solar babies"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How frequently does February 29th occur in the Gregorian calendar?",
+      "choices": [
+        "Every 2 years",
+        "Every 3 years",
+        "Every 4 years",
+        "Every 5 years"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which month is chosen to receive the additional leap day?",
+      "choices": [
+        "January",
+        "February",
+        "March",
+        "December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Ethiopian calendar, where is the leap day added?",
+      "choices": [
+        "The first month",
+        "The seventh month",
+        "The 13th month",
+        "Between December and January"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is another name for the additional day added during a leap year?",
+      "choices": [
+        "Extra day",
+        "Leap day",
+        "Solar day",
+        "Calendar day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many years did the Julian calendar remain in use before the Gregorian reform?",
+      "choices": [
+        "About 800 years",
+        "About 1200 years",
+        "About 1600 years",
+        "About 2000 years"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Gregorian calendar, how many extra days accumulate over approximately four years, necessitating the addition of February 29th?",
+      "choices": [
+        "Approximately 1 day",
+        "Approximately 5 hours and 48 minutes",
+        "Approximately 2 days",
+        "Approximately 12 hours"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Gregorian calendar, what is the precise fractional component of Earth's orbital period that necessitates leap year corrections?",
+      "choices": [
+        "0.2425 days per year",
+        "0.2500 days per year",
+        "0.2190 days per year",
+        "0.3000 days per year"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which specific papal reform in 1582 established the modern rules for determining leap years in the Gregorian calendar?",
+      "choices": [
+        "Pope Sixtus V's Ecclesiastical Decree",
+        "Pope Gregory XIII's Inter Gravissimas",
+        "Pope Clement VIII's Calendar Amendment",
+        "Pope Paul III's Temporal Adjustment"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Under the Julian calendar's leap year rules, how many days would accumulate as an error over 400 years compared to the actual solar year?",
+      "choices": [
+        "Approximately 3 days",
+        "Approximately 11 days",
+        "Approximately 8 days",
+        "Approximately 15 days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Gregorian calendar system, years divisible by 400 are leap years, but years divisible by 100 are not. Which century years first applied this exception rule?",
+      "choices": [
+        "1600 and 1700",
+        "1700 and 1800",
+        "1800 and 1900",
+        "1900 and 2000"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ethiopian calendar maintains a 13-month structure with its leap year adjustment. To which month is the extra leap day added in the Ethiopian calendar?",
+      "choices": [
+        "Pagume (the 13th month)",
+        "Meskerem (the 1st month)",
+        "Ginbot (the 6th month)",
+        "Hamle (the 11th month)"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the Hebrew calendar's method for maintaining alignment with the solar year, given that it traditionally cannot employ the single-day leap year concept?",
+      "choices": [
+        "It adds a leap month (Adar II) seven times in a 19-year cycle",
+        "It adds two days to Shevat every 4 years",
+        "It skips Elul entirely every 7 years",
+        "It maintains a completely lunar calendar without solar correction"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In leap year calculations, the tropical year (solar year) measures approximately how many minutes and seconds longer than 365 days?",
+      "choices": [
+        "5 hours, 48 minutes, and 56 seconds",
+        "6 hours, 30 minutes, and 15 seconds",
+        "4 hours, 22 minutes, and 10 seconds",
+        "7 hours, 15 minutes, and 30 seconds"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Islamic calendar is primarily lunar rather than solar. How does this affect the occurrence of leap years in the Islamic calendar system?",
+      "choices": [
+        "Leap years do not occur; the calendar drifts relative to seasons",
+        "Leap years occur every 3 years to maintain seasonal alignment",
+        "Leap years follow the same Gregorian rules for standardization",
+        "Leap years are determined by the position of the moon relative to Jupiter"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What cumulative calendar drift would occur if the Gregorian calendar operated without any leap year adjustments for 100 years?",
+      "choices": [
+        "Approximately 24-25 days",
+        "Approximately 12-13 days",
+        "Approximately 36-37 days",
+        "Approximately 48-49 days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Julian calendar introduced by Julius Caesar, leap years were calculated using which specific rule?",
+      "choices": [
+        "Every year divisible by 4 without exception",
+        "Every year divisible by 4, except century years",
+        "Every year divisible by 5",
+        "Every year divisible by 8"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What astronomical phenomenon causes Earth's orbital period to be 365.2425 days rather than exactly 365.25 days?",
+      "choices": [
+        "Gravitational perturbations from other planets affecting Earth's orbit",
+        "The precession of Earth's axial tilt over millennia",
+        "Variations in solar radiation affecting orbital velocity",
+        "The elliptical nature of Earth's orbit around the Sun"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Revised Julian calendar, introduced by Serbian mathematician Milutin Milanković, uses which leap year rule to achieve greater accuracy than the Gregorian calendar?",
+      "choices": [
+        "Years divisible by 900 are not leap years; all others divisible by 4 are",
+        "Years divisible by 400 are not leap years unless divisible by 1200",
+        "Leap years occur every 128 years without exception",
+        "Years must be divisible by both 4 and 7 to qualify as leap years"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Individuals born on February 29th are colloquially known as 'leaplings.' Statistically, what is the approximate probability of being born on February 29th?",
+      "choices": [
+        "Approximately 1 in 1,461",
+        "Approximately 1 in 365",
+        "Approximately 1 in 730",
+        "Approximately 1 in 2,920"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The International Fixed Calendar proposal of the early 20th century would have eliminated the need for leap year adjustments through what structural change?",
+      "choices": [
+        "Dividing the year into 13 months of 28 days each, with an extra day outside the calendar",
+        "Creating a perpetual 12-month calendar with adjustable month lengths",
+        "Implementing a 360-day year with a 5-day correction period",
+        "Replacing months with weeks as the primary calendar division"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the British Empire and its colonies officially adopt the Gregorian calendar, replacing the Julian calendar?",
+      "choices": [
+        "1752",
+        "1700",
+        "1582",
+        "1666"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Swedish calendar in 1712 implemented a unique leap year solution by adding an extra February 30th. Why was this method eventually abandoned?",
+      "choices": [
+        "It created confusion in financial and legal record-keeping across Europe",
+        "The Pope declared it heretical",
+        "It required recalculation of all existing historical dates",
+        "Sweden was unable to enforce the system among other nations"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mayan Long Count calendar operated on a cycle of 13 baktuns. How does this cycle relate to modern leap year concepts?",
+      "choices": [
+        "It does not incorporate leap year adjustments; it is purely astronomical observation-based",
+        "It uses a leap baktun every 52 years to maintain accuracy",
+        "It incorporates daily leap adjustments similar to the Gregorian system",
+        "It accounts for solar drift through a 20-year intercalation cycle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "If the Gregorian calendar were to drift by exactly one full day, based on current calculations, approximately how many years would this require?",
+      "choices": [
+        "Approximately 3,236 years",
+        "Approximately 1,500 years",
+        "Approximately 5,000 years",
+        "Approximately 10,000 years"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The French Republican Calendar used during the French Revolution eliminated leap years entirely. How did it attempt to maintain calendar accuracy?",
+      "choices": [
+        "It added an additional 'leap sansculottid' day every 4 years",
+        "It relied on solar observations to adjust months seasonally",
+        "It incorporated monthly adjustments of varying lengths",
+        "It abandoned solar alignment in favor of pure numerical progression"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Gregorian calendar, how many leap years occur in a 400-year cycle?",
+      "choices": [
+        "97",
+        "100",
+        "96",
+        "99"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which century year was NOT a leap year under Gregorian calendar rules?",
+      "choices": [
+        "1600",
+        "1700",
+        "1800",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Julian calendar system, how much excess time accumulated per century compared to the solar year?",
+      "choices": [
+        "Approximately 11.3 days",
+        "Approximately 7.5 days",
+        "Approximately 3.1 days",
+        "Approximately 15.2 days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chinese lunar calendar intercalates an additional month rather than a day. How frequently does this occur on average?",
+      "choices": [
+        "Every 2-3 years",
+        "Every 4-5 years",
+        "Every 7-8 years",
+        "Every 19 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary astronomical reason Pope Gregory XIII commissioned the calendar reform in 1582?",
+      "choices": [
+        "The Julian calendar had drifted approximately 11 days from the vernal equinox",
+        "The lunar months were no longer aligned with tides",
+        "Mercury's orbit had been recalculated",
+        "The solar year had become 25 hours long"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Hebrew calendar, leap years are determined by a 19-year cycle known as the Metonic cycle. How many leap months are added during this period?",
+      "choices": [
+        "5",
+        "7",
+        "6",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Orthodox Christian churches still use the Julian calendar for calculating Easter, resulting in dates that differ from Western observance?",
+      "choices": [
+        "Only the Coptic Orthodox Church",
+        "Russian, Serbian, and some other Orthodox churches",
+        "All Orthodox churches uniformly",
+        "No Orthodox churches; they all switched in 1923"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The true tropical year (solar year) measures approximately how many days?",
+      "choices": [
+        "365.20 days",
+        "365.2425 days",
+        "365.25 days",
+        "365.2500 days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Islamic calendar system, which does NOT employ leap years, how many days does a lunar year contain on average?",
+      "choices": [
+        "354 days",
+        "355 days",
+        "365 days",
+        "354.36 days"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The leap year rule 'divisible by 400' was specifically created to address a systematic error in the Julian calendar. What was the magnitude of this error per 400 years?",
+      "choices": [
+        "Approximately 3 extra days",
+        "Approximately 3.12 extra days",
+        "Approximately 0.75 days",
+        "Approximately 11 extra days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Ethiopian calendar, which operates on a different epoch than the Gregorian calendar, leap years are added to which month?",
+      "choices": [
+        "The 12th month",
+        "The 13th month",
+        "The 1st month",
+        "The 6th month"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dionysius Exiguus, a sixth-century monk, is credited with establishing the Anno Domini dating system. What did his calculations establish regarding leap years?",
+      "choices": [
+        "He proved the need for the Gregorian reform",
+        "He calculated the birth year of Christ, which became the epoch for the Christian calendar",
+        "He invented the concept of leap years",
+        "He determined that February should have 29 days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Gregorian calendar's leap year rules can be summarized as: leap if divisible by 4, except for century years unless divisible by 400. Under these rules, the years 1900, 2100, and 2200 are all non-leap years. In the Julian calendar, how many of these three years would have been leap years?",
+      "choices": [
+        "Zero",
+        "One",
+        "Two",
+        "All three"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The International Fixed Calendar proposal of the 1920s-1930s suggested a 13-month calendar with equal month lengths. How would leap years have been handled under this system?",
+      "choices": [
+        "By adding an entire extra month every 5-6 years",
+        "By adding February 29 as usual",
+        "By adding a leap day at year's end outside the 13 months",
+        "By adjusting the length of the 13th month"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In astronomical terms, the precession of Earth's axial tilt causes the vernal equinox to occur at slightly different solar longitudes over centuries. This was a key concern in the Gregorian reform. Approximately how many days per century had the Julian calendar drifted relative to the vernal equinox by 1582?",
+      "choices": [
+        "2 days",
+        "5 days",
+        "11 days",
+        "20 days"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Persian or Solar Hijri calendar uses an astronomical method to determine leap years based on solar calculations rather than a fixed rule. How many leap years occur in its 2,820-year grand cycle?",
+      "choices": [
+        "683",
+        "710",
+        "720",
+        "765"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "February 29 births present legal and statistical complications. In jurisdictions where birth date affects legal age determination, on which date do 'leaplings' celebrate their legal birthday in non-leap years?",
+      "choices": [
+        "February 28",
+        "March 1",
+        "Varies by jurisdiction",
+        "They must wait until the next leap year"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Revised Julian Calendar, adopted by some Orthodox churches in 1923, modified the leap year rule to bring it closer to astronomical accuracy while remaining distinct from the Gregorian calendar. What is its leap year divisor for century years?",
+      "choices": [
+        "900 instead of 400",
+        "300 instead of 400",
+        "500 instead of 400",
+        "It uses the same 400-year rule as Gregorian"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Gregorian calendar, century years divisible by 400 are leap years, but those divisible by 100 but not 400 are not. Which of these years was NOT a leap year despite being divisible by 4?",
+      "choices": [
+        "1700",
+        "1600",
+        "2000",
+        "1904"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pope Gregory XIII's reform of the calendar in 1582 required the removal of 10 days from October. What was the date that immediately followed October 4th, 1582?",
+      "choices": [
+        "October 5th",
+        "October 14th",
+        "October 15th",
+        "October 24th"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "A sidereal year measures Earth's orbit relative to the stars and is approximately 20 minutes longer than the tropical year. Approximately how many minutes longer is a sidereal year compared to the calendar year of 365 days?",
+      "choices": [
+        "348 minutes",
+        "528 minutes",
+        "720 minutes",
+        "1440 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Julian calendar reform by Julius Caesar, every fourth year received an additional day. What mathematical problem did this system eventually create over centuries?",
+      "choices": [
+        "The calendar gained approximately 11 minutes per year, causing drift",
+        "The calendar lost one day every seven years",
+        "February became unpredictably long",
+        "Leap days accumulated faster than Earth's actual orbital period"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hebrew calendar uses a Metonic cycle to intercalate months rather than days. Over what period does this 19-year cycle align the lunar and solar years?",
+      "choices": [
+        "12 years",
+        "19 years",
+        "235 lunations",
+        "3 complete solar cycles"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "People born on February 29th experience a birthday on the calendar date only once every four years. What is the legally recognized birthdate for 'leaplings' in most jurisdictions during non-leap years?",
+      "choices": [
+        "February 28th",
+        "March 1st",
+        "It varies by jurisdiction; either February 28th or March 1st",
+        "March 2nd"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ethiopian calendar incorporates its own leap year system and uses a different epoch. How many months does the Ethiopian calendar contain in a standard year?",
+      "choices": [
+        "12 months",
+        "13 months",
+        "14 months",
+        "15 months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the proleptic Gregorian calendar applied backwards in time, what year would have been the first leap year after the calendar's fictional inception?",
+      "choices": [
+        "Year 4 AD",
+        "Year 8 AD",
+        "Year 100 AD",
+        "Year 400 AD"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The precession of Earth's axis causes the tropical year (measured by the vernal equinox) to be approximately 20 minutes shorter than the sidereal year. This phenomenon is primary why leap year adjustments are necessary for which type of year?",
+      "choices": [
+        "The sidereal year",
+        "The tropical year",
+        "The anomalistic year",
+        "The lunar year"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval Irish tradition, a practice allowed unmarried women to propose to men on February 29th. If the man refused, he was traditionally required to provide what compensation?",
+      "choices": [
+        "A new dress",
+        "A sum of money",
+        "A pair of gloves",
+        "A silk ribbon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The International Fixed Calendar proposed by Auguste Comte in the 19th century would have created 13 months of 28 days each, with one extra day. How many leap days would this system require every four years?",
+      "choices": [
+        "1 day (making 365 total)",
+        "2 days (making 366 total)",
+        "4 days (making 368 total)",
+        "7 days (making 371 total)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sweden's adoption of the Gregorian calendar occurred unusually: it skipped February 1700 and then omitted leap years until 1753. What was the primary reason for this gradual transition?",
+      "choices": [
+        "Religious resistance to papal authority",
+        "Political neutrality during a period of calendar conflict",
+        "Economic burden of immediate calendar synchronization",
+        "Lack of astronomical knowledge to implement the reform"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The anomalistic year measures Earth's orbit from perihelion to perihelion and is approximately 365.2596 days long. By how much does this exceed the tropical year in seconds?",
+      "choices": [
+        "Approximately 500 seconds",
+        "Approximately 1260 seconds",
+        "Approximately 2500 seconds",
+        "Approximately 4500 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When the British Empire and its colonies officially adopted the Gregorian calendar in September 1752, how many days were skipped to correct the calendar drift from the Julian system?",
+      "choices": [
+        "10 days",
+        "11 days",
+        "12 days",
+        "13 days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Under the Gregorian leap year rules, the year 2100 will not be a leap year, but 2000 was. In which century will the next century year NOT be a leap year after 2100?",
+      "choices": [
+        "2200",
+        "2300",
+        "2400",
+        "2500"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Islamic calendar uses a lunar system with no leap days or intercalary months, causing it to drift relative to the solar year. How many years does it take for the Islamic calendar to completely cycle through all seasons?",
+      "choices": [
+        "19 years",
+        "33 years",
+        "100 years",
+        "365 years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The average length of a year in the Gregorian calendar is derived from the leap year formula: exactly how many leap years occur in a 400-year cycle?",
+      "choices": [
+        "97 leap years",
+        "99 leap years",
+        "100 leap years",
+        "102 leap years"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Greek mythology and ancient timekeeping, the Metonic cycle of 19 years containing 7 leap months allowed synchronization between lunar months and solar seasons. How many total lunar months occur in this 19-year period?",
+      "choices": [
+        "216 months",
+        "228 months",
+        "235 months",
+        "247 months"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Persian calendar, also known as the Solar Hijri calendar, employs a leap year system based on astronomical observation rather than a fixed mathematical rule. In which season does the Persian new year begin?",
+      "choices": [
+        "Winter solstice",
+        "Spring equinox",
+        "Summer solstice",
+        "Autumn equinox"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Due to the gyroscopic precession of Earth's rotational axis over millennia, the exact date of the vernal equinox drifts slightly. To maintain accuracy, what celestial phenomenon does the Gregorian leap year system specifically compensate for?",
+      "choices": [
+        "Changes in Earth's orbital velocity",
+        "The drift of the vernal equinox relative to the calendar",
+        "Solar flare activity",
+        "The Moon's gravitational influence on orbital period"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Julian calendar system introduced by Julius Caesar, leap years were added every 4 years without exception. How many extra days did this method add to the calendar over a 400-year period compared to Earth's actual orbital period?",
+      "choices": [
+        "Approximately 3 extra days",
+        "Approximately 3.1 extra days",
+        "Approximately 2.8 extra days",
+        "Approximately 4.2 extra days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Pope Gregory XIII reformed the leap year rules in 1582 by excluding century years from being leap years unless divisible by 400. Which of the following years would NOT be a leap year under Gregorian rules?",
+      "choices": [
+        "1600",
+        "1700",
+        "2000",
+        "2400"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The exact length of Earth's tropical year is approximately 365.242190 days. Over how many years would the Gregorian calendar system accumulate a drift of exactly one day if leap years were not accounted for?",
+      "choices": [
+        "Approximately 1,250 years",
+        "Approximately 2,500 years",
+        "Approximately 3,300 years",
+        "Approximately 4,700 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the ancient Roman Julian calendar, leap day was observed by doubling a specific day rather than adding a new day to February. Which day of the calendar year was duplicated?",
+      "choices": [
+        "The fifth day before the Kalends of March",
+        "The sixth day before the Kalends of March",
+        "The seventh day before the Kalends of March",
+        "The eighth day before the Kalends of March"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ethiopian calendar handles leap years differently than the Gregorian calendar by adding an extra day to a different month. To which month is the leap day added in the Ethiopian calendar system?",
+      "choices": [
+        "The 12th month",
+        "The 13th month",
+        "The 11th month",
+        "The 10th month"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "People born on February 29th are commonly referred to by a specific term. What is the correct name for leap year day babies?",
+      "choices": [
+        "Leaplings",
+        "Februarians",
+        "Orbitals",
+        "Centurials"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Gregorian calendar's leap year rule of excluding most century years was implemented to correct an accumulation error from the Julian system. Approximately how many days per century did the Julian calendar add in excess?",
+      "choices": [
+        "0.75 days",
+        "1.5 days",
+        "2.25 days",
+        "3 days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In medieval and early modern Europe, the introduction of the Gregorian calendar caused some nations to skip multiple days at once. Which Catholic nations were among the first to adopt the reformed calendar in 1582?",
+      "choices": [
+        "France, Spain, and Portugal",
+        "Italy, Germany, and Poland",
+        "England, Scotland, and Ireland",
+        "Denmark, Sweden, and Norway"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Honor Society of Leap Year Day Babies is an exclusive group recognizing individuals born on February 29th. In what decade was this organization officially established?",
+      "choices": [
+        "1920s",
+        "1950s",
+        "1970s",
+        "1990s"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When February 29th falls on a Sunday, the observance of certain religious feast days in the Roman Catholic Church liturgical calendar is affected. Which saint's feast day traditionally experiences a one-day shift on leap years in the post-Vatican II calendar?",
+      "choices": [
+        "Saint Peter",
+        "Saint Matthias",
+        "Saint Andrew",
+        "Saint Thomas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The precise solar year measurement of 365.242190 days accounts for the time required for Earth to return to the same position relative to the vernal equinox. This measurement is known by what specific astronomical term?",
+      "choices": [
+        "Sidereal year",
+        "Tropical year",
+        "Anomalistic year",
+        "Draconic year"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In some non-Western calendar systems, leap year adjustments are made using different cycles entirely. The Hebrew calendar, for example, uses a 19-year Metonic cycle to insert leap months. How many leap months are inserted in each complete 19-year cycle?",
+      "choices": [
+        "5 leap months",
+        "7 leap months",
+        "9 leap months",
+        "11 leap months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Gregorian calendar, how many extra hours per year does Earth's orbit account for beyond the standard 365 days?",
+      "choices": [
+        "Approximately 6 hours",
+        "Approximately 5 hours and 49 minutes",
+        "Approximately 8 hours",
+        "Approximately 12 hours"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Roman ruler first introduced the concept of adding an extra day every fourth year to the calendar?",
+      "choices": [
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Marcus Aurelius",
+        "Nero"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Pope Gregory XIII implement the reformed calendar that adjusted the leap year rules?",
+      "choices": [
+        "1552",
+        "1582",
+        "1612",
+        "1642"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Under Gregorian calendar rules, century years are leap years only if they are divisible by which number?",
+      "choices": [
+        "100",
+        "200",
+        "400",
+        "1000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the collective term for people born on February 29th?",
+      "choices": [
+        "Februarians",
+        "Leaplings",
+        "Quadriennials",
+        "Februists"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Ethiopian calendar accounts for leap years by adding an extra day to which month?",
+      "choices": [
+        "The first month",
+        "The twelfth month",
+        "The thirteenth month",
+        "February, like other calendars"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many leap years occur between the years 1600 and 1700 in the Gregorian calendar?",
+      "choices": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Julian calendar, leap years occur every 4 years with no exceptions. How often does this create a drift from the solar year?",
+      "choices": [
+        "Every 128 years",
+        "Every 256 years",
+        "Every 333 years",
+        "Every 500 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before Julius Caesar's reform, the Roman calendar was based on lunar cycles and required periodic adjustments. What was this adjustment period called?",
+      "choices": [
+        "Intercalation",
+        "Bissextile",
+        "Embolism",
+        "Lunation"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The term 'bissextile' refers to leap years in some Romance languages. In the Julian calendar, what did this term originally mean?",
+      "choices": [
+        "The second sixth day before the Kalends of March",
+        "The doubling of February",
+        "The addition of a new month",
+        "The removal of a day from another month"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "If someone born on February 29, 1900, had lived to 2000, how many actual birthday anniversaries would they have celebrated?",
+      "choices": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hebrew calendar adds an extra month instead of an extra day to maintain synchronization with the solar year. How many times does this occur in a 19-year cycle?",
+      "choices": [
+        "4 times",
+        "5 times",
+        "7 times",
+        "9 times"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gregorian calendar, the year 2000 was a leap year, but the year 1900 was not, despite both being divisible by 4. Why?",
+      "choices": [
+        "2000 is divisible by 400, while 1900 is not",
+        "There was a papal exception for the year 2000",
+        "The rule changed in the 20th century",
+        "2000 had more days in other months"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Islamic calendar does not use leap years in the traditional sense. What is the result of this system over time?",
+      "choices": [
+        "The Islamic year gradually drifts through all seasons",
+        "Religious holidays shift earlier by approximately 11 days each year",
+        "The calendar stays perfectly aligned with seasonal changes",
+        "It requires a complete reset every 100 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When the Gregorian calendar was adopted in October 1582 by Catholic countries, approximately how many days had the Julian calendar drifted from the solar year?",
+      "choices": [
+        "5 days",
+        "10 days",
+        "15 days",
+        "20 days"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In British and Irish folk tradition, what social convention is associated with February 29th?",
+      "choices": [
+        "Men must give gifts to women",
+        "Women are permitted to propose marriage",
+        "Children are not allowed to celebrate birthdays",
+        "Agricultural work must cease for the day"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The year 2100 will not be a leap year under Gregorian calendar rules. What year will be the next leap year after 2100?",
+      "choices": [
+        "2104",
+        "2108",
+        "2200",
+        "2204"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century was the Julian calendar first used throughout the entire Roman Empire?",
+      "choices": [
+        "1st century BC",
+        "1st century AD",
+        "2nd century AD",
+        "3rd century AD"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Mayan calendar system did not include leap years. Over 52 years, by how much would this calendar drift from the true solar year?",
+      "choices": [
+        "Approximately 13 days",
+        "Approximately 18 days",
+        "Approximately 26 days",
+        "Approximately 37 days"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Under the Gregorian calendar reform, which of the following years is NOT a leap year?",
+      "choices": [
+        "1600",
+        "2000",
+        "2100",
+        "2400"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Julian calendar reform, how frequently were leap days added to keep the calendar aligned with Earth's orbit?",
+      "choices": [
+        "Every 2 years",
+        "Every 4 years",
+        "Every 8 years",
+        "Every 10 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary way the Gregorian calendar's leap year rules differ from those of the Julian calendar?",
+      "choices": [
+        "Gregorian calendar adds leap years every 3 years instead of 4",
+        "Gregorian calendar skips leap years in century years not divisible by 400",
+        "Gregorian calendar adds two leap days every 8 years",
+        "Gregorian calendar eliminates leap years entirely"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which century year was NOT a leap year in the Gregorian calendar?",
+      "choices": [
+        "1600",
+        "1700",
+        "1800",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many extra hours does Earth need beyond 365 days to complete one full orbit around the Sun?",
+      "choices": [
+        "3 hours",
+        "6 hours",
+        "12 hours",
+        "24 hours"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Roman leader is credited with introducing the first systematic leap year adjustment to the calendar?",
+      "choices": [
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Mark Antony",
+        "Pompey the Great"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Pope Gregory XIII introduce the calendar reform that refined leap year calculations?",
+      "choices": [
+        "1454",
+        "1552",
+        "1582",
+        "1624"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many total days are in a leap year within the Gregorian calendar?",
+      "choices": [
+        "364 days",
+        "365 days",
+        "366 days",
+        "367 days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "If leap years were not incorporated into the calendar system, approximately how many years would pass before the calendar drifted by one full day?",
+      "choices": [
+        "4 years",
+        "25 years",
+        "100 years",
+        "400 years"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What social tradition associated with February 29th allows women to propose marriage to men?",
+      "choices": [
+        "St. Valentine's Day tradition",
+        "Sadie Hawkins Day tradition",
+        "Leap Day Bachelor tradition",
+        "February's Proposal Day tradition"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Ethiopian calendar, during which month is the extra leap day traditionally added?",
+      "choices": [
+        "The 12th month",
+        "The 13th month",
+        "The 1st month",
+        "The 6th month"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Why was February chosen as the month to contain the fewest days in the Julian calendar?",
+      "choices": [
+        "It was the shortest season of the year",
+        "It was historically a month of mourning in Roman culture",
+        "It was left with fewer days after other months received additional days during the reform",
+        "Roman engineers calculated it needed the fewest days for astronomical alignment"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which century year was the first to be skipped as a leap year under the Gregorian calendar rules?",
+      "choices": [
+        "1600",
+        "1700",
+        "1800",
+        "1900"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term used to describe a year that is not a leap year and contains exactly 365 days?",
+      "choices": [
+        "Solar year",
+        "Common year",
+        "Standard year",
+        "Regular year"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many leap years occur within a typical 400-year cycle of the Gregorian calendar?",
+      "choices": [
+        "97 leap years",
+        "100 leap years",
+        "103 leap years",
+        "150 leap years"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary astronomical reason that leap years are necessary in any calendar system?",
+      "choices": [
+        "The Moon takes longer to orbit Earth than expected",
+        "Earth's rotation on its axis is slowing down",
+        "Earth's orbit around the Sun takes slightly more than 365 days",
+        "Solar flares disrupt the standard calendar year"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Julian calendar, approximately how much time would accumulate in error over a span of 128 years without leap day corrections?",
+      "choices": [
+        "8 days",
+        "16 days",
+        "32 days",
+        "64 days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which calendar system was in widespread use throughout Europe before the adoption of the Gregorian calendar?",
+      "choices": [
+        "Hebrew calendar",
+        "Islamic calendar",
+        "Julian calendar",
+        "Egyptian calendar"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many minutes and seconds, approximately, make up the fractional portion of Earth's annual orbit beyond 365 days?",
+      "choices": [
+        "2 hours, 48 minutes, 56 seconds",
+        "5 hours, 48 minutes, 56 seconds",
+        "8 hours, 48 minutes, 56 seconds",
+        "11 hours, 48 minutes, 56 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary motivation for Pope Gregory XIII to reform the leap year system in the 16th century?",
+      "choices": [
+        "To reduce the number of holidays in the calendar",
+        "To correct the drift of the vernal equinox, which affects Easter calculations",
+        "To align the calendar with Chinese astronomical observations",
+        "To eliminate the need for leap years altogether"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gregorian calendar, how many years typically pass between consecutive leap years?",
+      "choices": [
+        "2 years",
+        "4 years",
+        "8 years",
+        "10 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary reason the Gregorian calendar includes leap years?",
+      "choices": [
+        "To honor Roman emperors",
+        "To correct errors from the Islamic calendar",
+        "To keep the calendar aligned with Earth's orbit around the Sun",
+        "To ensure months have equal numbers of days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Roman emperor is credited with introducing the concept of leap years into the calendar?",
+      "choices": [
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Nero",
+        "Caligula"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term specifically refers to a person born on February 29th?",
+      "choices": [
+        "Februarian",
+        "Leapling",
+        "Quadrennial",
+        "Bissextile"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many extra minutes does Earth take beyond 365 days to complete one orbit around the Sun?",
+      "choices": [
+        "6 hours",
+        "12 hours",
+        "24 hours",
+        "48 hours"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did Pope Gregory XIII introduce reforms to correct drift in the Julian calendar?",
+      "choices": [
+        "13th century",
+        "15th century",
+        "16th century",
+        "17th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many days does February contain in the Gregorian calendar during a leap year?",
+      "choices": [
+        "27 days",
+        "28 days",
+        "29 days",
+        "30 days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What would gradually occur to the calendar's seasons if leap years were completely eliminated?",
+      "choices": [
+        "Seasons would become shorter",
+        "Seasons would shift progressively out of sync with the calendar",
+        "Seasons would remain unchanged",
+        "Seasons would occur twice per year"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Gregorian calendar averages approximately how many days per year over a 400-year cycle?",
+      "choices": [
+        "365 days",
+        "365.2425 days",
+        "365.25 days",
+        "366 days"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city in the United States is officially recognized as the 'Leap Year Capital'?",
+      "choices": [
+        "Denver, Colorado",
+        "Phoenix, Arizona",
+        "Anthony, Texas",
+        "Albuquerque, New Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Julian calendar, leap years occurred at what regular interval?",
+      "choices": [
+        "Every 2 years",
+        "Every 4 years",
+        "Every 8 years",
+        "Every 100 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Gregorian calendar reform eliminated leap years in which century years that were not divisible by which number?",
+      "choices": [
+        "100",
+        "200",
+        "400",
+        "1000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the actual length of an astronomical solar year in days?",
+      "choices": [
+        "365.0 days",
+        "365.15 days",
+        "365.242190 days",
+        "365.5 days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long was the Julian calendar in widespread use before the Gregorian reform was introduced?",
+      "choices": [
+        "Approximately 500 years",
+        "Approximately 1,000 years",
+        "Approximately 1,600 years",
+        "Approximately 2,000 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Ethiopian calendar, which month receives an extra day during a leap year, rather than February?",
+      "choices": [
+        "The 12th month",
+        "The 13th month",
+        "The 1st month",
+        "No specific month; the year is extended"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What mathematical rule determines whether a year in the Gregorian calendar is a leap year?",
+      "choices": [
+        "Divisible by 4 only",
+        "Divisible by 4, except century years not divisible by 400",
+        "Divisible by 8",
+        "Divisible by 100 and 4"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which calendar system is the international standard for civil use in most countries worldwide?",
+      "choices": [
+        "Julian calendar",
+        "Islamic calendar",
+        "Gregorian calendar",
+        "Hebrew calendar"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "February historically became the shortest month after which calendar reform?",
+      "choices": [
+        "The Islamic calendar reform",
+        "The Julian calendar reform by Julius Caesar",
+        "The Hindu calendar reform",
+        "The Chinese calendar reform"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What organization maintains an honor society specifically for people born on February 29th?",
+      "choices": [
+        "The Astronomical Society",
+        "The Honor Society of Leap Year Day Babies",
+        "The International Calendar Institute",
+        "The Gregorian Foundation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In leap year mathematics, what is the term 'bissextile' associated with?",
+      "choices": [
+        "A calendar that skips months",
+        "A year with 366 days, or the extra day in such a year",
+        "A historical calendar reform",
+        "A method of calculating solar time"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gregorian calendar, how many extra hours, minutes, and seconds does Earth's orbit add beyond 365 days?",
+      "choices": [
+        "6 hours, 30 minutes, and 12 seconds",
+        "5 hours, 48 minutes, and 56 seconds",
+        "7 hours, 15 minutes, and 30 seconds",
+        "4 hours, 22 minutes, and 18 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What name is given to people born on February 29th?",
+      "choices": [
+        "Leap celebrants",
+        "Leaplings",
+        "Calendar anomalies",
+        "February babies"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many years would it take for the Gregorian calendar to drift by one full day without leap year corrections?",
+      "choices": [
+        "1,500 years",
+        "2,500 years",
+        "3,000 years",
+        "5,000 years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Pope Gregory XIII introduce the reformed calendar that established the modern leap year system?",
+      "choices": [
+        "1545",
+        "1582",
+        "1609",
+        "1687"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "If leap years were completely eliminated from the calendar, what would gradually occur to the seasons?",
+      "choices": [
+        "They would remain perfectly synchronized",
+        "They would shift earlier each year",
+        "They would shift later each year",
+        "They would reverse order"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Under the Julian calendar system, how frequently was an additional day added to the calendar?",
+      "choices": [
+        "Every 3 years",
+        "Every 4 years",
+        "Every 8 years",
+        "Every 5 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following years is a leap year in the Gregorian calendar?",
+      "choices": [
+        "1900",
+        "2100",
+        "2024",
+        "2200"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How does the Ethiopian calendar differ from the Gregorian calendar in its approach to leap years?",
+      "choices": [
+        "It eliminates leap years entirely",
+        "It adds an extra day to the 13th month instead of February",
+        "It adds two extra days every eight years",
+        "It follows the same system as the Gregorian calendar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The primary reason leap years exist in the modern calendar is to correct for what astronomical measurement?",
+      "choices": [
+        "The Moon's elliptical orbit",
+        "Earth's rotation speed variations",
+        "The discrepancy between calendar years and Earth's orbital period",
+        "Solar flare cycles"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the main flaw of the Julian calendar that the Gregorian reform addressed?",
+      "choices": [
+        "It added too few leap years and caused drift",
+        "It added too many leap years relative to Earth's actual orbit",
+        "It ignored the moon's phases entirely",
+        "It failed to account for the 365-day year"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Gregorian calendar reform of 1582, Pope Gregory XIII introduced a rule to skip leap years in certain century years. A leap year occurs in a century year only if that year is divisible by which number?",
+      "choices": [
+        "100",
+        "200",
+        "400",
+        "500"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

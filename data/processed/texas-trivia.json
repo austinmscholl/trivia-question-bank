@@ -1,17 +1,18 @@
 {
   "slug": "texas-trivia",
   "name": "Texas",
-  "description": "The Lone Star State — BBQ, oil, the Alamo, and everything's bigger in Texas.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.751Z",
   "questions": [
     {
       "q": "What is the capital of Texas?",
-      "choices": ["Dallas", "Houston", "San Antonio", "Austin"],
+      "choices": [
+        "Dallas",
+        "Houston",
+        "San Antonio",
+        "Austin"
+      ],
       "correct": 3,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "Austin", "verified": true, "notes": "Capital since 1839." }
+      "difficulty": "easy"
     },
     {
       "q": "What is Texas's official nickname?",
@@ -22,17 +23,18 @@
         "The Oil State"
       ],
       "correct": 1,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "Lone Star State", "verified": true, "notes": "From the state flag's single white star." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Texas city is the state's largest by population?",
-      "choices": ["Austin", "San Antonio", "Dallas", "Houston"],
+      "choices": [
+        "Austin",
+        "San Antonio",
+        "Dallas",
+        "Houston"
+      ],
       "correct": 3,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "Houston", "verified": true, "notes": "About 2.3 million; fourth-largest U.S. city." }
+      "difficulty": "easy"
     },
     {
       "q": "What famous 1836 San Antonio battle is remembered with the phrase 'Remember the _____!'?",
@@ -43,146 +45,711 @@
         "The Gonzales"
       ],
       "correct": 0,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "The Alamo", "verified": true, "notes": "Defended by fewer than 200 Texians against General Santa Anna's army." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which country borders Texas to the south across the Rio Grande?",
-      "choices": ["Mexico", "Guatemala", "Belize", "Honduras"],
+      "q": "Which Mexican country borders Texas to the south across the Rio Grande?",
+      "choices": [
+        "Mexico",
+        "Guatemala",
+        "Belize",
+        "Honduras"
+      ],
       "correct": 0,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "Mexico", "verified": true, "notes": "audit-corrected 2026-05-09: removed nonsensical 'Mexican country' wording. Texas shares over 1,200 miles of border with Mexico." }
+      "difficulty": "easy"
     },
     {
       "q": "Which only U.S. state is larger than Texas by total area?",
-      "choices": ["California", "Alaska", "Montana", "Texas is the largest"],
+      "choices": [
+        "California",
+        "Alaska",
+        "Montana",
+        "Texas is the largest"
+      ],
       "correct": 1,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "Alaska", "verified": true, "notes": "Alaska is roughly twice Texas's area." }
+      "difficulty": "easy"
     },
     {
       "q": "Which city in Texas calls itself the 'Live Music Capital of the World'?",
-      "choices": ["Austin", "Dallas", "El Paso", "San Antonio"],
-      "correct": 0,
-      "category": "Texas",
-      "difficulty": "easy",
-      "source": { "original_a": "Austin", "verified": true, "notes": "Home of South by Southwest (SXSW) and Austin City Limits." }
-    },
-    {
-      "q": "Texas was admitted to the U.S. as the 28th state in which year?",
-      "choices": ["1836", "1845", "1850", "1861"],
-      "correct": 1,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "1845", "verified": true, "notes": "Annexed December 29, 1845." }
-    },
-    {
-      "q": "Before joining the Union, Texas existed for nearly a decade as what?",
       "choices": [
-        "A Mexican province",
-        "An independent Republic of Texas",
-        "A British protectorate",
-        "A Spanish crown colony"
-      ],
-      "correct": 1,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "An independent nation", "verified": true, "notes": "The Republic of Texas, 1836-1845." }
-    },
-    {
-      "q": "Which Texian general led the army to victory at the Battle of San Jacinto and later served as the Republic's first president?",
-      "choices": [
-        "Sam Houston",
-        "Stephen F. Austin",
-        "William B. Travis",
-        "Davy Crockett"
+        "Austin",
+        "Dallas",
+        "El Paso",
+        "San Antonio"
       ],
       "correct": 0,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Sam Houston", "verified": true, "notes": "Also the city of Houston's namesake." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is Texas's official state flower?",
-      "choices": ["Yellow rose", "Bluebonnet", "Prickly pear blossom", "Indian paintbrush"],
-      "correct": 1,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Texas", "verified": true, "notes": "Adopted 1901." }
-    },
-    {
-      "q": "Which Texas city is home to the Space Center and served as the historic NASA Mission Control?",
-      "choices": ["Houston", "Galveston", "Austin", "Corpus Christi"],
-      "correct": 0,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Houston", "verified": true, "notes": "'Houston, we have a problem.'" }
-    },
-    {
-      "q": "Which major river forms Texas's border with Mexico?",
+      "q": "What is the state nickname of Texas?",
       "choices": [
-        "Red River",
+        "The Frontier State",
+        "The Lone Star State",
+        "The Cowboy State",
+        "The Great State"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is the capital of Texas?",
+      "choices": [
+        "Houston",
+        "Dallas",
+        "Austin",
+        "San Antonio"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest city in Texas by population?",
+      "choices": [
+        "Dallas",
+        "San Antonio",
+        "Houston",
+        "Austin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Texas declare independence from Mexico?",
+      "choices": [
+        "1821",
+        "1836",
+        "1845",
+        "1861"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river forms the border between Texas and Mexico?",
+      "choices": [
+        "Colorado River",
+        "Brazos River",
         "Rio Grande",
-        "Pecos River",
-        "Brazos River"
+        "Trinity River"
       ],
-      "correct": 1,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Rio Grande", "verified": true, "notes": "Called Río Bravo del Norte in Mexico." }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which other river forms much of Texas's border with Oklahoma?",
+      "q": "What is the state bird of Texas?",
       "choices": [
-        "Red River",
-        "Arkansas River",
-        "Trinity River",
-        "Canadian River"
+        "Texas Roadrunner",
+        "Northern Mockingbird",
+        "Greater Prairie-Chicken",
+        "Golden Eagle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state borders Texas to the north?",
+      "choices": [
+        "New Mexico",
+        "Oklahoma",
+        "Arkansas",
+        "Louisiana"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the state mammal of Texas?",
+      "choices": [
+        "American Bison",
+        "Armadillo",
+        "Texas Longhorn",
+        "Pronghorn Antelope"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous soft drink was created in Waco, Texas?",
+      "choices": [
+        "Coca-Cola",
+        "Dr Pepper",
+        "7UP",
+        "Root Beer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Austin is known by what musical title?",
+      "choices": [
+        "Country Music Capital",
+        "Live Music Capital of the World",
+        "Blues Capital of America",
+        "Rock and Roll City"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the word 'Texas' derive from in terms of its meaning?",
+      "choices": [
+        "Great warriors",
+        "Friendship",
+        "Large land",
+        "Northern people"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which national park located in West Texas is known for its desert landscape and mountain views?",
+      "choices": [
+        "Padre Island National Seashore",
+        "Big Bend National Park",
+        "Guadalupe Mountains",
+        "Caddo National Grassland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What rank does Texas hold in terms of state population in the United States?",
+      "choices": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which treaty officially made Texas part of the United States after the Mexican-American War?",
+      "choices": [
+        "Treaty of Velasco",
+        "Treaty of Adams-Onís",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Paris"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the state capital building of Texas known for compared to other U.S. state capitals?",
+      "choices": [
+        "Being the oldest",
+        "Being made of pink granite",
+        "Being taller than the U.S. Capitol",
+        "Having the most floors"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous battle in 1836 resulted in a decisive Texas victory against Mexico?",
+      "choices": [
+        "Battle of the Alamo",
+        "Battle of San Jacinto",
+        "Battle of Gonzales",
+        "Battle of Velasco"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country lies directly south of Texas?",
+      "choices": [
+        "Central America",
+        "Mexico",
+        "Belize",
+        "Guatemala"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Texas join the United States as a state?",
+      "choices": [
+        "1836",
+        "1839",
+        "1845",
+        "1848"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas city is famous for its Tex-Mex cuisine and the Alamo?",
+      "choices": [
+        "El Paso",
+        "Corpus Christi",
+        "San Antonio",
+        "Laredo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate area of Texas in square miles?",
+      "choices": [
+        "180,000 square miles",
+        "220,000 square miles",
+        "268,000 square miles",
+        "330,000 square miles"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital city of Texas?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "Dallas",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the state flower of Texas?",
+      "choices": [
+        "Yellow Rose",
+        "Bluebonnet",
+        "Firewheel",
+        "Prairie Coneflower"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which year did Texas become a U.S. state?",
+      "choices": [
+        "1836",
+        "1841",
+        "1845",
+        "1850"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname of Texas based on its state flag?",
+      "choices": [
+        "Cattle State",
+        "Lone Star State",
+        "Big Country",
+        "Star of the South"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is the most populous in Texas?",
+      "choices": [
+        "Dallas",
+        "San Antonio",
+        "Austin",
+        "Houston"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What natural resource discovery transformed Texas's economy in the 20th century?",
+      "choices": [
+        "Gold",
+        "Natural gas",
+        "Oil",
+        "Silver"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous cave in Texas is known for its large bat population?",
+      "choices": [
+        "Carlsbad Caverns",
+        "Bracken Cave",
+        "Natural Bridge Caverns",
+        "Longhorn Cavern"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Texas secede from the Union?",
+      "choices": [
+        "1859",
+        "1860",
+        "1861",
+        "1863"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What war took place between the United States and Mexico from 1846 to 1848?",
+      "choices": [
+        "Texas Revolution",
+        "Mexican-American War",
+        "War of Independence",
+        "Border Conflict"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beverage brand was created in Waco, Texas?",
+      "choices": [
+        "Coca-Cola",
+        "Dr Pepper",
+        "Snapple",
+        "A&W Root Beer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What treaty officially made Texas part of the United States following the Mexican-American War?",
+      "choices": [
+        "Treaty of Paris",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Velasco",
+        "Adams-Onís Treaty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many counties does Texas have?",
+      "choices": [
+        "156",
+        "210",
+        "254",
+        "312"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city in Texas is known for its live music scene and motto 'Keep Austin Weird'?",
+      "choices": [
+        "San Antonio",
+        "Austin",
+        "Dallas",
+        "Fort Worth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas city is home to NASA's Johnson Space Center?",
+      "choices": [
+        "Dallas",
+        "Fort Worth",
+        "Houston",
+        "Austin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the independent nation that Texas was before joining the United States?",
+      "choices": [
+        "Republic of Texas",
+        "Texas Confederation",
+        "Lone Star Nation",
+        "State of Texas"
       ],
       "correct": 0,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Red River", "verified": true, "notes": "Fed by tributaries in the Texas Panhandle." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Texas national park, in the state's southwest, features canyons, desert, and the Rio Grande?",
+      "q": "Which famous battle in 1836 secured Texas independence from Mexico?",
       "choices": [
-        "Guadalupe Mountains",
-        "Big Bend",
-        "Padre Island",
-        "Chamizal"
+        "Battle of the Alamo",
+        "Battle of San Jacinto",
+        "Battle of Goliad",
+        "Battle of Gonzales"
       ],
       "correct": 1,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Big Bend National Park", "verified": true, "notes": "Named for the big bend of the Rio Grande." }
+      "difficulty": "easy"
     },
     {
-      "q": "How many counties are there in Texas (the most of any state)?",
-      "choices": ["159", "204", "254", "287"],
+      "q": "What is the state capital of Texas?",
+      "choices": [
+        "Houston",
+        "Dallas",
+        "Austin",
+        "San Antonio"
+      ],
       "correct": 2,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "254", "verified": true, "notes": "More counties than any other state." }
+      "difficulty": "easy"
     },
     {
-      "q": "Texas's state motto is a single word. What is it?",
-      "choices": ["Freedom", "Liberty", "Valor", "Friendship"],
-      "correct": 3,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Friendship", "verified": true, "notes": "From the Caddo word 'teysha.'" }
+      "q": "Which famous battle in Texas became a symbol of defiance during the Texas Revolution?",
+      "choices": [
+        "Battle of the Alamo",
+        "Battle of San Jacinto",
+        "Battle of Goliad",
+        "Battle of Gonzales"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Texas is a major producer of which resource that flourished starting with the 1901 Spindletop gusher?",
-      "choices": ["Coal", "Gold", "Petroleum (oil)", "Silver"],
+      "q": "What is the nickname for the Texas state flag?",
+      "choices": [
+        "The Texan",
+        "The Lone Star Flag",
+        "The Bluebonnet Banner",
+        "The Rattler"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the state motto of Texas?",
+      "choices": [
+        "Unity and Progress",
+        "Friendship",
+        "Honor and Courage",
+        "Forever Forward"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas city is known as the 'Live Music Capital of the World'?",
+      "choices": [
+        "Dallas",
+        "San Antonio",
+        "Austin",
+        "Houston"
+      ],
       "correct": 2,
-      "category": "Texas",
-      "difficulty": "medium",
-      "source": { "original_a": "Texas", "verified": true, "notes": "Spindletop near Beaumont kicked off the Texas oil boom." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed of cattle is most iconic to Texas ranching?",
+      "choices": [
+        "Angus",
+        "Texas Longhorn",
+        "Hereford",
+        "Brahman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major Texas city is the second largest by population in the state?",
+      "choices": [
+        "Houston",
+        "San Antonio",
+        "Dallas",
+        "Austin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest city by land area in Texas?",
+      "choices": [
+        "Dallas",
+        "San Antonio",
+        "Houston",
+        "Austin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Before becoming a U.S. state, what did Texas declare itself in 1836?",
+      "choices": [
+        "A territory",
+        "An independent republic",
+        "A commonwealth",
+        "A protectorate"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous ranch in Texas is known for its enormous size and historical significance?",
+      "choices": [
+        "The Spur Ranch",
+        "The King Ranch",
+        "The Circle T Ranch",
+        "The Bar None Ranch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which national park in Texas features canyons, mountains, and desert landscape?",
+      "choices": [
+        "Guadalupe Mountains National Park",
+        "Big Bend National Park",
+        "Caddo National Forest",
+        "Padre Island National Seashore"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many Fortune 500 companies are headquartered in Texas?",
+      "choices": [
+        "23",
+        "38",
+        "53",
+        "67"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where does Texas rank among U.S. states by total economic output?",
+      "choices": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What treaty officially transferred Texas territory to the United States after the Mexican-American War?",
+      "choices": [
+        "Treaty of Velasco",
+        "Treaty of Paris",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Córdoba"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas governor famously opposed secession during the Civil War era?",
+      "choices": [
+        "Mirabeau B. Lamar",
+        "Sam Houston",
+        "James P. Henderson",
+        "James W. Throckmorton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which industry is Texas historically most famous for producing?",
+      "choices": [
+        "Coal",
+        "Oil and natural gas",
+        "Iron ore",
+        "Copper"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Texas join the United States as the 28th state?",
+      "choices": [
+        "1836",
+        "1845",
+        "1865",
+        "1901"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river forms the natural border between Texas and Mexico?",
+      "choices": [
+        "Colorado River",
+        "Rio Grande",
+        "Brazos River",
+        "Neches River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the state tree of Texas?",
+      "choices": [
+        "Oak Tree",
+        "Pecan Tree",
+        "Pine Tree",
+        "Mesquite Tree"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major oil discovery in Texas occurred at Spindletop in 1901?",
+      "choices": [
+        "It was the first oil well in Texas",
+        "It created the largest oil spill in history",
+        "It marked the beginning of the Texas oil boom",
+        "It proved oil was impossible to extract from Texas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many stars appear on the Texas state flag?",
+      "choices": [
+        "One",
+        "Three",
+        "Five",
+        "Fifty"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major national park in Texas is famous for its canyons and desert landscape?",
+      "choices": [
+        "Padre Island National Seashore",
+        "Big Bend National Park",
+        "Caddo National Forest",
+        "Palo Duro Canyon State Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas city is home to the world's largest rodeo?",
+      "choices": [
+        "Dallas",
+        "Fort Worth",
+        "Houston",
+        "San Antonio"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous San Antonio landmark is often remembered with the phrase 'Remember the Alamo'?",
+      "choices": [
+        "The Pearl District",
+        "The River Walk",
+        "The Alamo Mission",
+        "The Spanish Governor's Palace"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Texas city is officially known as the 'Live Music Capital of the World'?",
+      "choices": [
+        "Dallas",
+        "Austin",
+        "San Antonio",
+        "Houston"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "Which NFL team plays in Arlington, Texas, and is nicknamed 'America's Team'?",
@@ -193,9 +760,7 @@
         "Tennessee Titans"
       ],
       "correct": 0,
-      "category": "Texas",
-      "difficulty": "hard",
-      "source": { "original_a": "Texas", "verified": true, "notes": "Plays at AT&T Stadium, Arlington." }
+      "difficulty": "hard"
     },
     {
       "q": "The San Jacinto Monument, which honors the 1836 battle for Texas independence, is noted for what record?",
@@ -206,9 +771,7 @@
         "World's oldest war memorial"
       ],
       "correct": 0,
-      "category": "Texas",
-      "difficulty": "hard",
-      "source": { "original_a": "Texas", "verified": true, "notes": "567 ft tall — just over the Washington Monument's 555 ft." }
+      "difficulty": "hard"
     },
     {
       "q": "Which U.S. president was born in Stonewall, Texas, and returned to his 'Ranch' after leaving office?",
@@ -219,9 +782,7 @@
         "Dwight D. Eisenhower"
       ],
       "correct": 1,
-      "category": "Texas",
-      "difficulty": "hard",
-      "source": { "original_a": "Texas", "verified": true, "notes": "LBJ's 'Texas White House' was in the Hill Country." }
+      "difficulty": "hard"
     },
     {
       "q": "On November 22, 1963, which U.S. president was assassinated in Dallas?",
@@ -232,9 +793,1360 @@
         "Dwight D. Eisenhower"
       ],
       "correct": 1,
-      "category": "Texas",
-      "difficulty": "hard",
-      "source": { "original_a": "Texas", "verified": true, "notes": "Shot in Dealey Plaza; the spot is marked by an X on Elm Street." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Spindletop oil field near Beaumont produce its legendary gusher that launched Texas into the petroleum age?",
+      "choices": [
+        "1899",
+        "1901",
+        "1903",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river forms the boundary between Texas and Mexico for approximately 1,250 miles?",
+      "choices": [
+        "Colorado River",
+        "Brazos River",
+        "Rio Grande",
+        "Nueces River"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Texas State Capitol building in Austin is constructed primarily from what type of stone?",
+      "choices": [
+        "Granite from Vermont",
+        "Pink granite from Burnet County",
+        "Limestone from the Hill Country",
+        "Marble from Italy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which general commanded the Mexican forces at the Battle of the Alamo in 1836?",
+      "choices": [
+        "Antonio López de Santa Anna",
+        "Mariano Arista",
+        "Juan Pablo Ampudia",
+        "Nicolás Bravo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dr Pepper was first manufactured in what Texas city in 1885?",
+      "choices": [
+        "Galveston",
+        "Waco",
+        "San Antonio",
+        "Dallas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Balcones Escarpment fault system in Central Texas marks the boundary between which two major geological regions?",
+      "choices": [
+        "The Coastal Plain and the Great Plains",
+        "The Edwards Plateau and the Gulf Coastal Plain",
+        "The Llano Uplift and the Chisos Mountains",
+        "The Permian Basin and the Marfa Plateau"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1861, which Texas governor refused to take the oath of allegiance to the Confederacy and was subsequently removed from office?",
+      "choices": [
+        "Oran M. Roberts",
+        "Sam Houston",
+        "Francis R. Lubbock",
+        "Hardin R. Runnels"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Guadalupe Hidalgo, which ended the Mexican-American War, was signed in what year?",
+      "choices": [
+        "1845",
+        "1846",
+        "1848",
+        "1850"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas-based computer company was founded by Michael Dell in 1984?",
+      "choices": [
+        "Compaq",
+        "Texas Instruments",
+        "Dell Technologies",
+        "Tandy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bracken Cave in Comal County is notable for housing which species in numbers exceeding 10 million?",
+      "choices": [
+        "Armadillos",
+        "Mexican free-tailed bats",
+        "Rattlesnakes",
+        "Prairie dogs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The word 'Texas' is derived from the Caddo word 'tejas,' which means what?",
+      "choices": [
+        "Great leaders",
+        "Friends",
+        "Land of plenty",
+        "People of the north"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas city hosted the 1937 Pan American Exposition and later became known for its aerospace industry?",
+      "choices": [
+        "Houston",
+        "San Antonio",
+        "Corpus Christi",
+        "Fort Worth"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The King Ranch in South Texas, established in 1853, spans approximately how many acres?",
+      "choices": [
+        "500,000 acres",
+        "825,000 acres",
+        "1.2 million acres",
+        "1.8 million acres"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Big Bend National Park is located in which region of Texas?",
+      "choices": [
+        "East Texas",
+        "South Texas",
+        "West Texas",
+        "Central Texas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Texas officially secede from the United States to join the Confederate States?",
+      "choices": [
+        "1859",
+        "1860",
+        "1861",
+        "1862"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Battle of San Jacinto, which secured Texian independence from Mexico, occurred in what year?",
+      "choices": [
+        "1834",
+        "1835",
+        "1836",
+        "1837"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas city served as the first capital of the Republic of Texas from 1839 to 1842?",
+      "choices": [
+        "Houston",
+        "Galveston",
+        "Washington-on-Brazos",
+        "San Felipe de Austin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Caddo Lake ecosystem, shared between Texas and Louisiana, is dominated by which tree species?",
+      "choices": [
+        "Longleaf pine",
+        "Bald cypress",
+        "Live oak",
+        "Sweetgum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas-born aviator was the first person to fly solo nonstop across the Atlantic Ocean?",
+      "choices": [
+        "Wiley Post",
+        "Charles Lindbergh",
+        "Jackie Cochran",
+        "Orville Wright"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Marfa Lights, unexplained phenomena occurring in West Texas, have been documented since approximately what time period?",
+      "choices": [
+        "The 1850s",
+        "The 1920s",
+        "The 1950s",
+        "The 1980s"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Spindletop oil gusher near Beaumont fundamentally transform Texas's economy?",
+      "choices": [
+        "1898",
+        "1901",
+        "1905",
+        "1909"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Mexican general commanded forces at the Battle of the Alamo in 1836?",
+      "choices": [
+        "Vicente Filisola",
+        "Antonio López de Santa Anna",
+        "Juan Pablo Anaya",
+        "Mariano Arista"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the total number of counties in Texas?",
+      "choices": [
+        "234",
+        "254",
+        "287",
+        "312"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Battle of San Jacinto in 1836 lasted approximately how long?",
+      "choices": [
+        "18 minutes",
+        "45 minutes",
+        "2 hours",
+        "6 hours"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river forms the natural boundary between Texas and Mexico for much of its length?",
+      "choices": [
+        "Brazos River",
+        "Colorado River",
+        "Rio Grande",
+        "Nueces River"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sam Houston served as the first president of the Republic of Texas. In what year did he assume office?",
+      "choices": [
+        "1835",
+        "1836",
+        "1837",
+        "1839"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Balcones Escarpment creates a significant geographical and ecological divide in Texas. Which region does it generally separate from the rest of the state?",
+      "choices": [
+        "The Panhandle from East Texas",
+        "Central Texas from the coastal plains",
+        "West Texas from the Permian Basin",
+        "South Texas from the Rio Grande Valley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas city became the headquarters for the Texas oil industry during the early 20th century petroleum boom?",
+      "choices": [
+        "Dallas",
+        "Fort Worth",
+        "Beaumont",
+        "Houston"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The King Ranch, one of the largest ranches in the world by area, is located in which region of Texas?",
+      "choices": [
+        "West Texas",
+        "South Texas",
+        "North Texas",
+        "East Texas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official state bird of Texas?",
+      "choices": [
+        "Greater Roadrunner",
+        "Northern Mockingbird",
+        "Golden Eagle",
+        "Wild Turkey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Texas secede from the United States and join the Confederate States of America?",
+      "choices": [
+        "1860",
+        "1861",
+        "1862",
+        "1863"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major fault line runs through Central Texas and is responsible for the region's distinctive topography?",
+      "choices": [
+        "San Andreas Fault",
+        "Balcones Fault",
+        "Llano Uplift Fault",
+        "Edwards Plateau Fault"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Texas Declaration of Independence was signed on what date in 1836?",
+      "choices": [
+        "February 23",
+        "March 2",
+        "April 21",
+        "May 14"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which state borders Texas to the west?",
+      "choices": [
+        "Oklahoma",
+        "Arkansas",
+        "New Mexico",
+        "Colorado"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official state tree of Texas?",
+      "choices": [
+        "Live Oak",
+        "Pecan",
+        "Mesquite",
+        "Cottonwood"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas city served as the capital of the Republic of Texas before Austin assumed the role?",
+      "choices": [
+        "Houston",
+        "Washington-on-Brazos",
+        "Nacogdoches",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the University of Texas at Austin founded?",
+      "choices": [
+        "1871",
+        "1883",
+        "1895",
+        "1912"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Texas Horned Lizard, designated as the state reptile, feeds primarily on which insect?",
+      "choices": [
+        "Grasshoppers",
+        "Ants",
+        "Beetles",
+        "Crickets"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major Texas city is located at the confluence of the Colorado and Brazos Rivers?",
+      "choices": [
+        "Austin",
+        "Waco",
+        "Houston",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the Battle of the Alamo, approximately how many defenders held the mission against Mexican forces?",
+      "choices": [
+        "150",
+        "200",
+        "300",
+        "400"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Texas achieve independence from Mexico, establishing the Republic of Texas?",
+      "choices": [
+        "1833",
+        "1836",
+        "1841",
+        "1845"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which general led the Mexican forces at the Battle of the Alamo in 1836?",
+      "choices": [
+        "Guadalupe Victoria",
+        "Antonio López de Santa Anna",
+        "Mariano Arista",
+        "Juan Pablo Anaya"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The King Ranch, one of the largest ranches in Texas, spans approximately how many square miles?",
+      "choices": [
+        "1,289 square miles",
+        "825 square miles",
+        "2,100 square miles",
+        "650 square miles"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river forms the international boundary between Texas and Mexico for much of its course?",
+      "choices": [
+        "Brazos River",
+        "Colorado River",
+        "Rio Grande",
+        "Nueces River"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the capital of the Republic of Texas before Texas joined the United States?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "Washington-on-Brazos",
+        "San Felipe de Austin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tree species, native to Texas and valued for its nuts, is the official state tree?",
+      "choices": [
+        "Texas Live Oak",
+        "Pecan",
+        "Longleaf Pine",
+        "Mesquite"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what Texas city was Dr Pepper, the soft drink brand, first created in 1885?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "Waco",
+        "San Antonio"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Texas Declaration of Independence was signed in which town in 1836?",
+      "choices": [
+        "San Antonio",
+        "Washington-on-Brazos",
+        "Gonzales",
+        "Goliad"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which battle in 1836 resulted in a decisive Texian victory and effectively secured Texas independence?",
+      "choices": [
+        "Battle of Gonzales",
+        "Battle of the Alamo",
+        "Battle of San Jacinto",
+        "Siege of Béxar"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many years did the Republic of Texas exist as an independent nation before annexation by the United States?",
+      "choices": [
+        "7 years",
+        "9 years",
+        "12 years",
+        "15 years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas county is home to the largest proven oil reserves in the state?",
+      "choices": [
+        "Harris County",
+        "Grayson County",
+        "Permian Basin counties",
+        "Brazoria County"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Brazos River, one of Texas's most significant waterways, originates in which region?",
+      "choices": [
+        "The Panhandle",
+        "The Edwards Plateau",
+        "East Texas forests",
+        "South Texas brush country"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which indigenous group held significant power in Texas before European colonization?",
+      "choices": [
+        "Comanche",
+        "Cherokee",
+        "Sioux",
+        "Apache"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Stephen F. Austin, known as the 'Father of Texas,' established his first colonial settlement in what year?",
+      "choices": [
+        "1815",
+        "1821",
+        "1825",
+        "1830"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Caddo people in East Texas were historically known for which agricultural practice?",
+      "choices": [
+        "Cattle ranching",
+        "Corn cultivation",
+        "Cotton farming",
+        "Pecan harvesting"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Texas secede from the Union to join the Confederate States?",
+      "choices": [
+        "1859",
+        "1860",
+        "1861",
+        "1862"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The state mammal of Texas, the Longhorn cattle breed, was developed from which ancestral stock?",
+      "choices": [
+        "English Hereford cattle",
+        "Spanish colonial cattle",
+        "Brahman cattle",
+        "Scottish Highland cattle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas city served as the capital of the state from 1839 onwards?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "Galveston",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Texas State Fair, held annually in Dallas since what year, is one of the largest in the nation?",
+      "choices": [
+        "1886",
+        "1893",
+        "1901",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mountain range, the highest in Texas, is located in the western part of the state?",
+      "choices": [
+        "Davis Mountains",
+        "Guadalupe Mountains",
+        "Chinati Mountains",
+        "Sierra Blanca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Battle of San Jacinto occur, resulting in Texas's decisive victory over Mexican forces and effectively securing Texan independence?",
+      "choices": [
+        "1834",
+        "1835",
+        "1836",
+        "1837"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Texas city served as the capital of the Republic of Texas from 1839 onwards, before Texas achieved statehood?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "San Antonio",
+        "Galveston"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The King Ranch, one of the largest ranches in Texas, spans approximately how many acres?",
+      "choices": [
+        "525,000 acres",
+        "650,000 acres",
+        "825,000 acres",
+        "950,000 acres"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Texas secede from the United States, formally joining the Confederate States of America?",
+      "choices": [
+        "1859",
+        "1860",
+        "1861",
+        "1862"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Texas ratify its current state constitution, which replaced the Reconstruction-era document?",
+      "choices": [
+        "1876",
+        "1891",
+        "1868",
+        "1883"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Texas was admitted to the U.S. as the 28th state in which year?",
+      "choices": [
+        "1836",
+        "1845",
+        "1850",
+        "1861"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before joining the Union, Texas existed for nearly a decade as what?",
+      "choices": [
+        "A Mexican province",
+        "An independent Republic of Texas",
+        "A British protectorate",
+        "A Spanish crown colony"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texian general led the army to victory at the Battle of San Jacinto and later served as the Republic's first president?",
+      "choices": [
+        "Sam Houston",
+        "Stephen F. Austin",
+        "William B. Travis",
+        "Davy Crockett"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Texas's official state flower?",
+      "choices": [
+        "Yellow rose",
+        "Bluebonnet",
+        "Prickly pear blossom",
+        "Indian paintbrush"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city is home to the Space Center and served as the historic NASA Mission Control?",
+      "choices": [
+        "Houston",
+        "Galveston",
+        "Austin",
+        "Corpus Christi"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major river forms Texas's border with Mexico?",
+      "choices": [
+        "Red River",
+        "Rio Grande",
+        "Pecos River",
+        "Brazos River"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which other river forms much of Texas's border with Oklahoma?",
+      "choices": [
+        "Red River",
+        "Arkansas River",
+        "Trinity River",
+        "Canadian River"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas national park, in the state's southwest, features canyons, desert, and the Rio Grande?",
+      "choices": [
+        "Guadalupe Mountains",
+        "Big Bend",
+        "Padre Island",
+        "Chamizal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many counties are there in Texas (the most of any state)?",
+      "choices": [
+        "159",
+        "204",
+        "254",
+        "287"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Texas's state motto is a single word. What is it?",
+      "choices": [
+        "Freedom",
+        "Liberty",
+        "Valor",
+        "Friendship"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Texas is a major producer of which resource that flourished starting with the 1901 Spindletop gusher?",
+      "choices": [
+        "Coal",
+        "Gold",
+        "Petroleum (oil)",
+        "Silver"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mexican general led forces against Texas during the fight for independence?",
+      "choices": [
+        "Benito Juárez",
+        "Antonio López de Santa Anna",
+        "Miguel Hidalgo",
+        "Pancho Villa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did the Spindletop oil discovery occur near Beaumont, Texas?",
+      "choices": [
+        "1895",
+        "1901",
+        "1909",
+        "1915"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state was annexed by the United States in 1845, bringing Texas into the Union?",
+      "choices": [
+        "Republic of Texas",
+        "Mexican Territory",
+        "Lone Star Nation",
+        "Republic of the Rio Grande"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The King Ranch in Texas is primarily known for raising which type of livestock?",
+      "choices": [
+        "Sheep",
+        "Cattle",
+        "Horses",
+        "Bison"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What wildflower is the official state flower of Texas?",
+      "choices": [
+        "Indian Paintbrush",
+        "Bluebonnet",
+        "Black-eyed Susan",
+        "Lupine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city hosted the first rodeo to be called the 'World's Largest Rodeo'?",
+      "choices": [
+        "Fort Worth",
+        "San Antonio",
+        "Houston",
+        "Amarillo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Texas became an independent nation in 1836. How many years did the Republic of Texas exist before annexation?",
+      "choices": [
+        "7 years",
+        "9 years",
+        "11 years",
+        "15 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which war between the United States and Mexico lasted from 1846 to 1848 and significantly affected Texas?",
+      "choices": [
+        "Texas Revolution",
+        "Mexican-American War",
+        "War of Texas Independence",
+        "Rio Grande Conflict"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bracken Cave near San Antonio is famous for hosting millions of what each night?",
+      "choices": [
+        "Swallows",
+        "Bats",
+        "Fireflies",
+        "Mosquitoes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major Texas city has the largest land area of any city in the state?",
+      "choices": [
+        "Dallas",
+        "San Antonio",
+        "Houston",
+        "Austin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Texas state flag features a single star on a blue field. What is this flag's official name?",
+      "choices": [
+        "Lone Star Flag",
+        "Texas Star Banner",
+        "Single Star Standard",
+        "Blue Lone Star"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which technology-focused industry has become increasingly important to Texas's modern economy alongside traditional oil?",
+      "choices": [
+        "Pharmaceutical manufacturing",
+        "Technology and software",
+        "Automotive production",
+        "Film production"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What agricultural product made Texas one of the leading producers in the United States during the 19th and early 20th centuries?",
+      "choices": [
+        "Wheat",
+        "Cotton",
+        "Corn",
+        "Sugarcane"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which iconic Texas breed of cattle is known for its exceptionally long horns?",
+      "choices": [
+        "Brahman",
+        "Texas Longhorn",
+        "Hereford",
+        "Angus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Dallas State Fair of Texas, held annually, is known for introducing deep-fried versions of which type of food?",
+      "choices": [
+        "Vegetables",
+        "Everything",
+        "Seafood",
+        "Desserts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which general commanded the Texas forces at the Battle of San Jacinto in 1836?",
+      "choices": [
+        "Mirabeau Lamar",
+        "Sam Houston",
+        "Stephen F. Austin",
+        "James Fannin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the oil gusher that sparked the Texas oil boom in 1901?",
+      "choices": [
+        "Gusher One",
+        "Spindletop",
+        "Petrolina",
+        "Black Gold Strike"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Texas's rank by land area among all U.S. states?",
+      "choices": [
+        "First",
+        "Second",
+        "Third",
+        "Fourth"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous soft drink was first bottled in Waco, Texas in 1885?",
+      "choices": [
+        "Coca-Cola",
+        "Dr Pepper",
+        "Texas Root Beer",
+        "Lone Star Cola"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major industry contributed most to Texas's economic growth in the early 20th century?",
+      "choices": [
+        "Cotton farming",
+        "Cattle ranching",
+        "Oil extraction",
+        "Shipping"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most populous city in Texas?",
+      "choices": [
+        "Dallas",
+        "Austin",
+        "San Antonio",
+        "Houston"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these rivers does NOT run through Texas?",
+      "choices": [
+        "Brazos River",
+        "Neches River",
+        "Colorado River",
+        "Platte River"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city is known as the center of the U.S. aerospace industry?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "Fort Worth",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary crop that historically made Texas famous for agricultural production?",
+      "choices": [
+        "Wheat",
+        "Corn",
+        "Cotton",
+        "Rice"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mexican general led forces against Texas during the 1836 Revolution?",
+      "choices": [
+        "Benito Juárez",
+        "Antonio López de Santa Anna",
+        "Guadalupe Victoria",
+        "Mariano Arista"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary document that announced Texas's separation from Mexico in 1836?",
+      "choices": [
+        "Texas Constitution",
+        "Republic Charter",
+        "Texas Declaration of Independence",
+        "Lone Star Proclamation"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many major rivers flow across the state of Texas?",
+      "choices": [
+        "8",
+        "12",
+        "15",
+        "18"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which state ranks second only to Texas in land area within the United States?",
+      "choices": [
+        "California",
+        "Montana",
+        "Alaska",
+        "New Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the colors of the Texas state flag?",
+      "choices": [
+        "Red, white, and blue",
+        "Orange and white",
+        "White, blue, and gold",
+        "Red and white"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city is home to the world's largest annual rodeo?",
+      "choices": [
+        "Fort Worth",
+        "Houston",
+        "Austin",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the single star on the Texas flag traditionally represent?",
+      "choices": [
+        "The Republic of Texas",
+        "Independence and freedom",
+        "The first settlement",
+        "The state's dominance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city is home to the Congress Avenue Bridge bat colony, one of the largest urban bat populations in North America?",
+      "choices": [
+        "San Antonio",
+        "Austin",
+        "Houston",
+        "Fort Worth"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sam Houston served as both a military leader and president of which entity before Texas became a U.S. state?",
+      "choices": [
+        "The Texas Territory",
+        "The Republic of Texas",
+        "The Texas Confederacy",
+        "The Texas Colony"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many times larger is Texas than Rhode Island in total area?",
+      "choices": [
+        "75 times",
+        "100 times",
+        "125 times",
+        "150 times"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major economic sector has historically been the largest driver of Texas's wealth and development?",
+      "choices": [
+        "Agriculture and cotton",
+        "Oil and natural gas",
+        "Manufacturing",
+        "Technology and finance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas governor famously refused to swear allegiance to the Confederacy and opposed secession in 1861?",
+      "choices": [
+        "James S. Hogg",
+        "Sam Houston",
+        "Oran M. Roberts",
+        "Richard Coke"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Texas State Capitol building in Austin is taller than which other famous capitol building?",
+      "choices": [
+        "New York State Capitol",
+        "U.S. Capitol Building",
+        "California State Capitol",
+        "Florida State Capitol"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city earned the nickname 'Space City' due to its significant role in the aerospace industry?",
+      "choices": [
+        "Dallas",
+        "Houston",
+        "Fort Worth",
+        "San Antonio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What breed of cattle, known for its extremely long horns, is iconic to Texas ranching culture?",
+      "choices": [
+        "Angus cattle",
+        "Hereford cattle",
+        "Texas Longhorn",
+        "Brahman cattle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Texas secede from the United States and join the Confederacy?",
+      "choices": [
+        "1860",
+        "1861",
+        "1862",
+        "1865"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which treaty signed in 1848 formally ended the Mexican-American War and confirmed Texas as part of the United States?",
+      "choices": [
+        "Treaty of Velasco",
+        "Treaty of Paris",
+        "Treaty of Guadalupe Hidalgo",
+        "Treaty of Tehuantepec"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state borders Texas to the north?",
+      "choices": [
+        "Colorado",
+        "Oklahoma",
+        "Arkansas",
+        "Louisiana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Austin is widely known as the 'Live Music Capital of the World' and hosts which major annual music festival featuring multiple venues?",
+      "choices": [
+        "South by Southwest (SXSW)",
+        "Austin City Limits Festival",
+        "Lollapalooza",
+        "Outside Lands Music Festival"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city hosts the annual State Fair of Texas, famous for its fried foods and the iconic ferris wheel?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "Dallas",
+        "San Antonio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official state reptile of Texas, a small lizard known for its distinctive crown of horns?",
+      "choices": [
+        "Texas Rattlesnake",
+        "Texas Horned Lizard",
+        "Texas Gila Monster",
+        "Texas Fence Lizard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Texas city is considered the historic epicenter of the Texas Revolution and contains the Alamo?",
+      "choices": [
+        "Houston",
+        "Austin",
+        "San Antonio",
+        "Goliad"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Spindletop oil discovery near Beaumont trigger the beginning of Texas's oil boom?",
+      "choices": [
+        "1895",
+        "1901",
+        "1912",
+        "1920"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

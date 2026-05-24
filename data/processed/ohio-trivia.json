@@ -1,289 +1,2229 @@
 {
   "slug": "ohio-trivia",
   "name": "Ohio",
-  "description": "The Buckeye State — its presidents, cities, sports, and quirks.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.667Z",
   "questions": [
     {
-      "q": "What is the capital of Ohio?",
-      "choices": ["Cleveland", "Cincinnati", "Columbus", "Toledo"],
-      "correct": 2,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Columbus",
-        "verified": true,
-        "notes": "Also Ohio's most populous city."
-      }
-    },
-    {
-      "q": "What is Ohio's official nickname?",
-      "choices": ["The Hoosier State", "The Buckeye State", "The Great Lakes State", "The Keystone State"],
-      "correct": 1,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The Buckeye State",
-        "verified": true,
-        "notes": "Named after the abundance of Ohio buckeye trees (Aesculus glabra)."
-      }
-    },
-    {
-      "q": "In what year was Ohio admitted as the 17th U.S. state?",
-      "choices": ["1789", "1803", "1812", "1820"],
-      "correct": 1,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1803",
-        "verified": true,
-        "notes": "First state from the Northwest Territory."
-      }
-    },
-    {
-      "q": "Which famous brothers — born/raised in Dayton, Ohio — invented the first powered airplane?",
+      "q": "What is the capital city of Ohio?",
       "choices": [
-        "The Wright Brothers",
-        "The Marx Brothers",
-        "The Spielberg Brothers",
-        "The Ford Brothers"
+        "Cleveland",
+        "Columbus",
+        "Cincinnati",
+        "Akron"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Ohio's state nickname?",
+      "choices": [
+        "The Buckeye State",
+        "The Scarlet State",
+        "The Industrial State",
+        "The Rustbelt State"
       ],
       "correct": 0,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Wright Brothers National Museum",
-        "verified": true,
-        "notes": "Wilbur and Orville Wright, owners of a Dayton bicycle shop."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Ohio city hosts the Pro Football Hall of Fame?",
-      "choices": ["Cleveland", "Akron", "Canton", "Toledo"],
+      "q": "In what year did Ohio become a U.S. state?",
+      "choices": [
+        "1775",
+        "1796",
+        "1803",
+        "1820"
+      ],
       "correct": 2,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Canton",
-        "verified": true,
-        "notes": "Located in Canton because the NFL was founded there in 1920."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is home to the Pro Football Hall of Fame?",
+      "choices": [
+        "Cleveland",
+        "Canton",
+        "Cincinnati",
+        "Dayton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous amusement park is located on Lake Erie in Ohio?",
+      "choices": [
+        "Kings Island",
+        "Cedar Point",
+        "Kennywood",
+        "Dorney Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Wright Brothers, pioneers of aviation, were from which Ohio city?",
+      "choices": [
+        "Akron",
+        "Columbus",
+        "Dayton",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city in Ohio is known as the 'Rubber Capital of the World'?",
+      "choices": [
+        "Youngstown",
+        "Akron",
+        "Lima",
+        "Mansfield"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many states does Ohio share a border with?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city served as a major hub on the Underground Railroad?",
+      "choices": [
+        "Columbus",
+        "Cincinnati",
+        "Cleveland",
+        "Dayton"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Ohio's most populous city?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Columbus",
+        "Akron"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city was the National Football League officially founded in 1920?",
+      "choices": [
+        "Cleveland",
+        "Columbus",
+        "Canton",
+        "Cincinnati"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. president from Ohio is honored with a presidential library in Canton?",
+      "choices": [
+        "William McKinley",
+        "Warren G. Harding",
+        "Rutherford B. Hayes",
+        "William Henry Harrison"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What unusual structure in Newark, Ohio, is recognized as the world's largest basket?",
+      "choices": [
+        "The Longaberger Basket Building",
+        "The Wicker Warehouse",
+        "The Basket Museum",
+        "The Ohio Basket Tower"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous Civil War general and U.S. president was from Ohio?",
+      "choices": [
+        "William Tecumseh Sherman",
+        "George B. McClellan",
+        "Ulysses S. Grant",
+        "Benjamin Harrison"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ohio ranks approximately seventh in the United States by what economic measure?",
+      "choices": [
+        "Population",
+        "Gross Domestic Product",
+        "Average Income",
+        "Manufacturing Output"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city served as a major center for the American steel industry?",
+      "choices": [
+        "Columbus",
+        "Youngstown",
+        "Cleveland",
+        "Akron"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major shipping route does Ohio gain access to through the Great Lakes?",
+      "choices": [
+        "The Erie Canal",
+        "The St. Lawrence Seaway",
+        "The Ohio River",
+        "The Mississippi River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous actor, best known for 'Gone with the Wind,' was born in Ohio?",
+      "choices": [
+        "James Dean",
+        "Clark Gable",
+        "Cary Grant",
+        "Bing Crosby"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "From which U.S. territory was Ohio the first state to be admitted?",
+      "choices": [
+        "The Louisiana Territory",
+        "The Northwest Territory",
+        "The Indiana Territory",
+        "The Michigan Territory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital and most populous city of Ohio?",
+      "choices": [
+        "Cleveland",
+        "Columbus",
+        "Cincinnati",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ohio is commonly known by what state nickname?",
+      "choices": [
+        "The Buckeye State",
+        "The Rust Belt State",
+        "The Great Lakes State",
+        "The Scarlet State"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river forms Ohio's southern border with Kentucky?",
+      "choices": [
+        "Scioto River",
+        "Maumee River",
+        "Ohio River",
+        "Miami River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major amusement park is located in northern Ohio near Lake Erie?",
+      "choices": [
+        "Kings Island",
+        "Cedar Point",
+        "Dorney Park",
+        "Kennywood"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Ohio city is the Pro Football Hall of Fame located?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Canton",
+        "Akron"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is home to the NFL team known as the Bengals?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Columbus",
+        "Canton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the river that flows through Columbus?",
+      "choices": [
+        "Maumee River",
+        "Miami River",
+        "Scioto River",
+        "Mahoning River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ohio's economy ranks as the seventh-largest economy in which country?",
+      "choices": [
+        "North America",
+        "Canada",
+        "The United States",
+        "The European Union"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is known for manufacturing steel and served as an industrial hub in the 20th century?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Akron",
+        "Youngstown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the shape of Ohio's state flag, unique among U.S. state flags?",
+      "choices": [
+        "Circular",
+        "Swallowtail",
+        "Square",
+        "Pentagon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what Ohio city was astronaut Neil Armstrong born?",
+      "choices": [
+        "Cleveland",
+        "Dayton",
+        "Wapakoneta",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is home to the Wright Brothers National Museum?",
+      "choices": [
+        "Cleveland",
+        "Dayton",
+        "Cincinnati",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the world's largest basket located in?",
+      "choices": [
+        "Canton",
+        "Newark",
+        "Marietta",
+        "Zanesville"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many of Ohio's largest cities begin with the letter 'C'?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major interstate highway runs through central Ohio as a major transportation corridor?",
+      "choices": [
+        "Interstate 75",
+        "Interstate 70",
+        "Interstate 80",
+        "Interstate 90"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ohio was the first state to be admitted from which U.S. territory?",
+      "choices": [
+        "The Louisiana Territory",
+        "The Northwest Territory",
+        "The Ohio Territory",
+        "The Michigan Territory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Great Lakes shipping route does Ohio's geography provide access to?",
+      "choices": [
+        "The Great Lakes Canal",
+        "The St. Lawrence Seaway",
+        "The Erie Canal",
+        "The Ohio Canal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Cleveland played a significant role in which historical movement due to its Lake Erie location?",
+      "choices": [
+        "The Industrial Revolution",
+        "The Underground Railroad",
+        "The Gold Rush",
+        "Westward Expansion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous Civil War general, born in Ohio, later became President of the United States?",
+      "choices": [
+        "William Tecumseh Sherman",
+        "Ulysses S. Grant",
+        "James Garfield",
+        "Benjamin Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Ohio become the 17th state of the United States?",
+      "choices": [
+        "1801",
+        "1803",
+        "1805",
+        "1807"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river forms Ohio's border with Kentucky?",
+      "choices": [
+        "Scioto River",
+        "Maumee River",
+        "Ohio River",
+        "Miami River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname is Ohio known by, referring to native trees?",
+      "choices": [
+        "The Maple State",
+        "The Buckeye State",
+        "The Oak State",
+        "The Pine State"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major amusement park is located in Sandusky, Ohio?",
+      "choices": [
+        "Kings Dominion",
+        "Cedar Point",
+        "Kennywood",
+        "Dorney Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Wright Brothers are honored at which national museum in Dayton?",
+      "choices": [
+        "National Air and Space Museum",
+        "Wright Brothers National Museum",
+        "National Aviation Hall of Fame",
+        "Air Force Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "Which Ohio city is known as the 'Rubber Capital of the World'?",
-      "choices": ["Akron", "Cleveland", "Toledo", "Columbus"],
-      "correct": 0,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Akron",
-        "verified": true,
-        "notes": "Home to Goodyear, Firestone, and other tire giants."
-      }
-    },
-    {
-      "q": "Which Ohio city, sitting on Lake Erie, hosts the Rock & Roll Hall of Fame?",
-      "choices": ["Cleveland", "Cincinnati", "Toledo", "Sandusky"],
-      "correct": 0,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "Designed by I.M. Pei; opened in 1995."
-      }
-    },
-    {
-      "q": "What is unique about Ohio's state flag, adopted in 1902?",
       "choices": [
-        "Has only two colors",
-        "Is the only non-rectangular U.S. state flag (swallowtail/burgee)",
-        "Has 50 stars",
-        "Is shaped like a pentagon"
+        "Toledo",
+        "Akron",
+        "Youngstown",
+        "Warren"
       ],
       "correct": 1,
-      "category": "Ohio",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Swallowtail",
-        "verified": true,
-        "notes": "Designed by John Eisenmann."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Approximately how many U.S. presidents were born in Ohio (often called 'Mother of Presidents')?",
-      "choices": ["3", "5", "7", "9"],
-      "correct": 2,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Seven United States presidents",
-        "verified": true,
-        "notes": "Grant, Hayes, Garfield, B. Harrison, McKinley, Taft, Harding (8 if you count W. Harrison who lived in OH)."
-      }
-    },
-    {
-      "q": "Which U.S. president — Ohio's most prominent Civil War general — was born in Point Pleasant, Ohio?",
+      "q": "What is the most populous city in Ohio?",
       "choices": [
-        "Rutherford B. Hayes",
-        "Ulysses S. Grant",
+        "Cleveland",
+        "Cincinnati",
+        "Columbus",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous actor from Ohio starred in 'Gone with the Wind'?",
+      "choices": [
+        "Jimmy Stewart",
+        "Clark Gable",
+        "James Dean",
+        "Paul Newman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What river flows through Columbus, the state capital?",
+      "choices": [
+        "Ohio River",
+        "Maumee River",
+        "Scioto River",
+        "Miami River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is renowned for its connection to the birth of rock and roll music?",
+      "choices": [
+        "Cincinnati",
+        "Dayton",
+        "Cleveland",
+        "Akron"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous film director, known for 'Jaws,' was born in New Jersey but spent formative years in Ohio?",
+      "choices": [
+        "George Lucas",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Francis Ford Coppola"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Fortune 500 company, known for consumer products, is headquartered in Cincinnati?",
+      "choices": [
+        "Johnson & Johnson",
+        "Procter & Gamble",
+        "Colgate-Palmolive",
+        "Unilever"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The National Museum of the United States Air Force is located in which Ohio city?",
+      "choices": [
+        "Columbus",
+        "Cleveland",
+        "Dayton",
+        "Cincinnati"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What time zone does Ohio observe?",
+      "choices": [
+        "Central Time",
+        "Mountain Time",
+        "Eastern Time",
+        "Atlantic Time"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US president is honored at the William McKinley Presidential Library and Museum in Canton?",
+      "choices": [
         "James A. Garfield",
-        "William McKinley"
+        "William McKinley",
+        "Warren G. Harding",
+        "Benjamin Harrison"
       ],
       "correct": 1,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Point Pleasant, Ohio",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Ohio-born inventor created the phonograph and the practical incandescent light bulb?",
+      "q": "Ohio was the first state admitted from which territory?",
       "choices": [
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Alexander Graham Bell",
-        "George Westinghouse"
+        "Mississippi Territory",
+        "Northwest Territory",
+        "Indiana Territory",
+        "Michigan Territory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is famous for being the birthplace of the Wright Brothers and early aviation?",
+      "choices": [
+        "Cleveland",
+        "Dayton",
+        "Columbus",
+        "Cincinnati"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Ohio's official state nickname?",
+      "choices": [
+        "The Buckeye State",
+        "The Heartland State",
+        "The Great Lakes State",
+        "The Industrial State"
       ],
       "correct": 0,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "Born in Milan, Ohio in 1847."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Ohio's three biggest cities all start with the same letter. Which one?",
-      "choices": ["A", "C", "D", "T"],
-      "correct": 1,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Three (Columbus, Cleveland, Cincinnati)",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which Ohio city, on the Ohio River, is home to MLB's Reds and the NFL's Bengals?",
-      "choices": ["Cleveland", "Columbus", "Cincinnati", "Dayton"],
-      "correct": 2,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cincinnati",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which prestigious public university in Columbus is best known for its football program?",
+      "q": "Which Ohio city earned the nickname 'Rubber Capital' due to its tire and rubber manufacturing industry?",
       "choices": [
-        "Ohio University",
+        "Toledo",
+        "Akron",
+        "Youngstown",
+        "Canton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major river forms Ohio's southern border with Kentucky?",
+      "choices": [
+        "Scioto River",
+        "Muskingum River",
+        "Ohio River",
+        "Wabash River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous theme park, one of the largest in North America, is located in Ohio?",
+      "choices": [
+        "Kings Dominion",
+        "Cedar Point",
+        "Kennywood",
+        "Dorney Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "President William H. Taft, who was born in Ohio, later served in which major judicial position?",
+      "choices": [
+        "Governor of Ohio",
+        "Chief Justice of the Supreme Court",
+        "Mayor of Cincinnati",
+        "US Senator"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Ohio city is home to Procter & Gamble, a major Fortune 500 company?",
+      "choices": [
+        "Columbus",
+        "Cincinnati",
+        "Cleveland",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What unusual landmark in Newark, Ohio, is known as the world's largest basket?",
+      "choices": [
+        "The Longaberger Basket",
+        "The Woven Tower",
+        "The Giant Hamper",
+        "The Basket House"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major general who later became US President was born in Point Pleasant, Ohio?",
+      "choices": [
+        "William McKinley",
+        "Ulysses S. Grant",
+        "Benjamin Harrison",
+        "Rutherford B. Hayes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many United States presidents were born in Ohio?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river flows through Columbus, Ohio's state capital?",
+      "choices": [
+        "Ohio River",
+        "Scioto River",
+        "Muskingum River",
+        "Miami River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Ohio was the first state to be admitted to the Union from which territorial region?",
+      "choices": [
+        "The Louisiana Territory",
+        "The Northwest Territory",
+        "The Mississippi Territory",
+        "The Missouri Territory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Ohio become the 17th state admitted to the United States?",
+      "choices": [
+        "1795",
+        "1803",
+        "1812",
+        "1820"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Ohio's population first exceed one million residents?",
+      "choices": [
+        "1820",
+        "1830",
+        "1840",
+        "1850"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President from Ohio later served as Chief Justice of the Supreme Court?",
+      "choices": [
+        "William McKinley",
+        "William Howard Taft",
+        "James A. Garfield",
+        "Benjamin Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Longaberger Basket, recognized as the world's largest, is located in which Ohio city?",
+      "choices": [
+        "Newark",
+        "Zanesville",
+        "Cambridge",
+        "Marietta"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city earned the designation 'Rubber Capital of the World' due to its tire manufacturing industry?",
+      "choices": [
+        "Youngstown",
+        "Akron",
+        "Toledo",
+        "Lorain"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Canton, Ohio is most historically significant for hosting what major American institution?",
+      "choices": [
+        "The Rock and Roll Hall of Fame",
+        "The Pro Football Hall of Fame",
+        "The National Aviation Museum",
+        "The McKinley Presidential Library"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What influential music genre experienced a major resurgence and popularization in Cleveland during the 1950s?",
+      "choices": [
+        "Jazz",
+        "Country",
+        "Rock and Roll",
+        "Bluegrass"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Wright Brothers, pioneers of aviation, conducted much of their experimental work in which Ohio city?",
+      "choices": [
+        "Cleveland",
+        "Dayton",
+        "Columbus",
+        "Cincinnati"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many U.S. states share a border with Ohio?",
+      "choices": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Cincinnati-based corporation is one of the largest consumer goods manufacturers globally and has been headquartered in Ohio since its founding?",
+      "choices": [
+        "The Coca-Cola Company",
+        "Procter & Gamble",
+        "Johnson & Johnson",
+        "Nestlé"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what sequence did Ohio join the Union among the original thirteen states and their successors?",
+      "choices": [
+        "15th",
+        "16th",
+        "17th",
+        "18th"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city served as a crucial early hub for professional American football and hosted the sport's first professional franchise?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Canton",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary reason Ohio adopted the nickname 'The Buckeye State'?",
+      "choices": [
+        "A famous buckeye tree planted by settlers",
+        "The abundance of Ohio buckeye trees throughout the state",
+        "A buckeye-shaped geographical feature",
+        "A prominent buckeye in the state seal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cleveland Clinic is renowned internationally for advancing what field of medicine?",
+      "choices": [
+        "Pediatrics",
+        "Cardiac surgery and cardiovascular research",
+        "Oncology",
+        "Neurology"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city is home to the nation's largest soap and detergent manufacturing operations historically centered there?",
+      "choices": [
+        "Columbus",
+        "Cincinnati",
+        "Akron",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What rank does Ohio's economy hold among all U.S. state economies?",
+      "choices": [
+        "5th",
+        "7th",
+        "9th",
+        "11th"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ohio & Erie Canal, completed in 1825, primarily connected which two major Ohio cities?",
+      "choices": [
+        "Cincinnati and Cleveland",
+        "Columbus and Toledo",
+        "Cleveland and Portsmouth",
+        "Cincinnati and Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which famous Hollywood actor, known for his role in 'Gone with the Wind,' was born in Cadiz, Ohio?",
+      "choices": [
+        "James Stewart",
+        "Clark Gable",
+        "Spencer Tracy",
+        "Cary Grant"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What significant conflict in Ohio's history was part of the broader French and Indian War tensions of the 1760s?",
+      "choices": [
+        "Pontiac's War",
+        "Shawnee Rebellion",
+        "Battle of Fallen Timbers",
+        "Whiskey Rebellion"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio university, founded in 1809, is one of the oldest universities northwest of the Appalachian Mountains?",
+      "choices": [
         "Ohio State University",
-        "Oberlin College",
+        "Miami University",
+        "Case Western Reserve University",
         "University of Cincinnati"
       ],
       "correct": 1,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "The Buckeyes have won 8 college football national championships."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which NBA superstar was born in Akron, Ohio in 1984?",
+      "q": "The National Museum of the United States Air Force is located at which Ohio military installation?",
       "choices": [
-        "Stephen Curry",
-        "LeBron James",
-        "Kevin Durant",
-        "Magic Johnson"
+        "Wright-Patterson Air Force Base",
+        "Rickenbacker Air National Guard Base",
+        "Toledo Express Airport",
+        "Youngstown Air Reserve Station"
       ],
-      "correct": 1,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which famous Ohio-born astronaut was the first American to orbit Earth (1962)?",
-      "choices": [
-        "Neil Armstrong",
-        "John Glenn",
-        "Buzz Aldrin",
-        "Jim Lovell"
-      ],
-      "correct": 1,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "Born in Cambridge, Ohio. Later U.S. Senator. (Neil Armstrong was also Ohio-born — Wapakoneta.)"
-      }
-    },
-    {
-      "q": "Which Ohio-born NASA astronaut was the first person to walk on the Moon (1969)?",
-      "choices": ["Buzz Aldrin", "Neil Armstrong", "John Glenn", "Alan Shepard"],
-      "correct": 1,
-      "category": "Ohio",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "Born August 5, 1930 in Wapakoneta, Ohio."
-      }
-    },
-    {
-      "q": "Which 1995 baseball film starring Charlie Sheen was set with a fictional Ohio team called the Indians?",
-      "choices": ["Major League II", "The Sandlot", "Bull Durham", "A League of Their Own"],
       "correct": 0,
-      "category": "Ohio",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "Sequel to 'Major League' (1989); set in Cleveland."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which famous Ohio-born horror author wrote the Goosebumps series?",
+      "q": "In what year did Ohio officially adopt its distinctive burgee-shaped state flag?",
       "choices": [
-        "Stephen King",
-        "R.L. Stine",
-        "H.P. Lovecraft",
-        "Dean Koontz"
+        "1901",
+        "1902",
+        "1903",
+        "1905"
       ],
       "correct": 1,
-      "category": "Ohio",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "R.L. Stine",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: replaced contradictory book list (The Stand/Shining/It are Stephen King's, who is from Maine). R.L. Stine of 'Goosebumps' was born in Columbus, Ohio."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which lake forms Ohio's northern boundary?",
-      "choices": ["Lake Michigan", "Lake Erie", "Lake Huron", "Lake Ontario"],
+      "q": "Which Ohio city served as the headquarters of the Goodyear Tire and Rubber Company during its founding era?",
+      "choices": [
+        "Cleveland",
+        "Akron",
+        "Toledo",
+        "Youngstown"
+      ],
       "correct": 1,
-      "category": "Ohio",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ohio",
-        "verified": true,
-        "notes": "Cleveland and Toledo sit on its shore."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pro Football Hall of Fame, located in Canton, Ohio, was established in what year?",
+      "choices": [
+        "1955",
+        "1963",
+        "1965",
+        "1970"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President, born in Marion, Ohio, served only one term before his death in office?",
+      "choices": [
+        "James A. Garfield",
+        "Warren G. Harding",
+        "Benjamin Harrison",
+        "William McKinley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Wright Brothers conducted their first powered flight experiments in which Ohio city before moving to Kitty Hawk?",
+      "choices": [
+        "Cincinnati",
+        "Dayton",
+        "Columbus",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major Ohio city was the primary terminus for the Underground Railroad network operating in the northern Ohio region?",
+      "choices": [
+        "Columbus",
+        "Cleveland",
+        "Cincinnati",
+        "Akron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The National Museum of the United States Air Force, the world's largest military aviation museum, is located at which Ohio Air Force Base?",
+      "choices": [
+        "Wright-Patterson Air Force Base",
+        "Rickenbacker Air Force Base",
+        "Toledo Air Force Base",
+        "Columbus Air Force Base"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "General James A. Garfield, who served as both a U.S. general and president, represented which Ohio congressional district?",
+      "choices": [
+        "10th District",
+        "12th District",
+        "16th District",
+        "19th District"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cleveland Orchestra, renowned internationally, was founded in what year?",
+      "choices": [
+        "1918",
+        "1924",
+        "1931",
+        "1936"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ohio's position allows approximately what percentage of North America's total population to be reached within a single day's drive?",
+      "choices": [
+        "35%",
+        "40%",
+        "50%",
+        "60%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ohio River, which forms the state's southeastern border, is a major tributary of which larger river system?",
+      "choices": [
+        "The Missouri River",
+        "The Mississippi River",
+        "The Arkansas River",
+        "The Potomac River"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city was the birthplace of animator and filmmaker Walt Disney's competitor, who created the Felix the Cat character?",
+      "choices": [
+        "Toledo",
+        "Cincinnati",
+        "Cleveland",
+        "Youngstown"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Scioto River flows through Ohio's capital city before joining which major river?",
+      "choices": [
+        "The Ohio River",
+        "The Maumee River",
+        "The Wabash River",
+        "The Great Miami River"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ohio borders five states; which of the following is NOT one of them?",
+      "choices": [
+        "Michigan",
+        "Ontario",
+        "West Virginia",
+        "Pennsylvania"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Akron Beacon Journal, a major Ohio newspaper, has won how many Pulitzer Prizes throughout its history?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city was the site where the American Professional Football Association, precursor to the NFL, held its first organizational meeting in 1920?",
+      "choices": [
+        "Cleveland",
+        "Canton",
+        "Columbus",
+        "Cincinnati"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Cincinnati-based Kroger Company became one of the largest grocery retailers in America during which decade?",
+      "choices": [
+        "1880s",
+        "1920s",
+        "1950s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President, born in Point Pleasant, Ohio, later served as Union general during the Civil War?",
+      "choices": [
+        "Rutherford B. Hayes",
+        "Benjamin Harrison",
+        "Ulysses S. Grant",
+        "James A. Garfield"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Toledo Museum of Art, founded in 1901, houses one of the most significant collections of which art form?",
+      "choices": [
+        "Medieval tapestries",
+        "American glass art",
+        "Renaissance sculptures",
+        "Impressionist paintings"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ohio's ranking by Gross Domestic Product places it among the top ten economies in the United States. What is its approximate GDP ranking?",
+      "choices": [
+        "5th",
+        "7th",
+        "9th",
+        "12th"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was Ohio's distinctive burgee-shaped state flag officially adopted?",
+      "choices": [
+        "1902",
+        "1895",
+        "1910",
+        "1888"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Edward Tiffin, Ohio's first governor, previously served in what political position?",
+      "choices": [
+        "U.S. Senator from Ohio",
+        "Speaker of the Ohio House",
+        "U.S. Representative from Ohio",
+        "Mayor of Chillicothe"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city served as the temporary capital before Columbus was established as the permanent state capital?",
+      "choices": [
+        "Chillicothe",
+        "Cincinnati",
+        "Cleveland",
+        "Marietta"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Professional Football Hall of Fame was established in Canton in 1963. In what year did Canton host the first professional football championship game?",
+      "choices": [
+        "1920",
+        "1915",
+        "1910",
+        "1925"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "William McKinley, the Ohio-born president assassinated in 1901, was killed by an anarchist named what?",
+      "choices": [
+        "Leon Czolgosz",
+        "James Guiteau",
+        "Samuel Gompers",
+        "Alexander Berkman"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary reason the Wright Brothers chose Kitty Hawk, North Carolina for their aviation experiments rather than conducting tests in their native Ohio?",
+      "choices": [
+        "Consistent wind conditions and isolated terrain",
+        "Availability of industrial manufacturing",
+        "Proximity to military installations",
+        "Access to superior materials"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Akron, Ohio's 'Rubber Capital,' was home to which tire manufacturing company that became one of the largest in the world?",
+      "choices": [
+        "Goodyear",
+        "Firestone",
+        "Goodrich",
+        "Dunlop"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cincinnati-based Procter & Gamble was founded by William Procter and James Gamble in what year?",
+      "choices": [
+        "1837",
+        "1845",
+        "1852",
+        "1860"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Scioto River, which flows through Columbus, is a tributary of which major American river?",
+      "choices": [
+        "Ohio River",
+        "Mississippi River",
+        "Wabash River",
+        "Maumee River"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "William Howard Taft, who served as both U.S. President and Chief Justice, was born in what Ohio city?",
+      "choices": [
+        "Cincinnati",
+        "Columbus",
+        "Cleveland",
+        "Toledo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ulysses S. Grant was born in Point Pleasant, Ohio. In what year was he born?",
+      "choices": [
+        "1822",
+        "1820",
+        "1825",
+        "1828"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cleveland played a critical role in the Underground Railroad. What geographic feature made it strategically important for escape routes?",
+      "choices": [
+        "Its location on Lake Erie providing water routes to Canada",
+        "Proximity to Pennsylvania state border",
+        "Dense forest coverage",
+        "Multiple river crossings"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Toledo, Ohio became nationally known for its production of what material in the late 19th and early 20th centuries?",
+      "choices": [
+        "Glass",
+        "Steel",
+        "Rubber",
+        "Pottery"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Ohio River, not the Scioto River, forms Ohio's southern border with which state?",
+      "choices": [
+        "West Virginia",
+        "Kentucky",
+        "Pennsylvania",
+        "Indiana"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Clark Gable, famous for his role in Gone with the Wind, was born in what Ohio town in 1901?",
+      "choices": [
+        "Cadiz",
+        "Akron",
+        "Marion",
+        "Portsmouth"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cedar Point amusement park, one of the world's largest, is located on a peninsula in which Ohio lake?",
+      "choices": [
+        "Lake Erie",
+        "Grand Lake St. Marys",
+        "Indian Lake",
+        "Pymatuning Lake"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ohio's population exceeded one million residents by 1830, making it the third most populous state at that time. Which state ranked second?",
+      "choices": [
+        "Pennsylvania",
+        "New York",
+        "Virginia",
+        "North Carolina"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The buckeye tree, Ohio's official state tree, produces a seed that resembles what animal feature?",
+      "choices": [
+        "A deer's eye",
+        "A buck's antler",
+        "A squirrel's tail",
+        "A raven's claw"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ohio became the first state admitted from the Northwest Territory in 1803. Which future state was the second admitted from this territory?",
+      "choices": [
+        "Indiana",
+        "Illinois",
+        "Michigan",
+        "Wisconsin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the American Professional Football Association, the precursor to the NFL, hold its first organizational meeting in Canton, Ohio?",
+      "choices": [
+        "1920",
+        "1919",
+        "1921",
+        "1922"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was Ohio's distinctive swallowtail flag officially adopted as the state flag?",
+      "choices": [
+        "1902",
+        "1895",
+        "1910",
+        "1888"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Edward Tiffin, Ohio's first governor, served in what capacity in the U.S. government after his gubernatorial tenure?",
+      "choices": [
+        "U.S. Senator",
+        "U.S. Representative",
+        "Secretary of the Interior",
+        "Federal Judge"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pro Football Hall of Fame in Canton, Ohio, was established in which year?",
+      "choices": [
+        "1955",
+        "1963",
+        "1971",
+        "1948"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio-born inventor developed the first practical incandescent light bulb before relocating his laboratory?",
+      "choices": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Charles Brush",
+        "John Wesley Hyatt"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Glacial Lake Maumee, which covered much of northwestern Ohio, drained approximately how many years ago following the last Ice Age?",
+      "choices": [
+        "8,000 years ago",
+        "12,000 years ago",
+        "6,000 years ago",
+        "15,000 years ago"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ohio city served as the capital of the Northwest Territory before Columbus became the state capital?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Chillicothe",
+        "Marietta"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The William McKinley Presidential Library and Museum is located in which Ohio city?",
+      "choices": [
+        "Columbus",
+        "Canton",
+        "Niles",
+        "Cleveland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rock and Roll Hall of Fame, housed in Cleveland, was established in what year?",
+      "choices": [
+        "1983",
+        "1986",
+        "1993",
+        "1997"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Serpent Mound, an ancient earthwork in southern Ohio, was constructed by which Native American culture?",
+      "choices": [
+        "Adena culture",
+        "Mississippian culture",
+        "Erie tribe",
+        "Shawnee nation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ohio enter the Union as the 17th state?",
+      "choices": [
+        "1801",
+        "1803",
+        "1805",
+        "1807"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city served as the birthplace of the National Football League in 1920?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Canton",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rock and Roll Hall of Fame is located in which Ohio city?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Columbus",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major Ohio city earned its reputation as the 'Rubber Capital of the World' during the 20th century?",
+      "choices": [
+        "Dayton",
+        "Akron",
+        "Canton",
+        "Youngstown"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the river that forms Ohio's border with Kentucky to the south?",
+      "choices": [
+        "Scioto River",
+        "Muskingum River",
+        "Ohio River",
+        "Miami River"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio president also served as Chief Justice of the United States Supreme Court?",
+      "choices": [
+        "William McKinley",
+        "Warren G. Harding",
+        "William Howard Taft",
+        "James A. Garfield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cedar Point amusement park, one of the world's largest, sits on the shore of which Great Lake?",
+      "choices": [
+        "Lake Michigan",
+        "Lake Huron",
+        "Lake Ontario",
+        "Lake Erie"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city is known for its historic glassmaking industry and was once a major glass production center?",
+      "choices": [
+        "Akron",
+        "Toledo",
+        "Youngstown",
+        "Steubenville"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Cleveland Clinic is one of the nation's largest healthcare systems located in which Ohio city?",
+      "choices": [
+        "Columbus",
+        "Cincinnati",
+        "Cleveland",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many United States presidents have been born in Ohio?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city features the world's largest free-standing basket and is known for the Longaberger Company?",
+      "choices": [
+        "Dresden",
+        "Newark",
+        "Zanesville",
+        "Lancaster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Scioto River flows through which Ohio city, the state capital?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Columbus",
+        "Dayton"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was Ohio's distinctive flag officially adopted?",
+      "choices": [
+        "1900",
+        "1902",
+        "1905",
+        "1910"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city was home to the Wright Brothers and their pioneering aviation experiments?",
+      "choices": [
+        "Columbus",
+        "Toledo",
+        "Dayton",
+        "Cincinnati"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio is a historically significant producer of which energy resource that powered American industry?",
+      "choices": [
+        "Natural gas",
+        "Coal",
+        "Oil",
+        "Uranium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which professional sports team plays in Cincinnati and competes in the National Football League?",
+      "choices": [
+        "Browns",
+        "Bengals",
+        "Steelers",
+        "Titans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Columbus, Cleveland, and Cincinnati comprise how many of the most populous cities in Ohio?",
+      "choices": [
+        "All three of them",
+        "Two of them",
+        "Only one",
+        "None of them"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio ranks among the largest state economies in the United States at approximately what position?",
+      "choices": [
+        "Fourth",
+        "Sixth",
+        "Seventh",
+        "Ninth"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Ohio city was the National Football League officially founded in 1920?",
+      "choices": [
+        "Cleveland",
+        "Canton",
+        "Cincinnati",
+        "Columbus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Wright Brothers conducted their aviation experiments in which Ohio city?",
+      "choices": [
+        "Cleveland",
+        "Columbus",
+        "Dayton",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Akron, Ohio earned its nickname as the 'Rubber Capital' for its dominance in producing what product?",
+      "choices": [
+        "Automobile tires",
+        "Rubber bands",
+        "Latex gloves",
+        "Rubber tubing"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President, born in Point Pleasant, Ohio, served as a commanding general during the Civil War?",
+      "choices": [
+        "William McKinley",
+        "Ulysses S. Grant",
+        "James Garfield",
+        "Benjamin Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio became the 17th state admitted to the Union in what year?",
+      "choices": [
+        "1800",
+        "1803",
+        "1807",
+        "1812"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pro Football Hall of Fame is housed in which Ohio city?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Canton",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major Ohio city is positioned along the Ohio River and is home to the Bengals and Reds sports franchises?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Columbus",
+        "Dayton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official state capital and largest city of Ohio?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Columbus",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio's state flag is unique among U.S. state flags for being the only one shaped as what?",
+      "choices": [
+        "Circle",
+        "Triangle",
+        "Pennant",
+        "Star"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city served as the birthplace of President Warren G. Harding?",
+      "choices": [
+        "Marion",
+        "Alliance",
+        "Mansfield",
+        "Wooster"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Cleveland Clinic, one of the nation's premier healthcare institutions, is headquartered in which Ohio city?",
+      "choices": [
+        "Cincinnati",
+        "Columbus",
+        "Cleveland",
+        "Dayton"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What famous basket-shaped structure, located in Newark, Ohio, is recognized as the world's largest basket?",
+      "choices": [
+        "Longaberger Basket",
+        "Dresden Basket",
+        "Ohio Heritage Basket",
+        "Newark Monument Basket"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio's largest artificial lake, created during the canal era, is located in which region of the state?",
+      "choices": [
+        "Eastern Ohio",
+        "Northern Ohio",
+        "Western Ohio",
+        "Southern Ohio"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major interstate highway runs through central Ohio and serves as a critical transportation corridor across the state?",
+      "choices": [
+        "Interstate 75",
+        "Interstate 70",
+        "Interstate 77",
+        "Interstate 90"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Cleveland Museum of Art is housed in which major Ohio city?",
+      "choices": [
+        "Columbus",
+        "Cincinnati",
+        "Cleveland",
+        "Toledo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio's economy ranks as approximately the seventh-largest economy in which country?",
+      "choices": [
+        "North America",
+        "The Western Hemisphere",
+        "The United States",
+        "The World"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city is famous for being the birthplace of director Steven Spielberg?",
+      "choices": [
+        "Cleveland",
+        "Dayton",
+        "Cincinnati",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President William McKinley is honored at a presidential library and museum located in which Ohio city?",
+      "choices": [
+        "Niles",
+        "Canton",
+        "Akron",
+        "Salem"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Ohio city did Ulysses S. Grant spend his early childhood before becoming a Union general?",
+      "choices": [
+        "Georgetown",
+        "Point Pleasant",
+        "Clermont",
+        "Aberdeen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the NFL officially founded in Canton, Ohio?",
+      "choices": [
+        "1918",
+        "1920",
+        "1922",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city earned the nickname 'Rubber Capital of the World' due to its tire manufacturing industry?",
+      "choices": [
+        "Toledo",
+        "Akron",
+        "Youngstown",
+        "Dayton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What famous amusement park in Ohio is known for its roller coasters and proximity to Lake Erie?",
+      "choices": [
+        "Kings Island",
+        "Cedar Point",
+        "Kennywood",
+        "Dorney Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pro Football Hall of Fame is located in which Ohio city?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Canton",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ulysses S. Grant, the famous Union general and U.S. president, was born in which Ohio town?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Point Pleasant",
+        "Marietta"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official state nickname of Ohio?",
+      "choices": [
+        "The Buckeye State",
+        "The Heartland State",
+        "The Manufacturing State",
+        "The Discovery State"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Toledo, Ohio became historically significant for manufacturing which material?",
+      "choices": [
+        "Steel",
+        "Glass",
+        "Rubber",
+        "Automobiles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major consumer goods company, known for products like Tide and Ivory soap, is headquartered in Cincinnati, Ohio?",
+      "choices": [
+        "Colgate-Palmolive",
+        "Henkel",
+        "Procter & Gamble",
+        "Unilever"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio's state flag is notable for being the only non-rectangular state flag in which country?",
+      "choices": [
+        "Canada",
+        "Mexico",
+        "The United States",
+        "Australia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major medical institution, founded in Cleveland, is one of the most prestigious hospitals in the United States?",
+      "choices": [
+        "Mayo Clinic",
+        "Cleveland Clinic",
+        "Johns Hopkins",
+        "Massachusetts General Hospital"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Ohio city was astronaut Neil Armstrong born?",
+      "choices": [
+        "Columbus",
+        "Akron",
+        "Wapakoneta",
+        "Lima"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these Ohio cities is home to the Cincinnati Bengals NFL team?",
+      "choices": [
+        "Columbus",
+        "Cleveland",
+        "Cincinnati",
+        "Dayton"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ohio is a significant producer of which fossil fuel resource used primarily for electricity generation?",
+      "choices": [
+        "Natural gas",
+        "Coal",
+        "Petroleum",
+        "Uranium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Ohio's state capital?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Columbus",
+        "Akron"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city, located on Lake Erie, was historically known as a major port and manufacturing center?",
+      "choices": [
+        "Cleveland",
+        "Toledo",
+        "Sandusky",
+        "Ashtabula"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Cleveland Orchestra, founded in 1918, is one of the most acclaimed symphony orchestras in which country?",
+      "choices": [
+        "Canada",
+        "The United States",
+        "United Kingdom",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many of Ohio's most populous cities begin with the letter 'C'?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city was the site of a significant American labor movement uprising in the late 19th century?",
+      "choices": [
+        "Dayton",
+        "Youngstown",
+        "Cleveland",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major university system, named after the state's founding region, is headquartered in Ohio?",
+      "choices": [
+        "Ohio State University",
+        "Miami University",
+        "Oberlin College",
+        "Kenyon College"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Ohio achieve statehood as the 17th state of the United States?",
+      "choices": [
+        "1799",
+        "1803",
+        "1807",
+        "1812"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio-born president served as Chief Justice of the United States Supreme Court after his presidency?",
+      "choices": [
+        "William McKinley",
+        "Warren G. Harding",
+        "William H. Taft",
+        "James A. Garfield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Akron, Ohio earned the nickname 'Rubber Capital of the World' due to its dominance in manufacturing what product?",
+      "choices": [
+        "Tires and rubber goods",
+        "Rubber tubing",
+        "Synthetic rubber",
+        "Rubber footwear"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Wright Brothers, pioneers of aviation, operated their bicycle shop and conducted flight experiments in which Ohio city?",
+      "choices": [
+        "Cleveland",
+        "Cincinnati",
+        "Dayton",
+        "Columbus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the unique geometric shape of Ohio's state flag, making it distinctive among all U.S. state flags?",
+      "choices": [
+        "Pentagon",
+        "Swallowtail",
+        "Hexagon",
+        "Shield"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major Great Lake forms Ohio's northern border?",
+      "choices": [
+        "Lake Michigan",
+        "Lake Superior",
+        "Lake Huron",
+        "Lake Erie"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many United States presidents have been born in Ohio, making it one of the most prolific presidential birthplaces?",
+      "choices": [
+        "Five",
+        "Seven",
+        "Nine",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Longaberger Basket, a world-famous novelty structure, is located in which Ohio city?",
+      "choices": [
+        "Newark",
+        "Lancaster",
+        "Chillicothe",
+        "Marietta"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Ohio city became a dominant center of the American steel industry during the 19th and 20th centuries?",
+      "choices": [
+        "Cincinnati",
+        "Cleveland",
+        "Akron",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Warren G. Harding was born in which Ohio city that now honors him with a presidential site?",
+      "choices": [
+        "Delaware",
+        "Marion",
+        "Norwalk",
+        "Bucyrus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

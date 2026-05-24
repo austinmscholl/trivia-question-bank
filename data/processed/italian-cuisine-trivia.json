@@ -1,304 +1,2152 @@
 {
   "slug": "italian-cuisine-trivia",
   "name": "Italian Cuisine",
-  "description": "Pasta, pizza, regional specialties, and the traditions of la cucina italiana.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.596Z",
   "questions": [
     {
-      "q": "Which Italian city is the birthplace of the modern Margherita pizza?",
-      "choices": ["Naples", "Rome", "Milan", "Florence"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Made by Raffaele Esposito in 1889 for Queen Margherita."
-      }
-    },
-    {
-      "q": "What three colors of the Italian flag are represented on a Margherita pizza?",
+      "q": "Which simple Italian rice dish, slow-cooked with broth, originated in northern Italy?",
       "choices": [
-        "Red, white, green",
-        "Red, white, yellow",
-        "Green, white, blue",
-        "Red, green, gold"
+        "Risotto",
+        "Paella",
+        "Arancini",
+        "Rigatoni"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Green, White & Red",
-        "verified": true,
-        "notes": "Tomato (red), mozzarella (white), basil (green)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which long-grain rice variety is most commonly used in risotto?",
-      "choices": ["Arborio", "Basmati", "Jasmine", "Carolina"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Risotto",
-        "verified": true,
-        "notes": "Carnaroli and Vialone Nano are also acceptable risotto rices."
-      }
-    },
-    {
-      "q": "Which Italian city is most associated with risotto, particularly the saffron-flavored 'risotto alla Milanese'?",
-      "choices": ["Milan", "Naples", "Bologna", "Venice"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Milan",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is 'al dente' pasta?",
+      "q": "Which short rice grain is most commonly used in risotto?",
       "choices": [
-        "Fully soft, falls-apart cooked",
-        "Firm to the bite — slight resistance when chewed",
-        "Raw and uncooked",
-        "Pan-fried, not boiled"
+        "Basmati",
+        "Jasmine",
+        "Arborio",
+        "Long-grain white"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Italian pasta dish is named after charcoal workers and uses egg yolk, guanciale, pecorino, and pepper?",
+      "choices": [
+        "Carbonara",
+        "Bolognese",
+        "Marinara",
+        "Pesto"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian green sauce, traditionally from Genoa, is made with basil, pine nuts, garlic, and olive oil?",
+      "choices": [
+        "Pesto",
+        "Salsa Verde",
+        "Aglio e Olio",
+        "Marinara"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian frozen dessert is denser and lower in fat than American ice cream?",
+      "choices": [
+        "Gelato",
+        "Sorbetto",
+        "Granita",
+        "Semifreddo"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous coffee-and-cream Italian dessert, with ladyfingers soaked in espresso?",
+      "choices": [
+        "Cannoli",
+        "Tiramisu",
+        "Panna Cotta",
+        "Zuppa Inglese"
       ],
       "correct": 1,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Italian for 'to the tooth.'"
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which thin, dry-cured Italian ham is traditionally served as antipasto with melon?",
+      "q": "Which Italian cured ham is famously paired with melon as an appetizer?",
       "choices": [
         "Prosciutto",
-        "Salami",
         "Mortadella",
-        "Pancetta"
+        "Salami",
+        "Speck"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ham",
-        "verified": true,
-        "notes": "Prosciutto di Parma is the most famous PDO version."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What pork product cured with pork-cheek is the traditional base of Sugo all'Amatriciana?",
-      "choices": ["Guanciale", "Pancetta", "Lardo", "Speck"],
+      "q": "What is the primary meat used in the traditional Roman dish Cacio e Pepe?",
+      "choices": [
+        "Guanciale",
+        "Pancetta",
+        "Prosciutto",
+        "Bacon"
+      ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Guanciale",
-        "verified": true,
-        "notes": "From Italian 'guancia' = cheek."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Italian region is the home of Parmigiano-Reggiano cheese?",
+      "q": "Which region of Italy is famous for producing Parmigiano-Reggiano cheese?",
+      "choices": [
+        "Emilia-Romagna",
+        "Tuscany",
+        "Piedmont",
+        "Calabria"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the three traditional toppings on a Margherita pizza that represent the Italian flag?",
+      "choices": [
+        "Basil, mozzarella, and tomato",
+        "Oregano, ricotta, and tomato",
+        "Basil, parmesan, and olive",
+        "Garlic, mozzarella, and spinach"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Risotto is a creamy rice dish traditionally associated with which Italian city?",
+      "choices": [
+        "Milan",
+        "Venice",
+        "Rome",
+        "Florence"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient in the Genovese sauce called Pesto?",
+      "choices": [
+        "Basil",
+        "Parsley",
+        "Oregano",
+        "Thyme"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which pasta shape is typically used in the dish Carbonara?",
+      "choices": [
+        "Spaghetti",
+        "Penne",
+        "Rigatoni",
+        "Fettuccine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of cured meat is Prosciutto?",
+      "choices": [
+        "Dry-cured ham",
+        "Smoked bacon",
+        "Fresh sausage",
+        "Salted pork loin"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Tiramisu is a classic Italian dessert traditionally made with what type of cheese?",
+      "choices": [
+        "Mascarpone",
+        "Ricotta",
+        "Mozzarella",
+        "Gorgonzola"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main fish ingredient in the Ligurian sauce Bagna Cauda?",
+      "choices": [
+        "Anchovies",
+        "Sardines",
+        "Cod",
+        "Sea bass"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian pasta is long, thin, and round in shape?",
+      "choices": [
+        "Spaghetti",
+        "Pappardelle",
+        "Linguine",
+        "Tagliatelle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What vegetable is the primary ingredient in Caponata, a Sicilian dish?",
+      "choices": [
+        "Eggplant",
+        "Zucchini",
+        "Bell pepper",
+        "Tomato"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Arborio rice is most commonly used in Italian cooking for making which dish?",
+      "choices": [
+        "Risotto",
+        "Polenta",
+        "Pasta",
+        "Rice pudding"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Gnocchi traditionally made from?",
+      "choices": [
+        "Potatoes and flour",
+        "Semolina and water",
+        "Rice and eggs",
+        "Corn and butter"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian cured meat is typically sliced thin and served as an antipasto?",
+      "choices": [
+        "Prosciutto",
+        "Guanciale",
+        "Pancetta",
+        "Mortadella"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Lasagna is traditionally layered with pasta sheets and what type of sauce?",
+      "choices": [
+        "Meat sauce and béchamel",
+        "Pesto and cream",
+        "Tomato and basil only",
+        "White wine reduction"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient in the Italian soup Minestrone?",
+      "choices": [
+        "Vegetables",
+        "Chicken broth",
+        "Cream",
+        "Beans only"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region is known for producing Balsamic Vinegar?",
+      "choices": [
+        "Emilia-Romagna",
+        "Piedmont",
+        "Veneto",
+        "Tuscany"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Focaccia?",
+      "choices": [
+        "An oven-baked flatbread",
+        "A type of pasta",
+        "A cured meat",
+        "A cheese"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian pastry is known for its flaky layers and is often filled with cream?",
+      "choices": [
+        "Sfogliatella",
+        "Cannoli",
+        "Panettone",
+        "Panna cotta"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional cooking method for the pork dish Porchetta?",
+      "choices": [
+        "Roasted whole on a spit",
+        "Braised in wine",
+        "Fried in oil",
+        "Steamed in parchment"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the three colors of the traditional Margherita pizza toppings that represent the Italian flag?",
+      "choices": [
+        "Red, white, and green",
+        "Red, white, and blue",
+        "Green, white, and yellow",
+        "Red, green, and gold"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian city is particularly famous for its risotto dishes?",
+      "choices": [
+        "Venice",
+        "Milan",
+        "Bologna",
+        "Rome"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of meat is Porchetta traditionally made from?",
+      "choices": [
+        "Beef",
+        "Chicken",
+        "Pork",
+        "Lamb"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian region is known for extensive production of peppers?",
+      "choices": [
+        "Tuscany",
+        "Campania",
+        "Piedmont",
+        "Liguria"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Italian word for breakfast?",
+      "choices": [
+        "Il Pranzo",
+        "La Prima Colazione",
+        "La Cena",
+        "Lo Spuntino"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of cheese is Pecorino di Filiano made from?",
+      "choices": [
+        "Cow milk",
+        "Goat milk",
+        "Sheep milk",
+        "Buffalo milk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which condiment is traditionally associated with the city of Modena?",
+      "choices": [
+        "White vinegar",
+        "Balsamic vinegar",
+        "Red wine vinegar",
+        "Apple cider vinegar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient that Bagna Cauda is typically served with?",
+      "choices": [
+        "Pasta",
+        "Bread",
+        "Vegetables",
+        "Seafood"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian region is known for extensive butter production?",
+      "choices": [
+        "Sicilly",
+        "Lombardy",
+        "Campania",
+        "Calabria"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of pasta is Taglierini most similar to?",
+      "choices": [
+        "Penne",
+        "Rigatoni",
+        "Tagliatelle",
+        "Fettuccine"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Sfogliatella classified as in Italian cuisine?",
+      "choices": [
+        "A soup",
+        "A salad",
+        "A pastry",
+        "A sauce"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of meat typically fills Olive All'Ascolana?",
+      "choices": [
+        "Fish",
+        "Meat",
+        "Cheese",
+        "Vegetables"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Sopressa in Italian cuisine?",
+      "choices": [
+        "A type of cheese",
+        "A pasta shape",
+        "A salami",
+        "A soup"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of milk is used to make Robiola cheese?",
+      "choices": [
+        "Sheep milk",
+        "Goat milk",
+        "Cow milk",
+        "Buffalo milk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main grain ingredient in traditional Tuscan cuisine?",
+      "choices": [
+        "Rice",
+        "Barley",
+        "Bread",
+        "Corn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary food category of Tartufo in Italian dessert tradition?",
+      "choices": [
+        "A soup",
+        "A cake",
+        "A dessert",
+        "A vegetable"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What hard liquor is typically used to make Rum Baba?",
+      "choices": [
+        "Vodka",
+        "Gin",
+        "Rum",
+        "Brandy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of dish is Timballo?",
+      "choices": [
+        "A soup",
+        "A baked dish",
+        "A salad",
+        "A sauce"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for the coffee drink enjoyed by Italians after a meal?",
+      "choices": [
+        "Cappuccino",
+        "Latte",
+        "Espresso",
+        "Americano"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which meat is central to traditional Basilicata regional cuisine?",
+      "choices": [
+        "Beef",
+        "Chicken",
+        "Pork",
+        "Lamb"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary filling ingredient in traditional Cannoli?",
+      "choices": [
+        "Ricotta cheese",
+        "Mascarpone cream",
+        "Custard",
+        "Cream cheese"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian region is famous for producing Nutella?",
+      "choices": [
+        "Lombardy",
+        "Piedmont",
+        "Veneto",
+        "Tuscany"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the three colors of toppings on a traditional Margherita pizza?",
+      "choices": [
+        "Red, white, and green",
+        "Red, white, and yellow",
+        "Green, white, and orange",
+        "Red, green, and blue"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of bread is Bruschetta served on?",
+      "choices": [
+        "Focaccia",
+        "Grilled sliced bread",
+        "Ciabatta loaf",
+        "Pita bread"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which holiday is Panettone traditionally eaten in Italy?",
+      "choices": [
+        "New Year's Day",
+        "Easter",
+        "Christmas",
+        "Carnival"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of cheese is the main ingredient in Frico?",
+      "choices": [
+        "Mozzarella",
+        "Montasio",
+        "Parmesan",
+        "Gorgonzola"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the alternative name for Tortellini?",
+      "choices": [
+        "Little hats",
+        "Belly buttons",
+        "Little ears",
+        "Little tongues"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What coffee drink do many Italians enjoy after a meal?",
+      "choices": [
+        "Cappuccino",
+        "Americano",
+        "Espresso",
+        "Macchiato"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which vegetable is the primary ingredient in Tortelli di Zucca?",
+      "choices": [
+        "Zucchini",
+        "Pumpkin",
+        "Spinach",
+        "Eggplant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which day is the Feast of Seven Fishes traditionally celebrated in Italy?",
+      "choices": [
+        "New Year's Eve",
+        "Christmas Eve",
+        "Easter Sunday",
+        "Epiphany"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of dessert is Frittole?",
+      "choices": [
+        "Cake",
+        "Cookie",
+        "Doughnut",
+        "Pastry"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which oil is traditionally used to make Piadina?",
+      "choices": [
+        "Vegetable oil",
+        "Coconut oil",
+        "Olive oil",
+        "Sunflower oil"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the olives in Olive All'Ascolana traditionally stuffed with?",
+      "choices": [
+        "Cheese",
+        "Breadcrumbs",
+        "Meat",
+        "Herbs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many traditional courses are typically included in a full Italian meal?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which meat is an integral part of Basilicata regional cuisine?",
+      "choices": [
+        "Beef",
+        "Chicken",
+        "Pork",
+        "Lamb"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shape does the chocolate candy Gianduiotto traditionally come in?",
+      "choices": [
+        "Sphere",
+        "Cube",
+        "Ingot",
+        "Pyramid"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the traditional shape of tortellini pasta often compared to?",
+      "choices": [
+        "A small hat",
+        "A belly button",
+        "A tiny purse",
+        "A small shell"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of milk is used to make Pecorino di Filiano cheese?",
+      "choices": [
+        "Goat milk",
+        "Cow milk",
+        "Sheep milk",
+        "Buffalo milk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region is famous for Parmigiano-Reggiano cheese and prosciutto di Parma?",
       "choices": [
         "Emilia-Romagna",
         "Lombardy",
         "Tuscany",
-        "Campania"
+        "Sicily"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "PDO production limited to Parma, Reggio Emilia, Modena and parts of Mantua and Bologna."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which Italian region is the birthplace of Bolognese (ragù alla bolognese) sauce?",
+      "q": "Which Italian region is known for the strong red wine Barolo, made from Nebbiolo grapes?",
       "choices": [
-        "Emilia-Romagna (Bologna)",
+        "Piedmont",
+        "Tuscany",
+        "Veneto",
+        "Sicily"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Italian cuisine uses 'al forno' to mean what?",
+      "choices": [
+        "Cooked in the oven",
+        "Fried",
+        "Marinated",
+        "Boiled"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Espresso 'macchiato' translates to what in English?",
+      "choices": [
+        "'Stained' (with a dash of milk)",
+        "'Sweetened'",
+        "'Crushed'",
+        "'Cold'"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region is historically the primary producer of Grana Padano cheese?",
+      "choices": [
+        "Lombardy",
+        "Emilia-Romagna",
+        "Piedmont",
+        "Veneto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional binding ingredient in Liguria's classic Pesto Genovese?",
+      "choices": [
+        "Garlic paste",
+        "Pine nuts",
+        "Ground almonds",
+        "Bread crumbs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which century was tomato first introduced to Italian cuisine from the Americas?",
+      "choices": [
+        "14th century",
+        "16th century",
+        "18th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum percentage of durum wheat required in authentic dried pasta according to Italian law?",
+      "choices": [
+        "50%",
+        "75%",
+        "100%",
+        "85%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cured meat from Friuli-Venezia Giulia is traditionally made from the hind leg of pork and aged in mountain caves?",
+      "choices": [
+        "Speck Alto Adige",
+        "San Daniele prosciutto",
+        "Guanciale",
+        "Pancetta tesa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary grape varietal used to produce Lambrusco wines in Emilia-Romagna?",
+      "choices": [
+        "Sangiovese",
+        "Trebbiano",
+        "Lambrusco di Sorbara",
+        "Barbera"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Sicilian cuisine, what ingredient distinguishes Pasta alla Norma from other tomato-based pasta dishes?",
+      "choices": [
+        "Ground pork",
+        "Fried aubergine and ricotta salata",
+        "Sea urchin",
+        "Anchovy paste"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region produces the majority of the country's saffron, particularly the DOP-protected variety?",
+      "choices": [
+        "Tuscany",
+        "Sardinia",
+        "Abruzzo",
+        "Sicily"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional cooking vessel used for preparing Polenta in Northern Italian cuisine?",
+      "choices": [
+        "Cast iron skillet",
+        "Copper paiolo",
+        "Terracotta cazuela",
+        "Stainless steel pot"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of pasta is characteristic of Sardinian cuisine and is made by rolling thin sheets of dough?",
+      "choices": [
+        "Malloreddus",
+        "Culurgiones",
+        "Su filindeu",
+        "Lorighittas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional maturation period for Parmigiano-Reggiano to achieve its Protected Designation of Origin status?",
+      "choices": [
+        "8-12 months",
+        "12-24 months",
+        "24-36 months",
+        "36-48 months"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian chef is credited with developing the modern concept of haute cuisine in Italy during the 1980s?",
+      "choices": [
+        "Carlo Cracco",
+        "Massimo Bottura",
+        "Gualtiero Marchesi",
+        "Alain Ducasse"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary ingredient in Calabrian 'Nduja that gives it its characteristic spiciness?",
+      "choices": [
+        "Black pepper",
+        "Chili peppers",
+        "White pepper",
+        "Pink peppercorns"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Venetian cuisine, what is the traditional preparation method for Risi e Bisi?",
+      "choices": [
+        "Baked in the oven",
+        "Risotto-style with peas",
+        "Boiled separately then combined",
+        "Fried in butter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region's cuisine is known for its extensive use of anchovy-based condiments and preserved fish?",
+      "choices": [
+        "Umbria",
+        "Liguria",
+        "Marche",
+        "Molise"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ingredient distinguishes Genoa's Focaccia Ligure from other Italian flatbreads?",
+      "choices": [
+        "Coarse sea salt on top",
+        "Olive oil-rich dough pressed thin with dimples and topped with salt",
+        "Rosemary sprigs",
+        "Dusting of flour"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Tuscan cuisine, what grain was historically the staple carbohydrate before corn and wheat became dominant?",
+      "choices": [
+        "Barley",
+        "Spelt",
+        "Millet",
+        "Emmer wheat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Piedmont cheese is traditionally wrapped in chestnut or grape leaves and aged in cellars?",
+      "choices": [
+        "Taleggio",
+        "Castelmagno",
+        "Toma",
+        "Testun"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the defining characteristic of Aceto Balsamico Tradizionale di Modena in terms of aging?",
+      "choices": [
+        "Aged in wooden barrels for minimum 5 years",
+        "Aged in a succession of wooden barrels for minimum 12 years",
+        "Aged in glass bottles for 10 years",
+        "Cold-infused for 3 months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which herb is the primary flavoring agent in the Veneto's traditional digestif liqueur Amaro Nonino?",
+      "choices": [
+        "Gentian root",
+        "Rhubarb and herbs",
+        "Star anise",
+        "Cardamom"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Italian cooking, what is the primary ingredient that distinguishes Pasta alla Gricia from other Roman pasta dishes?",
+      "choices": [
+        "Guanciale and Pecorino Romano",
+        "Pancetta and Parmigiano-Reggiano",
+        "Prosciutto and Fontina",
+        "Speck and Asiago"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Northern Italian region is known for producing Castelmagno, a rare DOP-protected blue cheese made from cow's milk?",
+      "choices": [
+        "Liguria",
+        "Piedmont",
+        "Friuli-Venezia Giulia",
+        "Emilia-Romagna"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional thickening agent used in authentic Sicilian Pasta alla Norma sauce besides the primary vegetable?",
+      "choices": [
+        "Cream and egg yolks",
+        "Tomato paste and flour",
+        "Tomato concentrate reduced with heat",
+        "Cornstarch and water"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Piedmont cuisine, Vitello Tonnato traditionally pairs veal with a sauce made from which seafood?",
+      "choices": [
+        "Anchovy and sardine",
+        "Tuna and anchovy",
+        "Canned mackerel",
+        "Sea urchin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Amaretti biscuits, a traditional Italian almond cookie, derive their distinctive almond flavor from which specific ingredient?",
+      "choices": [
+        "Almond meal and apricot kernels",
+        "Ground almonds and vanilla extract",
+        "Bitter almond essence and sweet almonds",
+        "Almond oil and coconut flour"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region produces Balsamic Vinegar with protected designation of origin status that must be aged for a minimum of 12 years?",
+      "choices": [
+        "Tuscany",
+        "Modena in Emilia-Romagna",
+        "Veneto",
+        "Umbria"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Venetian cuisine, Risotto Nero gets its distinctive black color from which ingredient?",
+      "choices": [
+        "Black squid ink",
+        "Activated charcoal",
+        "Black sesame seeds",
+        "Squid melanin extract"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional method for cooking Burrata cheese to create its characteristic creamy center?",
+      "choices": [
+        "It is not cooked; the center is made by pouring warm cream into stretched curd",
+        "Low-temperature water bath for 30 minutes",
+        "Brief exposure to steam",
+        "Slow roasting at 200 degrees Fahrenheit"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Friuli-Venezia Giulia's signature soup, Jota, traditionally contains which three main components?",
+      "choices": [
+        "Beans, sauerkraut, and pork",
+        "Chickpeas, spinach, and pancetta",
+        "Lentils, kale, and beef",
+        "Cannellini beans, chard, and prosciutto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian pasta shape is specifically designed to hold thick vegetable-based sauces and gets its name from the ridges on its surface?",
+      "choices": [
+        "Penne rigate",
+        "Rigatoni",
+        "Fusilli",
+        "Orecchiette"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Calabrian cuisine, 'Nduja is a spicy spreadable pork product traditionally made with which heat-inducing ingredient?",
+      "choices": [
+        "Black pepper and chili flakes",
+        "Calabrian chili peppers",
+        "Habanero peppers",
+        "Ghost peppers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the principal legume ingredient in the Tuscan soup Pasta e Fagioli that gives it its characteristic heartiness?",
+      "choices": [
+        "Lentils",
+        "Chickpeas",
+        "Cannellini beans",
+        "Split peas"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Italian baking, what is Poolish, the pre-ferment used in certain bread recipes?",
+      "choices": [
+        "A mixture of flour, water, and salt aged overnight",
+        "Equal parts flour and water with commercial yeast fermented before mixing into dough",
+        "A whey-based starter culture",
+        "Fermented potato starch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Marchigian pasta Vincisgrassi is a layered baked dish most similar to which other Italian classic?",
+      "choices": [
+        "Cannelloni",
+        "Lasagna",
+        "Ravioli al forno",
+        "Pappardelle al ragù"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which wine region in Italy is famous for producing Barolo, a complex red wine made exclusively from which grape variety?",
+      "choices": [
+        "Tuscan region using Sangiovese",
+        "Piedmont using Nebbiolo",
+        "Veneto using Corvina",
+        "Lombardy using Barbera"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Ligurian cuisine, Trofie pasta is traditionally hand-rolled with which accompaniment as its most iconic pairing?",
+      "choices": [
+        "Marinara sauce",
+        "Pesto made with basil, garlic, pine nuts, and cheese",
+        "Aglio e olio",
+        "Cacio e pepe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Polenta, a cornmeal staple of Northern Italian cuisine, is traditionally made by slowly cooking cornmeal in which type of liquid?",
+      "choices": [
+        "Water or broth, stirred constantly to prevent lumps",
+        "Milk exclusively",
+        "Wine and cream",
+        "Stock with white beans"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Sardinian cuisine, Bottarga is a delicacy made from which component of fish?",
+      "choices": [
+        "Fish liver",
+        "Fish sperm",
+        "Fish roe",
+        "Fish swim bladder"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the defining characteristic of Parmigiano-Reggiano that distinguishes it from other hard Italian cheeses like Grana Padano?",
+      "choices": [
+        "Use of lysozyme as a preservative is prohibited",
+        "Stricter geographic protection covering only specific provinces in Emilia-Romagna",
+        "Mandatory use of raw milk exclusively",
+        "Aging requirement of minimum 48 months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sicilian Arancini are traditionally filled with a ragù that in its most authentic preparation contains which meat?",
+      "choices": [
+        "Ground beef and pork",
+        "Ground veal exclusively",
+        "Minced lamb",
+        "Spiced chicken"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Italian region did the pasta shape Tortellini originate during the Renaissance?",
+      "choices": [
+        "Emilia-Romagna",
+        "Tuscany",
+        "Lombardy",
+        "Piedmont"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary grape variety used to produce Barolo wine in the Piedmont region?",
+      "choices": [
+        "Barbera",
+        "Nebbiolo",
+        "Dolcetto",
+        "Moscato"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian chef is credited with modernizing traditional Italian cuisine through the molecular gastronomy movement at his three-Michelin-star restaurant?",
+      "choices": [
+        "Massimo Bottura",
+        "Marco Pierre White",
+        "Gualtiero Marchesi",
+        "Carlo Cracco"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What protected designation of origin (PDO) cheese is produced exclusively in the provinces surrounding Parma, Reggio Emilia, and Modena?",
+      "choices": [
+        "Grana Padano",
+        "Parmigiano-Reggiano",
+        "Asiago",
+        "Pecorino Romano"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Italian cuisine, what is the name of the cooking technique involving slow-braising meat in wine until it becomes tender?",
+      "choices": [
+        "Brasato",
+        "Saltimbocca",
+        "Osso buco",
+        "Piccata"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which bivalve mollusk is a protected ingredient in traditional Spaghetti alle Vongole and must be harvested from specific Italian coastal regions?",
+      "choices": [
+        "Mussels",
+        "Clams",
+        "Scallops",
+        "Oysters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum aging period required for Parmigiano-Reggiano to be labeled with its protected designation of origin?",
+      "choices": [
+        "12 months",
+        "24 months",
+        "36 months",
+        "48 months"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian city is renowned for producing the finest balsamic vinegar, with some varieties aging for over 100 years?",
+      "choices": [
+        "Bologna",
+        "Modena",
+        "Parma",
+        "Ravenna"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Sicilian cuisine, what is the name of the pasta dish traditionally layered with ragù, eggplant, and béchamel sauce?",
+      "choices": [
+        "Pasta alla Norma",
+        "Pasta alla Caponata",
+        "Pasta alla Pasticcata",
+        "Pasta alla Parmigiana"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional binding agent used in the preparation of authentic Italian meatballs in the Campania region?",
+      "choices": [
+        "Breadcrumbs soaked in milk",
+        "Cornstarch",
+        "Egg white only",
+        "Grated potato"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region produces Amaretto di Saronno, the almond-flavored liqueur protected by geographical indication?",
+      "choices": [
+        "Veneto",
+        "Lombardy",
+        "Piedmont",
+        "Tuscany"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Venetian cuisine, what is Risotto al Nero di Seppia colored and flavored with?",
+      "choices": [
+        "Squid ink",
+        "Cuttlefish ink",
+        "Black sesame",
+        "Activated charcoal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the traditional Italian Christmas bread from Milan that contains candied fruits and is protected by PDO status?",
+      "choices": [
+        "Panforte",
+        "Pandoro",
+        "Panettone",
+        "Pangiallo"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian pasta shape, whose name derives from the word for 'little ears,' is traditionally used with broccoli rabe in Puglian cuisine?",
+      "choices": [
+        "Orecchiette",
+        "Farfalle",
+        "Cavatappi",
+        "Pappardelle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary enzyme used in the production of traditional Italian cheese that causes milk coagulation during the cheesemaking process?",
+      "choices": [
+        "Lactase",
+        "Pepsin",
+        "Rennet",
+        "Amylase"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the preparation of authentic Cacio e Pepe, which Roman pepper-based sauce contains no cream, what type of cheese is traditionally used?",
+      "choices": [
+        "Pecorino Toscano",
+        "Pecorino Romano",
+        "Grana Padano",
+        "Provolone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region is the primary producer of white truffles (Tuber magnatum pico), considered one of the world's most expensive ingredients?",
+      "choices": [
+        "Tuscany",
+        "Piedmont",
+        "Umbria",
+        "Emilia-Romagna"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the traditional Italian method of preserving vegetables in oil and vinegar called?",
+      "choices": [
+        "Sott'olio",
+        "Sott'aceto",
+        "Sottomarino",
+        "Conserva"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian aperitif, created in Turin in 1786, is characterized by its bitter taste and deep red color derived from herbs and spices?",
+      "choices": [
+        "Cynar",
+        "Campari",
+        "Carpano",
+        "Vermouth"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In traditional Ligurian cuisine, what is the primary nut ingredient in authentic Pesto Genovese besides basil?",
+      "choices": [
+        "Walnuts",
+        "Almonds",
+        "Pine nuts",
+        "Hazelnuts"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Italian region did the tradition of making Parmigiano-Reggiano originate during the Middle Ages?",
+      "choices": [
+        "Emilia-Romagna",
+        "Tuscany",
+        "Piedmont",
+        "Lombardy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region is the birthplace of pizza?",
+      "choices": [
+        "Lazio",
+        "Campania",
+        "Sicily",
+        "Tuscany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Margherita pizza's three toppings represent the colors of the Italian flag. What are the toppings?",
+      "choices": [
+        "Tomato, mozzarella, basil",
+        "Pepperoni, mozzarella, oregano",
+        "Sausage, ricotta, parsley",
+        "Anchovy, mozzarella, olive"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What kind of Italian flatbread, often dimpled with olive oil and herbs, is from Liguria?",
+      "choices": [
+        "Focaccia",
+        "Piadina",
+        "Schiacciata",
+        "Pita"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What rich Italian cured meat is sliced thinly and often associated with Bologna?",
+      "choices": [
+        "Mortadella",
+        "Prosciutto",
+        "Bresaola",
+        "Capocollo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is 'osso buco'?",
+      "choices": [
+        "A braised veal-shank dish from Milan",
+        "A slow-cooked octopus stew",
+        "A breaded pork chop",
+        "A grilled fish dish"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the iconic Sicilian dessert that is a fried tube of dough filled with sweet ricotta?",
+      "choices": [
+        "Cannoli",
+        "Tiramisù",
+        "Panettone",
+        "Sfogliatella"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian region is the home of balsamic vinegar?",
+      "choices": [
+        "Modena (Emilia-Romagna)",
         "Tuscany",
         "Sicily",
-        "Lazio"
+        "Liguria"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Officially registered with the Bologna Chamber of Commerce in 1982."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "What is the proper Italian name for what Americans call 'Spaghetti Bolognese'?",
+      "q": "Which traditional Italian Christmas cake is dome-shaped and studded with candied fruit?",
       "choices": [
-        "Tagliatelle al ragù",
-        "Linguine bolognese",
-        "Spaghetti carbonara",
-        "Penne alla bolognese"
+        "Panettone",
+        "Pandoro",
+        "Stollen",
+        "Bûche de Noël"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Bolognese is paired with tagliatelle traditionally; spaghetti is an Anglo-American adaptation."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which classic pasta dish features eggs, guanciale, pecorino, and black pepper — but NO cream?",
-      "choices": [
-        "Carbonara",
-        "Alfredo",
-        "Cacio e Pepe",
-        "Amatriciana"
-      ],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Cream is a non-Italian addition — true carbonara uses eggs to coat the pasta."
-      }
-    },
-    {
-      "q": "What two simple ingredients give 'cacio e pepe' its name?",
-      "choices": [
-        "Cheese and pepper",
-        "Cheese and parsley",
-        "Onion and pepper",
-        "Cheese and bacon"
-      ],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Pecorino Romano + black pepper, with starchy pasta water."
-      }
-    },
-    {
-      "q": "Which narrow, flat-stranded Italian pasta takes its name from the Italian for 'little tongues'?",
+      "q": "Which thin-strands pasta is paired with a clams-and-garlic sauce in 'Vongole'?",
       "choices": [
         "Linguine",
-        "Tagliatelle",
+        "Penne",
+        "Fettuccine",
+        "Rigatoni"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the doneness preference of pasta cooked just firm enough to bite?",
+      "choices": [
+        "Al forno",
+        "Al dente",
+        "Al limone",
+        "Al pesto"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian region is associated with Chianti wine?",
+      "choices": [
+        "Tuscany",
+        "Piedmont",
+        "Sicily",
+        "Veneto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Italian cuisine, what is the primary protein ingredient in traditional Carbonara sauce?",
+      "choices": [
+        "Pancetta or guanciale",
+        "Ground beef",
+        "Chicken breast",
+        "Shrimp"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian pasta shape is traditionally used for Cacio e Pepe?",
+      "choices": [
         "Pappardelle",
-        "Fettuccine"
+        "Tonnarelli or spaghetti",
+        "Rigatoni",
+        "Fusilli"
       ],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: replaced 'ribbon-shaped' phrasing (better fits tagliatelle/fettuccine) with 'narrow, flat-stranded'. Linguine = 'little tongues'."
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "What is the Italian feast tradition celebrated on Christmas Eve, named after a number of seafood courses?",
+      "q": "What is the primary ingredient that distinguishes Gorgonzola from other Italian cheeses?",
       "choices": [
-        "Feast of the Seven Fishes",
-        "Festa di San Giuseppe",
-        "Cena della Vigilia",
-        "Festa del Cibo"
+        "Blue-green mold veining",
+        "Smoked flavor",
+        "Herb infusions",
+        "Extended aging in caves"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Christmas Eve",
-        "verified": true,
-        "notes": "More common in Italian-American families than in Italy itself."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which Italian region is famous for thin, crispy focaccia bread topped with olive oil and rosemary?",
-      "choices": ["Liguria", "Sicily", "Tuscany", "Sardinia"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Liguria",
-        "verified": true,
-        "notes": "Focaccia di Recco and focaccia genovese are the famous styles."
-      }
-    },
-    {
-      "q": "Which Italian island is the home of cannoli, arancini, and granita?",
-      "choices": ["Sicily", "Sardinia", "Capri", "Corsica"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What Italian term means 'before the meal' — referring to pre-meal small bites?",
-      "choices": ["Antipasto", "Aperitivo", "Primo", "Contorno"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Aperitivo is the pre-dinner drink ritual."
-      }
-    },
-    {
-      "q": "Which Italian sparkling wine, made in Veneto, has surpassed Champagne in global sales?",
-      "choices": ["Prosecco", "Lambrusco", "Asti Spumante", "Franciacorta"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Made primarily from Glera grapes."
-      }
-    },
-    {
-      "q": "What Italian dessert means 'pick-me-up' and contains coffee, mascarpone, and ladyfingers?",
-      "choices": ["Tiramisu", "Panna Cotta", "Cannoli", "Affogato"],
-      "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Tiramisù literally means 'pick me up' (the caffeine boost)."
-      }
-    },
-    {
-      "q": "How does Italian gelato differ from American ice cream?",
+      "q": "In which Italian region did Risotto alla Milanese originate?",
       "choices": [
-        "Less butterfat and less air (denser texture)",
-        "More butterfat and more air",
-        "More sugar and more air",
-        "Contains no milk"
+        "Tuscany",
+        "Campania",
+        "Lombardy",
+        "Sicily"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the key ingredient that gives Osso Buco its distinctive flavor when served with Gremolata?",
+      "choices": [
+        "Saffron",
+        "Lemon zest, garlic, and parsley",
+        "Truffle oil",
+        "Aged balsamic vinegar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of flour is traditionally used to make fresh egg pasta in Northern Italy?",
+      "choices": [
+        "Whole wheat flour",
+        "Tipo 00 flour",
+        "Chickpea flour",
+        "Chestnut flour"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Burrata cheese primarily filled with?",
+      "choices": [
+        "Ricotta and cream",
+        "Soft mozzarella curds and cream",
+        "Mascarpone",
+        "Gorgonzola paste"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did tomatoes first become a significant ingredient in Italian cooking?",
+      "choices": [
+        "13th century",
+        "15th century",
+        "17th century",
+        "19th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional Italian cut of beef used in Brasato?",
+      "choices": [
+        "Ribeye steak",
+        "Chuck roast or brisket",
+        "Tenderloin filet",
+        "Short ribs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian liqueur, made from hazelnuts, is a key ingredient in Zabaglione variations?",
+      "choices": [
+        "Amaretto",
+        "Frangelico",
+        "Limoncello",
+        "Sambuca"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional binding ingredient in Italian meatballs called Polpette?",
+      "choices": [
+        "Cornstarch",
+        "Breadcrumbs soaked in milk",
+        "Flour paste",
+        "Potato starch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian pasta is specifically designed with ridges to hold thick sauces?",
+      "choices": [
+        "Linguine",
+        "Penne rigate",
+        "Tagliatelle",
+        "Angel hair"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary vegetable in Caponata, the Sicilian appetizer?",
+      "choices": [
+        "Zucchini",
+        "Eggplant",
+        "Bell pepper",
+        "Artichoke"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Italian cuisine, what does 'al dente' specifically refer to?",
+      "choices": [
+        "Cooked until very soft",
+        "Cooked until firm to the bite",
+        "Cooked with garlic",
+        "Cooked in olive oil"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian region is famous for producing Parmigiano-Reggiano cheese?",
+      "choices": [
+        "Emilia-Romagna",
+        "Piedmont",
+        "Umbria",
+        "Veneto"
       ],
       "correct": 0,
-      "category": "Italian Cuisine",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Italian Cuisine",
-        "verified": true,
-        "notes": "Gelato uses more milk than cream and is churned slowly."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main ingredient in traditional Italian Pesto Genovese besides basil?",
+      "choices": [
+        "Sunflower seeds",
+        "Pine nuts",
+        "Walnuts",
+        "Almonds"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cooking method is traditionally used to prepare Saltimbocca?",
+      "choices": [
+        "Braising",
+        "Pan-frying or sautéing",
+        "Roasting",
+        "Boiling"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary filling ingredient in traditional Ravioli Castelvetrano?",
+      "choices": [
+        "Spinach and ricotta",
+        "Green olives",
+        "Ground pork",
+        "Seafood"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Italian cuisine, what is Focaccia primarily served as?",
+      "choices": [
+        "A dessert pastry",
+        "Flatbread for dipping or as a sandwich base",
+        "A soup thickener",
+        "A pasta alternative"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian dessert is made with amaretti cookies, mascarpone, and cocoa powder?",
+      "choices": [
+        "Panna cotta",
+        "Tiramisu",
+        "Zabaglione",
+        "Pandoro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian pasta shape is traditionally used in the Roman dish Cacio e Pepe?",
+      "choices": [
+        "Penne",
+        "Spaghetti",
+        "Rigatoni",
+        "Fusilli"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary cured meat ingredient in Carbonara sauce?",
+      "choices": [
+        "Pancetta",
+        "Prosciutto",
+        "Speck",
+        "Mortadella"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Italian region would you find the production of Parmigiano-Reggiano cheese?",
+      "choices": [
+        "Veneto",
+        "Emilia-Romagna",
+        "Tuscany",
+        "Calabria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main protein ingredient in Osso Buco, a traditional Milanese dish?",
+      "choices": [
+        "Beef tenderloin",
+        "Veal shanks",
+        "Lamb chops",
+        "Pork ribs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian rice variety is specifically bred for cooking risotto?",
+      "choices": [
+        "Carnaroli",
+        "Arborio",
+        "Vialone Nano",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional thickening agent in Italian zabaglione dessert?",
+      "choices": [
+        "Cornstarch",
+        "Egg yolks",
+        "Cream",
+        "Gelatin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did the technique of making fresh egg pasta become standardized in Italy?",
+      "choices": [
+        "13th century",
+        "15th century",
+        "17th century",
+        "19th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian region is most famous for producing San Marzano tomatoes?",
+      "choices": [
+        "Campania",
+        "Sicily",
+        "Lombardy",
+        "Piedmont"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of wine is traditionally used to finish a risotto Milanese?",
+      "choices": [
+        "Red wine",
+        "White wine",
+        "Marsala",
+        "Vermouth"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pasta shape's name literally translates to 'little tubes' in Italian?",
+      "choices": [
+        "Penne",
+        "Tubetti",
+        "Rigatoni",
+        "Ziti"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ingredient distinguishes Burrata cheese from regular mozzarella?",
+      "choices": [
+        "Added salt",
+        "Cream-filled center",
+        "Smoked preparation",
+        "Aged longer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Italian cuisine, what is the name of the appetizer course served before the first course?",
+      "choices": [
+        "Primo",
+        "Antipasto",
+        "Contorno",
+        "Dolce"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian dessert consists of ladyfinger biscuits soaked in coffee and layered with mascarpone?",
+      "choices": [
+        "Panettone",
+        "Tiramisu",
+        "Panna cotta",
+        "Zabaglione"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in Italian basil pesto besides basil and garlic?",
+      "choices": [
+        "Walnuts",
+        "Pine nuts",
+        "Almonds",
+        "Hazelnuts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian region is known for producing the protected designation Balsamic Vinegar of Modena?",
+      "choices": [
+        "Veneto",
+        "Tuscany",
+        "Emilia-Romagna",
+        "Piedmont"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What traditional Italian soup is made with bread, tomatoes, and basil?",
+      "choices": [
+        "Minestrone",
+        "Ribollita",
+        "Pappa al Pomodoro",
+        "Pasta e Fagioli"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cured meat from Parma is traditionally sliced paper-thin and served as an antipasto?",
+      "choices": [
+        "Pancetta",
+        "Guanciale",
+        "Prosciutto di Parma",
+        "Speck"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary seafood ingredient in the Ligurian dish Pasta alle Vongole?",
+      "choices": [
+        "Shrimp",
+        "Clams",
+        "Mussels",
+        "Squid"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Italian region would you find the production of Barolo wine, often paired with rich meat dishes?",
+      "choices": [
+        "Tuscany",
+        "Piedmont",
+        "Veneto",
+        "Campania"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional filling of Tortellini in Emilia-Romagna cuisine?",
+      "choices": [
+        "Spinach and ricotta",
+        "Meat and cheese",
+        "Butternut squash",
+        "Seafood"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian city is traditionally considered the risotto capital and is most closely associated with this creamy rice dish?",
+      "choices": [
+        "Venice",
+        "Milan",
+        "Turin",
+        "Bologna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Balsamic vinegar, a prized condiment used in Italian cooking, originates from which city in the Emilia-Romagna region?",
+      "choices": [
+        "Parma",
+        "Modena",
+        "Reggio Emilia",
+        "Ferrara"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bresaola, a cured beef delicacy, typically requires how many months of aging before it is ready to be consumed?",
+      "choices": [
+        "1-2 months",
+        "2-3 months",
+        "4-5 months",
+        "6-7 months"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Italian, what is the term for the midday meal or lunch?",
+      "choices": [
+        "La Colazione",
+        "La Pranzo",
+        "La Cena",
+        "La Merenda"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cassata Siciliana, a traditional Sicilian dessert, features marzipan as its primary ingredient. What region is this cake most iconic to?",
+      "choices": [
+        "Calabria",
+        "Sicily",
+        "Sardinia",
+        "Campania"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sugo all'Amatriciana, a classic Roman pasta sauce, derives its distinctive flavor primarily from which ingredient?",
+      "choices": [
+        "Pancetta",
+        "Guanciale",
+        "Prosciutto",
+        "Speck"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The three classic toppings of Pizza Margherita represent the colors of the Italian flag. Which of these is NOT one of them?",
+      "choices": [
+        "Red tomato",
+        "White mozzarella",
+        "Green basil",
+        "Yellow cheese"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Arborio rice, a short-grain variety essential to Italian cooking, is primarily used to prepare which creamy dish?",
+      "choices": [
+        "Polenta",
+        "Risotto",
+        "Orzo",
+        "Farro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Focaccia, a popular Italian flatbread with olive oil and salt, originates from which northwestern Italian region?",
+      "choices": [
+        "Piedmont",
+        "Liguria",
+        "Veneto",
+        "Tuscany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Capocollo, a premium cured pork product, is a type of cold cut that is traditionally made from which part of the pig?",
+      "choices": [
+        "Shoulder",
+        "Neck and shoulder",
+        "Leg",
+        "Belly"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Parmigiana, the famous eggplant or chicken dish with layers of sauce and cheese, is most closely associated with which Italian region?",
+      "choices": [
+        "Sicily",
+        "Calabria",
+        "Campania",
+        "Basilicata"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Granita, a frozen Italian dessert, is typically made from a combination of sugar, water, and various flavorings. What texture does it have?",
+      "choices": [
+        "Smooth and creamy like gelato",
+        "Grainy and semi-frozen",
+        "Solid and hard-packed",
+        "Fluffy like sorbet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pizzoccheri, a buckwheat pasta dish from Lombardy, is traditionally prepared with green vegetables. Which vegetable is most commonly used?",
+      "choices": [
+        "Green beans",
+        "Spinach",
+        "Chard or kale",
+        "Broccoli"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Timballo, a traditional Italian dish, is best described as which type of food preparation?",
+      "choices": [
+        "A grilled meat dish",
+        "A baked pasta or rice drum",
+        "A cold soup",
+        "A fried pastry"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

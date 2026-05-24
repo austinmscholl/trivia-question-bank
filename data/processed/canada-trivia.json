@@ -1,273 +1,2900 @@
 {
   "slug": "canada-trivia",
   "name": "Canada",
-  "description": "The Great White North — history, geography, and culture",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.456Z",
   "questions": [
     {
       "q": "In which month is Canada Day celebrated each year?",
-      "choices": ["May", "June", "July", "August"],
+      "choices": [
+        "May",
+        "June",
+        "July",
+        "August"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "July",
-        "verified": true,
-        "notes": "July 1, commemorating the 1867 Constitution Act that united three colonies."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which sport is widely considered Canada's official winter national sport?",
-      "choices": ["Skiing", "Ice Hockey", "Curling", "Snowboarding"],
+      "choices": [
+        "Skiing",
+        "Ice Hockey",
+        "Curling",
+        "Snowboarding"
+      ],
       "correct": 1,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ice Hockey",
-        "verified": true,
-        "notes": "Lacrosse is the national summer sport; hockey the national winter sport per 1994 legislation."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What is the capital city of Canada?",
-      "choices": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ottawa",
-        "verified": true,
-        "notes": "Located in Ontario, on the Ottawa River."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What leaf appears on Canada's national flag?",
-      "choices": ["Oak", "Maple", "Birch", "Ash"],
+      "choices": [
+        "Oak",
+        "Maple",
+        "Birch",
+        "Ash"
+      ],
       "correct": 1,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Maple",
-        "verified": true,
-        "notes": "The red maple leaf flag was adopted in February 1965."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which province joined Canadian Confederation in 1949 as its tenth province?",
-      "choices": ["Prince Edward Island", "Nova Scotia", "Newfoundland", "New Brunswick"],
+      "choices": [
+        "Prince Edward Island",
+        "Nova Scotia",
+        "Newfoundland",
+        "New Brunswick"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Newfoundland",
-        "verified": true,
-        "notes": "Renamed 'Newfoundland and Labrador' in 2001."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Who became Prime Minister of Canada in November 2015?",
-      "choices": ["Stephen Harper", "Justin Trudeau", "Paul Martin", "Jagmeet Singh"],
+      "choices": [
+        "Stephen Harper",
+        "Justin Trudeau",
+        "Paul Martin",
+        "Jagmeet Singh"
+      ],
       "correct": 1,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "2015",
-        "verified": true,
-        "notes": "Son of former PM Pierre Trudeau."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What is the nickname of Canada's one-dollar coin, featuring a common loon on its reverse?",
-      "choices": ["Toonie", "Loonie", "Looney", "Maple"],
+      "choices": [
+        "Toonie",
+        "Loonie",
+        "Looney",
+        "Maple"
+      ],
       "correct": 1,
-      "category": "Canada",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "1989",
-        "verified": true,
-        "notes": "Introduced in 1987; the $2 coin became the 'toonie' in 1996."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who held the NHL all-time goals record from 1994 until Alex Ovechkin broke it in 2025?",
-      "choices": ["Gordie Howe", "Mario Lemieux", "Wayne Gretzky", "Bobby Orr"],
-      "correct": 2,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Wayne Gretzky",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: rephrased to historical record after Ovechkin scored his 895th NHL goal on April 6, 2025, surpassing Gretzky's 894."
-      }
-    },
-    {
-      "q": "Which Scottish-born Canadian inventor is credited with patenting the telephone in 1876?",
-      "choices": ["Thomas Edison", "Alexander Graham Bell", "Elisha Gray", "Guglielmo Marconi"],
-      "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Telephone",
-        "verified": true,
-        "notes": "Conducted early telephone experiments in Brantford, Ontario."
-      }
-    },
-    {
-      "q": "The CN Tower, once the world's tallest free-standing structure, is located in which Canadian city?",
-      "choices": ["Montreal", "Toronto", "Ottawa", "Calgary"],
-      "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Toronto",
-        "verified": true,
-        "notes": "Completed 1976; held the tallest-free-standing record until 2007 (Burj Khalifa surpassed it)."
-      }
-    },
-    {
-      "q": "Which Canadian territory was created in 1999, carved out of the Northwest Territories?",
-      "choices": ["Yukon", "Nunavut", "Labrador", "Baffin"],
-      "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Nunavut",
-        "verified": true,
-        "notes": "Means 'our land' in Inuktitut; mostly Inuit population."
-      }
-    },
-    {
-      "q": "What was the original name of the Canadian holiday now known as 'Canada Day'?",
-      "choices": ["Empire Day", "Dominion Day", "Federation Day", "Victoria Day"],
-      "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Canada Day",
-        "verified": true,
-        "notes": "Renamed in 1982; Dominion Day marked confederation July 1, 1867."
-      }
-    },
-    {
-      "q": "Which Canadian province has French as its sole official language?",
-      "choices": ["New Brunswick", "Quebec", "Ontario", "Manitoba"],
-      "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Quebec",
-        "verified": true,
-        "notes": "New Brunswick is officially bilingual; the rest are officially English."
-      }
-    },
-    {
-      "q": "Which Canadian city hosted the 2010 Winter Olympics?",
-      "choices": ["Calgary", "Toronto", "Montreal", "Vancouver"],
-      "correct": 3,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Vancouver",
-        "verified": true,
-        "notes": "Calgary had hosted the 1988 Winter Games; Montreal the 1976 Summer Games."
-      }
-    },
-    {
-      "q": "Who became Canada's first female Prime Minister in 1993?",
-      "choices": ["Kim Campbell", "Audrey McLaughlin", "Elizabeth May", "Sheila Copps"],
+      "q": "In which year did Canada gain independence from British rule?",
+      "choices": [
+        "1867",
+        "1926",
+        "1982",
+        "1945"
+      ],
       "correct": 0,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Kim Campbell",
-        "verified": true,
-        "notes": "Served from June to November 1993 as leader of the Progressive Conservatives."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Along which latitude does most of the border between Canada and the contiguous United States run?",
-      "choices": ["45th parallel", "47th parallel", "49th parallel", "51st parallel"],
+      "q": "Which natural wonder is located on the border between Canada and the United States?",
+      "choices": [
+        "Grand Canyon",
+        "Niagara Falls",
+        "Yellowstone",
+        "Banff National Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the national animal of Canada?",
+      "choices": [
+        "Moose",
+        "Beaver",
+        "Polar Bear",
+        "Gray Wolf"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many provinces and territories does Canada have in total?",
+      "choices": [
+        "10",
+        "13",
+        "15",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain range runs along the western coast of Canada?",
+      "choices": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Sierra Nevada",
+        "Cascade Range"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary official language spoken across Canada?",
+      "choices": [
+        "French",
+        "English",
+        "Both English and French equally",
+        "German"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which explorer is credited with discovering the mainland of North America in 1497 on behalf of England?",
+      "choices": [
+        "Christopher Columbus",
+        "John Cabot",
+        "Vasco da Gama",
+        "Ferdinand Magellan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Canadian flag with the maple leaf design officially become the national flag?",
+      "choices": [
+        "1965",
+        "1960",
+        "1970",
+        "1957"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the longest river in Canada?",
+      "choices": [
+        "Columbia River",
+        "Mackenzie River",
+        "Yukon River",
+        "St. Lawrence River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city hosted the Summer Olympics in 1976?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What winter sport is Canada most famous for?",
+      "choices": [
+        "Figure skating",
+        "Ice hockey",
+        "Curling",
+        "Speed skating"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Canadian province is the Niagara Peninsula located?",
+      "choices": [
+        "Quebec",
+        "Ontario",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which body of water separates Canada from Greenland?",
+      "choices": [
+        "Hudson Bay",
+        "Davis Strait",
+        "Baffin Bay",
+        "Beaufort Sea"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "49th",
-        "verified": true,
-        "notes": "The 'straight-line' western section of the border follows the 49th parallel north."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Cirque du Soleil, the globally famous circus company, was founded in which Canadian province in 1984?",
-      "choices": ["Ontario", "Quebec", "British Columbia", "Alberta"],
-      "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Quebec",
-        "verified": true,
-        "notes": "Founded in Baie-Saint-Paul, Quebec by Guy Laliberté and Gilles Ste-Croix."
-      }
+      "q": "What does the 'M' stand for in the Canadian national motto 'A Mari Usque Ad Mare'?",
+      "choices": [
+        "Mountains",
+        "Maritime",
+        "Mare means 'sea'",
+        "Maple"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "The board game 'Trivial Pursuit', launched in 1981, was invented by two Canadians in which year?",
-      "choices": ["1975", "1979", "1983", "1988"],
+      "q": "Which Canadian prime minister served the longest tenure in office?",
+      "choices": [
+        "Pierre Trudeau",
+        "Brian Mulroney",
+        "Wilfrid Laurier",
+        "William Lyon Mackenzie King"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which province is Banff National Park located?",
+      "choices": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba"
+      ],
       "correct": 1,
-      "category": "Canada",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Trivial Pursuit",
-        "verified": true,
-        "notes": "Chris Haney and Scott Abbott conceived the game in Montreal in December 1979."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What currency does Canada use?",
+      "choices": [
+        "US Dollar",
+        "British Pound",
+        "Canadian Dollar",
+        "Euro"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian city is known as the 'Silicon Valley of Canada'?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Waterloo",
+        "Montreal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Canada adopt the metric system?",
+      "choices": [
+        "1975",
+        "1980",
+        "1970",
+        "1985"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Canada adopt its iconic maple leaf flag?",
+      "choices": [
+        "1965",
+        "1967",
+        "1960",
+        "1970"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which province is known as the 'Land of 10,000 Lakes'?",
+      "choices": [
+        "Ontario",
+        "Quebec",
+        "Manitoba",
+        "British Columbia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Canada officially become a dominion?",
+      "choices": [
+        "1867",
+        "1871",
+        "1885",
+        "1901"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Canada's largest province by area?",
+      "choices": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city is the CN Tower, one of Canada's most iconic landmarks, located?",
+      "choices": [
+        "Montreal",
+        "Vancouver",
+        "Toronto",
+        "Calgary"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the official currency of Canada?",
+      "choices": [
+        "Canadian Pound",
+        "Canadian Dollar",
+        "Canadian Euro",
+        "Canadian Franc"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian athlete won the most Olympic medals in history?",
+      "choices": [
+        "Wayne Gretzky",
+        "Clara Hughes",
+        "Jarome Iginla",
+        "Christine Sinclair"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Canada join World War II?",
+      "choices": [
+        "1939",
+        "1940",
+        "1941",
+        "1942"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NHL team has won the most Stanley Cups?",
+      "choices": [
+        "Toronto Maple Leafs",
+        "Montreal Canadiens",
+        "Edmonton Oilers",
+        "Vancouver Canucks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest province in Canada by area?",
+      "choices": [
+        "Prince Edward Island",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade did the St. Lawrence Seaway open?",
+      "choices": [
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian city hosted the 1976 Summer Olympics?",
+      "choices": [
+        "Vancouver",
+        "Montreal",
+        "Toronto",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country invaded Canada during the War of 1812?",
+      "choices": [
+        "France",
+        "Britain",
+        "United States",
+        "Spain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Canada achieve full independence from British rule?",
+      "choices": [
+        "1867",
+        "1926",
+        "1982",
+        "1945"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the Great Lakes is entirely within Canadian territory?",
+      "choices": [
+        "Lake Michigan",
+        "Lake Superior",
+        "Lake Huron",
+        "Lake Ontario"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the official language of Quebec?",
+      "choices": [
+        "English",
+        "French",
+        "Both English and French equally",
+        "Quebecois"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian province is the smallest by area?",
+      "choices": [
+        "Nova Scotia",
+        "Prince Edward Island",
+        "New Brunswick",
+        "Newfoundland and Labrador"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What natural wonder forms a border between Canada and the United States?",
+      "choices": [
+        "Banff Canyon",
+        "Niagara Falls",
+        "Rocky Mountain Pass",
+        "Great Slave Lake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Canadian flag with the red maple leaf officially adopted?",
+      "choices": [
+        "1957",
+        "1965",
+        "1971",
+        "1980"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian city hosted the Summer Olympics in 1976?",
+      "choices": [
+        "Montreal",
+        "Toronto",
+        "Vancouver",
+        "Calgary"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the longest river entirely within Canada?",
+      "choices": [
+        "Yukon River",
+        "Mackenzie River",
+        "St. Lawrence River",
+        "Fraser River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian province is known as the 'Land of 10,000 Lakes'?",
+      "choices": [
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba",
+        "Ontario"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the currency of Canada?",
+      "choices": [
+        "Canadian Dollar",
+        "Canadian Pound",
+        "Canadian Crown",
+        "Loonie"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which national park is Canada's oldest, established in 1885?",
+      "choices": [
+        "Glacier National Park",
+        "Banff National Park",
+        "Jasper National Park",
+        "Yoho National Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most populous province in Canada?",
+      "choices": [
+        "Quebec",
+        "British Columbia",
+        "Ontario",
+        "Alberta"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Newfoundland and Labrador join Canada as the tenth province?",
+      "choices": [
+        "1949",
+        "1945",
+        "1952",
+        "1960"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain range contains the highest peak in Canada?",
+      "choices": [
+        "Canadian Rockies",
+        "St. Elias Mountains",
+        "Coast Mountains",
+        "Cascade Range"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Canada's national animal?",
+      "choices": [
+        "Grizzly Bear",
+        "Beaver",
+        "Canadian Lynx",
+        "Moose"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian invented the telephone?",
+      "choices": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "George Westinghouse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the second-largest country in the world by land area?",
+      "choices": [
+        "United States",
+        "Canada",
+        "Russia",
+        "China"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sport did Canada invent that uses a rubber puck and ice skates?",
+      "choices": [
+        "Curling",
+        "Lacrosse",
+        "Ice Hockey",
+        "Ringette"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Justin Trudeau become Prime Minister of Canada?",
+      "choices": [
+        "2013",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian astronaut commanded the International Space Station in 2012?",
+      "choices": [
+        "Marc Garneau",
+        "Chris Hadfield",
+        "Robert Thirsk",
+        "Julie Payette"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Newfoundland join Canada as its 10th province?",
+      "choices": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city hosted the 1967 Expo World Fair?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Quebec City"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How often is the Canadian census conducted?",
+      "choices": [
+        "Every 3 years",
+        "Every 5 years",
+        "Every 7 years",
+        "Every 10 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian sprinter won the 100m Olympic gold in 1996?",
+      "choices": [
+        "Ben Johnson",
+        "Donovan Bailey",
+        "Andre De Grasse",
+        "Bruny Surin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Canadian city were the 2010 Winter Olympics held?",
+      "choices": [
+        "Calgary",
+        "Vancouver",
+        "Toronto",
+        "Montreal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which province is located directly west of Quebec?",
+      "choices": [
+        "Manitoba",
+        "Saskatchewan",
+        "Ontario",
+        "New Brunswick"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did the St. Lawrence Seaway open to traffic?",
+      "choices": [
+        "1954",
+        "1957",
+        "1959",
+        "1961"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian department store was founded by Timothy Eaton in the 19th century?",
+      "choices": [
+        "The Bay",
+        "Eaton's",
+        "Simpson's",
+        "Woodward's"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade did Cirque du Soleil first perform?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which battle took place on the Plains of Abraham in 1759?",
+      "choices": [
+        "Battle of Queenston Heights",
+        "Battle of Quebec",
+        "Battle of Lundy's Lane",
+        "Battle of Vimy Ridge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Canada's longest river?",
+      "choices": [
+        "Mackenzie River",
+        "Yukon River",
+        "St. Lawrence River",
+        "Fraser River"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which province is home to the Canadian Rockies?",
+      "choices": [
+        "British Columbia",
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the Red River Resistance lead to the creation of Manitoba?",
+      "choices": [
+        "1869",
+        "1871",
+        "1873",
+        "1875"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian province was the first to adopt responsible government?",
+      "choices": [
+        "Ontario",
+        "Nova Scotia",
+        "Quebec",
+        "New Brunswick"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Canadian territory did the Klondike Gold Rush occur?",
+      "choices": [
+        "Northwest Territories",
+        "Yukon",
+        "Nunavut",
+        "British Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Canada adopt its distinctive maple leaf flag?",
+      "choices": [
+        "1960",
+        "1965",
+        "1970",
+        "1975"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country invaded Canada in 1812?",
+      "choices": [
+        "France",
+        "United States",
+        "Britain",
+        "Spain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which date do Canadians celebrate Canada Day?",
+      "choices": [
+        "June 1",
+        "July 1",
+        "August 1",
+        "September 1"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which body of water forms a natural border between Canada and the United States?",
+      "choices": [
+        "St. Lawrence River",
+        "Great Lakes",
+        "Pacific Ocean",
+        "Hudson Bay"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which province is known as the birthplace of Canada's national sport, ice hockey?",
+      "choices": [
+        "Alberta",
+        "Ontario",
+        "Quebec",
+        "British Columbia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Canadian city hosted the Winter Olympics in 2010?",
+      "choices": [
+        "Calgary",
+        "Vancouver",
+        "Toronto",
+        "Montreal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade was the Canadian Pacific Railway completed?",
+      "choices": [
+        "1870s",
+        "1880s",
+        "1890s",
+        "1900s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous natural wonder straddles the border between Canada and the United States?",
+      "choices": [
+        "Lake Superior",
+        "Niagara Falls",
+        "Grand Canyon",
+        "Bay of Fundy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Newfoundland and Labrador join the Canadian Confederation?",
+      "choices": [
+        "1867",
+        "1905",
+        "1949",
+        "1967"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which explorer claimed Canadian territory for France in 1534?",
+      "choices": [
+        "Samuel de Champlain",
+        "Jacques Cartier",
+        "Pierre Radisson",
+        "Étienne Brûlé"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At which parallel latitude does the Canada-United States border primarily run?",
+      "choices": [
+        "42nd parallel",
+        "45th parallel",
+        "49th parallel",
+        "51st parallel"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
       "q": "On D-Day in 1944, Canadian forces landed on which code-named beach?",
-      "choices": ["Omaha", "Utah", "Juno", "Gold"],
+      "choices": [
+        "Omaha",
+        "Utah",
+        "Juno",
+        "Gold"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Juno",
-        "verified": true,
-        "notes": "Canadian 3rd Infantry Division landed at Juno on June 6, 1944."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "The 1896 Klondike Gold Rush primarily took place in which Canadian territory?",
-      "choices": ["Northwest Territories", "Yukon", "Nunavut", "Alaska"],
+      "choices": [
+        "Northwest Territories",
+        "Yukon",
+        "Nunavut",
+        "Alaska"
+      ],
       "correct": 1,
-      "category": "Canada",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Yukon",
-        "verified": true,
-        "notes": "Gold was found in a tributary of the Klondike River near Dawson City."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Which Canadian province became the first to grant women the right to vote, in 1916?",
-      "choices": ["Saskatchewan", "Ontario", "Manitoba", "British Columbia"],
+      "choices": [
+        "Saskatchewan",
+        "Ontario",
+        "Manitoba",
+        "British Columbia"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Manitoba",
-        "verified": true,
-        "notes": "Manitoba granted the provincial vote in January 1916, followed by Saskatchewan and Alberta."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Chief Tecumseh, a key ally of the British in the War of 1812, was the leader of which First Nation?",
-      "choices": ["Cree", "Mi'kmaq", "Shawnee", "Iroquois"],
+      "choices": [
+        "Cree",
+        "Mi'kmaq",
+        "Shawnee",
+        "Iroquois"
+      ],
       "correct": 2,
-      "category": "Canada",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Shawnee",
-        "verified": true,
-        "notes": "Killed at the Battle of the Thames in October 1813."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Canada officially adopt the maple leaf as its national symbol on the flag?",
+      "choices": [
+        "1965",
+        "1971",
+        "1957",
+        "1982"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian Prime Minister served the longest tenure in the 20th century?",
+      "choices": [
+        "William Lyon Mackenzie King",
+        "Pierre Trudeau",
+        "John Diefenbaker",
+        "Lester B. Pearson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Canadian Pacific Railway completed, connecting the nation from coast to coast?",
+      "choices": [
+        "1881",
+        "1885",
+        "1889",
+        "1892"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian scientist won the Nobel Prize in Physiology or Medicine in 1923 for the discovery of insulin?",
+      "choices": [
+        "Frederick Banting",
+        "James Bertram Collip",
+        "Charles Herbert Best",
+        "John James Rickard Macleod"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Nunavut, Canada's newest and largest territory by area?",
+      "choices": [
+        "Yellowknife",
+        "Iqaluit",
+        "Whitehorse",
+        "Hay River"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Avro Arrow, Canada's advanced jet interceptor, make its maiden flight?",
+      "choices": [
+        "1957",
+        "1958",
+        "1959",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which treaty established Canada's current western border with the United States in 1846?",
+      "choices": [
+        "Treaty of Paris",
+        "Oregon Treaty",
+        "Treaty of Washington",
+        "Rush-Bagot Agreement"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Canadian Charter of Rights and Freedoms officially patriated as part of the Constitution?",
+      "choices": [
+        "1979",
+        "1981",
+        "1982",
+        "1984"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian author won the Booker Prize in 1992 for the novel 'The English Patient'?",
+      "choices": [
+        "Margaret Atwood",
+        "Michael Ondaatje",
+        "Robertson Davies",
+        "Alice Munro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Canada's last execution by capital punishment take place?",
+      "choices": [
+        "1960",
+        "1962",
+        "1965",
+        "1968"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian musician composed the score for the 1997 film 'Titanic'?",
+      "choices": [
+        "Danny Elfman",
+        "James Horner",
+        "Hans Zimmer",
+        "John Williams"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Canada decriminalize homosexuality, becoming among the first nations to do so?",
+      "choices": [
+        "1967",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian hockey player scored the famous 'Golden Goal' at the 2002 Winter Olympics in Salt Lake City?",
+      "choices": [
+        "Peter Forsberg",
+        "Joe Sakic",
+        "Steve Yzerman",
+        "Mario Lemieux"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Confederation Bridge between New Brunswick and Prince Edward Island officially opened?",
+      "choices": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian film director's work 'Atanarjuat: The Fast Runner' won the Caméra d'Or at the 2001 Cannes Film Festival?",
+      "choices": [
+        "David Cronenberg",
+        "Zacharias Kunuk",
+        "Denis Villeneuve",
+        "Atom Egoyan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Quiet Revolution officially begin in Quebec, marking a major period of social and political transformation?",
+      "choices": [
+        "1958",
+        "1960",
+        "1962",
+        "1964"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian astronaut served as commander of the Space Shuttle Atlantis during the STS-41-G mission in 1984?",
+      "choices": [
+        "Marc Garneau",
+        "Robert Thirsk",
+        "Julie Payette",
+        "Roberta Bondar"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Canada sign the Kyoto Protocol, committing to greenhouse gas emission reductions?",
+      "choices": [
+        "1997",
+        "1998",
+        "2002",
+        "2005"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian author published 'Robertson Davies: The Deptford Trilogy' beginning with which novel in 1970?",
+      "choices": [
+        "Fifth Business",
+        "The Manticore",
+        "World of Wonders",
+        "Leaven of Malice"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Indian Act first introduced by the Canadian government, establishing federal control over Indigenous peoples?",
+      "choices": [
+        "1867",
+        "1876",
+        "1885",
+        "1896"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian province was the first to grant women the right to vote in provincial elections?",
+      "choices": [
+        "Ontario",
+        "Manitoba",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the indigenous Métis leader who led the 1885 Resistance in Saskatchewan?",
+      "choices": [
+        "Sitting Bull",
+        "Louis Riel",
+        "Tecumseh",
+        "Joseph Brant"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Canadian Pacific Railway completed, linking the country from coast to coast?",
+      "choices": [
+        "1881",
+        "1885",
+        "1891",
+        "1896"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian city hosted Expo '67, celebrating Canada's centennial with a world's fair?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Ottawa",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the American ship that sank in 1917 after colliding with the SS Mont-Blanc in Halifax Harbour, resulting in approximately 1,600 deaths?",
+      "choices": [
+        "HMS Titanic",
+        "USS Orca",
+        "SS Imo",
+        "HMS Pincher"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian mathematician and computer scientist invented the Canadarm used on the Space Shuttle?",
+      "choices": [
+        "Hubert Reeves",
+        "Marcian Hoff",
+        "Bart Giamatti",
+        "Philips Marchand"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Canada abolish capital punishment, making it one of the first Western nations to do so?",
+      "choices": [
+        "1976",
+        "1985",
+        "1992",
+        "1998"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian author won the Nobel Prize in Literature in 1957?",
+      "choices": [
+        "Alice Munro",
+        "Margaret Atwood",
+        "Gabrielle Roy",
+        "Bertrand Russell"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of Toronto before it was renamed in 1834?",
+      "choices": [
+        "York",
+        "Upper Canada",
+        "Fort George",
+        "New Albion"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Confederation of Canada occur, officially creating the Dominion of Canada?",
+      "choices": [
+        "1867",
+        "1871",
+        "1876",
+        "1881"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian province contains the Bay of Fundy, famous for having the highest tidal range in the world?",
+      "choices": [
+        "Nova Scotia",
+        "Newfoundland and Labrador",
+        "New Brunswick",
+        "Prince Edward Island"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the first Canadian-born Governor General of Canada, appointed in 1952?",
+      "choices": [
+        "Vincent Massey",
+        "Lester B. Pearson",
+        "Jeanne Sauvé",
+        "Roland Michener"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Newfoundland and Labrador join the Canadian Confederation?",
+      "choices": [
+        "1867",
+        "1905",
+        "1949",
+        "1967"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian athlete became the first North American-born woman to win an Olympic gold medal in figure skating?",
+      "choices": [
+        "Barbara Ann Scott",
+        "Tonya Harding",
+        "Nancy Kerrigan",
+        "Michelle Kwan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Canada's official residence for the head of state, located in Ottawa?",
+      "choices": [
+        "Rideau Hall",
+        "Parliament Hill",
+        "Buckingham Palace",
+        "The Citadel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Canada introduce the metric system as its official measurement standard?",
+      "choices": [
+        "1970",
+        "1973",
+        "1975",
+        "1977"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian Impressionist painter was known for his distinctive series of paintings depicting water lilies and haystacks in the Canadian landscape?",
+      "choices": [
+        "Tom Thomson",
+        "Lawren Harris",
+        "A.Y. Jackson",
+        "Frederick Varley"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Canadian Bill of Rights adopted as part of the Canadian Constitution?",
+      "choices": [
+        "1960",
+        "1965",
+        "1971",
+        "1982"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian-born film director won the Academy Award for Best Director for the film 'Titanic' in 1998?",
+      "choices": [
+        "David Cronenberg",
+        "James Cameron",
+        "Norman Jewison",
+        "Denis Villeneuve"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Canada officially adopt the Maple Leaf flag, replacing the Union Jack-featuring Red Ensign?",
+      "choices": [
+        "1963",
+        "1965",
+        "1967",
+        "1969"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian Nobel Prize winner in Physiology or Medicine discovered the insulin treatment for diabetes in 1921?",
+      "choices": [
+        "Frederick Banting",
+        "John Macleod",
+        "Charles Best",
+        "James Collip"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the strait that separates mainland Canada from Vancouver Island?",
+      "choices": [
+        "Hecate Strait",
+        "Georgia Strait",
+        "Queen Charlotte Strait",
+        "Johnstone Strait"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1885, which Canadian railway was completed, connecting the Atlantic and Pacific coasts?",
+      "choices": [
+        "Canadian Northern Railway",
+        "Canadian Pacific Railway",
+        "Grand Trunk Railway",
+        "Intercolonial Railway"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which province ratified Confederation first in 1867, making it the founding province?",
+      "choices": [
+        "Quebec",
+        "Ontario",
+        "Nova Scotia",
+        "New Brunswick"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the Avro Arrow, Canada's supersonic interceptor aircraft, first fly?",
+      "choices": [
+        "1955",
+        "1957",
+        "1959",
+        "1961"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Native American/First Nations leader signed the numbered treaties with the Canadian Crown between 1871 and 1921?",
+      "choices": [
+        "Louis Riel",
+        "Crowfoot",
+        "Joseph Brant",
+        "Multiple leaders across different tribes"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Pierre Elliott Trudeau introduce the Official Languages Act, making Canada officially bilingual?",
+      "choices": [
+        "1967",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian city hosted the 1976 Summer Olympic Games?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the easternmost point of Canada on the North American mainland?",
+      "choices": [
+        "Cape Spear",
+        "Cape Race",
+        "Cabo da Roca",
+        "Cape St. Charles"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1995, a referendum was held in which province with a question about separation from Canada?",
+      "choices": [
+        "New Brunswick",
+        "Quebec",
+        "Nova Scotia",
+        "Prince Edward Island"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian authored the novel 'One Hundred Years of Solitude' and won the Nobel Prize in Literature?",
+      "choices": [
+        "Margaret Atwood",
+        "Michael Ondaatje",
+        "This is a trick question; the author is Colombian",
+        "Robertson Davies"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Canada sign the North American Free Trade Agreement (NAFTA)?",
+      "choices": [
+        "1990",
+        "1992",
+        "1994",
+        "1996"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian general led the United Nations peacekeeping force during the 1956 Suez Crisis?",
+      "choices": [
+        "Harry Foster",
+        "Lester B. Pearson",
+        "John A. Macdonald",
+        "Lyman Duff"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the deepest lake in Canada by maximum depth?",
+      "choices": [
+        "Great Bear Lake",
+        "Great Slave Lake",
+        "Crater Lake",
+        "Lake Superior"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Canadian Red Ensign officially cease to be used as the national flag?",
+      "choices": [
+        "1965",
+        "1967",
+        "1968",
+        "1970"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian scientist won the 1957 Nobel Prize in Physics for research on cloud chambers?",
+      "choices": [
+        "Donald Hebb",
+        "Bertrand Brockhouse",
+        "John Polanyi",
+        "Gerhard Herzberg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Canadian Constitution patriated from the United Kingdom?",
+      "choices": [
+        "1979",
+        "1981",
+        "1982",
+        "1984"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian city served as the capital of the Dominion of Canada before Ottawa was chosen?",
+      "choices": [
+        "Montreal",
+        "Toronto",
+        "Quebec City",
+        "Kingston"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1999, which territory was created and officially separated from the Northwest Territories?",
+      "choices": [
+        "Yukon",
+        "Nunavut",
+        "Denendeh",
+        "Dene Nation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Halifax Explosion occur, killing approximately 1,600 people in one of Canada's worst maritime disasters?",
+      "choices": [
+        "1915",
+        "1917",
+        "1919",
+        "1921"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Frederick Banting and Charles Best's groundbreaking work on insulin, for which they won the Nobel Prize, revolutionized the treatment of which disease?",
+      "choices": [
+        "Tuberculosis",
+        "Polio",
+        "Diabetes",
+        "Influenza"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kurt Browning made Olympic history by becoming the first figure skater in competition to successfully land which jumping element?",
+      "choices": [
+        "Triple axel",
+        "Quadruple lutz",
+        "Quadruple toeloop",
+        "Triple flip"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian province granted women the right to vote in provincial elections first, in 1916, preceding other provinces and the federal government?",
+      "choices": [
+        "Ontario",
+        "Manitoba",
+        "Alberta",
+        "British Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Nunavut, Canada's newest territory created in 1999, was carved out from which previously existing territory?",
+      "choices": [
+        "Yukon",
+        "Northwest Territories",
+        "British Columbia",
+        "Saskatchewan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sir James Douglas, the founder and first governor of which Canadian province, played a crucial role in establishing its colonial government?",
+      "choices": [
+        "Vancouver Island and British Columbia",
+        "Alberta",
+        "Manitoba",
+        "Saskatchewan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Clara Hughes, Canada's most decorated Olympian, competed in which two distinct Olympic sports?",
+      "choices": [
+        "Figure skating and speed skating",
+        "Cycling and speed skating",
+        "Swimming and cycling",
+        "Speed skating and skiing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which city hosted the 1976 Summer Olympics, constructing the iconic Stade Olympique with its distinctive arched roof?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The West Edmonton Mall, which opened in 1985 near Edmonton, held the title of world's largest shopping mall until surpassed by a mall in which country?",
+      "choices": [
+        "South Korea",
+        "China",
+        "United Arab Emirates",
+        "United States"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The St. Lawrence Seaway, which opened in the 1950s, connects Lake Ontario to the Atlantic Ocean and forms part of the border with which country?",
+      "choices": [
+        "Mexico",
+        "United States",
+        "Greenland",
+        "Iceland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cirque du Soleil, the renowned Canadian entertainment company, was founded in Quebec in which decade?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Klondike Gold Rush of the 1890s centered on which Canadian territory, where prospectors sought fortunes in the frozen north?",
+      "choices": [
+        "Alaska",
+        "Northwest Territories",
+        "Yukon",
+        "British Columbia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Canadian Pacific Railway was completed in which decade, connecting the Atlantic and Pacific coasts?",
+      "choices": [
+        "1870s",
+        "1880s",
+        "1890s",
+        "1900s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Canada hosted the Winter Olympics in 2010 in which Pacific coast city?",
+      "choices": [
+        "Vancouver",
+        "Victoria",
+        "Calgary",
+        "Whistler"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chantal Petitclerc, Canada's most decorated Paralympian, competed in which sport across multiple Paralympic Games?",
+      "choices": [
+        "Wheelchair basketball",
+        "Wheelchair racing",
+        "Sitting volleyball",
+        "Para-swimming"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ben Johnson's doping scandal at the 1988 Summer Olympics stripped him of his gold medal in which event?",
+      "choices": [
+        "400 meters",
+        "100 meters",
+        "200 meters",
+        "1500 meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The October Crisis of 1970 in Quebec involved the kidnapping of which two prominent figures by the FLQ?",
+      "choices": [
+        "Prime Minister and Governor General",
+        "Minister and Labour Leader",
+        "Minister of Labour and British Trade Commissioner",
+        "Provincial Premier and Federal Minister"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many fish workers lost their livelihoods when the Atlantic cod fishery collapsed in the early 1990s?",
+      "choices": [
+        "15,000",
+        "25,000",
+        "38,000",
+        "50,000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Timothy Eaton, a Canadian entrepreneur, revolutionized retail in the 19th century by pioneering which retail business model?",
+      "choices": [
+        "Discount warehouse clubs",
+        "Department stores with mail-order catalogs",
+        "Franchise fast-food chains",
+        "Chain drugstores"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Canadian census is conducted at what interval to measure the nation's population and demographics?",
+      "choices": [
+        "Every 3 years",
+        "Every 5 years",
+        "Every 10 years",
+        "Every 7 years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1989, the Exxon Valdez oil tanker ran aground near which Canadian territory, causing a major environmental disaster in North American waters?",
+      "choices": [
+        "British Columbia",
+        "Alaska",
+        "Yukon Territory",
+        "Northwest Territories"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian-born inventor developed the practical telephone before Alexander Graham Bell's patent, though his claims were largely overlooked until decades later?",
+      "choices": [
+        "Reginald Fessenden",
+        "Antonio Meucci",
+        "Philip Reis",
+        "Elisha Gray"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The FLQ (Front de libération du Québec) orchestrated the kidnapping of British diplomat James Cross and Quebec politician Pierre Laporte in which year?",
+      "choices": [
+        "1963",
+        "1970",
+        "1976",
+        "1982"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian national park, established in 1885, was the first national park in North America?",
+      "choices": [
+        "Banff National Park",
+        "Yellowstone National Park",
+        "Jasper National Park",
+        "Glacier National Park"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Terry Fox, the Canadian amputee runner, completed how many miles of his cross-country Marathon of Hope before his journey ended in 1980?",
+      "choices": [
+        "1,500 miles",
+        "2,191 miles",
+        "3,000 miles",
+        "2,800 miles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Avro Arrow, Canada's supersonic interceptor aircraft, was developed during the Cold War but was cancelled in which year?",
+      "choices": [
+        "1957",
+        "1959",
+        "1961",
+        "1963"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Canadian fur trader and explorer was the first European to cross North America by land, reaching the Pacific Ocean in 1793?",
+      "choices": [
+        "David Thompson",
+        "Alexander Mackenzie",
+        "Simon Fraser",
+        "Pierre Radisson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who is the all-time leading goal scorer in NHL history?",
+      "choices": [
+        "Gordie Howe",
+        "Mario Lemieux",
+        "Wayne Gretzky",
+        "Bobby Orr"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scottish-born Canadian inventor is credited with patenting the telephone in 1876?",
+      "choices": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Elisha Gray",
+        "Guglielmo Marconi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The CN Tower, once the world's tallest free-standing structure, is located in which Canadian city?",
+      "choices": [
+        "Montreal",
+        "Toronto",
+        "Ottawa",
+        "Calgary"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian territory was created in 1999, carved out of the Northwest Territories?",
+      "choices": [
+        "Yukon",
+        "Nunavut",
+        "Labrador",
+        "Baffin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original name of the Canadian holiday now known as 'Canada Day'?",
+      "choices": [
+        "Empire Day",
+        "Dominion Day",
+        "Federation Day",
+        "Victoria Day"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province has French as its sole official language?",
+      "choices": [
+        "New Brunswick",
+        "Quebec",
+        "Ontario",
+        "Manitoba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian city hosted the 2010 Winter Olympics?",
+      "choices": [
+        "Calgary",
+        "Toronto",
+        "Montreal",
+        "Vancouver"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who became Canada's first female Prime Minister in 1993?",
+      "choices": [
+        "Kim Campbell",
+        "Audrey McLaughlin",
+        "Elizabeth May",
+        "Sheila Copps"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Along which latitude does most of the border between Canada and the contiguous United States run?",
+      "choices": [
+        "45th parallel",
+        "47th parallel",
+        "49th parallel",
+        "51st parallel"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cirque du Soleil, the globally famous circus company, was founded in which Canadian province in 1984?",
+      "choices": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The board game 'Trivial Pursuit', launched in 1981, was invented by two Canadians in which year?",
+      "choices": [
+        "1975",
+        "1979",
+        "1983",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Titanic sink after striking an iceberg in waters off the coast of Newfoundland?",
+      "choices": [
+        "1910",
+        "1912",
+        "1915",
+        "1918"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian-born actor won the Academy Award for Best Supporting Actor for his role in 'Brokeback Mountain'?",
+      "choices": [
+        "Ryan Gosling",
+        "Jake Gyllenhaal",
+        "Heath Ledger",
+        "Michael J. Fox"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Canadian Pacific Railway completed, connecting the country from coast to coast?",
+      "choices": [
+        "1885",
+        "1891",
+        "1902",
+        "1912"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian author wrote 'Anne of Green Gables,' the beloved novel set on Prince Edward Island?",
+      "choices": [
+        "Margaret Laurence",
+        "L.M. Montgomery",
+        "Margaret Atwood",
+        "Alice Munro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The St. Lawrence Seaway, which opened in 1959, connects the Great Lakes to which ocean?",
+      "choices": [
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian physician discovered insulin alongside Charles Best in the early 1920s?",
+      "choices": [
+        "Norman Bethune",
+        "Frederick Banting",
+        "Wilder Penfield",
+        "Hans Selye"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did Canada adopt the Maple Leaf as its national flag?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian musician and activist was shot and killed in New York City in 1980?",
+      "choices": [
+        "Neil Young",
+        "Leonard Cohen",
+        "John Lennon",
+        "Joni Mitchell"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Bay of Fundy, located between Nova Scotia and New Brunswick, is famous for having the world's highest what?",
+      "choices": [
+        "Tides",
+        "Waves",
+        "Cliffs",
+        "Waterfalls"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Margaret Atwood's dystopian novel 'The Handmaid's Tale' was published in which year?",
+      "choices": [
+        "1983",
+        "1985",
+        "1987",
+        "1989"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province has the longest coastline of any province or territory?",
+      "choices": [
+        "British Columbia",
+        "Quebec",
+        "Newfoundland and Labrador",
+        "Northwest Territories"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Canada officially become a fully independent nation with the passage of the Constitution Act?",
+      "choices": [
+        "1867",
+        "1926",
+        "1982",
+        "1995"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian ice hockey player scored the famous 'Golden Goal' for Canada at the 2002 Winter Olympics?",
+      "choices": [
+        "Wayne Gretzky",
+        "Joe Sakic",
+        "Mario Lemieux",
+        "Steve Yzerman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Avro Arrow, a supersonic fighter jet, was developed by a Canadian company in which decade before being famously cancelled?",
+      "choices": [
+        "1940s",
+        "1950s",
+        "1960s",
+        "1970s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian-American actor is known for playing Superman in the 1978 film and subsequent sequels?",
+      "choices": [
+        "Christopher Reeve",
+        "Brandon Routh",
+        "Henry Cavill",
+        "Tom Welling"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Canadian nuclear accident occur at the Chalk River facility?",
+      "choices": [
+        "1944",
+        "1952",
+        "1963",
+        "1979"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian city is known as the 'Oil Capital of Canada' due to its petroleum industry?",
+      "choices": [
+        "Calgary",
+        "Edmonton",
+        "Fort McMurray",
+        "Lethbridge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Canadian Shield, one of the largest geological formations in North America, covers approximately what percentage of Canada?",
+      "choices": [
+        "25%",
+        "35%",
+        "50%",
+        "65%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian tennis player won the Men's Singles title at the 2016 Canadian Open in Montreal?",
+      "choices": [
+        "Milos Raonic",
+        "Denis Shapovalov",
+        "Vasek Pospisil",
+        "Rajeev Ram"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Canada replace the one-dollar bill with a coin, marking a significant shift in currency circulation?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian coin was officially discontinued in 2013 after decades of circulation?",
+      "choices": [
+        "Nickel",
+        "Dime",
+        "Penny",
+        "Quarter"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did Cirque du Soleil first begin performing, launching its acrobatic empire from Canada?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian region experienced the Klondike Gold Rush, drawing prospectors seeking fortune in the late 1890s?",
+      "choices": [
+        "British Columbia",
+        "Alberta",
+        "Yukon",
+        "Northwest Territories"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which historic battle between French and British forces took place on the Plains of Abraham in 1759?",
+      "choices": [
+        "Battle of Lundy's Lane",
+        "Battle of Quebec",
+        "Battle of Sainte-Foy",
+        "Battle of Montmorency"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Canadian city was Expo 67, a major World's Fair, held?",
+      "choices": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year marked the 50th anniversary of the Canadian flag's adoption?",
+      "choices": [
+        "2012",
+        "2015",
+        "2017",
+        "2019"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian Nobel laureate won the Prize in Chemistry in 1989 for discovering catalytic RNA?",
+      "choices": [
+        "Michael Smith",
+        "Sidney Altman",
+        "Rudolph Marcus",
+        "Willard Libby"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Canada participated in a boycott of which country's 1980 Olympic Games held in Moscow?",
+      "choices": [
+        "East Germany",
+        "Soviet Union",
+        "China",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province was the first to establish responsible government, a milestone in democratic development?",
+      "choices": [
+        "Upper Canada",
+        "Nova Scotia",
+        "Prince Edward Island",
+        "New Brunswick"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which province was the first in Canada to grant women the right to vote in provincial elections?",
+      "choices": [
+        "British Columbia",
+        "Ontario",
+        "Manitoba",
+        "Saskatchewan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous Canadian inventor developed the telephone in the 19th century?",
+      "choices": [
+        "Reginald Fessenden",
+        "Alexander Graham Bell",
+        "Guglielmo Marconi",
+        "Thomas Edison"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Timothy Eaton founded which type of business enterprise that became a Canadian retail institution?",
+      "choices": [
+        "General Store",
+        "Department Store",
+        "Hardware Store",
+        "Five and Dime"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian city was the location of the West Edmonton Mall when it opened in 1985?",
+      "choices": [
+        "Calgary",
+        "Edmonton",
+        "Winnipeg",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what sport did Wayne Gretzky earn the nickname 'The Great One' during his illustrious career?",
+      "choices": [
+        "American Football",
+        "Ice Hockey",
+        "Basketball",
+        "Lacrosse"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province did Joey Smallwood serve as premier for an extended period in the 20th century?",
+      "choices": [
+        "Nova Scotia",
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "New Brunswick"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian author and historian is renowned for his narrative works documenting the nation's frontier and railway history?",
+      "choices": [
+        "Farley Mowat",
+        "Pierre Berton",
+        "Margaret Atwood",
+        "Robertson Davies"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Queen Elizabeth II became the Head of State of Canada in which year following the death of King George VI?",
+      "choices": [
+        "1950",
+        "1951",
+        "1952",
+        "1953"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian supermodel rose to international fame during the 1980s and 1990s as part of the supermodel era?",
+      "choices": [
+        "Naomi Campbell",
+        "Linda Evangelista",
+        "Cindy Crawford",
+        "Tyra Banks"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Canadian city did a mosque shooting occur in early 2017, resulting in multiple casualties?",
+      "choices": [
+        "Toronto",
+        "Montreal",
+        "Ottawa",
+        "Vancouver"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Canada officially adopt its maple leaf flag, replacing the previous Red Ensign design?",
+      "choices": [
+        "1963",
+        "1965",
+        "1967",
+        "1971"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province was the last to join Confederation, doing so in 1949?",
+      "choices": [
+        "Prince Edward Island",
+        "Newfoundland and Labrador",
+        "Nova Scotia",
+        "New Brunswick"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the famous waterfall located on the border between Ontario and New York State?",
+      "choices": [
+        "Takakkaw Falls",
+        "Niagara Falls",
+        "Montmorency Falls",
+        "Athabasca Falls"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian athlete won Olympic gold in figure skating in 1988 at the Calgary Winter Olympics?",
+      "choices": [
+        "Nancy Greene",
+        "Brian Orser",
+        "Jayne Torvill",
+        "Elvis Stojko"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Canadian Pacific Railway complete its transcontinental route across Canada?",
+      "choices": [
+        "1883",
+        "1885",
+        "1887",
+        "1889"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian city hosted the Summer Olympic Games in 1976?",
+      "choices": [
+        "Vancouver",
+        "Toronto",
+        "Montreal",
+        "Calgary"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official residence of the Governor General of Canada?",
+      "choices": [
+        "24 Sussex Drive",
+        "Rideau Hall",
+        "Parliament House",
+        "Stornoway"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province is known as 'The Land of Living Skies' and borders Montana?",
+      "choices": [
+        "Alberta",
+        "Saskatchewan",
+        "Manitoba",
+        "British Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the longest river entirely within Canadian borders?",
+      "choices": [
+        "Yukon River",
+        "Mackenzie River",
+        "Fraser River",
+        "St. Lawrence River"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did Canada introduce universal healthcare at the federal level?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major event occurred at Confederation Square in Ottawa on July 1, 1867?",
+      "choices": [
+        "First Olympic Games held in Canada",
+        "Declaration of Canadian independence",
+        "First Canadian Parliament opened",
+        "Official proclamation of Confederation"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian musician won a Grammy Award for Best Alternative Album in 1995 with the album 'Jagged Little Pill'?",
+      "choices": [
+        "Alanis Morissette",
+        "Shania Twain",
+        "k.d. lang",
+        "Céline Dion"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Canadian province is the CN Tower, one of the world's tallest free-standing structures, located?",
+      "choices": [
+        "British Columbia",
+        "Alberta",
+        "Ontario",
+        "Quebec"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the mountain range that forms the western boundary of the Canadian Prairies?",
+      "choices": [
+        "Appalachian Mountains",
+        "Rocky Mountains",
+        "Cascade Range",
+        "Sierra Nevada"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian province was the site of the Klondike Gold Rush discovery in 1896?",
+      "choices": [
+        "British Columbia",
+        "Alberta",
+        "Yukon",
+        "Northwest Territories"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What document, adopted in 1982, patriated Canada's constitution from the United Kingdom?",
+      "choices": [
+        "Canadian Bill of Rights",
+        "Constitution Act, 1982",
+        "British North America Act",
+        "Canadian Independence Charter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian city is the capital of British Columbia?",
+      "choices": [
+        "Vancouver",
+        "Victoria",
+        "Surrey",
+        "Kelowna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Canada sign the Free Trade Agreement with the United States?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian city is situated at the confluence of the Saskatchewan and North Saskatchewan rivers?",
+      "choices": [
+        "Calgary",
+        "Winnipeg",
+        "Edmonton",
+        "Red Deer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Canadian province did the circus performance company Cirque du Soleil originate in the 1980s?",
+      "choices": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What board game, invented by Canadian Scott Abbott in 1979, became a worldwide party phenomenon centered around answering trivia questions?",
+      "choices": [
+        "Monopoly",
+        "Risk",
+        "Trivial Pursuit",
+        "Scrabble"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Canada officially rename Dominion Day to Canada Day?",
+      "choices": [
+        "1976",
+        "1981",
+        "1985",
+        "1990"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian explorer, born in Italy, is credited with early European exploration of North America around 1497?",
+      "choices": [
+        "Samuel de Champlain",
+        "John Cabot",
+        "Jacques Cartier",
+        "Henry Hudson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1793, Lieutenant Governor John Graves Simcoe of Upper Canada passed legislation prohibiting which practice?",
+      "choices": [
+        "Child labor",
+        "Slavery",
+        "Alcohol sales",
+        "Religious discrimination"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major maritime disaster occurred near Halifax in 1917, resulting in approximately 1,600 deaths?",
+      "choices": [
+        "Sinking of the Lusitania",
+        "Halifax Explosion",
+        "SS Titanic collision",
+        "Princess Alice disaster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which decade did Tim Hortons open its first location, establishing what would become an iconic Canadian coffee chain?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian astronaut became the first Canadian to walk in space in 2001?",
+      "choices": [
+        "Marc Garneau",
+        "Chris Hadfield",
+        "Roberta Bondar",
+        "Julie Payette"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1992, the Toronto Blue Jays won which major championship, making them the first Canadian team to do so?",
+      "choices": [
+        "Stanley Cup",
+        "World Series",
+        "Grey Cup",
+        "Vanier Cup"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Canadian sprinter set a world record in the 100-meter dash in 1996, running 9.84 seconds?",
+      "choices": [
+        "Ben Johnson",
+        "Andre De Grasse",
+        "Donovan Bailey",
+        "Bruny Surin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What invention by Scottish-born Canadian Alexander Graham Bell revolutionized long-distance communication?",
+      "choices": [
+        "The telegraph",
+        "The radio",
+        "The telephone",
+        "The television"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1949, which Atlantic Canadian province joined Confederation as the tenth province?",
+      "choices": [
+        "Prince Edward Island",
+        "New Brunswick",
+        "Nova Scotia",
+        "Newfoundland and Labrador"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Red River Resistance of 1869-1870 led directly to the creation of which Canadian province?",
+      "choices": [
+        "Saskatchewan",
+        "Manitoba",
+        "Alberta",
+        "British Columbia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did a referendum on Quebec independence take place that nearly resulted in the province leaving Canada?",
+      "choices": [
+        "1980",
+        "1995",
+        "2005",
+        "2010"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major Canadian waterway, opened in 1959, connects the Great Lakes to the Atlantic Ocean?",
+      "choices": [
+        "Welland Canal",
+        "St. Lawrence Seaway",
+        "Rideau Canal",
+        "Sault Ste. Marie Canal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1988, Ben Johnson's Olympic medal was stripped away due to violations involving which substance?",
+      "choices": [
+        "Amphetamines",
+        "Anabolic steroids",
+        "Cocaine",
+        "Marijuana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Quebec's Pauline Marois made history in 2012 by becoming the province's first female holder of which political office?",
+      "choices": [
+        "Mayor of Montreal",
+        "Provincial Premier",
+        "Federal Member of Parliament",
+        "Chief Justice"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NHL team won the Stanley Cup a record 24 times, the most of any franchise in hockey history?",
+      "choices": [
+        "Toronto Maple Leafs",
+        "Montreal Canadiens",
+        "Edmonton Oilers",
+        "Calgary Flames"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Confederation of Canada officially unite four provinces into the Dominion of Canada?",
+      "choices": [
+        "1867",
+        "1871",
+        "1873",
+        "1876"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

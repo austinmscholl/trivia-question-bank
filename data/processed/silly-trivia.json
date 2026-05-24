@@ -1,279 +1,1943 @@
 {
   "slug": "silly-trivia",
-  "name": "Silly Facts",
-  "description": "Strange-but-true bits of trivia from across the universe.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Silly",
+  "processedAt": "2026-05-24T20:43:43.721Z",
   "questions": [
     {
-      "q": "Which planet rotates clockwise (when viewed from above) — opposite of all the others?",
-      "choices": ["Venus", "Mercury", "Mars", "Jupiter"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Venus",
-        "verified": true,
-        "notes": "Uranus is tilted on its side, but Venus rotates retrograde."
-      }
-    },
-    {
-      "q": "How many hearts does an octopus have?",
-      "choices": ["3", "1", "2", "5"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Octopus",
-        "verified": true,
-        "notes": "Two pump blood through the gills, one through the body."
-      }
-    },
-    {
-      "q": "What is the smallest country in the world?",
-      "choices": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Vatican City",
-        "verified": true,
-        "notes": "0.49 sq km."
-      }
-    },
-    {
-      "q": "Which animal sleeps the most — up to 22 hours a day?",
-      "choices": ["Koala", "Sloth", "Cat", "Lion"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "Koalas sleep 18-22 hours/day due to their low-energy eucalyptus diet."
-      }
-    },
-    {
-      "q": "How long does sunlight take to reach Earth from the Sun?",
-      "choices": ["8 minutes 20 seconds", "1 hour", "Instantly", "30 seconds"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "8 minutes and 20 seconds",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How long is one day on Venus (longer than its year!)?",
-      "choices": ["243 Earth days", "24 hours", "100 Earth days", "1 Earth year"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "243 Earth days",
-        "verified": true,
-        "notes": "Venus's year (orbit) is only 225 Earth days, so a day there is longer than a year!"
-      }
-    },
-    {
-      "q": "Which mythical creature is Scotland's national animal?",
-      "choices": ["Unicorn", "Loch Ness Monster", "Phoenix", "Dragon"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Unicorn",
-        "verified": true,
-        "notes": "Adopted by Scotland in the late 1300s."
-      }
-    },
-    {
-      "q": "Which is the only continent that lies entirely in the Southern Hemisphere?",
-      "choices": ["Antarctica", "Australia", "South America", "Africa"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "Australia and South America cross the equator; Africa straddles it."
-      }
-    },
-    {
-      "q": "What was the original color of the Eiffel Tower (before its current 'Eiffel Tower brown')?",
+      "q": "Which ocean animal is famous for holding hands with its companions to avoid drifting apart while sleeping?",
       "choices": [
-        "Red-brown",
-        "Yellow",
-        "Green",
-        "Black"
+        "Sea lions",
+        "Sea otters",
+        "Seals",
+        "Manatees"
       ],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Red-brown",
-        "verified": true,
-        "notes": "Painted in five different shades of brown over the years."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "How many moons does Earth have?",
-      "choices": ["1", "0", "2", "3"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "One",
-        "verified": true,
-        "notes": "Often called 'The Moon' or 'Luna.'"
-      }
-    },
-    {
-      "q": "Approximately how long would it take to fall through a hypothetical hole to Earth's core?",
-      "choices": ["~20 minutes", "1 hour", "1 day", "1 week"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "19 minutes",
-        "verified": true,
-        "notes": "Theoretical free-fall in vacuum, ignoring temperature/pressure."
-      }
-    },
-    {
-      "q": "Where in the U.S. did the first roller coaster reportedly debut?",
-      "choices": ["Coney Island, NY", "Disneyland, CA", "Cedar Point, OH", "Six Flags, NJ"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Coney Island",
-        "verified": true,
-        "notes": "1884 'Switchback Railway' designed by LaMarcus Adna Thompson."
-      }
-    },
-    {
-      "q": "Who is widely credited as the inventor of the World Wide Web in 1989?",
       "choices": [
-        "Tim Berners-Lee",
+        "Three",
+        "Two",
+        "One",
+        "None"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet takes the longest time to complete a single rotation on its axis?",
+      "choices": [
+        "Mercury",
+        "Venus",
+        "Mars",
+        "Saturn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Scottish mythology, what is the national animal of Scotland?",
+      "choices": [
+        "Eagle",
+        "Lion",
+        "Unicorn",
+        "Dragon"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fictional character famously pulled a sword from a stone?",
+      "choices": [
+        "Lancelot",
+        "Merlin",
+        "King Arthur",
+        "Galahad"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many U.S. states have coastlines on the Pacific Ocean?",
+      "choices": [
+        "Three",
+        "Five",
+        "Seven",
+        "Nine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the Statue of Liberty originally designed to function as?",
+      "choices": [
+        "A restaurant",
+        "A lighthouse",
+        "A museum",
+        "A prison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has more pyramids than Egypt?",
+      "choices": [
+        "Mexico",
+        "Sudan",
+        "Peru",
+        "Iraq"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal can produce the loudest sound of any living creature?",
+      "choices": [
+        "African elephant",
+        "Sperm whale",
+        "Blue whale",
+        "Howler monkey"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What did the tiny pocket on jeans originally hold?",
+      "choices": [
+        "Coins",
+        "Pocket watches",
+        "Keys",
+        "Medicine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is credited with inventing the World Wide Web?",
+      "choices": [
         "Bill Gates",
         "Steve Jobs",
-        "Vint Cerf"
+        "Tim Berners-Lee",
+        "Alan Turing"
       ],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Tim Berners-Lee",
-        "verified": true,
-        "notes": "Invented at CERN; first public website went live August 1991."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which is the largest mammal that has ever lived on Earth?",
+      "q": "Which U.S. state is home to the Grand Canyon?",
       "choices": [
-        "Blue whale",
+        "Utah",
+        "Arizona",
+        "Colorado",
+        "Nevada"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Philippines, what unexpected dish does McDonald's serve on its menu?",
+      "choices": [
+        "McRice",
+        "McSpaghetti",
+        "McAdobo",
+        "McUmpay"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet rotates clockwise when viewed from above, opposite to most other planets?",
+      "choices": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Saturn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the world's largest underwater waterfall located in?",
+      "choices": [
+        "The Atlantic Ocean",
+        "The Caribbean Sea",
+        "The Denmark Strait",
+        "The Pacific Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system is named after the Roman god of war?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of a baby kangaroo that spends its early life in its mother's pouch?",
+      "choices": [
+        "Joey",
+        "Kit",
+        "Pup",
+        "Calf"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many countries make up the United Kingdom?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system rotates in the opposite direction from most other planets?",
+      "choices": [
+        "Mars",
+        "Venus",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many seconds are in a single day?",
+      "choices": [
+        "43,200",
+        "86,400",
+        "172,800",
+        "259,200"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean mammal holds hands with its companions to avoid drifting apart while sleeping?",
+      "choices": [
+        "Seal",
+        "Sea otter",
+        "Manatee",
+        "Dolphin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal can hold its breath longer than a dolphin while underwater?",
+      "choices": [
+        "Beaver",
+        "Sloth",
+        "Manatee",
+        "Otter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient that holds sushi together?",
+      "choices": [
+        "Nori",
+        "Rice",
+        "Wasabi",
+        "Soy sauce"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what age did the person who invented ice pops accidentally create them?",
+      "choices": [
+        "Seven years old",
+        "Nine years old",
+        "Eleven years old",
+        "Thirteen years old"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which scientist organized the elements on the periodic table?",
+      "choices": [
+        "Albert Einstein",
+        "Dmitri Mendeleev",
+        "Marie Curie",
+        "Ernest Rutherford"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how many muscles does the human body contain?",
+      "choices": [
+        "Over 300",
+        "Over 400",
+        "Over 500",
+        "Over 600"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US state has the most national parks?",
+      "choices": [
+        "California",
+        "Colorado",
+        "Utah",
+        "Wyoming"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What category of animals includes kangaroos, koalas, and wombats?",
+      "choices": [
+        "Primates",
+        "Marsupials",
+        "Monotremes",
+        "Placental mammals"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is the bathtub in the White House?",
+      "choices": [
+        "Gold",
+        "Marble",
+        "White",
+        "Black"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which African country contains more pyramids than Egypt?",
+      "choices": [
+        "Libya",
+        "Sudan",
+        "Ethiopia",
+        "Morocco"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of France, known as one of the world's most historic and stylish cities?",
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Toulouse"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game show has been on television since the 1970s and is known for its spinning wheel?",
+      "choices": [
+        "Jeopardy!",
+        "The Price Is Right",
+        "Wheel of Fortune",
+        "Family Feud"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How long would it theoretically take to fall through a hole from Earth's surface to its core?",
+      "choices": [
+        "About 5 minutes",
+        "About 19 minutes",
+        "About 45 minutes",
+        "About 90 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What distance can a polar bear travel while swimming without rest?",
+      "choices": [
+        "Up to 50 miles",
+        "Up to 100 miles",
+        "Up to 150 miles",
+        "Up to 200 miles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system is known for its distinctive rings?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is known for its ability to change color to match its surroundings?",
+      "choices": [
+        "Parrot",
+        "Chameleon",
+        "Peacock",
+        "Butterfly"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many days are in a standard year?",
+      "choices": [
+        "360",
+        "365",
+        "370",
+        "375"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mammal is the fastest land animal?",
+      "choices": [
+        "Lion",
+        "Gazelle",
+        "Cheetah",
+        "Antelope"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color do you get when you mix red and blue paint?",
+      "choices": [
+        "Green",
+        "Orange",
+        "Purple",
+        "Brown"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal has a neck so long it could be mistaken for a giraffe's fashion statement?",
+      "choices": [
+        "Ostrich",
+        "Giraffe",
+        "Llama",
+        "Flamingo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Scotland's official national animal, despite being entirely mythical?",
+      "choices": [
+        "Dragon",
+        "Unicorn",
+        "Phoenix",
+        "Griffin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many moons does Earth have orbiting around it?",
+      "choices": [
+        "Zero",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is famous for both oranges and extensive beaches?",
+      "choices": [
+        "California",
+        "Texas",
+        "Florida",
+        "Hawaii"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a baby goat commonly called?",
+      "choices": [
+        "Calf",
+        "Kid",
+        "Lamb",
+        "Foal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many seconds are in a complete 24-hour day?",
+      "choices": [
+        "60,000",
+        "72,400",
+        "86,400",
+        "96,000"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean creature holds hands with others to avoid drifting apart while sleeping?",
+      "choices": [
+        "Seal",
+        "Sea otter",
+        "Manatee",
+        "Dolphin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the original color of the Eiffel Tower before it was painted gold and other colors?",
+      "choices": [
+        "Brown",
+        "Red-brown",
+        "Gray",
+        "Black"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is closest to the Sun and experiences the most intense heat?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Earth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of a baby goat?",
+      "choices": [
+        "Calf",
+        "Kid",
+        "Lamb",
+        "Fawn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many times does an average human heart beat in a single day?",
+      "choices": [
+        "Approximately 86,400 times",
+        "Approximately 100,000 times",
+        "Approximately 50,000 times",
+        "Approximately 150,000 times"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the letter J officially join the English alphabet as a distinct letter separate from I?",
+      "choices": [
+        "1524",
+        "1632",
+        "1701",
+        "1850"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many heartbeats does an average human experience over the course of one calendar year?",
+      "choices": [
+        "36.5 million",
+        "52.6 million",
+        "73.2 million",
+        "100.8 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which element on the periodic table was the last to be officially named after a living scientist?",
+      "choices": [
+        "Fermium",
+        "Einsteinium",
+        "Meitnerium",
+        "Rutherfordium"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original exterior color of the Statue of Liberty before it oxidized to its iconic green patina?",
+      "choices": [
+        "Shiny copper-brown",
+        "Dark grey iron",
+        "Reddish-orange",
+        "Polished brass yellow"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did an 11-year-old boy accidentally invent the popsicle by leaving a frozen fruit drink outside overnight?",
+      "choices": [
+        "1905",
+        "1923",
+        "1934",
+        "1945"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which nation was designated as the official host of the 2021 Summer Olympic Games after the original host withdrew?",
+      "choices": [
+        "Japan",
+        "South Korea",
+        "Thailand",
+        "Singapore"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many seconds occur in a complete 24-hour period?",
+      "choices": [
+        "43,200",
+        "64,800",
+        "86,400",
+        "108,000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the scientific name for the symbol # that became ubiquitous on social media platforms?",
+      "choices": [
+        "Hash symbol",
+        "Octothorpe",
+        "Pound sign",
+        "Grid marker"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many individual muscles does the human body contain?",
+      "choices": [
+        "206",
+        "306",
+        "506",
+        "606"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Arctic marine mammal is capable of swimming continuous distances exceeding 100 miles without rest?",
+      "choices": [
+        "Walrus",
+        "Polar bear",
+        "Narwhal",
+        "Beluga whale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the smallest bird species in the world, native to Cuba?",
+      "choices": [
+        "Goldcrest",
+        "Bee hummingbird",
+        "Wren",
+        "Firecrest"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which sea creature possesses exactly three hearts distributed throughout its body?",
+      "choices": [
+        "Giant squid",
+        "Cuttlefish",
+        "Octopus",
+        "Chambered nautilus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Greenland shark is notable for possessing which exceptional characteristic among vertebrates?",
+      "choices": [
+        "The slowest metabolism of any fish",
+        "The longest recorded lifespan of any vertebrate",
+        "The deepest diving capability",
+        "The lowest body temperature"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What animal serves as the official national animal of Scotland despite being entirely mythological?",
+      "choices": [
+        "Phoenix",
+        "Dragon",
+        "Unicorn",
+        "Gryphon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Canberra officially replace Sydney as the capital city of Australia?",
+      "choices": [
+        "1927",
+        "1935",
+        "1943",
+        "1951"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How long does sunlight take to travel from the Sun's surface to Earth's atmosphere?",
+      "choices": [
+        "5 minutes and 20 seconds",
+        "8 minutes and 20 seconds",
+        "12 minutes and 10 seconds",
+        "15 minutes and 30 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which human body part is incapable of self-repair and cannot regenerate once damaged?",
+      "choices": [
+        "Cartilage",
+        "Tooth enamel",
+        "Skin cells",
+        "Bone tissue"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animal can accelerate faster than any land-based competitor over short distances?",
+      "choices": [
+        "Pronghorn antelope",
+        "Gazelle",
+        "Cheetah",
+        "Greyhound"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original color of the Eiffel Tower's iron structure before adopting its current paint scheme?",
+      "choices": [
+        "Bright red",
+        "Dark brown with reddish tones",
+        "Metallic silver",
+        "Deep purple"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many bones comprise the adult human skeleton?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1905, an 11-year-old boy named Frank Epperson accidentally invented which frozen treat by leaving a sugared drink with a stick outside overnight?",
+      "choices": [
+        "Ice cream cone",
+        "Popsicle",
+        "Frozen juice bar",
+        "Shaved ice"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Renaissance artist and polymath created 'The Mona Lisa' and filled thousands of notebook pages with mirror writing and anatomical sketches?",
+      "choices": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sea otters are known to hold hands while sleeping to prevent themselves from drifting apart in the ocean—what is this behavioral adaptation called?",
+      "choices": [
+        "Pod linking",
+        "Raft holding",
+        "Rafting",
+        "Anchor gripping"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Denmark Strait, located between Greenland and Iceland, is home to which unique underwater geological feature that defies typical water behavior?",
+      "choices": [
+        "Underwater volcano",
+        "Underwater waterfall",
+        "Thermal vent field",
+        "Submerged canyon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1989, which Berlin structure fell, symbolizing the end of Cold War division in Europe?",
+      "choices": [
+        "Brandenburg Gate",
+        "The Berlin Wall",
+        "Reichstag Building",
+        "East Side Gallery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which planet in our solar system rotates on its axis in the opposite direction compared to most other planets, a phenomenon called retrograde rotation?",
+      "choices": [
+        "Mercury",
+        "Mars",
+        "Venus",
+        "Jupiter"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The human body contains approximately how many muscles that are engaged in work while performing stationary activities?",
+      "choices": [
+        "200-300",
+        "Over 600",
+        "400-500",
+        "800-900"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "If a person fell through a hole that extended straight to Earth's core without air resistance, approximately how long would the fall take?",
+      "choices": [
+        "42 minutes",
+        "6 minutes",
+        "19 minutes",
+        "33 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which sea creature possesses three hearts and is famous for its intelligence and ability to change color and texture?",
+      "choices": [
+        "Squid",
+        "Octopus",
+        "Cuttlefish",
+        "Jellyfish"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before serving its iconic role in New York Harbor, what was the original primary function of the Statue of Liberty?",
+      "choices": [
+        "Monument to French-American friendship",
+        "Lighthouse",
+        "Prison",
+        "Trade customs station"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Canberra became Australia's capital in 1927, replacing which larger and more established city in that role?",
+      "choices": [
+        "Melbourne",
+        "Sydney",
+        "Brisbane",
+        "Perth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Greenland shark has an extraordinarily slow metabolism and can live for how many centuries, making it one of Earth's longest-lived vertebrates?",
+      "choices": [
+        "3-5 centuries",
+        "Over 4 centuries",
+        "1-2 centuries",
+        "6-8 centuries"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for a young kangaroo that develops inside its mother's pouch during early life stages?",
+      "choices": [
+        "Pup",
+        "Calf",
+        "Joey",
+        "Kit"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kangaroos, koalas, and wombats all belong to which exclusive biological classification of animals?",
+      "choices": [
+        "Monotremes",
+        "Marsupials",
+        "Placentals",
+        "Monotherians"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What color was the Eiffel Tower originally painted before it was repainted to match the iconic Paris aesthetic we know today?",
+      "choices": [
+        "Yellow-ochre",
+        "Red-brown",
+        "Dark gray",
+        "Bronze"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Philippines, McDonald's serves a unique sweet and savory pasta dish called what?",
+      "choices": [
+        "McPasta",
+        "McSpaghetti",
+        "McDoodles",
+        "McNoodles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. president reportedly gave away a lucky charm and subsequently expressed deep regret over the decision?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Benjamin Harrison",
+        "James Garfield"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Polar bears can swim continuously for approximately how many miles without requiring rest or sustenance?",
+      "choices": [
+        "50 miles",
+        "75 miles",
+        "100 miles",
+        "150 miles"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The human skeleton is composed of approximately how many distinct bones in an adult body?",
+      "choices": [
+        "186 bones",
+        "206 bones",
+        "226 bones",
+        "246 bones"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which longtime American game show has been featuring its signature wheel and pricing game since 1956, making it one of the longest-running game shows?",
+      "choices": [
+        "Jeopardy!",
+        "The Price Is Right",
+        "Wheel of Fortune",
+        "Family Feud"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the medical term for the fear of the word 'hippopotomonstrosesquippedaliophobia' itself?",
+      "choices": [
+        "Hippopotomonstrosesquippedaliophobia",
+        "Nomophobia",
+        "Arachibutyrophobia",
+        "Pogonophobia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. president famously gave away a treasured rabbit's foot and subsequently lost three consecutive chess matches?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Benjamin Harrison",
+        "James A. Garfield"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1975, McDonald's conducted a limited test market for a broccoli-flavored burger variant in which U.S. state?",
+      "choices": [
+        "California",
+        "Oregon",
+        "Iowa",
+        "Illinois"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The shortest scheduled airline flight in the world, from Westray to Papa Westray in Scotland, typically lasts how many minutes under ideal conditions?",
+      "choices": [
+        "47 minutes",
+        "2 minutes",
+        "15 minutes",
+        "8 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "A Venusian day—one complete rotation on its axis—lasts approximately how many Earth days?",
+      "choices": [
+        "117 days",
+        "243 days",
+        "365 days",
+        "180 days"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish national symbol is technically a mythical creature that has never been scientifically documented?",
+      "choices": [
+        "Golden Eagle",
+        "Red Squirrel",
+        "Unicorn",
+        "Loch Ness Monster"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "An octopus possesses how many hearts, yet cannot experience romantic love like mammals?",
+      "choices": [
+        "Two hearts",
+        "Three hearts",
+        "Four hearts",
+        "Five hearts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sunlight reaches Earth's surface after traveling through space for approximately how long?",
+      "choices": [
+        "5 minutes and 30 seconds",
+        "8 minutes and 20 seconds",
+        "12 minutes and 45 seconds",
+        "3 minutes and 15 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2010, which music icon performed at the MTV Video Music Awards wearing a dress made entirely of raw beef?",
+      "choices": [
+        "Britney Spears",
+        "Madonna",
+        "Lady Gaga",
+        "Bjork"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The English alphabet adopted its 26th and final letter in what approximate era?",
+      "choices": [
+        "Medieval period (1200s)",
+        "Renaissance (1400s-1500s)",
+        "Early modern period (1600s)",
+        "Industrial era (1800s)"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "A proposed humorous Russian law from the 1990s suggested that which animals would be required to carry identification documents?",
+      "choices": [
+        "Wolves",
+        "Bears",
+        "Moose",
+        "Wild boars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sloths can hold their breath underwater for longer than which marine mammal?",
+      "choices": [
+        "Whales",
+        "Seals",
+        "Dolphins",
+        "Sea lions"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Philippines, McDonald's menu infamously features a sweet spaghetti dish called what?",
+      "choices": [
+        "McPasta",
+        "McSpaghetti",
+        "Sweet Noodle Supreme",
+        "Fried Spaghetti Burger"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When Dmitri Mendeleev organized the periodic table of elements in 1869, he left gaps for undiscovered elements based on what principle?",
+      "choices": [
+        "Mathematical patterns in atomic weight",
+        "Color-coding systems",
+        "Geographical location of discovery",
+        "Alphabetical ordering"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Frank Epperson invented the popsicle accidentally in 1905 at what age?",
+      "choices": [
+        "8 years old",
+        "11 years old",
+        "14 years old",
+        "16 years old"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many seconds elapse in a single 24-hour day, without accounting for leap seconds?",
+      "choices": [
+        "43,200 seconds",
+        "72,000 seconds",
+        "86,400 seconds",
+        "108,000 seconds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NBA player earned the nickname 'The Black Mamba' and built his legend with the Los Angeles Lakers?",
+      "choices": [
+        "Michael Jordan",
+        "LeBron James",
+        "Kobe Bryant",
+        "Magic Johnson"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Russia holds the distinction of being the largest country by land area—approximately how many times larger is it than the United States?",
+      "choices": [
+        "1.3 times",
+        "1.8 times",
+        "2.2 times",
+        "2.9 times"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Denmark Strait between Greenland and Iceland contains the world's largest underwater waterfall, which descends approximately how many meters?",
+      "choices": [
+        "1,500 meters",
+        "3,500 meters",
+        "5,000 meters",
+        "8,000 meters"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Buzz Aldrin became the second human to walk on the Moon in 1969, but what was his primary role on Apollo 11?",
+      "choices": [
+        "Command Module Pilot",
+        "Lunar Module Pilot",
+        "Mission Control Director",
+        "Backup Commander"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of rotating its ears independently to pinpoint sound sources from different directions?",
+      "choices": [
         "African elephant",
-        "Argentinosaurus",
-        "Mammoth"
+        "Greater wax moth",
+        "Barn owl",
+        "fennec fox"
       ],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Blue whale",
-        "verified": true,
-        "notes": "Up to 100 ft long and 200 tons."
-      }
+      "correct": 3,
+      "difficulty": "hard"
     },
     {
-      "q": "Which famous phrase is misattributed to French queen Marie Antoinette, who almost certainly never said it?",
+      "q": "Which European city serves as the capital of two separate countries simultaneously?",
       "choices": [
-        "Let them eat cake",
-        "L'état, c'est moi",
-        "Après moi, le déluge",
-        "Je ne regrette rien"
+        "Basel, Switzerland and France",
+        "Vaduz, Liechtenstein and Switzerland",
+        "Brussels, Belgium and the European Union",
+        "Strasbourg, France and the European Parliament"
       ],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Let them eat cake",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: replaced false premise that 'cake' is named after Marie Antoinette. Original French 'Qu'ils mangent de la brioche' predates her; no evidence she ever said it."
-      }
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "Which is the deepest known point on Earth's surface?",
+      "q": "What is the only ocean current that completely circumnavigates the entire Earth without being interrupted by any landmass?",
       "choices": [
-        "Challenger Deep (Mariana Trench)",
-        "Tonga Trench",
-        "Java Trench",
-        "Puerto Rico Trench"
+        "Gulf Stream",
+        "Antarctic Circumpolar Current",
+        "Kuroshio Current",
+        "Brazil Current"
       ],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "~10,935 m below sea level."
-      }
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "Which animal's fingerprints are nearly indistinguishable from human ones?",
+      "q": "In what year did the last guillotine execution occur in France?",
       "choices": [
-        "Koala",
-        "Chimpanzee",
-        "Gorilla",
-        "Orangutan"
+        "1977",
+        "1963",
+        "1951",
+        "1939"
       ],
       "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "Koala fingerprints have been mistaken for human prints at crime scenes."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which color do bananas surprisingly glow under blacklight (UV)?",
-      "choices": ["Blue", "Green", "Red", "Yellow"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "Due to chlorophyll-breakdown products in ripening peels."
-      }
+      "q": "Which land animal has the longest migration route relative to its body size?",
+      "choices": [
+        "Gray whale",
+        "Arctic tern",
+        "Wildebeest",
+        "Desert locust"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
     },
     {
-      "q": "Which sea creatures hold hands while sleeping so they don't drift apart?",
-      "choices": ["Sea otters", "Dolphins", "Manatees", "Beavers"],
-      "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "Or wrap themselves in kelp."
-      }
+      "q": "What is the only U.S. state that does not observe Daylight Saving Time, except for one county?",
+      "choices": [
+        "Arizona",
+        "Hawaii",
+        "Indiana",
+        "Alaska"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
     },
     {
-      "q": "What's the only food that doesn't spoil — the same stuff found edible in 3000-year-old Egyptian tombs?",
-      "choices": ["Honey", "Salt", "Sugar", "Olive oil"],
+      "q": "Which chemical element was named after the Roman goddess of agriculture and wealth?",
+      "choices": [
+        "Ceres (dwarf planet, not element)",
+        "Thorium",
+        "Cerium",
+        "Plutonium"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only continent that does not have an active volcano on its surface?",
+      "choices": [
+        "Australia",
+        "Antarctica",
+        "Europe",
+        "Africa"
+      ],
       "correct": 0,
-      "category": "Silly Facts",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Silly Facts",
-        "verified": true,
-        "notes": "Low water + acidic + antibacterial enzymes from bees keep honey shelf-stable forever."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Shakespearean play contains the fewest number of lines and words of all his works?",
+      "choices": [
+        "The Comedy of Errors",
+        "Macbeth",
+        "The Tempest",
+        "Measure for Measure"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage of Earth's oxygen is produced by ocean phytoplankton rather than terrestrial plants?",
+      "choices": [
+        "Approximately 25 percent",
+        "Approximately 50 percent",
+        "Approximately 75 percent",
+        "Less than 10 percent"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which planet in our solar system is theorized to have a surface composed largely of diamond?",
+      "choices": [
+        "Venus",
+        "55 Cancri e",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many seconds pass in a single 24-hour day?",
+      "choices": [
+        "43,200",
+        "86,400",
+        "129,600",
+        "172,800"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which land animal is capable of running faster than an Olympic sprinter at its top speed?",
+      "choices": [
+        "Lion",
+        "Antelope",
+        "Cheetah",
+        "Greyhound"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country contains more pyramids than Egypt?",
+      "choices": [
+        "Mexico",
+        "Sudan",
+        "Peru",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many constituent countries make up the United Kingdom?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest island in the world that is not a continent?",
+      "choices": [
+        "Madagascar",
+        "Borneo",
+        "Greenland",
+        "New Guinea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many times does the human heart beat in a 24-hour period?",
+      "choices": [
+        "50,000",
+        "75,000",
+        "100,000",
+        "150,000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long does sunlight take to reach Earth from the Sun?",
+      "choices": [
+        "4 minutes and 20 seconds",
+        "6 minutes and 30 seconds",
+        "8 minutes and 20 seconds",
+        "10 minutes and 45 seconds"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which body part in humans cannot repair or regenerate itself naturally?",
+      "choices": [
+        "Skin",
+        "Hair",
+        "Teeth",
+        "Fingernails"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many capital cities does South Africa have?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the formal name for the # symbol used in hashtags?",
+      "choices": [
+        "Hash",
+        "Pound sign",
+        "Octothorpe",
+        "Grid symbol"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country has more national parks than any other nation in the world?",
+      "choices": [
+        "Canada",
+        "United States",
+        "Australia",
+        "Brazil"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient in sushi that holds the other components together?",
+      "choices": [
+        "Seaweed",
+        "Rice",
+        "Fish",
+        "Vinegar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Japan host the Summer Olympic Games in Tokyo?",
+      "choices": [
+        "2016",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European capital city is known as the world's fashion and art capital?",
+      "choices": [
+        "Milan",
+        "London",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before becoming a famous tourist attraction, what was the original primary function of the Statue of Liberty?",
+      "choices": [
+        "A museum",
+        "A lighthouse",
+        "A fort",
+        "A lookout tower"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animal species ages remarkably slowly and can live for several centuries?",
+      "choices": [
+        "Tortoise",
+        "Whale",
+        "Greenland shark",
+        "Parrot"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tiny European nation-state has the smallest population of any independent country?",
+      "choices": [
+        "Monaco",
+        "Liechtenstein",
+        "Vatican City",
+        "San Marino"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did World War II begin in Europe?",
+      "choices": [
+        "1937",
+        "1938",
+        "1939",
+        "1940"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system has a distinctive reddish appearance?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 2010, which music artist wore a dress made of raw meat to the MTV Video Music Awards?",
+      "choices": [
+        "Britney Spears",
+        "Lady Gaga",
+        "Nicki Minaj",
+        "Rihanna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which part of the human body cannot regenerate or repair itself naturally throughout a person's lifetime?",
+      "choices": [
+        "Hair follicles",
+        "Skin cells",
+        "Tooth enamel",
+        "Bone marrow"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many natural satellites does Earth have?",
+      "choices": [
+        "Zero",
+        "One",
+        "Two",
+        "Three"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What small, often-ignored pocket on jeans was originally designed to hold what item?",
+      "choices": [
+        "Coins",
+        "Pocket watches",
+        "Keys",
+        "Matches"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the formal technical name for the symbol # commonly used on social media?",
+      "choices": [
+        "Hash mark",
+        "Octothorpe",
+        "Pound sign",
+        "Grid symbol"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What unusual menu item does McDonald's serve in the Philippines that combines two typically separate food categories?",
+      "choices": [
+        "McSpaghetti",
+        "McTacos",
+        "McCurry",
+        "McPizza"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bird species is one of the smallest in the world and is often compared to insects in size?",
+      "choices": [
+        "Wren",
+        "Sparrow",
+        "Bee hummingbird",
+        "Warbler"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate percentage of the human body composed of water?",
+      "choices": [
+        "40%",
+        "50%",
+        "60%",
+        "75%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animal holds the distinction of being Scotland's official national animal?",
+      "choices": [
+        "Eagle",
+        "Unicorn",
+        "Lion",
+        "Thistle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Arthurian legend, which legendary figure is most famously associated with pulling a sword from a stone?",
+      "choices": [
+        "Lancelot",
+        "Merlin",
+        "King Arthur",
+        "Excalibur"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many Earth days does it take Venus to complete one full rotation on its axis?",
+      "choices": [
+        "88 days",
+        "165 days",
+        "243 days",
+        "365 days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the second person to walk on the Moon during the Apollo 11 mission?",
+      "choices": [
+        "Michael Collins",
+        "Buzz Aldrin",
+        "Alan Bean",
+        "Pete Conrad"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for a young goat?",
+      "choices": [
+        "Colt",
+        "Lamb",
+        "Kid",
+        "Fawn"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which reality singing competition show features a big wheel and contestant prices that get lower?",
+      "choices": [
+        "American Idol",
+        "The Voice",
+        "The Price Is Right",
+        "Deal or No Deal"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the nickname of NBA player Kobe Bryant, inspired by a type of snake?",
+      "choices": [
+        "The Viper",
+        "The Black Mamba",
+        "The Python",
+        "The Cobra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system is closest to the Sun and receives the most direct solar radiation?",
+      "choices": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many states in the United States begin with the letter 'A'?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did the Statue of Liberty become a lighthouse?",
+      "choices": [
+        "1886",
+        "1876",
+        "1892",
+        "1869"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animal can run faster than 70 miles per hour?",
+      "choices": [
+        "Lion",
+        "Cheetah",
+        "Gazelle",
+        "Greyhound"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ancient grain was used to make bread in Egypt thousands of years ago?",
+      "choices": [
+        "Barley",
+        "Emmer wheat",
+        "Spelt",
+        "Millet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long does one complete day last on Venus?",
+      "choices": [
+        "117 Earth days",
+        "165 Earth days",
+        "243 Earth days",
+        "365 Earth days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the world's largest island that is not a continent?",
+      "choices": [
+        "Madagascar",
+        "Borneo",
+        "Greenland",
+        "New Guinea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At what age did Frank Epperson accidentally invent the popsicle?",
+      "choices": [
+        "Eight years old",
+        "Eleven years old",
+        "Thirteen years old",
+        "Fifteen years old"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original purpose of the small pocket on jeans?",
+      "choices": [
+        "Coin storage",
+        "Pocket watch storage",
+        "Tobacco storage",
+        "Needle and thread storage"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. states have coastlines along the Pacific Ocean?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the shortest scheduled airline flight in the world?",
+      "choices": [
+        "3 minutes from Westray to Papa Westray",
+        "5 minutes from Cozumel to Cancun",
+        "7 minutes from Turks Head to Salt Cay",
+        "2 minutes from Santa Monica to Long Beach"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animal belonging to the marsupial family is known for koalas and kangaroos?",
+      "choices": [
+        "Wombats",
+        "All of these",
+        "Bandicoots",
+        "Quokkas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which deep-sea creature possesses three hearts and is known for its exceptional intelligence despite having no bones?",
+      "choices": [
+        "Octopus",
+        "Squid",
+        "Cuttlefish",
+        "Jellyfish"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Eiffel Tower receive its distinctive reddish-brown paint job before being repainted to its modern color?",
+      "choices": [
+        "1889",
+        "1900",
+        "1920",
+        "1944"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many independent nations comprise the political union known as the United Kingdom?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state borders the most time zones when accounting for its geographic span?",
+      "choices": [
+        "California",
+        "Texas",
+        "Alaska",
+        "Hawaii"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Greenland shark is notable for reaching extreme ages; approximately how many years can this species live?",
+      "choices": [
+        "50-75 years",
+        "150-200 years",
+        "300+ years",
+        "1000+ years"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Denmark Strait is home to which underwater phenomenon that rivals waterfalls on land?",
+      "choices": [
+        "Underwater volcano",
+        "Underwater waterfall",
+        "Massive whirlpool",
+        "Deep trench"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system has a surface temperature hot enough to melt lead and reflects more sunlight than Venus?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Mars",
+        "Jupiter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary reason humans cannot naturally repair their teeth once the enamel is damaged?",
+      "choices": [
+        "Teeth lack living cells",
+        "The body prioritizes other organs",
+        "Enamel contains no regenerative tissue",
+        "Teeth are technically not part of the skeleton"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The small pocket found on most jeans was originally designed to hold what object?",
+      "choices": [
+        "Coins",
+        "Pocket watches",
+        "Tobacco",
+        "Sewing needles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,294 +1,2262 @@
 {
   "slug": "valorant-trivia",
   "name": "Valorant",
-  "description": "Riot's tactical hero shooter — agents, abilities, the Spike, and esports.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.775Z",
   "questions": [
     {
-      "q": "Which company developed and publishes Valorant?",
+      "q": "What game engine does Valorant run on?",
       "choices": [
-        "Riot Games",
-        "Valve",
-        "Activision Blizzard",
-        "Bungie"
+        "Unreal Engine 4",
+        "Unity",
+        "Godot",
+        "id Tech"
       ],
       "correct": 0,
-      "category": "Valorant",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Riot Games",
-        "verified": true,
-        "notes": "Same studio behind League of Legends."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In what year was Valorant officially released?",
-      "choices": ["2020", "2018", "2022", "2019"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "June 2, 2020",
-        "verified": true,
-        "notes": "Released June 2, 2020."
-      }
-    },
-    {
-      "q": "What was Valorant's codename during development?",
-      "choices": ["Project A", "Project Y", "Project N", "Codename Bullet"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Project A",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the explosive device that attackers must plant in standard Valorant matches?",
-      "choices": ["Spike", "Bomb", "Beacon", "Charge"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many players are on each team in a standard Valorant match?",
-      "choices": ["5", "4", "6", "10"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Five",
-        "verified": true,
-        "notes": "5v5 with attackers vs defenders."
-      }
-    },
-    {
-      "q": "How many rounds must a team win to take a standard competitive Valorant match?",
+      "q": "Which streaming platform was used to distribute closed beta access keys for Valorant?",
       "choices": [
-        "13",
-        "16",
-        "10",
-        "20"
+        "YouTube",
+        "Twitch",
+        "Facebook Gaming",
+        "Discord"
       ],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Best of 24 rounds; teams switch sides at 12. Overtime requires 2-round lead."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What term is used for the playable characters in Valorant?",
-      "choices": ["Agents", "Champions", "Heroes", "Operators"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which Valorant role specializes in entry-fragging and aggressive plays?",
-      "choices": ["Duelist", "Sentinel", "Initiator", "Controller"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Four",
-        "verified": true,
-        "notes": "4 roles: Duelist, Sentinel, Initiator, Controller."
-      }
-    },
-    {
-      "q": "Which Valorant role focuses on placing smokes and area control?",
+      "q": "What is the highest rank a player can achieve in Valorant's competitive ranking system?",
       "choices": [
-        "Controller",
+        "Diamond",
+        "Immortal",
+        "Radiant",
+        "Ascendant"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the mobile spin-off of Valorant announced?",
+      "choices": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many rounds must a team win to secure victory in Spike Rush mode?",
+      "choices": [
+        "3 rounds",
+        "4 rounds",
+        "5 rounds",
+        "6 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which two popular competitive games is Valorant commonly compared to?",
+      "choices": [
+        "Call of Duty and Halo",
+        "Counter-Strike: Global Offensive and Overwatch",
+        "Apex Legends and Fortnite",
+        "Rainbow Six Siege and PUBG"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What award did Valorant win at The Game Awards in 2022?",
+      "choices": [
+        "Best New IP",
+        "Best Esports Game",
+        "Best Competitive Game",
+        "Game of the Year"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of system was introduced in Valorant's Premier mode that differs from other modes?",
+      "choices": [
+        "Draft system",
+        "Pick-and-ban system for maps",
+        "Rotating agent system",
+        "Randomized loadout system"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many rounds are played in Swiftplay mode?",
+      "choices": [
+        "Best of 7 rounds",
+        "Best of 9 rounds",
+        "Best of 11 rounds",
+        "Best of 13 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is one of the four primary agent roles in Valorant?",
+      "choices": [
+        "Assassin",
         "Duelist",
+        "Sniper",
+        "Medic"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date did Valorant's closed beta period end?",
+      "choices": [
+        "April 3, 2020",
+        "May 28, 2020",
+        "June 2, 2020",
+        "July 15, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What technology does Riot Vanguard use that has been a topic of security discussion?",
+      "choices": [
+        "User-mode anticheat",
+        "Kernel driver",
+        "Browser extension",
+        "Virtual machine monitoring"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which regions were initially included in Valorant's console beta?",
+      "choices": [
+        "North America only",
+        "Europe and Asia",
+        "United States, Canada, Europe, and Japan",
+        "Worldwide"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What genres best describe Valorant?",
+      "choices": [
+        "Battle royale and survival",
+        "Hero shooter and tactical shooter",
+        "Multiplayer online battle arena and strategy",
+        "First-person puzzle and exploration"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How long does a Team Deathmatch match continue if neither team reaches 100 kills?",
+      "choices": [
+        "5 minutes",
+        "7 minutes and 30 seconds",
+        "9 minutes and 30 seconds",
+        "12 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What were Valorant's minimum hardware requirements designed to be?",
+      "choices": [
+        "Very demanding to ensure competitive fairness",
+        "Notably low to ensure accessibility",
+        "Standard for modern FPS games",
+        "Higher than industry average"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Valorant's three-tier competitive tournament structure?",
+      "choices": [
+        "Pro League, Master Tour, Qualifier Series",
+        "Champions, Masters, Challengers",
+        "Elite, Advanced, Standard",
+        "Tier 1, Tier 2, Tier 3"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Team Deathmatch mode, what are two ways players can charge their ultimate ability?",
+      "choices": [
+        "Eliminating opponents or capturing objectives",
+        "Acquiring Ultimate Orbs or getting kills",
+        "Planting spike or winning rounds",
+        "Collecting power-ups or dealing damage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What specific modification did Riot Games make to Unreal Engine 4 for Valorant?",
+      "choices": [
+        "Created a new proprietary rendering system",
+        "Edited the renderer using the engine's mobile rendering path as base",
+        "Replaced the entire physics engine",
+        "Removed all graphical effects"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Riot Games' stated target for player ping in Valorant?",
+      "choices": [
+        "Under 50 milliseconds",
+        "Less than 35 milliseconds",
+        "Around 60 milliseconds",
+        "Below 100 milliseconds"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Valorant's anti-cheat system developed by Riot Games?",
+      "choices": [
+        "Vanguard",
         "Sentinel",
-        "Initiator"
+        "Guardian",
+        "Protector"
       ],
       "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Includes Brimstone, Omen, Viper, Astra, Harbor, Clove."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Valorant role is defensive — locking down sites and gathering info?",
+      "q": "In what year was Valorant officially announced with its first gameplay reveal?",
       "choices": [
-        "Sentinel",
-        "Duelist",
-        "Controller",
-        "Initiator"
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many agent roles exist in Valorant's character system?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the highest competitive rank a player can achieve in Valorant?",
+      "choices": [
+        "Immortal",
+        "Radiant",
+        "Diamond",
+        "Ascendant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what player level can you begin playing Valorant's Competitive game mode?",
+      "choices": [
+        "Level 10",
+        "Level 15",
+        "Level 20",
+        "Level 25"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game director at Riot Games is credited with the initial concept for Valorant?",
+      "choices": [
+        "Joe Ziegler",
+        "Marc Merrill",
+        "Brandon Beck",
+        "Christian Linke"
       ],
       "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Includes Cypher, Killjoy, Sage, Chamber, Deadlock."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Korean wind-controlling Duelist uses dashes, knives, and updrafts?",
-      "choices": ["Jett", "Phoenix", "Yoru", "Reyna"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Jett",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: rewrote stem (Jett is wind-themed not dragon-themed; she's a Radiant not 'radianite'; no reflect ability). Korean wind-based Duelist from Seoul; abilities Cloudburst, Updraft, Tailwind, Blade Storm."
-      }
-    },
-    {
-      "q": "Which agent revives downed teammates and is associated with healing?",
-      "choices": ["Sage", "Phoenix", "Killjoy", "Cypher"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Sentinel from China — heals + ult resurrects."
-      }
-    },
-    {
-      "q": "Which sniper rifle is the most powerful primary weapon in Valorant — a one-shot kill anywhere on the body?",
-      "choices": ["Operator", "Marshal", "Outlaw", "Phantom"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Costs 4500 credits."
-      }
-    },
-    {
-      "q": "What are the two main premium rifles in Valorant — both costing 2900 creds?",
+      "q": "What is the primary objective structure of Valorant's main competitive matches?",
       "choices": [
-        "Phantom and Vandal",
-        "Spectre and Bulldog",
-        "Guardian and Marshal",
-        "Stinger and Sheriff"
+        "Eliminate all enemies",
+        "Control central zones",
+        "Plant or defend a spike",
+        "Collect the most points"
       ],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Vandal: one-shot headshot any range. Phantom: silenced, capped headshot at distance."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "What is Valorant's premium currency, purchased with real money?",
+      "q": "Which two console platforms received Valorant in June 2024?",
       "choices": [
-        "Valorant Points (VP)",
-        "Riot Points (RP)",
+        "Nintendo Switch and PlayStation 5",
+        "PlayStation 5 and Xbox Series X/S",
+        "Xbox One and PlayStation 4",
+        "Steam Deck and Xbox Series X/S"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What weapon type is exclusively featured in Valorant's Snowball Fight limited-time mode?",
+      "choices": [
+        "Ice Cannon",
+        "Frost Blaster",
+        "Snowball Launcher",
+        "Winter Rifle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Valorant, what in-game currency can players earn through playing matches and completing tasks?",
+      "choices": [
+        "Valorant Points",
         "Kingdom Credits",
-        "Crystals"
+        "Radianite Shards",
+        "Agent Tokens"
       ],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant Points (VP)",
-        "verified": true,
-        "notes": ""
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which non-cosmetic feature has been Valorant's most controversial — required for play on Windows?",
+      "q": "What is the name of Valorant's highest tier of professional esports competition?",
       "choices": [
-        "Vanguard kernel-level anti-cheat",
-        "Two-factor authentication",
-        "Region locking",
-        "Riot ID"
+        "VCT Masters",
+        "Valorant Champions Tour",
+        "International Valorant League",
+        "Pro Championship Series"
       ],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Vanguard runs at boot; many players raised privacy concerns at launch."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What is the international Valorant esports league called?",
+      "q": "When did Valorant's closed beta period end?",
       "choices": [
-        "VCT (Valorant Champions Tour)",
-        "VWC",
-        "VPL",
-        "Valorant Worlds"
+        "April 7, 2020",
+        "May 28, 2020",
+        "June 2, 2020",
+        "July 15, 2020"
       ],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Started 2021; flagship event is Valorant Champions."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which 2024 console release brought Valorant to PS5 and Xbox Series X/S?",
+      "q": "How many players are on each team in a standard Valorant competitive match?",
       "choices": [
-        "Valorant: Console Limited Beta (later full release)",
-        "Valorant Crossplay",
-        "Valorant Arena",
-        "Valorant Mobile"
+        "4v4",
+        "5v5",
+        "6v6",
+        "3v3"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What gameplay mode in Valorant emphasizes pure gunplay without the use of agent abilities?",
+      "choices": [
+        "Escalation",
+        "Deathmatch",
+        "Team Deathmatch",
+        "Spike Rush"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game is Valorant most commonly compared to regarding its tactical team-based gameplay?",
+      "choices": [
+        "Call of Duty",
+        "Counter-Strike: Global Offensive",
+        "Rainbow Six Siege",
+        "Apex Legends"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What unique characteristic defines each agent's abilities in Valorant?",
+      "choices": [
+        "They regenerate automatically each round",
+        "They require charges and include a unique ultimate ability",
+        "They are shared by all agents equally",
+        "They cannot be used in competitive play"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Valorant's Replication game mode, how is the agent selection determined for the entire team?",
+      "choices": [
+        "Random selection by the game",
+        "Team captain's choice",
+        "Voting during agent selection",
+        "First player to select wins"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was a significant challenge Riot Games faced when optimizing Valorant's server connections in 2020?",
+      "choices": [
+        "Graphics rendering issues",
+        "Increased internet traffic during the COVID-19 pandemic",
+        "Hardware incompatibility",
+        "Licensing disputes with console manufacturers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what date did Valorant's full console version officially release?",
+      "choices": [
+        "June 1, 2024",
+        "July 15, 2024",
+        "August 2, 2024",
+        "September 10, 2024"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What special feature does the Escalation game mode require players to progress through?",
+      "choices": [
+        "A series of map objectives",
+        "12 randomly selected weapons obtained through kills",
+        "Increasing ability cooldowns",
+        "Multiple spawn locations"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What anti-cheat system does Valorant use to prevent cheating?",
+      "choices": [
+        "Riot Vanguard",
+        "BattlEye",
+        "EAC",
+        "Punkbuster"
       ],
       "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Valorant",
-        "verified": true,
-        "notes": "Limited beta June 2024, full release later in 2024. PC ↔ Console crossplay is NOT supported."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which conglomerate owns Riot Games?",
-      "choices": ["Tencent", "Microsoft", "Sony", "Epic"],
-      "correct": 0,
-      "category": "Valorant",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Tencent",
-        "verified": true,
-        "notes": "Acquired Riot in 2011."
-      }
+      "q": "At what player level can you begin playing Competitive ranked matches in Valorant?",
+      "choices": [
+        "Level 10",
+        "Level 20",
+        "Level 30",
+        "Level 5"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "How many seconds does the Spike take to detonate after being planted?",
-      "choices": ["45", "30", "60", "20"],
+      "q": "What game engine powers Valorant?",
+      "choices": [
+        "Unreal Engine 5",
+        "Unreal Engine 4",
+        "Unity Engine",
+        "Proprietary Engine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the highest achievable rank in Valorant's competitive ranking system?",
+      "choices": [
+        "Immortal",
+        "Ascendant",
+        "Radiant",
+        "Diamond"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Valorant's closed beta end?",
+      "choices": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the two primary genres that classify Valorant?",
+      "choices": [
+        "MOBA and Battle Royale",
+        "Hero Shooter and Tactical Shooter",
+        "Roguelike and FPS",
+        "Strategy and Simulation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game mode in Valorant emphasizes pure gunplay without the use of agent abilities?",
+      "choices": [
+        "Spike Rush",
+        "Team Deathmatch",
+        "Escalation",
+        "Custom Game"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the Valorant Champions Tour esports circuit announced?",
+      "choices": [
+        "November 2020",
+        "June 2020",
+        "March 2021",
+        "January 2022"
+      ],
       "correct": 0,
-      "category": "Valorant",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "45",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What tentative project title was Valorant referred to under when teased in October 2019?",
+      "choices": [
+        "Project B",
+        "Project A",
+        "Codename Riot",
+        "Vanguard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What unique feature characterizes weapon distribution in Spike Rush mode?",
+      "choices": [
+        "Players buy weapons with credits",
+        "Weapons are randomized each round and all players start with the same gun",
+        "Each player selects one weapon at the start",
+        "Weapons are predetermined by map location"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many levels comprise the Valorant Champions Tour competitive structure?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What award did Valorant receive at the Golden Joystick Awards in 2023?",
+      "choices": [
+        "Best Esports Game",
+        "Best New Game",
+        "Best Streaming Game",
+        "Best Multiplayer Experience"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In competitive matches, how many round wins does a team need to win in overtime to secure victory?",
+      "choices": [
+        "One round ahead",
+        "Two rounds ahead",
+        "Three rounds ahead",
+        "Five rounds ahead"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is NOT a type of primary weapon category in Valorant?",
+      "choices": [
+        "Submachine Guns",
+        "Sniper Rifles",
+        "Grenade Launchers",
+        "Assault Rifles"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the maximum duration of a Team Deathmatch match if no team reaches 100 kills?",
+      "choices": [
+        "7 minutes",
+        "9 minutes and 30 seconds",
+        "12 minutes",
+        "15 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which platform was Valorant NOT released as of its official full launch?",
+      "choices": [
+        "PlayStation 5",
+        "Windows PC",
+        "Nintendo Switch",
+        "Xbox Series X/S"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What modification was made to Unreal Engine 4 to help Valorant achieve its performance targets?",
+      "choices": [
+        "Added ray tracing support",
+        "Edited the renderer using the engine's mobile rendering path as base",
+        "Completely rewrote the physics engine",
+        "Implemented custom networking protocols"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what city was the first LAN tournament for Valorant's partnered teams held?",
+      "choices": [
+        "Los Angeles",
+        "Seoul",
+        "São Paulo",
+        "Berlin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is a map specifically designed for Team Deathmatch mode in Valorant?",
+      "choices": [
+        "Haven",
+        "Bind",
+        "Piazza",
+        "Lotus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company owns Riot Games, the developer of Valorant?",
+      "choices": [
+        "Tencent",
+        "Activision Blizzard",
+        "Electronic Arts",
+        "Ubisoft"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Valorant's development begin?",
+      "choices": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of anti-cheat software does Valorant use to protect competitive integrity?",
+      "choices": [
+        "Easy Anti-Cheat",
+        "Riot Vanguard",
+        "BattlEye",
+        "Punkbuster"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many distinct agent roles exist in Valorant?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary currency in Valorant that players must purchase with real money?",
+      "choices": [
+        "Kingdom Credits",
+        "Radianite Points",
+        "Valorant Points",
+        "Agent Tokens"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Valorant Champions Tour (VCT) announced?",
+      "choices": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary goal when Riot Games modified Unreal Engine 4 for Valorant?",
+      "choices": [
+        "Increase graphics quality",
+        "Achieve lower performance barriers and optimize server performance",
+        "Add more weapon variety",
+        "Expand map size"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What record did Valorant's beta achieve on Twitch in terms of viewership?",
+      "choices": [
+        "Most concurrent viewers ever",
+        "Second most concurrent viewers ever",
+        "Third most concurrent viewers ever",
+        "Fifth most concurrent viewers ever"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main objective in Valorant's Escalation game mode?",
+      "choices": [
+        "Eliminate all opponents in one round",
+        "Team-based progression through weapon tiers by getting kills",
+        "Survive as long as possible",
+        "Collect scattered items on the map"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the mobile spin-off version of Valorant announced?",
+      "choices": [
+        "March 15, 2020",
+        "June 2, 2021",
+        "September 30, 2022",
+        "January 1, 2023"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Riot Games begin development of Valorant?",
+      "choices": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the tentative codename under which Valorant was teased to the public in October 2019?",
+      "choices": [
+        "Project X",
+        "Project A",
+        "Project V",
+        "Project Phoenix"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On which specific date was Valorant officially released for Windows?",
+      "choices": [
+        "May 2, 2020",
+        "June 2, 2020",
+        "July 2, 2020",
+        "August 2, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which streaming platform was exclusively required to obtain a closed beta access key during Valorant's beta period?",
+      "choices": [
+        "YouTube Gaming",
+        "Twitch",
+        "Facebook Gaming",
+        "Mixer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Riot Games' anti-cheat system implemented in Valorant that operates at the kernel level?",
+      "choices": [
+        "Guardian",
+        "Sentinel",
+        "Vanguard",
+        "Vault"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2023, Riot Games restructured the Valorant Champions Tour by introducing which franchising model?",
+      "choices": [
+        "16 franchised teams",
+        "24 franchised teams",
+        "30 franchised teams",
+        "40 franchised teams"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which three tiers compose the Valorant Champions Tour competitive structure?",
+      "choices": [
+        "Premier, Pro, Amateur",
+        "Champions, Masters, Challengers",
+        "Tier 1, Tier 2, Tier 3",
+        "Elite, Professional, Amateur"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Brazilian city was the first LAN tournament held for Valorant's partnered teams in 2023?",
+      "choices": [
+        "Rio de Janeiro",
+        "Salvador",
+        "São Paulo",
+        "Brasília"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What distinguishes Swiftplay mode from Unrated mode in terms of average match duration?",
+      "choices": [
+        "Swiftplay averages 10 minutes",
+        "Swiftplay averages 15 minutes",
+        "Swiftplay averages 20 minutes",
+        "Swiftplay averages 25 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which three maps were specifically designed for Valorant's Team Deathmatch mode?",
+      "choices": [
+        "Haven, Split, Ascent",
+        "Piazza, District, Kasbah",
+        "Bind, Lotus, Pearl",
+        "Sunset, Icebox, Breeze"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What unique characteristic defines weapon distribution in Valorant's Spike Rush mode?",
+      "choices": [
+        "Players choose their weapons at the start of each round",
+        "Weapons are randomized each round with all players receiving the same gun",
+        "Teams alternate which weapons they can purchase",
+        "Players receive progressively better weapons as rounds progress"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the premium currency in Valorant that can only be obtained through real-money purchases?",
+      "choices": [
+        "Radianite Points",
+        "Credits",
+        "Valorant Points",
+        "Ascendant Tokens"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On what date was the mobile spin-off of Valorant officially announced by Riot Games?",
+      "choices": [
+        "May 2, 2021",
+        "June 2, 2021",
+        "July 2, 2021",
+        "August 2, 2021"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "As of May 2023, what ranking did the official Valorant Discord server hold among gaming communities by size?",
+      "choices": [
+        "First largest",
+        "Second largest",
+        "Third largest",
+        "Fifth largest"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What security concern was specifically raised regarding Riot Vanguard's kernel driver implementation?",
+      "choices": [
+        "It consumes excessive CPU resources",
+        "Potential for spying on players and exploitation by third parties",
+        "It prevents legitimate software from running",
+        "It requires administrative access permanently"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which regions were initially included in Valorant's console beta testing phase?",
+      "choices": [
+        "North America only",
+        "North America and Europe",
+        "United States, Canada, Europe, and Japan",
+        "All regions simultaneously"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What challenge did Riot Games face when optimizing server connections and ping levels during Valorant's launch period?",
+      "choices": [
+        "Hardware limitations in server infrastructure",
+        "Increased internet traffic due to the COVID-19 pandemic",
+        "Incompatibility with certain ISPs",
+        "Insufficient player base to justify server expansion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In overtime matches during Valorant's competitive format, what determines victory according to the 'win by two' condition?",
+      "choices": [
+        "First team to reach 13 wins total",
+        "Teams alternate attack and defense sides until one team secures a two-round lead",
+        "A single sudden-death round determines the winner",
+        "The team with the highest combined kill count wins"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What design philosophy did Riot Games prioritize when setting Valorant's minimum and recommended hardware requirements?",
+      "choices": [
+        "Maximum graphical fidelity",
+        "Notably low requirements to ensure broad accessibility",
+        "Compatibility only with high-end gaming PCs",
+        "Requirements matching those of competing tactical shooters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two primary genres best classify Valorant as a game?",
+      "choices": [
+        "Battle royale and hero shooter",
+        "Hero shooter and tactical shooter",
+        "MOBA and first-person shooter",
+        "Tactical shooter and battle royale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which game engine does Valorant run on?",
+      "choices": [
+        "Unreal Engine 5",
+        "Unreal Engine 4",
+        "Unity Engine",
+        "proprietary Riot engine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the internal development codename for Valorant before its official announcement?",
+      "choices": [
+        "Project X",
+        "Project A",
+        "Codename Viper",
+        "Nexus Protocol"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Valorant's competitive ranking system, which rank sits directly below Radiant?",
+      "choices": [
+        "Diamond",
+        "Immortal",
+        "Ascendant",
+        "Platinum"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is NOT one of the four agent roles in Valorant?",
+      "choices": [
+        "Sentinel",
+        "Duelist",
+        "Controller",
+        "Marksman"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Replication mode, how is the agent selection determined for all players on a team?",
+      "choices": [
+        "Random selection by the server",
+        "Team captain chooses for everyone",
+        "Democratic vote among team members",
+        "First player to lock in determines it"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How long must the Spike be defended after activation before it automatically detonates?",
+      "choices": [
+        "30 seconds",
+        "45 seconds",
+        "60 seconds",
+        "90 seconds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these maps was specifically designed for Team Deathmatch mode in Valorant?",
+      "choices": [
+        "Haven",
+        "Piazza",
+        "Split",
+        "Icebox"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the average match duration of Swiftplay mode compared to Unrated?",
+      "choices": [
+        "20 minutes",
+        "25 minutes",
+        "Around 15 minutes",
+        "10 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Team Deathmatch, besides eliminations, what is another primary method of charging ultimate abilities?",
+      "choices": [
+        "Completing objectives",
+        "Acquiring Ultimate Orbs",
+        "Dealing damage to enemies",
+        "Surviving consecutive rounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many kills does a team need to win a standard Team Deathmatch match before the time limit?",
+      "choices": [
+        "50 kills",
+        "75 kills",
+        "100 kills",
+        "125 kills"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What premium currency in Valorant cannot be earned through gameplay and must be purchased with real money?",
+      "choices": [
+        "Kingdom Credits",
+        "Agent Points",
+        "Valorant Points",
+        "Battle Pass Tokens"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which in-game currency can be earned by completing matches and challenges but cannot purchase Valorant Points?",
+      "choices": [
+        "Valorant Points",
+        "Kingdom Credits",
+        "Premium Credits",
+        "VP Tokens"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What pistol do players start each round with in Valorant?",
+      "choices": [
+        "Shorty",
+        "Classic",
+        "Ghost",
+        "Frenzy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Escalation mode, through what mechanism do teams progress through the weapon roster?",
+      "choices": [
+        "Time-based rotation",
+        "Rounds completed",
+        "Getting kills with current weapons",
+        "Objective completions"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many agents were available in Valorant at the time referenced in the provided information?",
+      "choices": [
+        "20 agents",
+        "22 agents",
+        "24 agents",
+        "26 agents"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the highest tier of Valorant esports competition called?",
+      "choices": [
+        "Valorant World Championship",
+        "Valorant Champions Tour",
+        "Valorant Pro League",
+        "Valorant International Masters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which gameplay mode in Valorant emphasizes pure gunplay without the use of agent abilities?",
+      "choices": [
+        "Escalation",
+        "Deathmatch",
+        "Spike Rush",
+        "Team Deathmatch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following best describes Valorant's genre classification?",
+      "choices": [
+        "Battle royale and MOBA",
+        "Hero shooter and Tactical shooter",
+        "Roguelike and Survival",
+        "Turn-based strategy and RTS"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What infrastructure challenge did Riot Games face during Valorant's optimization phase?",
+      "choices": [
+        "Server overcapacity from esports viewership",
+        "Increased internet traffic during the COVID-19 pandemic",
+        "DDoS attacks on regional servers",
+        "Incompatibility with certain ISPs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many players comprise each team in a standard Valorant competitive match?",
+      "choices": [
+        "Three players per team",
+        "Four players per team",
+        "Five players per team",
+        "Six players per team"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Valorant's Spike Rush mode, what is the maximum number of rounds a team must win to claim victory?",
+      "choices": [
+        "3 rounds",
+        "4 rounds",
+        "5 rounds",
+        "6 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which anti-cheat system does Riot Games implement as a kernel-level driver to protect Valorant matches?",
+      "choices": [
+        "BattlEye",
+        "Riot Vanguard",
+        "EAC (Easy Anti-Cheat)",
+        "Xigncode3"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact detonation timer for the Spike once it has been planted and activated in a standard Valorant match?",
+      "choices": [
+        "35 seconds",
+        "40 seconds",
+        "45 seconds",
+        "50 seconds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Team Deathmatch mode, what are the two methods by which players can acquire their ultimate ability charges?",
+      "choices": [
+        "Eliminations only",
+        "Ultimate Orbs and eliminations",
+        "Ultimate Orbs only",
+        "Damage dealt and headshots"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What maximum duration does a Team Deathmatch round extend to if neither team reaches the kill threshold?",
+      "choices": [
+        "7 minutes",
+        "8 minutes 30 seconds",
+        "9 minutes 30 seconds",
+        "10 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which console platforms received the Valorant port during the initial launch window in mid-2024?",
+      "choices": [
+        "Nintendo Switch and PlayStation 5",
+        "PlayStation 5 and Xbox Series X/S",
+        "Xbox One and Xbox Series X/S",
+        "PlayStation 4 and PlayStation 5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Escalation mode, through how many randomly selected weapon tiers must a team progress to complete the progression system?",
+      "choices": [
+        "8 weapons",
+        "10 weapons",
+        "12 weapons",
+        "15 weapons"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific hardware component must be present and enabled on a Windows 11 system to run Valorant with Vanguard?",
+      "choices": [
+        "DirectX 12 compatible GPU",
+        "TPM 2.0 compliant cryptoprocessor with UEFI secure boot",
+        "16GB of RAM minimum",
+        "NVMe SSD storage"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When was Valorant officially announced to the public with an accompanying gameplay reveal video?",
+      "choices": [
+        "January 15, 2020",
+        "March 1, 2020",
+        "April 3, 2020",
+        "May 1, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Swiftplay mode, how many total rounds constitute a complete best-of match format?",
+      "choices": [
+        "Best of 7 rounds",
+        "Best of 9 rounds",
+        "Best of 11 rounds",
+        "Best of 13 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the specific closure date of Valorant's closed beta testing period?",
+      "choices": [
+        "April 28, 2020",
+        "May 14, 2020",
+        "May 28, 2020",
+        "June 2, 2020"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How does the Escalation game mode handle player respawning mechanics throughout a match?",
+      "choices": [
+        "Players respawn only after each round ends",
+        "Players respawn instantly in fixed spawn locations",
+        "Players respawn in randomized locations with auto-respawn enabled",
+        "Players do not respawn during matches"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which streaming platform was the exclusive requirement for obtaining closed beta access keys during Valorant's initial testing phase?",
+      "choices": [
+        "YouTube Gaming",
+        "Twitch",
+        "Facebook Gaming",
+        "Mixer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What major structural change did Riot Games introduce to the Valorant Champions Tour in 2023?",
+      "choices": [
+        "Transition to a single-elimination tournament format",
+        "Implementation of a partner team model with 30 franchised teams",
+        "Merger with the League of Legends esports circuit",
+        "Regional qualification system with no franchised teams"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On what date was the console port of Valorant fully released to the public?",
+      "choices": [
+        "June 2, 2024",
+        "July 15, 2024",
+        "August 2, 2024",
+        "September 10, 2024"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What in-game currency system can players accumulate through regular gameplay and task completion rather than purchasing?",
+      "choices": [
+        "Valorant Points",
+        "Kingdom Credits",
+        "Agent Tokens",
+        "Radianite Points"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Deathmatch mode, how does the gameplay philosophy differentiate from standard Valorant competitive matches?",
+      "choices": [
+        "Teams work together to defend a single objective",
+        "Emphasis on pure gunplay without ability usage",
+        "Players focus exclusively on ability-based combat",
+        "Rounds progress through bomb plant and defuse mechanics"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What primary modification did Riot Games make to Unreal Engine 4 when developing Valorant?",
+      "choices": [
+        "Complete engine rewrite using proprietary code",
+        "Optimization for lower performance barriers and improved server performance",
+        "Integration with blockchain technology",
+        "Conversion to a cloud-based rendering system"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Brazilian city hosted the inaugural LAN tournament for Valorant's franchised partner teams?",
+      "choices": [
+        "Rio de Janeiro",
+        "Brasília",
+        "São Paulo",
+        "Salvador"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What distinguishes the average match duration of Swiftplay compared to the standard Unrated game mode?",
+      "choices": [
+        "Swiftplay matches are approximately 5 minutes longer",
+        "Swiftplay matches average around 15 minutes, notably shorter than Unrated",
+        "Both modes have identical average durations",
+        "Swiftplay matches can extend up to 60 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Valorant's competitive ranking system, what is the minimum number of regional players required to hold the Radiant rank at any given time?",
+      "choices": [
+        "250 players",
+        "500 players",
+        "750 players",
+        "1000 players"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which art director at Riot Games led the visual design direction for Valorant's aesthetic and character development?",
+      "choices": [
+        "Moby Francke",
+        "Christian Linke",
+        "Leigh Bardugo",
+        "Ariel Horn"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official in-game currency earned through gameplay and task completion in Valorant?",
+      "choices": [
+        "Valorant Points",
+        "Kingdom Credits",
+        "Agent Credits",
+        "Spike Tokens"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Riot Games begin developing what would eventually become Valorant?",
+      "choices": [
+        "2016",
+        "2017",
+        "2014",
+        "2015"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum reward amount offered by Riot Games for reporting critical security vulnerabilities in Vanguard?",
+      "choices": [
+        "$50,000",
+        "$75,000",
+        "$100,000",
+        "$150,000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Valorant's Premier mode, what gameplay feature distinguishes it from Unrated and Competitive modes?",
+      "choices": [
+        "Mandatory voice chat requirements",
+        "Pick-and-ban system for maps",
+        "Reduced ability cooldowns",
+        "Increased round economy rewards"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many rounds comprise a single match in Valorant's Swiftplay mode?",
+      "choices": [
+        "Best of 7 rounds",
+        "Best of 9 rounds",
+        "Best of 11 rounds",
+        "Best of 5 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On what specific date was Valorant officially released for Windows PC?",
+      "choices": [
+        "June 2, 2020",
+        "May 15, 2020",
+        "July 1, 2020",
+        "June 15, 2020"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two console platforms received Valorant ports in June 2024?",
+      "choices": [
+        "Nintendo Switch and Xbox Series X/S",
+        "PlayStation 5 and Xbox Series X/S",
+        "PlayStation 5 and Nintendo Switch",
+        "Steam Deck and PlayStation 5"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What structural change did Riot Games implement for the Valorant Champions Tour in 2023?",
+      "choices": [
+        "Expansion to 50 franchised teams globally",
+        "Introduction of a partner team model with 30 franchised teams",
+        "Transition to a fully open circuit without franchising",
+        "Merger with regional esports leagues"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the codename used when Valorant was teased to the public in October 2019?",
+      "choices": [
+        "Project X",
+        "Project A",
+        "Codename V",
+        "Operation Spike"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what date did Valorant's closed beta officially launch?",
+      "choices": [
+        "March 15, 2020",
+        "April 7, 2020",
+        "May 1, 2020",
+        "June 2, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What notable record did Valorant's beta achieve on the streaming platform Twitch?",
+      "choices": [
+        "Most concurrent viewers ever recorded",
+        "Second most concurrent viewers for any game ever",
+        "Third most watched esports beta",
+        "Fastest growing viewership in one month"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game engine did Riot Games select for Valorant's development?",
+      "choices": [
+        "Unity Engine",
+        "Unreal Engine 4",
+        "CryEngine",
+        "Amazon Lumberyard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many distinct roles are agents in Valorant divided into?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Valorant's economy system, what determines weapon and ability purchases each round?",
+      "choices": [
+        "Team level only",
+        "Account rank exclusively",
+        "Round outcomes, kills, and objectives",
+        "Random generation"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary objective for the attacking team in Valorant's standard game mode?",
+      "choices": [
+        "Eliminate all enemy agents",
+        "Control the central bomb site",
+        "Deliver and activate the Spike",
+        "Reach a score of 13 rounds"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What distinguishes weapon distribution in Spike Rush mode compared to standard matches?",
+      "choices": [
+        "Weapons are stronger and cost more",
+        "Guns are randomized each round with all players starting with the same weapon",
+        "Players choose their weapons at the start",
+        "Weapons are predetermined by agent selection"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long does a Team Deathmatch match in Valorant last if neither team reaches 100 kills?",
+      "choices": [
+        "7 minutes",
+        "8 minutes and 30 seconds",
+        "9 minutes and 30 seconds",
+        "10 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was the mobile spin-off of Valorant announced by Riot Games?",
+      "choices": [
+        "January 15, 2021",
+        "June 2, 2021",
+        "September 8, 2021",
+        "November 30, 2021"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Do inventory and progress sync between the console and PC versions of Valorant?",
+      "choices": [
+        "No, they are completely separate",
+        "Only cosmetics sync across platforms",
+        "Yes, full synchronization occurs",
+        "Only rank progression syncs"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What reward range does Riot Games offer for security researchers who report Vanguard vulnerabilities?",
+      "choices": [
+        "$1,000 to $10,000",
+        "$5,000 to $50,000",
+        "$25,000 to $100,000",
+        "$100,000 to $250,000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Escalation mode, how are players respawned into matches?",
+      "choices": [
+        "At a fixed spawn location only",
+        "In random locations with auto respawns enabled",
+        "Players must wait for the next round",
+        "At the last position they died"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What game genres does Valorant primarily fall under?",
+      "choices": [
+        "MOBA and Battle Royale",
+        "Hero shooter and Tactical shooter",
+        "Real-time strategy and FPS",
+        "Card game and Turn-based strategy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the in-game currency earned through playing matches and completing tasks in Valorant?",
+      "choices": [
+        "Valorant Points",
+        "Kingdom Credits",
+        "Agent Tokens",
+        "Round Credits"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What gameplay video was released during Valorant's official announcement?",
+      "choices": [
+        "The Spike",
+        "The Round",
+        "First Blood",
+        "The Play"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What structural change did Riot Games introduce to the Valorant Champions Tour in 2023?",
+      "choices": [
+        "Elimination of regional competitions",
+        "A partner team model with 30 franchised teams",
+        "Transition to single-elimination format only",
+        "Consolidation of all teams into one region"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which award did Valorant receive at the Golden Joystick Awards in 2023?",
+      "choices": [
+        "Best Esports Game",
+        "Best Streaming Game",
+        "Best New IP",
+        "Best Competitive Shooter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How are ultimate abilities charged in Valorant's Team Deathmatch mode?",
+      "choices": [
+        "Automatically at set intervals",
+        "Only through kills on enemy agents",
+        "By acquiring Ultimate Orbs or getting kills",
+        "By completing objectives"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was Valorant officially released for Windows?",
+      "choices": [
+        "2019",
+        "2020",
+        "2021",
+        "2022"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game engine did Riot Games choose to power Valorant?",
+      "choices": [
+        "Unity",
+        "Unreal Engine 4",
+        "CryEngine",
+        "id Tech"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary in-game currency in Valorant that players earn through gameplay and tasks?",
+      "choices": [
+        "Valorant Points",
+        "Kingdom Credits",
+        "Agent Tokens",
+        "Spike Credits"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What modification was made to Unreal Engine 4 to optimize Valorant's performance?",
+      "choices": [
+        "Replaced the renderer entirely",
+        "Edited the renderer using the mobile rendering path as base",
+        "Switched to a custom 2D graphics pipeline",
+        "Removed all shader support"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which award did Valorant win at The Game Awards in 2022?",
+      "choices": [
+        "Game of the Year",
+        "Best Esports Game",
+        "Best Multiplayer Game",
+        "Best New IP"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what date did Valorant's closed beta launch?",
+      "choices": [
+        "March 1, 2020",
+        "April 7, 2020",
+        "May 15, 2020",
+        "June 2, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What company developed and published Valorant?",
+      "choices": [
+        "Activision Blizzard",
+        "Riot Games",
+        "Valve Corporation",
+        "Electronic Arts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Valorant's economic system, what determines how much currency players earn each round?",
+      "choices": [
+        "Only kills earned",
+        "Round outcomes, kills, and objectives",
+        "Only objective completion",
+        "Random amounts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two genres does Valorant primarily fall under?",
+      "choices": [
+        "Battle royale and hero shooter",
+        "Hero shooter and tactical shooter",
+        "MOBA and hero shooter",
+        "First-person shooter and card game"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was the console version of Valorant officially released?",
+      "choices": [
+        "June 7, 2024",
+        "July 15, 2024",
+        "August 2, 2024",
+        "September 10, 2024"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the premium currency in Valorant that must be purchased with real money?",
+      "choices": [
+        "Kingdom Credits",
+        "Valorant Points",
+        "Spike Tokens",
+        "Agent Coins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Name one unique agent role available in Valorant.",
+      "choices": [
+        "Assassin",
+        "Duelist",
+        "Medic",
+        "Engineer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What feature is included in Valorant's Premier mode that distinguishes it from other competitive modes?",
+      "choices": [
+        "Random map selection",
+        "Pick-and-ban system for maps",
+        "Unlimited ability usage",
+        "No weapon economy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who served as the art director for Valorant's development?",
+      "choices": [
+        "Joe Ziegler",
+        "Moby Francke",
+        "Anna Donlon",
+        "Trevor Romleski"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the time limit for a Team Deathmatch match in Valorant if no team reaches 100 kills?",
+      "choices": [
+        "7 minutes",
+        "8 minutes and 30 seconds",
+        "9 minutes and 30 seconds",
+        "10 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two games is Valorant most commonly compared to in terms of gameplay?",
+      "choices": [
+        "League of Legends and Dota 2",
+        "Counter-Strike: Global Offensive and Overwatch",
+        "Call of Duty and Halo",
+        "Rainbow Six Siege and Apex Legends"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What specific gameplay emphasis does Deathmatch mode prioritize in Valorant?",
+      "choices": [
+        "Ability-focused combat",
+        "Pure gunplay without abilities",
+        "Objective-based gameplay",
+        "Stealth mechanics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary goal of Riot Games in modifying Unreal Engine 4 for Valorant?",
+      "choices": [
+        "To add advanced graphics features",
+        "To achieve lower performance barriers and optimize server performance",
+        "To enable cross-platform play",
+        "To support more than 128 players per match"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which director is credited with the initial concept and development idea for Valorant?",
+      "choices": [
+        "Anna Donlon",
+        "Joe Ziegler",
+        "Moby Francke",
+        "Greg Street"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Brazilian city was the first LAN tournament held for Valorant's partnered teams?",
+      "choices": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília",
+        "Salvador"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Valorant's premium currency that can only be obtained with real money?",
+      "choices": [
+        "Kingdom Credits",
+        "Valorant Points",
+        "Radiant Tokens",
+        "Agent Coins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which game engine was modified and used to develop Valorant?",
+      "choices": [
+        "Unity",
+        "Unreal Engine 4",
+        "Source 2",
+        "CryEngine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What exclusive weapon is featured in Valorant's Snowball Fight limited-time game mode?",
+      "choices": [
+        "Frost Rifle",
+        "Snowball Launcher",
+        "Ice Pistol",
+        "Blizzard Cannon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Valorant's competitive ranking system, Radiant is reserved for the top how many players per region?",
+      "choices": [
+        "100 players",
+        "250 players",
+        "500 players",
+        "1000 players"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which director at Riot Games is credited with conceiving the original idea for Valorant?",
+      "choices": [
+        "Brandon Beck",
+        "Joe Ziegler",
+        "Andrei van Roon",
+        "Scott Gelb"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what date was Valorant officially released for Windows?",
+      "choices": [
+        "May 15, 2020",
+        "June 2, 2020",
+        "July 1, 2020",
+        "August 4, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "During its beta phase on Twitch, what historic streaming record did Valorant achieve?",
+      "choices": [
+        "Most concurrent viewers ever",
+        "Second most concurrent viewers ever with 1.73 million",
+        "Third most concurrent viewers for a PC game",
+        "Fastest growing game on the platform"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many franchise partners did Riot Games introduce to the Valorant Champions Tour in the 2023 model?",
+      "choices": [
+        "15 teams",
+        "20 teams",
+        "30 teams",
+        "40 teams"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year did development of Valorant officially begin at Riot Games?",
+      "choices": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the mobile spin-off version of Valorant announced?",
+      "choices": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In a standard Team Deathmatch match in Valorant, how long does the game last if neither team reaches 100 kills first?",
+      "choices": [
+        "7 minutes",
+        "8 minutes and 45 seconds",
+        "9 minutes and 30 seconds",
+        "10 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the maximum number of times a team can formally request a surrender vote during a competitive match?",
+      "choices": [
+        "One time",
+        "Two times",
+        "Three times",
+        "Four times"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two popular tactical shooter games is Valorant most frequently compared to by the gaming community?",
+      "choices": [
+        "Call of Duty and Halo",
+        "Counter-Strike: Global Offensive and Overwatch",
+        "Battlefield and Rainbow Six Siege",
+        "Apex Legends and Fortnite"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary strategic focus for Riot Games when developing Valorant's esports scene?",
+      "choices": [
+        "Casual streaming accessibility",
+        "Establishing a competitive environment with a large tournament circuit",
+        "Mobile gaming dominance",
+        "Cross-platform integration"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What specific modification did Riot Games make to Unreal Engine 4 to achieve Valorant's performance goals?",
+      "choices": [
+        "Rebuilt the entire renderer from scratch",
+        "Used the engine's mobile rendering path as a base for the renderer",
+        "Switched to a custom proprietary engine",
+        "Implemented ray tracing technology"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Valorant's Escalation game mode, how do teams progress through the weapon tier list?",
+      "choices": [
+        "By completing objective-based tasks",
+        "By earning kills with randomized weapons",
+        "By winning consecutive rounds",
+        "By capturing control points"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How does the economic system in Valorant allow players to purchase weapons and abilities during a match?",
+      "choices": [
+        "With a fixed salary per round",
+        "Based on round outcomes, kills earned, and objective completion",
+        "With currency dropped by defeated enemies",
+        "Through a voting system among team members"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Riot Games begin developing Valorant?",
+      "choices": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is NOT one of the three maps designed specifically for Team Deathmatch mode?",
+      "choices": [
+        "Piazza",
+        "District",
+        "Haven",
+        "Kasbah"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which date was Valorant officially announced with a gameplay reveal video?",
+      "choices": [
+        "February 15, 2020",
+        "March 1, 2020",
+        "April 7, 2020",
+        "May 20, 2020"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the minimum number of round wins required to win a match in Spike Rush mode?",
+      "choices": [
+        "3 rounds",
+        "4 rounds",
+        "5 rounds",
+        "6 rounds"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In competitive Valorant matches, how many rounds ahead must a team be to win during overtime?",
+      "choices": [
+        "One round",
+        "Two rounds",
+        "Three rounds",
+        "Four rounds"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary distinguishing feature of gunplay in Spike Rush mode compared to standard matches?",
+      "choices": [
+        "Weapons deal double damage",
+        "Weapons are randomized each round and all players start with the same gun",
+        "Weapons have unlimited ammunition",
+        "Weapons cannot be purchased"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which platform did Valorant initially launch on in June 2020?",
+      "choices": [
+        "PlayStation 5",
+        "Xbox Series X/S",
+        "Windows",
+        "Nintendo Switch"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What organizational change did Riot Games implement in the Valorant Champions Tour starting in 2023?",
+      "choices": [
+        "Expansion to 50 franchised teams",
+        "Introduction of a partner team model with 30 franchised teams",
+        "Merger with regional leagues",
+        "Transition to an open bracket format"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Into how many distinct roles are agents in Valorant divided?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What in-game currency can be earned by playing matches and completing tasks in Valorant?",
+      "choices": [
+        "Valorant Points",
+        "Kingdom Credits",
+        "Agent Tokens",
+        "Match Earnings"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

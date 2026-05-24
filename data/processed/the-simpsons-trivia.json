@@ -1,169 +1,986 @@
 {
   "slug": "the-simpsons-trivia",
   "name": "The Simpsons",
-  "description": "Springfield's first family and their yellow antics",
-  "processedAt": "2026-04-16T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.759Z",
   "questions": [
     {
-      "q": "What is Bart Simpson's full name?",
-      "choices": ["Bartram Joseph Simpson", "Bartholomew JoJo Simpson", "Bartholomew James Simpson", "Bartley Jedediah Simpson"],
-      "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Bartholomew Jojo Simpson", "verified": true, "notes": "An anagram of 'brat.' Born on April 1, 1979 (per show canon)." }
-    },
-    {
-      "q": "What does the 'J' in Homer J. Simpson stand for?",
-      "choices": ["James", "Jay", "Josephus", "Jethro"],
-      "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "hard",
-      "source": { "original_a": "Jay", "verified": true, "notes": "Revealed in Season 2. Named as a tribute to Bullwinkle's 'Jay Ward.'" }
-    },
-    {
-      "q": "What was Marge Simpson's maiden name?",
-      "choices": ["Bouvier", "Flanders", "Mackenzie", "Gray"],
-      "correct": 0,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Bouvier", "verified": true, "notes": "Like Jackie Kennedy's maiden name. Her twin sisters Patty and Selma are also Bouviers." }
-    },
-    {
       "q": "What is the name of the Simpson family's dog?",
-      "choices": ["Snowball", "Rex", "Santa's Little Helper", "Scruffy"],
+      "choices": [
+        "Snowball",
+        "Rex",
+        "Santa's Little Helper",
+        "Scruffy"
+      ],
       "correct": 2,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Santa's Little Helper", "verified": true, "notes": "A former racing greyhound. Introduced in the first full episode (1989)." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the first name of Bart's best friend?",
-      "choices": ["Martin", "Milhouse", "Nelson", "Rod"],
+      "choices": [
+        "Martin",
+        "Milhouse",
+        "Nelson",
+        "Rod"
+      ],
       "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Milhouse Van Houten", "verified": true, "notes": "Named after President Richard Milhous Nixon, creator Matt Groening's least favorite president." }
+      "difficulty": "easy"
     },
     {
       "q": "In which fictional American town do the Simpsons live?",
-      "choices": ["Shelbyville", "Capital City", "Springfield", "Ogdenville"],
+      "choices": [
+        "Shelbyville",
+        "Capital City",
+        "Springfield",
+        "Ogdenville"
+      ],
       "correct": 2,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Springfield", "verified": true, "notes": "The state is deliberately ambiguous, though creator confirmed Springfield, Oregon inspired it." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of the bar where Homer frequently drinks?",
-      "choices": ["Cheers", "Moe's Tavern", "The Drunken Clam", "Paddy's Pub"],
+      "choices": [
+        "Cheers",
+        "Moe's Tavern",
+        "The Drunken Clam",
+        "Paddy's Pub"
+      ],
       "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Moe's Bar", "verified": true, "notes": "Owned by Moe Szyslak. Address is 57 Walnut Street." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the nefarious exclamation of Mr. Burns when he's pleased with an evil scheme?",
-      "choices": ["Splendid!", "Brilliant!", "Marvelous!", "Excellent!"],
+      "choices": [
+        "Splendid!",
+        "Brilliant!",
+        "Marvelous!",
+        "Excellent!"
+      ],
       "correct": 3,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Excellent!", "verified": true, "notes": "Owner of the Springfield Nuclear Power Plant. Pure evil with 104 years on Earth." }
-    },
-    {
-      "q": "Who shot Mr. Burns in the two-part mystery episode?",
-      "choices": ["Smithers", "Homer", "Moe", "Maggie Simpson"],
-      "correct": 3,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Maggie Simpson", "verified": true, "notes": "Season 6-7 cliffhanger. Maggie shot him accidentally when Burns tried to steal her lollipop." }
+      "difficulty": "easy"
     },
     {
       "q": "Who is the Simpsons' next-door neighbor, known for his moustache and cheerful phrases like 'Howdy-diddly-doo'?",
-      "choices": ["Moe Szyslak", "Barney Gumble", "Ned Flanders", "Apu Nahasapeemapetilon"],
+      "choices": [
+        "Moe Szyslak",
+        "Barney Gumble",
+        "Ned Flanders",
+        "Apu Nahasapeemapetilon"
+      ],
       "correct": 2,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Ned Flanders", "verified": true, "notes": "Devout Christian. Named after Flanders Street in Portland, Oregon." }
-    },
-    {
-      "q": "Who is the creator of 'The Simpsons'?",
-      "choices": ["Seth MacFarlane", "Mike Judge", "Matt Groening", "Trey Parker"],
-      "correct": 2,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Matt Groening", "verified": true, "notes": "Created the shorts in 1987 on 'The Tracey Ullman Show.' Half-hour series premiered 1989." }
-    },
-    {
-      "q": "Which actor voices Sideshow Bob, Bart's recurring vengeful nemesis?",
-      "choices": ["Hank Azaria", "Kelsey Grammer", "Harry Shearer", "Phil Hartman"],
-      "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Kelsey Grammer", "verified": true, "notes": "Grammer is most famous for 'Frasier.' Has won an Emmy for the Sideshow Bob role." }
-    },
-    {
-      "q": "Which voice actor provides the voice of Homer Simpson?",
-      "choices": ["Harry Shearer", "Hank Azaria", "Dan Castellaneta", "Julie Kavner"],
-      "correct": 2,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Dan Castellaneta", "verified": true, "notes": "Also voices Krusty the Clown, Grampa Simpson, Mayor Quimby, Barney, and Groundskeeper Willie." }
-    },
-    {
-      "q": "Which voice actress brings Bart Simpson's iconic voice to life?",
-      "choices": ["Yeardley Smith", "Nancy Cartwright", "Julie Kavner", "Tress MacNeille"],
-      "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Nancy Cartwright", "verified": true, "notes": "Originally auditioned for Lisa (played by Yeardley Smith). Has voiced Bart since the shorts began in 1987." }
-    },
-    {
-      "q": "What is the principal of Springfield Elementary named?",
-      "choices": ["Seymour Skinner", "Harold Miller", "Chalmers", "Grimes"],
-      "correct": 0,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Seymour Skinner", "verified": true, "notes": "Revealed to actually be 'Armin Tamzarian,' an imposter who assumed the real Skinner's identity." }
-    },
-    {
-      "q": "What is the rival town to Springfield that the Simpsons constantly mock?",
-      "choices": ["Capital City", "Shelbyville", "Ogdenville", "Cypress Creek"],
-      "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Shelbyville", "verified": true, "notes": "Founded by Shelbyville Manhattan, who broke away from Jebediah Springfield." }
-    },
-    {
-      "q": "What dietary choice does Lisa Simpson adopt in Season 7?",
-      "choices": ["Vegan", "Vegetarian", "Gluten-free", "Pescatarian"],
-      "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Lisa Simpson", "verified": true, "notes": "From the episode 'Lisa the Vegetarian' (1995). Paul and Linda McCartney guest starred." }
-    },
-    {
-      "q": "What color is the Simpsons' family couch in the famous opening 'couch gag'?",
-      "choices": ["Red", "Blue", "Green", "Orange"],
-      "correct": 3,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Orange", "verified": true, "notes": "Iconic opening sequence element since Season 1. Each gag is different." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Simpsons character's catchphrase is 'Eat my shorts'?",
-      "choices": ["Homer", "Bart", "Krusty", "Nelson"],
+      "choices": [
+        "Homer",
+        "Bart",
+        "Krusty",
+        "Nelson"
+      ],
       "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "easy",
-      "source": { "original_a": "Bartholomew Jojo Simpson", "verified": true, "notes": "One of Bart's iconic catchphrases along with 'Ay Caramba!' and 'Don't have a cow, man.'" }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Simpsons' pet dog?",
+      "choices": [
+        "Barkley",
+        "Santa's Little Helper",
+        "Rover",
+        "Scratchy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what fictional town do the Simpsons live?",
+      "choices": [
+        "Shelbyville",
+        "Capital City",
+        "Springfield",
+        "Evergreen Terrace"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Homer Simpson's middle initial?",
+      "choices": [
+        "J",
+        "M",
+        "H",
+        "D"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Bart Simpson's full first name?",
+      "choices": [
+        "Bernard",
+        "Bartholomew",
+        "Barton",
+        "Barry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Marge Simpson's hair?",
+      "choices": [
+        "Purple",
+        "Blue",
+        "Green",
+        "Black"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Springfield's primary nuclear power plant?",
+      "choices": [
+        "Springfield Nuclear Facility",
+        "Burns Nuclear Plant",
+        "Springfield Atomic Center",
+        "The Nuclear Station"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the principal of Springfield Elementary School?",
+      "choices": [
+        "Seymour Skinner",
+        "Ned Flanders",
+        "Barney Gumble",
+        "Chief Wiggum"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Moe's tavern?",
+      "choices": [
+        "The Drunken Clam",
+        "Moe's Tavern",
+        "The Copper Goose",
+        "Cheers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Lisa Simpson's primary musical instrument?",
+      "choices": [
+        "Piano",
+        "Saxophone",
+        "Violin",
+        "Trumpet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Mr. Burns' first name?",
+      "choices": [
+        "Charles",
+        "Montgomery",
+        "Smithers",
+        "Waylon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Homer's best friend at work?",
+      "choices": [
+        "Frank Grimes",
+        "Carl Carlson",
+        "Lenny Leonard",
+        "Barney Gumble"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Simpson family's favorite snack food that Homer frequently craves?",
+      "choices": [
+        "Chips",
+        "Donuts",
+        "Cookies",
+        "Cake"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Simpsons' neighbor with the distinctive mustache?",
+      "choices": [
+        "Ned Flanders",
+        "Rod Flanders",
+        "Todd Flanders",
+        "Maude Flanders"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did The Simpsons first air as a full series on FOX?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Bart's favorite prank call name he uses at Moe's Tavern?",
+      "choices": [
+        "Al Coholic",
+        "Oliver Clothesoff",
+        "Homer Simpson",
+        "I.P. Freely"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Simpsons' cat?",
+      "choices": [
+        "Whiskers",
+        "Snowball",
+        "Mittens",
+        "Tiger"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Homer work as at the Springfield Nuclear Power Plant?",
+      "choices": [
+        "Safety Inspector",
+        "Reactor Operator",
+        "Plant Manager",
+        "Security Guard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the school bully who frequently torments Bart?",
+      "choices": [
+        "Nelson Muntz",
+        "Ralph Wiggum",
+        "Jimbo Jones",
+        "Dolph Starbeam"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Maggie Simpson's pacifier typically colored?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Pink",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Homer's favorite beer brand?",
+      "choices": [
+        "Duff",
+        "Schlitz",
+        "Budweiser",
+        "Miller"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Simpsons' pet cat?",
+      "choices": [
+        "Snowball V",
+        "Whiskers",
+        "Mittens",
+        "Shadow"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is the iconic Simpson family couch?",
+      "choices": [
+        "Red",
+        "Orange",
+        "Brown",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the 'J' in Homer J. Simpson stand for?",
+      "choices": [
+        "James",
+        "Jay",
+        "Josephus",
+        "Jethro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Kwik-E-Mart owner who frequently serves Apu?",
+      "choices": [
+        "Apu Nahasapeemapetilon",
+        "Sanjay Nahasapeemapetilon",
+        "Rajesh Nahasapeemapetilon",
+        "Kumar Nahasapeemapetilon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did The Simpsons debut as a full series on Fox?",
+      "choices": [
+        "1989",
+        "1990",
+        "1991",
+        "1992"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Barney Gumble's helicopter business venture?",
+      "choices": [
+        "Sky-High Air",
+        "Pukahontas Air",
+        "Duff Airways",
+        "Springfield Aviation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who is the principal of Springfield Nuclear Power Plant's safety inspector?",
+      "choices": [
+        "Carl Carlson",
+        "Lenny Leonard",
+        "Frank Grimes",
+        "Jack Marley"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the character known as Chief Wiggum?",
+      "choices": [
+        "Ralph Wiggum",
+        "Clancy Wiggum",
+        "Edward Wiggum",
+        "Maurice Wiggum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the episode 'Treehouse of Horror VI,' what is the name of the evil toy doll that terrorizes the family?",
+      "choices": [
+        "Mr. Tickles",
+        "Chucky",
+        "Talky Tina",
+        "Teddy Ruxpin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Krusty the Clown's real name?",
+      "choices": [
+        "Herschel Shmoikel Pinchas Yerucham Krustofski",
+        "Bernard Shmoikel Krustofski",
+        "Howard Shmoikel Krustofski",
+        "Gerald Shmoikel Krustofski"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What school does Bart Simpson attend?",
+      "choices": [
+        "Springfield Middle School",
+        "Springfield Elementary School",
+        "Springfield High School",
+        "Springfield Preparatory Academy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Homer's supervisor at the nuclear power plant?",
+      "choices": [
+        "Mr. Burns",
+        "Smithers",
+        "Carl Carlson",
+        "Lenny Leonard"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'A Streetcar Named Marge,' which classic play does the community theater perform?",
+      "choices": [
+        "A Streetcar Named Desire",
+        "The Glass Menagerie",
+        "Cat on a Hot Tin Roof",
+        "Long Day's Journey into Night"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Simpson family's baby, born in the series?",
+      "choices": [
+        "Maggie Simpson",
+        "Margaret Simpson",
+        "Marjorie Simpson",
+        "Mary Simpson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of Homer's coworkers is known for his catchphrase 'Woo-hoo'?",
+      "choices": [
+        "Lenny Leonard",
+        "Carl Carlson",
+        "Barney Gumble",
+        "Homer Simpson"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the nuclear power plant's canine mascot?",
+      "choices": [
+        "Radioactive Dog",
+        "Atomic Pup",
+        "Nuclear Hound",
+        "Atom Man"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the episode 'Marge vs. the Monorail,' who is the charismatic con artist that sells the monorail project to Springfield?",
+      "choices": [
+        "Lyle Lanley",
+        "Leonard Lanley",
+        "Larry Lanley",
+        "Lloyd Lanley"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the full name of the Simpson family's pet dog?",
+      "choices": [
+        "Santa's Little Helper",
+        "Santas Helper",
+        "Santy's Little Helper",
+        "Saint's Little Helper"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the 'M' in M. Burns stand for?",
+      "choices": [
+        "Milton",
+        "Monty",
+        "Montgomery",
+        "Maurice"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which state is Springfield located?",
+      "choices": [
+        "Kentucky",
+        "Illinois",
+        "Ohio",
+        "The show never explicitly states it"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the elementary school's incompetent teacher who teaches Bart's class?",
+      "choices": [
+        "Ms. Krabappel",
+        "Principal Skinner",
+        "Groundskeeper Willie",
+        "Superintendent Chalmers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Homer's Enemy,' what is the name of the former coworker who returns to torment Homer?",
+      "choices": [
+        "Frank Grimes",
+        "Frank Grames",
+        "Frank Games",
+        "Frank Grimly"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Springfield Gorge stunt that Homer famously fails in early seasons?",
+      "choices": [
+        "The Great Springfield Jump",
+        "The Canyon of Doom Jump",
+        "The Springfield Gorge Stunt",
+        "Homer's Epic Leap"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the episode 'Treehouse of Horror IV,' which famous horror film director appears as himself and directs a segment of the episode?",
+      "choices": [
+        "John Carpenter",
+        "George A. Romero",
+        "Alfred Hitchcock",
+        "David Cronenberg"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the greasy spoon diner where Homer frequently eats breakfast in early seasons of The Simpsons?",
+      "choices": [
+        "Krusty Burger",
+        "Krusty Krab",
+        "Lard Lad Donuts",
+        "Frying Dutchman"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Who Shot Mr. Burns?', which character is revealed to have actually pulled the trigger that shot Mr. Burns?",
+      "choices": [
+        "Barney Gumble",
+        "Maggie Simpson",
+        "Moe Szyslak",
+        "Waylon Smithers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What company does Homer work for at the Springfield Nuclear Power Plant?",
+      "choices": [
+        "Globex Corporation",
+        "Alanco Technologies",
+        "Sector 7G",
+        "SolarWinds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the series, what is the name of Lisa Simpson's saxophone teacher who often appears at school events?",
+      "choices": [
+        "Dewey Decimal",
+        "Benjamin Hibbert",
+        "Jasper Beardly",
+        "Ralph Wiggum"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the first Simpsons short air on 'The Tracey Ullman Show' before the series proper began?",
+      "choices": [
+        "1985",
+        "1987",
+        "1989",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President makes a cameo appearance in the 'Treehouse of Horror VII' episode?",
+      "choices": [
+        "Ronald Reagan",
+        "George H. W. Bush",
+        "Bill Clinton",
+        "Jimmy Carter"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the local news anchor who frequently reports on Springfield events?",
+      "choices": [
+        "Kent Brockman",
+        "John Powers",
+        "Arnie Pie",
+        "Scratchy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Deep Space Homer,' which space agency does Homer work for after being recruited as an astronaut?",
+      "choices": [
+        "NASA",
+        "NORAD",
+        "ESA",
+        "SpaceX"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Bart Simpson's full name?",
+      "choices": [
+        "Bartram Joseph Simpson",
+        "Bartholomew JoJo Simpson",
+        "Bartholomew James Simpson",
+        "Bartley Jedediah Simpson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Marge Simpson's maiden name?",
+      "choices": [
+        "Bouvier",
+        "Flanders",
+        "Mackenzie",
+        "Gray"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who shot Mr. Burns in the two-part mystery episode?",
+      "choices": [
+        "Smithers",
+        "Homer",
+        "Moe",
+        "Maggie Simpson"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the creator of 'The Simpsons'?",
+      "choices": [
+        "Seth MacFarlane",
+        "Mike Judge",
+        "Matt Groening",
+        "Trey Parker"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actor voices Sideshow Bob, Bart's recurring vengeful nemesis?",
+      "choices": [
+        "Hank Azaria",
+        "Kelsey Grammer",
+        "Harry Shearer",
+        "Phil Hartman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which voice actor provides the voice of Homer Simpson?",
+      "choices": [
+        "Harry Shearer",
+        "Hank Azaria",
+        "Dan Castellaneta",
+        "Julie Kavner"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which voice actress brings Bart Simpson's iconic voice to life?",
+      "choices": [
+        "Yeardley Smith",
+        "Nancy Cartwright",
+        "Julie Kavner",
+        "Tress MacNeille"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the principal of Springfield Elementary named?",
+      "choices": [
+        "Seymour Skinner",
+        "Harold Miller",
+        "Chalmers",
+        "Grimes"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the rival town to Springfield that the Simpsons constantly mock?",
+      "choices": [
+        "Capital City",
+        "Shelbyville",
+        "Ogdenville",
+        "Cypress Creek"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What dietary choice does Lisa Simpson adopt in Season 7?",
+      "choices": [
+        "Vegan",
+        "Vegetarian",
+        "Gluten-free",
+        "Pescatarian"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is the Simpsons' family couch in the famous opening 'couch gag'?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Orange"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
     },
     {
       "q": "In what year did 'The Simpsons' first air as a half-hour series on Fox?",
-      "choices": ["1987", "1989", "1991", "1993"],
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
       "correct": 1,
-      "category": "The Simpsons",
-      "difficulty": "medium",
-      "source": { "original_a": "Matt Groening", "verified": true, "notes": "December 17, 1989. First episode: 'Simpsons Roasting on an Open Fire.' Longest-running American sitcom." }
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the nuclear power plant where Homer Simpson works as Safety Inspector?",
+      "choices": [
+        "Springfield Nuclear Facility",
+        "Springfield Energy Corporation",
+        "Springfield Nuclear Power Plant",
+        "Central Springfield Nuclear Station"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did The Simpsons first air as a series on Fox?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Lisa Simpson's best friend at Springfield Elementary School?",
+      "choices": [
+        "Sherri Mackleberry",
+        "Allison Taylor",
+        "Ralph Wiggum",
+        "Martin Prince"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy does Bart repeatedly order through the mail that causes Homer endless frustration?",
+      "choices": [
+        "The Squishy",
+        "The Bonestorm",
+        "The Radioactive Man Comic",
+        "The Itchy & Scratchy Video Game"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Ned Flanders' left-handed store that he operates in Springfield?",
+      "choices": [
+        "The Leftorium",
+        "Flanders' Left Side",
+        "Sinister's Store",
+        "The Southpaw Shop"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the television network that employs Kent Brockman as a news anchor?",
+      "choices": [
+        "KBBC News",
+        "KTTV News",
+        "KSPT News",
+        "KBNT News"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year does Bart famously say he will do his homework in 'Bart to the Future'?",
+      "choices": [
+        "2020",
+        "2030",
+        "2010",
+        "2000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the comic book store owner who is a major character in The Simpsons?",
+      "choices": [
+        "Jeff Albertson",
+        "Comic Store Bob",
+        "The Comic Guy",
+        "Steve Albertson"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous hamburger restaurant does Homer work at during a brief employment in the series?",
+      "choices": [
+        "Krusty Burger",
+        "The Frying Dutchman",
+        "McDonald's",
+        "Burger King"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the retired sea captain who often appears in Springfield and tells exaggerated stories?",
+      "choices": [
+        "Captain Blythe",
+        "Captain McCallister",
+        "Captain Hornblower",
+        "Captain Submarine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'A Streetcar Named Marge,' which famous Tennessee Williams play does Marge perform in at the community theater?",
+      "choices": [
+        "The Glass Menagerie",
+        "A Streetcar Named Desire",
+        "Cat on a Hot Tin Roof",
+        "Suddenly Last Summer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What breed of dog is Santa's Little Helper, the Simpson family pet?",
+      "choices": [
+        "Beagle",
+        "Greyhound",
+        "Golden Retriever",
+        "Labrador Retriever"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the dentist who practices in Springfield and is known for his eccentric behavior?",
+      "choices": [
+        "Dr. Nick Riviera",
+        "Dr. Marvin Monroe",
+        "Dr. Julius Hibbert",
+        "Dr. Teeth"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President appears in the episode 'Sideshow Bob Roberts' and gets shot?",
+      "choices": [
+        "George H. W. Bush",
+        "Bill Clinton",
+        "George W. Bush",
+        "Ronald Reagan"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Kwik-E-Mart owner who employs Apu Nahasapeemapetilon?",
+      "choices": [
+        "Vinod Patel",
+        "Sanjay Nahasapeemapetilon",
+        "Rajesh Obrero",
+        "Apu Nahasapeemapetilon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What instrument does Lisa Simpson play in the school band?",
+      "choices": [
+        "Trumpet",
+        "Saxophone",
+        "Clarinet",
+        "Violin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the illegal gambling establishment that Moe operates in the back of his bar?",
+      "choices": [
+        "The Back Room Casino",
+        "Moe's Illegal Gambling Ring",
+        "The Backroom Bookie",
+        "The numbers game"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which horror movie franchise does Bart frequently reference and watch throughout the series?",
+      "choices": [
+        "Friday the 13th",
+        "Nightmare on Elm Street",
+        "The Itchy & Scratchy Show",
+        "Saw"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

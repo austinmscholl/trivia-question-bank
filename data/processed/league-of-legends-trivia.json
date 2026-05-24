@@ -1,264 +1,2273 @@
 {
   "slug": "league-of-legends-trivia",
   "name": "League of Legends",
-  "description": "Riot Games' MOBA — champions, lanes, the Nexus, and 100+ million monthly players.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.612Z",
   "questions": [
     {
-      "q": "Which company developed and publishes 'League of Legends'?",
-      "choices": ["Blizzard Entertainment", "Riot Games", "Valve", "Tencent"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Riot Games",
-        "verified": true,
-        "notes": "Riot was acquired by Tencent in 2011."
-      }
-    },
-    {
-      "q": "In what year was 'League of Legends' first released?",
-      "choices": ["2007", "2009", "2011", "2013"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "October 27, 2009",
-        "verified": true,
-        "notes": "October 27, 2009."
-      }
-    },
-    {
-      "q": "What game genre does 'League of Legends' belong to?",
-      "choices": ["First-Person Shooter", "MOBA", "Real-Time Strategy", "Battle Royale"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Multiplayer online battle arena (MOBA)",
-        "verified": true,
-        "notes": "Multiplayer Online Battle Arena."
-      }
-    },
-    {
-      "q": "Which Warcraft III custom map directly inspired League of Legends?",
-      "choices": ["Tower Defense", "Dota (Defense of the Ancients)", "Footmen Frenzy", "Castle Fight"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Defense of the Ancients (DotA)",
-        "verified": true,
-        "notes": "Original DotA was a Warcraft III: Reign of Chaos custom map."
-      }
-    },
-    {
-      "q": "Who were the two co-founders of Riot Games?",
+      "q": "In what year was League of Legends first released by Riot Games?",
       "choices": [
-        "Gabe Newell and Mike Harrington",
-        "Brandon Beck and Marc Merrill",
-        "Tim Sweeney and Mark Rein",
-        "John Carmack and John Romero"
+        "2007",
+        "2009",
+        "2011",
+        "2013"
       ],
       "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Brandon Beck and Marc Merill",
-        "verified": true,
-        "notes": "Founded Riot in 2006."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How many players make up each team in a standard 'League of Legends' match?",
-      "choices": ["3", "4", "5", "6"],
-      "correct": 2,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Five",
-        "verified": true,
-        "notes": "5v5."
-      }
-    },
-    {
-      "q": "What is the name of the main 5v5 ranked game mode?",
-      "choices": ["Howling Abyss", "Twisted Treeline", "Summoner's Rift", "Crystal Scar"],
-      "correct": 2,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Summoner's Rift",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What structure must a team destroy to win a Summoner's Rift match?",
-      "choices": ["The enemy throne", "The enemy Nexus", "The enemy fountain", "All enemy turrets"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Destroy the enemy team's Nexus",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What are the playable in-game characters called?",
-      "choices": ["Heroes", "Champions", "Avatars", "Combatants"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Champions",
-        "verified": true,
-        "notes": "168+ champions are playable as of 2024."
-      }
-    },
-    {
-      "q": "What are the three main lanes on Summoner's Rift called?",
+      "q": "How many players are on each team in a standard League of Legends match?",
       "choices": [
-        "North / South / Center",
-        "Top / Middle / Bottom",
-        "Lane 1 / 2 / 3",
-        "Forest / River / Path"
-      ],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Top, middle, and bottom",
-        "verified": true,
-        "notes": "Often shortened to 'top', 'mid', 'bot'."
-      }
-    },
-    {
-      "q": "What is the area between the three lanes called?",
-      "choices": ["The Jungle", "The Forest", "Neutral Zone", "Wilds"],
-      "correct": 0,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Jungle",
-        "verified": true,
-        "notes": "Filled with neutral monster camps."
-      }
-    },
-    {
-      "q": "What are the small NPC creatures that walk down lanes attacking enemies called?",
-      "choices": ["Minions", "Goons", "Pawns", "Lackeys"],
-      "correct": 0,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Minions",
-        "verified": true,
-        "notes": "Spawn from the Nexus and travel each lane in waves."
-      }
-    },
-    {
-      "q": "What are the defensive structures protecting each lane and base called?",
-      "choices": ["Forts", "Turrets", "Bastions", "Pylons"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Turrets",
-        "verified": true,
-        "notes": "Also called 'towers'."
-      }
-    },
-    {
-      "q": "What name is given to the powerful neutral monster in the top side of the river?",
-      "choices": ["Baron Nashor", "Rift Herald", "Dragon", "Scuttler"],
-      "correct": 0,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dragons and Baron Nashor",
-        "verified": true,
-        "notes": "Spawns at 20 minutes; provides powerful team-wide buffs."
-      }
-    },
-    {
-      "q": "Which 5v5 game mode plays on the Howling Abyss with randomly-assigned champions?",
-      "choices": ["Teamfight Tactics", "URF", "ARAM", "Nexus Blitz"],
-      "correct": 2,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "ARAM (\"All Random, All Mid\")",
-        "verified": true,
-        "notes": "All Random, All Mid — single-lane format."
-      }
-    },
-    {
-      "q": "Which auto-battler spin-off was launched by Riot in 2019?",
-      "choices": ["Teamfight Tactics (TFT)", "Wild Rift", "Legends of Runeterra", "Valorant"],
-      "correct": 0,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Teamfight Tactics",
-        "verified": true,
-        "notes": "Released June 2019."
-      }
-    },
-    {
-      "q": "What is the lowest rank tier in League's competitive ladder?",
-      "choices": ["Bronze", "Iron", "Stone", "Wood"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Iron, Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster, Challenger",
-        "verified": true,
-        "notes": "Iron was added in 2019 as a new lowest tier below Bronze."
-      }
-    },
-    {
-      "q": "What is the highest competitive rank in 'League of Legends'?",
-      "choices": ["Diamond", "Master", "Challenger", "Grandmaster"],
-      "correct": 2,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Iron, Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster, Challenger",
-        "verified": true,
-        "notes": "Top 200-300 players per region."
-      }
-    },
-    {
-      "q": "What is the annual world championship tournament for League of Legends called?",
-      "choices": ["The Cup", "Worlds", "Riot Royale", "Mid-Season Invitational"],
-      "correct": 1,
-      "category": "League of Legends",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "League of Legends",
-        "verified": true,
-        "notes": "Officially the 'World Championship' but always called 'Worlds'. Held annually since 2011."
-      }
-    },
-    {
-      "q": "What is League of Legends' main monetization model?",
-      "choices": [
-        "Pay-to-play",
-        "Subscription",
-        "Free-to-play with cosmetic purchases",
-        "One-time purchase + DLC"
+        "3",
+        "4",
+        "5",
+        "6"
       ],
       "correct": 2,
-      "category": "League of Legends",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Free-to-play with purchasable legends items",
-        "verified": true,
-        "notes": "Champions can also be unlocked free via gameplay."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the main competitive game mode in League of Legends?",
+      "choices": [
+        "Howling Abyss",
+        "Summoner's Rift",
+        "Crystal Scar",
+        "Twisted Treeline"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company partnered with Riot Games to publish League of Legends in China?",
+      "choices": [
+        "NetEase",
+        "Tencent",
+        "Perfect World",
+        "iQIYI"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the free-to-play game mode where all players receive random champions?",
+      "choices": [
+        "Blind Pick",
+        "ARAM",
+        "Nexus Blitz",
+        "Practice Tool"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What genre of game is League of Legends classified as?",
+      "choices": [
+        "Real-time strategy",
+        "Multiplayer online battle arena",
+        "Turn-based strategy",
+        "First-person shooter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the player-controlled characters in League of Legends called?",
+      "choices": [
+        "Heroes",
+        "Champions",
+        "Legends",
+        "Avatars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many champions were available when League of Legends beta launched?",
+      "choices": [
+        "10",
+        "17",
+        "20",
+        "25"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the non-player characters that advance along lanes and deal damage to structures called?",
+      "choices": [
+        "Creeps",
+        "Minions",
+        "Soldiers",
+        "Units"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What defensive structures protect the Nexus in League of Legends?",
+      "choices": [
+        "Walls",
+        "Towers",
+        "Turrets",
+        "Fortifications"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary way League of Legends generates revenue?",
+      "choices": [
+        "Subscription fees",
+        "Battle pass purchases only",
+        "Free-to-play with optional cosmetic purchases",
+        "Mandatory champion unlocks"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the original planned subtitle for League of Legends before release?",
+      "choices": [
+        "Battle of Fates",
+        "Clash of Fates",
+        "War of Champions",
+        "Legends Rising"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What temporary game mode was introduced as an April Fools' Day prank in 2014?",
+      "choices": [
+        "ARAM",
+        "URF",
+        "Nexus Blitz",
+        "One For All"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the stronger minions that spawn after destroying an inhibitor?",
+      "choices": [
+        "Elite minions",
+        "Super minions",
+        "Mega minions",
+        "Enhanced minions"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the macOS version of League of Legends released?",
+      "choices": [
+        "2010",
+        "2012",
+        "2013",
+        "2015"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What auto-battler game mode was released by Riot Games in June 2019?",
+      "choices": [
+        "Hextech Mayhem",
+        "Teamfight Tactics",
+        "Nexus Blitz",
+        "Project Genesis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What system did Riot Games later replace with automated monitoring and the Honor system?",
+      "choices": [
+        "Report Queue",
+        "The Tribunal",
+        "Behavioral Council",
+        "Community Moderation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What award did League of Legends win at the 2011 Golden Joystick Awards?",
+      "choices": [
+        "Best Strategy Game",
+        "Best Free-to-Play Game",
+        "Best Competitive Game",
+        "Best Online Game"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is the primary method for players to accumulate resources during gameplay?",
+      "choices": [
+        "Completing quests",
+        "Killing minions and opponents",
+        "Opening treasure chests",
+        "Winning team fights only"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the central objective structure that each team must defend in League of Legends?",
+      "choices": [
+        "The Citadel",
+        "The Core",
+        "The Nexus",
+        "The Throne"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which company developed and published League of Legends?",
+      "choices": [
+        "Valve Corporation",
+        "Riot Games",
+        "Blizzard Entertainment",
+        "Electronic Arts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the three main lanes in Summoner's Rift called?",
+      "choices": [
+        "Top, Middle, and Bottom",
+        "Left, Center, and Right",
+        "North, South, and East",
+        "Primary, Secondary, and Tertiary"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Chinese company did Riot Games partner with to launch League of Legends in China?",
+      "choices": [
+        "NetEase",
+        "Tencent",
+        "Baidu",
+        "Alibaba"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the annual championship event for League of Legends called?",
+      "choices": [
+        "International Championship",
+        "League of Legends World Championship",
+        "Global eSports Summit",
+        "Champions Festival"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the animated series based on League of Legends that premiered on Netflix?",
+      "choices": [
+        "Hextech",
+        "Arcane",
+        "Runeterra",
+        "Demacia Rising"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which K-pop girl group was created by Riot Games for League of Legends?",
+      "choices": [
+        "TWICE",
+        "K/DA",
+        "NewJeans",
+        "IVE"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the stronger minions that spawn after destroying an inhibitor called?",
+      "choices": [
+        "Elite Minions",
+        "Super Minions",
+        "Mega Units",
+        "Reinforced Soldiers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which operating systems is League of Legends available to play?",
+      "choices": [
+        "Windows and Linux",
+        "macOS and iOS",
+        "Microsoft Windows and macOS",
+        "Only Windows"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary objective for players in a lane during gameplay?",
+      "choices": [
+        "Defeat enemy champions only",
+        "Destroy all enemy structures immediately",
+        "Kill minions to accumulate gold and experience while preventing opponents from doing the same",
+        "Collect special power-ups scattered across the map"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the initial subtitle planned for League of Legends before it was dropped?",
+      "choices": [
+        "Battle of Champions",
+        "Clash of Fates",
+        "Nexus Wars",
+        "Summoner's Quest"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Metacritic score did League of Legends receive?",
+      "choices": [
+        "82/100",
+        "75/100",
+        "78/100",
+        "88/100"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What system did Riot Games implement to reduce player toxicity and handle reports?",
+      "choices": [
+        "The Justice League",
+        "The Tribunal system",
+        "The Honor Council",
+        "The Fair Play Board"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What award did League of Legends' music win in 2018?",
+      "choices": [
+        "Grammy Award",
+        "Shorty Award",
+        "MTV Music Award",
+        "Billboard Music Award"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which third-person adventure game featuring a League of Legends champion was released in 2023?",
+      "choices": [
+        "Quest of Teemo",
+        "Song of Nunu: A League of Legends Story",
+        "Journey of Garen",
+        "Adventures of Ahri"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What inspired Riot Games to create League of Legends as a standalone game?",
+      "choices": [
+        "To compete with World of Warcraft",
+        "The desire to develop a MOBA with long-term support inspired by DotA",
+        "To create a mobile-only gaming experience",
+        "To launch a subscription-based gaming service"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How has League of Legends maintained its popularity since its original release?",
+      "choices": [
+        "By releasing one major update annually",
+        "Through regular updates, character expansions, and tie-ins with other media",
+        "By focusing exclusively on competitive esports",
+        "By keeping gameplay mechanics completely unchanged"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which platforms have League of Legends esports events been broadcast?",
+      "choices": [
+        "Only on cable television networks",
+        "Twitch, YouTube, Bilibili, and ESPN",
+        "Exclusively on Discord",
+        "Only through in-game spectating"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was League of Legends officially released?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many champions were available when the League of Legends beta first launched?",
+      "choices": [
+        "Ten",
+        "Seventeen",
+        "Twenty-five",
+        "Thirty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the structure that each team must destroy to win in League of Legends?",
+      "choices": [
+        "Fortress",
+        "Nexus",
+        "Core",
+        "Citadel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which month and year was the macOS version of League of Legends released?",
+      "choices": [
+        "January 2012",
+        "March 2013",
+        "June 2013",
+        "September 2012"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who were the two founders of Riot Games?",
+      "choices": [
+        "Brandon Beck and Marc Merill",
+        "Lyte Bummer and Ghostcrawler",
+        "Tryndamere and Ryze",
+        "Steve Butts and Brian Crecente"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary mode in League of Legends where players build teams and position units on a board?",
+      "choices": [
+        "ARAM",
+        "Teamfight Tactics",
+        "Nexus Blitz",
+        "Twisted Treeline"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which virtual K-pop girl group was created by Riot Games for the League of Legends universe?",
+      "choices": [
+        "Pentakill",
+        "K/DA",
+        "True Damage",
+        "PROJECT"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What award did League of Legends win at the Golden Joystick Awards in 2011?",
+      "choices": [
+        "Game of the Year",
+        "Best Free-to-Play Game",
+        "Best MOBA",
+        "Best Online Game"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animation studio partnered with Riot Games to create the animated series Arcane?",
+      "choices": [
+        "Studio Mir",
+        "Fortiche Production",
+        "MAPPA",
+        "Wit Studio"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What powerful monster inhabits the river between lanes and grants powerful buffs when defeated?",
+      "choices": [
+        "Blue Sentinel",
+        "Baron Nashor",
+        "Krugs",
+        "Raptors"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "As of 2024, how many playable champions are available in League of Legends?",
+      "choices": [
+        "140",
+        "155",
+        "168",
+        "180"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What happens when a team destroys an enemy inhibitor in League of Legends?",
+      "choices": [
+        "The enemy team loses gold",
+        "Stronger minions spawn in that lane",
+        "The enemy Nexus takes direct damage",
+        "The map shrinks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which gaming website refused to publish a full review of a physical League of Legends release due to launch bonuses?",
+      "choices": [
+        "IGN",
+        "GameSpot",
+        "GameStar",
+        "Destructoid"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was one of the main criticisms of League of Legends at its launch according to early reviews?",
+      "choices": [
+        "Poor graphics quality",
+        "The grind required for non-paying players to unlock key elements",
+        "Too few champions available",
+        "Unstable servers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which streaming platforms have League of Legends esports events been broadcast?",
+      "choices": [
+        "Twitch and YouTube only",
+        "Twitch, YouTube, Bilibili, and ESPN",
+        "Facebook Gaming only",
+        "Discord and Twitch only"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What award did the 2017 League of Legends World Championship win at the 39th Sports Emmy Awards?",
+      "choices": [
+        "Outstanding Game Show",
+        "Outstanding Live Graphic Design",
+        "Outstanding Sports Documentary",
+        "Outstanding Broadcast"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary way players accumulate resources to purchase items and abilities in League of Legends?",
+      "choices": [
+        "Completing daily quests",
+        "Defeating enemy champions only",
+        "Killing minions and accumulating gold",
+        "Watching advertisements"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What game design element did critics praise for allowing players to customize champion abilities?",
+      "choices": [
+        "The rune system",
+        "How items altered champions' playstyles",
+        "The mastery tree",
+        "Champion skins"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What has been an ongoing community challenge for League of Legends since its early days?",
+      "choices": [
+        "Server lag issues",
+        "Negative and abusive player behavior",
+        "Lack of character diversity",
+        "Boring map design"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the turn-based RPG developed by Riot Games released in 2021 based on League of Legends lore?",
+      "choices": [
+        "Ruined King: A League of Legends Story",
+        "Song of Nunu: A League of Legends Story",
+        "Legends of Runeterra",
+        "Teamfight Tactics"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animated series, produced in collaboration with Fortiche Production, brought League of Legends lore to life on screen?",
+      "choices": [
+        "Valorant: Origins",
+        "Arcane",
+        "Runeterra Chronicles",
+        "Project K/DA"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In League of Legends, what is the primary way champions become stronger during a match?",
+      "choices": [
+        "By purchasing cosmetic skins",
+        "By collecting experience points, earning gold, and purchasing items",
+        "By winning minigames between matches",
+        "By completing daily quests"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which game mode in League of Legends involves players positioning units on a board to fight automatically?",
+      "choices": [
+        "Summoner's Rift",
+        "Twisted Treeline",
+        "Teamfight Tactics",
+        "ARAM"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was a major criticism of League of Legends at its launch regarding non-paying players?",
+      "choices": [
+        "The graphics were outdated compared to competitors",
+        "The server stability was poor",
+        "The grind required to unlock key gameplay elements",
+        "There were too few champions available"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which virtual K-pop boy band was created by Riot Games in 2023 for the League of Legends universe?",
+      "choices": [
+        "K/DA",
+        "True Damage",
+        "Heartsteel",
+        "Pentakill"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major award did League of Legends win at the 2011 Golden Joystick Awards?",
+      "choices": [
+        "Best Strategy Game",
+        "Best Free-to-Play Game",
+        "Best Multiplayer Experience",
+        "Best Competitive Game"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which virtual heavy metal band was created by Riot Games as part of the League of Legends franchise?",
+      "choices": [
+        "Pentakill",
+        "K/DA",
+        "True Damage",
+        "Heartsteel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the reported peak concurrent viewership for the 2020 League of Legends World Championship finals?",
+      "choices": [
+        "15 million viewers",
+        "30 million viewers",
+        "45 million viewers",
+        "60 million viewers"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which third-person adventure game featuring the champion Nunu was released in 2023 based on League of Legends lore?",
+      "choices": [
+        "Nunu's Quest",
+        "Song of Nunu: A League of Legends Story",
+        "The Legend of Nunu",
+        "Nunu Chronicles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many concurrent players did League of Legends peak at in 2019?",
+      "choices": [
+        "Three million players",
+        "Five million players",
+        "Eight million players",
+        "Twelve million players"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What aspect of League of Legends did reviewers particularly praise regarding its champion roster?",
+      "choices": [
+        "The simplicity of each champion's design",
+        "The variety and experimentation offered by the champions",
+        "The balance between all champions",
+        "The low skill floor required to play"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which publication increased its original review score of League of Legends from 6 to 9 in a later reassessment?",
+      "choices": [
+        "IGN",
+        "GameSpot",
+        "PC Gamer",
+        "Eurogamer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the annual championship event where the best League of Legends teams compete globally?",
+      "choices": [
+        "League of Legends International Championship",
+        "League of Legends World Championship",
+        "League of Legends Global Finals",
+        "League of Legends Champions Cup"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did League of Legends enter closed beta testing?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original planned subtitle for League of Legends that was later abandoned?",
+      "choices": [
+        "Battle of Champions",
+        "Clash of Fates",
+        "Nexus Wars",
+        "Summoner's Legacy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At the 2010 Game Developers Choice Awards, how many categories did League of Legends win awards in?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which virtual K-pop group released the single 'The Baddest' as part of the League of Legends multimedia universe?",
+      "choices": [
+        "Hololive",
+        "K/DA",
+        "Vsinger",
+        "Project Sekai"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the turn-based RPG released in 2021 that expands the League of Legends lore?",
+      "choices": [
+        "Spirit Blossom Chronicles",
+        "Ruined King: A League of Legends Story",
+        "Legends of Runeterra Quest",
+        "The Void Ascension"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to GamesRadar+'s assessment, which two elements primarily distinguish League of Legends from its competitors?",
+      "choices": [
+        "Strategic depth and esports focus",
+        "Inventive character design and lively colors",
+        "Free-to-play model and cosmetics",
+        "Turn-based mechanics and story campaigns"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the animated series Arcane premiere on Netflix?",
+      "choices": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What gameplay mechanic did Riot Games announce in 2024 for luxury-tier champion skins?",
+      "choices": [
+        "Direct purchase only through merchandise",
+        "Seasonal battle pass exclusivity",
+        "Winning through an in-game slot machine mechanic with Riot Points",
+        "Monthly rotation system"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river monsters in Summoner's Rift grant powerful buffs when defeated by a team?",
+      "choices": [
+        "Raptors and Krugs",
+        "Dragons and Baron Nashor",
+        "Wolves and Scuttle Crab",
+        "Blue Sentinel and Red Brambleback"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What special type of minion spawns after an inhibitor is destroyed?",
+      "choices": [
+        "Cannon minions",
+        "Super minions",
+        "Elite minions",
+        "Ancient minions"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At the 39th Sports Emmy Awards, which League of Legends event won Outstanding Live Graphic Design?",
+      "choices": [
+        "2016 World Championship",
+        "2017 World Championship",
+        "2018 World Championship",
+        "2019 World Championship"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the peak concurrent player count for League of Legends recorded in 2019?",
+      "choices": [
+        "Five million",
+        "Eight million",
+        "Ten million",
+        "Twelve million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which system did Riot Games initially implement to address player reports and reduce toxicity before transitioning to the Honor system?",
+      "choices": [
+        "The Verdict System",
+        "The Tribunal System",
+        "The Court System",
+        "The Justice System"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary structural difference between the Summoner's Rift and ARAM game modes?",
+      "choices": [
+        "ARAM has multiple lanes; Summoner's Rift has one",
+        "Summoner's Rift features one lane; ARAM features three",
+        "ARAM has only one lane and champions are randomly selected",
+        "Both maps are identical but use different champion pools"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was League of Legends first demonstrated at the Game Developers Conference?",
+      "choices": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which reviewer compared League of Legends' launch to CrimeCraft's 2009 release when assessing the game's early reception?",
+      "choices": [
+        "Brian Crecente",
+        "Steve Butts",
+        "Greg Kasavin",
+        "Dan Stapleton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the terrain area between the three lanes on Summoner's Rift called?",
+      "choices": [
+        "The Wilderness",
+        "The Jungle",
+        "The Outback",
+        "The Neutral Zone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ascending order, what is the correct sequence of ranked tiers in Summoner's Rift up to Diamond?",
+      "choices": [
+        "Bronze, Silver, Gold, Platinum, Diamond, Iron",
+        "Iron, Bronze, Silver, Gold, Platinum, Diamond",
+        "Silver, Gold, Platinum, Diamond, Iron, Bronze",
+        "Diamond, Platinum, Gold, Silver, Bronze, Iron"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What do players primarily accomplish by killing minions during the laning phase?",
+      "choices": [
+        "Unlock new champion abilities",
+        "Accumulate gold and XP while denying opponents the same",
+        "Reduce respawn timers",
+        "Gain temporary movement speed"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On what date was League of Legends officially released?",
+      "choices": [
+        "October 27, 2009",
+        "July 13, 2009",
+        "November 15, 2009",
+        "September 10, 2009"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which month and year did the closed beta testing period for League of Legends officially begin?",
+      "choices": [
+        "January 2009",
+        "April 2009",
+        "July 2009",
+        "October 2009"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the in-game currency earned through matches that players use to purchase champions and cosmetics?",
+      "choices": [
+        "Essence Points",
+        "Blue Essence",
+        "Riot Points",
+        "Champion Shards"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animated series developed by Riot Games premiered in 2021 and served as the studio's first major television adaptation?",
+      "choices": [
+        "Sentinels of Light",
+        "Arcane",
+        "Project L",
+        "Spirit Blossom"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the League of Legends ranked ladder system, which tier sits directly above Diamond?",
+      "choices": [
+        "Platinum",
+        "Master",
+        "Grandmaster",
+        "Challenger"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What virtual heavy metal band, created by Riot Games, released the album 'Grasp of the Undying' which reached Number 1 on iTunes metal charts?",
+      "choices": [
+        "Pentakill",
+        "K/DA",
+        "True Damage",
+        "Baddest"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which virtual K-pop group produced by Riot Games released the single 'The Baddest' for the League of Legends universe?",
+      "choices": [
+        "True Damage",
+        "Pentakill",
+        "K/DA",
+        "PROJECT"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the peak concurrent viewership reported for the 2019 League of Legends World Championship finals broadcast?",
+      "choices": [
+        "30 million",
+        "44 million",
+        "60 million",
+        "75 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did League of Legends first win the award for Best Esports Game at The Game Awards?",
+      "choices": [
+        "2018",
+        "2019",
+        "2020",
+        "2021"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Riot Games system was comprehensively reworked in 2017 specifically to incentivize and reward positive player behavior?",
+      "choices": [
+        "Ranked System",
+        "Honor System",
+        "Report System",
+        "Mastery System"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary structural difference between Summoner's Rift and ARAM game modes?",
+      "choices": [
+        "Summoner's Rift has randomly assigned champions while ARAM has selected ones",
+        "ARAM features only one lane while Summoner's Rift has three",
+        "Summoner's Rift allows item purchasing while ARAM does not",
+        "ARAM has a smaller map but more jungle objectives"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On which operating systems was League of Legends initially made available by Riot Games?",
+      "choices": [
+        "Microsoft Windows and Linux",
+        "macOS and Linux",
+        "Microsoft Windows and macOS",
+        "Microsoft Windows only"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What game mode, released by Riot Games after the main League of Legends title, combines elements of auto-battlers with the League universe?",
+      "choices": [
+        "Twisted Treeline",
+        "Teamfight Tactics",
+        "Ultimate Spellbook",
+        "Nexus Blitz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What happens mechanically when a team successfully destroys an enemy inhibitor in Summoner's Rift?",
+      "choices": [
+        "The enemy team loses permanent vision of that lane",
+        "Stronger minions spawn in that lane and enemies become vulnerable to Nexus damage",
+        "All enemy towers in that lane are destroyed automatically",
+        "The attacking team gains access to a new jungle camp"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the Metacritic critical review score assigned to League of Legends upon evaluation?",
+      "choices": [
+        "65/100",
+        "72/100",
+        "78/100",
+        "85/100"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which first collaborative comic between Riot Games and Marvel Comics featured the League champion Ashe in its title?",
+      "choices": [
+        "League of Legends: Demacia Rising",
+        "League of Legends: Ashe—Warmother",
+        "League of Legends: Champions United",
+        "League of Legends: Shadow of Noxus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At the 39th Sports Emmy Awards, for which championship event did League of Legends win Outstanding Live Graphic Design?",
+      "choices": [
+        "2016 World Championship",
+        "2017 World Championship",
+        "2018 World Championship",
+        "2019 World Championship"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many players per side compete in a standard ranked match on Summoner's Rift?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to Steven Strom's PC Gamer review, what aspect of League of Legends did he specifically describe as 'fascinating' in comparison to competitors?",
+      "choices": [
+        "The skill-based matchmaking system",
+        "The variety offered by the champions roster",
+        "The competitive ranked ladder structure",
+        "The graphical fidelity and engine optimization"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What neutral objective monster, when slain by a team, grants permanent statistical enhancements to all team members?",
+      "choices": [
+        "Rift Herald",
+        "Baron Nashor",
+        "Dragons",
+        "Krugs"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2020, what was the reported peak concurrent viewership figure for the League of Legends World Championship finals?",
+      "choices": [
+        "40 million",
+        "45 million",
+        "50 million",
+        "55 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did League of Legends close its public beta testing phase and officially launch?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which DotA professional player was hired by Riot Games and later became a key producer on League of Legends?",
+      "choices": [
+        "IceFrog",
+        "Jeff Jew",
+        "Pendragon",
+        "Steve Feak"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was Riot Games' original target champion roster size at the game's official launch in 2009?",
+      "choices": [
+        "12 champions",
+        "17 champions",
+        "20 champions",
+        "25 champions"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At the 2010 Game Developers Choice Awards, how many award categories did League of Legends win?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which animation studio partnered with Riot Games to produce the animated series Arcane?",
+      "choices": [
+        "Studio Trigger",
+        "Fortiche Production",
+        "MAPPA",
+        "A-1 Pictures"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the peak concurrent viewership reported for the League of Legends World Championship finals in 2020?",
+      "choices": [
+        "25 million",
+        "35 million",
+        "45 million",
+        "55 million"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which three years did League of Legends consecutively win Best Esports Game at The Game Awards?",
+      "choices": [
+        "2018, 2019, 2020",
+        "2019, 2020, 2021",
+        "2020, 2021, 2022",
+        "2017, 2018, 2019"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "As of April 2021, how many regional esports leagues did Riot Games operate for League of Legends?",
+      "choices": [
+        "Eight",
+        "Ten",
+        "Twelve",
+        "Fifteen"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which four regional esports leagues for League of Legends feature franchising systems?",
+      "choices": [
+        "North America, Europe, Korea, and Brazil",
+        "China, Europe, Korea, and North America",
+        "China, Korea, Vietnam, and Europe",
+        "North America, Europe, Japan, and Korea"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term does League of Legends use to describe the enhanced minions that spawn after an inhibitor is destroyed?",
+      "choices": [
+        "Mega minions",
+        "Super minions",
+        "Elite minions",
+        "Titan minions"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What did IGN's Steve Butts comparatively reference when discussing League of Legends' launch in 2009?",
+      "choices": [
+        "The release of World of Warcraft",
+        "The release of CrimeCraft",
+        "The release of Dota 2",
+        "The release of Heroes of Newerth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How did GameSpot's review score for League of Legends change between its 2009 review and its 2013 reassessment?",
+      "choices": [
+        "From 7/10 to 8/10",
+        "From 6/10 to 9/10",
+        "From 5/10 to 7/10",
+        "From 8/10 to 6/10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of Riot Games' original automated system designed to address player toxicity and in-game abuse reports?",
+      "choices": [
+        "The Honor System",
+        "The Tribunal",
+        "The Report Filter",
+        "The Behavior Bank"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which game design element did Kotaku's Brian Crecente specifically highlight as impressive in League of Legends?",
+      "choices": [
+        "The fog of war mechanics",
+        "How legendary items altered champion playstyles",
+        "The ward system",
+        "The passive gold generation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first League of Legends comic to be released through a collaboration between Riot Games and Marvel Comics?",
+      "choices": [
+        "League of Legends: Jinx—Unstable",
+        "League of Legends: Ashe—Warmother",
+        "League of Legends: Teemo—Scout",
+        "League of Legends: Garen—The Might of Demacia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When did closed beta testing officially begin for League of Legends?",
+      "choices": [
+        "January 2009",
+        "April 2009",
+        "July 2009",
+        "October 2009"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific aspect of League of Legends did Eurogamer's Quintin Smith emphasize in his review of the game?",
+      "choices": [
+        "The balance of all champions",
+        "The amount of experimentation offered by champions",
+        "The graphics quality",
+        "The tutorial system"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is NOT one of the three main lanes in Summoner's Rift?",
+      "choices": [
+        "Bottom lane",
+        "Middle lane",
+        "West lane",
+        "Top lane"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What primary monetization model does League of Legends use to support its operations and development?",
+      "choices": [
+        "Subscription-based monthly fees",
+        "One-time purchase with cosmetic DLC",
+        "Free-to-play with in-game cosmetic and champion purchases",
+        "Ad-supported with optional premium membership"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In League of Legends, which animation studio partnered with Riot Games to produce the animated series Arcane?",
+      "choices": [
+        "Fortiche Production",
+        "Wit Studio",
+        "MAPPA",
+        "David Productions"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the peak concurrent viewership recorded during the 2020 League of Legends World Championship finals?",
+      "choices": [
+        "32 million",
+        "39 million",
+        "45 million",
+        "52 million"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which virtual K-pop girl group was created by Riot Games as a multimedia project within the League of Legends universe?",
+      "choices": [
+        "Heartsteel",
+        "K/DA",
+        "Pentakill",
+        "True Damage"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which month and year did the closed beta testing phase for League of Legends officially begin?",
+      "choices": [
+        "January 2008",
+        "April 2009",
+        "July 2009",
+        "October 2008"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which virtual heavy metal band project was established by Riot Games as part of the League of Legends music initiative?",
+      "choices": [
+        "Pentakill",
+        "K/DA",
+        "True Damage",
+        "Heartsteel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was GameSpot's review score improvement for League of Legends between 2009 and 2013?",
+      "choices": [
+        "From 5/10 to 8/10",
+        "From 6/10 to 9/10",
+        "From 7/10 to 10/10",
+        "From 4/10 to 7/10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major Chinese technology company did Riot Games partner with to launch League of Legends in the Chinese market?",
+      "choices": [
+        "NetEase",
+        "Alibaba",
+        "Tencent",
+        "Baidu"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which years did League of Legends consecutively win Best Esports Game at The Game Awards?",
+      "choices": [
+        "2018, 2019, and 2020",
+        "2019, 2020, and 2021",
+        "2020, 2021, and 2022",
+        "2017, 2018, and 2019"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which auto-battler game mode was first released as a limited-time event in June 2019 before becoming a permanent fixture?",
+      "choices": [
+        "Nexus Blitz",
+        "Ultimate Spellbook",
+        "Teamfight Tactics",
+        "Project Clash"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to 2011 Golden Joystick Awards, what was League of Legends recognized as the best example of in the free-to-play category?",
+      "choices": [
+        "Best Free-to-Play Game",
+        "Best Free-to-Play Strategy",
+        "Most Innovative Free-to-Play",
+        "Best Free-to-Play MOBA"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 2019 League of Legends World Championship, which region's team won the tournament?",
+      "choices": [
+        "European League of Legends Championship",
+        "League of Legends Pro League (LPL)",
+        "League of Legends Championship Series (LCS)",
+        "League of Legends European Championship (LEC)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did closed beta testing for League of Legends begin?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many playable champions were available when League of Legends entered its beta phase?",
+      "choices": [
+        "Twelve",
+        "Fifteen",
+        "Seventeen",
+        "Twenty"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defensive structures protect the Nexus in Summoner's Rift?",
+      "choices": [
+        "Bastions",
+        "Turrets",
+        "Fortifications",
+        "Ramparts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the jungle area between the lanes in Summoner's Rift primarily used for?",
+      "choices": [
+        "Neutral monster camps and roaming between lanes",
+        "Placing additional turrets",
+        "Storing team resources",
+        "Training new champions"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which auto battler game mode was released in June 2019 and later made permanent?",
+      "choices": [
+        "Clash",
+        "Teamfight Tactics",
+        "ARAM",
+        "Nexus Blitz"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What happens when a team successfully destroys an enemy inhibitor?",
+      "choices": [
+        "The enemy Nexus immediately loses health",
+        "Stronger minions spawn in that lane",
+        "The enemy team loses all gold",
+        "The game ends in five minutes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chinese platform holds the rights to stream international League of Legends events such as World Championships?",
+      "choices": [
+        "Douyu",
+        "Bilibili",
+        "NetEase Games",
+        "iQIYI"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first comic released by Riot Games in collaboration with Marvel Comics for League of Legends?",
+      "choices": [
+        "League of Legends: Lux—The Illuminated",
+        "League of Legends: Ashe—Warmother",
+        "League of Legends: Jinx—Loose Cannon",
+        "League of Legends: Teemo—Scout Master"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On what date did the animated series Arcane premiere on Netflix?",
+      "choices": [
+        "September 15, 2021",
+        "November 6, 2021",
+        "January 20, 2022",
+        "August 10, 2021"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these voice actors appeared in the Arcane series?",
+      "choices": [
+        "Kieran Culkin",
+        "Hailee Steinfeld",
+        "Oscar Isaac",
+        "Timothée Chalamet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What primary monetization model does League of Legends use?",
+      "choices": [
+        "Monthly subscription only",
+        "One-time purchase",
+        "Free-to-play with in-game cosmetic and champion purchases",
+        "Pay-per-match"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which international esports event in 2019 registered over 100 million unique viewers?",
+      "choices": [
+        "Mid-Season Invitational",
+        "League of Legends World Championship",
+        "European Regional Finals",
+        "Asian Games Exhibition"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the approximate peak concurrent player count for League of Legends in 2019?",
+      "choices": [
+        "Three million",
+        "Five million",
+        "Eight million",
+        "Twelve million"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What album by the metal band Pentakill reached Number 1 on the iTunes metal charts in 2017?",
+      "choices": [
+        "Grasp of the Undying",
+        "Bloodhail",
+        "Mortal Reminder",
+        "Abyssal Lord"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which luxury fashion house collaborated with Riot Games on the True Damage music video?",
+      "choices": [
+        "Gucci",
+        "Versace",
+        "Louis Vuitton",
+        "Prada"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what order do the ranked tiers progress from lowest to highest rank in Summoner's Rift?",
+      "choices": [
+        "Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster, Challenger, Iron",
+        "Iron, Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster, Challenger",
+        "Bronze, Iron, Silver, Gold, Platinum, Diamond, Master, Grandmaster, Challenger",
+        "Iron, Silver, Bronze, Gold, Platinum, Diamond, Master, Grandmaster, Challenger"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company did Riot Games partner with to launch League of Legends in the Chinese market?",
+      "choices": [
+        "NetEase",
+        "Tencent",
+        "Perfect World",
+        "Kingsoft"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ongoing behavioral issue has been identified as a persistent problem in League of Legends since its early days?",
+      "choices": [
+        "Account selling and trading",
+        "Toxicity and abusive player behavior",
+        "Excessive lag complaints",
+        "Pay-to-win mechanics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the primary competitive game mode in League of Legends?",
+      "choices": [
+        "Crystal Scar",
+        "Summoner's Rift",
+        "The Howling Abyss",
+        "Twisted Treeline"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how long can a typical match in Summoner's Rift last?",
+      "choices": [
+        "5 to 15 minutes",
+        "15 minutes to over an hour",
+        "30 to 45 minutes always",
+        "20 to 30 minutes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did League of Legends first launch to the public?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the core objective structure that each team must destroy to win a match on Summoner's Rift?",
+      "choices": [
+        "Nexus",
+        "Throne",
+        "Core",
+        "Spire"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At which gaming industry event was League of Legends first demonstrated in 2007?",
+      "choices": [
+        "E3",
+        "Gamescom",
+        "Game Developers Conference",
+        "PAX"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the player-controlled units in League of Legends called?",
+      "choices": [
+        "Avatars",
+        "Champions",
+        "Heroes",
+        "Agents"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the animated series Arcane based on League of Legends premiere on Netflix?",
+      "choices": [
+        "2020",
+        "2021",
+        "2022",
+        "2023"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What special temporary game mode was introduced as an April Fools' Day prank in 2014?",
+      "choices": [
+        "All Random All Mid",
+        "Ultra Rapid Fire",
+        "One For All",
+        "Twisted Treeline"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which powerful neutral monsters spawn in the river and grant special buffs when defeated?",
+      "choices": [
+        "Krugs and Raptors",
+        "Dragons and Baron Nashor",
+        "Wolves and Gromp",
+        "Scuttler and Rift Herald"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What happens when a team destroys an enemy inhibitor in a lane?",
+      "choices": [
+        "The enemy team loses gold permanently",
+        "Stronger minions spawn in that lane",
+        "The enemy base becomes invulnerable",
+        "All enemy champions are stunned"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the non-player units that advance down lanes and attack structures called?",
+      "choices": [
+        "Soldiers",
+        "Creeps",
+        "Minions",
+        "Drones"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which publication awarded League of Legends a score of A− at launch?",
+      "choices": [
+        "IGN",
+        "1Up.com",
+        "GameSpot",
+        "Polygon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was a major criticism leveled by reviewer Ryan Scott at League of Legends' launch?",
+      "choices": [
+        "Poor graphics quality",
+        "Excessive grinding required for non-paying players",
+        "Unstable server performance",
+        "Unclear champion abilities"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which operating systems can League of Legends be played?",
+      "choices": [
+        "Windows and Linux",
+        "macOS and Linux",
+        "Windows and macOS",
+        "Windows only"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Pentakill's second album that topped iTunes metal charts in 2017?",
+      "choices": [
+        "Pentakill I",
+        "Grasp of the Undying",
+        "All Out",
+        "Mortal Reminder"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which voice actress played the character Powder in the animated series Arcane?",
+      "choices": [
+        "Hailee Steinfeld",
+        "Ella Purnell",
+        "Katie Leung",
+        "Toks Olagundoye"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What aspect of League of Legends did PC Gamer's Steven Strom specifically praise as 'fascinating'?",
+      "choices": [
+        "The graphics engine",
+        "The variety of the champion roster",
+        "The tournament prize pool",
+        "The client interface"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the typical range of duration for a Summoner's Rift match?",
+      "choices": [
+        "5 to 15 minutes",
+        "10 to 30 minutes",
+        "15 minutes to over an hour",
+        "30 to 90 minutes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following platforms has NOT been used to broadcast League of Legends esports events?",
+      "choices": [
+        "Twitch",
+        "YouTube",
+        "ESPN",
+        "TikTok"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Riot Games first demonstrate League of Legends at the Game Developers Conference?",
+      "choices": [
+        "2006",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the central area of Summoner's Rift that connects the three lanes called?",
+      "choices": [
+        "Forest",
+        "Jungle",
+        "Wilderness",
+        "Brush"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which virtual K-pop group released the single 'The Baddest' as part of League of Legends content?",
+      "choices": [
+        "TWICE",
+        "K/DA",
+        "BLACKPINK",
+        "NewJeans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of minions spawn in a lane after an inhibitor is destroyed?",
+      "choices": [
+        "Elite minions",
+        "Super minions",
+        "Mega minions",
+        "Legendary minions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original subtitle planned for League of Legends before release?",
+      "choices": [
+        "Battles of Runterra",
+        "Clash of Fates",
+        "Summoner's War",
+        "Nexus Conflict"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which neutral monster objective grants a permanent strength boost to the team that defeats it?",
+      "choices": [
+        "Baron Nashor",
+        "Dragons",
+        "Krugs",
+        "Raptors"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary game mode in League of Legends where players build teams and position units on a board for automatic combat?",
+      "choices": [
+        "ARAM",
+        "Teamfight Tactics",
+        "Nexus Blitz",
+        "Ultimate Spellbook"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the animated series based on League of Legends lore that premiered in 2021?",
+      "choices": [
+        "Legends: The Series",
+        "Arcane",
+        "Runeterra Chronicles",
+        "Summoner's Tale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Metacritic score did League of Legends receive at launch?",
+      "choices": [
+        "72/100",
+        "75/100",
+        "78/100",
+        "82/100"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What key difference distinguishes ARAM mode from Summoner's Rift?",
+      "choices": [
+        "ARAM has multiple lanes and random champions",
+        "ARAM has one lane and randomly assigned champions",
+        "ARAM allows champion selection and has three lanes",
+        "ARAM features permanent team compositions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What system was reworked in 2017 to reward positive player behavior?",
+      "choices": [
+        "Ranked Progression System",
+        "Honor System",
+        "Mastery System",
+        "Prestige System"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the third-person adventure game featuring the champion Nunu released in 2023 called?",
+      "choices": [
+        "Nunu's Journey",
+        "Song of Nunu: A League of Legends Story",
+        "The Legend of Nunu",
+        "Nunu Chronicles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which custom map from an earlier game heavily inspired the development of League of Legends?",
+      "choices": [
+        "StarCraft Defense",
+        "Defense of the Ancients",
+        "Dota Allstars",
+        "Ancient Wars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What gold award did League of Legends win at the 2011 Golden Joystick Awards?",
+      "choices": [
+        "Best Online Game",
+        "Best Free-to-Play Game",
+        "Best Competitive Game",
+        "Best Team-Based Game"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What approximate concurrent viewership did the 2020 League of Legends World Championship finals achieve?",
+      "choices": [
+        "25 million",
+        "35 million",
+        "45 million",
+        "55 million"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the defensive structures that protect a team's Nexus in Summoner's Rift called?",
+      "choices": [
+        "Fortifications",
+        "Bastions",
+        "Turrets",
+        "Sentries"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary objective for players positioned in each lane of Summoner's Rift?",
+      "choices": [
+        "Capture neutral territory",
+        "Defeat enemy champions exclusively",
+        "Kill minions for gold and experience while denying enemies",
+        "Control vision wards"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the area between the three main lanes in Summoner's Rift?",
+      "choices": [
+        "The Outback",
+        "The Jungle",
+        "The Wilderness",
+        "The Underbrush"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many players are on each team in a standard League of Legends ranked match?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original planned subtitle for League of Legends that was later dropped?",
+      "choices": [
+        "Battle of Legends",
+        "Clash of Fates",
+        "Rise of Champions",
+        "Summoner's War"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which auto-battler game mode was released as a limited-time event in June 2019 and later made permanent?",
+      "choices": [
+        "Nexus Blitz",
+        "Teamfight Tactics",
+        "Ultimate Spellbook",
+        "Arena"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which system did Riot Games rework in 2017 to specifically reward players for positive in-game behavior?",
+      "choices": [
+        "Ranked Progression",
+        "Honor System",
+        "Mastery System",
+        "Blue Essence Economy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Pentakill's second album that reached Number 1 on iTunes metal charts in 2017?",
+      "choices": [
+        "Grasp of the Undying",
+        "Shadow of the Rift",
+        "Dark Ascension",
+        "The Frozen Heart"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many regional esports leagues did Riot Games operate as of April 2021 for League of Legends competitive play?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the non-player characters that automatically advance along the lanes in Summoner's Rift called?",
+      "choices": [
+        "Creeps",
+        "Minions",
+        "Soldiers",
+        "Units"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which virtual K-pop boy band was formed by Riot Games in 2023 with a connection to League of Legends lore?",
+      "choices": [
+        "True Damage",
+        "K/DA",
+        "Heartsteel",
+        "Spirit Blossom"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Metacritic score did League of Legends receive upon its release evaluation?",
+      "choices": [
+        "72/100",
+        "78/100",
+        "84/100",
+        "90/100"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What third-person adventure game featuring the champion Nunu was released in 2023 based on League of Legends lore?",
+      "choices": [
+        "Nunu's Journey",
+        "Song of Nunu: A League of Legends Story",
+        "The Ice Realm",
+        "Willump's Quest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In League of Legends, what is the primary mechanic that allows a team to gain a permanent lane advantage after destroying an enemy inhibitor?",
+      "choices": [
+        "Super minions spawn in that lane",
+        "Turrets in that lane gain increased armor",
+        "Allied champions gain bonus movement speed in that lane",
+        "The enemy team loses vision of that lane"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,289 +1,1184 @@
 {
   "slug": "cycling-trivia",
   "name": "Cycling",
-  "description": "Tour de France, Olympic track, Lance, jerseys, and bike history.",
-  "processedAt": "2026-05-08T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.484Z",
   "questions": [
     {
-      "q": "What color jersey does the overall leader of the Tour de France wear?",
-      "choices": ["Yellow", "Green", "Polka dot", "White"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Maillot jaune since 1919."
-      }
-    },
-    {
-      "q": "What color jersey is awarded to the best sprinter on the Tour de France?",
-      "choices": ["Green", "Yellow", "Polka dot", "Blue"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Green",
-        "verified": true,
-        "notes": "Maillot vert."
-      }
-    },
-    {
-      "q": "What pattern jersey is worn by the King of the Mountains (best climber) on the Tour?",
+      "q": "In what year did mountain biking make its Olympic debut?",
       "choices": [
-        "Polka dot (red on white)",
-        "Yellow",
+        "1992",
+        "1996",
+        "2000",
+        "2004"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many riders make up each team in a team pursuit cycling event?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color jersey is awarded to the best sprinter in the Tour de France?",
+      "choices": [
+        "Red",
         "Green",
-        "Rainbow stripes"
+        "Blue",
+        "Yellow"
       ],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Introduced in 1975."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "In what year was the first Tour de France held?",
-      "choices": ["1903", "1880", "1925", "1950"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1903",
-        "verified": true,
-        "notes": "Founded by L'Auto newspaper."
-      }
-    },
-    {
-      "q": "Which city does the Tour de France traditionally finish in?",
-      "choices": ["Paris", "Marseille", "Lyon", "Bordeaux"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Paris",
-        "verified": true,
-        "notes": "Final stage on the Champs-Élysées (except 2024 with Nice for Olympics)."
-      }
-    },
-    {
-      "q": "How many days (stages) does the Tour de France last?",
-      "choices": ["21", "14", "30", "10"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "21",
-        "verified": true,
-        "notes": "23 days total with 2 rest days."
-      }
-    },
-    {
-      "q": "Which American won 7 consecutive Tour de France titles (1999-2005) before being stripped of all of them?",
+      "q": "In which country did the keirin cycling event originate?",
       "choices": [
-        "Lance Armstrong",
-        "Greg LeMond",
-        "Floyd Landis",
-        "Tyler Hamilton"
+        "South Korea",
+        "China",
+        "Japan",
+        "Thailand"
       ],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Stripped in 2012 over doping."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which American was the first to win the Tour de France (1986)?",
+      "q": "The Tour de France typically concludes in which French city?",
       "choices": [
-        "Greg LeMond",
-        "Lance Armstrong",
-        "Bobby Julich",
-        "Tyler Hamilton"
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Toulouse"
       ],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Won 3 times: 1986, 1989, 1990."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which 2019 Tour de France winner was the first Colombian — and youngest in 110 years?",
-      "choices": ["Egan Bernal", "Nairo Quintana", "Rigoberto Urán", "Esteban Chaves"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Colombia",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which Slovenian rider won the Tour de France in 2020 and 2021?",
-      "choices": ["Tadej Pogačar", "Primož Roglič", "Jonas Vingegaard", "Geraint Thomas"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Also won 2024 Tour. UAE Team Emirates."
-      }
-    },
-    {
-      "q": "What's the name of the elite UCI World Championships rainbow-striped jersey?",
+      "q": "How many people can ride on a tandem bicycle?",
       "choices": [
-        "Maillot arc-en-ciel",
-        "Maglia rosa",
-        "Maillot jaune",
-        "Trofeo Senza Fine"
+        "1",
+        "2",
+        "3",
+        "4"
       ],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "French for 'rainbow jersey.' Worn for one year by the world champion."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What pink jersey is worn by the leader of the Giro d'Italia?",
+      "q": "What is the term for the main group of riders bunched together during a road race?",
       "choices": [
-        "Maglia rosa",
-        "Maillot jaune",
-        "Camiseta amarilla",
-        "Maglia ciclamino"
+        "Pack",
+        "Peloton",
+        "Bunch",
+        "Cluster"
       ],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Pink because the sponsoring newspaper La Gazzetta dello Sport prints on pink paper."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What red jersey is worn by the leader of the Vuelta a España?",
+      "q": "Which country has the highest percentage of its population using bicycles for regular transportation?",
       "choices": [
-        "Maillot rojo",
-        "Maglia rosa",
-        "Maillot jaune",
-        "Maillot amarillo"
+        "Denmark",
+        "Germany",
+        "Netherlands",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a single-wheeled bicycle called?",
+      "choices": [
+        "Monocycle",
+        "Unicycle",
+        "Unibike",
+        "Monobike"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century was the modern bicycle invented?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which month does the Vuelta a España cycling race typically begin?",
+      "choices": [
+        "July",
+        "August",
+        "September",
+        "October"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Olympic cycling event named after a New York venue?",
+      "choices": [
+        "Brooklyn",
+        "Manhattan",
+        "Madison",
+        "Bronx"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many stages are in the traditional Tour de France?",
+      "choices": [
+        "18",
+        "20",
+        "21",
+        "23"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which bicycle brand is famous for producing high-end road bikes including the Dogma model?",
+      "choices": [
+        "Specialized",
+        "Pinarello",
+        "Colnago",
+        "Trek"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What brand of bicycles is known for its distinctive Lefty fork suspension design?",
+      "choices": [
+        "Trek",
+        "Cannondale",
+        "Giant",
+        "Specialized"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brand is renowned for manufacturing quality folding bicycles?",
+      "choices": [
+        "Dahon",
+        "Brompton",
+        "Tern",
+        "Trek"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Chris Hoy, a multiple Olympic cycling medalist, represented which country?",
+      "choices": [
+        "Australia",
+        "Canada",
+        "United Kingdom",
+        "New Zealand"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British cyclist won the Tour de France in 2018?",
+      "choices": [
+        "Bradley Wiggins",
+        "Mark Cavendish",
+        "Geraint Thomas",
+        "Chris Froome"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What brand produces the Domane series of road bicycles?",
+      "choices": [
+        "Specialized",
+        "Trek",
+        "Giant",
+        "Colnago"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade was mountain biking formally recognized as a separate cycling sport?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Tour de France first held?",
+      "choices": [
+        "1891",
+        "1903",
+        "1910",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for the main group of riders clustered together during a cycling race?",
+      "choices": [
+        "Peloton",
+        "Breakaway",
+        "Domestique",
+        "Echelon"
       ],
       "correct": 0,
-      "category": "Cycling",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Spanish for 'red jersey' — adopted 2010 (originally yellow)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What term refers to the main pack of cyclists riding closely together in a road race?",
-      "choices": ["Peloton", "Pack", "Squadron", "Caravan"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "French for 'platoon.'"
-      }
+      "q": "Which city does the Tour de France always finish in?",
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Bordeaux"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "What is the technique of riding closely behind another cyclist to reduce wind drag?",
-      "choices": ["Drafting", "Coasting", "Sprinting", "Tailwinding"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Drafting",
-        "verified": true,
-        "notes": "Saves up to 30% of energy."
-      }
+      "q": "What is a velodrome?",
+      "choices": [
+        "A mountain bike trail",
+        "An indoor cycling track",
+        "A cycling helmet brand",
+        "A type of bicycle gear"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "In which decade did mountain biking originate as a sport?",
-      "choices": ["1970s", "1960s", "1980s", "1990s"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1970s",
-        "verified": true,
-        "notes": "Marin County, California — 'klunkers' descending Mt. Tamalpais."
-      }
-    },
-    {
-      "q": "What does BMX stand for?",
+      "q": "What does BMX stand for in cycling?",
       "choices": [
         "Bicycle Motocross",
-        "Big Mountain X",
-        "Bike Mark X",
-        "Beach Mountain Cross"
+        "Bicycle Motor Exchange",
+        "Bike Max Speed",
+        "Bicycle Mountain Cross"
       ],
       "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "BMX",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which European country has the highest percentage of people who cycle daily?",
-      "choices": ["Netherlands", "Denmark", "Germany", "Belgium"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Netherlands",
-        "verified": true,
-        "notes": "More bikes than people; Amsterdam is the bike capital of the world."
-      }
-    },
-    {
-      "q": "Which Scottish track-cyclist won 6 Olympic gold medals?",
-      "choices": ["Chris Hoy", "Bradley Wiggins", "Mark Cavendish", "Geraint Thomas"],
-      "correct": 0,
-      "category": "Cycling",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Chris",
-        "verified": true,
-        "notes": "Most successful UK Olympian until Wiggins later overtook him in total medals."
-      }
-    },
-    {
-      "q": "Which 3-week stage race makes up cycling's 'Grand Tours' alongside the Tour de France and Vuelta?",
+      "q": "In what year did women's cycling first appear in the Olympic Games?",
       "choices": [
-        "Giro d'Italia",
-        "Tour de Suisse",
-        "Paris-Nice",
-        "Critérium du Dauphiné"
+        "1972",
+        "1984",
+        "1996",
+        "2000"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many riders typically sit on a tandem bicycle?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is drafting in cycling?",
+      "choices": [
+        "Repairing a flat tire",
+        "Riding in the slipstream of another cyclist",
+        "Drawing up a race strategy",
+        "Shifting gears smoothly"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cycling brand is famous for manufacturing folding bicycles?",
+      "choices": [
+        "Trek",
+        "Specialized",
+        "Brompton",
+        "Giant"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a unicycle?",
+      "choices": [
+        "A bicycle with square wheels",
+        "A bicycle with one wheel",
+        "A stationary exercise bike",
+        "A three-wheeled tricycle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brand is well-known for its Stumpjumper and Epic mountain bike models?",
+      "choices": [
+        "Trek",
+        "Specialized",
+        "Cannondale",
+        "Giant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cycling technique involves getting into a lower, more aerodynamic body position on the handlebars?",
+      "choices": [
+        "Standing",
+        "Dropping",
+        "Bunnyhopping",
+        "Wheeling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are the spots on the King of the Mountains jersey in the Tour de France?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Green",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which bicycle brand is known for its distinctive diamond-shaped frames and models like the Domane?",
+      "choices": [
+        "Cannondale",
+        "Trek",
+        "Specialized",
+        "Colnago"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Tour de France first take place?",
+      "choices": [
+        "1891",
+        "1903",
+        "1910",
+        "1920"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for the main group of riders that bunches together during a cycling race?",
+      "choices": [
+        "Cluster",
+        "Peloton",
+        "Formation",
+        "Pack"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In track cycling, what is the name of the event where riders sprint from a standstill over 1000 metres?",
+      "choices": [
+        "Kilometre Time Trial",
+        "Kilo",
+        "Flying Start",
+        "Velocity Sprint"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cyclist won the Giro d'Italia three consecutive times between 1940 and 1942?",
+      "choices": [
+        "Fausto Coppi",
+        "Bartali Gino",
+        "Alfredo Binda",
+        "Giovanni Brunero"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum gear ratio allowed in professional track cycling competition?",
+      "choices": [
+        "4.25:1",
+        "3.94:1",
+        "4.50:1",
+        "3.75:1"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Vuelta a España, what colour jersey is worn by the leader in the mountains classification?",
+      "choices": [
+        "White with red dots",
+        "Red with white dots",
+        "Blue with white dots",
+        "Green with red dots"
       ],
       "correct": 0,
-      "category": "Cycling",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cycling",
-        "verified": true,
-        "notes": "Italy's Grand Tour, held May-June."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British cyclist won the world road race championship in 1965?",
+      "choices": [
+        "Tom Simpson",
+        "Barry Hoban",
+        "Beryl Burton",
+        "Sean Yates"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the climbing technique where a cyclist rocks their bicycle side-to-side while standing on the pedals?",
+      "choices": [
+        "Honking",
+        "Weaving",
+        "Swaying",
+        "Dancing"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Tour de France first introduce the polka dot jersey for the King of the Mountains?",
+      "choices": [
+        "1975",
+        "1963",
+        "1951",
+        "1948"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which velodrome hosted the track cycling events at the 2000 Summer Olympics?",
+      "choices": [
+        "Dunc Gray Velodrome",
+        "Larz Adolph Nilson Track",
+        "Meadowbank Velodrome",
+        "Manchester Velodrome"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary material used in the frame construction of modern UCI-compliant track bikes?",
+      "choices": [
+        "Carbon fibre composite",
+        "Titanium alloy",
+        "Aluminium tubing",
+        "Steel tubing"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French cyclist won the Giro d'Italia in 1949, becoming the first rider to win it after World War II?",
+      "choices": [
+        "Raphaël Géminiani",
+        "Fausto Coppi",
+        "Gino Bartali",
+        "Louison Bobet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In BMX racing, what is the standard gate width that competitors must navigate through?",
+      "choices": [
+        "40 inches",
+        "36 inches",
+        "44 inches",
+        "48 inches"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American cyclist won seven consecutive Tour de France titles between 1999 and 2005?",
+      "choices": [
+        "Greg LeMond",
+        "Lance Armstrong",
+        "Floyd Landis",
+        "Tejay van Garderen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the UCI WorldTour race held in Belgium that is known for its cobblestone sectors?",
+      "choices": [
+        "Tour of Flanders",
+        "Gent-Wevelgem",
+        "Omloop Het Nieuwsblad",
+        "Three Days of De Panne"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In pursuit track cycling events, riders start at opposite ends of the track separated by how many metres?",
+      "choices": [
+        "200 metres",
+        "250 metres",
+        "300 metres",
+        "400 metres"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian cyclist holds the record for most Giro d'Italia victories with nine wins?",
+      "choices": [
+        "Eddy Merckx",
+        "Gino Bartali",
+        "Fausto Coppi",
+        "Giovanni Brunero"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum wheel diameter required for a competition unicycle according to IUF regulations?",
+      "choices": [
+        "16 inches",
+        "18 inches",
+        "20 inches",
+        "24 inches"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In cyclocross racing, what is the maximum permissible tyre width for competition bikes?",
+      "choices": [
+        "35mm",
+        "40mm",
+        "45mm",
+        "50mm"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cyclist won the Vuelta a España three times between 1959 and 1968?",
+      "choices": [
+        "Eddy Merckx",
+        "Luis Ocaña",
+        "Pedro Delgado",
+        "Freddy Maertens"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the race held in Denmark that serves as a key preparation event for the UCI Track Cycling World Championships?",
+      "choices": [
+        "Ballerup Super Arena",
+        "Odense Track Cup",
+        "Copenhagen Track Open",
+        "Aarhus Cycling Festival"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional road cycling, what is the maximum allowed tyre pressure for competition measured in bar?",
+      "choices": [
+        "10 bar",
+        "12 bar",
+        "8 bar",
+        "6.5 bar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional cycling, what is the term for a rider who sacrifices their own race performance to help their teammate win?",
+      "choices": [
+        "Domestique",
+        "Grimpeur",
+        "Rouleur",
+        "Échappé"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian cyclist won the Giro d'Italia three times consecutively from 1940 to 1942?",
+      "choices": [
+        "Fausto Coppi",
+        "Gino Bartali",
+        "Alfredo Binda",
+        "Giovanni Brunero"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In track cycling, what is the minimum banking angle in degrees typically used in velodrome construction?",
+      "choices": [
+        "20 degrees",
+        "35 degrees",
+        "45 degrees",
+        "60 degrees"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which frame material became the standard for high-end road bikes after carbon fiber dominated the market in the 2000s?",
+      "choices": [
+        "Titanium",
+        "Carbon fiber composites",
+        "Aluminum alloys",
+        "Steel with advanced geometries"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum gear ratio permitted in UCI track cycling competition?",
+      "choices": [
+        "3.25:1",
+        "3.75:1",
+        "4.25:1",
+        "4.75:1"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Tour de France introduce the polka-dot jersey for the King of the Mountains classification?",
+      "choices": [
+        "1947",
+        "1951",
+        "1955",
+        "1962"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the legendary Swiss cyclist who won all three Grand Tours (Tour, Giro, and Vuelta) in a single calendar year in 1949?",
+      "choices": [
+        "Hugo Koblet",
+        "Ferdy Kübler",
+        "Fausto Coppi",
+        "Stan Ockers"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many times did Belgian cyclist Eddy Merckx win the Tour de France during his professional career?",
+      "choices": [
+        "3 times",
+        "4 times",
+        "5 times",
+        "6 times"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mountain biking, what does the acronym XC commonly abbreviate?",
+      "choices": [
+        "Extra Challenge",
+        "Cross Country",
+        "Extreme Climbing",
+        "Cross Cycling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British cyclist won the 2012 Tour de France, making him the first British winner in the race's history?",
+      "choices": [
+        "Chris Froome",
+        "Bradley Wiggins",
+        "Mark Cavendish",
+        "Robert Millar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the standard circumference in millimeters of a professional road cycling wheel rim according to UCI regulations?",
+      "choices": [
+        "2040-2080 mm",
+        "2090-2130 mm",
+        "2140-2180 mm",
+        "2190-2230 mm"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In BMX racing, how many competitors typically race in each heat during Olympic competition?",
+      "choices": [
+        "6 riders",
+        "8 riders",
+        "9 riders",
+        "10 riders"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What French cyclist won the Tour de France in 1964 and 1965, and later became a prominent team director?",
+      "choices": [
+        "Jacques Anquetil",
+        "Lucien Aimar",
+        "Felice Gimondi",
+        "Vincenzo Torriani"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum allowed saddle height variance in millimeters between a cyclist's two legs according to professional standards?",
+      "choices": [
+        "2 mm",
+        "5 mm",
+        "10 mm",
+        "15 mm"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish cyclist holds the record for the most stage wins in Tour de France history with 34 stages?",
+      "choices": [
+        "Luis Ocaña",
+        "Alejandro Valverde",
+        "Mariano Martínez",
+        "Samuel Sánchez"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In professional cycling, what is the penalty in seconds typically added for a rider caught drafting behind a team car during a time trial?",
+      "choices": [
+        "10 seconds",
+        "20 seconds",
+        "30 seconds",
+        "Disqualification"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Tour de France, what color jersey is worn by the rider currently in second place overall?",
+      "choices": [
+        "White",
+        "Yellow",
+        "There is no specific jersey for second place",
+        "Red"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cycling event, named after a Japanese betting sport, requires riders to follow a motorized pacer for 2 kilometers?",
+      "choices": [
+        "Keirin",
+        "Derny",
+        "Madison",
+        "Points race"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did women's cycling debut as an Olympic sport?",
+      "choices": [
+        "1976",
+        "1984",
+        "1992",
+        "2000"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Giro d'Italia, one of cycling's Grand Tours, was first held in which decade?",
+      "choices": [
+        "1890s",
+        "1900s",
+        "1920s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many cyclists represent each country in an Olympic team pursuit race?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bicycle suspension innovation is famously associated with Cannondale's engineering?",
+      "choices": [
+        "Lefty fork",
+        "Maestro suspension",
+        "IsoSpeed decoupler",
+        "Virtual Pivot Point"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 1970s, which California town became the birthplace of modern mountain biking?",
+      "choices": [
+        "San Francisco",
+        "Marin County",
+        "San Diego",
+        "Los Angeles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The professional cycling classification abbreviation 'ITT' stands for what type of race?",
+      "choices": [
+        "International Track Tournament",
+        "Individual Time Trial",
+        "Inter-team Tactical",
+        "Italian Time Trial"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the standard cycle distance in an Olympic triathlon?",
+      "choices": [
+        "20 kilometers",
+        "30 kilometers",
+        "40 kilometers",
+        "50 kilometers"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cycling brand is renowned for producing the 'Stumpjumper' and 'Epic' mountain bike models?",
+      "choices": [
+        "Trek",
+        "Specialized",
+        "Giant",
+        "Cannondale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What fabric storage item, typically mounted on bicycle frames, is used to carry cycling equipment?",
+      "choices": [
+        "Saddlebag",
+        "Pannier",
+        "Frame pack",
+        "Carrier pouch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "BMX bicycles, characterized by their small wheels and sturdy frames, originated in which country?",
+      "choices": [
+        "United Kingdom",
+        "Australia",
+        "United States",
+        "Japan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian bicycle manufacturer is famous for the high-end 'Dogma' road bike model?",
+      "choices": [
+        "Colnago",
+        "Pinarello",
+        "Bianchi",
+        "De Rosa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In professional cycling, what is the collective name for the main group of competing riders?",
+      "choices": [
+        "Bunch",
+        "Peloton",
+        "Pack",
+        "Field"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Trek bicycle model features the proprietary 'IsoSpeed' decoupler technology for improved ride comfort?",
+      "choices": [
+        "Domane",
+        "Madone",
+        "Emonda",
+        "FX"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many days does the Tour de France cycling race typically span?",
+      "choices": [
+        "14 days",
+        "18 days",
+        "21 days",
+        "28 days"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country has historically dominated Olympic cycling with the most medals overall?",
+      "choices": [
+        "Great Britain",
+        "France",
+        "Australia",
+        "Netherlands"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century was the modern safety bicycle, the direct ancestor of today's bicycles, invented?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A tandem bicycle is designed to be ridden simultaneously by how many people?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In professional cycling, what is the term for the technique where a rider positions themselves directly behind another to reduce wind resistance?",
+      "choices": [
+        "Slipstreaming",
+        "Drafting",
+        "Tucking",
+        "Shadowing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian bicycle manufacturer is famous for supplying bikes to the professional UCI WorldTour team UAE Team Emirates?",
+      "choices": [
+        "Bianchi",
+        "Colnago",
+        "Wilier Triestina",
+        "De Rosa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Tour de France, what color jersey is awarded to the rider with the best climbing performance?",
+      "choices": [
+        "Red with white polka dots",
+        "Yellow with red spots",
+        "White with red spots",
+        "Blue with yellow stripes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mountain biking was first included as an Olympic sport in which year?",
+      "choices": [
+        "1992",
+        "1996",
+        "2000",
+        "2004"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the circular wooden track used for professional track cycling competitions?",
+      "choices": [
+        "Velodrome",
+        "Hippodrome",
+        "Cycle bowl",
+        "Racing ring"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brand is particularly renowned for manufacturing folding bicycles used by urban commuters?",
+      "choices": [
+        "Trek",
+        "Brompton",
+        "Specialized",
+        "Giant"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In an ITT cycling event, what does the letter 'I' represent?",
+      "choices": [
+        "Interval",
+        "Individual",
+        "International",
+        "Indoor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Keirin, a form of competitive track cycling, originated in which country?",
+      "choices": [
+        "South Korea",
+        "Japan",
+        "Thailand",
+        "Taiwan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many stages are typically contested during the Tour de France?",
+      "choices": [
+        "18",
+        "19",
+        "21",
+        "23"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country won the most Olympic cycling medals across all disciplines historically?",
+      "choices": [
+        "France",
+        "Great Britain",
+        "Italy",
+        "Germany"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the collective term for the main group of riders who ride together during a road cycling race?",
+      "choices": [
+        "Pack",
+        "Peloton",
+        "Bunch",
+        "Cluster"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century was the modern safety bicycle design first invented?",
+      "choices": [
+        "18th",
+        "19th",
+        "20th",
+        "21st"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Women's cycling events were first included in the Olympic Games in which year?",
+      "choices": [
+        "1980",
+        "1984",
+        "1988",
+        "1992"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European nation has the highest percentage of its population regularly using bicycles for transportation?",
+      "choices": [
+        "Denmark",
+        "Belgium",
+        "Netherlands",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the fabric containers attached to bicycles called that are used to carry gear and equipment?",
+      "choices": [
+        "Saddlebags",
+        "Panniers",
+        "Carriers",
+        "Pouches"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In professional road cycling, what is the name of the colored jersey worn by the rider leading the general classification in the Tour de France?",
+      "choices": [
+        "Red jersey",
+        "Yellow jersey",
+        "Blue jersey",
+        "White jersey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

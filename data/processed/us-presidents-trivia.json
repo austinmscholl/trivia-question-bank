@@ -1,366 +1,73 @@
 {
-  "slug": "presidents-trivia",
-  "name": "U.S. Presidents",
-  "description": "Mt. Rushmore, Camelot, Watergate, FDR — the men who've held the Oval Office.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "slug": "us-presidents-trivia",
+  "name": "US Presidents",
+  "processedAt": "2026-05-24T20:43:43.772Z",
   "questions": [
     {
-      "q": "Who was the first President of the United States?",
+      "q": "At only 5ft 4in tall, who was the smallest US President?",
       "choices": [
+        "Bill Clinton",
         "George Washington",
-        "John Adams",
-        "Thomas Jefferson",
-        "Benjamin Franklin"
+        "Ronald Reagan",
+        "James Madison"
       ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "George Washington",
-        "verified": true,
-        "notes": "Served 1789-1797."
-      }
+      "correct": 3,
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote the first draft of the Declaration of Independence?",
+      "q": "In which city was US President William McKinley assassinated?",
       "choices": [
-        "Thomas Jefferson",
-        "Benjamin Franklin",
-        "John Adams",
-        "George Washington"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Thomas Jefferson",
-        "verified": true,
-        "notes": "3rd President. Adams and Franklin edited."
-      }
-    },
-    {
-      "q": "Who was the only U.S. president to resign from office?",
-      "choices": [
-        "Richard Nixon",
-        "Gerald Ford",
-        "Lyndon Johnson",
-        "Andrew Johnson"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Richard Nixon",
-        "verified": true,
-        "notes": "Resigned August 9, 1974 over Watergate."
-      }
-    },
-    {
-      "q": "Whose presidential administration was nicknamed 'Camelot'?",
-      "choices": [
-        "John F. Kennedy",
-        "Lyndon B. Johnson",
-        "Franklin D. Roosevelt",
-        "Dwight D. Eisenhower"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "John F. Kennedy",
-        "verified": true,
-        "notes": "Term coined by Jackie Kennedy after his assassination."
-      }
-    },
-    {
-      "q": "Whose New Deal programs responded to the Great Depression?",
-      "choices": [
-        "Franklin D. Roosevelt",
-        "Herbert Hoover",
-        "Harry Truman",
-        "Theodore Roosevelt"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The New Deal",
-        "verified": true,
-        "notes": "Series of programs 1933-1939."
-      }
-    },
-    {
-      "q": "Which 4 presidents are carved into Mount Rushmore?",
-      "choices": [
-        "Washington, Jefferson, T. Roosevelt, Lincoln",
-        "Washington, Adams, Jefferson, Lincoln",
-        "Washington, Lincoln, FDR, T. Roosevelt",
-        "Washington, Jefferson, Lincoln, FDR"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mount Rushmore",
-        "verified": true,
-        "notes": "Theodore (not Franklin) Roosevelt. Carved 1927-1941."
-      }
-    },
-    {
-      "q": "Which president was the tallest, at 6'4\"?",
-      "choices": [
-        "Abraham Lincoln",
-        "Lyndon B. Johnson",
-        "Thomas Jefferson",
+        "Buffalo, NY",
+        "Donald Trump",
+        "Woodrow Wilson",
         "Franklin D. Roosevelt"
       ],
       "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Abraham Lincoln",
-        "verified": true,
-        "notes": "LBJ also 6'4\" — tied. Trump and Obama both 6'2\""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which president freed enslaved people via the Emancipation Proclamation in 1863?",
+      "q": "In which year was US President George W. Bush born?",
       "choices": [
-        "Abraham Lincoln",
-        "Andrew Johnson",
-        "Ulysses S. Grant",
-        "James Buchanan"
+        "1947",
+        "1944",
+        "1954",
+        "1946"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was US President Herbert Hoover born?",
+      "choices": [
+        "1866",
+        "1881",
+        "1874",
+        "1877"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was US President John F. Kennedy born?",
+      "choices": [
+        "1917",
+        "1914",
+        "1909",
+        "1919"
       ],
       "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Effective January 1, 1863."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who was the only U.S. president to serve more than two terms?",
+      "q": "In which year was US President Richard Nixon born?",
       "choices": [
-        "Franklin D. Roosevelt",
-        "Theodore Roosevelt",
-        "Woodrow Wilson",
-        "Andrew Jackson"
+        "1910",
+        "1907",
+        "1913",
+        "1920"
       ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Elected 4 times (1932, 36, 40, 44). Died in 1945. 22nd Amendment (1951) limited future presidents to 2 terms."
-      }
-    },
-    {
-      "q": "Who is the only U.S. president to serve two non-consecutive terms (until 2025)?",
-      "choices": [
-        "Grover Cleveland (then Trump in 2025 became the 2nd)",
-        "Andrew Jackson",
-        "Theodore Roosevelt",
-        "James Madison"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Cleveland served 1885-89 and 1893-97. Trump joined the club January 2025."
-      }
-    },
-    {
-      "q": "Which president gave the Gettysburg Address (1863)?",
-      "choices": [
-        "Abraham Lincoln",
-        "Andrew Johnson",
-        "Ulysses S. Grant",
-        "James Buchanan"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "272 words. November 19, 1863."
-      }
-    },
-    {
-      "q": "Which president was assassinated at Ford's Theatre in 1865?",
-      "choices": [
-        "Abraham Lincoln",
-        "James Garfield",
-        "William McKinley",
-        "John F. Kennedy"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "By John Wilkes Booth, April 14, 1865."
-      }
-    },
-    {
-      "q": "How many US presidents have been assassinated in office?",
-      "choices": [
-        "4",
-        "3",
-        "5",
-        "6"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Lincoln (1865), Garfield (1881), McKinley (1901), Kennedy (1963)."
-      }
-    },
-    {
-      "q": "Who succeeded JFK after his 1963 assassination?",
-      "choices": [
-        "Lyndon B. Johnson",
-        "Richard Nixon",
-        "Robert Kennedy",
-        "Gerald Ford"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "VP, sworn in on Air Force One after Kennedy's death."
-      }
-    },
-    {
-      "q": "Which president negotiated the Louisiana Purchase in 1803?",
-      "choices": [
-        "Thomas Jefferson",
-        "James Madison",
-        "James Monroe",
-        "John Adams"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Doubled the country's size for $15M."
-      }
-    },
-    {
-      "q": "Which president was famously a peanut farmer before politics?",
-      "choices": [
-        "Jimmy Carter",
-        "Bill Clinton",
-        "Lyndon Johnson",
-        "Ronald Reagan"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Won 2002 Nobel Peace Prize. Lived to age 100."
-      }
-    },
-    {
-      "q": "Which president was a Hollywood actor before politics?",
-      "choices": [
-        "Ronald Reagan",
-        "Donald Trump",
-        "Gerald Ford",
-        "George H. W. Bush"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "Starred in 50+ films. Governor of CA before presidency (1981-1989)."
-      }
-    },
-    {
-      "q": "Who was the first African American president of the United States?",
-      "choices": [
-        "Barack Obama",
-        "Colin Powell",
-        "Jesse Jackson",
-        "Cory Booker"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "44th President. Served 2009-2017."
-      }
-    },
-    {
-      "q": "Who was George Washington's wife (and the first First Lady)?",
-      "choices": [
-        "Martha Dandridge Custis Washington",
-        "Abigail Adams",
-        "Dolley Madison",
-        "Mary Lincoln"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "George Washington",
-        "verified": true,
-        "notes": "Widow when she married George (a previous marriage to Daniel Custis)."
-      }
-    },
-    {
-      "q": "What's the official US presidential anthem played at formal events?",
-      "choices": [
-        "Hail to the Chief",
-        "The Star-Spangled Banner",
-        "America the Beautiful",
-        "Yankee Doodle"
-      ],
-      "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "U.S. Presidents",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: fixed contradictory 1810s/Polk note. Sarah Polk requested the song be routinely played to announce the president starting in the mid-1840s; melody dates to circa 1812."
-      }
-    },
-    {
-      "q": "Which U.S. President was known by the nickname 'Old Hickory'?",
-      "choices": [
-        "Thomas Jefferson",
-        "Andrew Jackson",
-        "James Madison",
-        "James Monroe"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Andrew Jackson",
-        "verified": true,
-        "notes": "Nickname came from his toughness as a military commander. 7th President."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
       "q": "Before becoming President, Ronald Reagan served as governor of which state?",
@@ -371,13 +78,7 @@
         "Oregon"
       ],
       "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "California",
-        "verified": true,
-        "notes": "Governor 1967-1975. Before that he was a Hollywood actor."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which U.S. President was known by the nickname 'Ike'?",
@@ -388,183 +89,7 @@
         "Warren Harding"
       ],
       "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Eisenhower",
-        "verified": true,
-        "notes": "34th President, 1953-1961. Supreme Allied Commander in WWII."
-      }
-    },
-    {
-      "q": "What was the name of President Richard Nixon's famous family dog, referenced in a 1952 speech?",
-      "choices": [
-        "Fala",
-        "Checkers",
-        "Bo",
-        "Rex"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Richard Nixon",
-        "verified": true,
-        "notes": "The 'Checkers speech' saved his spot on the 1952 ticket as Eisenhower's running mate."
-      }
-    },
-    {
-      "q": "What was President Jimmy Carter's middle name?",
-      "choices": [
-        "Edward",
-        "Earl",
-        "Eugene",
-        "Ernest"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Jimmy Carter",
-        "verified": true,
-        "notes": "James Earl Carter Jr. Born 1924 in Plains, Georgia."
-      }
-    },
-    {
-      "q": "In which U.S. state was President Jimmy Carter born?",
-      "choices": [
-        "Alabama",
-        "Georgia",
-        "Tennessee",
-        "South Carolina"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Georgia",
-        "verified": true,
-        "notes": "Plains, Georgia. Famously ran a peanut farming business."
-      }
-    },
-    {
-      "q": "At 5 feet 4 inches, who was the shortest U.S. President?",
-      "choices": [
-        "John Quincy Adams",
-        "James Madison",
-        "Martin Van Buren",
-        "Benjamin Harrison"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "James Madison",
-        "verified": true,
-        "notes": "4th President. Often called the 'Father of the Constitution.'"
-      }
-    },
-    {
-      "q": "Calvin Coolidge was famously sworn in as President by whom in 1923?",
-      "choices": [
-        "The Chief Justice",
-        "His father",
-        "The Vice President",
-        "The Secretary of State"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Calvin Coolidge",
-        "verified": true,
-        "notes": "Father John Coolidge was a notary public. Ceremony held in Plymouth, Vermont after Harding's death."
-      }
-    },
-    {
-      "q": "Aside from John F. Kennedy, which other U.S. President is buried at Arlington National Cemetery?",
-      "choices": [
-        "Ulysses S. Grant",
-        "William Howard Taft",
-        "Herbert Hoover",
-        "Andrew Johnson"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "William Taft",
-        "verified": true,
-        "notes": "27th President and later Chief Justice. Died 1930."
-      }
-    },
-    {
-      "q": "How many times was Franklin D. Roosevelt elected to the presidency?",
-      "choices": [
-        "Two",
-        "Three",
-        "Four",
-        "Five"
-      ],
-      "correct": 2,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Four",
-        "verified": true,
-        "notes": "1932, 1936, 1940, 1944. Led to 22nd Amendment (1951) limiting presidents to 2 terms."
-      }
-    },
-    {
-      "q": "In which city was Senator Robert F. Kennedy assassinated in 1968?",
-      "choices": [
-        "New York",
-        "Chicago",
-        "Dallas",
-        "Los Angeles"
-      ],
-      "correct": 3,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Los Angeles",
-        "verified": true,
-        "notes": "Shot at the Ambassador Hotel on June 5, 1968. Died the next day."
-      }
-    },
-    {
-      "q": "Which U.S. state was George W. Bush visiting a school in when he was told about the 9/11 attacks?",
-      "choices": [
-        "Texas",
-        "Florida",
-        "Louisiana",
-        "Georgia"
-      ],
-      "correct": 1,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Florida",
-        "verified": true,
-        "notes": "Emma E. Booker Elementary School, Sarasota. Reading 'The Pet Goat' to a 2nd grade class."
-      }
-    },
-    {
-      "q": "In what U.S. city was President William McKinley assassinated in 1901?",
-      "choices": [
-        "Washington D.C.",
-        "Philadelphia",
-        "Buffalo",
-        "New York"
-      ],
-      "correct": 2,
-      "category": "U.S. Presidents",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Buffalo",
-        "verified": true,
-        "notes": "Shot at the Pan-American Exposition by anarchist Leon Czolgosz. Died 8 days later."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "In what Texas city was President John F. Kennedy assassinated on November 22, 1963?",
@@ -575,13 +100,1734 @@
         "San Antonio"
       ],
       "correct": 2,
-      "category": "U.S. Presidents",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Abraham Lincoln",
-        "verified": true,
-        "notes": "Shot in Dealey Plaza while riding in a motorcade."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first U.S. President to resign from office?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Gerald Ford",
+        "Richard Nixon",
+        "Jimmy Carter"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first African American President of the United States?",
+      "choices": [
+        "Jesse Jackson",
+        "Barack Obama",
+        "Colin Powell",
+        "Al Sharpton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President was the first to be born in the 20th century?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Warren G. Harding",
+        "William Howard Taft"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was Abraham Lincoln assassinated?",
+      "choices": [
+        "1863",
+        "1864",
+        "1865",
+        "1866"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President served two non-consecutive terms?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Grover Cleveland",
+        "William McKinley",
+        "Benjamin Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Ronald Reagan's profession before entering politics?",
+      "choices": [
+        "Military officer",
+        "Actor",
+        "Lawyer",
+        "Businessman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did George Washington take the oath of office as the first US President?",
+      "choices": [
+        "1787",
+        "1788",
+        "1789",
+        "1790"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President was impeached for perjury and obstruction of justice in 1998?",
+      "choices": [
+        "Richard Nixon",
+        "Bill Clinton",
+        "Andrew Johnson",
+        "Ronald Reagan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Thomas Jefferson and John Adams both died on which significant date?",
+      "choices": [
+        "July 4, 1826",
+        "July 4, 1825",
+        "July 3, 1826",
+        "July 5, 1826"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President was never elected to the presidency or vice presidency?",
+      "choices": [
+        "Gerald Ford",
+        "Warren G. Harding",
+        "Chester Arthur",
+        "Millard Fillmore"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which state was John F. Kennedy assassinated in 1963?",
+      "choices": [
+        "Texas",
+        "Florida",
+        "California",
+        "New York"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President is depicted on Mount Rushmore but never won a presidential election?",
+      "choices": [
+        "Thomas Jefferson",
+        "Theodore Roosevelt",
+        "Abraham Lincoln",
+        "George Washington"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Harry Truman's middle name?",
+      "choices": [
+        "Samuel",
+        "Stephen",
+        "Solomon",
+        "Stewart"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President served the longest time in office?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Franklin D. Roosevelt",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city was the Democratic National Convention held when Hubert Humphrey was nominated in 1968?",
+      "choices": [
+        "Chicago",
+        "Boston",
+        "New York",
+        "Los Angeles"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President's wife was named Eleanor?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many presidents are depicted on Mount Rushmore?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President was the youngest to take office?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Bill Clinton",
+        "John F. Kennedy",
+        "Barack Obama"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What party did Abraham Lincoln belong to?",
+      "choices": [
+        "Democratic",
+        "Republican",
+        "Whig",
+        "Federalist"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President won the Nobel Peace Prize?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Woodrow Wilson",
+        "Jimmy Carter",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was John F. Kennedy elected President?",
+      "choices": [
+        "1958",
+        "1960",
+        "1962",
+        "1964"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President was never elected to the presidency as either President or Vice President?",
+      "choices": [
+        "Gerald Ford",
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Harry Truman"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the occupation of Harry S. Truman before entering politics?",
+      "choices": [
+        "Teacher",
+        "Haberdasher",
+        "Banker",
+        "Lawyer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Ronald Reagan defeat incumbent President Jimmy Carter?",
+      "choices": [
+        "1978",
+        "1980",
+        "1982",
+        "1984"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President served two non-consecutive terms in office?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Grover Cleveland",
+        "Benjamin Harrison"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "George Washington's presidency ended in which year?",
+      "choices": [
+        "1796",
+        "1797",
+        "1798",
+        "1799"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President was the first to live in the White House?",
+      "choices": [
+        "George Washington",
+        "John Adams",
+        "Thomas Jefferson",
+        "James Madison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was John F. Kennedy assassinated?",
+      "choices": [
+        "1961",
+        "1962",
+        "1963",
+        "1964"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President signed the Civil Rights Act of 1964?",
+      "choices": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Gerald Ford"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Benjamin Franklin served as President of which state?",
+      "choices": [
+        "Massachusetts",
+        "New York",
+        "Pennsylvania",
+        "Virginia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President ordered the atomic bombing of Japan in 1945?",
+      "choices": [
+        "Franklin D. Roosevelt",
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "George H. W. Bush"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Thomas Jefferson's primary profession before becoming President?",
+      "choices": [
+        "Physician",
+        "Lawyer",
+        "Architect",
+        "Merchant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President served the longest in office?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Harry S. Truman",
+        "Franklin D. Roosevelt",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which state was Abraham Lincoln born?",
+      "choices": [
+        "Kentucky",
+        "Indiana",
+        "Illinois",
+        "Tennessee"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President created the Peace Corps in 1961?",
+      "choices": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Dwight D. Eisenhower",
+        "Richard Nixon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Theodore Roosevelt was the youngest President at what age when he took office?",
+      "choices": [
+        "40",
+        "42",
+        "45",
+        "48"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President's administration was marked by the Iran hostage crisis?",
+      "choices": [
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "George H. W. Bush"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the primary reason for Andrew Johnson's impeachment in 1868?",
+      "choices": [
+        "Violation of the Tenure of Office Act",
+        "Tax evasion",
+        "Bribery",
+        "Treason"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President commissioned the construction of the Panama Canal?",
+      "choices": [
+        "William McKinley",
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did George Washington die while serving as President?",
+      "choices": [
+        "1797",
+        "1798",
+        "1799",
+        "1800"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which state was former President Jimmy Carter born?",
+      "choices": [
+        "Georgia",
+        "South Carolina",
+        "North Carolina",
+        "Alabama"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President had a pet dog named Checkers?",
+      "choices": [
+        "Dwight Eisenhower",
+        "Richard Nixon",
+        "John F. Kennedy",
+        "Harry Truman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first Catholic President of the United States?",
+      "choices": [
+        "Al Smith",
+        "John F. Kennedy",
+        "Joe Biden",
+        "Mario Cuomo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was President of the United States during the 1976 US Bicentennial celebration?",
+      "choices": [
+        "Gerald Ford",
+        "Richard Nixon",
+        "Jimmy Carter",
+        "Lyndon Johnson"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which former President was nicknamed 'Old Hickory'?",
+      "choices": [
+        "Andrew Jackson",
+        "Andrew Johnson",
+        "James Monroe",
+        "John Quincy Adams"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who defeated George H.W. Bush in the 1992 presidential election?",
+      "choices": [
+        "Bill Clinton",
+        "Ross Perot",
+        "Bob Dole",
+        "Al Gore"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President was born in 1913?",
+      "choices": [
+        "Dwight Eisenhower",
+        "Harry Truman",
+        "Richard Nixon",
+        "John F. Kennedy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was US President George W. Bush born?",
+      "choices": [
+        "1943",
+        "1946",
+        "1949",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was President during the US Centennial celebration in 1876?",
+      "choices": [
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "Rutherford B. Hayes",
+        "Benjamin Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Harry served as US President during the 1940s?",
+      "choices": [
+        "Harry Blackmun",
+        "Harry S. Truman",
+        "Harry Hoover",
+        "Harry Stimson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Richard Nixon's Democratic opponent in the 1968 presidential election was whom?",
+      "choices": [
+        "George McGovern",
+        "Hubert Humphrey",
+        "Edmund Muskie",
+        "Eugene McCarthy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was Richard Nixon's Democratic opponent in the 1972 presidential election?",
+      "choices": [
+        "Hubert Humphrey",
+        "Edmund Muskie",
+        "George McGovern",
+        "Walter Mondale"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President was impeached but acquitted, alongside Andrew Johnson?",
+      "choices": [
+        "Richard Nixon",
+        "Bill Clinton",
+        "Andrew Jackson",
+        "John Tyler"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which former President reportedly said 'No matter how much cats fight, there always seems to be plenty of kittens'?",
+      "choices": [
+        "Abraham Lincoln",
+        "Theodore Roosevelt",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nickname given to US President James Buchanan?",
+      "choices": [
+        "Old Buck",
+        "Ten Cent Jimmy",
+        "Young Hickory",
+        "The American Cincinnatus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President served immediately before Gerald Ford took office?",
+      "choices": [
+        "Lyndon Johnson",
+        "Richard Nixon",
+        "Spiro Agnew",
+        "Harry Truman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these US Presidents served during the 1950s?",
+      "choices": [
+        "Harry Truman",
+        "Dwight Eisenhower",
+        "John F. Kennedy",
+        "Lyndon Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President was in office during the Cuban Missile Crisis in 1962?",
+      "choices": [
+        "Dwight D. Eisenhower",
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nickname of Lady Bird Johnson's husband, who served as US President?",
+      "choices": [
+        "Harry",
+        "Jack",
+        "Lyndon",
+        "Gerald"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which state was former US President Jimmy Carter born?",
+      "choices": [
+        "Texas",
+        "Georgia",
+        "Alabama",
+        "South Carolina"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which US President was the first to transfer presidential powers to his Vice President during a surgical procedure?",
+      "choices": [
+        "Dwight D. Eisenhower",
+        "John F. Kennedy",
+        "Ronald Reagan",
+        "George H. W. Bush"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the Republican candidate defeated by Harry S. Truman in the surprising 1948 presidential election?",
+      "choices": [
+        "Thomas Dewey",
+        "Robert Taft",
+        "Wendell Willkie",
+        "Dwight Eisenhower"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which President had the middle name Earl?",
+      "choices": [
+        "Ronald Reagan",
+        "Donald Trump",
+        "George Washington",
+        "Jimmy Carter"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President was nicknamed Ike?",
+      "choices": [
+        "Abraham Lincoln",
+        "Richard Nixon",
+        "Gerald Ford",
+        "Eisenhower"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President was nicknamed 'Ten Cent Jimmy'?",
+      "choices": [
+        "Theodore Roosevelt",
+        "James Buchanan",
+        "Ronald Reagan",
+        "Harry Truman"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President died before the others?",
+      "choices": [
+        "George Washington",
+        "Ulysses S. Grant",
+        "James Monroe",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was President Jimmy Carter's middle name?",
+      "choices": [
+        "Edward",
+        "Earl",
+        "Eugene",
+        "Ernest"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At 5 feet 4 inches, who was the shortest U.S. President?",
+      "choices": [
+        "John Quincy Adams",
+        "James Madison",
+        "Martin Van Buren",
+        "Benjamin Harrison"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Calvin Coolidge was famously sworn in as President by whom in 1923?",
+      "choices": [
+        "The Chief Justice",
+        "His father",
+        "The Vice President",
+        "The Secretary of State"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Aside from John F. Kennedy, which other U.S. President is buried at Arlington National Cemetery?",
+      "choices": [
+        "Ulysses S. Grant",
+        "William Howard Taft",
+        "Herbert Hoover",
+        "Andrew Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what U.S. city was President William McKinley assassinated in 1901?",
+      "choices": [
+        "Washington D.C.",
+        "Philadelphia",
+        "Buffalo",
+        "New York"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Grover Cleveland is the only U.S. President to have served two terms in what unusual way?",
+      "choices": [
+        "Without winning the popular vote",
+        "In non-consecutive terms",
+        "In exile",
+        "As an independent"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President was the first to be born west of the Mississippi River?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Benjamin Harrison",
+        "William McKinley",
+        "Harry S. Truman"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President James K. Polk served only one term and retired in 1849. What was his primary justification for not seeking reelection?",
+      "choices": [
+        "Poor health",
+        "He had accomplished his major policy goals",
+        "Pressure from his cabinet",
+        "Low approval ratings"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President's administration was the first to implement an executive order specifically aimed at desegregating the US military?",
+      "choices": [
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "John F. Kennedy",
+        "Lyndon B. Johnson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Chester Arthur was known for reforming the civil service system. In which year did the Pendleton Civil Service Reform Act pass during his presidency?",
+      "choices": [
+        "1881",
+        "1883",
+        "1885",
+        "1887"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President had previously served as Secretary of War before his election to the presidency?",
+      "choices": [
+        "William Howard Taft",
+        "James Monroe",
+        "John Quincy Adams",
+        "Andrew Jackson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Benjamin Harrison was the grandson of which former US President?",
+      "choices": [
+        "William Henry Harrison",
+        "John Tyler",
+        "James K. Polk",
+        "Zachary Taylor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President established the first national park system by designating Yellowstone as a protected area in 1872?",
+      "choices": [
+        "Ulysses S. Grant",
+        "Rutherford B. Hayes",
+        "James A. Garfield",
+        "Chester Arthur"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President William McKinley was assassinated in 1901. What city was he visiting when the assassination occurred?",
+      "choices": [
+        "Buffalo, New York",
+        "Washington, D.C.",
+        "Philadelphia, Pennsylvania",
+        "Cleveland, Ohio"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President was the first to hold a press conference in a formal, structured manner?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson",
+        "Warren G. Harding"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Calvin Coolidge took office following the death of Warren G. Harding. Where was Coolidge serving as governor at the time?",
+      "choices": [
+        "Massachusetts",
+        "Vermont",
+        "Connecticut",
+        "New Hampshire"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President's administration negotiated the Treaty of Portsmouth that ended the Russo-Japanese War?",
+      "choices": [
+        "William McKinley",
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President signed the Sherman Antitrust Act in 1890, establishing the first major federal legislation to limit monopolies?",
+      "choices": [
+        "Benjamin Harrison",
+        "Grover Cleveland",
+        "William McKinley",
+        "Theodore Roosevelt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President John Tyler became the first Vice President to assume the presidency due to a President's death. How many days had William Henry Harrison served as President?",
+      "choices": [
+        "31 days",
+        "20 days",
+        "45 days",
+        "60 days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President commissioned the construction of the Panama Canal and served as Governor of the Panama Canal Zone?",
+      "choices": [
+        "William McKinley",
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Warren G. Harding was known for his cabinet, which included Secretary of Commerce Herbert Hoover. What scandal involving Harding's Secretary of the Interior dominated his administration's legacy?",
+      "choices": [
+        "Credit Mobilier Scandal",
+        "Teapot Dome Scandal",
+        "Whiskey Ring",
+        "Star Route Frauds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President was the first to visit China while in office during the Cold War era?",
+      "choices": [
+        "Dwight D. Eisenhower",
+        "John F. Kennedy",
+        "Richard Nixon",
+        "Gerald Ford"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Millard Fillmore served as the Vice President under which President before assuming the presidency upon that President's death?",
+      "choices": [
+        "James K. Polk",
+        "James Monroe",
+        "Zachary Taylor",
+        "William Henry Harrison"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President established the Federal Reserve System through legislation signed in 1913?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson",
+        "Warren G. Harding"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Zachary Taylor died in office in 1850 after serving only 16 months. What was the official cause of death recorded?",
+      "choices": [
+        "Pneumonia",
+        "Cholera morbus",
+        "Influenza",
+        "Typhoid fever"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President served as Secretary of War before his election to the presidency?",
+      "choices": [
+        "William Howard Taft",
+        "James Buchanan",
+        "Zachary Taylor",
+        "John Quincy Adams"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President James Garfield was assassinated in 1881 by Charles Guiteau; in which city did this assassination occur?",
+      "choices": [
+        "Washington, D.C.",
+        "Baltimore, Maryland",
+        "Philadelphia, Pennsylvania",
+        "New York, New York"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President was never elected to the office, having assumed it upon his predecessor's death?",
+      "choices": [
+        "Gerald Ford",
+        "Chester Arthur",
+        "Andrew Johnson",
+        "Calvin Coolidge"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Warren G. Harding died in office in 1923; what city was he visiting when he died?",
+      "choices": [
+        "San Francisco, California",
+        "Denver, Colorado",
+        "Seattle, Washington",
+        "Portland, Oregon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President was shot and wounded by would-be assassin John Schrank in 1912 while campaigning?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Benjamin Harrison",
+        "James Garfield"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Benjamin Harrison's grandfather was which earlier US President?",
+      "choices": [
+        "William Henry Harrison",
+        "John Adams",
+        "James Monroe",
+        "Andrew Jackson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President signed the Sherman Antitrust Act in 1890?",
+      "choices": [
+        "Benjamin Harrison",
+        "Grover Cleveland",
+        "William McKinley",
+        "Chester Arthur"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Andrew Johnson was impeached in 1868 primarily over disputes regarding which policy?",
+      "choices": [
+        "Reconstruction in the South",
+        "Civil Service Reform",
+        "Tariff legislation",
+        "Currency policy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President served two non-consecutive terms in office?",
+      "choices": [
+        "Grover Cleveland",
+        "Theodore Roosevelt",
+        "Harry Truman",
+        "Dwight Eisenhower"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Zachary Taylor died in 1850 after only 16 months in office; what was the cause of his death?",
+      "choices": [
+        "Cholera morbus",
+        "Pneumonia",
+        "Heart attack",
+        "Stroke"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President established the Panama Canal Zone through a treaty with Panama in 1903?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "William Howard Taft",
+        "Benjamin Harrison"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President James K. Polk campaigned on the concept of 'Manifest Destiny'; which territorial expansion occurred during his presidency?",
+      "choices": [
+        "Acquisition of the Oregon Territory and Mexican Cession",
+        "Purchase of Alaska",
+        "Annexation of Hawaii",
+        "Gadsden Purchase"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President was the first to appoint a woman to his Cabinet?",
+      "choices": [
+        "Franklin D. Roosevelt",
+        "Harry Truman",
+        "Dwight Eisenhower",
+        "John F. Kennedy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Rutherford B. Hayes won the 1876 election through a controversial commission that decided disputed electoral votes from which states?",
+      "choices": [
+        "Florida, Louisiana, South Carolina, and Oregon",
+        "Florida and South Carolina only",
+        "Georgia, Louisiana, and Mississippi",
+        "All Southern states"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President commissioned the construction of the Erie Canal?",
+      "choices": [
+        "James Monroe",
+        "Thomas Jefferson",
+        "James Madison",
+        "John Quincy Adams"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President John Adams was married to Abigail Smith; how many children did they have together?",
+      "choices": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President's presidency ended with his resignation in 1974?",
+      "choices": [
+        "Richard Nixon",
+        "Gerald Ford",
+        "Lyndon B. Johnson",
+        "Harry Truman"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President William Henry Harrison delivered the longest inaugural address in US history; approximately how long was it?",
+      "choices": [
+        "Approximately 8,400 words",
+        "Approximately 4,200 words",
+        "Approximately 6,100 words",
+        "Approximately 10,500 words"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President was a Supreme Court Justice before his election to the presidency?",
+      "choices": [
+        "William Howard Taft",
+        "Benjamin Harrison",
+        "James Monroe",
+        "John Quincy Adams"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Thomas Jefferson purchased the Louisiana Territory from France in 1803 for approximately what amount?",
+      "choices": [
+        "$15 million",
+        "$10 million",
+        "$25 million",
+        "$5 million"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which US President appointed the most Supreme Court Justices during his tenure?",
+      "choices": [
+        "George Washington",
+        "Franklin D. Roosevelt",
+        "Thomas Jefferson",
+        "Theodore Roosevelt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President James Garfield was assassinated in 1881 by Charles J. Guiteau. What was Guiteau's primary stated motivation?",
+      "choices": [
+        "Political disagreement over tariff policy",
+        "Belief that he deserved a diplomatic post that was denied him",
+        "Opposition to Garfield's civil service reform efforts",
+        "Revenge for a personal business dispute"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President's administration was most directly implicated in the Iran-Contra affair?",
+      "choices": [
+        "Richard Nixon",
+        "Gerald Ford",
+        "Ronald Reagan",
+        "George H. W. Bush"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President William Henry Harrison died in 1841 after only 31 days in office. What was the official cause of death listed by his physician?",
+      "choices": [
+        "Pneumonia",
+        "Bilious fever",
+        "Acute cholera morbus",
+        "Cerebral hemorrhage"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President established the first national park, Yellowstone, by executive action in 1872?",
+      "choices": [
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "Rutherford B. Hayes",
+        "James A. Garfield"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Chester Arthur was a member of which political machine before his presidency?",
+      "choices": [
+        "The Tammany Hall organization",
+        "The Pennsylvania Railroad lobby",
+        "The New York Custom House patronage network",
+        "The Boston Brahmin establishment"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1824 presidential election, no candidate won an Electoral College majority, forcing the decision into the House of Representatives. Who ultimately won that contested election?",
+      "choices": [
+        "Andrew Jackson",
+        "John Quincy Adams",
+        "William Crawford",
+        "Henry Clay"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President's wife, Edith Kermit Carow, effectively served as his acting chief of staff during a period of his serious illness in office?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William McKinley",
+        "Woodrow Wilson",
+        "Warren G. Harding"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Andrew Johnson was the only sitting President to hold what elected office after leaving the White House?",
+      "choices": [
+        "Governor of Tennessee",
+        "Senator from Tennessee",
+        "House Representative from Tennessee",
+        "Mayor of Nashville"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Panic of 1893 occurred during which President's first term, severely damaging his political standing?",
+      "choices": [
+        "Grover Cleveland",
+        "Benjamin Harrison",
+        "William McKinley",
+        "Theodore Roosevelt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President secretly negotiated the Portsmouth Treaty in 1905 to end the Russo-Japanese War?",
+      "choices": [
+        "William McKinley",
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President William McKinley was assassinated in 1901 by Leon Czolgosz. What was the shooter's stated ideology?",
+      "choices": [
+        "Southern secessionism",
+        "Anarchism",
+        "Labor union radicalism",
+        "Anti-imperialist activism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President invoked executive privilege most extensively to withhold information from Congress and the public?",
+      "choices": [
+        "Richard Nixon",
+        "Lyndon B. Johnson",
+        "Harry S. Truman",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President John Adams was the only founding-era President to do which of the following?",
+      "choices": [
+        "Never own slaves",
+        "Serve a single term and then retire",
+        "Die on Independence Day",
+        "Appoint a majority of Supreme Court Justices"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Corrupt Bargain of 1825 allegedly involved a quid pro quo between John Quincy Adams and which politician?",
+      "choices": [
+        "Daniel Webster",
+        "Henry Clay",
+        "John C. Calhoun",
+        "Andrew Jackson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President commissioned the first comprehensive geological survey of the western United States?",
+      "choices": [
+        "Ulysses S. Grant",
+        "Rutherford B. Hayes",
+        "James A. Garfield",
+        "Chester Arthur"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President Franklin Pierce signed which controversial legislation that repealed the Missouri Compromise?",
+      "choices": [
+        "The Compromise of 1850",
+        "The Kansas-Nebraska Act",
+        "The Fugitive Slave Act",
+        "The Dred Scott decision"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President's administration conducted the secret bombing campaign in Cambodia during the Vietnam War?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Gerald Ford",
+        "Jimmy Carter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "President James K. Polk served only one term despite significant territorial expansion under his administration. What was his stated reason for not seeking reelection?",
+      "choices": [
+        "Poor health",
+        "Exhaustion from his presidency",
+        "Low approval ratings",
+        "A prior commitment to serve only one term"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which President was never elected to the office, either as the original candidate or through succession?",
+      "choices": [
+        "Gerald Ford",
+        "Chester Arthur",
+        "Millard Fillmore",
+        "Andrew Johnson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President appointed Earl Warren as Chief Justice of the Supreme Court in 1953?",
+      "choices": [
+        "Harry S. Truman",
+        "Dwight D. Eisenhower",
+        "Richard Nixon",
+        "John F. Kennedy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1964 presidential election, Lyndon B. Johnson defeated which Republican candidate?",
+      "choices": [
+        "Richard Nixon",
+        "Barry Goldwater",
+        "Nelson Rockefeller",
+        "William Scranton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President signed the Sherman Antitrust Act into law in 1890?",
+      "choices": [
+        "Benjamin Harrison",
+        "Grover Cleveland",
+        "Chester Arthur",
+        "James Garfield"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "James K. Polk served as President during which major military conflict involving the United States?",
+      "choices": [
+        "The Spanish-American War",
+        "The Mexican-American War",
+        "The War of 1812",
+        "The Seminole Wars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At 6ft 4in, who was the tallest President of the US?",
+      "choices": [
+        "Woodrow Wilson",
+        "Abraham Lincoln",
+        "Andrew Jackson",
+        "Ulysses S. Grant"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Former President Jimmy Carter was born in which state?",
+      "choices": [
+        "Lyndon Johnson",
+        "George Washington",
+        "Georgia",
+        "John Adams"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many times was Franklin D Roosevelt elected as US President?",
+      "choices": [
+        "Andrew Jackson",
+        "Harry Truman",
+        "Four",
+        "Ulysses S. Grant"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city was Bobby Kennedy assassinated in 1968?",
+      "choices": [
+        "Thomas Jefferson",
+        "Los Angeles",
+        "Woodrow Wilson",
+        "James Madison"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was US President Barack Obama born?",
+      "choices": [
+        "1961",
+        "1965",
+        "1959",
+        "1955"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was US President Bill Clinton born?",
+      "choices": [
+        "1938",
+        "1953",
+        "1947",
+        "1946"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was US President Calvin Coolidge born?",
+      "choices": [
+        "1864",
+        "1872",
+        "1867",
+        "1878"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was US President Dwight D. Eisenhower born?",
+      "choices": [
+        "1890",
+        "1886",
+        "1897",
+        "1882"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was US President Lyndon B. Johnson born?",
+      "choices": [
+        "1915",
+        "1907",
+        "1901",
+        "1908"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "'Old Hickory' was a nickname given to which US President?",
+      "choices": [
+        "Harry Truman",
+        "Andrew Jackson",
+        "Donald Trump",
+        "Thomas Jefferson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Ronald Reagan was once governor of which state?",
+      "choices": [
+        "Thomas Jefferson",
+        "California",
+        "John F. Kennedy",
+        "Barack Obama"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which former President reportedly said: 'You want a friend in Washington? Get a dog'?",
+      "choices": [
+        "Richard Nixon",
+        "Lyndon Johnson",
+        "Harry S. Truman",
+        "Gerald Ford"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Harry was President of America in the 1940s?",
+      "choices": [
+        "Harry S. Truman",
+        "Richard Nixon",
+        "George Washington",
+        "Harry Truman"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President had a cat called Tom Kitten?",
+      "choices": [
+        "Woodrow Wilson",
+        "John F. Kennedy",
+        "Lyndon Johnson",
+        "Donald Trump"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President had a dog called Checkers?",
+      "choices": [
+        "Richard Nixon",
+        "George Washington",
+        "Donald Trump",
+        "Barack Obama"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. President was known by the nickname 'Old Hickory'?",
+      "choices": [
+        "Thomas Jefferson",
+        "Andrew Jackson",
+        "James Madison",
+        "James Monroe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name of President Richard Nixon's famous family dog, referenced in a 1952 speech?",
+      "choices": [
+        "Fala",
+        "Checkers",
+        "Bo",
+        "Rex"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which U.S. state was President Jimmy Carter born?",
+      "choices": [
+        "Alabama",
+        "Georgia",
+        "Tennessee",
+        "South Carolina"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At 6 feet 4 inches, who was the tallest U.S. President?",
+      "choices": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Theodore Roosevelt",
+        "Lyndon B. Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many times was Franklin D. Roosevelt elected to the presidency?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city was Senator Robert F. Kennedy assassinated in 1968?",
+      "choices": [
+        "New York",
+        "Chicago",
+        "Dallas",
+        "Los Angeles"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state was George W. Bush visiting a school in when he was told about the 9/11 attacks?",
+      "choices": [
+        "Texas",
+        "Florida",
+        "Louisiana",
+        "Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
       "q": "Which four U.S. Presidents are carved into Mount Rushmore?",
@@ -592,13 +1838,18 @@
         "Jefferson, Lincoln, Teddy Roosevelt, Eisenhower"
       ],
       "correct": 0,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "George Washington",
-        "verified": true,
-        "notes": "Carved 1927-1941 by Gutzon Borglum in the Black Hills of South Dakota."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the youngest person ever elected President of the United States?",
+      "choices": [
+        "Bill Clinton",
+        "John F. Kennedy",
+        "Theodore Roosevelt",
+        "Barack Obama"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
       "q": "Kamala Harris made history in 2021 by becoming what first?",
@@ -609,13 +1860,524 @@
         "Both B and C"
       ],
       "correct": 3,
-      "category": "U.S. Presidents",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "George Washington",
-        "verified": true,
-        "notes": "Sworn in January 20, 2021 as VP under Joe Biden. Previously a U.S. Senator from California."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which US President signed the Gulf of Tonkin Resolution that escalated American involvement in Vietnam?",
+      "choices": [
+        "John F. Kennedy",
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Gerald Ford"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Theodore Roosevelt won the Nobel Peace Prize for mediating the end of which conflict?",
+      "choices": [
+        "Boxer Rebellion",
+        "Russo-Japanese War",
+        "First Balkan War",
+        "Spanish-American War"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President's administration was marked by the Iran hostage crisis that lasted 444 days?",
+      "choices": [
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "George H. W. Bush"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Zachary Taylor died in office in 1850 after only 16 months as President. What was the official cause of death?",
+      "choices": [
+        "Cholera morbus",
+        "Pneumonia",
+        "Heart failure",
+        "Dysentery"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President established the Environmental Protection Agency (EPA) by executive order in 1970?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Gerald Ford",
+        "Jimmy Carter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Franklin D. Roosevelt was elected to four consecutive terms. In what year was the two-term limit amendment ratified to prevent this in the future?",
+      "choices": [
+        "1945",
+        "1947",
+        "1951",
+        "1953"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "James Garfield was assassinated by Charles J. Guiteau in 1881. What was Guiteau's primary motivation?",
+      "choices": [
+        "Political extremism",
+        "Disappointed office-seeker",
+        "Labor dispute",
+        "Personal vendetta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President negotiated the Panama Canal Treaty, which transferred control of the canal to Panama by the year 2000?",
+      "choices": [
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "George H. W. Bush"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President William McKinley was assassinated in 1901 by Leon Czolgosz. In which city did this assassination occur?",
+      "choices": [
+        "Washington, D.C.",
+        "Buffalo, New York",
+        "Cincinnati, Ohio",
+        "Philadelphia, Pennsylvania"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President created the Federal Reserve System through the passage of the Federal Reserve Act in 1913?",
+      "choices": [
+        "Theodore Roosevelt",
+        "William Howard Taft",
+        "Woodrow Wilson",
+        "Warren G. Harding"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Andrew Jackson's political rival was Henry Clay. Which political party did Clay represent during their most famous encounters?",
+      "choices": [
+        "Democratic-Republican Party",
+        "Whig Party",
+        "Federalist Party",
+        "Free Soil Party"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President signed the Indian Removal Act of 1830, leading to the Trail of Tears?",
+      "choices": [
+        "John Quincy Adams",
+        "Andrew Jackson",
+        "James Monroe",
+        "Martin Van Buren"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Dwight Eisenhower served as Supreme Commander of Allied Forces in Europe during which major conflict?",
+      "choices": [
+        "World War I",
+        "Korean War",
+        "World War II",
+        "Cold War"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President signed the Nuclear Non-Proliferation Treaty in 1968?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "John F. Kennedy",
+        "Harry Truman"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President John Tyler ascended to the presidency after William Henry Harrison's death in 1841. What nickname was Tyler given due to his willingness to exercise full presidential powers?",
+      "choices": [
+        "The Accidental President",
+        "His Accidency",
+        "The Usurper",
+        "The Acting President"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President's administration orchestrated the Bay of Pigs invasion in Cuba in 1961?",
+      "choices": [
+        "Dwight Eisenhower",
+        "John F. Kennedy",
+        "Harry Truman",
+        "Lyndon B. Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Benjamin Harrison was the grandson of which earlier President?",
+      "choices": [
+        "John Adams",
+        "Andrew Jackson",
+        "William Henry Harrison",
+        "John Quincy Adams"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President negotiated the Strategic Arms Limitation Talks (SALT I) agreement with the Soviet Union in 1972?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Gerald Ford",
+        "Jimmy Carter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President James Polk's administration acquired significant territory from Mexico following the Mexican-American War. Approximately what percentage of Mexico's territory was ceded to the United States?",
+      "choices": [
+        "About 25 percent",
+        "About 50 percent",
+        "About 75 percent",
+        "About 10 percent"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which US President served as Secretary of State before his presidency?",
+      "choices": [
+        "Thomas Jefferson",
+        "James Madison",
+        "John Quincy Adams",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Theodore Roosevelt become President following McKinley's assassination?",
+      "choices": [
+        "1899",
+        "1901",
+        "1903",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President ordered the Manhattan Project to develop nuclear weapons during World War II?",
+      "choices": [
+        "Herbert Hoover",
+        "Franklin D. Roosevelt",
+        "Harry S. Truman",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "James K. Polk served as President during which major territorial expansion conflict?",
+      "choices": [
+        "The War of 1812",
+        "The Mexican-American War",
+        "The Spanish-American War",
+        "The Indian Wars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President's administration was most directly associated with the Iran-Contra scandal?",
+      "choices": [
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Ronald Reagan",
+        "George H.W. Bush"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chester Arthur became President after which President's assassination in 1881?",
+      "choices": [
+        "James A. Garfield",
+        "William McKinley",
+        "Abraham Lincoln",
+        "Andrew Johnson"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "John F. Kennedy won the 1960 presidential election against which Republican candidate?",
+      "choices": [
+        "Richard Nixon",
+        "Barry Goldwater",
+        "Nelson Rockefeller",
+        "Henry Cabot Lodge"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Andrew Johnson became President following which President's assassination?",
+      "choices": [
+        "William McKinley",
+        "James Garfield",
+        "Abraham Lincoln",
+        "Zachary Taylor"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President served the shortest term in office?",
+      "choices": [
+        "Zachary Taylor",
+        "James Garfield",
+        "Warren G. Harding",
+        "Gerald Ford"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Monroe Doctrine was issued by President James Monroe to address intervention by which powers?",
+      "choices": [
+        "British and French forces",
+        "European monarchies",
+        "Spanish colonial forces",
+        "Russian and Ottoman empires"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President's administration oversaw the Watergate scandal and subsequent resignation?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Gerald Ford",
+        "Richard Nixon",
+        "Jimmy Carter"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Benjamin Harrison served as President immediately before which President took office?",
+      "choices": [
+        "Grover Cleveland",
+        "William McKinley",
+        "Theodore Roosevelt",
+        "Zachary Taylor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President declared war on Japan following the attack on Pearl Harbor in 1941?",
+      "choices": [
+        "Herbert Hoover",
+        "Franklin D. Roosevelt",
+        "Harry S. Truman",
+        "Dwight D. Eisenhower"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Open Door Policy regarding China was associated with which President's administration?",
+      "choices": [
+        "Chester Arthur",
+        "Benjamin Harrison",
+        "William McKinley",
+        "Theodore Roosevelt"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President established the Department of Homeland Security following the September 11 attacks?",
+      "choices": [
+        "Bill Clinton",
+        "George W. Bush",
+        "Barack Obama",
+        "Donald Trump"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Millard Fillmore became President after which President's death in office?",
+      "choices": [
+        "William Henry Harrison",
+        "Zachary Taylor",
+        "James K. Polk",
+        "John Tyler"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which President signed the Emancipation Proclamation in 1863?",
+      "choices": [
+        "Andrew Johnson",
+        "Abraham Lincoln",
+        "Rutherford B. Hayes",
+        "James Buchanan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Theodore Roosevelt won the Nobel Peace Prize for his role in mediating which conflict?",
+      "choices": [
+        "The Boer War",
+        "The Russo-Japanese War",
+        "The Balkan Wars",
+        "The Philippine-American War"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which US President was sworn in by his father, a notary public, following the death of the incumbent president?",
+      "choices": [
+        "Theodore Roosevelt",
+        "Calvin Coolidge",
+        "Chester Arthur",
+        "Andrew Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which state did Ronald Reagan serve as governor before becoming President?",
+      "choices": [
+        "Texas",
+        "California",
+        "New York",
+        "Illinois"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was Harry S. Truman's Republican opponent in the 1948 presidential election, which Truman won unexpectedly?",
+      "choices": [
+        "Dwight Eisenhower",
+        "Thomas Dewey",
+        "Robert Taft",
+        "William Howard Taft"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which US President purchased Alaska from the Russian Empire in 1867?",
+      "choices": [
+        "Ulysses S. Grant",
+        "Andrew Johnson",
+        "Zachary Taylor",
+        "James Buchanan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the middle name of President Jimmy Carter?",
+      "choices": [
+        "Eugene",
+        "Earl",
+        "Edward",
+        "Emmett"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which US President was in office when the United States celebrated its Centennial in 1876?",
+      "choices": [
+        "Benjamin Hayes",
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "James Garfield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city was President William McKinley assassinated in 1901?",
+      "choices": [
+        "Washington, D.C.",
+        "Buffalo, New York",
+        "Cleveland, Ohio",
+        "Canton, Ohio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the nickname given to Andrew Jackson, the seventh US President?",
+      "choices": [
+        "Old Rough and Ready",
+        "Old Hickory",
+        "The Great Compromiser",
+        "The American System"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which US President was known as 'Ten Cent Jimmy' due to his financial policies?",
+      "choices": [
+        "James Monroe",
+        "James K. Polk",
+        "James Buchanan",
+        "James Garfield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city was George Washington inaugurated for his first term as President?",
+      "choices": [
+        "Philadelphia, Pennsylvania",
+        "Boston, Massachusetts",
+        "New York, New York",
+        "Washington, D.C."
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

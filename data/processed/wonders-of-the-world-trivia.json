@@ -1,273 +1,3164 @@
 {
   "slug": "wonders-of-the-world-trivia",
   "name": "Wonders of the World",
-  "description": "Famous landmarks, natural wonders, and iconic sites",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.790Z",
   "questions": [
     {
       "q": "The Great Wall is located in which country?",
-      "choices": ["China", "Japan", "Mongolia", "Korea"],
+      "choices": [
+        "China",
+        "Japan",
+        "Mongolia",
+        "Korea"
+      ],
       "correct": 0,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "China",
-        "verified": true,
-        "notes": "Stretches more than 13,000 miles across northern China."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "The Pyramids of Giza are located in which country?",
-      "choices": ["Egypt", "Morocco", "Libya", "Sudan"],
+      "choices": [
+        "Egypt",
+        "Morocco",
+        "Libya",
+        "Sudan"
+      ],
       "correct": 0,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Egypt",
-        "verified": true,
-        "notes": "On the outskirts of modern-day Cairo."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "In which city would you visit the Eiffel Tower?",
-      "choices": ["Brussels", "Paris", "Lyon", "Rome"],
+      "choices": [
+        "Brussels",
+        "Paris",
+        "Lyon",
+        "Rome"
+      ],
       "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The Eiffel Tower",
-        "verified": true,
-        "notes": "Built for the 1889 Exposition Universelle; designed by Gustave Eiffel's firm."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "In which U.S. city is the Statue of Liberty located?",
-      "choices": ["Washington, DC", "Boston", "Philadelphia", "New York"],
+      "choices": [
+        "Washington, DC",
+        "Boston",
+        "Philadelphia",
+        "New York"
+      ],
       "correct": 3,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "New York",
-        "verified": true,
-        "notes": "Stands on Liberty Island in New York Harbor; a gift from France dedicated in 1886."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "The Taj Mahal, a white-marble mausoleum, is in which country?",
-      "choices": ["Iran", "Pakistan", "India", "Afghanistan"],
+      "choices": [
+        "Iran",
+        "Pakistan",
+        "India",
+        "Afghanistan"
+      ],
       "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Agra",
-        "verified": true,
-        "notes": "Located in Agra; commissioned by Mughal emperor Shah Jahan in 1632."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "The Colosseum, a massive 1st-century amphitheatre, is in which European city?",
-      "choices": ["Athens", "Rome", "Naples", "Pompeii"],
+      "choices": [
+        "Athens",
+        "Rome",
+        "Naples",
+        "Pompeii"
+      ],
       "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Rome",
-        "verified": true,
-        "notes": "Completed in AD 80 under Emperor Titus."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "The Christ the Redeemer statue overlooks which South American city?",
-      "choices": ["Buenos Aires", "Lima", "Rio de Janeiro", "Santiago"],
+      "choices": [
+        "Buenos Aires",
+        "Lima",
+        "Rio de Janeiro",
+        "Santiago"
+      ],
       "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Brazil",
-        "verified": true,
-        "notes": "Atop Mount Corcovado; completed in 1931."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the longest river in the world?",
-      "choices": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "q": "In which year was the Eiffel Tower completed?",
+      "choices": [
+        "1887",
+        "1889",
+        "1891",
+        "1885"
+      ],
       "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "The Nile",
-        "verified": true,
-        "notes": "About 6,650 km long; runs through 11 African countries."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Angel Falls, the world's tallest uninterrupted waterfall, is located in which country?",
-      "choices": ["Colombia", "Venezuela", "Brazil", "Peru"],
+      "q": "Which city is home to the Coliseum, one of the most recognizable ruins in the world?",
+      "choices": [
+        "Athens",
+        "Rome",
+        "Istanbul",
+        "Cairo"
+      ],
       "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Angel Falls",
-        "verified": true,
-        "notes": "Drops 979 metres in Canaima National Park, Venezuela."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "In which year was the Eiffel Tower officially completed?",
-      "choices": ["1867", "1889", "1900", "1914"],
-      "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1889",
-        "verified": true,
-        "notes": "Built as the entrance arch for the 1889 World's Fair."
-      }
-    },
-    {
-      "q": "The Kremlin is the fortified historic complex at the heart of which city?",
-      "choices": ["Saint Petersburg", "Moscow", "Kyiv", "Minsk"],
-      "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Moscow",
-        "verified": true,
-        "notes": "Overlooks Red Square; the seat of the Russian government."
-      }
-    },
-    {
-      "q": "Michelangelo's Sistine Chapel ceiling is located in which sovereign state?",
-      "choices": ["Italy", "Vatican City", "San Marino", "Monaco"],
-      "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "The Vatican City",
-        "verified": true,
-        "notes": "Ceiling painted by Michelangelo between 1508 and 1512."
-      }
-    },
-    {
-      "q": "The Forbidden City, a vast imperial palace complex, is located in which city?",
-      "choices": ["Shanghai", "Beijing", "Xi'an", "Hong Kong"],
-      "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "China",
-        "verified": true,
-        "notes": "Home to 24 Ming and Qing emperors between 1420 and 1912."
-      }
-    },
-    {
-      "q": "The Acropolis, featuring the Parthenon temple, overlooks which capital city?",
-      "choices": ["Rome", "Istanbul", "Athens", "Cairo"],
+      "q": "What is the smallest independent country in the world by area?",
+      "choices": [
+        "Monaco",
+        "Liechtenstein",
+        "Vatican City",
+        "San Marino"
+      ],
       "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Athens",
-        "verified": true,
-        "notes": "Built in the 5th century BC under Pericles."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the largest desert on Earth, when measured by land area?",
-      "choices": ["Sahara", "Arabian", "Gobi", "Antarctica"],
-      "correct": 3,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Antarctica",
-        "verified": true,
-        "notes": "Antarctica is a polar desert — the largest desert by area at ~14 million km²."
-      }
-    },
-    {
-      "q": "The Great Pyramid of Giza is primarily built from which stone?",
-      "choices": ["Granite", "Sandstone", "Limestone", "Marble"],
-      "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Limestone",
-        "verified": true,
-        "notes": "Cased with Tura limestone; core blocks are local limestone."
-      }
-    },
-    {
-      "q": "The Brandenburg Gate is located in which capital?",
-      "choices": ["Vienna", "Berlin", "Warsaw", "Prague"],
+      "q": "In which European country is the Alhambra palace located?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
       "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Berlin",
-        "verified": true,
-        "notes": "Completed 1791; the only remaining gate of Berlin's old city wall."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Alhambra, a spectacular Moorish palace and fortress, is located in which country?",
-      "choices": ["Morocco", "Portugal", "Spain", "Tunisia"],
+      "q": "Which famous landmark serves as the tallest structure in Paris?",
+      "choices": [
+        "Notre-Dame",
+        "The Eiffel Tower",
+        "Sacré-Cœur",
+        "Arc de Triomphe"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which continent is Niagara Falls primarily located?",
+      "choices": [
+        "South America",
+        "Africa",
+        "North America",
+        "Europe"
+      ],
       "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Spain",
-        "verified": true,
-        "notes": "Located in Granada, Spain; completed in 1358."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which body of water is both the largest and deepest freshwater lake in the world by volume?",
+      "choices": [
+        "Lake Superior",
+        "Lake Baikal",
+        "Lake Michigan",
+        "Lake Tanganyika"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the royal palace in Istanbul that served as the residence of Ottoman sultans?",
+      "choices": [
+        "Dolmabahçe",
+        "Topkapi",
+        "Yıldız",
+        "Çırağan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "From which English port city did the Titanic depart on her maiden voyage in 1912?",
+      "choices": [
+        "Liverpool",
+        "Southampton",
+        "Plymouth",
+        "Bristol"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Egyptian site is famous for containing the tombs of pharaohs and is known as the Valley of the Kings?",
+      "choices": [
+        "Giza",
+        "Luxor",
+        "Aswan",
+        "Alexandria"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country would you find the extensive system of artificial islands and dikes known as the Zuiderzee Works?",
+      "choices": [
+        "Belgium",
+        "Germany",
+        "The Netherlands",
+        "Denmark"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which North Atlantic island nation is renowned for its geysers and dramatic volcanic landscape?",
+      "choices": [
+        "Greenland",
+        "Iceland",
+        "Faroe Islands",
+        "Ireland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest city in Germany by population?",
+      "choices": [
+        "Munich",
+        "Hamburg",
+        "Berlin",
+        "Frankfurt"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean surrounds the island nation of Sri Lanka?",
+      "choices": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Bible, which sea was famously parted according to religious tradition?",
+      "choices": [
+        "Dead Sea",
+        "Mediterranean Sea",
+        "Red Sea",
+        "Sea of Galilee"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest county in England by area?",
+      "choices": [
+        "Kent",
+        "Yorkshire",
+        "Cornwall",
+        "Devon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English lake is the largest body of freshwater in the country?",
+      "choices": [
+        "Loch Lomond",
+        "Windermere",
+        "Ullswater",
+        "Derwent Water"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which US state is Disneyland, one of the world's most visited theme parks, located?",
+      "choices": [
+        "Florida",
+        "Texas",
+        "California",
+        "New York"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to historical records, which city is considered the oldest capital still in use today?",
+      "choices": [
+        "Athens",
+        "Damascus",
+        "Rome",
+        "Jerusalem"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Coliseum, one of the most iconic structures in the world, is located in which city?",
+      "choices": [
+        "Athens",
+        "Rome",
+        "Istanbul",
+        "Cairo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Indian city is the Taj Mahal situated?",
+      "choices": [
+        "Delhi",
+        "Mumbai",
+        "Agra",
+        "Bangalore"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Eiffel Tower was completed in which year?",
+      "choices": [
+        "1879",
+        "1889",
+        "1899",
+        "1909"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to the Brandenburg Gate?",
+      "choices": [
+        "Vienna",
+        "Prague",
+        "Berlin",
+        "Budapest"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Louvre Museum, one of the world's largest art museums, is located in which city?",
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Versailles"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mount McKinley is the highest mountain in which North American region?",
+      "choices": [
+        "Canada",
+        "Mexico",
+        "Alaska",
+        "Colorado"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Golden Pavilion, a stunning Buddhist temple, is located in which country?",
+      "choices": [
+        "Thailand",
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Russian city can you find the Kremlin?",
+      "choices": [
+        "St. Petersburg",
+        "Moscow",
+        "Vladivostok",
+        "Novgorod"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate height of the Great Pyramid of Giza?",
+      "choices": [
+        "350 feet",
+        "400 feet",
+        "450 feet",
+        "500 feet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Empire State Building stands approximately how tall?",
+      "choices": [
+        "380 feet",
+        "420 feet",
+        "467 feet",
+        "520 feet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Disney World first opened in which year?",
+      "choices": [
+        "1965",
+        "1971",
+        "1975",
+        "1980"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "From which English port did the Titanic depart on her maiden voyage?",
+      "choices": [
+        "Liverpool",
+        "Southampton",
+        "Bristol",
+        "Dover"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country has the largest population outside of Russia?",
+      "choices": [
+        "France",
+        "Italy",
+        "Germany",
+        "Spain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Madrid is the largest city by population in which country?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Chesterfield, an English town, is famous for its distinctive architectural feature called what?",
+      "choices": [
+        "Twisted Tower",
+        "Crooked Steeple",
+        "Leaning Spire",
+        "Bent Cathedral"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which English river is historically known for its dramatic tidal bore phenomenon?",
+      "choices": [
+        "Thames",
+        "Severn",
+        "Trent",
+        "Humber"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient wonder of the world is located in Rome, Italy?",
+      "choices": [
+        "The Colosseum",
+        "The Pantheon",
+        "The Roman Forum",
+        "The Arch of Titus"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country would you find Victoria Falls, also known as 'The Smoke that Thunders'?",
+      "choices": [
+        "Kenya",
+        "South Africa",
+        "Zimbabwe and Zambia",
+        "Botswana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Great Barrier Reef, one of the world's largest natural wonders, is composed primarily of what?",
+      "choices": [
+        "Limestone formations",
+        "Coral colonies",
+        "Volcanic rock",
+        "Sand and sediment"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Statue of Liberty, a colossal monument, stands on an island in which body of water?",
+      "choices": [
+        "Hudson River",
+        "East River",
+        "Upper New York Bay",
+        "Atlantic Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Valley of the Kings in Egypt is historically significant for containing what?",
+      "choices": [
+        "Ancient temples",
+        "Royal tombs",
+        "Sacred shrines",
+        "Burial pyramids"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Great Pyramid of Giza was built as a monument to which pharaoh?",
+      "choices": [
+        "Tutankhamun",
+        "Ramesses II",
+        "Khufu",
+        "Thutmose III"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The CN Tower is a telecommunications landmark located in which Canadian city?",
+      "choices": [
+        "Vancouver",
+        "Montreal",
+        "Toronto",
+        "Calgary"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Golden Pavilion, a stunning temple covered in gold leaf, is located in which country?",
+      "choices": [
+        "Thailand",
+        "Japan",
+        "South Korea",
+        "Vietnam"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Charles Bridge, a historic stone bridge, spans the Vltava River in which European city?",
+      "choices": [
+        "Budapest",
+        "Vienna",
+        "Prague",
+        "Warsaw"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Death Valley, the lowest point in North America, is located in which US state?",
+      "choices": [
+        "Arizona",
+        "Nevada",
+        "California",
+        "Utah"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Machu Picchu, the ancient Incan citadel, is situated in the mountains of which country?",
+      "choices": [
+        "Ecuador",
+        "Bolivia",
+        "Peru",
+        "Chile"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Dead Sea is historically notable for the discovery of what ancient texts?",
+      "choices": [
+        "The Book of Hours",
+        "The Dead Sea Scrolls",
+        "The Torah Manuscripts",
+        "The Christian Gospels"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Christ the Redeemer, a monumental statue overlooking a major city, is located in which country?",
+      "choices": [
+        "Mexico",
+        "Colombia",
+        "Brazil",
+        "Peru"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Angkor Wat, the largest religious monument in the world, is located in which country?",
+      "choices": [
+        "Laos",
+        "Thailand",
+        "Cambodia",
+        "Myanmar"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Taj Mahal was built by Emperor Shah Jahan as a mausoleum for whom?",
+      "choices": [
+        "His mother",
+        "His first empress",
+        "His daughter",
+        "Himself"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were said to be built in which ancient region?",
+      "choices": [
+        "Egypt",
+        "Mesopotamia",
+        "Persia",
+        "Phoenicia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Big Ben, the famous clock tower, is located at the Palace of Westminster in which city?",
+      "choices": [
+        "Manchester",
+        "Liverpool",
+        "London",
+        "Oxford"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Parthenon, an ancient temple dedicated to the goddess Athena, stands on which hill in Athens?",
+      "choices": [
+        "Mount Helicon",
+        "The Acropolis",
+        "Mount Lycabettus",
+        "Mount Hymettus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Niagara Falls straddles the border between Canada and which US state?",
+      "choices": [
+        "Pennsylvania",
+        "Massachusetts",
+        "New York",
+        "Vermont"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain is the highest peak in Africa?",
+      "choices": [
+        "Mount Kenya",
+        "Mount Kilimanjaro",
+        "Mount Stanley",
+        "Mount Speke"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mount Everest is located in which country?",
+      "choices": [
+        "Tibet",
+        "Nepal",
+        "China",
+        "Bhutan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Atacama Desert is the driest place on Earth and is located in which country?",
+      "choices": [
+        "Peru",
+        "Bolivia",
+        "Chile",
+        "Argentina"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Amazon Rainforest spans multiple countries, but in which country does it cover the largest area?",
+      "choices": [
+        "Peru",
+        "Brazil",
+        "Colombia",
+        "Ecuador"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Victoria Falls is a natural wonder located between which two African countries?",
+      "choices": [
+        "Kenya and Tanzania",
+        "Zambia and Zimbabwe",
+        "South Africa and Botswana",
+        "Uganda and Rwanda"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Grand Canyon is located in which United States?",
+      "choices": [
+        "Utah",
+        "Colorado",
+        "Arizona",
+        "New Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Krakatoa is a volcano located in which country?",
+      "choices": [
+        "Philippines",
+        "Indonesia",
+        "Papua New Guinea",
+        "Malaysia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mount Fuji is the highest mountain in which country?",
+      "choices": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Taiwan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Dead Sea, the lowest point on Earth's surface, lies between which two countries?",
+      "choices": [
+        "Syria and Lebanon",
+        "Israel and Jordan",
+        "Iraq and Iran",
+        "Saudi Arabia and Yemen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Santorini, famous for its white-washed buildings and caldera, is located in which country?",
+      "choices": [
+        "Turkey",
+        "Cyprus",
+        "Greece",
+        "Malta"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Nile River, the longest river in the world, flows through which African country primarily?",
+      "choices": [
+        "Sudan",
+        "Uganda",
+        "Egypt",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Northern Lights, or Aurora Borealis, are best visible in countries near which circle?",
+      "choices": [
+        "Equator",
+        "Tropic of Cancer",
+        "Arctic Circle",
+        "Tropic of Capricorn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Angel Falls, the world's highest uninterrupted waterfall, is located in which country?",
+      "choices": [
+        "Brazil",
+        "Colombia",
+        "Venezuela",
+        "Guyana"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Great Wall of China was built primarily to protect against invasions from which direction?",
+      "choices": [
+        "South",
+        "East",
+        "North",
+        "West"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Colosseum, one of the most iconic structures of the ancient world, is located in which city?",
+      "choices": [
+        "Athens",
+        "Rome",
+        "Constantinople",
+        "Alexandria"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Niagara Falls straddles the border between Canada and which United States?",
+      "choices": [
+        "Pennsylvania",
+        "New York",
+        "Vermont",
+        "Massachusetts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Sahara, the world's largest hot desert, is located on which continent?",
+      "choices": [
+        "Asia",
+        "South America",
+        "Africa",
+        "Australia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Machu Picchu is an ancient Incan site located in which country?",
+      "choices": [
+        "Bolivia",
+        "Ecuador",
+        "Peru",
+        "Colombia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is home to the Alhambra palace?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country were fireworks first invented?",
+      "choices": [
+        "Japan",
+        "India",
+        "China",
+        "Thailand"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the world's tallest waterfall?",
+      "choices": [
+        "Niagara Falls",
+        "Victoria Falls",
+        "Angel Falls",
+        "Iguazu Falls"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which North Atlantic island nation is famous for its geysers and hot springs?",
+      "choices": [
+        "Greenland",
+        "Iceland",
+        "Ireland",
+        "Scotland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Topkapi Palace is a major historical site in which country?",
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Egypt",
+        "Lebanon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous museum is located in Paris, France?",
+      "choices": [
+        "British Museum",
+        "Louvre",
+        "Uffizi Gallery",
+        "Prado"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the deepest river in the world by volume?",
+      "choices": [
+        "Amazon River",
+        "Nile River",
+        "Congo River",
+        "Yangtze River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Valley of the Kings, home to ancient pharaonic tombs, is located in which country?",
+      "choices": [
+        "Sudan",
+        "Libya",
+        "Egypt",
+        "Iraq"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Asian desert is the largest in the world?",
+      "choices": [
+        "Gobi Desert",
+        "Kalahari Desert",
+        "Antarctic Desert",
+        "Arabian Desert"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which US state is Disneyland located?",
+      "choices": [
+        "Florida",
+        "Nevada",
+        "California",
+        "Texas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which South American city holds the distinction of being the highest capital city in the world?",
+      "choices": [
+        "Bogotá",
+        "La Paz",
+        "Quito",
+        "Lima"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Victoria Falls, one of the world's largest waterfalls, is also known by which name?",
+      "choices": [
+        "The Thunder Waters",
+        "The Smoke that Thunders",
+        "The Roaring Cascade",
+        "The Mist Veil"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The CN Tower is an iconic landmark in which country?",
+      "choices": [
+        "United States",
+        "Mexico",
+        "Canada",
+        "Brazil"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European city is known as the hottest in terms of average temperature?",
+      "choices": [
+        "Rome",
+        "Madrid",
+        "Athens",
+        "Barcelona"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Petronas Twin Towers are located in which Asian city?",
+      "choices": [
+        "Bangkok",
+        "Singapore",
+        "Kuala Lumpur",
+        "Manila"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
       "q": "The ancient Lighthouse of Alexandria, one of the Seven Wonders of the Ancient World, was located in modern-day which country?",
-      "choices": ["Greece", "Turkey", "Egypt", "Libya"],
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Egypt",
+        "Libya"
+      ],
       "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Egypt",
-        "verified": true,
-        "notes": "Built on Pharos Island around 280 BC; destroyed by earthquakes between 956 and 1323 AD."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "The Statue of Zeus, one of the Seven Wonders of the Ancient World, was located at which Greek site?",
-      "choices": ["Delphi", "Olympia", "Athens", "Sparta"],
+      "choices": [
+        "Delphi",
+        "Olympia",
+        "Athens",
+        "Sparta"
+      ],
       "correct": 1,
-      "category": "Wonders of the World",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Olympia",
-        "verified": true,
-        "notes": "Sculpted by Phidias c. 435 BC; destroyed in late antiquity."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "What destroyed the Colossus of Rhodes, one of the Seven Wonders of the Ancient World?",
-      "choices": ["Earthquake", "Fire", "War", "Flood"],
+      "choices": [
+        "Earthquake",
+        "Fire",
+        "War",
+        "Flood"
+      ],
       "correct": 0,
-      "category": "Wonders of the World",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Earthquake",
-        "verified": true,
-        "notes": "Destroyed by an earthquake in 226 BC after standing for 54 years."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "The Uffizi Gallery, one of Europe's most important art museums, is located in which city?",
-      "choices": ["Rome", "Milan", "Florence", "Venice"],
+      "choices": [
+        "Rome",
+        "Milan",
+        "Florence",
+        "Venice"
+      ],
       "correct": 2,
-      "category": "Wonders of the World",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Florence",
-        "verified": true,
-        "notes": "Housed in a 16th-century palazzo commissioned by Cosimo I de' Medici."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "The ancient Lighthouse of Alexandria, one of the Seven Wonders, was constructed during the reign of which Ptolemaic ruler?",
+      "choices": [
+        "Ptolemy I Soter",
+        "Ptolemy II Philadelphus",
+        "Ptolemy III Euergetes",
+        "Ptolemy IV Philopator"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swiss alpine peak was first successfully summited in 1865 by an expedition led by Edward Whymper?",
+      "choices": [
+        "Eiger",
+        "Matterhorn",
+        "Mont Rosa",
+        "Dom"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were allegedly constructed in which modern-day country?",
+      "choices": [
+        "Syria",
+        "Iraq",
+        "Iran",
+        "Turkey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Victoria Falls, straddling two African nations, is known locally by what indigenous name?",
+      "choices": [
+        "Mosi-oa-Tunya",
+        "Nile Gate",
+        "Thunder Cascade",
+        "Great Chasm"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Wall of China's most visited section near Beijing was extensively rebuilt during which Chinese dynasty?",
+      "choices": [
+        "Ming Dynasty",
+        "Han Dynasty",
+        "Qin Dynasty",
+        "Tang Dynasty"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Angkor Wat in Cambodia was originally constructed as a temple dedicated to which Hindu deity?",
+      "choices": [
+        "Shiva",
+        "Vishnu",
+        "Brahma",
+        "Ganesh"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colosseum in Rome was completed under which Roman emperor in 80 AD?",
+      "choices": [
+        "Vespasian",
+        "Titus",
+        "Domitian",
+        "Trajan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Machu Picchu was built at an elevation of approximately how many meters above sea level?",
+      "choices": [
+        "1,450 meters",
+        "2,430 meters",
+        "3,100 meters",
+        "900 meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus, one of the Seven Wonders, stood in what is now which country?",
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Egypt",
+        "Lebanon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Barrier Reef extends along the coast of which Australian state?",
+      "choices": [
+        "New South Wales",
+        "Queensland",
+        "Western Australia",
+        "Victoria"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Statue of Zeus at Olympia, designed by Phidias, was constructed in which ancient Greek sanctuary?",
+      "choices": [
+        "Delphi",
+        "Olympia",
+        "Parthenon",
+        "Epidaurus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Petronas Twin Towers in Kuala Lumpur were completed in which year?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Iguazu Falls is shared between Brazil and which other South American country?",
+      "choices": [
+        "Paraguay",
+        "Argentina",
+        "Uruguay",
+        "Colombia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Temple of the Sun at Teotihuacán is located in which modern-day country?",
+      "choices": [
+        "Guatemala",
+        "Mexico",
+        "Peru",
+        "Ecuador"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Stonehenge in England is believed to have been constructed primarily during which prehistoric period?",
+      "choices": [
+        "Mesolithic",
+        "Neolithic",
+        "Bronze Age",
+        "Iron Age"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Taj Mahal was commissioned by Mughal emperor Shah Jahan in memory of which spouse?",
+      "choices": [
+        "Nur Jahan",
+        "Mumtaz Mahal",
+        "Jahanara Begum",
+        "Roshanara Begum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Plitvice Lakes National Park, featuring cascading waterfalls and turquoise lakes, is located in which Balkan country?",
+      "choices": [
+        "Serbia",
+        "Bosnia and Herzegovina",
+        "Croatia",
+        "Slovenia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pharos Lighthouse of Alexandria was destroyed by earthquakes primarily during which century?",
+      "choices": [
+        "10th century",
+        "12th century",
+        "14th century",
+        "16th century"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Christ the Redeemer statue overlooks which Brazilian city from Corcovado Mountain?",
+      "choices": [
+        "São Paulo",
+        "Salvador",
+        "Rio de Janeiro",
+        "Brasília"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Grand Canyon was carved primarily by which river over millions of years?",
+      "choices": [
+        "Missouri River",
+        "Colorado River",
+        "Snake River",
+        "Rio Grande"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colossus of Rhodes was constructed using an iron framework covered in which metal?",
+      "choices": [
+        "Bronze",
+        "Copper",
+        "Gold",
+        "Silver"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many years did the construction of the Great Pyramid of Giza take to complete?",
+      "choices": [
+        "15 years",
+        "20 years",
+        "25 years",
+        "30 years"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were believed to have been built in which ancient kingdom?",
+      "choices": [
+        "Assyria",
+        "Egypt",
+        "Persia",
+        "Mesopotamia"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which lighthouse served as the model for the Lighthouse of Alexandria's architectural design?",
+      "choices": [
+        "Tower of Hercules",
+        "Pharos of Ptolemy",
+        "No confirmed predecessor",
+        "Tower of Babel"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus was built as a tomb for which satrap of the Persian Empire?",
+      "choices": [
+        "Mausolus",
+        "Artaxerxes",
+        "Darius",
+        "Xerxes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which modern country contains the archaeological site where the Temple of Zeus at Olympia once stood?",
+      "choices": [
+        "Italy",
+        "Greece",
+        "Turkey",
+        "Egypt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Statue of Zeus at Olympia was crafted primarily from which material by the sculptor Phidias?",
+      "choices": [
+        "Marble",
+        "Bronze",
+        "Ivory and gold",
+        "Terracotta"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which century was the Great Wall of China initially constructed during the Ming Dynasty?",
+      "choices": [
+        "12th century",
+        "14th century",
+        "16th century",
+        "18th century"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Statue of Liberty was a gift to the United States from which European nation?",
+      "choices": [
+        "Germany",
+        "Britain",
+        "France",
+        "Italy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Christ the Redeemer statue overlooks which Brazilian city from Corcovado mountain?",
+      "choices": [
+        "Salvador",
+        "Rio de Janeiro",
+        "Brasília",
+        "Recife"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Taj Mahal was constructed as a mausoleum by Emperor Shah Jahan for which member of his family?",
+      "choices": [
+        "His mother",
+        "His daughter",
+        "His wife",
+        "His son"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Machu Picchu was built by which Incan emperor in the 15th century?",
+      "choices": [
+        "Huayna Capac",
+        "Pachacuti",
+        "Atahualpa",
+        "Tupac Amaru"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which waterfall is approximately 979 meters tall, making it the world's highest uninterrupted drop?",
+      "choices": [
+        "Niagara Falls",
+        "Angel Falls",
+        "Victoria Falls",
+        "Yosemite Falls"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Grand Canyon was primarily carved by the erosive action of which river over millions of years?",
+      "choices": [
+        "Rio Grande",
+        "Colorado River",
+        "Snake River",
+        "Platte River"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mount Kilimanjaro, the highest peak in Africa, is located in which country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Paricutin volcano, which emerged suddenly in Mexico in 1943, is located in which state?",
+      "choices": [
+        "Jalisco",
+        "Colima",
+        "Michoacán",
+        "Nayarit"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Victoria Falls, located on the Zambezi River, straddles the border between Zimbabwe and which other country?",
+      "choices": [
+        "Botswana",
+        "Zambia",
+        "Namibia",
+        "Mozambique"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chichen Itza pyramid, also known as El Castillo, was built by which pre-Columbian civilization?",
+      "choices": [
+        "Aztec",
+        "Mayan",
+        "Olmec",
+        "Toltec"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Roman Colosseum could hold approximately how many spectators at full capacity?",
+      "choices": [
+        "35,000",
+        "50,000",
+        "75,000",
+        "100,000"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Pyramid of Giza was constructed during which Egyptian dynasty?",
+      "choices": [
+        "Fourth Dynasty",
+        "Third Dynasty",
+        "Fifth Dynasty",
+        "Sixth Dynasty"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What material comprises the majority of the exterior facing stones of the Great Pyramid before weathering and removal?",
+      "choices": [
+        "Granite",
+        "Sandstone",
+        "Polished limestone",
+        "Basalt"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Angel Falls, the world's highest uninterrupted waterfall, plunges approximately how many meters?",
+      "choices": [
+        "807 meters",
+        "1,054 meters",
+        "623 meters",
+        "912 meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which South American country is Angel Falls located?",
+      "choices": [
+        "Colombia",
+        "Peru",
+        "Venezuela",
+        "Ecuador"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colosseum in Rome was constructed during the reign of which emperor?",
+      "choices": [
+        "Nero",
+        "Vespasian",
+        "Titus",
+        "Domitian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many blocks of stone were used to construct the Great Pyramid?",
+      "choices": [
+        "1.2 million",
+        "2.3 million",
+        "850,000",
+        "3.5 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were said to be located in which modern-day country?",
+      "choices": [
+        "Syria",
+        "Iraq",
+        "Lebanon",
+        "Jordan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Christ the Redeemer statue in Rio de Janeiro was completed in which year?",
+      "choices": [
+        "1922",
+        "1931",
+        "1945",
+        "1955"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Panama Canal connects the Atlantic and Pacific Oceans and measures approximately how many kilometers in length?",
+      "choices": [
+        "82 kilometers",
+        "50 kilometers",
+        "120 kilometers",
+        "35 kilometers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Wall of China was primarily constructed during which Chinese dynasty for defense purposes?",
+      "choices": [
+        "Han Dynasty",
+        "Ming Dynasty",
+        "Qin Dynasty",
+        "Tang Dynasty"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which architectural wonder features a massive dome and was originally a Roman temple dedicated to all gods?",
+      "choices": [
+        "Colosseum",
+        "Pantheon",
+        "Roman Forum",
+        "Basilica of Constantine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Atacama Desert in South America receives annual rainfall of approximately how many millimeters in its driest regions?",
+      "choices": [
+        "50-100mm",
+        "Less than 1mm",
+        "200-300mm",
+        "10-50mm"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Barrier Reef is situated off the coast of which Australian state?",
+      "choices": [
+        "New South Wales",
+        "Queensland",
+        "Western Australia",
+        "South Australia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Machu Picchu was built by which pre-Columbian civilization?",
+      "choices": [
+        "Aztec",
+        "Maya",
+        "Inca",
+        "Toltec"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Petra in Jordan was carved from which type of stone?",
+      "choices": [
+        "Limestone",
+        "Sandstone",
+        "Granite",
+        "Marble"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sagrada Familia basilica in Barcelona was designed by which architect?",
+      "choices": [
+        "Josep Puig i Cadafalch",
+        "Antoni Gaudí",
+        "Lluís Domènech i Montaner",
+        "Enric Sagnier"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mount Everest, the world's tallest peak, straddles the border between Nepal and which other country?",
+      "choices": [
+        "Bhutan",
+        "Tibet",
+        "India",
+        "Pakistan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus was built as a tomb for which Persian satrap?",
+      "choices": [
+        "Artaxerxes II",
+        "Mausolus",
+        "Darius III",
+        "Xerxes I"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which modern architectural structure was designed by Gustave Eiffel and completed in 1889?",
+      "choices": [
+        "Sacré-Cœur Basilica",
+        "Eiffel Tower",
+        "Arc de Triomphe",
+        "Notre-Dame Cathedral"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate number of individually stacked stone blocks that comprise the Great Pyramid of Giza?",
+      "choices": [
+        "1.2 million",
+        "2.3 million",
+        "3.8 million",
+        "5.1 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colossus of Rhodes, one of the Seven Wonders of the Ancient World, stood in which Greek island?",
+      "choices": [
+        "Crete",
+        "Rhodes",
+        "Santorini",
+        "Cyprus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many years did the Colossus of Rhodes remain standing before being destroyed by an earthquake?",
+      "choices": [
+        "34 years",
+        "56 years",
+        "82 years",
+        "120 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were allegedly constructed by which Mesopotamian king?",
+      "choices": [
+        "Nebuchadnezzar II",
+        "Hammurabi",
+        "Sargon II",
+        "Ashurbanipal"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pharos Lighthouse of Alexandria was constructed during the reign of which Ptolemaic ruler?",
+      "choices": [
+        "Ptolemy I Soter",
+        "Ptolemy II Philadelphus",
+        "Ptolemy III Euergetes",
+        "Ptolemy IV Philopator"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus, a monumental tomb, was built to honor which Persian satrap?",
+      "choices": [
+        "Mausolus",
+        "Artaxerxes",
+        "Darius",
+        "Xerxes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Temple of Zeus at Olympia housed a chryselephantine statue created by which renowned Greek sculptor?",
+      "choices": [
+        "Phidias",
+        "Polykleitos",
+        "Myron",
+        "Lysippos"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Great Wall of China first unified into a single continuous structure?",
+      "choices": [
+        "1368 CE",
+        "1644 CE",
+        "1912 CE",
+        "1949 CE"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Statue of Christ the Redeemer in Rio de Janeiro was completed in which decade?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many massive stone moai statues are estimated to exist on Easter Island?",
+      "choices": [
+        "587",
+        "892",
+        "1,087",
+        "1,456"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Petra archaeological site in Jordan was carved into which type of geological formation?",
+      "choices": [
+        "Sandstone cliffs",
+        "Limestone caves",
+        "Granite mountains",
+        "Basalt valleys"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Machu Picchu was constructed during the reign of which Inca emperor?",
+      "choices": [
+        "Pachacuti",
+        "Huayna Capac",
+        "Atahualpa",
+        "Manco Capac"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Taj Mahal was commissioned by Mughal emperor Shah Jahan as a mausoleum for which person?",
+      "choices": [
+        "His daughter Jahanara",
+        "His first wife Mumtaz Mahal",
+        "His mother Nur Jahan",
+        "His son Dara Shikoh"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Sphinx of Giza is carved from a single limestone ridge and measures approximately how many meters in length?",
+      "choices": [
+        "57 meters",
+        "73 meters",
+        "89 meters",
+        "102 meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chichen Itza pyramid, also known as El Castillo, was constructed by which Mesoamerican civilization?",
+      "choices": [
+        "Olmec",
+        "Maya",
+        "Toltec",
+        "Aztec"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Panama Canal officially completed and opened to traffic?",
+      "choices": [
+        "1910",
+        "1913",
+        "1914",
+        "1920"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Eiffel Tower was constructed for which international exposition?",
+      "choices": [
+        "1878 Paris Exposition",
+        "1889 Paris Exposition",
+        "1900 Paris Exposition",
+        "1925 Paris Exposition"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colosseum in Rome was commissioned under which Roman emperor?",
+      "choices": [
+        "Augustus",
+        "Nero",
+        "Vespasian",
+        "Trajan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Angkor Wat temple complex in Cambodia was originally constructed as a dedication to which Hindu deity?",
+      "choices": [
+        "Brahma",
+        "Vishnu",
+        "Shiva",
+        "Durga"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Wall of China was constructed over multiple dynasties spanning approximately how many centuries?",
+      "choices": [
+        "8 centuries",
+        "12 centuries",
+        "15 centuries",
+        "20 centuries"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colossus of Rhodes, one of the Seven Wonders, stood in which Greek island?",
+      "choices": [
+        "Crete",
+        "Rhodes",
+        "Santorini",
+        "Delos"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Statue of Christ the Redeemer in Rio de Janeiro completed?",
+      "choices": [
+        "1922",
+        "1931",
+        "1945",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were supposedly built during the reign of which Mesopotamian king?",
+      "choices": [
+        "Hammurabi",
+        "Nebuchadnezzar II",
+        "Sennacherib",
+        "Ashurbanipal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian architect is credited with the design of the Leaning Tower of Pisa?",
+      "choices": [
+        "Bonanno Pisano",
+        "Gherardo di Gherardo",
+        "Diotisalvi",
+        "Unknown architect"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Taj Mahal was constructed as a mausoleum for which member of the Mughal emperor's family?",
+      "choices": [
+        "The emperor's mother",
+        "The emperor's favorite wife",
+        "The emperor's daughter",
+        "The emperor's eldest son"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many stones are estimated to comprise Stonehenge in its complete form?",
+      "choices": [
+        "Approximately 80 stones",
+        "Approximately 150 stones",
+        "Approximately 250 stones",
+        "Approximately 400 stones"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Pyramid of Giza was the tallest man-made structure in the world for approximately how many years?",
+      "choices": [
+        "1,000 years",
+        "2,000 years",
+        "3,500 years",
+        "4,500 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Angkor Wat in Cambodia was originally dedicated to which Hindu deity?",
+      "choices": [
+        "Shiva",
+        "Vishnu",
+        "Brahma",
+        "Ganesha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The moai statues of Easter Island were carved from which volcanic rock?",
+      "choices": [
+        "Basalt",
+        "Tuff",
+        "Obsidian",
+        "Pumice"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Victoria Falls, located on the border of Zambia and Zimbabwe, has a maximum drop of approximately how many meters?",
+      "choices": [
+        "75 meters",
+        "108 meters",
+        "150 meters",
+        "188 meters"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Lighthouse of Alexandria, also known as the Pharos, was constructed during the reign of which Ptolemaic ruler?",
+      "choices": [
+        "Ptolemy I Soter",
+        "Ptolemy II Philadelphus",
+        "Ptolemy III Euergetes",
+        "Ptolemy IV Philopator"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sagrada Familia basilica in Barcelona has been under continuous construction since which year?",
+      "choices": [
+        "1882",
+        "1891",
+        "1903",
+        "1914"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mount Everest was first successfully summited in which year?",
+      "choices": [
+        "1949",
+        "1953",
+        "1956",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus, one of the Seven Wonders, was constructed as a tomb for which Persian satrap?",
+      "choices": [
+        "Cyrus the Great",
+        "Mausolus",
+        "Darius I",
+        "Artaxerxes II"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Colosseum in Rome was originally called by what name during its construction and early use?",
+      "choices": [
+        "The Flavian Amphitheatre",
+        "The Circus Maximus",
+        "The Arena of Nero",
+        "The Imperial Theatre"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mount Kilimanjaro's highest peak, Uhuru Peak, stands at approximately how many meters above sea level?",
+      "choices": [
+        "5,285 meters",
+        "5,895 meters",
+        "6,194 meters",
+        "4,844 meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Angel Falls, the world's tallest uninterrupted waterfall, is located in which country?",
+      "choices": [
+        "Colombia",
+        "Venezuela",
+        "Brazil",
+        "Peru"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was the Eiffel Tower officially completed?",
+      "choices": [
+        "1867",
+        "1889",
+        "1900",
+        "1914"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Kremlin is the fortified historic complex at the heart of which city?",
+      "choices": [
+        "Saint Petersburg",
+        "Moscow",
+        "Kyiv",
+        "Minsk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Michelangelo's Sistine Chapel ceiling is located in which sovereign state?",
+      "choices": [
+        "Italy",
+        "Vatican City",
+        "San Marino",
+        "Monaco"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Forbidden City, a vast imperial palace complex, is located in which city?",
+      "choices": [
+        "Shanghai",
+        "Beijing",
+        "Xi'an",
+        "Hong Kong"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Acropolis, featuring the Parthenon temple, overlooks which capital city?",
+      "choices": [
+        "Rome",
+        "Istanbul",
+        "Athens",
+        "Cairo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest desert on Earth, when measured by land area?",
+      "choices": [
+        "Sahara",
+        "Arabian",
+        "Gobi",
+        "Antarctica"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Pyramid of Giza is primarily built from which stone?",
+      "choices": [
+        "Granite",
+        "Sandstone",
+        "Limestone",
+        "Marble"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Brandenburg Gate is located in which capital?",
+      "choices": [
+        "Vienna",
+        "Berlin",
+        "Warsaw",
+        "Prague"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Alhambra, a spectacular Moorish palace and fortress, is located in which country?",
+      "choices": [
+        "Morocco",
+        "Portugal",
+        "Spain",
+        "Tunisia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is the ancient city of Petra, carved directly into rose-colored rock?",
+      "choices": [
+        "Jordan",
+        "Egypt",
+        "Saudi Arabia",
+        "Israel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many sides does the base of the Great Pyramid of Giza have?",
+      "choices": [
+        "3",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were said to be located in present-day which country?",
+      "choices": [
+        "Syria",
+        "Iraq",
+        "Iran",
+        "Turkey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Machu Picchu, the ancient Incan citadel, is situated on a mountain in which country?",
+      "choices": [
+        "Ecuador",
+        "Bolivia",
+        "Peru",
+        "Colombia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colosseum in Rome was built primarily as a venue for what type of entertainment?",
+      "choices": [
+        "Chariot races",
+        "Gladiator combat and animal hunts",
+        "Political speeches",
+        "Athletic competitions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was the Statue of Liberty dedicated in New York Harbor?",
+      "choices": [
+        "1876",
+        "1884",
+        "1886",
+        "1890"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus was built as a tomb for a ruler of which ancient region?",
+      "choices": [
+        "Persia",
+        "Egypt",
+        "Caria",
+        "Lydia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Temple of Zeus at Olympia housed a colossal statue made primarily of what material?",
+      "choices": [
+        "Bronze",
+        "Marble",
+        "Ivory and gold",
+        "Stone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Lighthouse of Alexandria, also known as the Pharos, stood at the entrance to which ancient harbor?",
+      "choices": [
+        "Port Said",
+        "Alexandria",
+        "Memphis",
+        "Giza"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Big Ben is technically the name of what within the Palace of Westminster?",
+      "choices": [
+        "The entire clock tower",
+        "The clock mechanism",
+        "The Great Bell",
+        "The outer structure"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century was the Great Wall of China primarily built in the form we see today?",
+      "choices": [
+        "13th century",
+        "14th century",
+        "15th century",
+        "16th century"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Alhambra palace complex is located in which Spanish city?",
+      "choices": [
+        "Córdoba",
+        "Granada",
+        "Seville",
+        "Toledo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Barrier Reef spans approximately how many kilometers along Australia's coast?",
+      "choices": [
+        "1,300 km",
+        "2,300 km",
+        "3,300 km",
+        "4,300 km"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Kilimanjaro, the tallest mountain in Africa, is located in which country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sagrada Família basilica in Barcelona was designed by which Catalan architect?",
+      "choices": [
+        "Josep Puig i Cadafalch",
+        "Antoni Gaudí",
+        "Lluis Domènech i Montaner",
+        "Enric Miralles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Victoria Falls, one of the largest waterfalls in the world, forms a border between which two African nations?",
+      "choices": [
+        "Zambia and Democratic Republic of Congo",
+        "Zambia and Zimbabwe",
+        "Zimbabwe and Mozambique",
+        "Botswana and Namibia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Parthenon, an ancient Greek temple, was dedicated to which goddess?",
+      "choices": [
+        "Hera",
+        "Athena",
+        "Artemis",
+        "Aphrodite"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Statue of Christ the Redeemer was completed in which year?",
+      "choices": [
+        "1922",
+        "1931",
+        "1935",
+        "1940"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Wall of China was primarily built to defend against invasions from which region?",
+      "choices": [
+        "Mongolia",
+        "Korea",
+        "Vietnam",
+        "Tibet"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which modern-day country were the Hanging Gardens of Babylon supposedly located?",
+      "choices": [
+        "Syria",
+        "Iraq",
+        "Iran",
+        "Turkey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus was built as a tomb for a ruler in which ancient region?",
+      "choices": [
+        "Persia",
+        "Caria",
+        "Lydia",
+        "Pontus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Kilimanjaro, the world's highest free-standing mountain, is located in which African country?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Tanzania",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colossus of Rhodes was a giant statue erected on which Greek island?",
+      "choices": [
+        "Crete",
+        "Rhodes",
+        "Cyprus",
+        "Delos"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Victoria Falls, one of the world's largest waterfalls, lies on the border between Zambia and which other African nation?",
+      "choices": [
+        "Botswana",
+        "Zimbabwe",
+        "Namibia",
+        "Angola"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Christ the Redeemer statue overlooks which major South American city?",
+      "choices": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Salvador",
+        "Brasília"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which European country is the Sagrada Familia basilica located?",
+      "choices": [
+        "Italy",
+        "Portugal",
+        "Spain",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Terracotta Army was discovered in which Chinese province?",
+      "choices": [
+        "Hubei",
+        "Shaanxi",
+        "Shandong",
+        "Henan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Angkor Wat, the largest religious monument in the world by area, is in which Southeast Asian country?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Cambodia",
+        "Laos"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pharos of Alexandria, also known as the Lighthouse of Alexandria, was built during the reign of which Ptolemaic ruler?",
+      "choices": [
+        "Ptolemy I",
+        "Ptolemy II",
+        "Ptolemy III",
+        "Cleopatra VII"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Petra archaeological site, carved from rose-red rock, is located in which Middle Eastern country?",
+      "choices": [
+        "Lebanon",
+        "Syria",
+        "Jordan",
+        "Saudi Arabia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is Machu Picchu, the famous Incan citadel, situated?",
+      "choices": [
+        "Bolivia",
+        "Ecuador",
+        "Peru",
+        "Chile"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Tower of Pisa is located in which Italian region?",
+      "choices": [
+        "Tuscany",
+        "Lombardy",
+        "Veneto",
+        "Campania"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pantheon, originally built to honor multiple gods, is located in which European capital?",
+      "choices": [
+        "Athens",
+        "Rome",
+        "Istanbul",
+        "Paris"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Trans-Siberian Railway, one of the world's longest railway lines, connects Moscow to which Russian city?",
+      "choices": [
+        "Vladivostok",
+        "Novosibirsk",
+        "Yekaterinburg",
+        "Irkutsk"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Statue of Liberty was a gift from which European country to the United States?",
+      "choices": [
+        "Britain",
+        "Italy",
+        "France",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Temple of Artemis at Ephesus was located in which modern-day country?",
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Syria",
+        "Egypt"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Statue of Christ the Redeemer overlooks which Brazilian city?",
+      "choices": [
+        "Salvador",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasília"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is the ancient city of Petra carved into rose-colored rock?",
+      "choices": [
+        "Egypt",
+        "Syria",
+        "Jordan",
+        "Lebanon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Taj Mahal was built as a mausoleum by which Mughal emperor?",
+      "choices": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which natural wonder is a massive coral reef system located off the coast of Australia?",
+      "choices": [
+        "The Great Wall",
+        "The Great Barrier Reef",
+        "The Atacama Desert",
+        "The Amazon Rainforest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Machu Picchu was built by which ancient South American civilization?",
+      "choices": [
+        "The Aztecs",
+        "The Incas",
+        "The Mayans",
+        "The Olmecs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon are said to have been located in present-day which country?",
+      "choices": [
+        "Syria",
+        "Iran",
+        "Iraq",
+        "Turkey"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Victoria Falls, one of the world's largest waterfalls, forms a natural border between which two African nations?",
+      "choices": [
+        "Kenya and Tanzania",
+        "Zambia and Zimbabwe",
+        "Botswana and Namibia",
+        "South Africa and Lesotho"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colosseum in Rome was primarily used for what type of public entertainment?",
+      "choices": [
+        "Gladiatorial combat and animal shows",
+        "Religious ceremonies",
+        "Political assemblies",
+        "Theatrical performances only"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Wall of China was constructed primarily to defend against invasions from which region?",
+      "choices": [
+        "Eastern Europe",
+        "The south",
+        "The north and northwest",
+        "Southeast Asia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Kilimanjaro, the world's tallest free-standing mountain, is located in which African country?",
+      "choices": [
+        "Kenya",
+        "Ethiopia",
+        "Tanzania",
+        "Uganda"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The ancient Lighthouse of Alexandria, or Pharos, was built during the reign of which Ptolemaic ruler?",
+      "choices": [
+        "Ptolemy I",
+        "Ptolemy II",
+        "Ptolemy III",
+        "Cleopatra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Angkor Wat, the largest religious monument in the world, was built as a temple for which religion?",
+      "choices": [
+        "Buddhism",
+        "Hinduism",
+        "Islam",
+        "Animism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Mausoleum at Halicarnassus was a monumental tomb built for which Persian satrap?",
+      "choices": [
+        "Cyrus II",
+        "Mausolus",
+        "Darius I",
+        "Xerxes I"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Christ the Redeemer statue in Rio de Janeiro was completed in which decade?",
+      "choices": [
+        "1900s",
+        "1920s",
+        "1930s",
+        "1950s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Parthenon, dedicated to the goddess Athena, crowns which Greek hill or plateau?",
+      "choices": [
+        "Mount Olympus",
+        "The Acropolis",
+        "Mount Parnassus",
+        "Mount Hymettus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which natural wonder is the world's largest hot spring and is located in New Zealand?",
+      "choices": [
+        "Rotorua Geyser",
+        "Champagne Pool",
+        "Crater Lake",
+        "Spouting Geyser"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Panama Canal connects the Atlantic and Pacific Oceans by linking which two bodies of water directly?",
+      "choices": [
+        "The Caribbean Sea and the Gulf of Panama",
+        "The Colón Bay and the Pacific Ocean",
+        "Both are part of the same connecting system",
+        "The Gulf of Mexico and the Pacific"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Uluru, a massive sandstone monolith sacred to Indigenous Australians, is located in which Australian region?",
+      "choices": [
+        "Western Australia",
+        "Northern Territory",
+        "South Australia",
+        "Queensland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Temple of the Sun at Machu Picchu features stone construction with which distinctive characteristic?",
+      "choices": [
+        "Carved pillars with hieroglyphics",
+        "Stones fitted without mortar",
+        "Decorative marble inlays",
+        "Bronze reinforcement beams"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Statue of Christ the Redeemer overlooks which South American city?",
+      "choices": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Salvador",
+        "Brasília"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is the ancient city of Petra, known for its rose-colored rock formations?",
+      "choices": [
+        "Syria",
+        "Lebanon",
+        "Jordan",
+        "Saudi Arabia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Wall of China was primarily built to defend against invasions from which direction?",
+      "choices": [
+        "South",
+        "East",
+        "North",
+        "West"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Taj Mahal was constructed as a mausoleum for the wife of which Mughal emperor?",
+      "choices": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Jahangir"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Machu Picchu is an ancient citadel located in the mountains of which country?",
+      "choices": [
+        "Ecuador",
+        "Bolivia",
+        "Peru",
+        "Colombia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colosseum in Rome was originally called by what name?",
+      "choices": [
+        "The Flavian Amphitheatre",
+        "The Arena Maxima",
+        "The Imperial Stadium",
+        "The Caesarean Theatre"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European capital is famous for its extensive network of canals and is built on multiple islands?",
+      "choices": [
+        "Amsterdam",
+        "Copenhagen",
+        "Venice",
+        "Stockholm"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were said to be built in ancient Mesopotamia by which king?",
+      "choices": [
+        "Hammurabi",
+        "Nebuchadnezzar II",
+        "Sargon of Akkad",
+        "Gilgamesh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Parthenon, dedicated to the goddess Athena, crowns which Greek hill?",
+      "choices": [
+        "Mount Parnassus",
+        "The Acropolis",
+        "Mount Hymettus",
+        "Mount Cithaeron"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Aurora Borealis is most frequently visible in which geographical region?",
+      "choices": [
+        "Equatorial regions",
+        "High southern latitudes",
+        "High northern latitudes",
+        "Tropical zones"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Lighthouse of Alexandria (Pharos) guided ships at the entrance to which ancient harbor?",
+      "choices": [
+        "Port Said",
+        "Alexandria",
+        "Giza",
+        "Memphis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Victoria Falls, one of the world's largest waterfalls, forms a border between which two African nations?",
+      "choices": [
+        "Kenya and Uganda",
+        "Zimbabwe and Zambia",
+        "Botswana and Namibia",
+        "South Africa and Lesotho"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sagrada Familia basilica in Barcelona was designed by which renowned architect?",
+      "choices": [
+        "Josep Puig i Cadafalch",
+        "Antoni Gaudí",
+        "Lluís Domènech i Montaner",
+        "Enrique de la Mora"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Mausoleum of Halicarnassus was erected as a tomb for which satrap of the Persian Empire?",
+      "choices": [
+        "Mausolus",
+        "Artaxerxes",
+        "Xerxes",
+        "Darius"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Forbidden City served as the imperial palace for how many dynasties of Chinese emperors?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Valley of the Kings in Egypt contains tombs primarily from which period of Egyptian history?",
+      "choices": [
+        "Old Kingdom",
+        "Middle Kingdom",
+        "New Kingdom",
+        "Ptolemaic Period"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Angkor Wat in Cambodia was originally built as a temple dedicated to which Hindu deity?",
+      "choices": [
+        "Shiva",
+        "Brahma",
+        "Vishnu",
+        "Durga"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Inca Trail trekking route culminates at which famous archaeological site?",
+      "choices": [
+        "Ollantaytambo",
+        "Machu Picchu",
+        "Sacsayhuamán",
+        "Cusco"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Moai statues on Easter Island are thought to have been carved from which volcanic rock?",
+      "choices": [
+        "Basalt",
+        "Obsidian",
+        "Tuff",
+        "Granite"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Khazneh (Treasury) is the most iconic structure within the ancient city carved into cliffs in Jordan—specifically, which city?",
+      "choices": [
+        "Jerash",
+        "Petra",
+        "Amman",
+        "Madaba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Taj Mahal was built as a mausoleum in which Indian city?",
+      "choices": [
+        "Delhi",
+        "Agra",
+        "Jaipur",
+        "Lucknow"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient wonder of the world was located on the Greek island of Rhodes?",
+      "choices": [
+        "Lighthouse of Alexandria",
+        "Colossus of Rhodes",
+        "Temple of Artemis",
+        "Mausoleum at Halicarnassus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Wall of China was primarily built during which dynasty?",
+      "choices": [
+        "Han Dynasty",
+        "Qin Dynasty",
+        "Ming Dynasty",
+        "Zhou Dynasty"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Hanging Gardens of Babylon were reportedly built in which ancient city?",
+      "choices": [
+        "Baghdad",
+        "Babylon",
+        "Nineveh",
+        "Ur"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Christ the Redeemer statue overlooks which South American city?",
+      "choices": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Salvador",
+        "Brasília"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Leaning Tower of Pisa is located in which region of Italy?",
+      "choices": [
+        "Tuscany",
+        "Lombardy",
+        "Sicily",
+        "Veneto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Petra, an ancient carved city, is located in which Middle Eastern country?",
+      "choices": [
+        "Syria",
+        "Lebanon",
+        "Jordan",
+        "Saudi Arabia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Lighthouse of Alexandria was built to guide ships into which ancient harbor?",
+      "choices": [
+        "Port Said",
+        "Alexandria",
+        "Cairo",
+        "Suez"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Angkor Wat, the largest religious monument in the world, is located in which Southeast Asian country?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Cambodia",
+        "Laos"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Panama Canal connects the Atlantic and Pacific oceans by cutting through which country?",
+      "choices": [
+        "Costa Rica",
+        "Nicaragua",
+        "Panama",
+        "Colombia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

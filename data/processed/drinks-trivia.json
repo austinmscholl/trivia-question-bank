@@ -1,273 +1,2438 @@
 {
   "slug": "drinks-trivia",
   "name": "Drinks",
-  "description": "Beverages, cocktails, beer, wine, spirits, and soft drinks",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.502Z",
   "questions": [
     {
-      "q": "Absolut is a well-known brand of which spirit?",
-      "choices": ["Gin", "Rum", "Vodka", "Tequila"],
-      "correct": 2,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Vodka",
-        "verified": true,
-        "notes": "Made in Åhus, Sweden, since 1879."
-      }
-    },
-    {
-      "q": "Sake is a traditional fermented rice beverage originating in which country?",
-      "choices": ["China", "Korea", "Japan", "Vietnam"],
-      "correct": 2,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Japan",
-        "verified": true,
-        "notes": "Sake is officially called 'nihonshu' in Japanese."
-      }
-    },
-    {
-      "q": "Starbucks is primarily known for selling what beverage?",
-      "choices": ["Tea", "Coffee", "Bubble tea", "Juices"],
-      "correct": 1,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Starbucks",
-        "verified": true,
-        "notes": "Founded 1971 in Seattle, Washington."
-      }
-    },
-    {
-      "q": "Scotch is a type of what alcoholic spirit?",
-      "choices": ["Vodka", "Gin", "Whisky", "Rum"],
-      "correct": 2,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Whiskey",
-        "verified": true,
-        "notes": "Scotch whisky must be distilled and aged in Scotland for at least three years."
-      }
-    },
-    {
-      "q": "Schweppes is famous for producing which kind of bubbly mixer?",
-      "choices": ["Cola", "Lemonade", "Tonic water", "Ginger ale"],
-      "correct": 2,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Carbonated water.",
-        "verified": true,
-        "notes": "Founded 1783 by Johann Schweppe in Geneva, Switzerland."
-      }
-    },
-    {
-      "q": "Tequila is distilled from which Mexican plant?",
-      "choices": ["Cactus", "Maguey/agave", "Sugarcane", "Corn"],
-      "correct": 1,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Drinks",
-        "verified": true,
-        "notes": "Specifically the blue Weber agave."
-      }
-    },
-    {
-      "q": "Guinness, the famous stout beer, originated in which country?",
-      "choices": ["Scotland", "England", "Wales", "Ireland"],
-      "correct": 3,
-      "category": "Drinks",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Drinks",
-        "verified": true,
-        "notes": "Brewed at St. James's Gate in Dublin since 1759."
-      }
-    },
-    {
-      "q": "Which 19th-century pharmacist invented Coca-Cola in 1886?",
-      "choices": ["John Pemberton", "Asa Candler", "Frank Robinson", "Caleb Bradham"],
+      "q": "In what year did Coca-Cola first begin its journey as a beverage?",
+      "choices": [
+        "1886",
+        "1892",
+        "1901",
+        "1910"
+      ],
       "correct": 0,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "John Pemberton",
-        "verified": true,
-        "notes": "Atlanta pharmacist; sold the formula to Asa Candler in 1888."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The beer Stella Artois is brewed primarily in which country?",
-      "choices": ["Germany", "Belgium", "Netherlands", "France"],
+      "q": "Horlicks is best described as what type of drink?",
+      "choices": [
+        "Fruit juice",
+        "Malted milk",
+        "Herbal tea",
+        "Sports drink"
+      ],
       "correct": 1,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Belgium",
-        "verified": true,
-        "notes": "Brewed in Leuven since 1926."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The lager brand Foster's is marketed globally as being from which country?",
-      "choices": ["New Zealand", "United Kingdom", "Australia", "South Africa"],
+      "q": "Scotch whisky is primarily produced in which country?",
+      "choices": [
+        "Ireland",
+        "United States",
+        "Scotland",
+        "Canada"
+      ],
       "correct": 2,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Australia",
-        "verified": true,
-        "notes": "Founded in Melbourne in 1887; now owned by Asahi."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the iconic bright-orange soft drink nicknamed 'Scotland's other national drink'?",
-      "choices": ["Lilt", "Tango", "Vimto", "Irn-Bru"],
-      "correct": 3,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Irn Bru",
-        "verified": true,
-        "notes": "Produced by A.G. Barr since 1901."
-      }
+      "q": "In what year did the soft drink Lilt introduce its tropical flavor to the market?",
+      "choices": [
+        "1970",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Yorkshire Tea is produced in which English spa town?",
-      "choices": ["Leeds", "York", "Harrogate", "Scarborough"],
+      "q": "Volvic natural spring water originates from which European country?",
+      "choices": [
+        "Germany",
+        "Switzerland",
+        "France",
+        "Italy"
+      ],
       "correct": 2,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Harrogate",
-        "verified": true,
-        "notes": "Produced by Taylors of Harrogate since 1977."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Oolong is a type of what beverage originating from China?",
-      "choices": ["Coffee", "Tea", "Beer", "Wine"],
+      "q": "What type of spirit provides the alcoholic base for WKD beverages?",
+      "choices": [
+        "Rum",
+        "Vodka",
+        "Gin",
+        "Tequila"
+      ],
       "correct": 1,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Oolong",
-        "verified": true,
-        "notes": "Semi-oxidized tea — between green and black on the oxidation scale."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Dr Pepper was invented in Waco, Texas, in which decade?",
-      "choices": ["The 1870s", "The 1880s", "The 1890s", "The 1900s"],
+      "q": "Which town in Yorkshire is traditionally recognized as the birthplace of Yorkshire Tea?",
+      "choices": [
+        "Leeds",
+        "Harrogate",
+        "Sheffield",
+        "York"
+      ],
       "correct": 1,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1885",
-        "verified": true,
-        "notes": "Created by pharmacist Charles Alderton in 1885."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "WKD, a popular UK alcopop, uses which spirit as its base?",
-      "choices": ["Rum", "Vodka", "Gin", "Whisky"],
-      "correct": 1,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Vodka",
-        "verified": true,
-        "notes": "Originally from Beverage Brands UK; launched 1996."
-      }
-    },
-    {
-      "q": "The fruit juice brand Tropicana is owned by which food-and-beverage giant?",
-      "choices": ["Coca-Cola", "Unilever", "PepsiCo", "Nestlé"],
+      "q": "Carlsberg beer originates from which Scandinavian country?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
       "correct": 2,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Pepsi",
-        "verified": true,
-        "notes": "Acquired by PepsiCo in 1998; partial sale to PAI Partners in 2022."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Volvic natural mineral water comes from which European country?",
-      "choices": ["France", "Italy", "Switzerland", "Germany"],
+      "q": "What company owns and produces the Robinson's soft drink brand?",
+      "choices": [
+        "Coca-Cola",
+        "Britvic",
+        "PepsiCo",
+        "Monster Beverage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Irn-Bru is a iconic soft drink from which country?",
+      "choices": [
+        "Wales",
+        "England",
+        "Scotland",
+        "Northern Ireland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of beer is Budweiser classified as?",
+      "choices": [
+        "Stout",
+        "Pale lager",
+        "IPA",
+        "Porter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Nescafé instant coffee first produced in Switzerland?",
+      "choices": [
+        "1935",
+        "1938",
+        "1941",
+        "1945"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary flavor associated with Fanta's most popular variety?",
+      "choices": [
+        "Grape",
+        "Orange",
+        "Lemon",
+        "Strawberry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Absinthe is traditionally flavored with which ingredient?",
+      "choices": [
+        "Licorice",
+        "Anise",
+        "Mint",
+        "Cinnamon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which color is most prominently featured on the Carlsberg logo?",
+      "choices": [
+        "Red",
+        "White",
+        "Green",
+        "Gold"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Oolong tea originates as a traditional beverage from which region?",
+      "choices": [
+        "India",
+        "Japan",
+        "China",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How much caffeine is typically found in a standard can of Red Bull?",
+      "choices": [
+        "60mg",
+        "80mg",
+        "100mg",
+        "120mg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What dominant color is associated with the Tizer soft drink brand?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Yellow",
+        "Pink"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dr Pepper is classified as what type of soft drink?",
+      "choices": [
+        "Citrus soda",
+        "Spiced cola",
+        "Fruit punch",
+        "Root beer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Pepsi Perfect was a limited-edition drink inspired by what fictional franchise?",
+      "choices": [
+        "Star Wars",
+        "Back to the Future",
+        "The Terminator",
+        "Blade Runner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which fruit is the primary flavoring ingredient in Cherryade soft drink?",
+      "choices": [
+        "Strawberry",
+        "Cherry",
+        "Raspberry",
+        "Blackcurrant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is the Tizer soft drink brand most famously associated with?",
+      "choices": [
+        "Blue",
+        "Orange",
+        "Red",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Dr Pepper soft drink first created?",
+      "choices": [
+        "1875",
+        "1885",
+        "1895",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which year marks the launch of Lucozade as an energy drink?",
+      "choices": [
+        "1917",
+        "1927",
+        "1937",
+        "1947"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Rockstar energy drink first enter the beverage market?",
+      "choices": [
+        "1999",
+        "2000",
+        "2001",
+        "2002"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'Kia-Ora' translate to in the Maori language?",
+      "choices": [
+        "Good Morning",
+        "Be Healthy",
+        "Fresh Juice",
+        "Sunny Days"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of plant-based milk is most commonly favored by vegans as a dairy alternative?",
+      "choices": [
+        "Almond Milk",
+        "Oat Milk",
+        "Soy Milk",
+        "Coconut Milk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country did Coca-Cola first originate in the late 19th century?",
+      "choices": [
+        "Canada",
+        "United Kingdom",
+        "United States",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is credited with inventing the original Coca-Cola formula?",
+      "choices": [
+        "Asa Griggs Candler",
+        "John Pemberton",
+        "James Quaker",
+        "Frank Robinson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which color dominates the Carlsberg beer brand's iconic logo?",
+      "choices": [
+        "Gold",
+        "Green",
+        "Red",
+        "Silver"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Scandinavian country was Carlsberg beer originally established?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of beverage is Scrumpy Jack?",
+      "choices": [
+        "Cider",
+        "Mead",
+        "Perry",
+        "Ale"
+      ],
       "correct": 0,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "France",
-        "verified": true,
-        "notes": "Bottled from volcanic springs in the Auvergne region."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "By EU law, a sparkling wine can only be called 'Champagne' if produced in which French region?",
-      "choices": ["Burgundy", "Bordeaux", "Provence", "Champagne"],
+      "q": "In what year was Bailey's Irish Cream first introduced to the market?",
+      "choices": [
+        "1970",
+        "1972",
+        "1974",
+        "1976"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is the primary origin of Cognac brandy?",
+      "choices": [
+        "Spain",
+        "Italy",
+        "France",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which traditional Chinese tea is characterized by being semi-oxidized?",
+      "choices": [
+        "Green Tea",
+        "Oolong Tea",
+        "Black Tea",
+        "White Tea"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which English town was Yorkshire Tea historically established?",
+      "choices": [
+        "York",
+        "Leeds",
+        "Harrogate",
+        "Bradford"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the classic spirit paired with tonic water in the popular cocktail 'Gin and Tonic'?",
+      "choices": [
+        "Rum",
+        "Vodka",
+        "Gin",
+        "Whiskey"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which energy drink served as the original inspiration for Red Bull?",
+      "choices": [
+        "Lipovitan D",
+        "Krating Daeng",
+        "Jing Energy",
+        "Power Horse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Sunny Delight gain popularity in the United Kingdom?",
+      "choices": [
+        "1988",
+        "1993",
+        "1998",
+        "2003"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was Coca-Cola officially established as a branded beverage?",
+      "choices": [
+        "1884",
+        "1886",
+        "1888",
+        "1890"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Coca-Cola first launch its iconic soft drink?",
+      "choices": [
+        "1884",
+        "1886",
+        "1888",
+        "1890"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country is the origin of Carlsberg beer?",
+      "choices": [
+        "Germany",
+        "Denmark",
+        "Netherlands",
+        "Belgium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which energy drink brand is known for its slogan 'Gives You Wings'?",
+      "choices": [
+        "Monster Energy",
+        "Red Bull",
+        "Rockstar",
+        "Celsius"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Fanta is most famous for which flavor?",
+      "choices": [
+        "Grape",
+        "Orange",
+        "Cherry",
+        "Lemon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary non-dairy milk alternative preferred by vegans?",
+      "choices": [
+        "Almond milk",
+        "Soy milk",
+        "Oat milk",
+        "Coconut milk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Cognac brandy is traditionally produced in which country?",
+      "choices": [
+        "Spain",
+        "Italy",
+        "France",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the energy drink Lucozade first launch?",
+      "choices": [
+        "1925",
+        "1927",
+        "1929",
+        "1931"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Pepsi originally called before it became Pepsi-Cola?",
+      "choices": [
+        "Brad's Drink",
+        "Doc's Soda",
+        "Joe's Tonic",
+        "Sam's Cola"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Horlicks is a type of what kind of beverage?",
+      "choices": [
+        "Instant coffee",
+        "Malted milk drink",
+        "Hot chocolate",
+        "Sports drink"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is the birthplace of the soft drink Kia Ora?",
+      "choices": [
+        "New Zealand",
+        "South Africa",
+        "Australia",
+        "Canada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade did Hooch become a popular drink choice among young adults?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of lager is Budweiser classified as?",
+      "choices": [
+        "Light lager",
+        "Pale lager",
+        "Dark lager",
+        "Pilsner lager"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Volvic natural spring water originates from which country?",
+      "choices": [
+        "Germany",
+        "Switzerland",
+        "France",
+        "Austria"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classic cocktail combination features gin as its primary spirit?",
+      "choices": [
+        "Gin and tonic",
+        "Rum and cola",
+        "Vodka and cranberry",
+        "Whiskey and soda"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is featured on the iconic Carlsberg logo?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Gold"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was Dr Pepper first introduced?",
+      "choices": [
+        "1883",
+        "1885",
+        "1887",
+        "1889"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Monster Energy drink is most recognizable by which color?",
+      "choices": [
+        "Blue",
+        "Black",
+        "Green",
+        "Red"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Scotch whisky is produced in which country?",
+      "choices": [
+        "Ireland",
+        "United States",
+        "Scotland",
+        "Wales"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Red Bull energy drink originated in which country?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Thailand",
+        "Switzerland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Pepsi originally called when it first launched?",
+      "choices": [
+        "Brad's Drink",
+        "Pep's Cola",
+        "Refresh Cola",
+        "Pepper's Elixir"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country was Carlsberg beer first brewed?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Bailey's Irish Cream first become available to consumers?",
+      "choices": [
+        "1970",
+        "1972",
+        "1974",
+        "1976"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major beverage company owns the Tropicana brand?",
+      "choices": [
+        "Coca-Cola",
+        "PepsiCo",
+        "Kraft Heinz",
+        "Monster Energy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of alcoholic beverage is Budweiser?",
+      "choices": [
+        "Pilsner",
+        "Pale Lager",
+        "Porter",
+        "IPA"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "From which country does sake, the traditional rice wine, originate?",
+      "choices": [
+        "China",
+        "Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is the Tizer soft drink known for?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Yellow",
+        "Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Maori language, what does 'Kia-Ora' translate to?",
+      "choices": [
+        "Stay Strong",
+        "Be Healthy",
+        "Good Energy",
+        "Stay Hydrated"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How much caffeine is typically found in a standard Red Bull can?",
+      "choices": [
+        "60mg",
+        "80mg",
+        "100mg",
+        "120mg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Before they became famous for tea, what product did the Tetley brothers originally sell?",
+      "choices": [
+        "Sugar",
+        "Salt",
+        "Spices",
+        "Flour"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What plant-based milk alternative is most commonly consumed by vegans?",
+      "choices": [
+        "Almond Milk",
+        "Oat Milk",
+        "Soy Milk",
+        "Coconut Milk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which decade did Hooch become a popular ready-to-drink beverage?",
+      "choices": [
+        "1980s",
+        "1990s",
+        "2000s",
+        "2010s"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient used to make sake?",
+      "choices": [
+        "Grapes",
+        "Barley",
+        "Rice",
+        "Wheat"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color dominates the packaging of Ovaltine?",
+      "choices": [
+        "Blue",
+        "Red",
+        "Orange",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Asian beverage inspired the creation of Red Bull?",
+      "choices": [
+        "Thai Tea",
+        "Krating Daeng",
+        "Ginseng Drink",
+        "Bird's Nest Drink"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did Lilt tropical soft drink first launch?",
+      "choices": [
+        "1970",
+        "1973",
+        "1975",
+        "1978"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Bailey's Irish Cream first launch as a commercial product?",
+      "choices": [
+        "1972",
+        "1974",
+        "1976",
+        "1978"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary grain used in the production of Scotch whisky?",
+      "choices": [
+        "Corn",
+        "Barley",
+        "Rye",
+        "Wheat"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which traditional French anise-based spirit is known for its distinctive green color and high alcohol content?",
+      "choices": [
+        "Pastis",
+        "Absinthe",
+        "Chartreuse",
+        "Sambuca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rockstar Energy Drink was first introduced to the market in which year?",
+      "choices": [
+        "1999",
+        "2001",
+        "2003",
+        "2005"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was Pepsi-Cola originally branded as when it first appeared in the late 19th century?",
+      "choices": [
+        "Pep's Cola",
+        "Brad's Drink",
+        "Kola Tonic",
+        "Pepsine Drink"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Maori phrase 'Kia-Ora' translates into English as which wellness concept?",
+      "choices": [
+        "Good Health",
+        "Be Healthy",
+        "Strong Spirit",
+        "Pure Water"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which multinational beverage corporation owns the Tropicana brand?",
+      "choices": [
+        "The Coca-Cola Company",
+        "PepsiCo",
+        "Monster Beverage",
+        "Red Bull"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Schweppes is historically most renowned for pioneering which carbonated beverage component?",
+      "choices": [
+        "Flavored syrups",
+        "Carbonated water",
+        "Mineral supplements",
+        "Artificial sweeteners"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Scandinavian country was Rubicon awarded 'Drink of the Year' in 2010?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of beverage is Horlicks primarily classified as?",
+      "choices": [
+        "Chocolate milk drink",
+        "Malted milk drink",
+        "Energy drink",
+        "Sports drink"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company is the parent owner of the Robinson's soft drink brand in the United Kingdom?",
+      "choices": [
+        "Danone",
+        "Britvic",
+        "Nestlé",
+        "Mondelez"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Crabbie's is a specialist producer of which type of beverage?",
+      "choices": [
+        "Craft beer",
+        "Ginger beer",
+        "Hard cider",
+        "Fruit wine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Absolut Vodka originates from which Scandinavian country?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What dominant color appears on the Lipton Ice Tea logo?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European nation is credited with the invention and perfection of Champagne as a sparkling wine?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Oolong tea undergoes what level of oxidation during its production process?",
+      "choices": [
+        "Light (10-30%)",
+        "Moderate (30-80%)",
+        "Heavy (80%+)",
+        "None"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Monster Energy's signature branding is most visually identified with which color?",
+      "choices": [
+        "Blue",
+        "Black",
+        "Green",
+        "Silver"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Sunny Delight establish its presence in the United Kingdom market?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Britvic's J20 fruit juice drink was first launched commercially in which year?",
+      "choices": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which plant-based milk alternative has become the most popular substitute among vegans and those avoiding dairy?",
+      "choices": [
+        "Almond milk",
+        "Oat milk",
+        "Soy milk",
+        "Coconut milk"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Lucozade first launch as an energy drink in the United Kingdom?",
+      "choices": [
+        "1927",
+        "1935",
+        "1948",
+        "1952"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mineral spring region in France is the source of Volvic natural spring water?",
+      "choices": [
+        "Évian region",
+        "Auvergne volcanic region",
+        "Perrier basin",
+        "Vichy springs"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Bailey's Irish Cream first appeared on shelves in which specific year?",
+      "choices": [
+        "1970",
+        "1974",
+        "1977",
+        "1982"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Dr Pepper pioneered the carbonated soft drink market by launching in which year?",
+      "choices": [
+        "1875",
+        "1885",
+        "1895",
+        "1905"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of Pepsi before it became the globally recognized cola brand?",
+      "choices": [
+        "Brad's Drink",
+        "Pep Cola",
+        "Dyspepsia Cure",
+        "Fizzade"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Krating Daeng, a Thai beverage from the 1970s, became the direct inspiration for which major energy drink brand?",
+      "choices": [
+        "Monster Energy",
+        "Red Bull",
+        "Burn Energy",
+        "Power Horse"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which German city was Capri Sun developed and first produced as a beverage brand?",
+      "choices": [
+        "Berlin",
+        "Munich",
+        "Frankfurt",
+        "Düsseldorf"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact caffeine content in a standard 250ml can of Red Bull?",
+      "choices": [
+        "75mg",
+        "80mg",
+        "85mg",
+        "90mg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tetley, the British tea company founded by Joseph and Edward Tetley, initially built their business by selling which commodity before diversifying into tea?",
+      "choices": [
+        "Coffee",
+        "Salt",
+        "Sugar",
+        "Spices"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Irn-Bru, Scotland's iconic soft drink, derives its distinctive orange color and taste from which primary flavoring ingredient?",
+      "choices": [
+        "Citrus oils and ambroxan",
+        "Artificial strawberry compounds",
+        "Turmeric and ginger",
+        "Saffron extract"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Crabbies, the ginger beer brand with a modern cocktail focus, launch in the United Kingdom?",
+      "choices": [
+        "2005",
+        "2008",
+        "2009",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cobra Beer, originating from the Indian subcontinent, was first brewed in which country in 1990?",
+      "choices": [
+        "India",
+        "Bangladesh",
+        "Sri Lanka",
+        "Pakistan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Horlicks malt beverage powder was first developed in which year by the Horlick brothers?",
+      "choices": [
+        "1873",
+        "1883",
+        "1893",
+        "1903"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary botanical ingredient that defines a traditional gin and tonic's distinctive herbal profile?",
+      "choices": [
+        "Juniper berries",
+        "Coriander seeds",
+        "Angelica root",
+        "Licorice"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Coca-Cola was first formulated and sold by a pharmacist in which American city in 1886?",
+      "choices": [
+        "Nashville, Tennessee",
+        "Atlanta, Georgia",
+        "Charleston, South Carolina",
+        "Richmond, Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "As of 2024, how many distinct Monster Energy drink variants exist under the Monster Energy brand portfolio in North America?",
+      "choices": [
+        "28",
+        "31",
+        "34",
+        "37"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Yorkshire Tea, the famous British tea brand, is produced and headquartered in which Yorkshire town?",
+      "choices": [
+        "Leeds",
+        "Harrogate",
+        "Bradford",
+        "Halifax"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Britvic PLC, a major soft drink company, owns and distributes which well-known juice concentrate brand for making Robinson's drinks?",
+      "choices": [
+        "Minute Maid",
+        "Simply Orange",
+        "Robinsons",
+        "Tropicana"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ovaltine, the malted milk powder brand, features which distinctive color in its classic packaging design?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Brown",
+        "Orange"
+      ],
       "correct": 3,
-      "category": "Drinks",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Drinks",
-        "verified": true,
-        "notes": "Granted UNESCO World Heritage status in 2015."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Cognac is a protected-origin type of which distilled spirit?",
-      "choices": ["Whisky", "Vodka", "Brandy", "Rum"],
+      "q": "Lipton Ice Tea uses which color as the dominant hue in its global logo and packaging design?",
+      "choices": [
+        "Orange",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
       "correct": 2,
-      "category": "Drinks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Drinks",
-        "verified": true,
-        "notes": "Distilled from white wine grapes in the Cognac region of southwestern France."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Baileys Irish Cream is produced in which country?",
-      "choices": ["Scotland", "England", "Ireland", "United States"],
-      "correct": 2,
-      "category": "Drinks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Drinks",
-        "verified": true,
-        "notes": "Created in Dublin in 1974; a blend of Irish whiskey and cream."
-      }
+      "q": "In which year did Lucozade first launch as an energy drink?",
+      "choices": [
+        "1924",
+        "1927",
+        "1931",
+        "1935"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "Red Bull the energy-drink company, as we know it globally today, was launched from which country in 1987?",
-      "choices": ["Thailand", "Germany", "Austria", "United States"],
-      "correct": 2,
-      "category": "Drinks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Thailand",
-        "verified": true,
-        "notes": "Adapted by Austrian Dietrich Mateschitz from Thailand's 'Krating Daeng'."
-      }
+      "q": "What is the primary ingredient that distinguishes oolong tea from other traditional Chinese teas?",
+      "choices": [
+        "Complete oxidation of leaves",
+        "Partial oxidation of leaves",
+        "No oxidation of leaves",
+        "Double fermentation of leaves"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "Carlsberg, one of the world's largest brewers, is from which country?",
-      "choices": ["Sweden", "Netherlands", "Denmark", "Germany"],
+      "q": "Which beverage company acquired Rubicon in 2010, the same year it won the 'Drink of the Year' award in Sweden?",
+      "choices": [
+        "Coca-Cola",
+        "PepsiCo",
+        "Britvic",
+        "Red Bull GmbH"
+      ],
       "correct": 2,
-      "category": "Drinks",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Green",
-        "verified": true,
-        "notes": "Founded in Copenhagen in 1847 by J.C. Jacobsen."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cognac brandy is protected by appellation of origin laws and can only be produced in which country?",
+      "choices": [
+        "Spain",
+        "France",
+        "Portugal",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1985, Red Bull's founder Dietrich Mateschitz based his energy drink formula on which pre-existing Thai beverage?",
+      "choices": [
+        "Lipovitan",
+        "Krating Daeng",
+        "Power Horse",
+        "M-150"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the purchase price when GlaxoSmithKline sold Ribena in 2013?",
+      "choices": [
+        "890 million pounds",
+        "1.15 billion pounds",
+        "1.35 billion pounds",
+        "1.6 billion pounds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scottish soft drink, known for its distinctive orange color and tartan branding, contains a unique blend of herbal extracts?",
+      "choices": [
+        "Barr Irn Bru",
+        "Vimto",
+        "A.G. Barr",
+        "Sanpellegrino"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Hooch, the alcoholic lemonade drink that became popular in the 1990s, was named after William Hooper, who invented which household item?",
+      "choices": [
+        "The thermos flask",
+        "The hot water bottle",
+        "The electric kettle",
+        "The pressure cooker"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Crabbies ginger beer introduce its signature alcoholic ginger beer variant to the market?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which multinational beverage corporation has owned and operated Robinson's squash and cordial brands since acquiring them from Britvic?",
+      "choices": [
+        "Nestlé",
+        "Unilever",
+        "Britvic itself",
+        "Danone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Foster's Lager, now an iconic Australian beer brand, was first established in which Australian city in 1887?",
+      "choices": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Adelaide"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Carlsberg beer originated in which Scandinavian country and is particularly known for its emphasis on purity and brewing science?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tropicana orange juice is owned and distributed by which American multinational beverage company?",
+      "choices": [
+        "The Coca-Cola Company",
+        "Monster Beverage Corporation",
+        "PepsiCo",
+        "Monster Energy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate caffeine content per single 250ml can of Red Bull energy drink?",
+      "choices": [
+        "65 milligrams",
+        "80 milligrams",
+        "95 milligrams",
+        "110 milligrams"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before they became renowned for their tea products in the 19th century, what commodity did Tetley's founders Joseph and Edward Tetley primarily trade?",
+      "choices": [
+        "Coffee beans",
+        "Salt",
+        "Sugar",
+        "Spices"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sake, the traditional fermented rice beverage, originates from which East Asian country?",
+      "choices": [
+        "China",
+        "Korea",
+        "Japan",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Monster Energy drink is branded with which distinctive color that dominates its can design and marketing materials?",
+      "choices": [
+        "Bright red",
+        "Electric green",
+        "Deep blue",
+        "Purple"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Lipton Ice Tea products feature which color prominently in their logo design?",
+      "choices": [
+        "Red",
+        "Green",
+        "Yellow",
+        "Orange"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Scandinavian markets, Minute Maid juice products are sold under which alternative brand name?",
+      "choices": [
+        "Fruitopia",
+        "Sunpop",
+        "Citro",
+        "Juiceland"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tizer, the British soft drink known for its bold playful marketing, is characteristically what color?",
+      "choices": [
+        "Bright orange",
+        "Deep red",
+        "Golden yellow",
+        "Dark brown"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which spirits company owns both Johnnie Walker and Guinness as part of its global portfolio?",
+      "choices": [
+        "Diageo",
+        "Pernod Ricard",
+        "Brown-Forman",
+        "Beam Suntory"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Japanese prefecture is sake production traditionally centered, producing over 40% of the country's output?",
+      "choices": [
+        "Kyoto",
+        "Hyogo",
+        "Nagano",
+        "Aomori"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum aging requirement in oak barrels for a whisky to be legally classified as Scotch?",
+      "choices": [
+        "2 years",
+        "3 years",
+        "5 years",
+        "7 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian region is designated as the sole authentic origin for traditional balsamic vinegar under protected designation of origin?",
+      "choices": [
+        "Piemonte",
+        "Modena",
+        "Veneto",
+        "Tuscany"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Tonic water's bitter taste traditionally comes from which compound, historically valued for malaria prevention?",
+      "choices": [
+        "Gentian root",
+        "Quinine",
+        "Angostura bark",
+        "Cinchona extract"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Perrier introduce its distinctive green glass bottle design that became its trademark?",
+      "choices": [
+        "1863",
+        "1892",
+        "1907",
+        "1925"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Champagne production is regulated by which French governing body that enforces strict méthode champenoise standards?",
+      "choices": [
+        "Institut de Beaumont",
+        "Syndicat du Champagne",
+        "Comité Interprofessionnel du Vin de Champagne",
+        "Académie des Vins Français"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which tropical fruit is the primary flavoring agent in the original formulation of Campari?",
+      "choices": [
+        "Pomegranate",
+        "Bitter orange",
+        "Dragon fruit",
+        "Passion fruit"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the original Coca-Cola formula cease to be used, replaced by 'New Coke' before its discontinuation?",
+      "choices": [
+        "1982",
+        "1985",
+        "1988",
+        "1991"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kvass, a traditional Slavic fermented beverage, is primarily made from which grain or starch?",
+      "choices": [
+        "Rye bread",
+        "Barley malt",
+        "Wheat flour",
+        "Oat groats"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which coffee producing country is responsible for approximately 40% of the world's arabica coffee supply?",
+      "choices": [
+        "Vietnam",
+        "Colombia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Amaro Montenegro, an Italian digestif, derives its name from a historical region in which present-day country?",
+      "choices": [
+        "Albania",
+        "Greece",
+        "Montenegro",
+        "Croatia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum alcohol content percentage required for a beverage to be labeled as Vermouth under EU regulations?",
+      "choices": [
+        "14.5%",
+        "15%",
+        "16%",
+        "18%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Ouzo, the Greek anise-flavored spirit, must legally contain what minimum percentage of aniseed by EU law?",
+      "choices": [
+        "1%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was Fernet-Branca first produced in Milan, establishing itself as an iconic Italian amaro?",
+      "choices": [
+        "1845",
+        "1862",
+        "1878",
+        "1891"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary flavor characteristic of Absinthe?",
+      "choices": [
+        "Licorice and anise",
+        "Mint and eucalyptus",
+        "Citrus and herbs",
+        "Vanilla and almond"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which color dominates the Carlsberg brewery's iconic logo?",
+      "choices": [
+        "Red",
+        "Gold",
+        "Green",
+        "Silver"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What beverage company acquired Robinson's squash drinks?",
+      "choices": [
+        "Nestlé",
+        "Britvic",
+        "Coca-Cola",
+        "PepsiCo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the ginger beer cocktail Crabbies introduced to the market?",
+      "choices": [
+        "2007",
+        "2009",
+        "2011",
+        "2013"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Asian country is credited with creating the original Red Bull energy drink formula?",
+      "choices": [
+        "Vietnam",
+        "Thailand",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does 'Kia-Ora,' the name of the orange juice brand, translate to in Māori?",
+      "choices": [
+        "Good health",
+        "Be healthy",
+        "Stay strong",
+        "Live long"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which flavor is NOT part of Bailey's Irish Cream's standard product line?",
+      "choices": [
+        "Chocolate",
+        "Vanilla",
+        "Rum",
+        "Coffee"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Pepsi originally called before it adopted its famous brand name?",
+      "choices": [
+        "Brad's Drink",
+        "Pep's Cola",
+        "Sugar Fizz",
+        "Refresho"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Yorkshire town was Yorkshire Tea brand established?",
+      "choices": [
+        "Leeds",
+        "York",
+        "Harrogate",
+        "Sheffield"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which semi-oxidized Chinese tea is known for its complex flavor profile between green and black tea?",
+      "choices": [
+        "Oolong",
+        "Pu-erh",
+        "Jasmine",
+        "Dragon well"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What popular citrus soft drink is known for its lemon-lime flavor profile?",
+      "choices": [
+        "Sprite",
+        "7UP",
+        "Mountain Dew",
+        "Fanta Citrus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "For what household item did William Hooper's invention become famous, which inspired the name of the alcopop drink 'Hooch'?",
+      "choices": [
+        "Electric kettle",
+        "Thermos flask",
+        "Hot water bottle",
+        "Heating pad"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the signature color associated with the Monster Energy brand?",
+      "choices": [
+        "Black",
+        "Silver",
+        "Green",
+        "Blue"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year was the tropical drink Lilt introduced to the beverage market?",
+      "choices": [
+        "1970",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What classic cocktail pairing combines gin with which mixer to create an iconic drink?",
+      "choices": [
+        "Lime juice",
+        "Tonic water",
+        "Ginger ale",
+        "Club soda"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of alcoholic beverage is Scrumpy Jack?",
+      "choices": [
+        "Perry",
+        "Cider",
+        "Mead",
+        "Sake"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "For approximately how much did GlaxoSmithKline sell the Ribena brand in 2013?",
+      "choices": [
+        "500 million pounds",
+        "1 billion pounds",
+        "1.35 billion pounds",
+        "2 billion pounds"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flavor variant is most famously associated with Fanta's brand identity?",
+      "choices": [
+        "Cherry",
+        "Orange",
+        "Strawberry",
+        "Grape"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Champagne must be produced in which French region to legally bear that name?",
+      "choices": [
+        "Bordeaux",
+        "Champagne",
+        "Alsace",
+        "Loire Valley"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional spirit base for a classic Margarita cocktail?",
+      "choices": [
+        "Rum",
+        "Tequila",
+        "Vodka",
+        "Gin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Guinness stout originates from which country?",
+      "choices": [
+        "Scotland",
+        "Wales",
+        "Ireland",
+        "England"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tropical fruit juice is traditionally used in a Piña Colada?",
+      "choices": [
+        "Mango",
+        "Passion fruit",
+        "Coconut",
+        "Pineapple"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary flavor compound that gives ouzo its distinctive taste?",
+      "choices": [
+        "Licorice",
+        "Mint",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was Fanta first introduced as a soft drink brand?",
+      "choices": [
+        "1935",
+        "1940",
+        "1945",
+        "1950"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is famous for producing Riesling, a renowned white wine?",
+      "choices": [
+        "Italy",
+        "Germany",
+        "Spain",
+        "Portugal"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of alcohol is Bacardi primarily known for producing?",
+      "choices": [
+        "Whiskey",
+        "Rum",
+        "Vodka",
+        "Tequila"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ingredient is essential to make a traditional Moscow Mule?",
+      "choices": [
+        "Lime juice",
+        "Ginger beer",
+        "Grenadine",
+        "Simple syrup"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Suntory, a major beverage company, is headquartered in which country?",
+      "choices": [
+        "South Korea",
+        "China",
+        "Japan",
+        "Thailand"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main grain used in the production of Scotch whisky?",
+      "choices": [
+        "Corn",
+        "Barley",
+        "Rye",
+        "Wheat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which citrus fruit is the primary ingredient in a classic Daiquiri cocktail?",
+      "choices": [
+        "Lemon",
+        "Orange",
+        "Lime",
+        "Grapefruit"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is the iconic branding of Sprite soft drink?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Hennessy is renowned as one of the world's largest producers of which spirit?",
+      "choices": [
+        "Brandy",
+        "Vodka",
+        "Gin",
+        "Cognac"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the first Starbucks coffee shop opened in Seattle?",
+      "choices": [
+        "1971",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which herb is traditionally used to flavor a Sazerac cocktail?",
+      "choices": [
+        "Basil",
+        "Thyme",
+        "Absinthe",
+        "Oregano"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary grain used in the production of Irish whiskey?",
+      "choices": [
+        "Wheat",
+        "Barley",
+        "Corn",
+        "Rye"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Perrier sparkling water originates from which country?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Switzerland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main ingredient in a traditional Bloody Mary cocktail?",
+      "choices": [
+        "Tequila",
+        "Vodka",
+        "Gin",
+        "Rum"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is the world's largest producer of coffee beans?",
+      "choices": [
+        "Vietnam",
+        "Brazil",
+        "Colombia",
+        "Indonesia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Coca-Cola first launch its iconic beverage?",
+      "choices": [
+        "1884",
+        "1886",
+        "1888",
+        "1890"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bailey's Irish Cream, the beloved liqueur, was first introduced in which decade?",
+      "choices": [
+        "1960s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which company owns the Robinson's soft drink brand?",
+      "choices": [
+        "Coca-Cola",
+        "Britvic",
+        "PepsiCo",
+        "Monster Beverage"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary citrus flavor that 7UP promotes as its signature taste?",
+      "choices": [
+        "Orange",
+        "Lemon and Lime",
+        "Grapefruit",
+        "Lemon only"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How much caffeine is typically found in a standard 250ml can of Red Bull?",
+      "choices": [
+        "60mg",
+        "80mg",
+        "100mg",
+        "120mg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which spirit gives WKD its characteristic flavored vodka base?",
+      "choices": [
+        "Rum",
+        "Gin",
+        "Vodka",
+        "Tequila"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Carlsberg lager originates from which Scandinavian country?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Irn-Bru is a distinctive fizzy soft drink associated with which country?",
+      "choices": [
+        "Wales",
+        "Scotland",
+        "Northern Ireland",
+        "England"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Dr Pepper first debut as a soft drink?",
+      "choices": [
+        "1883",
+        "1885",
+        "1887",
+        "1889"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lilt tropical soft drink was first introduced in which year?",
+      "choices": [
+        "1970",
+        "1975",
+        "1980",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of plant-based milk is most popular among vegans?",
+      "choices": [
+        "Coconut milk",
+        "Soy milk",
+        "Oat milk",
+        "Almond milk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flavor does Bailey's Irish Cream notably NOT include in its product lineup?",
+      "choices": [
+        "Chocolate",
+        "Rum",
+        "Coffee",
+        "Vanilla"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Horlicks is classified as what type of beverage?",
+      "choices": [
+        "Carbonated drink",
+        "Malted milk drink",
+        "Herbal tea",
+        "Sports drink"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Foster's Lager originated as an iconic beer from which country?",
+      "choices": [
+        "New Zealand",
+        "South Africa",
+        "Australia",
+        "Canada"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flavoring ingredient is Absinthe traditionally celebrated for containing?",
+      "choices": [
+        "Licorice",
+        "Anise",
+        "Peppermint",
+        "Cardamom"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Cobra Beer is typically served as a beverage pairing with which type of cuisine?",
+      "choices": [
+        "Thai",
+        "Indian",
+        "Chinese",
+        "Vietnamese"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What classic cocktail combination features gin as its primary spirit?",
+      "choices": [
+        "Rum and Cola",
+        "Gin and Tonic",
+        "Whiskey and Soda",
+        "Vodka Martini"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pepsi Perfect was a limited-edition beverage marketed in connection with which science fiction film series?",
+      "choices": [
+        "Star Wars",
+        "Back to the Future",
+        "The Terminator",
+        "Blade Runner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Rockstar energy drink first launch and begin competing in the energy drink market?",
+      "choices": [
+        "1999",
+        "2001",
+        "2003",
+        "2005"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original name of Pepsi before it became the globally recognized brand we know today?",
+      "choices": [
+        "Pemberton's Cola",
+        "Brad's Drink",
+        "Kola Essentia",
+        "Carbonated Cola"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is the primary origin of sake, the traditional fermented beverage?",
+      "choices": [
+        "South Korea",
+        "China",
+        "Japan",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What flavoring profile is Oolong tea known for?",
+      "choices": [
+        "Fully oxidized and dark",
+        "Semi-oxidized with complex notes",
+        "Unoxidized and grassy",
+        "Heavily sweetened"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was J20, Britvic's fruit juice drink, first introduced?",
+      "choices": [
+        "1995",
+        "1998",
+        "2002",
+        "2005"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that distinguishes Crabbie's as a ginger-based beverage?",
+      "choices": [
+        "Crab extract",
+        "Ginger",
+        "Spiced rum",
+        "Apple cider"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor created the original formula for Coca-Cola in the 1880s?",
+      "choices": [
+        "Caleb Bradham",
+        "John Pemberton",
+        "Harvey Wiley",
+        "Alphonse Loubat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What citrus flavors combine to give 7Up its distinctive taste?",
+      "choices": [
+        "Orange and grapefruit",
+        "Lemon and lime",
+        "Lime and orange",
+        "Lemon and grapefruit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate caffeine content in a standard 250ml can of Red Bull?",
+      "choices": [
+        "60mg",
+        "80mg",
+        "100mg",
+        "120mg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Thai beverage served as the original inspiration for the modern Red Bull energy drink formula?",
+      "choices": [
+        "Thai Tea",
+        "Krating Daeng",
+        "Chrysanthemum Tea",
+        "Tamarind Juice"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of alcoholic beverage is Scrumpy Jack known for producing?",
+      "choices": [
+        "Mead",
+        "Perry",
+        "Cider",
+        "Ale"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major beverage corporation acquired Tropicana juice brand?",
+      "choices": [
+        "The Coca-Cola Company",
+        "PepsiCo",
+        "Mondelēz International",
+        "Danone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What distinctive feature is Irn-Bru, a Scottish soft drink, known for?",
+      "choices": [
+        "Cherry flavoring",
+        "Bright orange color",
+        "Vanilla taste",
+        "Green tea base"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Sonti, a traditional Indian beverage, what grain-based ingredient provides the primary flavor and alcoholic content?",
+      "choices": [
+        "Wheat",
+        "Barley",
+        "Rice",
+        "Millet"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1927, which carbonated beverage was originally developed as an energizing glucose drink in the United Kingdom?",
+      "choices": [
+        "Lucozade",
+        "Ribena",
+        "Tizer",
+        "Vimto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

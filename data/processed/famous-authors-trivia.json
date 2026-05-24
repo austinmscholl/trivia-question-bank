@@ -1,169 +1,2988 @@
 {
   "slug": "famous-authors-trivia",
   "name": "Famous Authors",
-  "description": "Novelists, poets, and the books they wrote",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.527Z",
   "questions": [
     {
-      "q": "Who wrote the epic novel 'War and Peace'?",
-      "choices": ["Fyodor Dostoevsky", "Leo Tolstoy", "Anton Chekhov", "Alexander Pushkin"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Published in serial form 1865-1869. Over 1,200 pages, 500+ characters." }
+      "q": "Which author wrote the novel 'Pride and Prejudice'?",
+      "choices": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "George Eliot",
+        "Emily Dickinson"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which French author wrote 'Les Misérables'?",
-      "choices": ["Alexandre Dumas", "Victor Hugo", "Gustave Flaubert", "Émile Zola"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Victor Hugo", "verified": true, "notes": "Published 1862. Also wrote 'The Hunchback of Notre-Dame.'" }
+      "q": "What is the first name of author Tolkien, who wrote 'The Lord of the Rings'?",
+      "choices": [
+        "Ronald",
+        "Robert",
+        "Richard",
+        "Roger"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote the novel 'Pride and Prejudice,' published in 1813?",
-      "choices": ["Charlotte Brontë", "Emily Dickinson", "Jane Austen", "Mary Shelley"],
+      "q": "Who wrote 'Moby-Dick'?",
+      "choices": [
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "Mark Twain",
+        "James Fenimore Cooper"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British author is famous for the 'Harry Potter' series?",
+      "choices": [
+        "J.K. Rowling",
+        "Philip Pullman",
+        "Neil Gaiman",
+        "David Eddings"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the pen name of Samuel Clemens, author of 'The Adventures of Huckleberry Finn'?",
+      "choices": [
+        "Mark Twain",
+        "Bret Harte",
+        "O. Henry",
+        "Ambrose Bierce"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'One Hundred Years of Solitude'?",
+      "choices": [
+        "Jorge Luis Borges",
+        "Gabriel García Márquez",
+        "Julio Cortázar",
+        "Isabel Allende"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Jane Eyre'?",
+      "choices": [
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "Anne Brontë",
+        "George Brontë"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'The Catcher in the Rye'?",
+      "choices": [
+        "Jack Kerouac",
+        "J.D. Salinger",
+        "Kurt Vonnegut",
+        "Allen Ginsberg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Wuthering Heights'?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "Georgette Heyer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'The Odyssey'?",
+      "choices": [
+        "Plato",
+        "Homer",
+        "Aristotle",
+        "Sophocles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author created the detective Hercule Poirot?",
+      "choices": [
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "Margery Allingham",
+        "Edmund Crispin"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Crime and Punishment'?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'The Picture of Dorian Gray'?",
+      "choices": [
+        "George Bernard Shaw",
+        "Oscar Wilde",
+        "Thomas Hardy",
+        "W.B. Yeats"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'A Tale of Two Cities'?",
+      "choices": [
+        "Charles Dickens",
+        "William Makepeace Thackeray",
+        "George Eliot",
+        "Benjamin Disraeli"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'The Hobbit'?",
+      "choices": [
+        "C.S. Lewis",
+        "J.R.R. Tolkien",
+        "Stephen King",
+        "Ursula K. Le Guin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Anna Karenina'?",
+      "choices": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev",
+        "Nikolai Gogol"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of '1984'?",
+      "choices": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British author wrote 'Pride and Prejudice'?",
+      "choices": [
+        "Jane Austen",
+        "Charlotte Brontë",
+        "George Eliot",
+        "Mary Shelley"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the hobbit protagonist in 'The Lord of the Rings'?",
+      "choices": [
+        "Gandalf",
+        "Frodo Baggins",
+        "Bilbo Baggins",
+        "Samwise Gamgee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first book in the 'Harry Potter' series?",
+      "choices": [
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Philosopher's Stone",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Harry Potter and the Goblet of Fire"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Russian author wrote 'War and Peace'?",
+      "choices": [
+        "Fyodor Dostoevsky",
+        "Leo Tolstoy",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'Wuthering Heights'?",
+      "choices": [
+        "Jane Austen",
+        "Emily Brontë",
+        "Anne Brontë",
+        "Charlotte Brontë"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'The Catcher in the Rye'?",
+      "choices": [
+        "J.D. Salinger",
+        "Philip Roth",
+        "Norman Mailer",
+        "Kurt Vonnegut"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author created the character Captain Ahab in 'Moby-Dick'?",
+      "choices": [
+        "Herman Melville",
+        "Nathaniel Hawthorne",
+        "James Fenimore Cooper",
+        "Washington Irving"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Frankenstein'?",
+      "choices": [
+        "Mary Shelley",
+        "Bram Stoker",
+        "Ann Radcliffe",
+        "Horace Walpole"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'The Adventures of Tom Sawyer'?",
+      "choices": [
+        "Jack London",
+        "Mark Twain",
+        "Bret Harte",
+        "Joel Chandler Harris"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author created the character Captain Jack Sparrow in fiction?",
+      "choices": [
+        "Sir Arthur Conan Doyle",
+        "Tim Powers",
+        "J.M. Barrie",
+        "Robert Louis Stevenson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first book in J.R.R. Tolkien's Middle-earth saga?",
+      "choices": [
+        "The Silmarillion",
+        "The Hobbit",
+        "The Fellowship of the Ring",
+        "The Two Towers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the title of F. Scott Fitzgerald's most famous novel?",
+      "choices": [
+        "Tender Is the Night",
+        "The Great Gatsby",
+        "This Side of Paradise",
+        "The Beautiful and Damned"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'Harry Potter and the Philosopher's Stone'?",
+      "choices": [
+        "Stephenie Meyer",
+        "J.K. Rowling",
+        "Suzanne Collins",
+        "Rick Riordan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which novel by George Orwell depicts a totalitarian society ruled by Big Brother?",
+      "choices": [
+        "Animal Farm",
+        "1984",
+        "Keep the Aspidistra Flying",
+        "Down and Out in Paris and London"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American author wrote 'The Catcher in the Rye'?",
+      "choices": [
+        "Jerome David Salinger",
+        "Jack Kerouac",
+        "Norman Mailer",
+        "Kurt Vonnegut"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who authored 'Wuthering Heights'?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "George Eliot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British author created the character Miss Marple?",
+      "choices": [
+        "Agatha Christie",
+        "Dorothy Sayers",
+        "Ngaio Marsh",
+        "Margery Allingham"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the title of Stephen King's first published novel?",
+      "choices": [
+        "The Shining",
+        "Carrie",
+        "The Stand",
+        "It"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'The Great Expectations'?",
+      "choices": [
+        "Charles Dickens",
+        "William Thackeray",
+        "Anthony Trollope",
+        "George Eliot"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the literary movement that Jack Kerouac helped define in the 1950s?",
+      "choices": [
+        "The Lost Generation",
+        "The Beat Generation",
+        "The Harlem Renaissance",
+        "The Bloomsbury Group"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'The Old Man and the Sea'?",
+      "choices": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "William Faulkner",
+        "John Steinbeck"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote the novel 'Beloved'?",
+      "choices": [
+        "Alice Walker",
+        "Toni Morrison",
+        "Maya Angelou",
+        "Gloria Naylor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author created the character Ebenezer Scrooge in a famous Christmas novella?",
+      "choices": [
+        "Charles Dickens",
+        "Thomas Hardy",
+        "William Thackeray",
+        "George Eliot"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first name of the author who wrote 'Pride and Prejudice'?",
+      "choices": [
+        "Jane",
+        "Charlotte",
+        "Emily",
+        "Anne"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'Moby Dick', the novel about hunting a white whale?",
+      "choices": [
+        "Herman Melville",
+        "Nathaniel Hawthorne",
+        "James Fenimore Cooper",
+        "Washington Irving"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British author is famous for creating the character James Bond?",
+      "choices": [
+        "Ian Fleming",
+        "John le Carré",
+        "Len Deighton",
+        "Alistair MacLean"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'The Great Gatsby', set in the Jazz Age?",
+      "choices": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "Sinclair Lewis",
+        "John Dos Passos"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Animal Farm', a political allegory?",
+      "choices": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Anthony Burgess",
+        "Ray Bradbury"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first name of the author whose last name is Tolkien, who wrote 'The Lord of the Rings'?",
+      "choices": [
+        "John",
+        "Christopher",
+        "Michael",
+        "Peter"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Jane Eyre', a Gothic romance novel?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "Elizabeth Gaskell"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'The Strange Case of Dr Jekyll and Mr Hyde'?",
+      "choices": [
+        "Robert Louis Stevenson",
+        "Bram Stoker",
+        "Arthur Conan Doyle",
+        "Wilkie Collins"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'War and Peace'?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author created the character Robinson Crusoe?",
+      "choices": [
+        "Daniel Defoe",
+        "Jonathan Swift",
+        "Henry Fielding",
+        "Laurence Sterne"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Treasure Island'?",
+      "choices": [
+        "Robert Louis Stevenson",
+        "Daniel Defoe",
+        "Jules Verne",
+        "H. G. Wells"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the hobbit who finds the One Ring in J.R.R. Tolkien's novels?",
+      "choices": [
+        "Frodo Baggins",
+        "Bilbo Baggins",
+        "Sam Gamgee",
+        "Pippin Took"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which novel by Jane Austen features the character Elizabeth Bennet?",
+      "choices": [
+        "Pride and Prejudice",
+        "Sense and Sensibility",
+        "Emma",
+        "Mansfield Park"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'Moby-Dick', the epic novel about a whale hunt?",
+      "choices": [
+        "Herman Melville",
+        "Mark Twain",
+        "Nathaniel Hawthorne",
+        "James Fenimore Cooper"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what decade was 'To Kill a Mockingbird' by Harper Lee first published?",
+      "choices": [
+        "1960s",
+        "1950s",
+        "1970s",
+        "1940s"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the wizard protagonist in J.K. Rowling's series?",
+      "choices": [
+        "Harry Potter",
+        "Albus Dumbledore",
+        "Severus Snape",
+        "Tom Riddle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'The Great Gatsby', set in 1920s America?",
+      "choices": [
+        "F. Scott Fitzgerald",
+        "Ernest Hemingway",
+        "William Faulkner",
+        "Sinclair Lewis"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In 'Frankenstein', who is the scientist that creates the monster?",
+      "choices": [
+        "Victor Frankenstein",
+        "Henry Clerval",
+        "Walton",
+        "Igor"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which novel by Charles Dickens features the character Ebenezer Scrooge?",
+      "choices": [
+        "A Christmas Carol",
+        "Great Expectations",
+        "Oliver Twist",
+        "David Copperfield"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first name of the author known simply as 'Tolstoy' who wrote 'War and Peace'?",
+      "choices": [
+        "Leo",
+        "Ivan",
+        "Mikhail",
+        "Nikolai"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'Alice's Adventures in Wonderland'?",
+      "choices": [
+        "Lewis Carroll",
+        "J.M. Barrie",
+        "Beatrix Potter",
+        "Kenneth Grahame"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who created the detective Hercule Poirot?",
+      "choices": [
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "Margery Allingham",
+        "Ngaio Marsh"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author is famous for writing 'The Catcher in the Rye'?",
+      "choices": [
+        "J.D. Salinger",
+        "Jack Kerouac",
+        "Allen Ginsberg",
+        "William S. Burroughs"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did Jane Austen write her novels?",
+      "choices": [
+        "19th century",
+        "18th century",
+        "20th century",
+        "17th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'Jane Eyre'?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "Elizabeth Gaskell"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Greek author of ancient times wrote 'The Odyssey'?",
+      "choices": [
+        "Homer",
+        "Sophocles",
+        "Euripides",
+        "Aeschylus"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British author wrote 'The Hobbit'?",
+      "choices": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "J.R.R. Martin",
+        "Terry Pratchett"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who authored 'To Kill a Mockingbird'?",
+      "choices": [
+        "Harper Lee",
+        "Flannery O'Connor",
+        "Carson McCullers",
+        "Eudora Welty"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the detective created by Agatha Christie?",
+      "choices": [
+        "Hercule Poirot",
+        "Miss Marple",
+        "Tommy Beresford",
+        "Tuppence Beresford"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author created the character Dracula?",
+      "choices": [
+        "Bram Stoker",
+        "Mary Shelley",
+        "Nathaniel Hawthorne",
+        "Edgar Allan Poe"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the title of the novel by George Orwell about a totalitarian regime?",
+      "choices": [
+        "1984",
+        "Animal Farm",
+        "Brave New World",
+        "Fahrenheit 451"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote the fairy tale collection 'Grimm's Fairy Tales'?",
+      "choices": [
+        "The Brothers Grimm",
+        "Hans Christian Andersen",
+        "Charles Perrault",
+        "Andrew Lang"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author is famous for writing detective novels set in fictional small towns?",
+      "choices": [
+        "Agatha Christie",
+        "Dorothy Sayers",
+        "Margery Allingham",
+        "Edmund Crispin"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who authored 'The Odyssey'?",
+      "choices": [
+        "Homer",
+        "Hesiod",
+        "Sophocles",
+        "Aristophanes"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the pen name used by Samuel Clemens in his most famous works?",
+      "choices": [
+        "Mark Twain",
+        "Bret Harte",
+        "Jack London",
+        "O. Henry"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of 'Moby-Dick'?",
+      "choices": [
+        "Herman Melville",
+        "James Fenimore Cooper",
+        "Washington Irving",
+        "Nathaniel Hawthorne"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote the novel 'Jane Eyre'?",
+      "choices": [
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "Anne Brontë",
+        "George Eliot"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which author wrote 'The Great Gatsby'?",
+      "choices": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "William Faulkner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the author of the 'Harry Potter' book series?",
+      "choices": [
+        "Stephenie Meyer",
+        "Rick Riordan",
+        "J.K. Rowling",
+        "Cassandra Clare"
+      ],
       "correct": 2,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "1813", "verified": true, "notes": "Features Elizabeth Bennet and Mr. Darcy. One of the most beloved English novels." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who created the character Bilbo Baggins?",
-      "choices": ["C.S. Lewis", "J.R.R. Tolkien", "Terry Pratchett", "Neil Gaiman"],
+      "q": "What is the first novel in Jane Austen's bibliography, published in 1811?",
+      "choices": [
+        "Pride and Prejudice",
+        "Sense and Sensibility",
+        "Emma",
+        "Persuasion"
+      ],
       "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "The Hobbit", "verified": true, "notes": "Protagonist of 'The Hobbit' (1937). Frodo's uncle in 'The Lord of the Rings.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Irish writer wrote 'Ulysses,' featuring Leopold Bloom?",
-      "choices": ["Oscar Wilde", "James Joyce", "W.B. Yeats", "Samuel Beckett"],
+      "q": "Which British author wrote 'The Lion, the Witch and the Wardrobe'?",
+      "choices": [
+        "J.R.R. Tolkien",
+        "C.S. Lewis",
+        "Roald Dahl",
+        "Philip Pullman"
+      ],
       "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "James Joyce", "verified": true, "notes": "Published 1922. Set over a single day — June 16, 1904 (Bloomsday)." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which author wrote 'Animal Farm' and '1984'?",
-      "choices": ["Aldous Huxley", "George Orwell", "H.G. Wells", "Kurt Vonnegut"],
+      "q": "Who wrote 'Moby Dick', published in 1851?",
+      "choices": [
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "Mark Twain",
+        "Walt Whitman"
+      ],
       "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Animal Farm", "verified": true, "notes": "Pen name of Eric Arthur Blair. Died 1950 shortly after 1984 was published." }
+      "difficulty": "easy"
     },
     {
-      "q": "Colombian author Gabriel García Márquez wrote 'Love in the Time of...' what?",
-      "choices": ["Cholera", "War", "Drought", "Revolution"],
+      "q": "Which author wrote the 1847 novel 'Jane Eyre'?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "George Eliot"
+      ],
       "correct": 0,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Cholera", "verified": true, "notes": "Published 1985. Also wrote 'One Hundred Years of Solitude.' Nobel laureate 1982." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote the science fiction classic 'Foundation' and developed the Three Laws of Robotics?",
-      "choices": ["Arthur C. Clarke", "Ray Bradbury", "Isaac Asimov", "Philip K. Dick"],
+      "q": "In which year did George Orwell's '1984' first appear in print?",
+      "choices": [
+        "1947",
+        "1948",
+        "1949",
+        "1950"
+      ],
       "correct": 2,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Issac Asimov", "verified": true, "notes": "Russian-American. Published over 500 books. Laws first appeared in 'Runaround' (1942)." }
+      "difficulty": "hard"
     },
     {
-      "q": "Which British children's author wrote 'Charlie and the Chocolate Factory' and 'George's Marvellous Medicine'?",
-      "choices": ["Roald Dahl", "Enid Blyton", "A.A. Milne", "Beatrix Potter"],
+      "q": "What is the real name of the author who wrote under the pseudonym 'George Orwell'?",
+      "choices": [
+        "Eric Arthur Blair",
+        "Edward George Williams",
+        "Robert Edmund Clarke",
+        "Alfred George Morley"
+      ],
       "correct": 0,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Roald Dahl", "verified": true, "notes": "Also wrote 'Matilda,' 'James and the Giant Peach,' 'The BFG,' and adult short stories." }
+      "difficulty": "hard"
     },
     {
-      "q": "Who wrote 'The Adventures of Tom Sawyer' and 'The Adventures of Huckleberry Finn'?",
-      "choices": ["Nathaniel Hawthorne", "Mark Twain", "Washington Irving", "Herman Melville"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Mark Twain", "verified": true, "notes": "Pen name of Samuel Langhorne Clemens. Riverboat term meaning '2 fathoms deep.'" }
-    },
-    {
-      "q": "Who is the author of the 'A Song of Ice and Fire' novels (basis for 'Game of Thrones')?",
-      "choices": ["Brandon Sanderson", "George R. R. Martin", "Terry Goodkind", "Robert Jordan"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "First book published 1996. Seventh book still unfinished as of 2026." }
-    },
-    {
-      "q": "Who created detective Hercule Poirot?",
-      "choices": ["Arthur Conan Doyle", "Agatha Christie", "Dorothy L. Sayers", "Raymond Chandler"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Parker Pyne", "verified": true, "notes": "Belgian detective. First appeared in 'The Mysterious Affair at Styles' (1920)." }
-    },
-    {
-      "q": "Who wrote 'The Great Gatsby'?",
-      "choices": ["Ernest Hemingway", "F. Scott Fitzgerald", "William Faulkner", "John Steinbeck"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Published 1925. Set in Long Island during the Roaring Twenties. Poor reviews initially." }
-    },
-    {
-      "q": "Which Russian author wrote 'Crime and Punishment'?",
-      "choices": ["Leo Tolstoy", "Anton Chekhov", "Fyodor Dostoevsky", "Ivan Turgenev"],
+      "q": "Which novel by Vladimir Nabokov features an unreliable narrator who is a chess enthusiast?",
+      "choices": [
+        "Pale Fire",
+        "Ada or Ardor",
+        "The Defense",
+        "Invitation to a Beheading"
+      ],
       "correct": 2,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Published 1866. Features the student Raskolnikov who murders a pawnbroker." }
+      "difficulty": "hard"
     },
     {
-      "q": "Who wrote 'To the Lighthouse' and 'Mrs. Dalloway'?",
-      "choices": ["Virginia Woolf", "Edith Wharton", "Willa Cather", "Katherine Mansfield"],
-      "correct": 0,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Modernist author. Used stream-of-consciousness technique. Died 1941." }
-    },
-    {
-      "q": "Who wrote 'The Picture of Dorian Gray'?",
-      "choices": ["Oscar Wilde", "Bram Stoker", "Robert Louis Stevenson", "H.G. Wells"],
-      "correct": 0,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Published 1890. Irish writer's only novel. Also wrote 'The Importance of Being Earnest.'" }
-    },
-    {
-      "q": "Who coined the phrase 'Beat Generation' and wrote 'On the Road'?",
-      "choices": ["Allen Ginsberg", "Jack Kerouac", "William S. Burroughs", "Lawrence Ferlinghetti"],
+      "q": "In 'Ulysses' by James Joyce, what is Leopold Bloom's profession?",
+      "choices": [
+        "Printer",
+        "Advertising canvasser",
+        "Insurance broker",
+        "Bank clerk"
+      ],
       "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "Jack Kerouac", "verified": true, "notes": "Published 'On the Road' in 1957. Became a countercultural icon." }
+      "difficulty": "hard"
     },
     {
-      "q": "Which author wrote 'The Old Man and the Sea,' winning both the Pulitzer and Nobel prizes?",
-      "choices": ["John Steinbeck", "Ernest Hemingway", "William Faulkner", "F. Scott Fitzgerald"],
-      "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Won Pulitzer 1953, Nobel 1954. Died by suicide in Idaho, 1961." }
-    },
-    {
-      "q": "Who wrote 'The Handmaid's Tale'?",
-      "choices": ["Margaret Atwood", "Ursula K. Le Guin", "Octavia Butler", "Doris Lessing"],
+      "q": "Which Haruki Murakami novel's title references a Radiohead album?",
+      "choices": [
+        "Norwegian Wood",
+        "Dance Dance Dance",
+        "The Wind-Up Bird Chronicle",
+        "Kafka on the Shore"
+      ],
       "correct": 0,
-      "category": "Famous Authors",
-      "difficulty": "easy",
-      "source": { "original_a": "Leo Tolstoy", "verified": true, "notes": "Canadian author. Published 1985. Sequel 'The Testaments' won the 2019 Booker Prize." }
+      "difficulty": "hard"
     },
     {
-      "q": "How many books are in Douglas Adams's 'Hitchhiker's Guide to the Galaxy' series (famously a 'trilogy')?",
-      "choices": ["3", "5", "7", "1"],
+      "q": "What is the name of the fictional disease central to Thomas Mann's 'The Magic Mountain'?",
+      "choices": [
+        "Consumption",
+        "Tuberculosis",
+        "Spiritual malaise",
+        "Both A and B are correct"
+      ],
       "correct": 1,
-      "category": "Famous Authors",
-      "difficulty": "medium",
-      "source": { "original_a": "5", "verified": true, "notes": "'Trilogy in five parts.' Sixth posthumous book 'And Another Thing...' by Eoin Colfer in 2009." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'The Remains of the Day', which is narrated by an aging butler?",
+      "choices": [
+        "Martin Amis",
+        "Kazuo Ishiguro",
+        "Salman Rushdie",
+        "Ian McEwan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the novels of Henry James, what nationality is often Daisy Miller?",
+      "choices": [
+        "British",
+        "American",
+        "French",
+        "Italian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's pseudonym 'Currer Bell' was revealed after the publication of 'Jane Eyre'?",
+      "choices": [
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "Anne Brontë",
+        "Elizabeth Gaskell"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the setting for most of the narrative in Cormac McCarthy's 'Blood Meridian'?",
+      "choices": [
+        "Post-Civil War South",
+        "The American frontier during the Indian Wars",
+        "1920s Chicago",
+        "Depression-era Oklahoma"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Toni Morrison novel features the character Beloved as a ghost?",
+      "choices": [
+        "Song of Solomon",
+        "Beloved",
+        "Sula",
+        "The Bluest Eye"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Dostoevsky's 'Crime and Punishment', what is Raskolnikov's profession or status at the novel's opening?",
+      "choices": [
+        "University professor",
+        "Former law student living in poverty",
+        "Government clerk",
+        "Shopkeeper"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'If on a winter's night a traveler', a metafictional novel that directly addresses the reader?",
+      "choices": [
+        "Umberto Eco",
+        "Italo Calvino",
+        "Pier Paolo Pasolini",
+        "Giorgio Bassani"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What device does Samuel Beckett use extensively in 'Waiting for Godot' to create dramatic tension?",
+      "choices": [
+        "Flashbacks",
+        "Soliloquies",
+        "Circular repetition and stasis",
+        "Rapid scene changes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Gabriel García Márquez's 'One Hundred Years of Solitude', how many generations of the Buendía family are featured?",
+      "choices": [
+        "Three",
+        "Five",
+        "Seven",
+        "Ten"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author penned 'The Phenomenology of Spirit', a foundational philosophical text that influenced later literature?",
+      "choices": [
+        "Søren Kierkegaard",
+        "Arthur Schopenhauer",
+        "G.W.F. Hegel",
+        "Friedrich Nietzsche"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary narrative perspective in Bret Easton Ellis's 'American Psycho'?",
+      "choices": [
+        "Third-person omniscient",
+        "First-person confessional",
+        "Second-person direct address",
+        "Multiple first-person accounts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In William Faulkner's 'The Sound and the Fury', how many distinct narrative sections comprise the novel?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'Midnight's Children', which weaves historical events with magical realism?",
+      "choices": [
+        "Arundhati Roy",
+        "Salman Rushdie",
+        "Jhumpa Lahiri",
+        "Vikram Seth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Anna Karenina' by Leo Tolstoy, what is Levin's primary philosophical pursuit throughout the novel?",
+      "choices": [
+        "Political reform",
+        "The meaning of life and faith",
+        "Romantic conquest",
+        "Agricultural experimentation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Vladimir Nabokov's novel 'Pale Fire' is structured as a poem accompanied by whose extensive commentary?",
+      "choices": [
+        "The poet's literary executor",
+        "The poet's academic rival",
+        "A delusional editor claiming to be royalty",
+        "The poet's estranged brother"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Salman Rushdie's 'The Satanic Verses' win the Booker Prize?",
+      "choices": [
+        "1987",
+        "1988",
+        "1989",
+        "1990"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Austro-Hungarian author wrote 'The Trial,' a novel that remained unpublished at the time of his death?",
+      "choices": [
+        "Franz Kafka",
+        "Robert Musil",
+        "Stefan Zweig",
+        "Hermann Broch"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Pynchon's debut novel 'V.' was published in which year?",
+      "choices": [
+        "1959",
+        "1961",
+        "1963",
+        "1965"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Gustave Flaubert's 'Madame Bovary,' what is the name of the protagonist's first husband?",
+      "choices": [
+        "Rodolphe",
+        "Charles",
+        "Léon",
+        "Justin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which postmodern author wrote 'If on a winter's night a traveler,' a novel directly addressing the reader as 'you'?",
+      "choices": [
+        "Italo Calvino",
+        "Julio Cortázar",
+        "Jorge Luis Borges",
+        "Clarice Lispector"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did James Joyce publish 'Finnegans Wake'?",
+      "choices": [
+        "1936",
+        "1938",
+        "1939",
+        "1941"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's pseudonym was derived from the name of a place in her husband's family estate?",
+      "choices": [
+        "George Eliot (Mary Ann Evans)",
+        "Currer Bell (Charlotte Brontë)",
+        "Emily Dickinson",
+        "Christina Rossetti"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In W.H. Auden's poem 'Funeral Blues,' which phrase completes: 'Stop all the ___'?",
+      "choices": [
+        "clocks",
+        "bells",
+        "music",
+        "laughter"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian author wrote 'Notes from Underground,' considered a precursor to existentialism?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Nikolai Gogol"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Cormac McCarthy's 'Blood Meridian,' the narrative is primarily set during conflicts in which Mexican state?",
+      "choices": [
+        "Sonora",
+        "Chihuahua",
+        "Coahuila",
+        "Durango"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Samuel Beckett's stage play 'Waiting for Godot' was originally written in which language?",
+      "choices": [
+        "English",
+        "French",
+        "German",
+        "Italian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author famously refused the Nobel Prize in Literature in 1964?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "Albert Camus",
+        "André Gide",
+        "Paul Valéry"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In David Foster Wallace's 'Infinite Jest,' what is the name of the tennis academy?",
+      "choices": [
+        "Enfield Tennis Academy",
+        "Boston Tennis Institute",
+        "Massachusetts Institute of Tennis",
+        "American Tennis Conservatory"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote the essay collection 'A Room of One's Own,' advocating for women's intellectual independence?",
+      "choices": [
+        "Simone de Beauvoir",
+        "Virginia Woolf",
+        "Rebecca West",
+        "Vita Sackville-West"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Haruki Murakami's 'Norwegian Wood,' the protagonist attends university in which Japanese city?",
+      "choices": [
+        "Kyoto",
+        "Osaka",
+        "Tokyo",
+        "Kobe"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which modernist author coined the term 'stream of consciousness' as a literary technique?",
+      "choices": [
+        "William James (psychologist/philosopher)",
+        "James Joyce",
+        "Virginia Woolf",
+        "Dorothy Richardson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Toni Morrison's 'Beloved,' what is the name of the enslaved woman's ghost?",
+      "choices": [
+        "Halle",
+        "Beloved",
+        "Sethe",
+        "Denver"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's final novel was 'The Corrections,' published in 2001?",
+      "choices": [
+        "Don DeLillo",
+        "Jonathan Franzen",
+        "Zadie Smith",
+        "Jennifer Egan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Gabriel García Márquez's 'One Hundred Years of Solitude,' the Buendía family home is located in which fictional Colombian town?",
+      "choices": [
+        "Santa María",
+        "Macondo",
+        "El Dorado",
+        "Aracataca"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Vladimir Nabokov's 'Pale Fire', the novel is structured as a poem accompanied by which type of textual apparatus?",
+      "choices": [
+        "Footnotes and commentary",
+        "Marginal annotations",
+        "Endnotes only",
+        "Index and glossary"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British author wrote 'The Remains of the Day', a novel featuring the butler Stevens?",
+      "choices": [
+        "Graham Greene",
+        "Kazuo Ishiguro",
+        "Ian McEwan",
+        "Anthony Burgess"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the unreliable narrator in Agatha Christie's 'The Murder of Roger Ackroyd'?",
+      "choices": [
+        "James Sheppard",
+        "Ralph Paton",
+        "Inspector Poirot",
+        "Caroline Sheppard"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Willa Cather's novel 'O Pioneers!' is set in which American state?",
+      "choices": [
+        "Kansas",
+        "Nebraska",
+        "Iowa",
+        "South Dakota"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Thomas Pynchon's 'The Crying of Lot 49', Oedipa Maas becomes entangled in the mystery of which fictional postal system?",
+      "choices": [
+        "The Tristero",
+        "The Lysander",
+        "The Pentagram",
+        "The Jacobean"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author won the Booker Prize in 1981 for 'Midnight's Children'?",
+      "choices": [
+        "Salman Rushdie",
+        "Arundhati Roy",
+        "Bapsi Sidhwa",
+        "Kiran Desai"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In William Faulkner's 'As I Lay Dying', the Bundren family undertakes a journey to bury Addie in which town?",
+      "choices": [
+        "Jefferson",
+        "Jackson",
+        "Yoknapatawpha",
+        "Oxford"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary setting of Cormac McCarthy's novel 'Blood Meridian'?",
+      "choices": [
+        "The American Southwest and Mexico",
+        "The Mississippi River Valley",
+        "The Great Plains",
+        "Colonial New England"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Samuel Beckett's play 'Waiting for Godot' was originally written in which language?",
+      "choices": [
+        "French",
+        "German",
+        "Italian",
+        "English"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In George Eliot's 'Middlemarch', which character is a doctor who becomes disillusioned with provincial life?",
+      "choices": [
+        "Will Ladislaw",
+        "Tertius Lydgate",
+        "Peter Featherstone",
+        "Edward Casaubon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the subtitle of Mary Shelley's 'Frankenstein', as given in the original 1818 publication?",
+      "choices": [
+        "The Modern Prometheus",
+        "A Gothic Tale",
+        "The Monster's Lament",
+        "Scenes of Horror"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In David Foster Wallace's 'Infinite Jest', what is the title of the lethally entertaining film that kills viewers?",
+      "choices": [
+        "The Entertainment",
+        "Infinite Jest",
+        "Annular Fusion",
+        "The Lethal Samizdat"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which female author wrote 'The Awakening', a controversial 1899 novel about a woman's self-discovery?",
+      "choices": [
+        "Kate Chopin",
+        "Edith Wharton",
+        "Sarah Orne Jewett",
+        "Charlotte Perkins Gilman"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Henry James's 'The Turn of the Screw', what is the name of the estate where the governess takes her position?",
+      "choices": [
+        "Bly",
+        "Pemberley",
+        "Mansfield Park",
+        "Thornfield"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author created the character of Phileas Fogg in 'Around the World in Eighty Days'?",
+      "choices": [
+        "Jules Verne",
+        "Alexandre Dumas",
+        "Émile Zola",
+        "Guy de Maupassant"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Fyodor Dostoevsky's 'Crime and Punishment', what is Raskolnikov's primary motivation for committing his crime?",
+      "choices": [
+        "His theory of extraordinary individuals",
+        "Poverty and desperation",
+        "Revenge against society",
+        "Insanity and delusion"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Haruki Murakami novel features the protagonist Toru Okada searching for his wife in a surreal landscape?",
+      "choices": [
+        "The Wind-Up Bird Chronicle",
+        "Norwegian Wood",
+        "Kafka on the Shore",
+        "1Q84"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Toni Morrison's 'Beloved', the ghost of the murdered child appears in which form?",
+      "choices": [
+        "A physical incarnation as a young woman",
+        "A disembodied voice",
+        "A shadowy apparition",
+        "An animal spirit"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'House of Leaves', a metafictional novel featuring a house larger on the inside than the outside?",
+      "choices": [
+        "Mark Z. Danielewski",
+        "David Foster Wallace",
+        "Julio Cortázar",
+        "Italo Calvino"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Gustave Flaubert's 'Madame Bovary', what is Emma Bovary's greatest source of disillusionment?",
+      "choices": [
+        "The gap between romantic ideals and provincial reality",
+        "Her husband's infidelity",
+        "Lack of financial security",
+        "Her parents' disapproval"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's debut novel 'White Teeth' was published in 2000 and won the Whitbread Book Award for First Novel?",
+      "choices": [
+        "Chimamanda Ngozi Adichie",
+        "Zadie Smith",
+        "Monica Ali",
+        "Hari Kunzru"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Invisible Cities' by Italo Calvino, Marco Polo describes various cities to which historical figure?",
+      "choices": [
+        "Kublai Khan",
+        "Prester John",
+        "Tamerlane",
+        "Mansa Musa"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "David Foster Wallace's 'Infinite Jest' features a lethal film cartridge contained in what color-labeled container?",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Black",
+        "Purple"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which pseudonymous author created the character Inspector Morse who first appeared in 'Last Bus to Woodstock'?",
+      "choices": [
+        "Colin Dexter",
+        "P.D. James",
+        "Ruth Rendell",
+        "Val McDermid"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Salman Rushdie's 'Midnight's Children' opens with the birth of children at what historic moment in 1947?",
+      "choices": [
+        "Indian independence",
+        "The partition of India",
+        "The founding of Pakistan",
+        "Indian independence and midnight simultaneously"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Toni Morrison's 'Beloved', the ghost Beloved appears as which character's physical manifestation?",
+      "choices": [
+        "Sethe's deceased mother",
+        "Sethe's murdered daughter",
+        "Baby Suggs' lost child",
+        "Paul D's first love"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author of the Neapolitan Quartet chose to remain anonymous for years, publishing under the pseudonym Elena Ferrante?",
+      "choices": [
+        "Jhumpa Lahiri",
+        "Nicola Lagioia",
+        "Domenico Starnone's wife",
+        "An Italian author whose identity remains officially unconfirmed"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Roberto Bolaño's '2666', the Sonora Desert murders are based on real killings in which Mexican city?",
+      "choices": [
+        "Tijuana",
+        "Ciudad Juárez",
+        "Chihuahua",
+        "Culiacán"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which novel by Kazuo Ishiguro is set in an English country house in 1956 and follows an aging butler named Stevens?",
+      "choices": [
+        "Never Let Me Go",
+        "The Remains of the Day",
+        "A Pale View of the Hills",
+        "An Artist of the Floating World"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Thomas Pynchon's 'The Crying of Lot 49', the protagonist stumbles upon evidence of which secret mail system?",
+      "choices": [
+        "The Underground Post",
+        "The Tristero",
+        "The Black Hand",
+        "The Shadow Network"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author wrote 'The Master and Margarita', a novel set in both Soviet Moscow and ancient Jerusalem?",
+      "choices": [
+        "Boris Pasternak",
+        "Mikhail Bulgakov",
+        "Anna Akhmatova",
+        "Yuri Olesha"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Julio Cortázar's 'Hopscotch', readers are encouraged to read chapters in a non-sequential order following what?",
+      "choices": [
+        "A numerical pattern",
+        "A suggested 'table of instructions'",
+        "Random page selection",
+        "Alphabetical arrangement"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's 'The Second Sex' was first published in France in 1949 and became foundational to feminist theory?",
+      "choices": [
+        "Simone Weil",
+        "Simone de Beauvoir",
+        "Marguerite Duras",
+        "Nathalie Sarraute"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Milan Kundera's 'The Unbearable Lightness of Being', what is the name of the unfaithful intellectual protagonist?",
+      "choices": [
+        "Franz",
+        "Tomas",
+        "Sabina",
+        "Simon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author created the character Lisbeth Salander in the Millennium series beginning with 'The Girl with the Dragon Tattoo'?",
+      "choices": [
+        "Henning Mankell",
+        "Stieg Larsson",
+        "Johan Theorin",
+        "Mons Kallentoft"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Jorge Luis Borges' 'The Library of Babel', the library contains hexagonal rooms filled with what?",
+      "choices": [
+        "All possible 410-page books",
+        "Every book ever written",
+        "Infinite permutations of letters and words",
+        "Only books in dead languages"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's debut 'The Savage Detectives' follows two poets and employs multiple narrative perspectives and formats?",
+      "choices": [
+        "Julio Cortázar",
+        "Roberto Bolaño",
+        "Carlos Fuentes",
+        "Mario Vargas Llosa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Haruki Murakami's 'Norwegian Wood', what is the name of the female character who commits suicide early in the novel?",
+      "choices": [
+        "Midori",
+        "Naoko",
+        "Reiko",
+        "Yuki"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Virginia Woolf's 'Mrs Dalloway', what is the name of the shell-shocked war veteran who commits suicide by throwing himself from a window?",
+      "choices": [
+        "Septimus Warren Smith",
+        "Peter Walsh",
+        "Richard Dalloway",
+        "Evans Bradshaw"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author's 1959 debut novel 'The Tin Drum' featured the protagonist Oskar Matzerath deliberately stopping his growth at age three?",
+      "choices": [
+        "Günter Grass",
+        "Heinz Dieter Kittsteiner",
+        "Peter Handke",
+        "Martin Walser"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'One Hundred Years of Solitude', what is the name of the fictional Colombian town where the Buendía family repeatedly faces cyclical tragedy?",
+      "choices": [
+        "Macondo",
+        "Santa María",
+        "Comala",
+        "Aracataca"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Samuel Beckett's 1953 novella 'Watt' was originally written in which language before being translated into English?",
+      "choices": [
+        "French",
+        "German",
+        "Italian",
+        "Dutch"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian author penned the 1869 novel 'War and Peace' under the publishing pseudonym 'L.T.'?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoyevsky",
+        "Ivan Turgenev",
+        "Nikolai Gogol"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Italo Calvino's 'Invisible Cities', Marco Polo describes impossible cities to which historical figure?",
+      "choices": [
+        "Kublai Khan",
+        "Genghis Khan",
+        "Tamerlane",
+        "Ogedei Khan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the profession of the protagonist Adrian Mole in Sue Townsend's debut novel 'The Secret Diary of Adrian Mole, Aged 13¾'?",
+      "choices": [
+        "Student/Diarist",
+        "Factory worker",
+        "Newspaper delivery boy",
+        "Shop assistant"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Muriel Spark's 1961 novel 'The Prime of Miss Jean Brodie' is set primarily in which Scottish city?",
+      "choices": [
+        "Edinburgh",
+        "Glasgow",
+        "Aberdeen",
+        "Dundee"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In David Foster Wallace's 'Infinite Jest', what is the name of the deadly film so entertaining it renders viewers catatonic?",
+      "choices": [
+        "The Entertainment",
+        "Infinite Jest",
+        "The Samizdat",
+        "Cartridge Zero"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Under what pen name did the Brontë sisters initially publish their collaborative poetry collection in 1846?",
+      "choices": [
+        "Bell, Currer, Ellis, and Acton",
+        "The Misses Brontë",
+        "The Yorkshire Poets",
+        "Stone, Curran & Ellis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Haruki Murakami's 1987 novel 'Norwegian Wood' takes its title from which famous song?",
+      "choices": [
+        "The Beatles",
+        "Bob Dylan",
+        "The Rolling Stones",
+        "Pink Floyd"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Salman Rushdie go into hiding following the fatwa issued over 'The Satanic Verses'?",
+      "choices": [
+        "1989",
+        "1988",
+        "1990",
+        "1987"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What dystopian novel by Anthony Burgess features the invented language 'Nadsat' spoken by teenage gang members?",
+      "choices": [
+        "A Clockwork Orange",
+        "1985",
+        "The Wanting Seed",
+        "Tremor of Intent"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Georges Perec's 1969 experimental novel 'La Disparition' was written without using which letter of the alphabet?",
+      "choices": [
+        "E",
+        "A",
+        "O",
+        "I"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Name of the Rose', Umberto Eco's protagonist is a Franciscan friar investigating murders in a monastery. What is his name?",
+      "choices": [
+        "William of Baskerville",
+        "Roland of Saxony",
+        "Thomas of Aquinas",
+        "Francis of Assisi"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which debut novel by Bret Easton Ellis features the investment banker and serial killer Patrick Bateman?",
+      "choices": [
+        "American Psycho",
+        "The Rules of Attraction",
+        "Less Than Zero",
+        "Glamorama"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Julio Cortázar's 1963 novel 'Hopscotch' was originally written in which language?",
+      "choices": [
+        "Spanish",
+        "French",
+        "Portuguese",
+        "Italian"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Marguerite Duras's 'The Lover', the unnamed protagonist begins a sexual affair with an older man from which country?",
+      "choices": [
+        "China",
+        "Japan",
+        "Vietnam",
+        "Thailand"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Kathy Acker's 1978 novel 'Great Expectations' was an experimental rewriting of which canonical Victorian author's work?",
+      "choices": [
+        "Charles Dickens",
+        "William Thackeray",
+        "Anthony Trollope",
+        "George Eliot"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Nobel Prize-winning author wrote the 1998 novel 'The Blind Assassin' featuring the reclusive narrator Iris Chase?",
+      "choices": [
+        "Margaret Atwood",
+        "Alice Munro",
+        "Doris Lessing",
+        "Nadine Gordimer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was Jane Austen's 'Emma' first published?",
+      "choices": [
+        "1815",
+        "1811",
+        "1819",
+        "1813"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the first name of author George Orwell's real identity?",
+      "choices": [
+        "Eric",
+        "Edmund",
+        "Edward",
+        "Ernest"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Gothic novel features the character Catherine Earnshaw?",
+      "choices": [
+        "Jane Eyre",
+        "The Tenant of Wildfell Hall",
+        "Wuthering Heights",
+        "The Mysteries of Udolpho"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade was F. Scott Fitzgerald's 'The Great Gatsby' first published?",
+      "choices": [
+        "1910s",
+        "1920s",
+        "1930s",
+        "1940s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary setting of Charlotte Brontë's 'Jane Eyre'?",
+      "choices": [
+        "A London townhouse",
+        "A Yorkshire moor estate",
+        "A Cornish seaside village",
+        "An Irish castle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British author is known for the 'Discworld' fantasy series?",
+      "choices": [
+        "Neil Gaiman",
+        "Terry Pratchett",
+        "Douglas Adams",
+        "Christopher Nolan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'One Hundred Years of Solitude', which South American country is the primary setting?",
+      "choices": [
+        "Peru",
+        "Venezuela",
+        "Colombia",
+        "Chile"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote 'The Catcher in the Rye'?",
+      "choices": [
+        "Norman Mailer",
+        "J.D. Salinger",
+        "Jack Kerouac",
+        "William Faulkner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Jane Austen novel centers on the character Elizabeth Bennet?",
+      "choices": [
+        "Sense and Sensibility",
+        "Northanger Abbey",
+        "Pride and Prejudice",
+        "Mansfield Park"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the wizard school in J.K. Rowling's series?",
+      "choices": [
+        "Ilvermorny Academy",
+        "Hogwarts School of Witchcraft and Wizardry",
+        "Beauxbatons Academy",
+        "Durmstrang Institute"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'Moby-Dick'?",
+      "choices": [
+        "Nathaniel Hawthorne",
+        "Herman Melville",
+        "James Fenimore Cooper",
+        "Henry David Thoreau"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Virginia Woolf publish 'Mrs. Dalloway'?",
+      "choices": [
+        "1922",
+        "1925",
+        "1928",
+        "1930"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Irish author wrote 'Ulysses'?",
+      "choices": [
+        "Samuel Beckett",
+        "James Joyce",
+        "William Butler Yeats",
+        "Oscar Wilde"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the subtitle of Mary Shelley's 'Frankenstein'?",
+      "choices": [
+        "The Modern Prometheus",
+        "The Modern Alchemist",
+        "The Dark Engineer",
+        "The Lost Creation"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author is famous for the novel 'Wuthering Heights' and published under a male pseudonym?",
+      "choices": [
+        "Emily Dickinson",
+        "Emily Brontë",
+        "Anne Brontë",
+        "Elizabeth Barrett Browning"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the island in 'Robinson Crusoe' where the protagonist is shipwrecked?",
+      "choices": [
+        "It is never explicitly named",
+        "Paradise Isle",
+        "Crusoe's Haven",
+        "Solitude Island"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American author wrote 'The Sound and the Fury'?",
+      "choices": [
+        "William Faulkner",
+        "John Steinbeck",
+        "Flannery O'Connor",
+        "Eudora Welty"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Don Quixote', what is the name of the knight's horse?",
+      "choices": [
+        "Sancho",
+        "Rocinante",
+        "Dulcinea",
+        "Montoya"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote the dystopian novel 'Brave New World', first published in 1932?",
+      "choices": [
+        "George Orwell",
+        "Aldous Huxley",
+        "Ray Bradbury",
+        "Kurt Vonnegut"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the detective created by Agatha Christie who appears in 'Murder on the Orient Express'?",
+      "choices": [
+        "Miss Marple",
+        "Tommy Beresford",
+        "Hercule Poirot",
+        "Inspector Japp"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Charlotte Brontë wrote which novel featuring the character Jane Eyre?",
+      "choices": [
+        "Wuthering Heights",
+        "The Tenant of Wildfell Hall",
+        "Jane Eyre",
+        "Villette"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gabriel García Márquez's masterpiece 'One Hundred Years of Solitude' is set in which fictional town?",
+      "choices": [
+        "Santa María",
+        "Macondo",
+        "El Dorado",
+        "Aracataca"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Salman Rushdie wrote which novel that won the Booker Prize in 1981?",
+      "choices": [
+        "The Satanic Verses",
+        "Midnight's Children",
+        "Shame",
+        "The Moor's Last Sigh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian author wrote 'Crime and Punishment', exploring the psychology of guilt and redemption?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Maya Angelou's autobiographical work 'I Know Why the Caged Bird Sings' was published in which decade?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Margaret Atwood wrote the speculative fiction novel 'The Handmaid's Tale', set in the fictional nation of what?",
+      "choices": [
+        "Panem",
+        "Gilead",
+        "Oceania",
+        "Westeros"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Oscar Wilde wrote which comedy play featuring the character Cecily Cardew?",
+      "choices": [
+        "An Ideal Husband",
+        "The Importance of Being Earnest",
+        "Lady Windermere's Fan",
+        "A Woman of No Importance"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Toni Morrison's novel 'Beloved' is centered around the life of which enslaved character?",
+      "choices": [
+        "Sethe",
+        "Denver",
+        "Amy",
+        "Paul D"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Jane Austen novel begins with the line 'It is a truth universally acknowledged'?",
+      "choices": [
+        "Emma",
+        "Sense and Sensibility",
+        "Pride and Prejudice",
+        "Persuasion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Haruki Murakami wrote 'Norwegian Wood', a novel that takes its title from a song by which band?",
+      "choices": [
+        "The Rolling Stones",
+        "The Beatles",
+        "Pink Floyd",
+        "The Doors"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "George Bernard Shaw won the Nobel Prize in Literature in 1925, but was from which island nation?",
+      "choices": [
+        "England",
+        "Scotland",
+        "Ireland",
+        "Wales"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'The Great Gatsby', first published in 1925 and set in the Jazz Age?",
+      "choices": [
+        "Ernest Hemingway",
+        "Sinclair Lewis",
+        "F. Scott Fitzgerald",
+        "John Dos Passos"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Julio Cortázar's experimental novel 'Hopscotch' can be read in multiple non-linear orders. In which country was he born?",
+      "choices": [
+        "Mexico",
+        "Argentina",
+        "Belgium",
+        "Spain"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Margaret Thatcher appears as a character in which Salman Rushdie novel from 1983?",
+      "choices": [
+        "Midnight's Children",
+        "Shame",
+        "The Satanic Verses",
+        "Grimus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Zadie Smith's debut novel 'White Teeth' is primarily set in which London borough?",
+      "choices": [
+        "Hackney",
+        "Islington",
+        "Willesden",
+        "Camden"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Umberto Eco's 'The Name of the Rose' is set in a medieval monastery and features a detective character called what?",
+      "choices": [
+        "Adso of Melk",
+        "William of Baskerville",
+        "Jorge of Burgos",
+        "Bernard Gui"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chimamanda Ngozi Adichie wrote 'Half of a Yellow Sun', which is set during the civil war in which African nation?",
+      "choices": [
+        "Ghana",
+        "Kenya",
+        "Nigeria",
+        "South Africa"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "David Foster Wallace's 'Infinite Jest' is set in a future North America where years are sponsored by corporations. What sponsor names the year the novel primarily occurs?",
+      "choices": [
+        "Glad Trash Bags",
+        "Depend Adult Undergarments",
+        "Advil",
+        "Zanax"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the hobbit protagonist in J.R.R. Tolkien's 'The Lord of the Rings'?",
+      "choices": [
+        "Bilbo Baggins",
+        "Frodo Baggins",
+        "Meriadoc Brandybuck",
+        "Peregrin Took"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Jane Austen's novel 'Pride and Prejudice' was originally published under which title?",
+      "choices": [
+        "First Impressions",
+        "The Bennets",
+        "A Woman's Worth",
+        "Social Distinctions"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author created the detective character Hercule Poirot?",
+      "choices": [
+        "Dorothy L. Sayers",
+        "Agatha Christie",
+        "P.D. James",
+        "Ruth Rendell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American author wrote 'To Kill a Mockingbird'?",
+      "choices": [
+        "Carson McCullers",
+        "Harper Lee",
+        "Flannery O'Connor",
+        "Eudora Welty"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British author wrote 'The Remains of the Day'?",
+      "choices": [
+        "Ian McEwan",
+        "Kazuo Ishiguro",
+        "Julian Barnes",
+        "Martin Amis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Emily Brontë's 'Wuthering Heights', what is the name of Heathcliff's love interest?",
+      "choices": [
+        "Catherine Earnshaw",
+        "Isabella Linton",
+        "Nelly Dean",
+        "Frances Earnshaw"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'The Great Gatsby' and 'Tender Is the Night'?",
+      "choices": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Dos Passos",
+        "William Faulkner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Salman Rushdie's 'Midnight's Children' is set primarily in which country?",
+      "choices": [
+        "Pakistan",
+        "Bangladesh",
+        "India",
+        "Sri Lanka"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which novel by Charlotte Brontë features the character Rochester?",
+      "choices": [
+        "The Tenant of Wildfell Hall",
+        "Jane Eyre",
+        "Villette",
+        "The Professor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Margaret Atwood's 'The Handmaid's Tale' is primarily set in which fictional nation?",
+      "choices": [
+        "New Gilead",
+        "Gilead",
+        "The Republic of Gilead",
+        "New England"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'Beloved', the novel based on the true story of an enslaved woman?",
+      "choices": [
+        "Alice Walker",
+        "Toni Morrison",
+        "Maya Angelou",
+        "Gloria Naylor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Marcel Proust's 'In Search of Lost Time', what triggers the narrator's vivid childhood memories?",
+      "choices": [
+        "A photograph",
+        "A song",
+        "A madeleine cake dipped in tea",
+        "A letter"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian author wrote the play 'A Doll's House'?",
+      "choices": [
+        "August Strindberg",
+        "Henrik Ibsen",
+        "Bjørnstjerne Bjørnson",
+        "Hans Christian Andersen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Stephen King's 'The Shining' is set in which fictional hotel?",
+      "choices": [
+        "The Ritz Hotel",
+        "The Overlook Hotel",
+        "The Grand Hotel",
+        "The Timberline Lodge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author created the character Atticus Finch?",
+      "choices": [
+        "Truman Capote",
+        "Harper Lee",
+        "Carson McCullers",
+        "Flannery O'Connor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Umberto Eco's 'The Name of the Rose' is a mystery novel set in which location?",
+      "choices": [
+        "A cathedral",
+        "A monastery",
+        "A university",
+        "A papal palace"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'Invisible Man', a landmark novel about African American identity?",
+      "choices": [
+        "Ralph Ellison",
+        "James Baldwin",
+        "Richard Wright",
+        "Chester Himes"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pseudonym did Emily Brontë use when publishing 'Wuthering Heights'?",
+      "choices": [
+        "Currer Bell",
+        "Ellis Bell",
+        "Acton Bell",
+        "Charlotte Brontë"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was Jane Austen's 'Sense and Sensibility' first published?",
+      "choices": [
+        "1811",
+        "1813",
+        "1815",
+        "1817"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian novelist wrote 'Crime and Punishment'?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the protagonist in Oscar Wilde's 'The Picture of Dorian Gray'?",
+      "choices": [
+        "Basil Hallward",
+        "Lord Henry Wotton",
+        "Dorian Gray",
+        "Alan Campbell"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Great Gatsby', what is the name of Gatsby's love interest?",
+      "choices": [
+        "Jordan Baker",
+        "Daisy Buchanan",
+        "Myrtle Wilson",
+        "Catherine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the first novel published by Stephen King?",
+      "choices": [
+        "The Stand",
+        "'Salem's Lot",
+        "Carrie",
+        "The Shining"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British author created the character Sherlock Holmes?",
+      "choices": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "G.K. Chesterton",
+        "Dorothy L. Sayers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Pride and Prejudice', what is the first name of Mr. Darcy?",
+      "choices": [
+        "Edward",
+        "William",
+        "Fitzwilliam",
+        "Charles"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'The Handmaid's Tale'?",
+      "choices": [
+        "Margaret Atwood",
+        "Doris Lessing",
+        "Joyce Carol Oates",
+        "Toni Morrison"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author won the Nobel Prize in Literature in 1954?",
+      "choices": [
+        "Ernest Hemingway",
+        "William Faulkner",
+        "Sinclair Lewis",
+        "Pearl Buck"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the profession of the narrator in George Orwell's '1984'?",
+      "choices": [
+        "Factory worker",
+        "Ministry of Truth employee",
+        "Police officer",
+        "Journalist"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Jane Eyre', where does Jane first meet Rochester?",
+      "choices": [
+        "Thornfield Hall",
+        "A country road near Hay",
+        "London society",
+        "A boarding school"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real first name of George Orwell?",
+      "choices": [
+        "George Martin",
+        "Eric Blair",
+        "Edmund Wilson",
+        "George Gordon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'The Picture of Dorian Gray' and died in exile?",
+      "choices": [
+        "Oscar Wilde",
+        "George Bernard Shaw",
+        "Thomas Hardy",
+        "Henry James"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author created the character Hannibal Lecter in the novel 'The Silence of the Lambs'?",
+      "choices": [
+        "Thomas Harris",
+        "Truman Capote",
+        "Patricia Cornwell",
+        "John Grisham"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the first book in Stephen King's 'The Dark Tower' series?",
+      "choices": [
+        "The Waste Lands",
+        "The Gunslinger",
+        "Wizard and Glass",
+        "The Drawing of the Three"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Gabriel García Márquez publish 'One Hundred Years of Solitude'?",
+      "choices": [
+        "1965",
+        "1967",
+        "1970",
+        "1962"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'The Remains of the Day', featuring the butler Stevens?",
+      "choices": [
+        "Ian McEwan",
+        "Kazuo Ishiguro",
+        "Julian Barnes",
+        "Martin Amis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the fantasy world created by Tolkien in 'The Lord of the Rings'?",
+      "choices": [
+        "Narnia",
+        "Middle-earth",
+        "Westeros",
+        "Discworld"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote 'The Handmaid's Tale', set in the dystopian Republic of Gilead?",
+      "choices": [
+        "Margaret Atwood",
+        "Ursula K. Le Guin",
+        "Doris Lessing",
+        "Octavia Butler"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian author is credited with writing 'Crime and Punishment'?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Toni Morrison's 'Beloved', what is the name of the ghost that haunts the house?",
+      "choices": [
+        "Sethe",
+        "Beloved",
+        "Denver",
+        "Baby Suggs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the profession of the protagonist in Joseph Heller's 'Catch-22'?",
+      "choices": [
+        "Soldier",
+        "Pilot",
+        "Doctor",
+        "Clerk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote the novel 'Wuthering Heights' under the pen name Bell Ellis?",
+      "choices": [
+        "Charlotte Brontë",
+        "Emily Brontë",
+        "Anne Brontë",
+        "George Eliot"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author created the character Sherlock Holmes in a series of detective stories?",
+      "choices": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "G.K. Chesterton",
+        "Dorothy Sayers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote 'The Catcher in the Rye', featuring the character Holden Caulfield?",
+      "choices": [
+        "Jack Kerouac",
+        "J.D. Salinger",
+        "Kurt Vonnegut",
+        "Norman Mailer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Jane Austen's 'Emma', what is the name of the town where most of the story is set?",
+      "choices": [
+        "Bath",
+        "Highbury",
+        "Meryton",
+        "Rosings"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'The Name of the Rose', a medieval mystery novel?",
+      "choices": [
+        "Umberto Eco",
+        "Italo Calvino",
+        "Giorgio Bocca",
+        "Leonardo Sciascia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote 'The Great Gatsby', often considered the great American novel?",
+      "choices": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "William Faulkner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author created the detective character Miss Marple?",
+      "choices": [
+        "Dorothy Sayers",
+        "Agatha Christie",
+        "Margery Allingham",
+        "P.D. James"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Haruki Murakami's 'Norwegian Wood', what was the name of the main character?",
+      "choices": [
+        "Toru Watanabe",
+        "Kiki Mizuki",
+        "Aomame Takashima",
+        "Tengo Kawana"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'Slaughterhouse-Five', a semi-autobiographical novel about World War II?",
+      "choices": [
+        "Norman Mailer",
+        "Joseph Heller",
+        "Kurt Vonnegut",
+        "Tim O'Brien"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote the dystopian novel '1984', published in 1949?",
+      "choices": [
+        "Aldous Huxley",
+        "George Orwell",
+        "Ray Bradbury",
+        "Margaret Atwood"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gabriel García Márquez's masterpiece 'One Hundred Years of Solitude' is set in a fictional town in which country?",
+      "choices": [
+        "Peru",
+        "Colombia",
+        "Mexico",
+        "Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian author wrote 'Crime and Punishment', first published in 1866?",
+      "choices": [
+        "Anton Chekhov",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Mikhail Bulgakov"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

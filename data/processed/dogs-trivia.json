@@ -1,169 +1,3296 @@
 {
   "slug": "dogs-trivia",
   "name": "Dogs",
-  "description": "Breeds, famous pups, and all things canine",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.499Z",
   "questions": [
     {
-      "q": "Which breed is often dubbed the smartest dog, famous for its herding ability?",
-      "choices": ["Golden Retriever", "German Shepherd", "Border Collie", "Poodle"],
-      "correct": 2,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "Border Collie", "verified": true, "notes": "Originally from the Anglo-Scottish border. Chaser the Border Collie learned 1,022 words." }
-    },
-    {
       "q": "What breed is famously known as the Queen of England's (Elizabeth II) favorite?",
-      "choices": ["Welsh Corgi", "Jack Russell Terrier", "English Bulldog", "Cavalier King Charles Spaniel"],
+      "choices": [
+        "Welsh Corgi",
+        "Jack Russell Terrier",
+        "English Bulldog",
+        "Cavalier King Charles Spaniel"
+      ],
       "correct": 0,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "Corgi", "verified": true, "notes": "Elizabeth II owned 30+ Pembroke Welsh Corgis over 70 years." }
+      "difficulty": "easy"
     },
     {
       "q": "Which breed is known as the world's fastest dog, capable of over 40 mph?",
-      "choices": ["Whippet", "Greyhound", "Saluki", "Borzoi"],
+      "choices": [
+        "Whippet",
+        "Greyhound",
+        "Saluki",
+        "Borzoi"
+      ],
       "correct": 1,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "Greyhound", "verified": true, "notes": "Up to 45 mph. Used in racing and as family pets." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Alpine rescue dog is famous for carrying brandy around its neck?",
-      "choices": ["Bernese Mountain Dog", "St. Bernard", "Pyrenean Mountain Dog", "Tibetan Mastiff"],
+      "choices": [
+        "Bernese Mountain Dog",
+        "St. Bernard",
+        "Pyrenean Mountain Dog",
+        "Tibetan Mastiff"
+      ],
       "correct": 1,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "St Bernard", "verified": true, "notes": "Bred by Swiss monks for Alpine rescue. The brandy cask is a myth but iconic." }
-    },
-    {
-      "q": "What is another name for a German Shepherd?",
-      "choices": ["Alsatian", "Bavarian Hound", "Rottweiler", "Great Dane"],
-      "correct": 0,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "German Shepherd", "verified": true, "notes": "Called 'Alsatian' in the UK after WWI to avoid anti-German sentiment." }
-    },
-    {
-      "q": "The Borzoi is a sighthound originally bred in which country for hunting wolves?",
-      "choices": ["Germany", "Poland", "Russia", "Hungary"],
-      "correct": 2,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "Borzoi", "verified": true, "notes": "Name means 'swift' in Russian. Favored by the Russian aristocracy." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the smallest breed of dog in the world, by AKC standards?",
-      "choices": ["Yorkshire Terrier", "Chihuahua", "Pomeranian", "Maltese"],
+      "choices": [
+        "Yorkshire Terrier",
+        "Chihuahua",
+        "Pomeranian",
+        "Maltese"
+      ],
       "correct": 1,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "Corgi", "verified": true, "notes": "Named after the Mexican state of Chihuahua. Weigh as little as 2 lbs." }
-    },
-    {
-      "q": "Which dog breed's name comes from the French word for 'butterfly,' referring to their ear shape?",
-      "choices": ["Papillon", "Bichon Frise", "Beagle", "French Bulldog"],
-      "correct": 0,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "Papillon", "verified": true, "notes": "'Papillon' = butterfly in French. Referring to the butterfly-winged ears." }
-    },
-    {
-      "q": "Which breed's tall, muscular profile earned it the nickname 'Apollo of Dogs'?",
-      "choices": ["Rottweiler", "Great Dane", "Doberman", "Mastiff"],
-      "correct": 1,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "German Pinscher", "verified": true, "notes": "Can reach 32+ inches at the shoulder. Despite the name, Great Danes originate from Germany." }
-    },
-    {
-      "q": "Which of these breeds has Asian origins and a curled tail?",
-      "choices": ["Akita", "Shiba Inu", "Chow Chow", "All of the above"],
-      "correct": 3,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "All of the above", "verified": true, "notes": "audit-corrected 2026-05-09: reworded stem (these aren't strictly named after a country). Akita and Shiba Inu are Japanese; Chow Chow is Chinese; all have curled tails." }
-    },
-    {
-      "q": "What does 'Rottweiler' take its name from?",
-      "choices": ["A German town", "A type of cheese", "A French king", "A hunting technique"],
-      "correct": 0,
-      "category": "Dogs",
-      "difficulty": "hard",
-      "source": { "original_a": "German Pinscher", "verified": true, "notes": "From Rottweil, Germany. Originally bred as cattle herders and butcher's dogs." }
+      "difficulty": "easy"
     },
     {
       "q": "What is a dog with no specific breed (mixed heritage) commonly called?",
-      "choices": ["Mutt or Mongrel", "Designer dog", "Pedigree", "Crossbreed"],
+      "choices": [
+        "Mutt or Mongrel",
+        "Designer dog",
+        "Pedigree",
+        "Crossbreed"
+      ],
       "correct": 0,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "Mongrel", "verified": true, "notes": "'Designer dog' specifically refers to intentional crosses like Labradoodles." }
-    },
-    {
-      "q": "Which breed is commonly associated with guarding Tibetan monasteries?",
-      "choices": ["Tibetan Mastiff", "Chow Chow", "Shar Pei", "Akita"],
-      "correct": 0,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "Spain", "verified": true, "notes": "Ancient guard dog breed. Can weigh over 150 lbs." }
+      "difficulty": "easy"
     },
     {
       "q": "Which short-legged breed resembles a hot dog and is nicknamed 'wiener dog'?",
-      "choices": ["Basset Hound", "Corgi", "Dachshund", "Beagle"],
+      "choices": [
+        "Basset Hound",
+        "Corgi",
+        "Dachshund",
+        "Beagle"
+      ],
       "correct": 2,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "Corgi", "verified": true, "notes": "'Dachshund' = 'badger dog' in German. Bred to hunt badgers from their dens." }
-    },
-    {
-      "q": "The Siberian Husky was originally bred by which indigenous people?",
-      "choices": ["Inuit", "Yupik", "Chukchi", "Sami"],
-      "correct": 2,
-      "category": "Dogs",
-      "difficulty": "hard",
-      "source": { "original_a": "Borzoi", "verified": true, "notes": "Native Siberian people who used the dogs for sled pulling in extreme cold." }
-    },
-    {
-      "q": "Which breed has skin with deep wrinkles and a 'hippopotamus' appearance?",
-      "choices": ["Bulldog", "Shar Pei", "Pug", "Neapolitan Mastiff"],
-      "correct": 1,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "German Pinscher", "verified": true, "notes": "Shar Pei means 'sand skin' in Chinese, referring to the rough coat." }
-    },
-    {
-      "q": "What is the most popular dog breed in the United States (AKC registrations)?",
-      "choices": ["Labrador Retriever", "French Bulldog", "Golden Retriever", "Poodle"],
-      "correct": 1,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "Corgi", "verified": true, "notes": "French Bulldog overtook Labrador in 2022 after 31 years of Lab dominance." }
+      "difficulty": "easy"
     },
     {
       "q": "Which dog breed is known for its distinctive spotted coat?",
-      "choices": ["Dalmatian", "English Pointer", "Leopard Dog", "Appaloosa"],
+      "choices": [
+        "Dalmatian",
+        "English Pointer",
+        "Leopard Dog",
+        "Appaloosa"
+      ],
       "correct": 0,
-      "category": "Dogs",
-      "difficulty": "easy",
-      "source": { "original_a": "Corgi", "verified": true, "notes": "Born pure white; spots develop over 3-4 weeks. Historic coaching dog." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most commonly kept pet dog breed worldwide?",
+      "choices": [
+        "Labrador Retriever",
+        "German Shepherd",
+        "Golden Retriever",
+        "Bulldog"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is characterized by its distinctive curly or wavy coat and was originally bred as a water retriever?",
+      "choices": [
+        "Poodle",
+        "Doodle",
+        "Spaniel",
+        "Setter"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest dog breed officially recognized by major kennel clubs?",
+      "choices": [
+        "Chihuahua",
+        "Pomeranian",
+        "Toy Poodle",
+        "Maltese"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dogs are descendants of which wild animal?",
+      "choices": [
+        "Wolf",
+        "Coyote",
+        "Fox",
+        "Jackal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many teeth does an adult dog typically have?",
+      "choices": [
+        "42",
+        "44",
+        "40",
+        "38"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is known for having a distinctive black and white coat pattern and was originally bred in Switzerland?",
+      "choices": [
+        "Saint Bernard",
+        "Bernese Mountain Dog",
+        "Great Dane",
+        "Dalmatian"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed originated in Scotland and is known for its long, low body and short legs?",
+      "choices": [
+        "Basset Hound",
+        "Dachshund",
+        "Scottish Terrier",
+        "Corgi"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary purpose for which German Shepherds were originally bred?",
+      "choices": [
+        "Herding sheep",
+        "Hunting large game",
+        "Retrieving waterfowl",
+        "Guarding property"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is famous for its wrinkled face and compact, muscular build?",
+      "choices": [
+        "Pug",
+        "French Bulldog",
+        "English Bulldog",
+        "Boston Terrier"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dogs see the world primarily in which color range?",
+      "choices": [
+        "Black and white only",
+        "Blue and yellow",
+        "Red and green",
+        "Full color like humans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is characterized by its distinctive orange and white coat and was originally bred in Japan?",
+      "choices": [
+        "Akita",
+        "Shiba Inu",
+        "Shar Pei",
+        "Chin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical lifespan of a healthy domestic dog?",
+      "choices": [
+        "5-8 years",
+        "10-13 years",
+        "15-18 years",
+        "20+ years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large breed is known for its thick double coat and was originally bred to pull sleds in cold climates?",
+      "choices": [
+        "Siberian Husky",
+        "Alaskan Malamute",
+        "Saint Bernard",
+        "Great Pyrenees"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is famous for its long, silky coat and originates from the United Kingdom?",
+      "choices": [
+        "Afghan Hound",
+        "Yorkshire Terrier",
+        "Maltese",
+        "Shih Tzu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dogs have approximately how many times better sense of smell than humans?",
+      "choices": [
+        "10 times",
+        "100 times",
+        "1,000 times",
+        "10,000 times"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is known for its distinctive spotted coat pattern and was featured in the Disney film '101 Dalmatians'?",
+      "choices": [
+        "Dalmatian",
+        "Pointer",
+        "Setter",
+        "Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is famous for its reddish-brown coat and exceptional hunting abilities?",
+      "choices": [
+        "Irish Setter",
+        "English Pointer",
+        "Vizsla",
+        "Weimaraner"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is known for its distinctive beard and originating from Germany?",
+      "choices": [
+        "Schnauzer",
+        "Poodle",
+        "Terrier",
+        "Dachshund"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Dogs domesticated by humans occurred approximately how many years ago?",
+      "choices": [
+        "5,000 years ago",
+        "10,000 years ago",
+        "15,000+ years ago",
+        "2,000 years ago"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is characterized by its long body, short legs, and hunting heritage with dachshunds originally bred in which country?",
+      "choices": [
+        "France",
+        "Germany",
+        "Austria",
+        "Belgium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical gestation period for a pregnant dog?",
+      "choices": [
+        "About 9 weeks",
+        "About 6 weeks",
+        "About 12 weeks",
+        "About 4 weeks"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is known for its distinctive long, flowing white coat and was famously used in Dulux paint advertisements?",
+      "choices": [
+        "Old English Sheepdog",
+        "Afghan Hound",
+        "Komondor",
+        "Poodle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Scooby-Doo's small, hyperactive nephew who often says 'Puppy Power'?",
+      "choices": [
+        "Scrappy-Doo",
+        "Scooby-Dum",
+        "Daphne's Dog",
+        "Samson"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Boston Terrier is often called the 'American Gentleman' due to its tuxedo-like markings. Which country does this breed originate from?",
+      "choices": [
+        "United States",
+        "England",
+        "France",
+        "Germany"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed of dog was famously portrayed as the devil's hound in the horror film 'The Omen'?",
+      "choices": [
+        "Rottweiler",
+        "Doberman Pinscher",
+        "German Shepherd",
+        "Pit Bull Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy dog breed originates from the Himalayan mountains and is known for its small size and flat face?",
+      "choices": [
+        "Tibetan Spaniel",
+        "Shih Tzu",
+        "Pug",
+        "Lhasa Apso"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is another common name for the Australian Cattle Dog, referring to the bluish-grey color of its coat?",
+      "choices": [
+        "Blue Heeler",
+        "Red Setter",
+        "Blue Merle",
+        "Grey Hound"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Bedlington Terrier is named after a town in which English county?",
+      "choices": [
+        "Northumberland",
+        "Yorkshire",
+        "Lancashire",
+        "Durham"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large breed of dog is Alaska's official state dog?",
+      "choices": [
+        "Alaskan Malamute",
+        "Alaskan Husky",
+        "Siberian Husky",
+        "Saint Bernard"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed of dog is characterized by its small size, flat face, and Chinese imperial heritage?",
+      "choices": [
+        "Pekingese",
+        "Shih Tzu",
+        "Pug",
+        "Lhasa Apso"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Manchester Terrier shares its name with which major city in northwest England?",
+      "choices": [
+        "Manchester",
+        "Liverpool",
+        "Leeds",
+        "Sheffield"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is often called a 'Gentle Giant' due to its large size and calm temperament?",
+      "choices": [
+        "Mastiff",
+        "Great Dane",
+        "Saint Bernard",
+        "Newfoundland"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the tough bulldog character who frequently battled with Jerry the mouse in the classic cartoon 'Tom & Jerry'?",
+      "choices": [
+        "Spike",
+        "Bruno",
+        "Butch",
+        "Diesel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Bichon Frise is known for being small, white, and fluffy. Which region does this breed originate from?",
+      "choices": [
+        "France and Spain",
+        "Germany",
+        "Italy",
+        "Belgium"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed comes in both English and Welsh varieties and is commonly used as a hunting dog?",
+      "choices": [
+        "Springer Spaniel",
+        "Cocker Spaniel",
+        "Cavalier King Charles Spaniel",
+        "Water Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is known for its distinctive long, low body, short legs, and was originally bred to hunt badgers?",
+      "choices": [
+        "Dachshund",
+        "Basset Hound",
+        "Corgi",
+        "Beagle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Scottish Terrier is a small, sturdy breed that originates from which region of the United Kingdom?",
+      "choices": [
+        "Scotland",
+        "Wales",
+        "England",
+        "Northern Ireland"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is known for its distinctive spotted coat pattern and was originally bred as a Dalmatian?",
+      "choices": [
+        "Dalmatian",
+        "Pointer",
+        "Beagle",
+        "Brittany Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical lifespan of most small dog breeds?",
+      "choices": [
+        "12 to 18 years",
+        "8 to 10 years",
+        "6 to 8 years",
+        "20 to 25 years"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed shares its name with a popular trendy style of pants and is known for its compact, muscular build?",
+      "choices": [
+        "Boxer",
+        "Terrier",
+        "Retriever",
+        "Setter"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is famous for its distinctive spotted coat and appeared in the Disney animated film '101 Dalmatians'?",
+      "choices": [
+        "Dalmatian",
+        "Pointer",
+        "Setter",
+        "Beagle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary country of origin for the Shiba Inu breed?",
+      "choices": [
+        "China",
+        "Japan",
+        "Korea",
+        "Thailand"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A Labrador Retriever is commonly available in which three standard colors?",
+      "choices": [
+        "Black, brown, and yellow",
+        "Black, white, and brown",
+        "Yellow, cream, and black",
+        "Brown, tan, and black"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which small dog breed originated in Mexico and is known for its tiny size?",
+      "choices": [
+        "Pomeranian",
+        "Chihuahua",
+        "Toy Poodle",
+        "Shih Tzu"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is commonly used as a guide dog for people with visual impairments?",
+      "choices": [
+        "Golden Retriever",
+        "Chihuahua",
+        "Bulldog",
+        "Pug"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Corgi breed originates from which country?",
+      "choices": [
+        "Scotland",
+        "Wales",
+        "Ireland",
+        "England"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is known for its long, flowing coat and is often associated with luxury and show competitions?",
+      "choices": [
+        "Afghan Hound",
+        "Poodle",
+        "German Shepherd",
+        "Labrador"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical lifespan of a small dog breed like a Chihuahua or Toy Poodle?",
+      "choices": [
+        "5-8 years",
+        "10-18 years",
+        "20-25 years",
+        "3-5 years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large breed dog is known for its wrinkled face and is originally from England?",
+      "choices": [
+        "Boxer",
+        "Bulldog",
+        "Shar Pei",
+        "Pug"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The German Shepherd breed is commonly employed in which profession?",
+      "choices": [
+        "Racing",
+        "Herding and police work",
+        "Hunting truffles",
+        "Water rescue only"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is characterized by its distinctive curly or wavy coat and high intelligence?",
+      "choices": [
+        "Poodle",
+        "Husky",
+        "Greyhound",
+        "Dachshund"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the breed that is a cross between a Golden Retriever and a Labrador Retriever?",
+      "choices": [
+        "Goldador",
+        "Labgold",
+        "Golden Lab",
+        "Retriever Mix"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed was originally developed to herd sheep in the border region between Scotland and England?",
+      "choices": [
+        "Shetland Sheepdog",
+        "Border Collie",
+        "Rough Collie",
+        "Bearded Collie"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Pug breed originates from which Asian country?",
+      "choices": [
+        "Japan",
+        "Thailand",
+        "China",
+        "Korea"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is known for its strong prey drive and was originally bred for fox hunting?",
+      "choices": [
+        "Jack Russell Terrier",
+        "Bulldog",
+        "Pekingese",
+        "Maltese"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What feature do dogs use to cool themselves down on hot days?",
+      "choices": [
+        "Sweating through their entire body",
+        "Sweating through their paw pads",
+        "Panting",
+        "Hibernating"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is famous for its long, low body and short legs, and was originally bred to hunt badgers?",
+      "choices": [
+        "Basset Hound",
+        "Dachshund",
+        "Corgi",
+        "Beagle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Husky breed is originally from which Arctic region?",
+      "choices": [
+        "Greenland",
+        "Northern Canada",
+        "Siberia",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which toy breed is known for its long, flowing white coat that requires frequent grooming?",
+      "choices": [
+        "Maltese",
+        "Bichon Frise",
+        "Poodle",
+        "Lhasa Apso"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the typical number of puppies in a dog's litter?",
+      "choices": [
+        "1-2 puppies",
+        "3-6 puppies",
+        "15-20 puppies",
+        "50+ puppies"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is traditionally used as a guide dog for people with visual impairments?",
+      "choices": [
+        "Labrador Retriever",
+        "Golden Retriever",
+        "German Shepherd",
+        "Beagle"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Samoyed dog breed was originally developed to herd which animals in Arctic regions?",
+      "choices": [
+        "Sheep",
+        "Reindeer",
+        "Cattle",
+        "Horses"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is famous for its wrinkled face and blue-black tongue?",
+      "choices": [
+        "Pug",
+        "Shar Pei",
+        "Bulldog",
+        "Boxer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the playful name for a cross between a Shih Tzu and a Poodle?",
+      "choices": [
+        "Shoodle",
+        "Poo-Tzu",
+        "Shih-Poo",
+        "Poochon"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which cartoon dog is known for his catchphrase 'Scooby-Dooby-Doo'?",
+      "choices": [
+        "Droopy Dog",
+        "Scooby-Doo",
+        "Huckleberry Hound",
+        "Astro"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The St. Bernard breed is famous for rescuing people in which mountain range?",
+      "choices": [
+        "Rocky Mountains",
+        "Appalachian Mountains",
+        "Alps",
+        "Himalayas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed is often called the 'Gentle Giant' despite its large size?",
+      "choices": [
+        "Great Dane",
+        "Mastiff",
+        "Irish Wolfhound",
+        "Newfoundland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is famously featured in Dulux paint advertisements with its long, flowing coat?",
+      "choices": [
+        "Sheepdog",
+        "Old English Sheepdog",
+        "Komondor",
+        "Poodle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is known for its exceptional sense of smell and is commonly used in search and rescue?",
+      "choices": [
+        "Bloodhound",
+        "Beagle",
+        "German Shepherd",
+        "Basset Hound"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Boston Terrier is affectionately nicknamed 'The American ___'?",
+      "choices": [
+        "Gentleman",
+        "Buddy",
+        "Sweetheart",
+        "Fighter"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed originates from Hungary and is known for its speed and grace?",
+      "choices": [
+        "Vizsla",
+        "Magyar Agár",
+        "Kuvasz",
+        "Puli"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What breed is commonly used in laboratory settings for medical research and testing?",
+      "choices": [
+        "Beagle",
+        "Cocker Spaniel",
+        "Dachshund",
+        "Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which small breed is nicknamed the 'Monkey Dog' due to its facial expression?",
+      "choices": [
+        "Pug",
+        "Affenpinscher",
+        "Brussels Griffon",
+        "Pekingese"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Greyhound is primarily known for its ability to run at high speeds in which sporting event?",
+      "choices": [
+        "Agility competitions",
+        "Dog racing",
+        "Herding trials",
+        "Tracking events"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed hails from the border region between France and Spain in the Pyrenees mountains?",
+      "choices": [
+        "Basque Hound",
+        "Pyrenean Mountain Dog",
+        "Catalan Sheepdog",
+        "Beardie"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What cross breed results from mixing a Shih Tzu with a Yorkshire Terrier?",
+      "choices": [
+        "Shorkie",
+        "Shih-York",
+        "Terrier-Tzu",
+        "Yorkshi"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is characterized by a powerful build and was originally bred in Germany as a working dog?",
+      "choices": [
+        "Rottweiler",
+        "Doberman Pinscher",
+        "German Shepherd",
+        "Boxer"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Cavalier King Charles Spaniel is named after which historical English king?",
+      "choices": [
+        "King Charles I",
+        "King Charles II",
+        "King Edward VIII",
+        "King George III"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which breed features a silky coat and is an Australian relative of the Yorkshire Terrier?",
+      "choices": [
+        "Australian Terrier",
+        "Silky Terrier",
+        "Maltese Terrier",
+        "Toy Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The English Bulldog is famously associated with advertisements for which brand?",
+      "choices": [
+        "Corona Beer",
+        "Churchill Insurance",
+        "Guinness",
+        "Budweiser"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the dog breed that originates from Wales and is famously associated with the British royal family?",
+      "choices": [
+        "Corgi",
+        "Welsh Terrier",
+        "Pembroke Spaniel",
+        "Welsh Setter"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed is known for its distinctive spotted coat pattern and was originally bred as a Dalmatian puppy?",
+      "choices": [
+        "Pointer",
+        "Dalmatian",
+        "Brittany Spaniel",
+        "English Setter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are Dalmatian puppies typically born before their spots appear?",
+      "choices": [
+        "Black",
+        "White",
+        "Gray",
+        "Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large German dog breed is famous for being gentle, calm, and known as a gentle giant?",
+      "choices": [
+        "German Shepherd",
+        "Great Dane",
+        "Boxer",
+        "Doberman Pinscher"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous dog show held annually in the United Kingdom?",
+      "choices": [
+        "Westminster Dog Show",
+        "Crufts",
+        "Kennel Club Masters",
+        "Royal Dog Trials"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed shares its name with a Canadian province known for its rugged coastline?",
+      "choices": [
+        "Labrador Retriever",
+        "Newfoundland",
+        "Nova Scotia Duck Tolling Retriever",
+        "Canadian Eskimo Dog"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Tom and Jerry's famous bulldog character known for his tough appearance?",
+      "choices": [
+        "Spike",
+        "Bruno",
+        "Crusher",
+        "Rocco"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which small dog breed has a name that means 'butterfly' in French?",
+      "choices": [
+        "Papillon",
+        "Pomeranian",
+        "Poodle",
+        "Pug"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the lovable dog character from the movie Turner & Hooch, played alongside Tom Hanks?",
+      "choices": [
+        "Max",
+        "Hooch",
+        "Buddy",
+        "Duke"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Japanese dog breed is known for its large size, strength, and dignified appearance?",
+      "choices": [
+        "Shiba Inu",
+        "Akita",
+        "Japanese Chin",
+        "Kishu Ken"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Scooby-Doo's energetic young nephew character?",
+      "choices": [
+        "Scrappy-Doo",
+        "Puppy-Doo",
+        "Scooby Jr.",
+        "Dooby"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dog breed was originally bred in Russia and is known for its elegant, slender build and long narrow head?",
+      "choices": [
+        "Greyhound",
+        "Afghan Hound",
+        "Borzoi",
+        "Whippet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous TV dog character that lived on Ramsay Street?",
+      "choices": [
+        "Bouncer",
+        "Basil",
+        "Max",
+        "Buddy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does 'Rottweiler' take its name from?",
+      "choices": [
+        "A German town",
+        "A type of cheese",
+        "A French king",
+        "A hunting technique"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Siberian Husky was originally bred by which indigenous people?",
+      "choices": [
+        "Inuit",
+        "Yupik",
+        "Chukchi",
+        "Sami"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
     },
     {
       "q": "The Poodle, despite its association with France, was originally bred in which country?",
-      "choices": ["France", "Germany", "Belgium", "Netherlands"],
+      "choices": [
+        "France",
+        "Germany",
+        "Belgium",
+        "Netherlands"
+      ],
       "correct": 1,
-      "category": "Dogs",
-      "difficulty": "hard",
-      "source": { "original_a": "German Pinscher", "verified": true, "notes": "Germanic origins as a water retriever. 'Pudel' comes from German 'puddeln' (to splash)." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed was developed by Clint Walsh in the 1980s by crossing Labrador Retrievers with Poodles to create a hypoallergenic service dog?",
+      "choices": [
+        "Goldendoodle",
+        "Labradoodle",
+        "Cockapoo",
+        "Bernedoodle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Basenji, originating from Central Africa, is notable for which distinctive vocalization characteristic?",
+      "choices": [
+        "It barks louder than most breeds",
+        "It produces a yodel-like sound called a 'baroo'",
+        "It communicates primarily through whining",
+        "It is completely silent and cannot vocalize"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which extinct British breed was primarily used for hunting otters and retrieving waterfowl during the 18th and 19th centuries?",
+      "choices": [
+        "English Water Spaniel",
+        "Norfolk Spaniel",
+        "Sussex Spaniel",
+        "Tweed Water Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Saluki is often credited as one of the oldest domesticated dog breeds, with evidence of its existence dating back approximately how many years?",
+      "choices": [
+        "2,000 years",
+        "5,000 years",
+        "7,000 years",
+        "10,000 years"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed standard specifies that the Chow Chow must have a completely black or blue-black tongue, a trait shared with which other mammal?",
+      "choices": [
+        "Bears",
+        "Giraffes",
+        "Hippopotamuses",
+        "Certain big cat species"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rhodesian Ridgeback was originally bred in Southern Africa to hunt which large predator?",
+      "choices": [
+        "African Elephants",
+        "Hippopotamuses",
+        "Lions",
+        "Cape Buffalo"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed was developed in Japan specifically to serve as a national monument and symbol, with breeding standards established in 1934?",
+      "choices": [
+        "Akita Inu",
+        "Shiba Inu",
+        "Tosa Inu",
+        "Kai Ken"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Telomian breed from Malaysia is notable for possessing an unusual anatomical feature that allows it to climb trees. What is this feature?",
+      "choices": [
+        "Retractable claws on its paws",
+        "Opposable dewclaws on its front legs",
+        "Flexible spine similar to a cat",
+        "Adhesive paw pads"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the American Kennel Club officially recognize the Goldendoodle as a distinct breed?",
+      "choices": [
+        "The AKC has not recognized the Goldendoodle",
+        "2008",
+        "2015",
+        "2020"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Xoloitzcuintli, an ancient Mesoamerican breed, was believed by the Aztecs to serve which spiritual purpose?",
+      "choices": [
+        "To guide souls to the afterlife",
+        "To protect crops from evil spirits",
+        "To bring good fortune in hunting",
+        "To cure various illnesses through touch"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed was developed by crossing a Greyhound with a Schnauzer in 1950s Germany, resulting in a lean sighthound with distinctive facial hair?",
+      "choices": [
+        "Cesky Terrier",
+        "Miniature Schnauzer",
+        "Schnauzer-Greyhound hybrid",
+        "No such recognized breed exists"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Karelian Bear Dog, originating from Finland, was historically trained to hunt and hold at bay which apex predator?",
+      "choices": [
+        "Wolves",
+        "Moose",
+        "Brown bears",
+        "Wolverines"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian breed was developed by crossing native Spitz dogs with English Pointers to create a versatile hunting dog?",
+      "choices": [
+        "Norwegian Elkhound",
+        "Swedish Vallhund",
+        "Finnish Spitz",
+        "Pointer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kintamani dog breed is indigenous to which Indonesian island?",
+      "choices": [
+        "Java",
+        "Sumatra",
+        "Bali",
+        "Lombok"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed's name derives from the Flemish word meaning 'boat dog,' as it was used by fishermen along the Belgian coast?",
+      "choices": [
+        "Schipperke",
+        "Springer Spaniel",
+        "Portuguese Water Dog",
+        "Frisian Water Dog"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Anatolian Shepherd Dog was bred in Turkey to independently protect livestock from predators over vast distances. Which characteristic allowed this independence?",
+      "choices": [
+        "Superior sense of smell",
+        "Ability to make autonomous decisions without constant handler guidance",
+        "Extreme speed compared to other breeds",
+        "Natural immunity to toxins"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chinese dog breed, designated as a National Living Treasure, was almost driven to extinction during the Cultural Revolution?",
+      "choices": [
+        "Pekingese",
+        "Shar Pei",
+        "Chow Chow",
+        "Shih Tzu"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Lagotto Romagnolo, an Italian water retriever breed, has been repurposed in modern times primarily to hunt for which underground delicacy?",
+      "choices": [
+        "Mushrooms",
+        "Truffles",
+        "Root vegetables",
+        "Archaeological artifacts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed standard specifies that a dog must weigh between 45-50 pounds and stand 20-23 inches tall, with origins in early 20th century Britain as a ratter?",
+      "choices": [
+        "Manchester Terrier",
+        "Bedlington Terrier",
+        "Kerry Blue Terrier",
+        "Wheaten Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pharaoh Hound, despite its ancient Egyptian name, was actually developed as a breed standard in which Mediterranean nation during the 20th century?",
+      "choices": [
+        "Greece",
+        "Malta",
+        "Cyprus",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed was originally developed in Germany to detect mines and explosives during World War II?",
+      "choices": [
+        "German Shepherd",
+        "Doberman Pinscher",
+        "Giant Schnauzer",
+        "Boxer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Basenji breed, native to Central Africa, is famously known for which unusual vocal characteristic?",
+      "choices": [
+        "It produces a yodel-like sound instead of barking",
+        "It has an extremely high-pitched bark only humans can hear",
+        "It communicates exclusively through growling",
+        "It is completely mute and cannot vocalize"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary purpose for which the Spinone Italiano breed was originally developed?",
+      "choices": [
+        "Retrieving game in marshes and wetlands",
+        "Herding sheep in mountainous terrain",
+        "Hunting boar in dense forests",
+        "Guarding livestock from predators"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Akita breed originates from which Japanese region?",
+      "choices": [
+        "Hokkaido",
+        "Akita Prefecture",
+        "Kyoto",
+        "Okinawa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which sighthound breed was historically used by Bedouin tribes to hunt gazelles in the Arabian Desert?",
+      "choices": [
+        "Saluki",
+        "Afghan Hound",
+        "Sloughi",
+        "Whippet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Lagotto Romagnolo breed is particularly skilled at locating which valuable underground commodity?",
+      "choices": [
+        "Truffles",
+        "Mushrooms",
+        "Fossils",
+        "Gemstones"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country is the native origin of the Komondor breed, known for its distinctive corded coat?",
+      "choices": [
+        "Romania",
+        "Hungary",
+        "Poland",
+        "Serbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Caucasian Shepherd Dog was originally bred to protect livestock from which apex predators?",
+      "choices": [
+        "Wolves and bears",
+        "Leopards and hyenas",
+        "Jaguars and pumas",
+        "Lions and tigers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate bite force pressure, measured in PSI, of a German Shepherd?",
+      "choices": [
+        "238 PSI",
+        "328 PSI",
+        "428 PSI",
+        "528 PSI"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kintamani breed is endemic to which Indonesian island?",
+      "choices": [
+        "Sumatra",
+        "Bali",
+        "Java",
+        "Sulawesi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed was extensively used by the Belgian military and police force and shares its name with a city?",
+      "choices": [
+        "Mechelen Mastiff",
+        "Malinois",
+        "Antwerp Shepherd",
+        "Bruges Defender"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Xoloitzcuintli, Mexico's national dog, is notable for possessing which rare physical trait?",
+      "choices": [
+        "Hairlessness",
+        "Extra vertebrae in the spine",
+        "Webbed paws",
+        "Fused shoulder blades"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Turkish breed was historically reserved for Ottoman nobility and was rarely seen outside palace grounds?",
+      "choices": [
+        "Turkish Mastiff",
+        "Kangal Dog",
+        "Kars Dog",
+        "Istanbul Sheepdog"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Portuguese Water Dog breed was primarily utilized for which maritime occupation?",
+      "choices": [
+        "Herding fish into nets",
+        "Retrieving fishing lines and nets",
+        "Swimming messages between boats",
+        "Guarding fishing vessels at port"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which rare Irish breed, nearly extinct by the mid-20th century, is known for its distinctive cream-colored coat?",
+      "choices": [
+        "Irish Wheaten Terrier",
+        "Soft Coated Wheaten Terrier",
+        "Kerry Beagle",
+        "Irish Red Setter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Karelian Bear Dog originates from the border region between Finland and which other country?",
+      "choices": [
+        "Norway",
+        "Sweden",
+        "Russia",
+        "Estonia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed's standard requires a distinctive blue-black tongue coloration?",
+      "choices": [
+        "Shar Pei",
+        "Chow Chow",
+        "Chow Chow and Shar Pei",
+        "Rottweiler"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Stabyhoun breed, native to the Netherlands, was traditionally used for hunting which type of game?",
+      "choices": [
+        "Small game and birds",
+        "Boar exclusively",
+        "Large waterfowl only",
+        "Rabbits and foxes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian breed was developed to hunt moose and is characterized by its distinctive howl?",
+      "choices": [
+        "Norwegian Elkhound",
+        "Swedish Elkhound",
+        "Finnish Spitz",
+        "Jämthund"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Telomian breed of Malaysia is notable for possessing which unusual anatomical feature among dog breeds?",
+      "choices": [
+        "Opposable dewclaws",
+        "Four eyelids",
+        "Retractable claws",
+        "Prehensile tail"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed was originally developed in Japan and is known for its distinctive curled tail and fox-like appearance?",
+      "choices": [
+        "Akita",
+        "Shiba Inu",
+        "Chin",
+        "Shih Tzu"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Basenji breed, originating from Central Africa, is famous for being unable to produce which sound that most dogs make?",
+      "choices": [
+        "A growl",
+        "A bark",
+        "A whine",
+        "A howl"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the ancient dog breed that served as a guardian in the Caucasus Mountains and can weigh up to 100+ pounds?",
+      "choices": [
+        "Anatolian Shepherd",
+        "Caucasian Ovcharka",
+        "Central Asian Shepherd",
+        "Kangal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Saluki, one of the oldest domesticated dog breeds, is believed to have originated in which ancient civilization?",
+      "choices": [
+        "Ancient Rome",
+        "Ancient Egypt",
+        "Mesopotamia",
+        "Ancient Greece"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which small Portuguese breed was historically used to herd cattle and is known for its long, low body structure?",
+      "choices": [
+        "Estrela Mountain Dog",
+        "Portuguese Water Dog",
+        "Rafeiro do Alentejo",
+        "Cao de Castro Laboreiro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Xoloitzcuintli, Mexico's national dog, is characterized by what distinctive physical feature that most other breeds possess?",
+      "choices": [
+        "No tail",
+        "No ears",
+        "No fur",
+        "No dewclaws"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the approximate bite force pressure (in PSI) of a German Shepherd, measured in scientific studies?",
+      "choices": [
+        "238 PSI",
+        "328 PSI",
+        "428 PSI",
+        "528 PSI"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Pharaoh Hound breed originates from which Mediterranean island nation?",
+      "choices": [
+        "Cyprus",
+        "Malta",
+        "Crete",
+        "Sicily"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed was developed in Scotland during the 19th century specifically for hunting Scottish wildcats?",
+      "choices": [
+        "Cairn Terrier",
+        "West Highland White Terrier",
+        "Skye Terrier",
+        "Dandie Dinmont Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Leonberger breed, originating from Germany, was created by crossing which two breeds in the 19th century?",
+      "choices": [
+        "Saint Bernard and Great Dane",
+        "Newfoundland and Saint Bernard",
+        "Great Dane and Newfoundland",
+        "Mastiff and Newfoundland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Hungarian breed was developed as a livestock guardian and is known for its distinctive white corded coat?",
+      "choices": [
+        "Puli",
+        "Komondor",
+        "Hungarian Vizsla",
+        "Hungarian Sheepdog"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Norwegian Elkhound was historically bred to hunt which large animal in Scandinavian forests?",
+      "choices": [
+        "Moose",
+        "Elk",
+        "Reindeer",
+        "Brown bear"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the rare Norwegian breed that is one of the smallest spitz-type dogs and weighs under 10 pounds?",
+      "choices": [
+        "Lundehund",
+        "Buhund",
+        "Norrbottenspets",
+        "Halden Hound"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rhodesian Ridgeback breed was originally developed in Southern Africa to hunt which apex predator?",
+      "choices": [
+        "Cape buffalo",
+        "African lion",
+        "Spotted hyena",
+        "African wild dog"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chinese dog breed was exclusively bred within the imperial palace and was considered sacred during the Tang Dynasty?",
+      "choices": [
+        "Pekingese",
+        "Chow Chow",
+        "Shar Pei",
+        "Chin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Weimaraner breed originated in which European country and was developed for hunting game such as boar and deer?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Czech Republic",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which toxic compound found in chocolate is the primary reason dogs cannot safely consume it?",
+      "choices": [
+        "Caffeine",
+        "Theobromine",
+        "Phenylethylamine",
+        "Cocoanine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Azawakh breed originates from which West African region and was bred as a sighthound by nomadic tribes?",
+      "choices": [
+        "Sahel",
+        "Sahara",
+        "Savanna",
+        "Sudan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed holds the record for the fastest speed in organized racing, reaching up to 45 mph?",
+      "choices": [
+        "Whippet",
+        "Greyhound",
+        "Italian Greyhound",
+        "Saluki"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Anatolian Shepherd breed was developed in which modern-day country and is known for its independent guardian nature?",
+      "choices": [
+        "Greece",
+        "Turkey",
+        "Armenia",
+        "Iran"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed was originally developed in Belgium to herd and guard cattle, and shares its name with a Flemish city?",
+      "choices": [
+        "Malinois",
+        "Flanders Shepherd",
+        "Bruges Hound",
+        "Antwerp Defender"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Saluki, one of the oldest domesticated dog breeds, is depicted in ancient art from which civilization?",
+      "choices": [
+        "Ancient Egypt",
+        "Mesopotamia",
+        "Ancient Greece",
+        "Ancient Rome"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the condition in dogs where the lens of the eye becomes progressively opaque due to age or disease?",
+      "choices": [
+        "Cataracts",
+        "Glaucoma",
+        "Keratitis",
+        "Retinopathy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Caucasian Shepherd Dog was originally bred to protect livestock in which mountain range?",
+      "choices": [
+        "Caucasus Mountains",
+        "Altai Mountains",
+        "Urals",
+        "Carpathians"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which rare British breed, nearly extinct after World War II, was revived by only a handful of dedicated breeders and shares its name with a northern county?",
+      "choices": [
+        "Bedlington Terrier",
+        "Dandie Dinmont Terrier",
+        "Lakeland Terrier",
+        "Cumberland Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In canine genetics, what term describes a dog that carries a recessive allele for a trait but does not display the phenotype?",
+      "choices": [
+        "Carrier",
+        "Heterozygous",
+        "Phenotype",
+        "Genotype"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Azawakh, a sighthound from West Africa, originates from which specific region or valley?",
+      "choices": [
+        "Azawakh Valley",
+        "Niger Delta",
+        "Sahara Plains",
+        "Mali Basin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed standard specifies that a dog must have a completely black nose with no pink pigmentation, a requirement tied to breeding history in cold climates?",
+      "choices": [
+        "Siberian Husky",
+        "Alaskan Malamute",
+        "Saint Bernard",
+        "Newfoundland"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Lagotto Romagnolo, an Italian breed, was traditionally employed to hunt for which underground delicacy?",
+      "choices": [
+        "Truffles",
+        "Mushrooms",
+        "Roots",
+        "Small game"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of puppies a dog can theoretically carry in a single litter, a record held by a Neapolitan Mastiff in 2004?",
+      "choices": [
+        "24",
+        "22",
+        "26",
+        "20"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Xoloitzcuintli, an ancient Mesoamerican breed, was revered by which pre-Columbian civilization?",
+      "choices": [
+        "Aztec",
+        "Maya",
+        "Toltec",
+        "Olmec"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which anatomical feature do all dog breeds universally possess that allows them to rotate their ears independently?",
+      "choices": [
+        "32 ear muscles",
+        "18 ear muscles",
+        "24 ear muscles",
+        "12 ear muscles"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Stabyhoun, a rare Dutch pointing breed, originates from which Dutch province?",
+      "choices": [
+        "Friesland",
+        "Groningen",
+        "Drenthe",
+        "North Holland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In hip dysplasia screening, what does the 'Norberg angle' measure in radiographic evaluation?",
+      "choices": [
+        "The angle of the femoral head's articulation with the acetabulum",
+        "The angle of vertebral alignment",
+        "The angle of shoulder joint rotation",
+        "The angle of elbow extension"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Basenji, a hunting dog from Central Africa, is notable for producing which unusual vocalization instead of a traditional bark?",
+      "choices": [
+        "Yodel",
+        "Howl",
+        "Whine",
+        "Growl"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which dog breed was developed by crossing a Bulldog with a Terrier to create a dog suited for blood sports in 19th-century Britain?",
+      "choices": [
+        "Bull Terrier",
+        "Staffordshire Bull Terrier",
+        "American Pit Bull Terrier",
+        "English Bull Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Telomian, a Malaysian hunting dog, exhibits what unusual physical characteristic related to its hind legs?",
+      "choices": [
+        "Webbed feet",
+        "Double dewclaws",
+        "Reversed footpads",
+        "Asymmetrical limb length"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In canine vision, dogs perceive the world primarily in which two colors?",
+      "choices": [
+        "Blue and yellow",
+        "Red and green",
+        "Blue and red",
+        "Yellow and green"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Entlebucher Mountain Dog, one of the four Swiss mountain dog breeds, is the smallest of the group and originated in which canton?",
+      "choices": [
+        "Entlebuch",
+        "Lucerne",
+        "Bern",
+        "Valais"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed was specifically developed in Japan during the 1930s by crossing Japanese Akitas with other breeds to create a fighting dog?",
+      "choices": [
+        "Tosa Inu",
+        "Akita",
+        "Shiba Inu",
+        "Japanese Chin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rhodesian Ridgeback breed standard requires a distinctive ridge of hair running along the spine in which direction?",
+      "choices": [
+        "From tail to neck, opposite the direction of normal coat growth",
+        "From neck to tail, in the direction of normal coat growth",
+        "Spiraling around the torso in a helical pattern",
+        "In two parallel lines down both sides of the spine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Chinese imperial breed was traditionally bred to have a coat color pattern resembling the markings of which big cat?",
+      "choices": [
+        "Tiger",
+        "Leopard",
+        "Lion",
+        "Jaguar"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Basenji, originating from Central Africa, is distinctive for possessing which unusual vocal characteristic?",
+      "choices": [
+        "An inability to bark, instead producing a yodel-like sound",
+        "A voice that changes pitch with the dog's emotional state",
+        "The ability to mimic human speech patterns",
+        "A naturally hoarse or raspy bark from birth"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Akita breed standard in Japan specifies that a dog showing which coat color is considered a serious fault in breed competitions?",
+      "choices": [
+        "White with black markings",
+        "Red or fawn with white markings",
+        "Liver or brown coloration",
+        "Grey or blue coloration"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian dog breed was originally developed to hunt which specific game animal in arctic conditions?",
+      "choices": [
+        "Moose",
+        "Elk",
+        "Reindeer",
+        "Arctic hare"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Shar Pei's wrinkled skin evolved primarily to serve which function during its original use as a fighting dog in China?",
+      "choices": [
+        "To regulate body temperature in hot climates",
+        "To provide protection during fights by allowing skin to shift without tearing",
+        "To increase surface area for scent detection",
+        "To make the dog appear larger and more intimidating"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Magyar Agár, a Hungarian sighthound, was primarily developed to hunt which type of prey across the Hungarian plains?",
+      "choices": [
+        "Boar and deer",
+        "Hare and fox",
+        "Wolf and lynx",
+        "Badger and otter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In dog genetics, a dog with one copy of a recessive gene for deafness would be classified as what?",
+      "choices": [
+        "Deaf",
+        "A carrier",
+        "A genetic mutant",
+        "Partially deaf"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Norwegian Lundehund possesses a unique characteristic of having how many toes on each foot, compared to standard dogs?",
+      "choices": [
+        "5 toes instead of 4",
+        "6 toes instead of 4",
+        "7 toes instead of 4",
+        "8 toes instead of 4"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Mastiff breed was used extensively as a guard dog for estates and is known for its characteristic loose, wrinkled skin?",
+      "choices": [
+        "Cane Corso",
+        "Neapolitan Mastiff",
+        "Dogo Argentino",
+        "Boerboel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Komondor breed, originating from Hungary, develops a unique coat structure called cords that resembles which material?",
+      "choices": [
+        "Dreadlocks or rope",
+        "Matted felt",
+        "Curly wool",
+        "Braided hair"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pakistani dog breed was historically used to guard livestock and is distinguished by its massive size and natural bobtail?",
+      "choices": [
+        "Anatolian Shepherd",
+        "Kangal",
+        "Bakharwal Dog",
+        "Pakistani Mastiff"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Caucasian Shepherd Dog breed is known for its ability to guard flocks in which mountain range?",
+      "choices": [
+        "The Urals",
+        "The Caucasus Mountains",
+        "The Altai Mountains",
+        "The Carpathians"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hyperkinetic Irish dog breed was specifically developed to course game at high speeds and is known for its exceptional metabolism?",
+      "choices": [
+        "Irish Setter",
+        "Irish Red and White Setter",
+        "Irish Terrier",
+        "Whippet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tibetan Mastiff breed exhibits a phenomenon where its coat density changes dramatically with seasons due to which physiological adaptation?",
+      "choices": [
+        "Hormonal cycles tied to breeding season",
+        "Response to altitude and atmospheric pressure changes",
+        "Thermoregulation in extreme altitude environments",
+        "Adaptation to monsoon weather patterns"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Belgian herding breed shares its name with a French-speaking region and was specifically developed to herd which livestock?",
+      "choices": [
+        "Groenendael; cattle",
+        "Malinois; sheep",
+        "Tervuren; goats",
+        "Laekenois; cattle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Bracco Italiano, an ancient Italian pointer breed, was developed during which historical period as a hunting companion?",
+      "choices": [
+        "Ancient Roman times",
+        "Medieval period (500-1500 CE)",
+        "Renaissance (1400-1700 CE)",
+        "Victorian era (1837-1901)"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which breed is often dubbed the smartest dog, famous for its herding ability?",
+      "choices": [
+        "Golden Retriever",
+        "German Shepherd",
+        "Border Collie",
+        "Poodle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is another name for a German Shepherd?",
+      "choices": [
+        "Alsatian",
+        "Bavarian Hound",
+        "Rottweiler",
+        "Great Dane"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Borzoi is a sighthound originally bred in which country for hunting wolves?",
+      "choices": [
+        "Germany",
+        "Poland",
+        "Russia",
+        "Hungary"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed's name comes from the French word for 'butterfly,' referring to their ear shape?",
+      "choices": [
+        "Papillon",
+        "Bichon Frise",
+        "Beagle",
+        "French Bulldog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed's tall, muscular profile earned it the nickname 'Apollo of Dogs'?",
+      "choices": [
+        "Rottweiler",
+        "Great Dane",
+        "Doberman",
+        "Mastiff"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed shares its name with an Asian country and has a curled tail?",
+      "choices": [
+        "Akita",
+        "Shiba Inu",
+        "Chow Chow",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed is commonly associated with guarding Tibetan monasteries?",
+      "choices": [
+        "Tibetan Mastiff",
+        "Chow Chow",
+        "Shar Pei",
+        "Akita"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed has skin with deep wrinkles and a 'hippopotamus' appearance?",
+      "choices": [
+        "Bulldog",
+        "Shar Pei",
+        "Pug",
+        "Neapolitan Mastiff"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most popular dog breed in the United States (AKC registrations)?",
+      "choices": [
+        "Labrador Retriever",
+        "French Bulldog",
+        "Golden Retriever",
+        "Poodle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
       "q": "Approximately how many dog breeds are recognized by the American Kennel Club (AKC)?",
-      "choices": ["~100", "~150", "~200", "~300"],
+      "choices": [
+        "~100",
+        "~150",
+        "~200",
+        "~300"
+      ],
       "correct": 2,
-      "category": "Dogs",
-      "difficulty": "medium",
-      "source": { "original_a": "Dog", "verified": true, "notes": "~200 fully recognized breeds as of 2024. FCI (international) recognizes 356." }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed is known for its distinctive blue-black tongue and deep skin wrinkles originating from China?",
+      "choices": [
+        "Shar Pei",
+        "Chow Chow",
+        "Chinese Crested",
+        "Pug"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Borzoi breed is a wolfhound that originated in which country?",
+      "choices": [
+        "Poland",
+        "Russia",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the result of crossing a Maltese dog with a Poodle?",
+      "choices": [
+        "Cockapoo",
+        "Maltipoo",
+        "Labradoodle",
+        "Goldendoodle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Boston Terrier earned which affectionate nickname due to its formal appearance?",
+      "choices": [
+        "The American Gentleman",
+        "The Tuxedo Pup",
+        "The Formal Fellow",
+        "The Distinguished Breed"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy breed's name derives from the French word meaning 'butterfly' due to its distinctive ear shape?",
+      "choices": [
+        "Pomeranian",
+        "Papillon",
+        "Pekingese",
+        "Pug"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Shiba Inu breed originated in which country?",
+      "choices": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Thailand"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional name for a dog of mixed or uncertain breed ancestry?",
+      "choices": [
+        "Mutt",
+        "Mongrel",
+        "Stray",
+        "Hybrid"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Keeshond breed is characterized by which distinctive color pattern?",
+      "choices": [
+        "All white",
+        "Black and silver",
+        "Red and gold",
+        "Brown and tan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed is commonly referred to as a 'sausage dog'?",
+      "choices": [
+        "Corgi",
+        "Dachshund",
+        "Basset Hound",
+        "Skye Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The King Charles Spaniel breed is named after which English monarch?",
+      "choices": [
+        "King Charles I",
+        "King Charles II",
+        "King George III",
+        "King William III"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which herding dog breed is known for its exceptional intelligence and ability to control sheep using only its gaze?",
+      "choices": [
+        "Australian Shepherd",
+        "Border Collie",
+        "German Shepherd",
+        "Shetland Sheepdog"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Tibetan Spaniel breed originated in which mountainous region?",
+      "choices": [
+        "The Andes",
+        "The Alps",
+        "The Himalayas",
+        "The Rocky Mountains"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which small white fluffy breed is known for its cheerful temperament and was originally bred in France and Belgium?",
+      "choices": [
+        "Maltese",
+        "Pomeranian",
+        "Bichon Frise",
+        "West Highland White Terrier"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the common term for a Shih Tzu and Jack Russell Terrier cross?",
+      "choices": [
+        "Shih-Russell",
+        "Jack-Tzu",
+        "Russelltzu",
+        "Tzu-Jack"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Lakeland Terrier breed was developed in which region of the United Kingdom?",
+      "choices": [
+        "Yorkshire",
+        "Scottish Highlands",
+        "Lake District",
+        "Welsh Mountains"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which guide dog breed is most commonly used to assist people with visual impairments?",
+      "choices": [
+        "Golden Retriever",
+        "Labrador Retriever",
+        "German Shepherd",
+        "Standard Poodle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Shetland Sheepdog is a miniature version of which larger herding breed?",
+      "choices": [
+        "Border Collie",
+        "Rough Collie",
+        "Belgian Shepherd",
+        "Old English Sheepdog"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed is known for its golden or chocolate-colored coat and exceptional swimming ability?",
+      "choices": [
+        "Golden Retriever",
+        "Labrador Retriever",
+        "Chesapeake Bay Retriever",
+        "Nova Scotia Duck Tolling Retriever"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The French Bulldog shares ancestry with which other bulldog breed?",
+      "choices": [
+        "English Bulldog",
+        "American Bulldog",
+        "Staffordshire Bull Terrier",
+        "Boxer"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy breed is a miniaturized version of the Fox Terrier?",
+      "choices": [
+        "Toy Poodle",
+        "Toy Fox Terrier",
+        "Miniature Pinscher",
+        "Italian Greyhound"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed was originally developed in Japan to hunt large game like boar and deer?",
+      "choices": [
+        "Akita",
+        "Shiba Inu",
+        "Japanese Chin",
+        "Tosa Inu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Dalmatian's distinctive spotted coat pattern typically begins to appear at what age?",
+      "choices": [
+        "At birth",
+        "Around 1-2 weeks old",
+        "Around 2-3 weeks old",
+        "Around 8-12 weeks old"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed was originally used by fishermen in Portugal to herd fish into nets?",
+      "choices": [
+        "Portuguese Water Dog",
+        "Portuguese Sheepdog",
+        "Estrela Mountain Dog",
+        "Cao de Castro Laboreiro"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Greyhound holds the record for the highest top speed among dog breeds. Approximately how fast can it run?",
+      "choices": [
+        "35 mph",
+        "45 mph",
+        "55 mph",
+        "65 mph"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian breed was named after the Norse god of mischief?",
+      "choices": [
+        "Lundehund",
+        "Norwegian Elkhound",
+        "Swedish Vallhund",
+        "Loki Hound"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Basenji, originating from Central Africa, is famous for lacking which typical dog behavior?",
+      "choices": [
+        "The ability to bark",
+        "The instinct to chase prey",
+        "The desire to dig",
+        "The need to socialize"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which terrier breed shares its name with a village in Scotland where it was developed?",
+      "choices": [
+        "Cairn Terrier",
+        "Skye Terrier",
+        "Dandie Dinmont Terrier",
+        "West Highland White Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rhodesian Ridgeback gets its distinctive feature—a ridge of hair along its back—from which ancestry?",
+      "choices": [
+        "Dalmatian heritage",
+        "Hottentot hunting dog crossbreeding",
+        "German Shepherd lineage",
+        "Boxer genetics"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many recognized colors does the standard Poodle come in according to major kennel clubs?",
+      "choices": [
+        "3 colors",
+        "6 colors",
+        "10 or more solid colors",
+        "Only 2 colors"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Bloodhound's sense of smell is so acute that it can follow a scent trail how many days old?",
+      "choices": [
+        "Up to 3 days old",
+        "Up to 7 days old",
+        "Up to 14 days old",
+        "Up to 30 days old"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed was developed in Belgium specifically to guard livestock against predators?",
+      "choices": [
+        "Belgian Sheepdog",
+        "Belgian Malinois",
+        "Bouvier des Flandres",
+        "Flemish Cattle Dog"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Chow Chow is notable for having a blue-black tongue due to which genetic factor?",
+      "choices": [
+        "High melanin concentration",
+        "Copper oxide deposits",
+        "Iron-based pigmentation",
+        "Anthocyanin content"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy breed was favored by Chinese imperial courts and was historically so valued that theft was punishable by death?",
+      "choices": [
+        "Pekingese",
+        "Pug",
+        "Shih Tzu",
+        "Tibetan Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Irish Wolfhound was originally bred to hunt which large animal in medieval Ireland?",
+      "choices": [
+        "Moose",
+        "Wolves and elk",
+        "Boar only",
+        "Large deer exclusively"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed's name translates to 'Tibetan Lion Dog' in its country of origin?",
+      "choices": [
+        "Lhasa Apso",
+        "Tibetan Mastiff",
+        "Shih Tzu",
+        "Tibetan Spaniel"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Weimaraner breed originated in which European country as a hunting companion for nobility?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Hungary",
+        "Czechoslovakia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed's webbed feet and water-resistant coat were specifically adapted for retrieving waterfowl?",
+      "choices": [
+        "Labrador Retriever",
+        "Chesapeake Bay Retriever",
+        "Portuguese Water Dog",
+        "Irish Water Spaniel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Papillon breed gets its name from the French word for which insect?",
+      "choices": [
+        "Butterfly",
+        "Dragonfly",
+        "Moth",
+        "Bee"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which giant breed was originally used in Switzerland to locate and rescue travelers lost in alpine snow?",
+      "choices": [
+        "Bernese Mountain Dog",
+        "Saint Bernard",
+        "Greater Swiss Mountain Dog",
+        "Appenzell Mountain Dog"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Siberian Husky's thick double coat sheds heavily during shedding season—approximately how many times per year does this occur?",
+      "choices": [
+        "Once per year",
+        "Twice per year",
+        "Three to four times per year",
+        "Continuously year-round"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original 'Lassie' television series of the 1950s, what breed of dog portrayed the famous collie?",
+      "choices": [
+        "Rough Collie",
+        "Smooth Collie",
+        "Border Collie",
+        "Shetland Sheepdog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Basenji, an African hunting dog, is famous for lacking which typical canine characteristic?",
+      "choices": [
+        "The ability to bark",
+        "A tail",
+        "Fur",
+        "Four legs"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed was originally developed in Japan for hunting large game like wild boar and deer?",
+      "choices": [
+        "Akita Inu",
+        "Shiba Inu",
+        "Hokkaido",
+        "Kai Ken"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rhodesian Ridgeback gets its distinctive name from the ridge of hair running along its spine and its origin in which African country?",
+      "choices": [
+        "Zimbabwe",
+        "South Africa",
+        "Kenya",
+        "Zambia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the movie 'Air Bud,' what sport does the golden retriever famously compete in?",
+      "choices": [
+        "Baseball",
+        "Basketball",
+        "Football",
+        "Soccer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Bernese Mountain Dog originates from the Swiss Alps and was traditionally used for which primary purpose?",
+      "choices": [
+        "Herding sheep",
+        "Pulling carts and sleds",
+        "Hunting birds",
+        "Guarding estates"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which tiny breed, originally bred in Chihuahua, Mexico, is known as the smallest dog breed by weight?",
+      "choices": [
+        "Toy Poodle",
+        "Maltese",
+        "Chihuahua",
+        "Pomeranian"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Vizsla, a Hungarian sporting dog, is often called by what color-based nickname due to its distinctive coat?",
+      "choices": [
+        "The Gray Ghost",
+        "The Red Ghost",
+        "The Golden Ghost",
+        "The Silver Ghost"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the animated series 'Scooby-Doo,' what is Scooby's relationship to Shaggy Rogers?",
+      "choices": [
+        "His service dog",
+        "His best friend and pet",
+        "His working partner",
+        "His protector"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Standard Poodle was originally bred in Germany as a retriever for which type of hunting?",
+      "choices": [
+        "Upland game hunting",
+        "Duck hunting",
+        "Boar hunting",
+        "Deer hunting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British terrier breed was developed to hunt foxes and badgers and shares its name with a county?",
+      "choices": [
+        "Cairn Terrier",
+        "Kent Terrier",
+        "Somerset Terrier",
+        "Yorkshire Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Afghan Hound is known for its long, silky coat and originated in which mountain region?",
+      "choices": [
+        "The Hindu Kush",
+        "The Himalayas",
+        "The Andes",
+        "The Alps"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Wizard of Oz,' Dorothy's dog Toto was actually what specific small breed?",
+      "choices": [
+        "Pomeranian",
+        "Cairn Terrier",
+        "Chihuahua",
+        "Maltese"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Weimaraner, often called the 'Gray Ghost,' was originally bred in which European country for hunting?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "France",
+        "Hungary"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nordic breed was developed by the Sami people of Lapland primarily for herding reindeer?",
+      "choices": [
+        "Norwegian Elkhound",
+        "Samoyed",
+        "Swedish Lapphund",
+        "Finnish Spitz"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Dalmatian's distinctive spotted coat pattern is typically black or liver-colored spots on what base color?",
+      "choices": [
+        "Cream",
+        "White",
+        "Gray",
+        "Tan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the TV show 'Frasier,' what breed is Eddie, the dog owned by Martin Crane?",
+      "choices": [
+        "Jack Russell Terrier",
+        "Parson Russell Terrier",
+        "Fox Terrier",
+        "Rat Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Shar Pei's distinctive wrinkled skin was originally an advantage for which type of work?",
+      "choices": [
+        "Fighting other dogs",
+        "Retrieving in water",
+        "Herding livestock",
+        "Hunting in forests"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which large Russian breed was developed for hunting and is known for its thick double coat and webbed paws?",
+      "choices": [
+        "Caucasian Shepherd",
+        "Central Asian Shepherd",
+        "Black Russian Terrier",
+        "Russian Black Terrier"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pembroke Welsh Corgi was a favorite breed of which British monarch for much of her reign?",
+      "choices": [
+        "King George VI",
+        "Queen Elizabeth II",
+        "King Edward VII",
+        "Queen Victoria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed was originally developed in Germany during the 1890s specifically for herding and protecting sheep?",
+      "choices": [
+        "German Shepherd",
+        "Belgian Malinois",
+        "Anatolian Shepherd",
+        "Old English Sheepdog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Shar Pei breed is known for its distinctive wrinkled skin and originated in which Asian country?",
+      "choices": [
+        "Japan",
+        "China",
+        "Korea",
+        "Thailand"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary purpose for which the Labrador Retriever was originally bred?",
+      "choices": [
+        "Hunting waterfowl",
+        "Herding cattle",
+        "Guarding estates",
+        "Pulling sleds"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed is recognizable by its distinctive curly or wavy coat and was developed in Portugal for water retrieval?",
+      "choices": [
+        "Poodle",
+        "Portuguese Water Dog",
+        "Irish Water Spaniel",
+        "Lagotto Romagnolo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Afghan Hound breed features an exceptionally long, flowing coat and originated in which mountain region?",
+      "choices": [
+        "Hindu Kush Mountains",
+        "Rocky Mountains",
+        "Alps",
+        "Himalayas"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy breed was named after the capital city of Mexico?",
+      "choices": [
+        "Mexican Hairless",
+        "Chihuahua",
+        "Xoloitzcuintli",
+        "Toy Mexican Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rhodesian Ridgeback is named after a distinctive ridge of hair running along its back and originated in which African country?",
+      "choices": [
+        "Kenya",
+        "South Africa",
+        "Zimbabwe",
+        "Botswana"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What unique feature does the Norwegian Lundehund possess that most other dog breeds do not?",
+      "choices": [
+        "Six toes per foot",
+        "Blue eyes",
+        "Hairless skin",
+        "Split nose"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Boxer breed was developed in Germany and is known for its distinctive flat face, which is called what?",
+      "choices": [
+        "Pug face",
+        "Brachycephalic",
+        "Snub nose",
+        "Pushed muzzle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed was developed in Scotland specifically for hunting red foxes and badgers?",
+      "choices": [
+        "Scottish Deerhound",
+        "Scottish Terrier",
+        "Border Terrier",
+        "Cairn Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Weimaraner breed, known for its gray coat, originated in which European country?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Hungary",
+        "Czechoslovakia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed is famous for its webbed feet and was originally used for duck hunting in Canada?",
+      "choices": [
+        "Labrador Retriever",
+        "Chesapeake Bay Retriever",
+        "Nova Scotia Duck Tolling Retriever",
+        "Newfoundland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Pomeranian breed descended from larger Spitz-type dogs and takes its name from which historical region?",
+      "choices": [
+        "Pomerania",
+        "Bohemia",
+        "Silesia",
+        "Moravia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed is recognized by the Kennel Club as having a distinctive 'butterfly' shaped nose marking?",
+      "choices": [
+        "Papillon",
+        "Toy Spaniel",
+        "Poodle",
+        "Shih Tzu"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Great Dane breed is often called the 'Apollo of Dogs' and originated in which country?",
+      "choices": [
+        "Denmark",
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed was developed in Belgium for herding livestock and is often used in police and military work?",
+      "choices": [
+        "Belgian Malinois",
+        "Belgian Sheepdog",
+        "Belgian Tervuren",
+        "Groenendael"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Basenji breed, known for its yodeling-like vocalization, originated in which continent?",
+      "choices": [
+        "Asia",
+        "South America",
+        "Africa",
+        "Europe"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed is characterized by its short legs, long body, and was originally bred in Germany for hunting badgers?",
+      "choices": [
+        "Corgi",
+        "Dachshund",
+        "Basset Hound",
+        "Skye Terrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Samoyed breed was developed by which Siberian ethnic group primarily for herding reindeer?",
+      "choices": [
+        "Yakut people",
+        "Samoyedic peoples",
+        "Mongol tribes",
+        "Tungusic peoples"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which dog breed was originally developed in Switzerland as a draft animal and is named after a specific region?",
+      "choices": [
+        "Bernese Mountain Dog",
+        "Swiss Hound",
+        "Alpine Mastiff",
+        "Appenzell Mountain Dog"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rhodesian Ridgeback is named for the distinctive ridge of hair running along its back. In which African country was this breed primarily developed?",
+      "choices": [
+        "Kenya",
+        "Zimbabwe",
+        "South Africa",
+        "Botswana"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many teeth does a healthy adult dog typically have?",
+      "choices": [
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which toy breed was favored by Chinese emperors and traditionally bred to be lap warmers for royalty?",
+      "choices": [
+        "Pekingese",
+        "Shih Tzu",
+        "Lhasa Apso",
+        "Tibetan Spaniel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Vizsla, known for its sleek golden-rust coat, originated in which European country?",
+      "choices": [
+        "Poland",
+        "Hungary",
+        "Romania",
+        "Czech Republic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the webbing between a Labrador Retriever's toes that aids in swimming?",
+      "choices": [
+        "Paddle membrane",
+        "Aquatic webbing",
+        "Interdigital webbing",
+        "Swimming flaps"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Weimaraner, a gray hunting dog, is often referred to by what nickname because of its distinctive coloring?",
+      "choices": [
+        "The Silver Shadow",
+        "The Gray Ghost",
+        "The Slate Hound",
+        "The Metallic Tracker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which breed was developed in Japan as a fighting dog and is now banned or restricted in many countries?",
+      "choices": [
+        "Akita Inu",
+        "Tosa Inu",
+        "Shiba Inu",
+        "Kai Ken"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Basenji, an African hunting dog, is distinctive for lacking which ability that most other dogs possess?",
+      "choices": [
+        "The ability to bark",
+        "The ability to swim",
+        "The ability to hunt by scent",
+        "The ability to see in color"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Papillons, named for their distinctive ear shape, take their name from the French word for which animal?",
+      "choices": [
+        "Butterfly",
+        "Flower",
+        "Bird",
+        "Leaf"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,169 +1,3131 @@
 {
   "slug": "europe-trivia",
   "name": "Europe",
-  "description": "European countries, landmarks, and continental facts",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.519Z",
   "questions": [
     {
-      "q": "What is the smallest country in Europe by area?",
-      "choices": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
-      "correct": 3,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "Vatican City", "verified": true, "notes": "~0.44 km² (110 acres). Entirely enclosed within Rome." }
+      "q": "Which city is the capital of Slovakia?",
+      "choices": [
+        "Croatia",
+        "Bratislava",
+        "Stockholm",
+        "Amsterdam"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which country is the northernmost in mainland Europe?",
-      "choices": ["Finland", "Sweden", "Norway", "Iceland"],
+      "q": "Queen Beatrix once reigned over which country?",
+      "choices": [
+        "Croatia",
+        "Italy",
+        "Netherlands",
+        "Austria"
+      ],
       "correct": 2,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Norway", "verified": true, "notes": "Norway's North Cape reaches 71° North. (Iceland is an island, not mainland)." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "The 'Stade de France' roars with excitement in which city?",
+      "choices": [
+        "Budapest",
+        "Helsinki",
+        "Paris",
+        "London"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Among these isles, which one doesn't belong to Greece?",
+      "choices": [
+        "Malta",
+        "France",
+        "Belgium",
+        "Denmark"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these northern European countries is an island?",
+      "choices": [
+        "Stockholm",
+        "Dublin",
+        "Poland",
+        "Iceland"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Scotland, which of these is a town rather than a city?",
+      "choices": [
+        "Sweden",
+        "Paisley",
+        "Rome",
+        "Danube"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Champagne region is famed for what type of drink?",
+      "choices": [
+        "Sparkling Wine",
+        "Athens",
+        "Finland",
+        "Bern"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest country in Europe by area?",
+      "choices": [
+        "Monaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vatican City"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
     },
     {
       "q": "Which European country has Portugal as its only land neighbor?",
-      "choices": ["France", "Spain", "Morocco", "Andorra"],
+      "choices": [
+        "France",
+        "Spain",
+        "Morocco",
+        "Andorra"
+      ],
       "correct": 1,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "Spain", "verified": true, "notes": "Iberian Peninsula. The two countries share a 1,200+ km border." }
+      "difficulty": "easy"
     },
     {
       "q": "The Arc de Triomphe is located in which European city?",
-      "choices": ["Rome", "Madrid", "Paris", "Berlin"],
+      "choices": [
+        "Rome",
+        "Madrid",
+        "Paris",
+        "Berlin"
+      ],
       "correct": 2,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "Paris", "verified": true, "notes": "Commissioned by Napoleon in 1806. At the end of the Champs-Élysées." }
+      "difficulty": "easy"
     },
     {
       "q": "Which German state is known for Oktoberfest, Bavarian cuisine, and the Alps?",
-      "choices": ["Saxony", "Bavaria", "Hesse", "Baden-Württemberg"],
+      "choices": [
+        "Saxony",
+        "Bavaria",
+        "Hesse",
+        "Baden-Württemberg"
+      ],
       "correct": 1,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "Munich", "verified": true, "notes": "Capital: Munich. Bavaria is the largest German state by area." }
+      "difficulty": "easy"
     },
     {
       "q": "The Flamenco dance and music tradition originates from which country?",
-      "choices": ["Portugal", "Italy", "Spain", "Mexico"],
+      "choices": [
+        "Portugal",
+        "Italy",
+        "Spain",
+        "Mexico"
+      ],
       "correct": 2,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "Spain", "verified": true, "notes": "Specifically Andalusia. Recognized by UNESCO as Intangible Cultural Heritage." }
+      "difficulty": "easy"
     },
     {
       "q": "Oslo is the capital of which country?",
-      "choices": ["Sweden", "Finland", "Denmark", "Norway"],
+      "choices": [
+        "Sweden",
+        "Finland",
+        "Denmark",
+        "Norway"
+      ],
       "correct": 3,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "Norway", "verified": true, "notes": "Awards the Nobel Peace Prize annually on December 10." }
-    },
-    {
-      "q": "Which European country is home to the Boboli Gardens and the Uffizi Gallery?",
-      "choices": ["Greece", "Spain", "Italy", "France"],
-      "correct": 2,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Italy", "verified": true, "notes": "Both in Florence. Boboli Gardens behind Pitti Palace; Uffizi houses Renaissance art." }
-    },
-    {
-      "q": "How many countries are currently members of the European Union (as of 2024)?",
-      "choices": ["25", "27", "29", "32"],
-      "correct": 1,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "European", "verified": true, "notes": "28 before Brexit (UK left Jan 2020). Croatia was the last to join (2013)." }
-    },
-    {
-      "q": "Which European country is an island nation in the North Atlantic?",
-      "choices": ["Iceland", "Malta", "Cyprus", "All of the above"],
-      "correct": 3,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Iceland", "verified": true, "notes": "All three are European island nations. Iceland is closest to the Arctic; Malta and Cyprus in Mediterranean." }
-    },
-    {
-      "q": "Which Kingdom of Denmark territory is geographically located in North America rather than Europe?",
-      "choices": ["Iceland", "Greenland", "Malta", "Cyprus"],
-      "correct": 1,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Greenland", "verified": true, "notes": "audit-corrected 2026-05-09: reworded; Greenlanders carry Danish passports, so original 'name on the passport' framing was inaccurate." }
+      "difficulty": "easy"
     },
     {
       "q": "Which river flows through both London and Oxford in England?",
-      "choices": ["Severn", "Thames", "Trent", "Mersey"],
+      "choices": [
+        "Severn",
+        "Thames",
+        "Trent",
+        "Mersey"
+      ],
       "correct": 1,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "European", "verified": true, "notes": "215 miles long. Flows east to the North Sea through southern England." }
-    },
-    {
-      "q": "The Eiffel Tower was originally built as the entrance arch to what event?",
-      "choices": ["Paris Olympics", "1889 World's Fair", "French Revolution centennial", "Art Nouveau Exposition"],
-      "correct": 1,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Paris", "verified": true, "notes": "1889 Exposition Universelle, marking 100 years since the French Revolution." }
-    },
-    {
-      "q": "Which European capital is split by the Bosporus strait and sits on two continents?",
-      "choices": ["Athens", "Sofia", "Istanbul", "Bucharest"],
-      "correct": 2,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "European", "verified": true, "notes": "Only major city straddling two continents (Europe and Asia). Not Turkey's capital (Ankara is)." }
-    },
-    {
-      "q": "Which mountain range forms a natural border between France and Spain?",
-      "choices": ["Alps", "Pyrenees", "Apennines", "Carpathians"],
-      "correct": 1,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Spain", "verified": true, "notes": "~491 km long. Principality of Andorra sits within them." }
+      "difficulty": "easy"
     },
     {
       "q": "Which sea lies to the north of Germany, the Netherlands, and Denmark?",
-      "choices": ["Baltic Sea", "North Sea", "Mediterranean Sea", "Black Sea"],
+      "choices": [
+        "Baltic Sea",
+        "North Sea",
+        "Mediterranean Sea",
+        "Black Sea"
+      ],
       "correct": 1,
-      "category": "Europe",
-      "difficulty": "easy",
-      "source": { "original_a": "European", "verified": true, "notes": "Connects to the Atlantic Ocean. Major fishing and oil drilling region." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European capital is situated on both sides of the Danube River?",
+      "choices": [
+        "Prague",
+        "Budapest",
+        "Vienna",
+        "Belgrade"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest independent country in Europe by area?",
+      "choices": [
+        "Monaco",
+        "Liechtenstein",
+        "Vatican City",
+        "San Marino"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is home to the Leaning Tower of Pisa?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Greece"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is famous for its windmills in Kinderdijk?",
+      "choices": [
+        "Germany",
+        "Belgium",
+        "Netherlands",
+        "Denmark"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country would you find the Sagrada Familia basilica?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country has four official languages?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Belgium",
+        "Luxembourg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which capital city is known as the 'City of a Hundred Spires'?",
+      "choices": [
+        "Vienna",
+        "Prague",
+        "Krakow",
+        "Budapest"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country is the Parthenon located?",
+      "choices": [
+        "Turkey",
+        "Italy",
+        "Greece",
+        "Cyprus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Belgium?",
+      "choices": [
+        "Antwerp",
+        "Brussels",
+        "Ghent",
+        "Bruges"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is an island nation located northwest of France?",
+      "choices": [
+        "Iceland",
+        "United Kingdom",
+        "Ireland",
+        "Denmark"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country would you find the Uffizi Gallery, home to Renaissance masterpieces?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Scandinavian country has Stockholm as its capital?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the capital of Hungary?",
+      "choices": [
+        "Debrecen",
+        "Budapest",
+        "Szeged",
+        "Miskolc"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is known for its production of Champagne?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country is the Colosseum located?",
+      "choices": [
+        "Greece",
+        "Italy",
+        "Turkey",
+        "Spain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is famous for its windmills and tulips?",
+      "choices": [
+        "Belgium",
+        "Denmark",
+        "Netherlands",
+        "Sweden"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mont Blanc is the highest mountain in which European country?",
+      "choices": [
+        "Switzerland",
+        "Austria",
+        "France",
+        "Italy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Eiffel Tower is located in which city?",
+      "choices": [
+        "Lyon",
+        "Paris",
+        "Marseille",
+        "Nice"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is home to the Colosseum?",
+      "choices": [
+        "Greece",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Big Ben is a famous clock tower in which city?",
+      "choices": [
+        "Edinburgh",
+        "Manchester",
+        "London",
+        "Liverpool"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country has four official languages and is known for chocolate and watches?",
+      "choices": [
+        "Austria",
+        "Belgium",
+        "Switzerland",
+        "Luxembourg"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Parthenon, an ancient Greek temple, is located in which city?",
+      "choices": [
+        "Delphi",
+        "Athens",
+        "Sparta",
+        "Corinth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is the westernmost point of mainland Europe?",
+      "choices": [
+        "Spain",
+        "France",
+        "Portugal",
+        "Ireland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Sagrada Familia basilica is located in which Spanish city?",
+      "choices": [
+        "Madrid",
+        "Seville",
+        "Barcelona",
+        "Granada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous palace in Versailles, France?",
+      "choices": [
+        "Louvre",
+        "Palace of Versailles",
+        "Elysée Palace",
+        "Fontainebleau"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European city is built on canals and known as 'The City of Water'?",
+      "choices": [
+        "Amsterdam",
+        "Venice",
+        "Copenhagen",
+        "Bruges"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Arc de Triomphe, a famous monument, is located in which city?",
+      "choices": [
+        "Lyon",
+        "Marseille",
+        "Paris",
+        "Nice"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is known for its efficiency, beer, and Oktoberfest?",
+      "choices": [
+        "Austria",
+        "Czech Republic",
+        "Poland",
+        "Germany"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European capital city is located on the coast of the North Sea and serves as the capital of Norway?",
+      "choices": [
+        "Stockholm",
+        "Oslo",
+        "Copenhagen",
+        "Helsinki"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Malta is an independent island nation in the Mediterranean Sea. To which larger European country does it belong?",
+      "choices": [
+        "Italy",
+        "Greece",
+        "No country—it is independent",
+        "Cyprus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country in Europe shares a long border with France and is famous for its cuisine and wine regions?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "Switzerland",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Tirana serves as the capital city of which Balkan nation?",
+      "choices": [
+        "Albania",
+        "Montenegro",
+        "Bosnia and Herzegovina",
+        "North Macedonia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Porto is the second-largest city in which European country and is known for its port wine production?",
+      "choices": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Before adopting the Euro in 2002, which currency did Germany use for its everyday transactions?",
+      "choices": [
+        "Guilder",
+        "Deutsche Mark",
+        "Franc",
+        "Schilling"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European capital is known for its picturesque canals that replace traditional streets throughout the city?",
+      "choices": [
+        "Venice",
+        "Amsterdam",
+        "Bruges",
+        "Copenhagen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Azores Islands, located in the Atlantic Ocean, are territories of which European nation?",
+      "choices": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is so small in area that it is completely surrounded by Italy on all sides?",
+      "choices": [
+        "San Marino",
+        "Vatican City",
+        "Liechtenstein",
+        "Monaco"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Lake Como, a famous alpine lake known for its stunning natural beauty, is located in which country?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Italy",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous avenue in Paris is known as one of the most prestigious shopping and sightseeing destinations in Europe?",
+      "choices": [
+        "Rue de Rivoli",
+        "Champs Élysées",
+        "Rue Saint-Honoré",
+        "Boulevard Saint-Germain"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European city is famous for its Renaissance art, historic Duomo cathedral, and is considered the birthplace of the Renaissance?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Thames is a major river that flows through which European capital city?",
+      "choices": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Amsterdam"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Central European country do locals use the currency called the Forint?",
+      "choices": [
+        "Czech Republic",
+        "Poland",
+        "Hungary",
+        "Slovakia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which island in the Ionian Sea, known for its mythology and beautiful beaches, belongs to Greece?",
+      "choices": [
+        "Crete",
+        "Corfu",
+        "Rhodes",
+        "Santorini"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Reykjavik, the capital of Iceland, holds which geographic distinction among European capitals?",
+      "choices": [
+        "Northernmost",
+        "Southernmost",
+        "Westernmost",
+        "Easternmost"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which region of southern France is famous for its prehistoric cave paintings and wine production?",
+      "choices": [
+        "Provence",
+        "Dordogne",
+        "Alsace",
+        "Loire Valley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Berlin, the capital of Germany, was historically served by which major airport before its closure in 2020?",
+      "choices": [
+        "Tegel",
+        "Tempelhof",
+        "Schönefeld",
+        "Gatow"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Balkan capital city serves as the capital of Bosnia and Herzegovina and has a rich multicultural history?",
+      "choices": [
+        "Belgrade",
+        "Sarajevo",
+        "Podgorica",
+        "Banja Luka"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Liechtenstein is a small landlocked country in Europe. Which two larger countries does it border?",
+      "choices": [
+        "Austria and France",
+        "Switzerland and Austria",
+        "Germany and Switzerland",
+        "Switzerland and Italy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is famous for its production of Swiss cheese?",
+      "choices": [
+        "Austria",
+        "Sweden",
+        "Switzerland",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Eiffel Tower is located in which European city?",
+      "choices": [
+        "Lyon",
+        "Paris",
+        "Marseille",
+        "Nice"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sea borders the southern coast of Spain?",
+      "choices": [
+        "Adriatic Sea",
+        "Mediterranean Sea",
+        "Baltic Sea",
+        "North Sea"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What currency was used in Germany before the Euro?",
+      "choices": [
+        "Deutsche Mark",
+        "Schilling",
+        "Guilder",
+        "Franc"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has Copenhagen as its capital?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Colosseum is one of the most iconic structures in which European city?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest country in Europe by land area?",
+      "choices": [
+        "Ukraine",
+        "France",
+        "Russia",
+        "Kazakhstan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Big Ben is the famous clock tower in which city?",
+      "choices": [
+        "Manchester",
+        "Edinburgh",
+        "London",
+        "Birmingham"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Scandinavian capital is built on 14 islands?",
+      "choices": [
+        "Oslo",
+        "Copenhagen",
+        "Stockholm",
+        "Helsinki"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Mount Vesuvius, the famous volcano, is located in which country?",
+      "choices": [
+        "Greece",
+        "Italy",
+        "Spain",
+        "Portugal"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is famous for its windmills?",
+      "choices": [
+        "Belgium",
+        "Netherlands",
+        "Denmark",
+        "Luxembourg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The River Danube flows through how many European countries?",
+      "choices": [
+        "6",
+        "10",
+        "8",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Athens, the capital of Greece, was named after which goddess?",
+      "choices": [
+        "Aphrodite",
+        "Athena",
+        "Artemis",
+        "Hera"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is home to the ancient ruins of Stonehenge?",
+      "choices": [
+        "Wales",
+        "Scotland",
+        "England",
+        "Northern Ireland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country has the most castles?",
+      "choices": [
+        "France",
+        "Germany",
+        "England",
+        "Scotland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Acropolis is a famous ancient structure in which European capital?",
+      "choices": [
+        "Athens",
+        "Rome",
+        "Istanbul",
+        "Prague"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is famous for its production of Swiss cheese and chocolate?",
+      "choices": [
+        "Austria",
+        "Sweden",
+        "Switzerland",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Colosseum, one of the world's most iconic ruins, is located in which European capital?",
+      "choices": [
+        "Rome",
+        "Athens",
+        "Istanbul",
+        "Barcelona"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Scandinavian country has a flag featuring a blue Nordic cross on a red background?",
+      "choices": [
+        "Denmark",
+        "Finland",
+        "Iceland",
+        "Norway"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest country by area located entirely within Europe?",
+      "choices": [
+        "Germany",
+        "Ukraine",
+        "Spain",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mediterranean island nation consists of two main islands, Sicily and Sardinia?",
+      "choices": [
+        "Greece",
+        "Malta",
+        "Italy",
+        "Croatia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Brandenburg Gate is an iconic monument in which European capital?",
+      "choices": [
+        "Vienna",
+        "Berlin",
+        "Prague",
+        "Warsaw"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is home to the Sagrada Familia, the famous unfinished basilica?",
+      "choices": [
+        "Portugal",
+        "Greece",
+        "Spain",
+        "Italy"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country uses the Swiss Franc as its official currency rather than the Euro?",
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Sweden",
+        "Norway"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "If you are from Norway, what cool nickname do you sport?",
+      "choices": [
+        "Norwegian",
+        "Amsterdam",
+        "Spain",
+        "Croatia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
     },
     {
       "q": "Which country has borders with Germany, Poland, Austria, and Slovakia?",
-      "choices": ["Czech Republic", "Hungary", "Slovenia", "Switzerland"],
+      "choices": [
+        "Czech Republic",
+        "Hungary",
+        "Slovenia",
+        "Switzerland"
+      ],
       "correct": 0,
-      "category": "Europe",
-      "difficulty": "hard",
-      "source": { "original_a": "European", "verified": true, "notes": "Czech Republic. Part of former Czechoslovakia until 1993 'Velvet Divorce.'" }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European capital city serves as the headquarters of the European Union's executive branch?",
+      "choices": [
+        "Brussels",
+        "Strasbourg",
+        "Luxembourg City",
+        "The Hague"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural arc primarily through which three European countries?",
+      "choices": [
+        "Poland, Slovakia, and Romania",
+        "Austria, Hungary, and Serbia",
+        "Czech Republic, Ukraine, and Moldova",
+        "Slovenia, Croatia, and Bosnia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Balkan nation was the first to declare independence from Yugoslavia in 1991?",
+      "choices": [
+        "Slovenia",
+        "Croatia",
+        "Macedonia",
+        "Bosnia and Herzegovina"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Danube River flows through ten countries—which Eastern European capital city does it pass through last before reaching the Black Sea?",
+      "choices": [
+        "Bucharest",
+        "Sofia",
+        "Budapest",
+        "Bratislava"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Iberian city, famous for its Roman aqueduct, served as the capital of the Roman province of Lusitania?",
+      "choices": [
+        "Segovia",
+        "Évora",
+        "Tarragona",
+        "Mérida"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Westphalia in 1648 effectively ended which long religious conflict in Europe?",
+      "choices": [
+        "The Albigensian Crusade",
+        "The Thirty Years' War",
+        "The Wars of Religion in France",
+        "The English Civil War"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Alpine country is completely landlocked and shares borders with eight nations including Austria and Switzerland?",
+      "choices": [
+        "Czech Republic",
+        "Liechtenstein",
+        "Hungary",
+        "Slovakia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sami people are indigenous to which Nordic region, spanning parts of four countries?",
+      "choices": [
+        "The Lofoten Islands",
+        "The Baltic States",
+        "Lapland",
+        "The Faroe Islands"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern European nation adopted the Euro in 2007, becoming the first post-communist country to do so?",
+      "choices": [
+        "Slovakia",
+        "Estonia",
+        "Hungary",
+        "Latvia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The ancient ruins of Knossos, the center of Minoan civilization, are located on which Greek island?",
+      "choices": [
+        "Rhodes",
+        "Santorini",
+        "Crete",
+        "Mykonos"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian country maintained military neutrality throughout World War II despite being occupied?",
+      "choices": [
+        "Sweden",
+        "Norway",
+        "Denmark",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Congress of Vienna in 1815 primarily aimed to restore balance of power after the defeat of which leader?",
+      "choices": [
+        "Frederick the Great",
+        "Napoleon Bonaparte",
+        "Otto von Bismarck",
+        "Metternich"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European nation is home to the Wadden Sea, a UNESCO World Heritage Site known for its tidal mudflats?",
+      "choices": [
+        "Belgium",
+        "Denmark",
+        "The Netherlands",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Plitvice Lakes National Park, featuring 16 interconnected lakes and numerous waterfalls, is located in which country?",
+      "choices": [
+        "Serbia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Slovenia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which medieval city-state in Switzerland is the smallest country in Europe by area after Vatican City?",
+      "choices": [
+        "Liechtenstein",
+        "San Marino",
+        "Andorra",
+        "Monaco"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Parthenon, dedicated to the goddess Athena, crowns which Athenian hill that dominates the Greek capital's skyline?",
+      "choices": [
+        "Lycabettus",
+        "Acropolis",
+        "Philopappus",
+        "Areopagus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern European nation was partitioned three times between neighboring powers in the late 18th century?",
+      "choices": [
+        "Lithuania",
+        "Poland",
+        "Belarus",
+        "Ukraine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Bay of Kotor in the Adriatic Sea, often called Europe's southernmost fjord, is located in which country?",
+      "choices": [
+        "Albania",
+        "Montenegro",
+        "Croatia",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swiss canton is the only one with Italian as its primary official language?",
+      "choices": [
+        "Graubünden",
+        "Valais",
+        "Ticino",
+        "Neuchâtel"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Reconquista, the Christian reconquest of the Iberian Peninsula, finally concluded in 1492 with the fall of which kingdom?",
+      "choices": [
+        "Aragon",
+        "Granada",
+        "Castile",
+        "Portugal"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European city served as the capital of the Austro-Hungarian Empire until its dissolution in 1918?",
+      "choices": [
+        "Prague",
+        "Vienna",
+        "Budapest",
+        "Bratislava"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Westphalia in 1648 fundamentally reshaped European politics by recognizing the sovereignty of which type of political entity?",
+      "choices": [
+        "City-states",
+        "Independent nation-states",
+        "Theocracies",
+        "Confederations"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern European country was the first to declare independence from the Soviet Union in 1990?",
+      "choices": [
+        "Lithuania",
+        "Latvia",
+        "Estonia",
+        "Poland"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sami people are the indigenous inhabitants of which northern European region?",
+      "choices": [
+        "Finnish Lapland",
+        "Northern Scandinavia and northwestern Russia",
+        "Northern Scotland",
+        "The Faroe Islands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Swiss mathematician and physicist, working in the 18th century, made fundamental contributions to graph theory and topology through the Seven Bridges of Königsberg problem?",
+      "choices": [
+        "Leonhard Euler",
+        "Daniel Bernoulli",
+        "Jakob Bernoulli",
+        "Jean le Rond d'Alembert"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural boundary between Romania and which other country?",
+      "choices": [
+        "Bulgaria",
+        "Serbia",
+        "Hungary",
+        "Ukraine"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Poland join the European Union, marking a significant expansion eastward?",
+      "choices": [
+        "1999",
+        "2001",
+        "2004",
+        "2007"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which principality, located between France and Spain in the Pyrenees, has Catalan as its official language?",
+      "choices": [
+        "Liechtenstein",
+        "Andorra",
+        "Monaco",
+        "San Marino"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Plitvice Lakes National Park, known for its cascading waterfalls and travertine formations, is located in which Balkan country?",
+      "choices": [
+        "Bosnia and Herzegovina",
+        "Croatia",
+        "Slovenia",
+        "Montenegro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country was divided into East and West occupation zones following World War II and remained partitioned until 1990?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Poland",
+        "Korea"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Basque Country, with its distinct language and culture, spans the border between Spain and which other country?",
+      "choices": [
+        "Portugal",
+        "France",
+        "Andorra",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Icelandic volcano's 2010 eruption disrupted European air traffic for several days due to ash clouds?",
+      "choices": [
+        "Hekla",
+        "Katla",
+        "Eyjafjallajökull",
+        "Krísuvík"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Congress of Vienna in 1815 was convened primarily to reshape Europe following the defeat of which military leader?",
+      "choices": [
+        "Frederick the Great",
+        "Napoleon Bonaparte",
+        "Otto von Bismarck",
+        "Charles XII"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern Orthodox Christian nation, located on the Black Sea coast, shares its name with a historical kingdom and the Caucasus mountain range?",
+      "choices": [
+        "Armenia",
+        "Georgia",
+        "Azerbaijan",
+        "Abkhazia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Schengen Area, established in 1995, eliminated internal border controls between participating European nations. Which country was notably excluded from the original agreement?",
+      "choices": [
+        "Ireland and the United Kingdom",
+        "Switzerland",
+        "Norway",
+        "Denmark"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian country maintained official neutrality throughout World War II and hosted peace negotiations between warring nations?",
+      "choices": [
+        "Finland",
+        "Sweden",
+        "Norway",
+        "Denmark"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Danube River, Europe's second-longest river, flows through or borders how many countries?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Czech city, historically known as Bohemia's capital, was a center of religious reform in the 14th-15th centuries under Jan Hus?",
+      "choices": [
+        "Brno",
+        "Prague",
+        "Plzen",
+        "Ostrava"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Renaissance began in which Italian city-state during the 14th century, later spreading throughout Europe?",
+      "choices": [
+        "Venice",
+        "Milan",
+        "Florence",
+        "Rome"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which former Yugoslavian republic declared independence in 1991 and subsequently became the first former Soviet-aligned nation to join NATO in 1999?",
+      "choices": [
+        "Slovenia",
+        "Croatia",
+        "Montenegro",
+        "Serbia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country adopted the Markka as its official currency before transitioning to the Euro in 2002?",
+      "choices": [
+        "Finland",
+        "Estonia",
+        "Latvia",
+        "Lithuania"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural boundary between Romania and which neighboring country?",
+      "choices": [
+        "Serbia",
+        "Hungary",
+        "Ukraine",
+        "Poland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Iberian city served as the capital of Spain during the reign of Philip II in the 16th century?",
+      "choices": [
+        "Barcelona",
+        "Toledo",
+        "Seville",
+        "Valladolid"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kaliningrad Oblast, an exclave of Russia in Eastern Europe, was formerly known by what German name?",
+      "choices": [
+        "Danzig",
+        "Königsberg",
+        "Memel",
+        "Riga"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian capital city lies on the island of Sjælland at the mouth of the Øresund Strait?",
+      "choices": [
+        "Stockholm",
+        "Oslo",
+        "Copenhagen",
+        "Gothenburg"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Vistula River, Europe's longest river flowing entirely within one country, runs through which nation?",
+      "choices": [
+        "Poland",
+        "Russia",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country was partitioned three times between 1772 and 1795 by its neighboring powers?",
+      "choices": [
+        "Lithuania",
+        "Poland",
+        "Hungary",
+        "Bohemia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Doge's Palace in Venice was the former residence of which title holder in the Venetian Republic?",
+      "choices": [
+        "The Count",
+        "The Duke",
+        "The Doge",
+        "The Marquis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Balkan country declared independence in 2006, separating peacefully from its union with Serbia?",
+      "choices": [
+        "Bosnia and Herzegovina",
+        "Montenegro",
+        "North Macedonia",
+        "Kosovo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Schengen Area, named after a Luxembourg village, eliminates internal border controls among how many member states?",
+      "choices": [
+        "19",
+        "23",
+        "27",
+        "31"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Mediterranean island nation gained independence from the British Empire in 1964?",
+      "choices": [
+        "Cyprus",
+        "Malta",
+        "Crete",
+        "Rhodes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Danube River, Europe's second-longest, flows through ten countries and enters which sea?",
+      "choices": [
+        "Aegean Sea",
+        "Black Sea",
+        "Adriatic Sea",
+        "Mediterranean Sea"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Czech city was the capital of the Kingdom of Bohemia and is now the country's largest metropolitan area?",
+      "choices": [
+        "Brno",
+        "Prague",
+        "Plzeň",
+        "Ostrava"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Concert of Europe, established after the Napoleonic Wars, was formalized by which 1815 agreement?",
+      "choices": [
+        "Treaty of Westphalia",
+        "Congress of Vienna",
+        "Treaty of Utrecht",
+        "Peace of Augsburg"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country held the Hanseatic League's most powerful position during the medieval period?",
+      "choices": [
+        "Denmark",
+        "Sweden",
+        "Poland",
+        "Germany (specifically Lübeck)"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Transylvanian region, historically contested between empires, is located within which modern-day country?",
+      "choices": [
+        "Moldova",
+        "Romania",
+        "Serbia",
+        "Bulgaria"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European city hosted the 1992 Winter Olympics and is the capital of a Pyrenean country?",
+      "choices": [
+        "Innsbruck",
+        "Albertville",
+        "Lillehammer",
+        "Andorra la Vella"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Gutenberg printing press, invented in the 15th century, originated in which German city?",
+      "choices": [
+        "Berlin",
+        "Munich",
+        "Mainz",
+        "Frankfurt"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian city on the Volga River was formerly known as Stalingrad and Volgograd before its 2013 reversion?",
+      "choices": [
+        "Volgograd",
+        "Saratov",
+        "Samara",
+        "Nizhny Novgorod"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Westphalia in 1648 ended which major European conflict and established the modern state system?",
+      "choices": [
+        "The War of Spanish Succession",
+        "The Thirty Years' War",
+        "The Italian Wars",
+        "The Wars of Religion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural border for which Central European country?",
+      "choices": [
+        "Slovakia",
+        "Romania",
+        "Poland",
+        "Hungary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Portuguese city serves as the capital of the Norte region and is famous for its port wine production?",
+      "choices": [
+        "Covilhã",
+        "Porto",
+        "Braga",
+        "Aveiro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Westphalia in 1648 ended which devastating conflict that ravaged Central Europe?",
+      "choices": [
+        "The War of Spanish Succession",
+        "The Thirty Years' War",
+        "The War of Austrian Succession",
+        "The Polish-Swedish War"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian country uses the Krona as its currency and does not belong to the European Union?",
+      "choices": [
+        "Denmark",
+        "Sweden",
+        "Norway",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Danube River, Europe's second-longest river, flows through how many countries before reaching the Black Sea?",
+      "choices": [
+        "8 countries",
+        "10 countries",
+        "12 countries",
+        "14 countries"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Icelandic volcano erupted in 2010, causing widespread disruption to European air travel?",
+      "choices": [
+        "Hekla",
+        "Eyjafjallajökull",
+        "Katla",
+        "Bárðarbunga"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Council of Europe, established in 1949, is headquartered in which French city?",
+      "choices": [
+        "Paris",
+        "Lyon",
+        "Strasbourg",
+        "Marseille"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern European capital city was historically known as Pesth before merging with Buda across the Danube?",
+      "choices": [
+        "Budapest",
+        "Bucharest",
+        "Belgrade",
+        "Bratislava"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Schengen Area, which allows passport-free travel, was named after an agreement signed in which Luxembourg village?",
+      "choices": [
+        "Esch-sur-Alzette",
+        "Schengen",
+        "Differdange",
+        "Echternach"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baltic nation declared independence on August 20, 1991, becoming the first Soviet republic to formally leave the USSR?",
+      "choices": [
+        "Lithuania",
+        "Estonia",
+        "Latvia",
+        "Ukraine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Plitvice Lakes National Park, famous for its cascading waterfalls and karst geology, is located in which country?",
+      "choices": [
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Serbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Greek philosopher's name is attached to an ancient covered walkway where he taught, creating a school of thought?",
+      "choices": [
+        "Plato",
+        "Aristotle",
+        "Socrates",
+        "Zeno"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sagrada Familia basilica in Barcelona was designed by which Catalan architect known for organic architecture?",
+      "choices": [
+        "Pablo Picasso",
+        "Antoni Gaudí",
+        "Joan Miró",
+        "Salvador Dalí"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Alpine country, bordered by eight nations, has three official languages and a unique federal structure with cantons?",
+      "choices": [
+        "Austria",
+        "Czech Republic",
+        "Switzerland",
+        "Liechtenstein"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Acropolis museum in Athens opened to the public in which year?",
+      "choices": [
+        "2001",
+        "2009",
+        "2013",
+        "2015"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Romanian region, known for its medieval towns and Carpathian landscapes, includes the cities of Brașov and Sibiu?",
+      "choices": [
+        "Moldavia",
+        "Transylvania",
+        "Wallachia",
+        "Dobruja"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Eurostar high-speed train connects London to which European city through the Channel Tunnel?",
+      "choices": [
+        "Amsterdam",
+        "Brussels",
+        "Paris",
+        "Calais"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Nordic nation established the world's first national park in 1909, predating the United States by just three years?",
+      "choices": [
+        "Norway",
+        "Sweden",
+        "Iceland",
+        "Finland"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Maastricht Treaty, signed in 1992, formally established which political and economic union?",
+      "choices": [
+        "The NATO Alliance",
+        "The European Union",
+        "The EFTA",
+        "The Warsaw Pact"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European country adopted the Euro as its official currency in 2002, replacing the Peseta?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Greece",
+        "Italy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Palace of Versailles was constructed during the reign of which French monarch?",
+      "choices": [
+        "Louis XIV",
+        "Louis XVI",
+        "Charles X",
+        "Napoleon Bonaparte"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Scandinavian country is known for its extensive system of fjords carved by glacial activity?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural boundary for which Central European nation?",
+      "choices": [
+        "Czech Republic",
+        "Romania",
+        "Slovakia",
+        "Hungary"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Renaissance city-state was ruled by the Medici family for nearly three centuries?",
+      "choices": [
+        "Venice",
+        "Florence",
+        "Genoa",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Treaty of Westphalia, signed in 1648, formally ended which prolonged European conflict?",
+      "choices": [
+        "English Civil War",
+        "Thirty Years' War",
+        "War of Spanish Succession",
+        "War of Roses"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country's parliament, the Riksdag, is one of the oldest legislative assemblies in continuous operation?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The city of Dubrovnik, famous for its limestone walls and medieval architecture, is located in which country?",
+      "choices": [
+        "Bosnia and Herzegovina",
+        "Croatia",
+        "Montenegro",
+        "Serbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Eastern European country was partitioned multiple times throughout history and does not share a border with Germany?",
+      "choices": [
+        "Poland",
+        "Lithuania",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Plitvice Lakes National Park, featuring a series of cascading waterfalls, belongs to which country?",
+      "choices": [
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Montenegro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian city served as the capital of the Russian Empire before Peter the Great relocated the seat of power?",
+      "choices": [
+        "Saint Petersburg",
+        "Moscow",
+        "Novgorod",
+        "Yaroslavl"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Iberian Peninsula is shared by Spain and which other nation, whose official language is Portuguese?",
+      "choices": [
+        "Andorra",
+        "France",
+        "Portugal",
+        "Gibraltar"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Alpine country maintains permanent military neutrality and is not a member of NATO?",
+      "choices": [
+        "Liechtenstein",
+        "Austria",
+        "Switzerland",
+        "Slovenia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sagrada Familia basilica in Barcelona was designed by which Catalan architect who took over the project in 1883?",
+      "choices": [
+        "Josep Puig i Cadafalch",
+        "Antoni Gaudí",
+        "Lluís Domènech i Montaner",
+        "Enric Miralles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country's national drink, raki, is a fruit brandy traditionally distilled in the Balkans?",
+      "choices": [
+        "Serbia",
+        "Albania",
+        "Bulgaria",
+        "North Macedonia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Danube River, Europe's second-longest river, passes through how many countries?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Polish mathematician and astronomer challenged the geocentric model of the universe in the 16th century?",
+      "choices": [
+        "Johannes Kepler",
+        "Nicolaus Copernicus",
+        "Tycho Brahe",
+        "Galileo Galilei"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Sami people, an indigenous group of Northern Europe, traditionally inhabit which region spanning multiple countries?",
+      "choices": [
+        "Scottish Highlands",
+        "Lapland",
+        "Balkans",
+        "Siberia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Byzantine fortress city on the Black Sea coast was the capital of the Pontic Kingdom before Roman conquest?",
+      "choices": [
+        "Trebizond",
+        "Sinope",
+        "Amisus",
+        "Heraclea"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The River Tagus flows through which two European countries?",
+      "choices": [
+        "Rome",
+        "Bern",
+        "Spain and Portugal",
+        "Greece"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Holland, if someone offers you a 'drop,' what sweet treat is it?",
+      "choices": [
+        "Parthenon",
+        "Russia",
+        "Licorice sweet",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is the tiniest in Europe at 0.2 square miles?",
+      "choices": [
+        "Parthenon",
+        "Vatican City",
+        "Acropolis",
+        "Amsterdam"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these is not something you'd visit Rome to see?",
+      "choices": [
+        "Leaning Tower of Pisa",
+        "Big Ben",
+        "Parthenon",
+        "Brandenburg Gate"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "LGW is the airport code for which airport?",
+      "choices": [
+        "Turkey",
+        "Colosseum",
+        "Norway",
+        "London Gatwick"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these countries is so small by area it could be a secret hideaway?",
+      "choices": [
+        "Vatican City",
+        "Sweden",
+        "Scotland",
+        "Copenhagen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is doubly landlocked?",
+      "choices": [
+        "Rome",
+        "Portugal",
+        "Liechtenstein",
+        "Belgrade"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The name of which sea translates to 'Middle Land'?",
+      "choices": [
+        "Stockholm",
+        "Rome",
+        "Mediterranean",
+        "Ankara"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these words can be rearranged to spell a European country?",
+      "choices": [
+        "Volga",
+        "Laity (Italy)",
+        "Norway",
+        "Kyiv"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these tiny independent states lies within Rome?",
+      "choices": [
+        "Volga",
+        "Elbe",
+        "Vatican City",
+        "Dublin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Does Malta belong to another country?",
+      "choices": [
+        "It's independent",
+        "Warsaw",
+        "Big Ben",
+        "Germany"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which airport is the busiest in Europe?",
+      "choices": [
+        "London Heathrow",
+        "Thames",
+        "Rhine",
+        "Scotland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city claims the title of having the lowest birth rate in the world?",
+      "choices": [
+        "Warsaw",
+        "Hungary",
+        "Switzerland",
+        "Vatican City"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Paris landmark, completed in 1836, stands as a timeless tribute to French grandeur?",
+      "choices": [
+        "Kyiv",
+        "Arc de Triomphe",
+        "Rhine",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which historic nation was co - founded by Edvard Benes in 1919?",
+      "choices": [
+        "Czechoslovakia",
+        "Oslo",
+        "Colosseum",
+        "Portugal"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these words transforms into the name of a European capital?",
+      "choices": [
+        "Hasten (Athens)",
+        "Portugal",
+        "Berlin",
+        "Zagreb"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the national anthem of the UK?",
+      "choices": [
+        "God Save the Queen",
+        "Serbia",
+        "Rhine",
+        "Vienna"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is the northernmost in mainland Europe?",
+      "choices": [
+        "Finland",
+        "Sweden",
+        "Norway",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country is home to the Boboli Gardens and the Uffizi Gallery?",
+      "choices": [
+        "Greece",
+        "Spain",
+        "Italy",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many countries are currently members of the European Union (as of 2024)?",
+      "choices": [
+        "25",
+        "27",
+        "29",
+        "32"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country is an island nation in the North Atlantic?",
+      "choices": [
+        "Iceland",
+        "Malta",
+        "Cyprus",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country's name appears on the passport but is NOT in continental Europe?",
+      "choices": [
+        "Iceland",
+        "Greenland",
+        "Malta",
+        "Cyprus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Eiffel Tower was originally built as the entrance arch to what event?",
+      "choices": [
+        "Paris Olympics",
+        "1889 World's Fair",
+        "French Revolution centennial",
+        "Art Nouveau Exposition"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European capital is split by the Bosporus strait and sits on two continents?",
+      "choices": [
+        "Athens",
+        "Sofia",
+        "Istanbul",
+        "Bucharest"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain range forms a natural border between France and Spain?",
+      "choices": [
+        "Alps",
+        "Pyrenees",
+        "Apennines",
+        "Carpathians"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
       "q": "Which European country invented modern-form liberal democracy, parliamentary government, and common law?",
-      "choices": ["France", "United Kingdom", "Netherlands", "Switzerland"],
+      "choices": [
+        "France",
+        "United Kingdom",
+        "Netherlands",
+        "Switzerland"
+      ],
       "correct": 1,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "European", "verified": true, "notes": "Magna Carta (1215), parliamentary supremacy, common law heritage. Westminster system model." }
+      "difficulty": "medium"
     },
     {
       "q": "The 'Autobahn' is the famous highway system of which European country?",
-      "choices": ["Austria", "Switzerland", "Germany", "Belgium"],
+      "choices": [
+        "Austria",
+        "Switzerland",
+        "Germany",
+        "Belgium"
+      ],
       "correct": 2,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "European", "verified": true, "notes": "Parts have no speed limit. ~13,000 km of motorway network." }
+      "difficulty": "medium"
     },
     {
       "q": "Which European country is divided into 20 regions, including Lombardy, Tuscany, and Sicily?",
-      "choices": ["Spain", "France", "Italy", "Greece"],
+      "choices": [
+        "Spain",
+        "France",
+        "Italy",
+        "Greece"
+      ],
       "correct": 2,
-      "category": "Europe",
-      "difficulty": "medium",
-      "source": { "original_a": "Italy", "verified": true, "notes": "Italy's 20 regions each have significant autonomy. 5 have special status." }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European capital city is built on 14 islands connected by numerous bridges and canals?",
+      "choices": [
+        "Venice",
+        "Amsterdam",
+        "Copenhagen",
+        "Stockholm"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sagrada Família basilica, still under construction, is located in which Spanish city?",
+      "choices": [
+        "Madrid",
+        "Barcelona",
+        "Seville",
+        "Valencia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain range forms the natural border between France and Spain?",
+      "choices": [
+        "Alps",
+        "Carpathians",
+        "Pyrenees",
+        "Apennines"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Eastern European country has a flag featuring a white eagle on a red background?",
+      "choices": [
+        "Czech Republic",
+        "Poland",
+        "Slovakia",
+        "Hungary"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Uffizi Gallery, home to masterpieces by Botticelli and Leonardo da Vinci, is situated in which Italian city?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian country is home to the Northern Lights and the midnight sun phenomena?",
+      "choices": [
+        "Denmark",
+        "Sweden",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Treaty of Versailles, signed in 1919, was negotiated in which French location?",
+      "choices": [
+        "Paris",
+        "Versailles",
+        "Lyon",
+        "Marseille"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European microstate is an independent principality located between France and Spain?",
+      "choices": [
+        "Monaco",
+        "Liechtenstein",
+        "Andorra",
+        "San Marino"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Brandenburg Gate stands as an iconic monument in which European capital?",
+      "choices": [
+        "Vienna",
+        "Berlin",
+        "Prague",
+        "Munich"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Greek philosopher and mathematician lived on an island in the Aegean Sea and founded a religious-philosophical community?",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Pythagoras",
+        "Aristotle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colosseum, an ancient amphitheater, was built during the reign of which Roman emperor?",
+      "choices": [
+        "Julius Caesar",
+        "Augustus",
+        "Vespasian",
+        "Nero"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country produces over 80% of the world's cork?",
+      "choices": [
+        "Spain",
+        "Portugal",
+        "Italy",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Parthenon, dedicated to the goddess Athena, crowns which European capital city?",
+      "choices": [
+        "Rome",
+        "Athens",
+        "Istanbul",
+        "Sofia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Baltic country declared independence from the Soviet Union on August 20, 1991?",
+      "choices": [
+        "Latvia",
+        "Lithuania",
+        "Estonia",
+        "Belarus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Leaning Tower is located in which Italian city?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Pisa",
+        "Siena"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swiss city hosted the first modern Olympic Games in 1896?",
+      "choices": [
+        "Zurich",
+        "Geneva",
+        "Lausanne",
+        "Bern"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Carpathian Mountains are primarily located in which European country?",
+      "choices": [
+        "Serbia",
+        "Romania",
+        "Slovakia",
+        "Bulgaria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish region is known for its unique culture, language, and independence movement?",
+      "choices": [
+        "Basque Country",
+        "Catalonia",
+        "Galicia",
+        "Andalusia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Kremlin fortress complex is located in which Russian capital city?",
+      "choices": [
+        "St. Petersburg",
+        "Moscow",
+        "Novgorod",
+        "Kazan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European capital city is located on both sides of the Danube River and was formed by merging three cities in 1873?",
+      "choices": [
+        "Prague",
+        "Budapest",
+        "Belgrade",
+        "Vienna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sagrada Familia basilica, still under construction, is located in which Spanish city?",
+      "choices": [
+        "Madrid",
+        "Barcelona",
+        "Seville",
+        "Valencia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Before adopting the Euro in 2002, which currency was used in France?",
+      "choices": [
+        "Franc",
+        "Drachma",
+        "Peseta",
+        "Guilder"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Tower of Pisa, famous for its unintended lean, is located in which Italian region?",
+      "choices": [
+        "Tuscany",
+        "Veneto",
+        "Piedmont",
+        "Sicily"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian country has a territory that extends into the Arctic Circle and includes the North Cape?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Vistula River, one of Europe's major waterways, primarily flows through which country?",
+      "choices": [
+        "Czech Republic",
+        "Poland",
+        "Slovakia",
+        "Romania"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city would you find the Parthenon, the ancient temple dedicated to Athena?",
+      "choices": [
+        "Corinth",
+        "Athens",
+        "Delphi",
+        "Sparta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The demonym for a person from Greece is Greek, but what is the demonym for someone from Iceland?",
+      "choices": [
+        "Icelandic",
+        "Icelander",
+        "Islander",
+        "Icelandian"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country is home to the Swiss Alps and has four official languages?",
+      "choices": [
+        "Austria",
+        "Liechtenstein",
+        "Switzerland",
+        "Andorra"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The River Rhône flows from the Swiss Alps and eventually empties into which body of water?",
+      "choices": [
+        "Adriatic Sea",
+        "Aegean Sea",
+        "Mediterranean Sea",
+        "North Sea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Eastern European capital was divided by a wall between 1961 and 1989?",
+      "choices": [
+        "Prague",
+        "Budapest",
+        "Warsaw",
+        "Berlin"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Neuschwanstein Castle, one of Europe's most iconic fortifications, is located in which country?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Czech Republic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country would you find the Cliffs of Moher, a dramatic sea cliff formation along the Atlantic coast?",
+      "choices": [
+        "Scotland",
+        "Wales",
+        "Ireland",
+        "England"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colosseum, an ancient Roman amphitheater, is located in which city?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Naples",
+        "Florence"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nordic country is famous for the Northern Lights and has Reykjavik as its capital?",
+      "choices": [
+        "Greenland",
+        "Faroe Islands",
+        "Iceland",
+        "Norway"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian city is famous for its gondolas and was built on a series of islands?",
+      "choices": [
+        "Milan",
+        "Venice",
+        "Genoa",
+        "Trieste"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Volga River, Europe's longest river, is located in which country?",
+      "choices": [
+        "Poland",
+        "Russia",
+        "Ukraine",
+        "Belarus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country is the Port of Rotterdam, one of Europe's busiest and largest container ports?",
+      "choices": [
+        "Belgium",
+        "Germany",
+        "Netherlands",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country adopted the Euro currency in 2002, replacing the Peseta?",
+      "choices": [
+        "Spain",
+        "Portugal",
+        "Greece",
+        "Italy"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sagrada Família basilica, one of Europe's most iconic unfinished structures, is located in which Spanish city?",
+      "choices": [
+        "Madrid",
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian country is famous for its concept of 'hygge,' a cozy and convivial atmosphere?",
+      "choices": [
+        "Sweden",
+        "Denmark",
+        "Norway",
+        "Finland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Rhine River, one of Europe's longest waterways, flows through how many countries?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Eastern European country has Budapest as its capital and the Danube River as a defining feature?",
+      "choices": [
+        "Romania",
+        "Slovakia",
+        "Hungary",
+        "Serbia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Acropolis overlooks which Greek city, home to democracy's ancient birthplace?",
+      "choices": [
+        "Thessaloniki",
+        "Athens",
+        "Delphi",
+        "Sparta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Mount Blanc, Europe's highest peak, sits on the border between France and which other country?",
+      "choices": [
+        "Switzerland",
+        "Italy",
+        "Germany",
+        "Austria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Eastern European nation was part of the Soviet Union until 1991 and is now known for its tech innovation hub 'Silicon Valley North'?",
+      "choices": [
+        "Latvia",
+        "Estonia",
+        "Lithuania",
+        "Belarus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Colosseum, originally called the Flavian Amphitheatre, was built in which Roman city?",
+      "choices": [
+        "Rome",
+        "Pompeii",
+        "Naples",
+        "Venice"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swiss city, known as the 'Olympic capital,' has hosted the Winter Olympics twice?",
+      "choices": [
+        "Zurich",
+        "Lucerne",
+        "St. Moritz",
+        "Interlaken"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Schengen Area allows visa-free travel between member countries. Approximately how many European nations participate in this agreement?",
+      "choices": [
+        "15",
+        "22",
+        "27",
+        "31"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country is home to the world's oldest continuously operating parliament, established in 930?",
+      "choices": [
+        "Iceland",
+        "Denmark",
+        "Sweden",
+        "Norway"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Plitvice Lakes National Park, known for its cascading waterfalls and turquoise waters, is located in which country?",
+      "choices": [
+        "Slovenia",
+        "Croatia",
+        "Bosnia and Herzegovina",
+        "Montenegro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Portuguese city, famous for its port wine production, is situated on the Douro River?",
+      "choices": [
+        "Lisbon",
+        "Covilhã",
+        "Porto",
+        "Braga"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural arc across which Eastern European country?",
+      "choices": [
+        "Poland",
+        "Romania",
+        "Slovakia",
+        "Ukraine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Nordic country is geographically the smallest among the Scandinavian nations?",
+      "choices": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Iceland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Parliament of the European Union holds its plenary sessions in which city?",
+      "choices": [
+        "Brussels",
+        "Strasbourg",
+        "Luxembourg",
+        "Vienna"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mediterranean island nation, located south of Italy, is the smallest country in Africa by area?",
+      "choices": [
+        "Cyprus",
+        "Malta",
+        "Crete",
+        "Sicily"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Oktoberfest celebration, historically rooted in 1810, takes place annually in which Bavarian city?",
+      "choices": [
+        "Berlin",
+        "Cologne",
+        "Munich",
+        "Frankfurt"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country has the longest coastline relative to its land area?",
+      "choices": [
+        "Greece",
+        "Croatia",
+        "Norway",
+        "Portugal"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Danube River flows through ten European countries. Which of these cities does it NOT pass through?",
+      "choices": [
+        "Budapest",
+        "Vienna",
+        "Prague",
+        "Belgrade"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian capital is built on 14 islands and is known as the 'Venice of the North'?",
+      "choices": [
+        "Oslo",
+        "Stockholm",
+        "Copenhagen",
+        "Helsinki"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Treaty of Versailles, which ended World War I, was signed in which French city in 1919?",
+      "choices": [
+        "Lyon",
+        "Versailles",
+        "Strasbourg",
+        "Nice"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which European country has the most UNESCO World Heritage Sites as of the early 2020s?",
+      "choices": [
+        "France",
+        "Italy",
+        "Spain",
+        "Germany"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Carpathian Mountains form a natural arc across which Central European country?",
+      "choices": [
+        "Slovakia",
+        "Romania",
+        "Hungary",
+        "Poland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mediterranean island nation consists of an archipelago with over 6,000 islands, though only about 227 are inhabited?",
+      "choices": [
+        "Malta",
+        "Cyprus",
+        "Greece",
+        "Croatia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sagrada Familia basilica, one of Europe's most famous unfinished structures, is located in which Spanish city?",
+      "choices": [
+        "Madrid",
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Vistula River is the longest river entirely within which European country?",
+      "choices": [
+        "Czech Republic",
+        "Poland",
+        "Germany",
+        "Slovakia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swiss city hosts the headquarters of the International Committee of the Red Cross?",
+      "choices": [
+        "Zurich",
+        "Bern",
+        "Geneva",
+        "Lucerne"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Plitvice Lakes National Park, a UNESCO World Heritage Site featuring 16 interconnected lakes, is located in which country?",
+      "choices": [
+        "Bosnia and Herzegovina",
+        "Croatia",
+        "Slovenia",
+        "Serbia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Icelandic volcano erupted in 2010, causing widespread disruption to European air traffic?",
+      "choices": [
+        "Hekla",
+        "Eyjafjallajökull",
+        "Katla",
+        "Askja"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Schengen Area, which eliminated passport controls between member nations, was established through an agreement signed in which European city?",
+      "choices": [
+        "Schengen, Luxembourg",
+        "Brussels, Belgium",
+        "Strasbourg, France",
+        "Luxembourg City, Luxembourg"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

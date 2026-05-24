@@ -1,273 +1,2262 @@
 {
   "slug": "boston-trivia",
   "name": "Boston",
-  "description": "Boston, Massachusetts — history, culture, and sports",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.446Z",
   "questions": [
     {
       "q": "Boston is the capital of which U.S. state?",
-      "choices": ["Maine", "Massachusetts", "Connecticut", "Rhode Island"],
+      "choices": [
+        "Maine",
+        "Massachusetts",
+        "Connecticut",
+        "Rhode Island"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Massachusetts",
-        "verified": true,
-        "notes": "Has been the capital since the Massachusetts Bay Colony."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "In what year did the Boston Tea Party protest take place?",
-      "choices": ["1765", "1770", "1773", "1776"],
+      "choices": [
+        "1765",
+        "1770",
+        "1773",
+        "1776"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Boston Tea Party",
-        "verified": true,
-        "notes": "December 16, 1773; Sons of Liberty dumped 342 chests of tea into Boston Harbor."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Who made a famous midnight ride through the Massachusetts countryside on April 18, 1775 to warn of approaching British troops?",
-      "choices": ["Samuel Adams", "Paul Revere", "John Hancock", "John Adams"],
+      "choices": [
+        "Samuel Adams",
+        "Paul Revere",
+        "John Hancock",
+        "John Adams"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Paul Revere",
-        "verified": true,
-        "notes": "Immortalized in Longfellow's 1860 poem 'Paul Revere's Ride'."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Boston is located in which cultural/geographical region of the United States?",
-      "choices": ["The Midwest", "The South", "New England", "The Mid-Atlantic"],
+      "choices": [
+        "The Midwest",
+        "The South",
+        "New England",
+        "The Mid-Atlantic"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "New England",
-        "verified": true,
-        "notes": "Largest city in New England."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which river separates Boston from the neighboring city of Cambridge?",
-      "choices": ["Merrimack", "Connecticut", "Charles", "Mystic"],
+      "choices": [
+        "Merrimack",
+        "Connecticut",
+        "Charles",
+        "Mystic"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Charles River",
-        "verified": true,
-        "notes": "About 80 miles long; flows into Boston Harbor."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What do you call a resident of Boston?",
-      "choices": ["Bostoner", "Bostonian", "Bostonite", "Masser"],
+      "choices": [
+        "Bostoner",
+        "Bostonian",
+        "Bostonite",
+        "Masser"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bostonian",
-        "verified": true,
-        "notes": "Alternate: 'Townie' for someone from a specific neighborhood."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Boston's nickname 'Beantown' refers to which traditional local dish?",
-      "choices": ["Chowder", "Baked beans", "Bean stew", "Bean tacos"],
+      "choices": [
+        "Chowder",
+        "Baked beans",
+        "Bean stew",
+        "Bean tacos"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Slow-baked navy beans sweetened with molasses."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Boston's Major League Baseball team is known by what name?",
-      "choices": ["Red Sox", "White Sox", "Red Hawks", "Pilgrims"],
-      "correct": 0,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Play home games at Fenway Park — the oldest major league stadium in use."
-      }
-    },
-    {
-      "q": "Boston's NBA basketball team is the what?",
-      "choices": ["Bruins", "Celtics", "Shamrocks", "Patriots"],
+      "q": "In what year was Boston founded by Puritan settlers?",
+      "choices": [
+        "1620",
+        "1625",
+        "1630",
+        "1635"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Most NBA championships of any franchise (18 as of 2024)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The NFL team based in the Boston area is called what?",
-      "choices": ["Boston Patriots", "New England Patriots", "Boston Rangers", "New England Revolution"],
+      "q": "Which famous patriot rode through Boston at midnight to warn of British troop movements during the American Revolution?",
+      "choices": [
+        "Samuel Adams",
+        "Paul Revere",
+        "John Hancock",
+        "Benjamin Franklin"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Play in Foxborough, Massachusetts; six Super Bowl wins."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Boston's NHL team goes by which name?",
-      "choices": ["Bruins", "Blackhawks", "Braves", "Red Sox"],
-      "correct": 0,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Founded 1924; six Stanley Cup championships."
-      }
+      "q": "What is the name of Boston's public bike-sharing system?",
+      "choices": [
+        "CityBikes",
+        "Bluebikes",
+        "Boston Cycles",
+        "Hub Bikes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "The city of Boston takes its name from a town in which English county?",
-      "choices": ["Lancashire", "Yorkshire", "Lincolnshire", "Norfolk"],
+      "q": "Which prestigious university, the oldest institution of higher education in the United States, is located near Boston?",
+      "choices": [
+        "Yale University",
+        "Princeton University",
+        "Harvard University",
+        "Columbia University"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Lincolnshire",
-        "verified": true,
-        "notes": "Many Puritan founders had connections to Boston in Lincolnshire."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Boston Common, established in 1634, holds what distinction?",
-      "choices": ["Oldest public park in the United States", "Largest urban park in North America", "First national park", "Oldest zoo in the US"],
-      "correct": 0,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston Common",
-        "verified": true,
-        "notes": "About 50 acres in downtown Boston."
-      }
-    },
-    {
-      "q": "What is the name of the oldest public school in the United States, founded in Boston in 1635?",
-      "choices": ["Boston Public Academy", "Boston Latin School", "Harvard School", "Old North School"],
+      "q": "What major train station in Boston serves as a terminus for Amtrak's Northeast Regional and Acela Express routes?",
+      "choices": [
+        "North Station",
+        "South Station",
+        "Back Bay Station",
+        "Central Station"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston Latin School",
-        "verified": true,
-        "notes": "Alumni include Benjamin Franklin, Samuel Adams, and John Hancock."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Boston Tea Party was a protest against which British law of 1773?",
-      "choices": ["Stamp Act", "Tea Act", "Sugar Act", "Townshend Acts"],
-      "correct": 1,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Tea Act",
-        "verified": true,
-        "notes": "Gave the East India Company a monopoly on tea in the colonies."
-      }
-    },
-    {
-      "q": "In what year did British troops fire on a crowd in what became known as the Boston Massacre?",
-      "choices": ["1765", "1768", "1770", "1775"],
-      "correct": 2,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston Massacre",
-        "verified": true,
-        "notes": "March 5, 1770; killed five colonists. Used as revolutionary propaganda."
-      }
-    },
-    {
-      "q": "Boston's sister city of Cambridge, across the Charles River, is home to which two prestigious universities?",
-      "choices": ["Harvard and MIT", "Yale and Princeton", "Brown and Dartmouth", "Columbia and NYU"],
+      "q": "Which historic neighborhood in Boston is famous for its brick buildings, cobblestone streets, and waterfront location?",
+      "choices": [
+        "Beacon Hill",
+        "South Boston",
+        "Back Bay",
+        "Downtown"
+      ],
       "correct": 0,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Somerville and Cambridge",
-        "verified": true,
-        "notes": "Harvard is in Cambridge; MIT is in Cambridge; both founded before 1870."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The Boston Marathon, the world's oldest annual marathon, is held on which Monday each year?",
-      "choices": ["Labor Day", "Memorial Day", "Patriots' Day", "Veterans Day"],
+      "q": "What annual sporting event starting in Boston in 1897 is one of the world's oldest marathons?",
+      "choices": [
+        "Boston 10K",
+        "Boston Marathon",
+        "Boston Half-Marathon",
+        "Boston Ultra"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which peninsula was the original settlement of Boston established?",
+      "choices": [
+        "Back Bay Peninsula",
+        "Shawmut Peninsula",
+        "Cambridge Peninsula",
+        "Dorchester Peninsula"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Boston's ranking among the most populous cities in the United States?",
+      "choices": [
+        "15th",
+        "20th",
+        "25th",
+        "30th"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Third Monday in April; first held 1897."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which act passed by the British Parliament in 1773 prompted the Boston Tea Party?",
+      "choices": [
+        "Stamp Act",
+        "Sugar Act",
+        "Tea Act",
+        "Navigation Act"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary form of government used by the city of Boston?",
+      "choices": [
+        "Commission system",
+        "Council-manager system",
+        "Strong mayor-council system",
+        "Weak mayor system"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which large public park in downtown Boston has been a gathering place since colonial times?",
+      "choices": [
+        "Public Garden",
+        "Boston Common",
+        "Fenway Park",
+        "Washington Park"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname has Boston earned due to its literary history and cultural institutions?",
+      "choices": [
+        "City of History",
+        "Athens of America",
+        "Cradle of Liberty",
+        "Hub of Culture"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river runs alongside Kenmore Square and the Charles River Esplanade in Boston?",
+      "choices": [
+        "Mystic River",
+        "Charles River",
+        "Neponset River",
+        "Fort Point Channel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major infrastructure project, completed in 2006, transformed Boston's downtown transportation system?",
+      "choices": [
+        "Big Dig",
+        "Red Line Extension",
+        "Green Line Expansion",
+        "Harbor Tunnel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British commander oversaw the military operations that led to Boston's evacuation in 1776?",
+      "choices": [
+        "General Burgoyne",
+        "General Cornwallis",
+        "General William Howe",
+        "General Clinton"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many congressional districts does Boston span?",
+      "choices": [
+        "One district",
+        "Two districts",
+        "Three districts",
+        "Four districts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate metropolitan population of the Boston area?",
+      "choices": [
+        "2 million",
+        "3.5 million",
+        "4.9 million",
+        "6 million"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous art museum in Boston bears the name of its wealthy collector and founder?",
+      "choices": [
+        "Museum of Fine Arts",
+        "Isabella Stewart Gardner Museum",
+        "Institute of Contemporary Art",
+        "Peabody Essex Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What percentage of Boston's total area is composed of water?",
+      "choices": [
+        "25 percent",
+        "35 percent",
+        "46 percent",
+        "55 percent"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Puritan settlers found Boston?",
+      "choices": [
+        "1620",
+        "1625",
+        "1630",
+        "1635"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Major League Baseball team plays their home games at Fenway Park in Boston?",
+      "choices": [
+        "Boston Braves",
+        "Boston Red Sox",
+        "Boston Americans",
+        "Boston Pilgrims"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the oldest public high school in the United States, located in Boston?",
+      "choices": [
+        "Boston High School",
+        "Boston Latin School",
+        "Boston Academy",
+        "Boston Classical School"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major river flows beside Kenmore Square in Boston?",
+      "choices": [
+        "Boston River",
+        "Mystic River",
+        "Charles River",
+        "Neponset River"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Boston Common, established in 1634?",
+      "choices": [
+        "The first public marketplace in America",
+        "The first public park in the United States",
+        "The first public library in America",
+        "The first public courthouse in America"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which county is the city of Boston located in?",
+      "choices": [
+        "Middlesex County",
+        "Essex County",
+        "Suffolk County",
+        "Norfolk County"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which international airport serves as Boston's primary airport?",
+      "choices": [
+        "Boston Regional Airport",
+        "Logan International Airport",
+        "Boston-Manchester Airport",
+        "Boston Hanscom Airport"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major event took place in Boston in 1773 as a protest against British taxation?",
+      "choices": [
+        "Boston Massacre",
+        "Boston Tea Party",
+        "Boston Rebellion",
+        "Boston Siege"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which region of the United States is Boston located?",
+      "choices": [
+        "Mid-Atlantic",
+        "New England",
+        "Upper Midwest",
+        "Southeast"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous 1775 battle fought near Boston that resulted in a British pyrrhic victory?",
+      "choices": [
+        "Battle of Lexington",
+        "Battle of Concord",
+        "Battle of Bunker Hill",
+        "Battle of Breed's Hill"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On what peninsula was Boston originally founded?",
+      "choices": [
+        "Nantucket Peninsula",
+        "Cape Cod Peninsula",
+        "Shawmut Peninsula",
+        "Beacon Peninsula"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which celebration in Boston concludes with fireworks over the Charles River on Independence Day?",
+      "choices": [
+        "Boston Summer Festival",
+        "Boston Pops Concert and Fireworks",
+        "Boston Patriot Celebration",
+        "Boston Freedom Festival"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary field in which Boston has emerged as a global leader hub?",
+      "choices": [
+        "Finance and Banking",
+        "Biotechnology",
+        "Information Technology",
+        "Maritime Industry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which well-known university, part of the intellectual triangle near Boston, is located in Cambridge?",
+      "choices": [
+        "Northeastern University",
+        "Harvard University",
+        "Boston College",
+        "Tufts University"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the art institution in Boston's Seaport District designed by Diller Scofidio + Renfro?",
+      "choices": [
+        "Museum of Fine Arts Boston",
+        "Institute of Contemporary Art",
+        "Isabella Stewart Gardner Museum",
+        "Peabody Essex Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately what fraction of inner Boston's modern land area was created through land reclamation?",
+      "choices": [
+        "About one-half",
+        "About two-thirds",
+        "About one-quarter",
+        "Almost all of it"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Boston hospital is prominently known for pioneering medical innovation and research?",
+      "choices": [
+        "Boston Medical Center",
+        "Massachusetts General Hospital",
+        "Brigham and Women's Hospital",
+        "Tufts Medical Center"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major urban construction project in Boston, known as the Big Dig, transformed the downtown area?",
+      "choices": [
+        "Harbor Tunnel Project",
+        "Central Artery/Tunnel Project",
+        "Downtown Revitalization Initiative",
+        "Seaport Development Project"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Boston Latin School, the first public school in the United States, founded?",
+      "choices": [
+        "1630",
+        "1632",
+        "1635",
+        "1640"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the ranking of Boston as a financial center among U.S. cities according to recent assessments?",
+      "choices": [
+        "Fifth most competitive",
+        "Eighth most competitive",
+        "Thirteenth most competitive",
+        "Twentieth most competitive"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which river separates Boston from Cambridge?",
+      "choices": [
+        "Hudson River",
+        "Charles River",
+        "Mystic River",
+        "Neponset River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major body of water borders Boston to the east?",
+      "choices": [
+        "Cape Cod Bay",
+        "Boston Harbor",
+        "Massachusetts Bay",
+        "Atlantic Ocean"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Boston first settled by Puritan colonists?",
+      "choices": [
+        "1620",
+        "1625",
+        "1635",
+        "1650"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous midnight ride by Paul Revere occurred during which war?",
+      "choices": [
+        "French and Indian War",
+        "American Revolution",
+        "War of 1812",
+        "Civil War"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Boston's public bikeshare system?",
+      "choices": [
+        "Hubway",
+        "Bluebikes",
+        "Boston Bikes",
+        "City Cycle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which architectural style is Boston City Hall famous for exemplifying?",
+      "choices": [
+        "Art Deco",
+        "Gothic Revival",
+        "Brutalist",
+        "Neoclassical"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the major infrastructure project that transformed Boston's highway system and is known locally as the 'Big Dig'?",
+      "choices": [
+        "Harbor Tunnel Project",
+        "Central Artery/Tunnel Project",
+        "Green Line Extension",
+        "Seaport Development"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which institution, established in 1852, was the first free public library in the United States?",
+      "choices": [
+        "Boston Athenaeum",
+        "Boston Public Library",
+        "Harvard Library",
+        "New York Public Library"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of government system does Boston operate under?",
+      "choices": [
+        "City manager system",
+        "Strong mayor–council system",
+        "Council-only system",
+        "Aldermanic system"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How often are members of the Boston City Council elected to office?",
+      "choices": [
+        "Every year",
+        "Every two years",
+        "Every four years",
+        "Every three years"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which colonial document signed in 1629 established the Massachusetts Bay Colony and paved the way for Boston's founding?",
+      "choices": [
+        "Mayflower Compact",
+        "Cambridge Agreement",
+        "Massachusetts Charter",
+        "Boston Covenant"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which 1775 battle near Boston is often remembered as a pyrrhic victory for British forces?",
+      "choices": [
+        "Battle of Lexington",
+        "Battle of Concord",
+        "Battle of Bunker Hill",
+        "Battle of Boston Harbor"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous university, located near Boston and founded in 1636, is the nation's oldest institution of higher education?",
+      "choices": [
+        "MIT",
+        "Boston University",
+        "Harvard University",
+        "Tufts University"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which venue does the Boston Ballet perform?",
+      "choices": [
+        "Orpheum Theatre",
+        "Wang Theatre",
+        "Boston Opera House",
+        "Shubert Theatre"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major transportation hub in Boston serves as a terminus for Amtrak's Northeast Regional and Acela Express trains?",
+      "choices": [
+        "North Station",
+        "South Station",
+        "Union Station",
+        "Back Bay Station"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which nickname is Boston known by due to its rich literary and cultural heritage?",
+      "choices": [
+        "City of Neighborhoods",
+        "Athens of America",
+        "Hub of the Universe",
+        "Cradle of Liberty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Boston Redevelopment Authority established?",
+      "choices": [
+        "1947",
+        "1957",
+        "1967",
+        "1977"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major fire in the 19th century led Boston workers to use building rubble as landfill along the waterfront?",
+      "choices": [
+        "Great Fire of 1835",
+        "Great Boston Fire of 1872",
+        "Waterfront Fire of 1890",
+        "Harbor District Fire of 1880"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the approximate metro population of the Boston area?",
+      "choices": [
+        "2.5 million",
+        "3.2 million",
+        "4.9 million",
+        "6.1 million"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Puritan settlers establish Boston?",
+      "choices": [
+        "1620",
+        "1625",
+        "1630",
+        "1635"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Boston's public bikeshare program?",
+      "choices": [
+        "CycleBos",
+        "Bluebikes",
+        "BostonBikes",
+        "Hub Cycles"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which tall landmark is the tallest building in the Boston area?",
+      "choices": [
+        "Prudential Center",
+        "John Hancock Tower",
+        "Boston One",
+        "Millennium Tower"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nickname has Boston earned because of its literary and cultural significance?",
+      "choices": [
+        "The Literary City",
+        "Athens of America",
+        "The Intellectual Hub",
+        "America's Library"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "The city of Boston was originally founded in 1630 on what peninsula?",
-      "choices": ["Cape Cod", "Nantucket", "Shawmut Peninsula", "North Cape"],
+      "choices": [
+        "Cape Cod",
+        "Nantucket",
+        "Shawmut Peninsula",
+        "North Cape"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Shawmut Peninsula",
-        "verified": true,
-        "notes": "Original name given by Algonquin peoples."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "What is Boston's highest natural point?",
-      "choices": ["Bunker Hill", "Beacon Hill", "Bellevue Hill", "Copp's Hill"],
+      "choices": [
+        "Bunker Hill",
+        "Beacon Hill",
+        "Bellevue Hill",
+        "Copp's Hill"
+      ],
       "correct": 2,
-      "category": "Boston",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bellevue Hill",
-        "verified": true,
-        "notes": "Rises about 330 feet in West Roxbury."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "What notable 1919 Boston disaster saw a huge wave of molasses flood parts of the North End?",
-      "choices": ["The Boston Brick Collapse", "The Great Molasses Flood", "The Hub Flood", "The Harbor Rush"],
+      "choices": [
+        "The Boston Brick Collapse",
+        "The Great Molasses Flood",
+        "The Hub Flood",
+        "The Harbor Rush"
+      ],
       "correct": 1,
-      "category": "Boston",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Boston",
-        "verified": true,
-        "notes": "Storage tank burst January 15, 1919; killed 21 people."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Approximately what fraction of Boston's modern land area was created through historical landfill projects?",
-      "choices": ["About one-sixth", "One-third", "One-half", "More than two-thirds"],
+      "choices": [
+        "One-tenth",
+        "One-fifth",
+        "One-third",
+        "More than two-thirds"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which general was tasked with fortifying Dorchester Heights in March 1776 during the Siege of Boston?",
+      "choices": [
+        "Henry Knox",
+        "Rufus Putnam",
+        "William Howe",
+        "Israel Putnam"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Puritan settlers establish Boston on the Shawmut Peninsula?",
+      "choices": [
+        "1620",
+        "1625",
+        "1630",
+        "1634"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British act imposed a tax on tea that directly led to the Boston Tea Party in December 1773?",
+      "choices": [
+        "Townshend Acts",
+        "Tea Act",
+        "Sugar Act",
+        "Stamp Act"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Boston Massacre of 1770 resulted in how many civilian deaths at the hands of British troops?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Seven"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the precise land area of Boston proper according to official municipal measurements?",
+      "choices": [
+        "42.15 square miles",
+        "48.34 square miles",
+        "51.67 square miles",
+        "55.29 square miles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 1775 battle near Boston, though tactically won by the British, inflicted such heavy casualties that it weakened their position?",
+      "choices": [
+        "Battle of Lexington and Concord",
+        "Battle of Bunker Hill",
+        "Siege of Boston",
+        "Battle of Breed's Hill"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which county of Massachusetts is the city of Boston incorporated?",
+      "choices": [
+        "Middlesex County",
+        "Suffolk County",
+        "Essex County",
+        "Norfolk County"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston significantly expanded its land area during the 19th century through which major urban development process?",
+      "choices": [
+        "Annexation of neighboring towns",
+        "Filling in marshes and tidal areas",
+        "Dredging harbor channels",
+        "Constructing artificial islands"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river serves as the boundary between Boston's Fenway-Kenmore neighborhood and Cambridge to the north?",
+      "choices": [
+        "Neponset River",
+        "Charles River",
+        "Mystic River",
+        "Shawsheen River"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary characteristic of downtown Boston's street layout that distinguishes it from other major American cities?",
+      "choices": [
+        "A strict rectangular grid pattern",
+        "Organic, unplanned growth without a formal grid",
+        "Concentric circles radiating from City Hall",
+        "A radial design based on French urban planning"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which architectural landmark is the tallest building in the Boston metropolitan area?",
+      "choices": [
+        "Prudential Center",
+        "Custom House Tower",
+        "John Hancock Tower",
+        "One International Place"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to the 2020 U.S. Census, what was the population of Boston proper?",
+      "choices": [
+        "612,348",
+        "653,833",
+        "675,647",
+        "701,955"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Boston metropolitan area had approximately what population according to recent estimates?",
+      "choices": [
+        "3.8 million",
+        "4.2 million",
+        "4.9 million",
+        "5.3 million"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two telephone area codes serve the city of Boston?",
+      "choices": [
+        "508 and 774",
+        "617 and 857",
+        "413 and 781",
+        "978 and 351"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which venue does the Boston Ballet primarily perform its productions?",
+      "choices": [
+        "Shubert Theatre",
+        "Wang Theatre",
+        "Boston Opera House",
+        "Emerson Colonial Theatre"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What management tool has Boston implemented to measure the effectiveness of public services delivery?",
+      "choices": [
+        "CityMetrics",
+        "PerformanceTracker",
+        "CityScore",
+        "PublicGauge"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Under the Köppen-Geiger climate classification system, Boston's climate is primarily categorized as which type?",
+      "choices": [
+        "Oceanic",
+        "Humid continental",
+        "Temperate oceanic",
+        "Humid subtropical"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "After the American Revolution, Boston's economy underwent a significant shift toward which industries?",
+      "choices": [
+        "Agriculture and fishing",
+        "Manufacturing and education",
+        "Tourism and retail",
+        "Finance and real estate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During the colonial period, Boston served as a primary port along which major trade route to the Caribbean?",
+      "choices": [
+        "The Silk Road",
+        "The Triangular Trade Route",
+        "The North Atlantic Trade Route",
+        "The Caribbean Merchant Route"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which postal ZIP code is associated with Boston's Financial District?",
+      "choices": [
+        "02108",
+        "02109",
+        "02110",
+        "02111"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Massachusetts Bay Colony's Cambridge Agreement establish the legal framework that directly led to Boston's founding?",
+      "choices": [
+        "1627",
+        "1629",
+        "1632",
+        "1635"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which architectural style characterizes Boston City Hall, completed in 1968?",
+      "choices": [
+        "Art Deco",
+        "Brutalist",
+        "Neoclassical",
+        "Art Nouveau"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Battle of Bunker Hill in 1775 is primarily remembered for demonstrating what military outcome despite British victory?",
+      "choices": [
+        "Colonial naval superiority",
+        "The high cost of frontal assault tactics",
+        "American ammunition superiority",
+        "British retreat strategies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary economic transformation Boston underwent in the decades following the American Revolution?",
+      "choices": [
+        "Shift from maritime trade to agriculture",
+        "Shift from port commerce to manufacturing and education",
+        "Shift from fishing to finance exclusively",
+        "Shift from shipbuilding to textile mills only"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston Common, established in 1634, holds what distinction in American park history?",
+      "choices": [
+        "First landscaped garden in North America",
+        "First public park in the United States",
+        "First enclosed urban park",
+        "First park with a zoo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Amtrak service routes terminate at Boston's South Station as its northeastern endpoint?",
+      "choices": [
+        "Lake Shore Limited",
+        "Northeast Regional and Acela Express",
+        "Capitol Limited",
+        "Silver Star"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Tremont Street subway, which opened in 1897, holds what historical significance in American public transportation?",
+      "choices": [
+        "First elevated railway in America",
+        "First electric streetcar system",
+        "Oldest subway system in the United States",
+        "First commuter rail network"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston expanded its land area significantly during the 19th century through what primary method?",
+      "choices": [
+        "Purchasing surrounding municipalities",
+        "Filling in marshes and tidal areas",
+        "Annexing farmland from Cambridge",
+        "Dredging harbor channels"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Central Artery/Tunnel Project, commonly known as the Big Dig, primarily addressed which urban infrastructure problem?",
+      "choices": [
+        "Flooding in the Financial District",
+        "Traffic congestion created by an elevated highway",
+        "Deteriorating subway infrastructure",
+        "Port accessibility issues"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river forms a natural boundary between Boston's Back Bay and Fenway-Kenmore neighborhoods and Cambridge?",
+      "choices": [
+        "Mystic River",
+        "Neponset River",
+        "Charles River",
+        "Shawsheen River"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston's organic street layout in downtown areas resulted from what historical development pattern?",
+      "choices": [
+        "French Baroque city planning",
+        "Thomas Jefferson's grid design",
+        "Unplanned growth over centuries without organized grids",
+        "William Penn's influence"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Boston Tea Party of 1773 was a direct protest against which specific British policy?",
+      "choices": [
+        "The Intolerable Acts",
+        "The Tea Act",
+        "The Stamp Act",
+        "The Navigation Acts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What distinction does Boston Latin School hold in American educational history?",
+      "choices": [
+        "First university in America",
+        "First public school in the United States",
+        "First boarding school in New England",
+        "First grammar school with Latin curriculum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The John Hancock Tower in Boston stands as the tallest building in what geographic area?",
+      "choices": [
+        "The city of Boston proper",
+        "New England region",
+        "The Boston area",
+        "Massachusetts state"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major multinational corporation relocated its global headquarters to Boston's Seaport District in 2016?",
+      "choices": [
+        "Raytheon Technologies",
+        "General Electric",
+        "Bose Corporation",
+        "Blue Cross Blue Shield"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston's metro population as of the early 2020s encompasses approximately how many residents?",
+      "choices": [
+        "3.2 million",
+        "4.9 million",
+        "6.1 million",
+        "2.8 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Boston Marathon, one of the world's oldest marathons, has been held annually since what year?",
+      "choices": [
+        "1886",
+        "1897",
+        "1910",
+        "1903"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which form of government does Boston operate under?",
+      "choices": [
+        "Weak mayor–council system",
+        "City manager system",
+        "Strong mayor–council system",
+        "Commission system"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Massachusetts Route 128, which partially encircles Boston's suburbs, serves what functional purpose?",
+      "choices": [
+        "Interstate highway connector",
+        "Partial beltway and high-tech corridor",
+        "Inner ring road only",
+        "Commuter rail line"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geographic coordinates approximately pinpoint Boston's location?",
+      "choices": [
+        "41°N 72°W",
+        "42°N 71°W",
+        "43°N 70°W",
+        "40°N 73°W"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Central Artery/Tunnel Project, known as the Big Dig, officially completed?",
+      "choices": [
+        "2003",
+        "2005",
+        "2007",
+        "2001"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The John Joseph Moakley United States Courthouse in Boston serves as the home for which federal appellate court?",
+      "choices": [
+        "U.S. Court of Appeals for the Second Circuit",
+        "U.S. Court of Appeals for the First Circuit",
+        "U.S. Court of Appeals for the Third Circuit",
+        "U.S. Court of Appeals for the Fifth Circuit"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the Boston area before European settlers renamed it to Boston?",
+      "choices": [
+        "Trimountain",
+        "Shawmut",
+        "Sachemdom",
+        "Wampanoag Point"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston was named after a town located in which English county?",
+      "choices": [
+        "Yorkshire",
+        "Essex",
+        "Lincolnshire",
+        "Norfolk"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately what percentage of Boston's total land area is composed of water?",
+      "choices": [
+        "38%",
+        "46%",
+        "52%",
+        "29%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which investment company headquartered in Boston pioneered the popularization of mutual funds?",
+      "choices": [
+        "State Street Corporation",
+        "Fidelity Investments",
+        "Vanguard",
+        "Charles Schwab"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did General Electric relocate its global headquarters to Boston's Seaport District?",
+      "choices": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the commanding officer that supervised the construction of fortifications on Dorchester Heights during the American Revolutionary War in Boston?",
+      "choices": [
+        "Henry Knox",
+        "Rufus Putnam",
+        "George Washington",
+        "William Howe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What catastrophic event in 1872 led Boston workers to use building rubble as landfill along the waterfront?",
+      "choices": [
+        "Boston Earthquake",
+        "Great Boston Fire",
+        "Harbor Flood",
+        "Structural Collapse"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston City Hall is a landmark example of which twentieth-century architectural movement?",
+      "choices": [
+        "Art Deco",
+        "Brutalism",
+        "Modernism",
+        "Post-Modernism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the elevation of Boston above sea level?",
+      "choices": [
+        "52 feet",
+        "46 feet",
+        "38 feet",
+        "61 feet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which highway circling Boston's suburbs is frequently referred to as a partial beltway in Massachusetts?",
+      "choices": [
+        "Massachusetts Route 128",
+        "Interstate 495",
+        "Interstate 93",
+        "Route 1"
+      ],
       "correct": 0,
-      "category": "Boston",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "About one-sixth",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: National Geographic and other sources cite ~1/6 of the city as filled/made land. Back Bay, South End, and much of downtown sit on reclaimed land."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the average annual snowfall recorded in Boston?",
+      "choices": [
+        "42.1 inches",
+        "49.2 inches",
+        "55.8 inches",
+        "38.5 inches"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to recent U.S. census data, approximately what percentage of Boston households do not own a car?",
+      "choices": [
+        "28.4%",
+        "33.8%",
+        "41.2%",
+        "25.6%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which county in Massachusetts contains the city of Boston?",
+      "choices": [
+        "Essex County",
+        "Middlesex County",
+        "Suffolk County",
+        "Plymouth County"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which venue does the Boston Ballet perform its productions?",
+      "choices": [
+        "Colonial Theatre",
+        "Boston Opera House",
+        "Paramount Theatre",
+        "Citi Performing Arts Center"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What major Amtrak terminus in Boston serves both the Northeast Regional and Acela Express routes?",
+      "choices": [
+        "North Station",
+        "South Station",
+        "Back Bay Station",
+        "Union Station"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which two area codes serve telephone communications in Boston?",
+      "choices": [
+        "508 and 774",
+        "617 and 857",
+        "413 and 551",
+        "978 and 351"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What significant military event marked the conclusion of the siege in Boston during the American Revolutionary War?",
+      "choices": [
+        "Battle of Bunker Hill",
+        "Evacuation Day",
+        "Boston Tea Party",
+        "Lexington and Concord"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which prominent Boston hospital has established itself as a leader in medical innovation and research?",
+      "choices": [
+        "Boston Medical Center",
+        "Massachusetts General Hospital",
+        "Tufts Medical Center",
+        "Brigham and Women's Hospital"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which architect and design firm created the Institute of Contemporary Art in Boston's Seaport District, completed in 2006?",
+      "choices": [
+        "I.M. Pei & Partners",
+        "Diller Scofidio + Renfro",
+        "Rem Koolhaas / OMA",
+        "Renzo Piano Building Workshop"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Boston become officially incorporated as a city, marking a formal transition from colonial town governance?",
+      "choices": [
+        "1776",
+        "1800",
+        "1822",
+        "1850"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which officer, under the command of General George Washington, oversaw the construction of the strategic fortifications on Dorchester Heights in 1776?",
+      "choices": [
+        "Henry Knox",
+        "Rufus Putnam",
+        "Israel Putnam",
+        "John Stark"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The original settlement area of Boston was known by what indigenous-influenced name before English colonists renamed it?",
+      "choices": [
+        "Massasoit",
+        "Pocasset",
+        "Shawmut",
+        "Patuxet"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately what fraction of Boston's current inner city land area was created through deliberate land reclamation projects?",
+      "choices": [
+        "One-third",
+        "One-half",
+        "Two-thirds",
+        "More than two-thirds"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English county was the namesake for the city of Boston, Massachusetts, chosen by Puritan settlers in the 17th century?",
+      "choices": [
+        "Suffolk County",
+        "Lincolnshire",
+        "Norfolk County",
+        "Essex County"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Boston's Major League Baseball team is known by what name?",
+      "choices": [
+        "Red Sox",
+        "White Sox",
+        "Red Hawks",
+        "Pilgrims"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston's NBA basketball team is the what?",
+      "choices": [
+        "Bruins",
+        "Celtics",
+        "Shamrocks",
+        "Patriots"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The NFL team based in the Boston area is called what?",
+      "choices": [
+        "Boston Patriots",
+        "New England Patriots",
+        "Boston Rangers",
+        "New England Revolution"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston's NHL team goes by which name?",
+      "choices": [
+        "Bruins",
+        "Blackhawks",
+        "Braves",
+        "Red Sox"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The city of Boston takes its name from a town in which English county?",
+      "choices": [
+        "Lancashire",
+        "Yorkshire",
+        "Lincolnshire",
+        "Norfolk"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston Common, established in 1634, holds what distinction?",
+      "choices": [
+        "Oldest public park in the United States",
+        "Largest urban park in North America",
+        "First national park",
+        "Oldest zoo in the US"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the oldest public school in the United States, founded in Boston in 1635?",
+      "choices": [
+        "Boston Public Academy",
+        "Boston Latin School",
+        "Harvard School",
+        "Old North School"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Boston Tea Party was a protest against which British law of 1773?",
+      "choices": [
+        "Stamp Act",
+        "Tea Act",
+        "Sugar Act",
+        "Townshend Acts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did British troops fire on a crowd in what became known as the Boston Massacre?",
+      "choices": [
+        "1765",
+        "1768",
+        "1770",
+        "1775"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston's sister city of Cambridge, across the Charles River, is home to which two prestigious universities?",
+      "choices": [
+        "Harvard and MIT",
+        "Yale and Princeton",
+        "Brown and Dartmouth",
+        "Columbia and NYU"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Boston Marathon, the world's oldest annual marathon, is held on which Monday each year?",
+      "choices": [
+        "Labor Day",
+        "Memorial Day",
+        "Patriots' Day",
+        "Veterans Day"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which geographic feature comprises approximately 46% of Boston's total area?",
+      "choices": [
+        "Parks and public spaces",
+        "Water",
+        "Streets and roads",
+        "Commercial districts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the public school founded in Boston in 1635, recognized as the first public school in the United States?",
+      "choices": [
+        "Boston Academy",
+        "Boston Latin School",
+        "Boston Classical School",
+        "Boston Public Academy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Major League Baseball team plays its home games at Fenway Park in Boston?",
+      "choices": [
+        "Boston Bruins",
+        "Boston Red Sox",
+        "Boston Celtics",
+        "New England Patriots"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major annual sporting event held in Boston covers a distance of 26.2 miles and is one of the world's oldest marathons?",
+      "choices": [
+        "Boston Road Race",
+        "New England Marathon",
+        "Boston Marathon",
+        "Charles River Marathon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which peninsula was the city of Boston originally founded?",
+      "choices": [
+        "Cape Cod Peninsula",
+        "Shawmut Peninsula",
+        "Nahant Peninsula",
+        "Winthrop Peninsula"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Revolutionary War event marked the end of the British siege of Boston during the American Revolution?",
+      "choices": [
+        "Battle of Bunker Hill",
+        "Evacuation Day",
+        "Declaration of Independence",
+        "Siege of Charleston"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the highest point in the city of Boston?",
+      "choices": [
+        "Bunker Hill",
+        "Bellevue Hill",
+        "Beacon Hill",
+        "Fort Hill"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which contemporary art museum, designed by Diller Scofidio + Renfro, opened in Boston's Seaport District?",
+      "choices": [
+        "Museum of Fine Arts",
+        "Isabella Stewart Gardner Museum",
+        "Institute of Contemporary Art",
+        "Peabody Essex Museum"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston earned which nickname due to its rich literary history and cultural heritage?",
+      "choices": [
+        "The Intellectual Capital",
+        "Athens of America",
+        "City of Letters",
+        "Literary Hub of America"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the 2020 census, what was Boston's population?",
+      "choices": [
+        "approximately 575,000",
+        "approximately 675,647",
+        "approximately 750,000",
+        "approximately 825,000"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which international airport serves as the primary air hub for the Boston metropolitan area?",
+      "choices": [
+        "Boston Regional Airport",
+        "Logan International Airport",
+        "Manchester Airport",
+        "Providence Airport"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many area codes serve the city of Boston in the United States?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous Revolutionary War figure led the midnight ride in Boston and surrounding areas in 1775?",
+      "choices": [
+        "Samuel Adams",
+        "Paul Revere",
+        "John Hancock",
+        "Benjamin Franklin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate land area of Boston in square miles?",
+      "choices": [
+        "38.5 square miles",
+        "48.34 square miles",
+        "58.2 square miles",
+        "68.9 square miles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "After the American Revolution, Boston shifted its economy away from maritime trade to focus on which two major industries?",
+      "choices": [
+        "Agriculture and textiles",
+        "Manufacturing and education",
+        "Finance and shipping",
+        "Retail and hospitality"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which investment company, based in Boston, played a significant role in popularizing the mutual fund concept?",
+      "choices": [
+        "Vanguard",
+        "Fidelity Investments",
+        "Charles Schwab",
+        "E-Trade"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Boston's population density per square mile?",
+      "choices": [
+        "approximately 8,500 per square mile",
+        "approximately 13,976.98 per square mile",
+        "approximately 18,200 per square mile",
+        "approximately 22,100 per square mile"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which federal courthouse in Boston houses the U.S. Court of Appeals for the First Circuit?",
+      "choices": [
+        "John Joseph Moakley United States Courthouse",
+        "Boston Federal Building",
+        "United States District Courthouse",
+        "New England Federal Court Complex"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Under the Köppen climate classification, which two climate types describe Boston's weather patterns?",
+      "choices": [
+        "Temperate oceanic and subarctic",
+        "Humid continental and humid subtropical",
+        "Mediterranean and humid subtropical",
+        "Tropical and temperate"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which architectural style defines Boston City Hall, completed in 1968?",
+      "choices": [
+        "Art Deco",
+        "Brutalist",
+        "Gothic Revival",
+        "Neoclassical"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary purpose of the Central Artery/Tunnel Project, known locally as the Big Dig?",
+      "choices": [
+        "Expanding the harbor",
+        "Replacing an elevated highway with underground transit",
+        "Building new subway lines",
+        "Creating a tunnel under the Charles River"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two area codes serve telephone lines in Boston?",
+      "choices": [
+        "508 and 617",
+        "617 and 857",
+        "781 and 857",
+        "617 and 781"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to Köppen climate classification, which two climate types characterize Boston's weather patterns?",
+      "choices": [
+        "Tropical and arid",
+        "Humid continental and humid subtropical",
+        "Oceanic and temperate",
+        "Subarctic and tundra"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What historical event in 1773 involved Boston colonists protesting British taxation by dumping tea into the harbor?",
+      "choices": [
+        "The Boston Massacre",
+        "The Tea Party Riot",
+        "The Boston Tea Party",
+        "The Harbor Protest"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which prominent Boston medical institution is recognized as a leader in medical innovation and research?",
+      "choices": [
+        "Boston Medical Center",
+        "Massachusetts General Hospital",
+        "Brigham and Women's Hospital",
+        "Boston Children's Hospital"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which government system does Boston operate under?",
+      "choices": [
+        "City council only",
+        "Mayor-council system",
+        "Strong mayor–council system",
+        "Commission system"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the oldest subway system in the United States, which operates in Boston?",
+      "choices": [
+        "Boston Underground",
+        "Tremont Street subway",
+        "Metropolitan Transit",
+        "The T Original Line"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Following the American Revolution, what economic sectors became central to Boston's development?",
+      "choices": [
+        "Fishing and shipbuilding",
+        "Manufacturing and education",
+        "Agriculture and mining",
+        "Textiles and trade"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British military commander led the siege that resulted in Boston's evacuation during the Revolutionary War?",
+      "choices": [
+        "General Cornwallis",
+        "Sir William Howe",
+        "General Burgoyne",
+        "Lord North"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to financial center rankings, where does Boston rank among U.S. financial centers by competitiveness?",
+      "choices": [
+        "Seventh",
+        "Tenth",
+        "Thirteenth",
+        "Twentieth"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which river runs alongside Kenmore Square in Boston?",
+      "choices": [
+        "Mystic River",
+        "Charles River",
+        "Neponset River",
+        "Shawsheen River"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Boston's tallest building?",
+      "choices": [
+        "Prudential Center",
+        "One Boston Place",
+        "John Hancock Tower",
+        "Hancock Building"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major transportation hub in Boston serves as the terminus for Amtrak's Northeast Regional and Acela Express trains?",
+      "choices": [
+        "North Station",
+        "South Station",
+        "Back Bay Station",
+        "Downtown Crossing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What ZIP code is associated with Boston's Financial District?",
+      "choices": [
+        "02101",
+        "02110",
+        "02115",
+        "02125"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which event in 1770 is credited with escalating revolutionary sentiment in Boston and the colonies?",
+      "choices": [
+        "The Stamp Act protest",
+        "The Boston Massacre",
+        "The Townshend Acts riot",
+        "The Boston Tea Party"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What geographic designation encompasses Boston and its surrounding cities and towns?",
+      "choices": [
+        "Metro Boston",
+        "Greater Boston",
+        "Boston Metropolitan Area",
+        "Boston Proper"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major 19th-century disaster led Boston to use building rubble as landfill along the waterfront?",
+      "choices": [
+        "The Boston Blizzard of 1888",
+        "The Great Boston Fire of 1872",
+        "The Hurricane of 1869",
+        "The Waterfront Flood of 1875"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which architectural style is prominently featured in Boston City Hall?",
+      "choices": [
+        "Art Deco",
+        "Brutalist",
+        "Classical Revival",
+        "Gothic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the average annual snowfall in Boston, measured in inches?",
+      "choices": [
+        "35.8",
+        "42.1",
+        "49.2",
+        "56.5"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which river separates Boston's Charlestown neighborhood from Chelsea and Everett?",
+      "choices": [
+        "Charles River",
+        "Mystic River",
+        "Neponset River",
+        "Shawsheen River"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston's land area was significantly expanded in the 19th century primarily by which method?",
+      "choices": [
+        "Annexing surrounding towns",
+        "Filling in marshes and tidal areas",
+        "Dredging the harbor",
+        "Purchasing new territory"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two area codes serve the city of Boston?",
+      "choices": [
+        "508 and 617",
+        "617 and 857",
+        "413 and 617",
+        "774 and 857"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the highest point in Boston?",
+      "choices": [
+        "Fort Hill",
+        "Bunker Hill",
+        "Bellevue Hill",
+        "Copp's Hill"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Harvard University, the nation's oldest institute of higher education, is located in which area near Boston?",
+      "choices": [
+        "Cambridge",
+        "Brookline",
+        "Newton",
+        "Medford"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Major League Baseball team plays at Fenway Park?",
+      "choices": [
+        "Boston Bruins",
+        "Boston Red Sox",
+        "Boston Celtics",
+        "New England Patriots"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to recent financial rankings, what is Boston's competitive position as a financial center in the United States?",
+      "choices": [
+        "Tenth",
+        "Eleventh",
+        "Twelfth",
+        "Thirteenth"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which investment company based in Boston helped popularize the mutual fund concept?",
+      "choices": [
+        "State Street",
+        "Fidelity Investments",
+        "Liberty Mutual",
+        "Vanguard"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Boston Common is known for hosting various community events and serves primarily as what type of space?",
+      "choices": [
+        "Shopping district",
+        "Outdoor recreational area",
+        "Financial district",
+        "Industrial zone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1765 legislative act sparked violent protests in Boston and throughout the colonies?",
+      "choices": [
+        "Townshend Acts",
+        "Stamp Act",
+        "Tea Act",
+        "Intolerable Acts"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Boston's street layout in the downtown area developed primarily through which method?",
+      "choices": [
+        "Planned grid system",
+        "Organic growth without a grid plan",
+        "Radial pattern from city center",
+        "Geometric surveying"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did the Boston Tea Party occur?",
+      "choices": [
+        "17th century",
+        "18th century",
+        "19th century",
+        "20th century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Charles River flows beside which popular Boston square known for shopping and dining?",
+      "choices": [
+        "Copley Square",
+        "Kenmore Square",
+        "Scollay Square",
+        "Central Square"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which congressional districts in the United States include areas of Boston?",
+      "choices": [
+        "5th and 6th",
+        "6th and 7th",
+        "7th and 8th",
+        "8th and 9th"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Central Artery/Tunnel Project, commonly known as the Big Dig, replaced an elevated highway in Boston with which major infrastructure improvement?",
+      "choices": [
+        "An underground subway expansion",
+        "An underground highway tunnel",
+        "A surface-level boulevard",
+        "A pedestrian bridge network"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

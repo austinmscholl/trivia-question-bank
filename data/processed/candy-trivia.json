@@ -1,17 +1,18 @@
 {
   "slug": "candy-trivia",
   "name": "Candy",
-  "description": "Chocolate bars, hard candies, gummies, and the sugary staples of every corner store.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.458Z",
   "questions": [
     {
       "q": "M&M's, Snickers, and Milky Way are all candies made by which company?",
-      "choices": ["Hershey", "Mars", "Nestlé", "Ferrero"],
+      "choices": [
+        "Hershey",
+        "Mars",
+        "Nestlé",
+        "Ferrero"
+      ],
       "correct": 1,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Mars, Incorporated", "verified": true, "notes": "Mars is a family-owned private company." }
+      "difficulty": "easy"
     },
     {
       "q": "Which candy bar's slogan is 'Sometimes you feel like a nut, sometimes you don't'?",
@@ -22,33 +23,40 @@
         "Butterfinger"
       ],
       "correct": 1,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Joy", "verified": true, "notes": "Mounds has no nut; Almond Joy has an almond." }
+      "difficulty": "easy"
     },
     {
       "q": "Which hard round candy is shaped like a life preserver with a hole in the middle?",
-      "choices": ["Tic Tacs", "Life Savers", "Smarties", "Jolly Ranchers"],
+      "choices": [
+        "Tic Tacs",
+        "Life Savers",
+        "Smarties",
+        "Jolly Ranchers"
+      ],
       "correct": 1,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Lifesavers", "verified": true, "notes": "Created 1912 by chocolate maker Clarence Crane." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which German company makes the original gummy bears (started 1922)?",
-      "choices": ["Haribo", "Trolli", "Albanese", "Black Forest"],
+      "q": "Which German company makes the original gummy bears (starzed 1922)?",
+      "choices": [
+        "Haribo",
+        "Trolli",
+        "Albanese",
+        "Black Forest"
+      ],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Haribo", "verified": true, "notes": "audit-corrected 2026-05-09: fixed typo 'starzed' -> 'started'. Name from founder Hans Riegel, Bonn." }
+      "difficulty": "easy"
     },
     {
       "q": "Reese's Peanut Butter Cups are made by which company (part of a giant chocolate conglomerate)?",
-      "choices": ["Nestlé", "Hershey", "Mondelez", "Ferrero"],
+      "choices": [
+        "Nestlé",
+        "Hershey",
+        "Mondelez",
+        "Ferrero"
+      ],
       "correct": 1,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Hershey acquired Reese's in 1963." }
+      "difficulty": "easy"
     },
     {
       "q": "Which famous 1982 blockbuster created a huge demand spike for Reese's Pieces?",
@@ -59,120 +67,381 @@
         "Back to the Future"
       ],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Reese's Pieces", "verified": true, "notes": "Mars famously turned down the product placement for M&M's." }
+      "difficulty": "easy"
     },
     {
       "q": "Which candy is made of sugar spun into fine threads — often bought at fairs on a cone?",
-      "choices": ["Cotton candy", "Taffy", "Marshmallow", "Meringue"],
-      "correct": 0,
-      "category": "Candy",
-      "difficulty": "easy",
-      "source": { "original_a": "Cotton Candy", "verified": true, "notes": "Called 'candyfloss' in the UK." }
-    },
-    {
-      "q": "Which chocolate bar includes nougat, caramel, peanuts, and milk chocolate — arguably the world's best-selling bar?",
-      "choices": ["Snickers", "Mars", "Milky Way", "Kit Kat"],
-      "correct": 0,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Launched 1930; named for a horse." }
-    },
-    {
-      "q": "Kit Kat bars are famously associated with which slogan?",
       "choices": [
-        "'Taste the Rainbow'",
-        "'Give me a break'",
-        "'I'm Lovin' It'",
-        "'Think Different'"
+        "Cotton candy",
+        "Taffy",
+        "Marshmallow",
+        "Meringue"
       ],
-      "correct": 1,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Kit Kat", "verified": true, "notes": "'Gimme a break, gimme a break, break me off a piece of that Kit Kat bar.'" }
-    },
-    {
-      "q": "Which colorful shell-covered candy uses the slogan 'Melts in your mouth, not in your hand'?",
-      "choices": ["Skittles", "M&M's", "Nerds", "Smarties"],
-      "correct": 1,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "M&M's", "verified": true, "notes": "Introduced 1941." }
-    },
-    {
-      "q": "Skittles adopts which slogan, inviting you to taste a color?",
-      "choices": [
-        "'Crunch the rainbow'",
-        "'Taste the rainbow'",
-        "'Chew the rainbow'",
-        "'Love the rainbow'"
-      ],
-      "correct": 1,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Introduced 1994." }
-    },
-    {
-      "q": "Tootsie Rolls famously survived which 20th-century war trip, earning a military reputation?",
-      "choices": [
-        "WWII in the Pacific",
-        "The Korean War's Chosin Reservoir",
-        "The Gulf War",
-        "The Vietnam War"
-      ],
-      "correct": 1,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Air-dropped to Marines at Chosin in winter 1950; 'Tootsie Rolls' was also a code word for ammunition." }
-    },
-    {
-      "q": "Which Japanese biscuit-based chocolate stick comes in a slim red box?",
-      "choices": ["Pocky", "Hi-Chew", "Meiji", "Pretz"],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Pocky", "verified": true, "notes": "Launched 1966 by Ezaki Glico." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Swedish-style gummy fish is a chewy red favorite at movie theaters?",
-      "choices": ["Swedish Fish", "Sour Patch Kids", "Swedish Squid", "Gummy Whales"],
-      "correct": 0,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Swedish", "verified": true, "notes": "Originally Malaco's 'pastellfiskar.'" }
-    },
-    {
-      "q": "Which classic British chocolate brand is owned by Mondelez and famous for its purple packaging?",
-      "choices": ["Nestlé", "Cadbury", "Mars", "Rowntree"],
-      "correct": 1,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Cadbury", "verified": true, "notes": "Founded 1824 in Birmingham." }
-    },
-    {
-      "q": "Which classic 1-2-3 bar from Nestlé combines rice-crisp texture with milk chocolate?",
-      "choices": ["Krackel", "Crunch", "Mr. Goodbar", "Special Dark"],
-      "correct": 1,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Nestlé Crunch; Krackel is Hershey's." }
-    },
-    {
-      "q": "Which fiery cinnamon hard candy turns your mouth red with heat?",
-      "choices": ["Red Hots", "Atomic Fireballs", "Hot Tamales", "All of the above"],
+      "q": "What is the primary flavor of a classic Jolly Rancher hard candy?",
+      "choices": [
+        "Cherry",
+        "Blue Raspberry",
+        "Watermelon",
+        "All of the above"
+      ],
       "correct": 3,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Red Hots", "verified": true, "notes": "All three are classic cinnamon candies." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which candy takes the shape of a corn kernel, usually tri-colored, and is synonymous with Halloween?",
-      "choices": ["Candy corn", "Jelly Beans", "Mellowcream", "Harvest Drops"],
+      "q": "Which chocolate bar features a distinctive wafer and nougat center?",
+      "choices": [
+        "Snickers",
+        "Milky Way",
+        "Three Musketeers",
+        "Twix"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shape are the candies in a Toblerone bar?",
+      "choices": [
+        "Circles",
+        "Triangles",
+        "Rectangles",
+        "Stars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy is famously dispensed from a character-shaped plastic head?",
+      "choices": [
+        "Pez",
+        "M&Ms",
+        "Tic Tacs",
+        "SweeTarts"
+      ],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "medium",
-      "source": { "original_a": "Corn Candy", "verified": true, "notes": "Dates back to the 1880s." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary ingredient that makes Pocky sticks crunchy?",
+      "choices": [
+        "Rice",
+        "Biscuit",
+        "Pretzel",
+        "Graham cracker"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand is known for its peanut butter cup candies?",
+      "choices": [
+        "Hershey's",
+        "Nestlé",
+        "Reese's",
+        "Mars"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do Pop Rocks candy do when they dissolve on your tongue?",
+      "choices": [
+        "Change color",
+        "Make a fizzing sensation",
+        "Taste metallic",
+        "Become sticky"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand produces gummy bears?",
+      "choices": [
+        "Trolli",
+        "Haribo",
+        "Albanese",
+        "Lindt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main flavor of Werther's Original candies?",
+      "choices": [
+        "Vanilla",
+        "Caramel",
+        "Butterscotch",
+        "Toffee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy bar has layers of biscuit, caramel, and chocolate?",
+      "choices": [
+        "Twix",
+        "Snickers",
+        "Milky Way",
+        "Butterfinger"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are Swedish Fish shaped like?",
+      "choices": [
+        "Worms",
+        "Bears",
+        "Fish",
+        "Frogs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy is known for its red-hot spicy cinnamon flavor?",
+      "choices": [
+        "Atomic Fireball",
+        "Red Hots",
+        "Cinnamon Imperials",
+        "Fire Sticks"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What dual texture does Razzles candy provide?",
+      "choices": [
+        "Hard then soft",
+        "Chewy then crunchy",
+        "Candy then gum",
+        "Sour then sweet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand is associated with the slogan 'Taste the Rainbow'?",
+      "choices": [
+        "Skittles",
+        "M&Ms",
+        "Nerds",
+        "Starburst"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary chocolate type used in Hershey bars?",
+      "choices": [
+        "Milk chocolate",
+        "Dark chocolate",
+        "White chocolate",
+        "Ruby chocolate"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy comes in a small paper cone and is made of sugary crystals?",
+      "choices": [
+        "Sherbet",
+        "Rock candy",
+        "Pixie Stix",
+        "Lik-M-Aid"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient in cotton candy?",
+      "choices": [
+        "Corn syrup",
+        "Spun sugar",
+        "Powdered sugar",
+        "Honey"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which chocolate candy is shaped like a small drop or kiss?",
+      "choices": [
+        "Hershey's Kisses",
+        "Lindt Truffles",
+        "Ferrero Rocher",
+        "Lindor"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are SweeTarts candies known for?",
+      "choices": [
+        "Being extremely salty",
+        "Having a sour and sweet taste",
+        "Being filled with liquid",
+        "Being sugar-free"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which classic candy bar is named after a planet?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Mars",
+        "Venus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which chocolate candy brand is famous for its cone-shaped kisses wrapped in foil?",
+      "choices": [
+        "Hershey's",
+        "Cadbury",
+        "Nestlé",
+        "Mars"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary nut ingredient in a Snickers bar?",
+      "choices": [
+        "Almonds",
+        "Peanuts",
+        "Cashews",
+        "Walnuts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand is known for its colorful shell-coated chocolate pieces stamped with the letter M?",
+      "choices": [
+        "Skittles",
+        "M&M's",
+        "Smarties",
+        "Reese's Pieces"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shape are Swedish Fish candies typically made in?",
+      "choices": [
+        "Round discs",
+        "Fish",
+        "Worms",
+        "Bears"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand produces the original gummy bears that have been popular since 1922?",
+      "choices": [
+        "Trolli",
+        "Haribo",
+        "Albanese",
+        "Gummi Savers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which chocolate bar features a wafer cookie structure dipped in chocolate?",
+      "choices": [
+        "Twix",
+        "Kit Kat",
+        "Milky Way",
+        "Baby Ruth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What unique feature does the candy Razzles have as you chew it?",
+      "choices": [
+        "It changes color",
+        "It turns into gum",
+        "It explodes in your mouth",
+        "It gets sweeter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy dispenser is shaped like a cartoon character head?",
+      "choices": [
+        "Pez",
+        "Fun Dip",
+        "Pop-Tarts",
+        "Tic Tacs"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are Necco candies best known as?",
+      "choices": [
+        "Chocolate-covered almonds",
+        "Colorful wafer discs",
+        "Sour gummy worms",
+        "Marshmallow puffs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy brand became famous after appearing in the 1982 film E.T.?",
+      "choices": [
+        "Skittles",
+        "M&M's",
+        "Reese's Pieces",
+        "Smarties"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main ingredient that makes cotton candy fluffy and light?",
+      "choices": [
+        "Cornstarch",
+        "Spun sugar",
+        "Gelatin",
+        "Whipped cream"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these candy bars combines caramel, nougat, chocolate, and peanuts?",
+      "choices": [
+        "Snickers",
+        "Baby Ruth",
+        "PayDay",
+        "Butterfinger"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which colorful, fruit-flavored chewy candy brand is known for its slogan 'Taste the Rainbow'?",
+      "choices": [
+        "Skittles",
+        "Starburst",
+        "Nerds",
+        "Sour Patch Kids"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
       "q": "Before rebranding, Starburst candies were marketed under which name in the U.S.?",
@@ -183,9 +452,7 @@
         "Fruit Rockets"
       ],
       "correct": 1,
-      "category": "Candy",
-      "difficulty": "hard",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Launched in the UK in 1960 as Opal Fruits; renamed Starburst in 1998 in UK." }
+      "difficulty": "hard"
     },
     {
       "q": "Which enduring chocolate bar originated in 1894 as the first mass-produced chocolate bar in America?",
@@ -196,9 +463,7 @@
         "Whitman's"
       ],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "hard",
-      "source": { "original_a": "Hershey Bars", "verified": true, "notes": "Milton Hershey started with caramels, moved to chocolate in 1894." }
+      "difficulty": "hard"
     },
     {
       "q": "Which Swiss-founded brand makes the small triangular-shaped Toblerone chocolate bar?",
@@ -209,9 +474,7 @@
         "Ferrero"
       ],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "hard",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Created 1908 by Theodor Tobler; Mondelez now owns the brand." }
+      "difficulty": "hard"
     },
     {
       "q": "Which sour-gummy candy brand features 'mini-Swedish-style kids' that are sour then sweet?",
@@ -222,9 +485,843 @@
         "Toxic Waste"
       ],
       "correct": 0,
-      "category": "Candy",
-      "difficulty": "hard",
-      "source": { "original_a": "Candy", "verified": true, "notes": "Originally 'Mars-Men' in the 1970s, rebranded in 1985." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Milton S. Hershey introduce the Hershey's Kiss, the iconic chocolate confection wrapped in distinctive foil?",
+      "choices": [
+        "1903",
+        "1907",
+        "1912",
+        "1915"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which candy manufacturer patented the process for creating a hard candy shell around a chocolate center, leading to the creation of M&M's?",
+      "choices": [
+        "Mars, Incorporated",
+        "Nestlé",
+        "Cadbury",
+        "Ferrero"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Whoppers candy, manufactured by The Hershey Company, are primarily composed of what malted grain ingredient that gives them their distinctive flavor?",
+      "choices": [
+        "Barley malt",
+        "Wheat malt",
+        "Rye malt",
+        "Oat malt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hard candy brand was originally developed in Germany in 1863 and is known for its transparent, glass-like appearance and intense fruit flavors?",
+      "choices": [
+        "Altoids",
+        "Werther's Original",
+        "Haribo",
+        "Ricola"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Laffy Taffy was introduced by which candy company in 1971 as a chewy, fruit-flavored confection?",
+      "choices": [
+        "Nestlé",
+        "Ferrara Candy Company",
+        "Tootsie Roll Industries",
+        "Leaf Brands"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary binding agent and primary flavor component in traditional Turkish Delight, the confection known as Rahat al-Hulqum in Arab countries?",
+      "choices": [
+        "Gelatin and rosewater",
+        "Cornstarch and vanilla",
+        "Gum arabic and almond extract",
+        "Pectin and orange blossom water"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Dum Dums lollipop, produced by the Spangler Candy Company since 1924, gets its distinctive small size from what original manufacturing constraint?",
+      "choices": [
+        "Intentional miniaturization for affordable pricing",
+        "Remnants left from larger candy production",
+        "Machine malfunction that became a trademark",
+        "Request from early retailers for pocket-sized treats"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Rock candy crystals form through which crystallization process when a supersaturated sugar solution is cooled over several days?",
+      "choices": [
+        "Evaporative crystallization",
+        "Cooling crystallization",
+        "Nucleation crystallization",
+        "Fractional distillation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which gummy candy brand, founded in 1960, popularized the sour sugar coating technique by combining citric acid with granulated sugar?",
+      "choices": [
+        "Sour Patch Kids",
+        "Haribo",
+        "Trolli",
+        "Albanese"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Maltitol, commonly found in sugar-free candy formulations, is derived from which sugar through hydrogenation?",
+      "choices": [
+        "Glucose",
+        "Maltose",
+        "Sucrose",
+        "Lactose"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The bright red dye used in some vintage candies, including original Lik-M-Aid, was derived from which insect?",
+      "choices": [
+        "Cochineal beetle",
+        "Japanese ladybug",
+        "Lac scale insect",
+        "Carmine aphid"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British confectionery company introduced Bassetts Liquorice Allsorts in 1899, featuring alternating layers of liquorice and fondant?",
+      "choices": [
+        "Cadbury",
+        "Rowntree's",
+        "Bassetts",
+        "McVitie's"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Candy melting points are primarily determined by which component's molecular structure and fat content?",
+      "choices": [
+        "Gelatin base",
+        "Sugar crystals",
+        "Cocoa butter or other fats",
+        "Corn syrup viscosity"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Violet Crumble chocolate bar, originating from Australia in 1960, features a honeycomb center coated with which type of chocolate?",
+      "choices": [
+        "Dark chocolate",
+        "Milk chocolate",
+        "White chocolate",
+        "Ruby chocolate"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese candy brand, famous for its Hi-Chew product line, was founded in 1979 and specializes in chewy fruit-flavored confections?",
+      "choices": [
+        "Morinaga",
+        "Meiji",
+        "Lotte",
+        "Glico"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phenomenon of 'bloom' on aged chocolate is caused by the migration and recrystallization of which component to the candy's surface?",
+      "choices": [
+        "Cocoa solids",
+        "Cocoa butter",
+        "Sugar",
+        "Milk proteins"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Peeps marshmallow candies were originally created using which manufacturing technique involving water-powered machinery?",
+      "choices": [
+        "Hand-dipping in heated gelatin",
+        "Extrusion through specialized pumps",
+        "Centrifugal spinning",
+        "Pneumatic air injection"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Brazilian candy brand Pulp, known for soft fruit-flavored candies, became particularly popular in which decade across South America?",
+      "choices": [
+        "1950s",
+        "1970s",
+        "1980s",
+        "1990s"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which polysaccharide is used in some premium candies as a glazing agent to create a high-shine finish without using gelatin or wax?",
+      "choices": [
+        "Carrageenan",
+        "Shellac",
+        "Gum arabic",
+        "Xanthan gum"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kinder Surprise egg, manufactured by Ferrero since 1974, was originally designed to appeal to which demographic in Europe?",
+      "choices": [
+        "Elderly candy enthusiasts",
+        "Children during Easter season",
+        "Healthcare workers",
+        "Military personnel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Tootsie Roll first manufactured by the Stern Candy Company?",
+      "choices": [
+        "1896",
+        "1905",
+        "1912",
+        "1920"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which candy bar was created in 1923 and named after a famous baseball player's home run?",
+      "choices": [
+        "Baby Ruth",
+        "Babe Ruth",
+        "Home Run Bar",
+        "Diamond Bar"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary ingredient that gives Atomic Fireballs their distinctive intense heat?",
+      "choices": [
+        "Capsaicin oil",
+        "Cinnamon flavoring",
+        "Red hot peppers",
+        "Ginger extract"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Haribo gummy bears were first produced in Berlin under what original name?",
+      "choices": [
+        "Gummibears",
+        "Dancing Bears",
+        "Tanzbär",
+        "Fruit Bears"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ingredient distinguishes Whoppers from other malted milk ball candies?",
+      "choices": [
+        "Crispy rice center",
+        "Malt flavoring throughout",
+        "Honeycomb texture",
+        "Malted barley coating"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what country were Swedish Fish candies originally developed before being introduced to North America?",
+      "choices": [
+        "Denmark",
+        "Norway",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which candy manufacturer introduced Razzles, the candy that transforms into gum, in 1966?",
+      "choices": [
+        "Topps",
+        "Wrigley",
+        "Leaf Brands",
+        "Nestlé"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What distinctive triangular chocolate bar with nougat and almond layers was created by Theodor Tobler in 1908?",
+      "choices": [
+        "Toblerone",
+        "Triangolo",
+        "Alpine Peak",
+        "Swiss Triangle"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "PEZ dispensers were first introduced in what year at a trade fair in Vienna?",
+      "choices": [
+        "1927",
+        "1935",
+        "1952",
+        "1961"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact number of layers in a standard Kit Kat bar (excluding the coating)?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Jelly Belly gourmet jelly beans were developed in the 1970s using a special technique called what?",
+      "choices": [
+        "Double-shell coating",
+        "Center-fill process",
+        "Flavor infusion",
+        "Layered casting"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what decade did Nik-L-Nips wax bottles with liquid candy first appear on store shelves?",
+      "choices": [
+        "1950s",
+        "1960s",
+        "1970s",
+        "1980s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What chemical compound is responsible for the sensory-tingling effect of Pop Rocks candy?",
+      "choices": [
+        "Carbonated sugar mixture",
+        "Sodium bicarbonate crystals",
+        "Pressurized carbon dioxide pockets",
+        "Effervescent tartaric acid"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Smarties candies sold in North America are primarily composed of what base ingredient?",
+      "choices": [
+        "Compressed sugar",
+        "Dextrose and maltose",
+        "Lactose and corn syrup",
+        "Calcium carbonate"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did the Milky Way bar make its debut, becoming one of the first chocolate bars to use nougat?",
+      "choices": [
+        "1920",
+        "1923",
+        "1928",
+        "1932"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which company originally manufactured Milk Duds before being acquired by Nestlé in 1996?",
+      "choices": [
+        "Hershey",
+        "Mars",
+        "Leaf Brands",
+        "Ferrero"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chocolate bar includes nougat, caramel, peanuts, and milk chocolate — arguably the world's best-selling bar?",
+      "choices": [
+        "Snickers",
+        "Mars",
+        "Milky Way",
+        "Kit Kat"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Kit Kat bars are famously associated with which slogan?",
+      "choices": [
+        "'Taste the Rainbow'",
+        "'Give me a break'",
+        "'I'm Lovin' It'",
+        "'Think Different'"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which colorful shell-covered candy uses the slogan 'Melts in your mouth, not in your hand'?",
+      "choices": [
+        "Skittles",
+        "M&M's",
+        "Nerds",
+        "Smarties"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Skittles adopts which slogan, inviting you to taste a color?",
+      "choices": [
+        "'Crunch the rainbow'",
+        "'Taste the rainbow'",
+        "'Chew the rainbow'",
+        "'Love the rainbow'"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Tootsie Rolls famously survived which 20th-century war trip, earning a military reputation?",
+      "choices": [
+        "WWII in the Pacific",
+        "The Korean War's Chosin Reservoir",
+        "The Gulf War",
+        "The Vietnam War"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese biscuit-based chocolate stick comes in a slim red box?",
+      "choices": [
+        "Pocky",
+        "Hi-Chew",
+        "Meiji",
+        "Pretz"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swedish-style gummy fish is a chewy red favorite at movie theaters?",
+      "choices": [
+        "Swedish Fish",
+        "Sour Patch Kids",
+        "Swedish Squid",
+        "Gummy Whales"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which classic British chocolate brand is owned by Mondelez and famous for its purple packaging?",
+      "choices": [
+        "Nestlé",
+        "Cadbury",
+        "Mars",
+        "Rowntree"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which classic 1-2-3 bar from Nestlé combines rice-crisp texture with milk chocolate?",
+      "choices": [
+        "Krackel",
+        "Crunch",
+        "Mr. Goodbar",
+        "Special Dark"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fiery cinnamon hard candy turns your mouth red with heat?",
+      "choices": [
+        "Red Hots",
+        "Atomic Fireballs",
+        "Hot Tamales",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which candy takes the shape of a corn kernel, usually tri-colored, and is synonymous with Halloween?",
+      "choices": [
+        "Candy corn",
+        "Jelly Beans",
+        "Mellowcream",
+        "Harvest Drops"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Snickers bar first launch, becoming one of the best-selling candy bars worldwide?",
+      "choices": [
+        "1920",
+        "1930",
+        "1940",
+        "1950"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which candy company introduced the Skittles brand to the market in 1974?",
+      "choices": [
+        "Nestlé",
+        "Mars Inc.",
+        "Wrigley",
+        "Cadbury"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary flavor of the original Starburst candy?",
+      "choices": [
+        "Cherry",
+        "Strawberry",
+        "Orange",
+        "Lemon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Reese's Peanut Butter Cups combine chocolate with which other ingredient as their defining feature?",
+      "choices": [
+        "Almond butter",
+        "Peanut butter",
+        "Cashew cream",
+        "Hazelnut spread"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Kit Kat candy bar is known for its distinctive wafer layers. How many layers does a standard Kit Kat typically have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the Tootsie Roll invented, making it one of America's oldest candy brands still in production?",
+      "choices": [
+        "1896",
+        "1906",
+        "1916",
+        "1926"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which candy brand is famous for its colorful chocolate candies with an 'm' printed on each piece?",
+      "choices": [
+        "Skittles",
+        "M&M's",
+        "Smarties",
+        "Dots"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Gummy bears were originally created in Germany in 1922 under what name before being renamed?",
+      "choices": [
+        "Fruity Bears",
+        "Dancing Bears",
+        "Gold Bears",
+        "Sweet Bears"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What distinguishes a York Peppermint Patty from other mint candies?",
+      "choices": [
+        "It has a hard candy shell",
+        "It has a soft peppermint filling covered in dark chocolate",
+        "It is entirely chocolate",
+        "It contains menthol crystals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Atomic Fireball candy is known for what characteristic sensation?",
+      "choices": [
+        "Cooling mint effect",
+        "Spicy cinnamon heat",
+        "Sweet licorice flavor",
+        "Sour citrus burst"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What soft candy brand is known for its fruit-flavored shapes that resemble various animals?",
+      "choices": [
+        "Swedish Fish",
+        "Gummy bears",
+        "Haribo Gold Bears",
+        "Albanese bears"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which chocolate bar features nougat, caramel, and peanuts all covered in milk chocolate?",
+      "choices": [
+        "Snickers",
+        "PayDay",
+        "100 Grand",
+        "Butterfinger"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Whoppers candy balls consist of malted milk centers covered in what outer coating?",
+      "choices": [
+        "White chocolate",
+        "Milk chocolate",
+        "Dark chocolate",
+        "Caramel coating"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Ferrero Rocher candy is distinguished by what central ingredient wrapped in multiple layers?",
+      "choices": [
+        "Caramel",
+        "Hazelnut",
+        "Nougat",
+        "Almond"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of candy is a Twizzler?",
+      "choices": [
+        "Hard candy",
+        "Chewy licorice strand",
+        "Chocolate bar",
+        "Gummy treat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what decade did the Lollipop become widely produced and distributed as a mass-market candy?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1950s",
+        "1960s"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Almond Joy and Mounds are sister candies made by the same company. What is the key difference between them?",
+      "choices": [
+        "Almond Joy has almonds; Mounds does not",
+        "Almond Joy is milk chocolate; Mounds is dark chocolate",
+        "Almond Joy has coconut; Mounds does not",
+        "Mounds has caramel; Almond Joy does not"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Sour Patch Kids candy brand is known for its sour coating that comes from which ingredient?",
+      "choices": [
+        "Tartaric acid",
+        "Citric acid",
+        "Malic acid",
+        "Acetic acid"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that gives Saltwater Taffy its chewy texture?",
+      "choices": [
+        "Corn syrup",
+        "Gelatin",
+        "Tapioca starch",
+        "Cornstarch"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major candy brand produces both Milky Way and Mars bars as part of its portfolio?",
+      "choices": [
+        "Hershey",
+        "Mars Inc.",
+        "Nestlé",
+        "Cadbury"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Reese's Pieces gain significant popularity after being featured in the film E.T. the Extra-Terrestrial?",
+      "choices": [
+        "1980",
+        "1982",
+        "1984",
+        "1986"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which candy brand is famous for its slogan 'Melts in Your Mouth, Not in Your Hands'?",
+      "choices": [
+        "Smarties",
+        "M&M's",
+        "Skittles",
+        "Starburst"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Sour Patch Kids candies are known for their distinctive flavor progression. What is that progression?",
+      "choices": [
+        "Sweet then salty",
+        "Sour then sweet",
+        "Sweet then sour",
+        "Salty then sweet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which chocolate bar contains a nougat center filled with caramel and is covered in milk chocolate and almonds?",
+      "choices": [
+        "Almond Joy",
+        "Snickers",
+        "PayDay",
+        "Twix"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that gives Nerds candy their distinctive crunchy texture and small, irregular shape?",
+      "choices": [
+        "Crystallized sugar",
+        "Popped candy",
+        "Compressed dextrose",
+        "Granulated gelatin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "SweeTarts candies are known for their combination of sweet and tart flavors. What is the tart ingredient responsible for their sour taste?",
+      "choices": [
+        "Citric acid",
+        "Malic acid",
+        "Tartaric acid",
+        "Acetic acid"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Whoppers malted milk balls were first introduced by which major candy company?",
+      "choices": [
+        "Hershey",
+        "Mars",
+        "Nestle",
+        "Ferrero"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which candy brand produces the sour gummy candy known as Haribo Gold-Bears?",
+      "choices": [
+        "Trolli",
+        "Haribo",
+        "Albanese",
+        "Peeps"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the first Tootsie Roll produced?",
+      "choices": [
+        "1896",
+        "1905",
+        "1912",
+        "1920"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

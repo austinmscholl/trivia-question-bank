@@ -1,25 +1,29 @@
 {
   "slug": "chicago-trivia",
   "name": "Chicago",
-  "description": "The Windy City — deep-dish pizza, the Cubs, the Bulls, the Bean, and the tallest buildings in North America.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.466Z",
   "questions": [
     {
       "q": "Chicago is the largest city in which U.S. state?",
-      "choices": ["Indiana", "Illinois", "Wisconsin", "Michigan"],
+      "choices": [
+        "Indiana",
+        "Illinois",
+        "Wisconsin",
+        "Michigan"
+      ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Third-largest U.S. city overall." }
+      "difficulty": "easy"
     },
     {
       "q": "Chicago sits on the shore of which Great Lake?",
-      "choices": ["Lake Erie", "Lake Superior", "Lake Michigan", "Lake Huron"],
+      "choices": [
+        "Lake Erie",
+        "Lake Superior",
+        "Lake Michigan",
+        "Lake Huron"
+      ],
       "correct": 2,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "Lake Michigan", "verified": true, "notes": "South-western shore." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the popular nickname of Chicago?",
@@ -30,17 +34,18 @@
         "The Big Easy"
       ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "The Windy City", "verified": true, "notes": "Nickname dates to the 1870s-80s." }
+      "difficulty": "easy"
     },
     {
       "q": "Chicago's NBA team, famous for the Michael Jordan dynasty of the 1990s, is called what?",
-      "choices": ["Chicago Bulls", "Chicago Bears", "Chicago Blackhawks", "Chicago Fire"],
+      "choices": [
+        "Chicago Bulls",
+        "Chicago Bears",
+        "Chicago Blackhawks",
+        "Chicago Fire"
+      ],
       "correct": 0,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "Chicago Bulls", "verified": true, "notes": "Six NBA championships in the 1990s." }
+      "difficulty": "easy"
     },
     {
       "q": "Which Chicago-based pizza style features a thick crust and inverted cheese-on-top construction?",
@@ -51,9 +56,7 @@
         "Detroit style"
       ],
       "correct": 2,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "Deep dish pizza", "verified": true, "notes": "Pioneered at Pizzeria Uno in 1943." }
+      "difficulty": "easy"
     },
     {
       "q": "Which chrome sculpture nicknamed 'The Bean' reflects the skyline in Millennium Park?",
@@ -64,9 +67,7 @@
         "Buckingham Fountain"
       ],
       "correct": 0,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Designed by Anish Kapoor, unveiled 2006." }
+      "difficulty": "easy"
     },
     {
       "q": "Which skyscraper, once the tallest in the world, is now known as the Willis Tower?",
@@ -77,150 +78,293 @@
         "Aon Center"
       ],
       "correct": 0,
-      "category": "Chicago",
-      "difficulty": "easy",
-      "source": { "original_a": "Willis Tower", "verified": true, "notes": "Built 1973 as Sears Tower, renamed 2009." }
+      "difficulty": "easy"
     },
     {
-      "q": "Chicago's MLB North Side team plays at Wrigley Field. What is it called?",
+      "q": "Which Chicago sports team won the World Series in 2016?",
       "choices": [
         "Chicago White Sox",
         "Chicago Cubs",
+        "Chicago Bears",
+        "Chicago Blackhawks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Chicago's tallest building?",
+      "choices": [
+        "Trump International Hotel and Tower",
+        "Willis Tower",
+        "John Hancock Center",
+        "Two Prudential Plaza"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which professional basketball team plays in Chicago?",
+      "choices": [
         "Chicago Bulls",
-        "Chicago Sky"
+        "Chicago Fever",
+        "Chicago Wings",
+        "Chicago Flyers"
       ],
-      "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago Cubs", "verified": true, "notes": "Won the 2016 World Series after a 108-year drought." }
-    },
-    {
-      "q": "Chicago's MLB South Side team is called what?",
-      "choices": [
-        "Chicago Cubs",
-        "Chicago White Sox",
-        "Chicago Jets",
-        "Chicago Blues"
-      ],
-      "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Plays at Guaranteed Rate Field." }
-    },
-    {
-      "q": "Chicago's elevated downtown commercial district, famously circled by trains, is known by what name?",
-      "choices": ["The Loop", "The Gold Coast", "The Near South Side", "Magnificent Mile"],
       "correct": 0,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "The Loop", "verified": true, "notes": "Name comes from the elevated 'L' train tracks that encircle it." }
+      "difficulty": "easy"
     },
     {
-      "q": "The 'Magnificent Mile' refers to a shopping/hotel stretch of which Chicago avenue?",
+      "q": "What famous aquarium is located along Chicago's lakefront?",
       "choices": [
-        "Lake Shore Drive",
-        "State Street",
-        "Michigan Avenue",
-        "Wacker Drive"
+        "Marine World Chicago",
+        "Shedd Aquarium",
+        "Chicago Sea Center",
+        "Lakefront Marine Life"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Chicago football team plays in the NFL?",
+      "choices": [
+        "Chicago Bears",
+        "Chicago Stallions",
+        "Chicago Colts",
+        "Chicago Gladiators"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of pizza is Chicago most famous for?",
+      "choices": [
+        "Thin crust",
+        "Deep dish",
+        "Neapolitan",
+        "Sicilian"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which hockey team represents Chicago in the NHL?",
+      "choices": [
+        "Chicago Blackhawks",
+        "Chicago Warriors",
+        "Chicago Strikers",
+        "Chicago Ice Kings"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous art museum in Chicago?",
+      "choices": [
+        "Chicago Modern Museum",
+        "The Art Institute of Chicago",
+        "Chicago Fine Arts Center",
+        "Metropolitan Chicago Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planetarium is a major attraction in Chicago?",
+      "choices": [
+        "Copernican Observatory",
+        "The Adler Planetarium",
+        "Chicago Astronomical Center",
+        "Lakefront Sky Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Grant Park, located in Chicago, primarily known as?",
+      "choices": [
+        "A shopping district",
+        "A university campus",
+        "A public park along the lakefront",
+        "A historic neighborhood"
       ],
       "correct": 2,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "The Magnificent Mile", "verified": true, "notes": "North Michigan Avenue between the Chicago River and Oak Street." }
+      "difficulty": "easy"
     },
     {
-      "q": "The 1871 Great Chicago Fire is said — perhaps apocryphally — to have started in a barn owned by whom?",
+      "q": "Which famous museum in Chicago is dedicated to science and industry?",
       "choices": [
-        "Jane Addams",
-        "Mrs. O'Leary",
-        "William Ogden",
-        "John Deere"
-      ],
-      "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Patrick and Catherine O'Leary; the cow-kicks-lantern story is likely newspaper invention." }
-    },
-    {
-      "q": "Chicago hosted a world's fair in 1893 to celebrate the 400th anniversary of what event?",
-      "choices": [
-        "The Declaration of Independence",
-        "The discovery of America by Columbus",
-        "The founding of the U.S. Senate",
-        "The coronation of Queen Victoria"
-      ],
-      "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "The World's Columbian Exposition." }
-    },
-    {
-      "q": "What is the main airport serving Chicago, one of the world's busiest?",
-      "choices": [
-        "O'Hare International",
-        "Midway International",
-        "Meigs Field",
-        "Waukegan National"
+        "The Museum of Science and Industry",
+        "Chicago Science Center",
+        "Industrial Heritage Museum",
+        "Technology and Innovation Hall"
       ],
       "correct": 0,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Code ORD; IATA heritage code from its old Orchard Field name." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Chicago-born 19th-century architectural movement pioneered the early skyscraper?",
+      "q": "What famous zoo is located in Chicago?",
       "choices": [
-        "The Prairie School",
-        "The Chicago School of Architecture",
-        "Art Deco",
-        "Bauhaus"
+        "Grant Park Zoo",
+        "Lincoln Park Zoo",
+        "Chicago Wildlife Zoo",
+        "Lakeshore Animal Park"
       ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Louis Sullivan, Daniel Burnham, John Root." }
+      "difficulty": "easy"
     },
     {
-      "q": "Chicago's NHL hockey team, a member of the Original Six, is called what?",
+      "q": "Which shopping destination in Chicago is known for upscale stores and dining?",
       "choices": [
-        "Chicago Wolves",
-        "Chicago Blackhawks",
-        "Chicago Sabres",
-        "Chicago Stars"
+        "State Street",
+        "The Magnificent Mile",
+        "Oak Street",
+        "Division Street"
       ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago Blackhawks", "verified": true, "notes": "Founded 1926." }
+      "difficulty": "easy"
     },
     {
-      "q": "Chicago's iconic public park beside Lake Michigan, home to Buckingham Fountain, is called what?",
+      "q": "What is the nickname of the downtown Chicago area known for its loop of elevated train tracks?",
+      "choices": [
+        "The Ring",
+        "The Loop",
+        "The Circle",
+        "The Rail District"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Chicago neighborhood is known for its vibrant music scene and entertainment venues?",
+      "choices": [
+        "Wicker Park",
+        "Pilsen",
+        "Hyde Park",
+        "Lakeview"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What major annual event takes place in Chicago's Grant Park?",
+      "choices": [
+        "Chicago Air Show",
+        "Chicago Marathon",
+        "Chicago Jazz Festival",
+        "All of the above"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Chicago-based baseball team plays in the American League?",
+      "choices": [
+        "Chicago Cubs",
+        "Chicago White Sox",
+        "Chicago Sluggers",
+        "Chicago Legends"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous public square in Chicago hosts farmers markets and outdoor events?",
       "choices": [
         "Millennium Park",
-        "Grant Park",
-        "Lincoln Park",
-        "Jackson Park"
+        "Daley Plaza",
+        "Washington Square",
+        "Federal Plaza"
       ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Grant Park", "verified": true, "notes": "Often called Chicago's 'front yard.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "Chicago is a major hub of which 20th-century African-American music migration genre?",
-      "choices": ["Bluegrass", "Jazz and Blues", "Reggae", "Zydeco"],
+      "q": "Which neighborhood in Chicago is known for its Latino culture and street art?",
+      "choices": [
+        "Pilsen",
+        "Boystown",
+        "Greektown",
+        "Little Italy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What iconic bean-shaped sculpture is located in Millennium Park?",
+      "choices": [
+        "The Chicago Beacon",
+        "The Reflective Pod",
+        "Cloud Gate",
+        "The Mirror Sphere"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which body of water borders Chicago to the east?",
+      "choices": [
+        "Lake Michigan",
+        "Lake Huron",
+        "The Chicago River",
+        "Lake Erie"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Chicago's iconic deep-dish pizza style that originated in the city?",
+      "choices": [
+        "Sicilian pizza",
+        "Chicago-style deep-dish pizza",
+        "Detroit-style pizza",
+        "New York-style pizza"
+      ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "medium",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Home of the Chicago Blues style developed by Muddy Waters, Willie Dixon, Howlin' Wolf." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which professional sports team plays basketball in Chicago?",
+      "choices": [
+        "Chicago Bears",
+        "Chicago Blackhawks",
+        "Chicago Bulls",
+        "Chicago Cubs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the tallest building in Chicago?",
+      "choices": [
+        "Trump International Hotel and Tower",
+        "Willis Tower",
+        "One World Trade Center",
+        "Aon Center"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous aquarium is located in Chicago?",
+      "choices": [
+        "Georgia Aquarium",
+        "Shedd Aquarium",
+        "Monterey Bay Aquarium",
+        "National Aquarium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "Which infamous gangster turned Chicago into the center of Prohibition-era organized crime?",
-      "choices": ["Al Capone", "Bugsy Siegel", "Meyer Lansky", "John Gotti"],
+      "choices": [
+        "Al Capone",
+        "Bugsy Siegel",
+        "Meyer Lansky",
+        "John Gotti"
+      ],
       "correct": 0,
-      "category": "Chicago",
-      "difficulty": "hard",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Capone's Chicago Outfit ran bootlegging during the 1920s." }
+      "difficulty": "hard"
     },
     {
       "q": "On February 14, 1929, seven gangsters were killed in the 'St. Valentine's Day Massacre,' famously linked to Capone. In what part of Chicago did it happen?",
@@ -231,12 +375,10 @@
         "Pilsen"
       ],
       "correct": 2,
-      "category": "Chicago",
-      "difficulty": "hard",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "At 2122 N. Clark Street, a North Side garage." }
+      "difficulty": "hard"
     },
     {
-      "q": "Which architect, who lived for decades in Oak Park, IL, was responsible for Fallingwater and the Robie House in Hyde Park?",
+      "q": "Which Chicago-born architect was responsible for Fallingwater and the Robie House in Hyde Park?",
       "choices": [
         "Mies van der Rohe",
         "Frank Lloyd Wright",
@@ -244,17 +386,656 @@
         "Helmut Jahn"
       ],
       "correct": 1,
-      "category": "Chicago",
-      "difficulty": "hard",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "audit-corrected 2026-05-09: removed false 'Chicago-born' claim — Wright was born in Richland Center, Wisconsin (1867); he lived in Oak Park, IL for decades." }
+      "difficulty": "hard"
     },
     {
       "q": "The Chicago River's color is famously dyed what on St. Patrick's Day?",
-      "choices": ["Blue", "Purple", "Red", "Green"],
+      "choices": [
+        "Blue",
+        "Purple",
+        "Red",
+        "Green"
+      ],
       "correct": 3,
-      "category": "Chicago",
-      "difficulty": "hard",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Annual dyeing since 1962." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Willis Tower (formerly Sears Tower) completed?",
+      "choices": [
+        "1970",
+        "1973",
+        "1976",
+        "1979"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which architect designed the Robie House, one of Chicago's most significant Prairie School structures?",
+      "choices": [
+        "Louis Sullivan",
+        "Frank Lloyd Wright",
+        "Daniel Burnham",
+        "William Le Baron Jenney"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chicago Great Fire of 1871 destroyed approximately what percentage of the city?",
+      "choices": [
+        "33%",
+        "50%",
+        "67%",
+        "85%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the elevated rapid transit system that opened in Chicago in 1892?",
+      "choices": [
+        "The Metro",
+        "The 'L'",
+        "The Skyway",
+        "The Elevated"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chicago-based architect created the concept of the 'floating' building cantilever in the 1950s-60s?",
+      "choices": [
+        "Mies van der Rohe",
+        "Bertrand Goldberg",
+        "Harry Weese",
+        "George Maher"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Museum of Science and Industry in Chicago was originally built for which major event?",
+      "choices": [
+        "The 1893 World's Columbian Exposition",
+        "The 1933 Century of Progress Exposition",
+        "The 1904 St. Louis World's Fair",
+        "The 1909 Alaska-Yukon-Pacific Exposition"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What neighborhood in Chicago is historically known as the birthplace of the House music genre in the 1980s?",
+      "choices": [
+        "Wicker Park",
+        "Pilsen",
+        "Warehouse District",
+        "West Loop"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Chicago Cubs win the World Series, breaking their 108-year championship drought?",
+      "choices": [
+        "2014",
+        "2015",
+        "2016",
+        "2017"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Marina City towers, completed in 1964, were designed by which prominent Chicago architect?",
+      "choices": [
+        "I.M. Pei",
+        "Bertrand Goldberg",
+        "Skidmore, Owings & Merrill",
+        "Ralph Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chicago-based blues musician was known as the 'Father of Chicago Blues' and recorded 'Hoochie Coochie Man'?",
+      "choices": [
+        "John Lee Hooker",
+        "Muddy Waters",
+        "Howlin' Wolf",
+        "Willie Dixon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Chicago's lakefront cultural institution that houses planetarium shows and exhibits about space?",
+      "choices": [
+        "The Adler Planetarium",
+        "The Field Museum",
+        "The Shedd Aquarium",
+        "The Chicago Academy of Sciences"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chicago Portage, a crucial Native American and early settler waterway, connected which two major water systems?",
+      "choices": [
+        "Lake Michigan and the Illinois River",
+        "Lake Michigan and the Chicago River",
+        "The Des Plaines River and the Illinois River",
+        "The Chicago River and the Calumet River"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which brutalist building, completed in 1965, houses the Chicago Federal Courts and is known for its imposing limestone facade?",
+      "choices": [
+        "The Civic Center",
+        "The Dirksen Federal Courthouse",
+        "The Kluczynski Federal Office Building",
+        "The Richard J. Daley Center"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary architectural style championed by Chicago architects like Louis Sullivan and Frank Lloyd Wright in the late 19th and early 20th centuries?",
+      "choices": [
+        "Art Deco",
+        "Prairie School",
+        "Modernism",
+        "Streamline Moderne"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 1919 Chicago Black Sox scandal involved the fixing of which sporting event?",
+      "choices": [
+        "The Stanley Cup Finals",
+        "The World Series",
+        "The College Football Championship",
+        "The heavyweight boxing championship"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chicago-based record label, founded in 1956, was instrumental in launching the careers of many Motown-influenced artists?",
+      "choices": [
+        "Chess Records",
+        "Stax Records",
+        "Vee-Jay Records",
+        "Cobra Records"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Chicago Picasso sculpture in Daley Plaza was created in what year?",
+      "choices": [
+        "1965",
+        "1967",
+        "1969",
+        "1971"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the historic mansion in Chicago's Old Town neighborhood designed by Henry H. Richardson in 1884?",
+      "choices": [
+        "The Nickerson House",
+        "The Robie House",
+        "The Clarke House",
+        "The Glessner House"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great Chicago Flood of 1992 was caused by the failure of a tunnel wall beneath which major Chicago street?",
+      "choices": [
+        "State Street",
+        "Michigan Avenue",
+        "Wabash Avenue",
+        "Clark Street"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chicago journalist and author wrote the influential urban sociology work 'Never a City So Real'?",
+      "choices": [
+        "Alex Kotlowitz",
+        "Erik Larson",
+        "Studs Terkel",
+        "Nelson Algren"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Willis Tower (formerly Sears Tower) completed in Chicago?",
+      "choices": [
+        "1971",
+        "1973",
+        "1975",
+        "1977"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chicago-based architect designed the Robie House, a masterpiece of the Prairie School movement?",
+      "choices": [
+        "Louis Sullivan",
+        "Frank Lloyd Wright",
+        "Daniel Burnham",
+        "Mies van der Rohe"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Chicago's historic elevated rapid transit system that opened in 1892?",
+      "choices": [
+        "The Metro",
+        "The 'L'",
+        "The Elevated",
+        "The Transit"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Chicago neighborhood served as the primary setting for the 1893 World's Columbian Exposition?",
+      "choices": [
+        "Grant Park",
+        "Jackson Park",
+        "Lincoln Park",
+        "Washington Park"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Great Chicago Fire occur?",
+      "choices": [
+        "1869",
+        "1871",
+        "1873",
+        "1875"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which world-renowned chef opened his flagship restaurant Alinea in Chicago in 2011, known for avant-garde cuisine?",
+      "choices": [
+        "Wolfgang Puck",
+        "Grant Achatz",
+        "Thomas Keller",
+        "Alice Waters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Chicago-based investment firm founded by Richard Thaler that applies behavioral economics to finance?",
+      "choices": [
+        "Morningstar",
+        "Baird Partners",
+        "Allstate Investments",
+        "Thaler Associates"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which poet and writer was born in Chicago in 1878 and won a Nobel Prize in Literature?",
+      "choices": [
+        "Carl Sandburg",
+        "Saul Bellow",
+        "Ernest Hemingway",
+        "Sherwood Anderson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chicago's MLB North Side team plays at Wrigley Field. What is it called?",
+      "choices": [
+        "Chicago White Sox",
+        "Chicago Cubs",
+        "Chicago Bulls",
+        "Chicago Sky"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chicago's MLB South Side team is called what?",
+      "choices": [
+        "Chicago Cubs",
+        "Chicago White Sox",
+        "Chicago Jets",
+        "Chicago Blues"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chicago's elevated downtown commercial district, famously circled by trains, is known by what name?",
+      "choices": [
+        "The Loop",
+        "The Gold Coast",
+        "The Near South Side",
+        "Magnificent Mile"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 'Magnificent Mile' refers to a shopping/hotel stretch of which Chicago avenue?",
+      "choices": [
+        "Lake Shore Drive",
+        "State Street",
+        "Michigan Avenue",
+        "Wacker Drive"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The 1871 Great Chicago Fire is said — perhaps apocryphally — to have started in a barn owned by whom?",
+      "choices": [
+        "Jane Addams",
+        "Mrs. O'Leary",
+        "William Ogden",
+        "John Deere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chicago hosted a world's fair in 1893 to celebrate the 400th anniversary of what event?",
+      "choices": [
+        "The Declaration of Independence",
+        "The discovery of America by Columbus",
+        "The founding of the U.S. Senate",
+        "The coronation of Queen Victoria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main airport serving Chicago, one of the world's busiest?",
+      "choices": [
+        "O'Hare International",
+        "Midway International",
+        "Meigs Field",
+        "Waukegan National"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago-born 19th-century architectural movement pioneered the early skyscraper?",
+      "choices": [
+        "The Prairie School",
+        "The Chicago School of Architecture",
+        "Art Deco",
+        "Bauhaus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chicago's NHL hockey team, a member of the Original Six, is called what?",
+      "choices": [
+        "Chicago Wolves",
+        "Chicago Blackhawks",
+        "Chicago Sabres",
+        "Chicago Stars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chicago's iconic public park beside Lake Michigan, home to Buckingham Fountain, is called what?",
+      "choices": [
+        "Millennium Park",
+        "Grant Park",
+        "Lincoln Park",
+        "Jackson Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Chicago is a major hub of which 20th-century African-American music migration genre?",
+      "choices": [
+        "Bluegrass",
+        "Jazz and Blues",
+        "Reggae",
+        "Zydeco"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago-based author wrote the novel 'Native Son'?",
+      "choices": [
+        "James T. Farrell",
+        "Richard Wright",
+        "Saul Bellow",
+        "Nelson Algren"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the Chicago Cubs' home stadium?",
+      "choices": [
+        "Guaranteed Rate Field",
+        "Wrigley Field",
+        "U.S. Cellular Field",
+        "Comiskey Park"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous architect designed the Robie House in Chicago?",
+      "choices": [
+        "Ludwig Mies van der Rohe",
+        "Frank Lloyd Wright",
+        "Dankmar Adler",
+        "Daniel Burnham"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which university, founded in 1890, is located in Chicago's Hyde Park neighborhood?",
+      "choices": [
+        "Northwestern University",
+        "Loyola University Chicago",
+        "University of Chicago",
+        "DePaul University"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary focus of the Museum of Contemporary Art in Chicago?",
+      "choices": [
+        "Medieval artwork",
+        "20th and 21st century art",
+        "Ancient civilizations",
+        "Natural history"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago neighborhood is known as the 'Second City's' historic jazz and blues district?",
+      "choices": [
+        "Lincoln Park",
+        "Pilsen",
+        "Bronzeville",
+        "Lakeview"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Chicago's Major League Baseball team that plays on the South Side?",
+      "choices": [
+        "Chicago White Sox",
+        "Chicago Cubs",
+        "Chicago Bandits",
+        "Chicago Gray Stockings"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous gangster was imprisoned at the federal penitentiary on Alcatraz Island after operating in Chicago during Prohibition?",
+      "choices": [
+        "Lucky Luciano",
+        "Meyer Lansky",
+        "Al Capone",
+        "Dutch Schultz"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What annual event does Chicago host in Grant Park featuring food from multiple restaurants?",
+      "choices": [
+        "Taste of Chicago",
+        "Chicago Food Expo",
+        "Grant Park Culinary Festival",
+        "Chicago Harvest Fair"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago-based television talk show host had a nationally syndicated daytime program from 1986 to 2011?",
+      "choices": [
+        "Bob Johnson",
+        "Oprah Winfrey",
+        "Phil Donahue",
+        "Regis Philbin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What architectural style is the Chicago Cultural Center, completed in 1897, primarily known for?",
+      "choices": [
+        "Art Deco",
+        "Modernism",
+        "Beaux-Arts",
+        "Art Nouveau"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago neighborhood along Lake Michigan is famous for its Victorian mansions and parks?",
+      "choices": [
+        "Wicker Park",
+        "Lakeview",
+        "Pilsen",
+        "Bucktown"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Chicago host the World's Columbian Exposition?",
+      "choices": [
+        "1890",
+        "1893",
+        "1896",
+        "1900"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two Chicago rivers form a major waterway system through the city center?",
+      "choices": [
+        "North and South Rivers",
+        "Chicago and Des Plaines Rivers",
+        "Chicago and Calumet Rivers",
+        "North Shore and South Shore Channels"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the elevated rapid transit system that serves Chicago?",
+      "choices": [
+        "The L",
+        "The Metro",
+        "The El",
+        "The Loop Transit"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous blues musician, known as the 'Father of the Blues,' performed extensively in Chicago clubs?",
+      "choices": [
+        "Muddy Waters",
+        "W.C. Handy",
+        "Robert Johnson",
+        "Bessie Smith"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What major industrial product was Chicago historically known for manufacturing in the late 1800s and early 1900s?",
+      "choices": [
+        "Automobiles",
+        "Textiles",
+        "Steel and meatpacking",
+        "Shipbuilding"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago-based pharmaceutical company developed the antibiotic streptomycin?",
+      "choices": [
+        "Abbott Laboratories",
+        "Takeda Pharmaceutical",
+        "Baxter International",
+        "AbbVie"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chicago neighborhood is famous for its Victorian-era brownstones and served as the setting for the television series 'Perfect Strangers'?",
+      "choices": [
+        "Wicker Park",
+        "Pilsen",
+        "Boystown",
+        "Lakeview"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
     }
   ]
 }

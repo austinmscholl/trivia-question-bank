@@ -1,273 +1,2317 @@
 {
   "slug": "psychology-trivia",
   "name": "Psychology",
-  "description": "Psychology's major figures, schools of thought, and landmark experiments",
-  "processedAt": "2026-04-19T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.690Z",
   "questions": [
     {
       "q": "Who established the first psychological laboratory in Leipzig in 1879, launching experimental psychology?",
-      "choices": ["Sigmund Freud", "Wilhelm Wundt", "William James", "Ivan Pavlov"],
+      "choices": [
+        "Sigmund Freud",
+        "Wilhelm Wundt",
+        "William James",
+        "Ivan Pavlov"
+      ],
       "correct": 1,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Wilhelm Wundt",
-        "verified": true,
-        "notes": "Considered the 'father of experimental psychology'."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which Russian physiologist is famous for his experiments on classical conditioning using dogs?",
-      "choices": ["Ivan Pavlov", "Dmitri Mendeleev", "Ivan Turgenev", "Lev Vygotsky"],
+      "choices": [
+        "Ivan Pavlov",
+        "Dmitri Mendeleev",
+        "Ivan Turgenev",
+        "Lev Vygotsky"
+      ],
       "correct": 0,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Ivan Pavlov",
-        "verified": true,
-        "notes": "Won the 1904 Nobel Prize — for digestive physiology."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Who developed the five-level hierarchy of human needs, topped by self-actualization?",
-      "choices": ["Carl Jung", "Abraham Maslow", "Erik Erikson", "Sigmund Freud"],
+      "choices": [
+        "Carl Jung",
+        "Abraham Maslow",
+        "Erik Erikson",
+        "Sigmund Freud"
+      ],
       "correct": 1,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Abraham Maslow",
-        "verified": true,
-        "notes": "Introduced in his 1943 paper 'A Theory of Human Motivation.'"
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which Viennese neurologist founded psychoanalysis and the theory of the id, ego, and superego?",
-      "choices": ["Alfred Adler", "Carl Jung", "Sigmund Freud", "Melanie Klein"],
+      "choices": [
+        "Alfred Adler",
+        "Carl Jung",
+        "Sigmund Freud",
+        "Melanie Klein"
+      ],
       "correct": 2,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Sigmund Freud",
-        "verified": true,
-        "notes": "The structural model was introduced in 'The Ego and the Id' (1923)."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which projective test involves interpreting symmetric inkblots?",
-      "choices": ["Rorschach test", "MMPI", "Stanford-Binet", "Myers-Briggs"],
+      "choices": [
+        "Rorschach test",
+        "MMPI",
+        "Stanford-Binet",
+        "Myers-Briggs"
+      ],
       "correct": 0,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Rorschach test",
-        "verified": true,
-        "notes": "Developed by Swiss psychiatrist Hermann Rorschach in 1921."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which school of psychology was founded by John B. Watson and further developed by B.F. Skinner?",
-      "choices": ["Humanism", "Behaviorism", "Structuralism", "Gestalt"],
+      "choices": [
+        "Humanism",
+        "Behaviorism",
+        "Structuralism",
+        "Gestalt"
+      ],
       "correct": 1,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Behaviorism",
-        "verified": true,
-        "notes": "Focused on observable behavior, not internal mental states."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "Which 1905 intelligence test was among the first widely used IQ tests?",
-      "choices": ["Wechsler", "Stanford-Binet", "Binet-Simon", "Raven's Matrices"],
+      "choices": [
+        "Wechsler",
+        "Stanford-Binet",
+        "Binet-Simon",
+        "Raven's Matrices"
+      ],
       "correct": 2,
-      "category": "Psychology",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Binet-Simon scale",
-        "verified": true,
-        "notes": "Developed in France by Alfred Binet and Théodore Simon."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who wrote the 1890 foundational text The Principles of Psychology?",
-      "choices": ["John Dewey", "William James", "G. Stanley Hall", "James McKeen Cattell"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "William James",
-        "verified": true,
-        "notes": "Introduced the 'stream of consciousness' metaphor."
-      }
-    },
-    {
-      "q": "Which Swiss psychologist theorized four stages of cognitive development in children?",
-      "choices": ["Carl Jung", "Jean Piaget", "Lev Vygotsky", "Erik Erikson"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Jean Piaget",
-        "verified": true,
-        "notes": "Sensorimotor, preoperational, concrete operational, and formal operational."
-      }
-    },
-    {
-      "q": "B.F. Skinner is associated with which type of conditioning, focused on rewards and punishments?",
-      "choices": ["Classical conditioning", "Operant conditioning", "Observational conditioning", "Latent conditioning"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Operant conditioning",
-        "verified": true,
-        "notes": "Skinner invented the operant conditioning chamber (Skinner box)."
-      }
-    },
-    {
-      "q": "Albert Bandura's famous 1961 study of children's aggression involved what toy?",
-      "choices": ["A teddy bear", "A Bobo doll", "An action figure", "A pogo stick"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Bobo doll experiment",
-        "verified": true,
-        "notes": "An inflatable punch-down clown doll."
-      }
-    },
-    {
-      "q": "Whose 1961 Yale experiment tested obedience to authority with apparent electric shocks?",
-      "choices": ["Philip Zimbardo", "Stanley Milgram", "Solomon Asch", "Harry Harlow"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Stanley Milgram",
-        "verified": true,
-        "notes": "Participants would deliver 'shocks' up to 450V to actors they couldn't see."
-      }
-    },
-    {
-      "q": "Which 1971 Stanford study, halted early, simulated a prison with student participants?",
-      "choices": ["Asch conformity experiment", "Stanford prison experiment", "Bobo doll study", "Little Albert experiment"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Stanford prison experiment",
-        "verified": true,
-        "notes": "Led by Philip Zimbardo; later reassessments have questioned its scientific validity."
-      }
-    },
-    {
-      "q": "Which neo-Freudian psychoanalyst introduced the collective unconscious and archetypes?",
-      "choices": ["Erik Erikson", "Carl Jung", "Karen Horney", "Alfred Adler"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Carl Jung",
-        "verified": true,
-        "notes": "Founder of analytical psychology."
-      }
-    },
-    {
-      "q": "Which 1920 John B. Watson experiment demonstrated classical conditioning of fear in an infant?",
-      "choices": ["The Bobo doll experiment", "Little Albert experiment", "Pavlov's dogs", "Harlow's monkey experiment"],
-      "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Little Albert experiment",
-        "verified": true,
-        "notes": "Ethically troubled study considered unethical by modern standards."
-      }
-    },
-    {
-      "q": "What term did Leon Festinger coin to describe the discomfort of holding two conflicting beliefs?",
-      "choices": ["Cognitive dissonance", "Cognitive bias", "Mental block", "Psychic tension"],
+      "q": "Which psychologist is famous for developing the theory of classical conditioning through experiments with dogs?",
+      "choices": [
+        "Ivan Pavlov",
+        "B.F. Skinner",
+        "Albert Bandura",
+        "John Watson"
+      ],
       "correct": 0,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cognitive dissonance",
-        "verified": true,
-        "notes": "Published 'A Theory of Cognitive Dissonance' in 1957."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which psychologist developed an eight-stage theory of psychosocial development across the lifespan?",
-      "choices": ["Carl Rogers", "Jean Piaget", "Erik Erikson", "Lawrence Kohlberg"],
-      "correct": 2,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Erik Erikson",
-        "verified": true,
-        "notes": "Includes stages like 'identity vs. role confusion' and 'integrity vs. despair.'"
-      }
-    },
-    {
-      "q": "Which developmental theorist proposed six stages of moral reasoning, extending Piaget's work?",
-      "choices": ["Erik Erikson", "Lawrence Kohlberg", "Carol Gilligan", "Urie Bronfenbrenner"],
+      "q": "What is the name of the psychological phenomenon where people tend to remember information better when it relates to themselves?",
+      "choices": [
+        "Confirmation bias",
+        "Self-reference effect",
+        "Availability heuristic",
+        "Recency bias"
+      ],
       "correct": 1,
-      "category": "Psychology",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Lawrence Kohlberg",
-        "verified": true,
-        "notes": "Grouped into three levels: preconventional, conventional, postconventional."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Maslow's hierarchy of needs, which level of needs must be satisfied before an individual can focus on self-actualization?",
+      "choices": [
+        "Physiological needs",
+        "Safety needs",
+        "Esteem needs",
+        "Love and belonging needs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which neurotransmitter is most commonly associated with mood regulation and is often targeted by antidepressant medications?",
+      "choices": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "Glutamate"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the tendency to attribute our own successes to internal factors and our failures to external circumstances?",
+      "choices": [
+        "Fundamental attribution error",
+        "Self-serving bias",
+        "Actor-observer bias",
+        "Hindsight bias"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of memory holds information for only a few seconds without rehearsal?",
+      "choices": [
+        "Long-term memory",
+        "Procedural memory",
+        "Short-term memory",
+        "Semantic memory"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In operant conditioning, what is a reinforcement that increases behavior by adding something desirable to the environment?",
+      "choices": [
+        "Negative reinforcement",
+        "Positive reinforcement",
+        "Punishment",
+        "Extinction"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychologist proposed the concept of multiple intelligences, suggesting intelligence is not a single factor?",
+      "choices": [
+        "Charles Spearman",
+        "Howard Gardner",
+        "Robert Sternberg",
+        "Alfred Binet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary goal of cognitive-behavioral therapy?",
+      "choices": [
+        "To explore unconscious childhood conflicts",
+        "To identify and change maladaptive thought and behavior patterns",
+        "To achieve unconditional positive regard",
+        "To develop existential awareness"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brain structure is primarily responsible for the formation of new long-term memories?",
+      "choices": [
+        "Amygdala",
+        "Cerebellum",
+        "Hippocampus",
+        "Thalamus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the term 'nature versus nurture' refer to in psychology?",
+      "choices": [
+        "The debate between outdoor and indoor learning environments",
+        "The relative contributions of genetics and environment to human development",
+        "The comparison between natural and synthetic medications",
+        "The difference between innate talents and acquired skills"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychological perspective focuses on observable behavior and dismisses the study of internal mental processes?",
+      "choices": [
+        "Cognitive psychology",
+        "Humanistic psychology",
+        "Behaviorism",
+        "Psychoanalysis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the phenomenon where exposure to something makes you like it more over time?",
+      "choices": [
+        "Mere exposure effect",
+        "Primacy effect",
+        "Recency effect",
+        "Contrast effect"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Piaget's theory of cognitive development, what is the first stage called?",
+      "choices": [
+        "Preoperational stage",
+        "Sensorimotor stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the psychological stress and anxiety that occurs when holding two conflicting beliefs simultaneously?",
+      "choices": [
+        "Cognitive dissonance",
+        "Mental conflict",
+        "Psychological tension",
+        "Belief discord"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is an example of intrinsic motivation?",
+      "choices": [
+        "Working to earn a paycheck",
+        "Studying to get a good grade for your transcript",
+        "Playing an instrument because you enjoy it",
+        "Exercising to win a competition"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the brain's ability to reorganize itself by forming new neural connections throughout life?",
+      "choices": [
+        "Neurogenesis",
+        "Neuroplasticity",
+        "Synaptic pruning",
+        "Myelination"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which developmental psychologist is known for research on attachment between infants and caregivers?",
+      "choices": [
+        "Lawrence Kohlberg",
+        "Erik Erikson",
+        "John Bowlby",
+        "Jerome Bruner"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the Stanford Prison Experiment, conducted by Philip Zimbardo, demonstrate about human behavior?",
+      "choices": [
+        "That people are naturally aggressive",
+        "That situational factors can powerfully influence behavior",
+        "That prison guards are inherently cruel",
+        "That obedience is always wrong"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In psychology, what is the term for the learned tendency to avoid or approach stimuli based on past experiences?",
+      "choices": [
+        "Habituation",
+        "Sensitization",
+        "Conditioning",
+        "Desensitization"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Greek philosopher first proposed around 387 BCE that the brain is the organ responsible for mental processes and thought?",
+      "choices": [
+        "Aristotle",
+        "Plato",
+        "Socrates",
+        "Hippocrates"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the change in behavior that occurs when people know they are being observed, discovered during the Hawthorne studies?",
+      "choices": [
+        "Observer bias",
+        "Hawthorne effect",
+        "Social facilitation",
+        "Demand characteristics"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who established the first psychology clinic in the United States in 1896, marking an important milestone in clinical psychology?",
+      "choices": [
+        "William James",
+        "Lightner Witmer",
+        "G. Stanley Hall",
+        "James McKeen Cattell"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What field of psychology applies research to improve worker health, safety, and well-being in occupational settings?",
+      "choices": [
+        "Industrial psychology",
+        "Occupational health psychology",
+        "Organizational psychology",
+        "Human factors psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychological approach emphasizes that personality consists of consistent patterns of thoughts, feelings, and behaviors that distinguish individuals?",
+      "choices": [
+        "Behavioral approach",
+        "Trait theory",
+        "Psychoanalytic theory",
+        "Social learning theory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What subfield of psychology focuses on human happiness, strengths, and optimal functioning rather than mental illness?",
+      "choices": [
+        "Humanistic psychology",
+        "Positive psychology",
+        "Existential psychology",
+        "Gestalt psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychologist is credited with pioneering the experimental study of memory and developing mathematical models of forgetting?",
+      "choices": [
+        "Ivan Pavlov",
+        "Hermann Ebbinghaus",
+        "Edward Thorndike",
+        "Albert Bandura"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What psychological disorder involves the presence of two or more distinct personality states within one individual, often stemming from severe trauma?",
+      "choices": [
+        "Schizophrenia",
+        "Bipolar disorder",
+        "Dissociative identity disorder",
+        "Borderline personality disorder"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which school of psychological thought emphasizes experiencing the world as unified wholes rather than as separate individual parts?",
+      "choices": [
+        "Structuralism",
+        "Functionalism",
+        "Behaviorism",
+        "Gestalt psychology"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who coined the term 'behaviorism' in 1913, establishing a new approach to studying the mind based on observable behavior?",
+      "choices": [
+        "B.F. Skinner",
+        "John B. Watson",
+        "Edward Thorndike",
+        "Ivan Pavlov"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What therapeutic approach combines cognitive and behavioral techniques to address maladaptive thinking patterns and behaviors?",
+      "choices": [
+        "Psychoanalysis",
+        "Cognitive-behavioral therapy",
+        "Humanistic therapy",
+        "Gestalt therapy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Freud's structural model of personality, which component represents the unconscious desires and instincts seeking immediate gratification?",
+      "choices": [
+        "Superego",
+        "Ego",
+        "Id",
+        "Libido"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which area of psychology applies psychological principles to legal and forensic matters such as criminal profiling and witness credibility?",
+      "choices": [
+        "Community psychology",
+        "Health psychology",
+        "Forensic psychology",
+        "Environmental psychology"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What psychological movement is known as the 'third force' in psychology, emphasizing self-actualization and personal growth?",
+      "choices": [
+        "Behaviorism",
+        "Psychoanalysis",
+        "Humanistic psychology",
+        "Cognitive psychology"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of memory allows individuals to retain and retrieve information over extended periods, supporting knowledge and past experiences?",
+      "choices": [
+        "Working memory",
+        "Sensory memory",
+        "Long-term memory",
+        "Short-term memory"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What subfield of psychology combines educational and clinical principles to address students' learning and behavioral needs within school settings?",
+      "choices": [
+        "Educational psychology",
+        "Developmental psychology",
+        "School psychology",
+        "Community psychology"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychologist developed the concept of 'stream of consciousness' to describe the continuous and flowing nature of human thought?",
+      "choices": [
+        "William James",
+        "Carl Jung",
+        "John Dewey",
+        "Charles Peirce"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What psychological theory proposes that mental processes and behaviors evolved to solve specific problems faced by human ancestors?",
+      "choices": [
+        "Social learning theory",
+        "Evolutionary psychology",
+        "Cognitive dissonance theory",
+        "Attachment theory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who founded the Psychological Corporation and made significant contributions to the development of psychological testing methods?",
+      "choices": [
+        "Francis Galton",
+        "James McKeen Cattell",
+        "Edward Thorndike",
+        "Hermann von Helmholtz"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What psychological approach examines how individuals cope with existential concerns such as mortality, freedom, and the search for meaning?",
+      "choices": [
+        "Behavioral approach",
+        "Existential psychology",
+        "Cognitive approach",
+        "Systems theory"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychological approach emphasizes that behavior is shaped by rewards and punishments from the environment?",
+      "choices": [
+        "Psychoanalysis",
+        "Behaviorism",
+        "Humanistic psychology",
+        "Cognitive psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for the emotional bond that forms between an infant and their primary caregiver?",
+      "choices": [
+        "Conditioning",
+        "Transference",
+        "Attachment",
+        "Projection"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who developed the hierarchy of needs, a foundational concept in humanistic psychology?",
+      "choices": [
+        "Carl Rogers",
+        "Abraham Maslow",
+        "Albert Ellis",
+        "Rollo May"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychologist conducted the famous Bobo doll experiment demonstrating observational learning in children?",
+      "choices": [
+        "Ivan Pavlov",
+        "B.F. Skinner",
+        "Albert Bandura",
+        "Edward Thorndike"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes consistent patterns of thoughts, feelings, and behaviors that are unique to each individual?",
+      "choices": [
+        "Temperament",
+        "Personality",
+        "Character",
+        "Disposition"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which branch of psychology applies psychological principles to improve workplace efficiency and employee well-being?",
+      "choices": [
+        "Social psychology",
+        "Clinical psychology",
+        "Industrial and organizational psychology",
+        "Educational psychology"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What psychological movement emerged in the 1950s as a reaction against behaviorism and psychoanalysis?",
+      "choices": [
+        "Functionalism",
+        "Humanistic psychology",
+        "Structuralism",
+        "Gestalt psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which approach to psychology focuses on how people think, remember, perceive, and process information?",
+      "choices": [
+        "Psychodynamic psychology",
+        "Cognitive psychology",
+        "Evolutionary psychology",
+        "Comparative psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Sigmund Freud's model of personality that divides the mind into the id, ego, and super-ego?",
+      "choices": [
+        "Psychosexual stages",
+        "Defense mechanisms",
+        "Structural model",
+        "Unconscious processing"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychological principle involves increasing the likelihood of a behavior occurring again by providing a reward?",
+      "choices": [
+        "Punishment",
+        "Extinction",
+        "Reinforcement",
+        "Habituation"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the tendency to rely on information that readily comes to mind when making decisions?",
+      "choices": [
+        "Anchoring bias",
+        "Confirmation bias",
+        "Availability heuristic",
+        "Recency bias"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which early psychologist is known for pioneering research on human memory and the forgetting curve?",
+      "choices": [
+        "William James",
+        "Hermann Ebbinghaus",
+        "John Locke",
+        "Gustav Fechner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What branch of psychology focuses on understanding behavior and mental processes within cultural and social contexts?",
+      "choices": [
+        "Forensic psychology",
+        "Cultural psychology",
+        "Experimental psychology",
+        "Health psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychological theory explains human behaviors as adaptations that evolved to solve problems in ancestral environments?",
+      "choices": [
+        "Behavioral theory",
+        "Social learning theory",
+        "Evolutionary psychology",
+        "Attachment theory"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the psychological approach that emphasizes free will, personal growth, and self-actualization?",
+      "choices": [
+        "Behaviorism",
+        "Humanistic psychology",
+        "Structuralism",
+        "Functionalism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychologist's research on self-esteem in Black children helped inform the landmark Brown v. Board of Education decision?",
+      "choices": [
+        "Kenneth Clark",
+        "Mamie Phipps Clark",
+        "James Baldwin",
+        "W.E.B. Du Bois"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What psychological concept refers to a mental shortcut or rule of thumb used to make quick judgments?",
+      "choices": [
+        "Schema",
+        "Prototype",
+        "Heuristic",
+        "Algorithm"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Gestalt psychologist is famous for research on animal intelligence and problem-solving insight?",
+      "choices": [
+        "Max Wertheimer",
+        "Wolfgang Köhler",
+        "Kurt Koffka",
+        "Christian von Ehrenfels"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the branch of psychology that applies psychological principles to legal and criminal justice systems?",
+      "choices": [
+        "Organizational psychology",
+        "Health psychology",
+        "Forensic psychology",
+        "Sports psychology"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychological approach examines how people's thoughts, feelings, and behaviors are influenced by other people and groups?",
+      "choices": [
+        "Clinical psychology",
+        "Social psychology",
+        "Developmental psychology",
+        "Experimental psychology"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which psychologist conducted the famous 'Little Albert' experiment to demonstrate how emotional responses could be conditioned in humans?",
+      "choices": [
+        "Ivan Pavlov",
+        "John B. Watson",
+        "B.F. Skinner",
+        "Albert Bandura"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes the continuous flow of thoughts and sensations in the human mind, a concept introduced by William James?",
+      "choices": [
+        "Stream of consciousness",
+        "Mental hierarchy",
+        "Thought sequence",
+        "Cognitive flow"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Maslow's hierarchy of needs, what term does he use to describe the highest level of psychological development where a person realizes their full potential?",
+      "choices": [
+        "Peak experience",
+        "Self-actualization",
+        "Transcendence",
+        "Self-fulfillment"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "Mamie Phipps Clark's 'doll studies' research contributed to the arguments in which landmark 1954 U.S. Supreme Court decision?",
-      "choices": ["Roe v. Wade", "Brown v. Board of Education", "Plessy v. Ferguson", "Miranda v. Arizona"],
+      "choices": [
+        "Roe v. Wade",
+        "Brown v. Board of Education",
+        "Plessy v. Ferguson",
+        "Miranda v. Arizona"
+      ],
       "correct": 1,
-      "category": "Psychology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Brown v. Board of Education",
-        "verified": true,
-        "notes": "The first Black woman to earn a psychology PhD from Columbia."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Which psychologist founded positive psychology in 1998 after earlier developing 'learned helplessness'?",
-      "choices": ["Martin Seligman", "Daniel Kahneman", "Howard Gardner", "Mihaly Csikszentmihalyi"],
+      "choices": [
+        "Martin Seligman",
+        "Daniel Kahneman",
+        "Howard Gardner",
+        "Mihaly Csikszentmihalyi"
+      ],
       "correct": 0,
-      "category": "Psychology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Martin Seligman",
-        "verified": true,
-        "notes": "Served as APA president in 1998."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Which Soviet psychologist developed the 'zone of proximal development' concept in child learning?",
-      "choices": ["Ivan Pavlov", "Lev Vygotsky", "Alexander Luria", "Aleksei Leontiev"],
+      "choices": [
+        "Ivan Pavlov",
+        "Lev Vygotsky",
+        "Alexander Luria",
+        "Aleksei Leontiev"
+      ],
       "correct": 1,
-      "category": "Psychology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Lev Vygotsky",
-        "verified": true,
-        "notes": "Died of tuberculosis in 1934 at age 37."
-      }
+      "difficulty": "hard"
     },
     {
       "q": "Mary Ainsworth developed which experimental procedure to classify infant attachment styles?",
-      "choices": ["The Strange Situation", "The Bobo Doll", "The Visual Cliff", "The False-Belief Task"],
+      "choices": [
+        "The Strange Situation",
+        "The Bobo Doll",
+        "The Visual Cliff",
+        "The False-Belief Task"
+      ],
       "correct": 0,
-      "category": "Psychology",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Strange Situation Procedure",
-        "verified": true,
-        "notes": "Identified secure, insecure-avoidant, and insecure-resistant patterns."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which psychologist's research on the serial position effect demonstrated that people better recall items at the beginning and end of a list, leading to the development of the dual-store model of memory?",
+      "choices": [
+        "Hermann Ebbinghaus",
+        "Atkinson and Shiffrin",
+        "George Miller",
+        "Endel Tulving"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In signal detection theory, what term describes correctly identifying the presence of a stimulus when it actually occurs?",
+      "choices": [
+        "False alarm",
+        "Hit",
+        "Correct rejection",
+        "Miss"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neurotransmitter system dysfunction is primarily implicated in the pathophysiology of obsessive-compulsive disorder according to the dominant neurobiological model?",
+      "choices": [
+        "Dopaminergic system",
+        "Serotonergic system",
+        "GABAergic system",
+        "Cholinergic system"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon, identified by Shelley Taylor and Jonathon Brown, describes the tendency of individuals to maintain unrealistically positive self-evaluations despite objective evidence to the contrary?",
+      "choices": [
+        "Dunning-Kruger effect",
+        "Positive illusions",
+        "Self-serving bias",
+        "Illusory truth effect"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In attachment theory, which classification describes infants who show ambivalent behavior toward the caregiver, alternating between seeking proximity and resisting contact?",
+      "choices": [
+        "Secure attachment",
+        "Avoidant attachment",
+        "Resistant attachment",
+        "Disorganized attachment"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which statistical concept, central to meta-analysis and effect size interpretation, refers to the standardized difference between two group means divided by the pooled standard deviation?",
+      "choices": [
+        "Correlation coefficient",
+        "Cohen's d",
+        "Variance ratio",
+        "Standard error"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the paradoxical finding in decision-making where the availability of additional options reduces consumer satisfaction and decision-making confidence?",
+      "choices": [
+        "Anchoring bias",
+        "Choice overload or paradox of choice",
+        "Framing effect",
+        "Status quo bias"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Mary Ainsworth's Strange Situation paradigm, what specific behavior of the caregiver upon reunion most reliably predicts secure attachment classification in infants?",
+      "choices": [
+        "Maintaining physical proximity without contact",
+        "Responsive sensitivity to the infant's signals and emotional state",
+        "Consistent toy provision and environmental enrichment",
+        "Minimal verbal interaction but sustained eye contact"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which therapeutic technique, developed within psychodynamic tradition, involves the analysis of resistance and transference patterns to understand unconscious conflicts?",
+      "choices": [
+        "Cognitive restructuring",
+        "Exposure therapy",
+        "Free association and analysis of defenses",
+        "Behavioral activation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term describes the phenomenon where priming with a concept activates related concepts in memory, influencing subsequent judgments and behavior?",
+      "choices": [
+        "Spreading activation",
+        "Schema activation",
+        "Conceptual priming",
+        "Semantic resonance"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the diathesis-stress model of schizophrenia, what does the diathesis component represent?",
+      "choices": [
+        "Environmental stressors that trigger symptom onset",
+        "Genetic or biological vulnerability to the disorder",
+        "Cognitive deficits in information processing",
+        "Social isolation and lack of support systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neuroscientist's work on the visual cortex revealed the existence of orientation columns and established the principle of cortical hypercolumns, earning a Nobel Prize?",
+      "choices": [
+        "Eric Kandel",
+        "David Hubel and Torsten Wiesel",
+        "Rita Levi-Montalcini",
+        "Christof Koch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What psychological construct, measured by scales such as the Barrett Impulsiveness Scale, reflects individual differences in the tendency to act without forethought?",
+      "choices": [
+        "Extraversion",
+        "Impulsivity",
+        "Neuroticism",
+        "Openness"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Kahneman and Tversky's prospect theory, what term describes the tendency to be risk-averse when considering potential gains but risk-seeking when considering potential losses?",
+      "choices": [
+        "Loss aversion",
+        "Reference dependence",
+        "Risk asymmetry",
+        "Valence reversal"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neurotransmitter, implicated in reward processing and motivation, is the primary focus of dopamine hypothesis explanations for major depressive disorder and anhedonia?",
+      "choices": [
+        "Acetylcholine",
+        "Dopamine",
+        "Glutamate",
+        "Norepinephrine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the implicit memory test in which participants are asked to complete word stems or fragments with the first word that comes to mind?",
+      "choices": [
+        "Recognition memory task",
+        "Cued recall task",
+        "Word stem completion test",
+        "Source monitoring task"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In social psychology, which theory posits that individuals form attitudes partly based on observing their own behavior and inferring their internal states from external cues?",
+      "choices": [
+        "Cognitive dissonance theory",
+        "Self-perception theory",
+        "Attribution theory",
+        "Consistency theory"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which brain structure, part of the limbic system, plays a crucial role in the consolidation of declarative memories from short-term to long-term storage?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What statistical artifact occurs when a correlation between two variables appears to exist only because both variables are correlated with a third unmeasured variable?",
+      "choices": [
+        "Multicollinearity",
+        "Spurious correlation",
+        "Homoscedasticity violation",
+        "Regression to the mean"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of working memory capacity, which experimental paradigm involves presenting stimuli followed by a delay and a probe stimulus, requiring judgment of whether the probe was in the initial set?",
+      "choices": [
+        "Change detection task",
+        "Sternberg task",
+        "Continuous performance task",
+        "N-back task"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Lev Vygotsky's sociocultural theory, what term describes the difference between what a child can accomplish independently versus what they can accomplish with adult guidance?",
+      "choices": [
+        "Zone of proximal development",
+        "Scaffolding threshold",
+        "Cognitive apprenticeship gap",
+        "Social learning distance"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which psychologist's research on metacognition demonstrated that individuals often fail to accurately assess the limits of their own knowledge, a phenomenon related to the Dunning-Kruger effect?",
+      "choices": [
+        "Carol Dweck",
+        "David Dunning and Justin Kruger",
+        "Albert Bandura",
+        "Eleanor Rosch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Martin Seligman's framework of positive psychology, what does the PERMA model represent as essential components of human flourishing?",
+      "choices": [
+        "Performance, Engagement, Resilience, Meaning, Achievement",
+        "Positive emotion, Engagement, Relationships, Meaning, Accomplishment",
+        "Purpose, Efficacy, Resilience, Mindfulness, Autonomy",
+        "Performance, Empathy, Reflection, Motivation, Authenticity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific brain structure did Karl Lashley's experiments on memory engrams attempt to localize through systematic lesion studies in rats?",
+      "choices": [
+        "The hippocampus exclusively",
+        "The cerebellum and motor cortex",
+        "The engram's physical location in the cortex",
+        "The amygdala and thalamus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Edward Tolman's latent learning experiments with rats in mazes, what did his results suggest about the nature of learning compared to strict behaviorist theory?",
+      "choices": [
+        "Learning requires immediate reinforcement to be retained",
+        "Animals can acquire knowledge without overt behavioral demonstration",
+        "Cognitive maps are only formed when motivation is present",
+        "Spatial learning is fundamentally different from other types"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neurotransmitter dysregulation is most prominently implicated in the mesocorticolimbic pathway abnormalities observed in substance use disorders according to contemporary neuroscience research?",
+      "choices": [
+        "Serotonin exclusively",
+        "Dopamine and its reward pathway function",
+        "GABA and glutamate balance",
+        "Acetylcholine and cholinergic systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Carol Gilligan's critiques of Kohlberg's stages of moral development, what did she argue was missing from his male-centered framework?",
+      "choices": [
+        "An understanding of preconventional morality",
+        "An ethics of care and relationship-based moral reasoning",
+        "The role of religious authority in moral judgment",
+        "Empirical evidence from longitudinal studies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon did Solomon Asch's conformity experiments demonstrate regarding participants' willingness to give obviously incorrect answers in group settings?",
+      "choices": [
+        "Groupthink occurs only in high-stakes decisions",
+        "Individuals conform to group pressure even against sensory evidence",
+        "Normative social influence is weaker than informational influence",
+        "Conformity decreases with group size beyond five members"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Barbara Fredrickson's broaden-and-build theory of positive emotions, what is the proposed adaptive function of experiencing joy or contentment?",
+      "choices": [
+        "To reinforce recent successful behaviors exclusively",
+        "To broaden cognitive scope and build psychological resources",
+        "To suppress threat-detection mechanisms temporarily",
+        "To increase social dominance within group hierarchies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cognitive bias describes the tendency to search for, interpret, and recall information in ways that confirm one's preexisting beliefs, as studied extensively by Raymond Nickerson?",
+      "choices": [
+        "Availability heuristic",
+        "Confirmation bias",
+        "Anchoring bias",
+        "Representativeness heuristic"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Albert Ellis's rational emotive behavior therapy, what does he identify as the primary mechanism of psychological distress?",
+      "choices": [
+        "Unconscious childhood conflicts",
+        "Irrational beliefs and cognitive distortions about activating events",
+        "Operant conditioning history and reinforcement patterns",
+        "Neurochemical imbalances in serotonin systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the diathesis-stress model propose regarding the etiology of mental disorders like schizophrenia?",
+      "choices": [
+        "Environmental stressors alone are sufficient to cause disorder",
+        "Genetic factors guarantee the development of disorder",
+        "Both predisposition and environmental triggers interact to produce disorder",
+        "Early childhood trauma is the exclusive causal pathway"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Elizabeth Loftus's research on false memories and the misinformation effect, what phenomenon did she demonstrate regarding eyewitness testimony?",
+      "choices": [
+        "Memory is essentially accurate when emotionally aroused",
+        "Post-event information can distort or replace original memories",
+        "Hypnosis reliably recovers repressed traumatic memories",
+        "Memory accuracy improves with repeated recall attempts"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to Broca and Wernicke's classical model of language, which brain area is primarily associated with the comprehension of spoken and written language?",
+      "choices": [
+        "Broca's area in the left inferior frontal lobe",
+        "Wernicke's area in the left superior temporal lobe",
+        "The angular gyrus at the temporo-parietal junction",
+        "The supplementary motor area in the medial prefrontal cortex"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Donald Super's career development theory, what does he term the developmental process where individuals progressively specify and implement their vocational interests and abilities?",
+      "choices": [
+        "Career crystallization",
+        "Vocational maturity progression",
+        "Career self-concept implementation",
+        "Occupational specification trajectory"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the concept of 'dark flow' in occupational psychology refer to, as distinguished from Mihaly Csikszentmihalyi's optimal experience model?",
+      "choices": [
+        "The state achieved through meditation and mindfulness",
+        "Engagement in intrinsically rewarding but potentially harmful activities",
+        "The experience of burnout and workplace exhaustion",
+        "A regression in skill development due to chronic stress"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In John Bowlby's attachment theory, what does he describe as the internal working model established through infant-caregiver interactions?",
+      "choices": [
+        "A behavioral pattern template for future social interactions",
+        "A cognitive representation of self, others, and relationships guiding expectations",
+        "A neurological pathway that strengthens with consistent caregiving",
+        "A biochemical marker of secure attachment in the hypothalamus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "According to the polyvagal theory developed by Stephen Porges, what role do vagal nerve pathways play in the regulation of autonomic responses and social behavior?",
+      "choices": [
+        "They exclusively control parasympathetic responses to threat",
+        "They provide a hierarchical system linking social communication with physiological states",
+        "They mediate only conscious decision-making processes",
+        "They regulate immune function independently of behavioral systems"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In René Girard's theory of mimetic desire as applied to social psychology, what does he propose regarding human motivation and social conflict?",
+      "choices": [
+        "Desire is fundamentally rational and based on intrinsic object value",
+        "Desire is mediated through imitation of others' desires, potentially leading to rivalry",
+        "Desire is exclusively driven by biological drives and evolutionary fitness",
+        "Desire requires external reinforcement to sustain motivation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which psychologist's research on metacognition and the zone of proximal development emphasized the role of cultural and social context in cognitive development?",
+      "choices": [
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "Lawrence Kohlberg",
+        "Carol Dweck"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Kahneman and Tversky's prospect theory, what term describes the tendency to feel the pain of a loss more intensely than the pleasure of an equivalent gain?",
+      "choices": [
+        "Risk aversion",
+        "Loss aversion",
+        "Framing bias",
+        "Anchoring effect"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neurotransmitter hypothesis, proposed by Arvid Carlsson, explains the symptoms of schizophrenia through excessive dopamine activity in specific brain regions?",
+      "choices": [
+        "Serotonin hypothesis",
+        "GABA hypothesis",
+        "Dopamine hypothesis",
+        "Acetylcholine hypothesis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the phenomenon discovered by Solomon Asch in which individuals conform to obviously incorrect group judgments despite having objective evidence to the contrary?",
+      "choices": [
+        "Groupthink",
+        "Social facilitation",
+        "Line judgment conformity",
+        "Normative social influence"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Albert Ellis's rational emotive behavior therapy, what term refers to the irrational beliefs that lead to emotional disturbance when activated by adverse events?",
+      "choices": [
+        "Cognitive distortions",
+        "Core beliefs",
+        "Automatic thoughts",
+        "Musts and demands"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which psychological construct, developed by Mihaly Csikszentmihalyi, describes the optimal state of consciousness achieved when skill level matches task difficulty?",
+      "choices": [
+        "Peak experience",
+        "Flow state",
+        "Optimal arousal",
+        "Self-actualization"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In signal detection theory, what is the term for correctly identifying the absence of a signal when none is present?",
+      "choices": [
+        "Hit",
+        "False alarm",
+        "Correct rejection",
+        "Miss"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which researcher's studies on implicit association tests demonstrated unconscious biases in attitudes toward racial and ethnic groups?",
+      "choices": [
+        "Claude Steele",
+        "Anthony Greenwald",
+        "Mahzarin Banaji",
+        "Gordon Allport"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the ventromedial prefrontal cortex damage case of Phineas Gage suggest about the relationship between brain physiology and personality change?",
+      "choices": [
+        "The brain has no role in personality",
+        "Specific brain regions control emotional regulation and decision-making",
+        "Personality is entirely determined by environment",
+        "The cerebellum is responsible for personality traits"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Harry Harlow's studies with rhesus monkeys and surrogate mothers, which variable proved more important for attachment: food provision or tactile comfort?",
+      "choices": [
+        "Food provision",
+        "Tactile comfort",
+        "Both equally",
+        "Neither had significant effect"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which model of memory, proposed by Atkinson and Shiffrin, describes the flow of information through sensory memory, short-term memory, and long-term memory?",
+      "choices": [
+        "Working memory model",
+        "Multi-store model",
+        "Levels of processing model",
+        "Encoding specificity principle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term describes the phenomenon where people rate the attractiveness of a face higher when it is presented alongside other attractive faces?",
+      "choices": [
+        "Contrast effect",
+        "Assimilation effect",
+        "Mere exposure effect",
+        "Halo effect"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Carol Dweck's research on implicit theories of intelligence, individuals with a fixed mindset tend to attribute failure to what factor?",
+      "choices": [
+        "Lack of effort",
+        "Task difficulty",
+        "Stable, internal ability",
+        "External circumstances"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of validity refers to the degree to which a test accurately predicts performance on a criterion measure outside the test itself?",
+      "choices": [
+        "Construct validity",
+        "Criterion validity",
+        "Content validity",
+        "Face validity"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of operant conditioning, what is the term for the weakening of a conditioned response when the unconditioned stimulus is repeatedly withheld?",
+      "choices": [
+        "Extinction",
+        "Inhibition",
+        "Habituation",
+        "Suppression"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which brain structure, primarily involved in the consolidation of declarative memories, is notably damaged in patient H.M. studied by Brenda Milner?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Paul Ekman's research on facial expressions, how many universal emotions did he identify as recognized across cultures?",
+      "choices": [
+        "Three",
+        "Five",
+        "Six",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which phenomenon, identified by Elizabeth Loftus, describes the false creation of memories for events that never occurred, often through suggestive questioning?",
+      "choices": [
+        "Cryptomnesia",
+        "Source confusion",
+        "False memory",
+        "Reconstruction error"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Leon Festinger's original cognitive dissonance experiments, participants who were paid less money to lie about a boring task subsequently reported finding the task more enjoyable. What does this demonstrate?",
+      "choices": [
+        "Money directly determines attitude change",
+        "Insufficient external justification leads to internal attitude change",
+        "Cognitive dissonance only occurs with monetary rewards",
+        "Boredom is reduced by payment"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which statistical concept, introduced in psychology to address the limitations of null hypothesis significance testing, represents the probability of the data given the hypothesis?",
+      "choices": [
+        "Effect size",
+        "Power analysis",
+        "Bayes factor",
+        "Confidence interval"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which psychologist's work on operant conditioning introduced the concept of reinforcement schedules, demonstrating that variable ratio schedules produce the highest rates of responding?",
+      "choices": [
+        "Edward Thorndike",
+        "B.F. Skinner",
+        "Albert Bandura",
+        "Neal Miller"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of cognitive psychology, what term describes the mental representation of sequential steps in performing a task, often studied through experiments on skill acquisition and automaticity?",
+      "choices": [
+        "Schema",
+        "Script",
+        "Mental model",
+        "Procedural template"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neurotransmitter dysregulation hypothesis, proposed by Aaron Beck, became central to understanding the cognitive model of depression?",
+      "choices": [
+        "Dopamine depletion theory",
+        "Serotonin-norepinephrine imbalance",
+        "GABA inhibition dysfunction",
+        "Acetylcholine deficit syndrome"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mary Whiton Calkins developed a research methodology involving paired stimuli to study memory retention—what was the primary name given to this technique?",
+      "choices": [
+        "Serial position paradigm",
+        "Paired associates learning",
+        "Stimulus-response mapping",
+        "Consecutive recall protocol"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In psychophysics, what logarithmic relationship, formulated by Gustav Fechner, describes how subjective sensation intensity increases as a function of stimulus magnitude?",
+      "choices": [
+        "Weber's Law",
+        "Fechner's Law",
+        "Stevens' Power Law",
+        "Helmholtz's Principle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which aspect of attachment theory, developed by John Bowlby, specifically refers to an infant's behavioral system that maintains proximity to the caregiver during distress?",
+      "choices": [
+        "Secure base phenomenon",
+        "Proximity maintenance",
+        "Internal working model",
+        "Strange Situation response"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In signal detection theory, what term describes the correct identification of the presence of a stimulus, representing a true positive outcome in the detection paradigm?",
+      "choices": [
+        "Hit",
+        "Correct rejection",
+        "False alarm",
+        "Miss"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who wrote the 1890 foundational text The Principles of Psychology?",
+      "choices": [
+        "John Dewey",
+        "William James",
+        "G. Stanley Hall",
+        "James McKeen Cattell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Swiss psychologist theorized four stages of cognitive development in children?",
+      "choices": [
+        "Carl Jung",
+        "Jean Piaget",
+        "Lev Vygotsky",
+        "Erik Erikson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "B.F. Skinner is associated with which type of conditioning, focused on rewards and punishments?",
+      "choices": [
+        "Classical conditioning",
+        "Operant conditioning",
+        "Observational conditioning",
+        "Latent conditioning"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Albert Bandura's famous 1961 study of children's aggression involved what toy?",
+      "choices": [
+        "A teddy bear",
+        "A Bobo doll",
+        "An action figure",
+        "A pogo stick"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Whose 1961 Yale experiment tested obedience to authority with apparent electric shocks?",
+      "choices": [
+        "Philip Zimbardo",
+        "Stanley Milgram",
+        "Solomon Asch",
+        "Harry Harlow"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1971 Stanford study, halted early, simulated a prison with student participants?",
+      "choices": [
+        "Asch conformity experiment",
+        "Stanford prison experiment",
+        "Bobo doll study",
+        "Little Albert experiment"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which neo-Freudian psychoanalyst introduced the collective unconscious and archetypes?",
+      "choices": [
+        "Erik Erikson",
+        "Carl Jung",
+        "Karen Horney",
+        "Alfred Adler"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which 1920 John B. Watson experiment demonstrated classical conditioning of fear in an infant?",
+      "choices": [
+        "The Bobo doll experiment",
+        "Little Albert experiment",
+        "Pavlov's dogs",
+        "Harlow's monkey experiment"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term did Leon Festinger coin to describe the discomfort of holding two conflicting beliefs?",
+      "choices": [
+        "Cognitive dissonance",
+        "Cognitive bias",
+        "Mental block",
+        "Psychic tension"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist developed an eight-stage theory of psychosocial development across the lifespan?",
+      "choices": [
+        "Carl Rogers",
+        "Jean Piaget",
+        "Erik Erikson",
+        "Lawrence Kohlberg"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which developmental theorist proposed six stages of moral reasoning, extending Piaget's work?",
+      "choices": [
+        "Erik Erikson",
+        "Lawrence Kohlberg",
+        "Carol Gilligan",
+        "Urie Bronfenbrenner"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist developed the concept of 'flow state,' describing the optimal psychological experience of complete engagement in an activity?",
+      "choices": [
+        "Mihaly Csikszentmihalyi",
+        "Carol Dweck",
+        "Daniel Kahneman",
+        "Angela Duckworth"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Piaget's theory of cognitive development, what is the stage called during which children begin to understand object permanence, typically occurring between 0-2 years?",
+      "choices": [
+        "Preoperational stage",
+        "Sensorimotor stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which neurotransmitter is primarily associated with mood regulation and is targeted by selective serotonin reuptake inhibitors (SSRIs)?",
+      "choices": [
+        "Dopamine",
+        "Acetylcholine",
+        "Serotonin",
+        "GABA"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the tendency to attribute others' behavior to internal characteristics while attributing one's own behavior to external circumstances?",
+      "choices": [
+        "Confirmation bias",
+        "Fundamental attribution error",
+        "Availability heuristic",
+        "Hindsight bias"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist's research on obedience, conducted in the 1960s, demonstrated how ordinary people could be led to harm others under authority figures' commands?",
+      "choices": [
+        "Philip Zimbardo",
+        "Solomon Asch",
+        "Stanley Milgram",
+        "Leon Festinger"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In classical conditioning, what term describes the reappearance of a conditioned response after extinction when the conditioned stimulus is presented again?",
+      "choices": [
+        "Spontaneous recovery",
+        "Reconditioning",
+        "Disinhibition",
+        "Renewal effect"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of memory involves the storage of facts, concepts, and general knowledge about the world?",
+      "choices": [
+        "Episodic memory",
+        "Procedural memory",
+        "Semantic memory",
+        "Working memory"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym ADHD stand for in clinical psychology?",
+      "choices": [
+        "Attention Deficit and Hyperactivity Development",
+        "Attention-Deficit/Hyperactivity Disorder",
+        "Activation Deficit and Heightened Distraction",
+        "Auditory Deficit and Hyperactive Disorder"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which therapeutic approach, developed by Aaron Beck, focuses on identifying and challenging distorted thought patterns to improve mental health?",
+      "choices": [
+        "Psychodynamic therapy",
+        "Cognitive therapy",
+        "Gestalt therapy",
+        "Dialectical behavior therapy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In social psychology, what term describes the reduction in individual accountability and responsibility that occurs in group settings?",
+      "choices": [
+        "Social facilitation",
+        "Deindividuation",
+        "Groupthink",
+        "Social loafing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist's theory of multiple intelligences proposed that intelligence consists of at least eight distinct types rather than a single general ability?",
+      "choices": [
+        "Howard Gardner",
+        "Robert Sternberg",
+        "Charles Spearman",
+        "James Flynn"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the psychological principle where exposure to a stimulus over time leads to decreased emotional responses to it?",
+      "choices": [
+        "Habituation",
+        "Sensitization",
+        "Accommodation",
+        "Assimilation"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brain structure is primarily responsible for the consolidation of memories from short-term to long-term storage?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Erikson's theory of psychosocial development, which stage occurs during adolescence and involves the conflict between identity and role confusion?",
+      "choices": [
+        "Autonomy versus shame and doubt",
+        "Industry versus inferiority",
+        "Identity versus role confusion",
+        "Integrity versus despair"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What psychological phenomenon describes the tendency to remember incomplete or interrupted tasks better than completed ones?",
+      "choices": [
+        "Primacy effect",
+        "Recency effect",
+        "Zeigarnik effect",
+        "Serial position effect"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which neurotransmitter is primarily associated with reward, motivation, and pleasure, and is implicated in addiction disorders?",
+      "choices": [
+        "Serotonin",
+        "Dopamine",
+        "Norepinephrine",
+        "Glutamate"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In personality psychology, what theory suggests that personality traits can be organized into five major dimensions, commonly abbreviated as the Big Five?",
+      "choices": [
+        "Psychoanalytic theory",
+        "Social-cognitive theory",
+        "Five Factor Model",
+        "Trait-state theory"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the psychological state achieved through meditation practices, characterized by heightened awareness and mental clarity?",
+      "choices": [
+        "Flow state",
+        "Mindfulness",
+        "Transcendence",
+        "Enlightenment"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist developed the concept of 'stereotype threat,' demonstrating how awareness of negative stereotypes can impair performance in stereotyped domains?",
+      "choices": [
+        "Claude Steele",
+        "Sheryl Sandberg",
+        "Carol Dweck",
+        "Implicit bias researchers"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Maslow's hierarchy of needs, what is the highest level of psychological need that individuals strive to achieve?",
+      "choices": [
+        "Safety needs",
+        "Esteem needs",
+        "Love and belonging needs",
+        "Self-actualization"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist developed the theory of operant conditioning, demonstrating how behavior is shaped by consequences such as rewards and punishments?",
+      "choices": [
+        "Ivan Pavlov",
+        "B.F. Skinner",
+        "Albert Bandura",
+        "Edward Thorndike"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the psychological phenomenon where people conform to group decisions even when they privately disagree, as demonstrated in Solomon Asch's conformity experiments?",
+      "choices": [
+        "Social facilitation",
+        "Groupthink",
+        "Normative conformity",
+        "Deindividuation"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Erikson's stages of psychosocial development, which stage typically occurs during ages 40-65 and centers on the conflict between generativity and stagnation?",
+      "choices": [
+        "Intimacy vs. Isolation",
+        "Generativity vs. Stagnation",
+        "Ego Integrity vs. Despair",
+        "Industry vs. Inferiority"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which neurotransmitter is primarily implicated in mood regulation, and its dysfunction is commonly associated with depression?",
+      "choices": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "Glutamate"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What psychological construct, measured by the Stanford-Binet scale, represents a person's overall cognitive ability relative to their age group?",
+      "choices": [
+        "Emotional quotient",
+        "Intelligence quotient",
+        "Aptitude score",
+        "Achievement index"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which therapeutic technique involves gradually exposing a person to a feared stimulus while in a relaxed state to reduce anxiety responses?",
+      "choices": [
+        "Cognitive restructuring",
+        "Systematic desensitization",
+        "Aversion therapy",
+        "Flooding"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What cognitive bias describes the tendency to seek out information that confirms existing beliefs while ignoring contradictory evidence?",
+      "choices": [
+        "Availability heuristic",
+        "Confirmation bias",
+        "Anchoring bias",
+        "Hindsight bias"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Albert Bandura's social learning theory, which process describes learning through observation and imitation of others' behavior?",
+      "choices": [
+        "Classical conditioning",
+        "Observational learning",
+        "Latent learning",
+        "Insight learning"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which area of the brain is primarily responsible for the consolidation of short-term memories into long-term memories?",
+      "choices": [
+        "Cerebellum",
+        "Hippocampus",
+        "Amygdala",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the psychological principle that the greater the difference between actual and desired self-image, the more motivation for change?",
+      "choices": [
+        "Self-efficacy gap",
+        "Self-discrepancy",
+        "Identity crisis",
+        "Self-esteem deficit"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist proposed the theory of multiple intelligences, suggesting that intelligence is not a single, unified construct?",
+      "choices": [
+        "Charles Spearman",
+        "Howard Gardner",
+        "Louis Thurstone",
+        "Raymond Cattell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Festinger's cognitive dissonance theory, how do people typically resolve conflicting thoughts and attitudes?",
+      "choices": [
+        "By ignoring one of the conflicting thoughts entirely",
+        "By changing their behavior, attitudes, or beliefs to align with each other",
+        "By seeking social support from like-minded individuals",
+        "By creating mental compartments to separate conflicting ideas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What phenomenon, observed in interviews and group settings, describes how people unconsciously adopt mannerisms and speech patterns of others?",
+      "choices": [
+        "Mirroring",
+        "Synchrony",
+        "Rapport building",
+        "Chameleon effect"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which sleep stage is characterized by rapid eye movements and is most associated with vivid dreaming?",
+      "choices": [
+        "Non-REM Stage 1",
+        "Non-REM Stage 2",
+        "Non-REM Stage 3",
+        "REM sleep"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Carol Dweck's research, what term describes the belief that abilities can be developed through dedication and effort rather than being fixed traits?",
+      "choices": [
+        "Fixed mindset",
+        "Growth mindset",
+        "Self-efficacy",
+        "Locus of control"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which defense mechanism involves unconsciously redirecting emotional impulses from their original target to a more acceptable substitute?",
+      "choices": [
+        "Rationalization",
+        "Projection",
+        "Displacement",
+        "Sublimation"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What psychological principle states that the likelihood of a behavior being repeated increases when it is followed by a positive consequence?",
+      "choices": [
+        "Classical conditioning",
+        "Law of effect",
+        "Associative learning",
+        "Reinforcement scheduling"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brain structure, located deep in the temporal lobe, is crucial for processing emotions and emotional memories, particularly fear responses?",
+      "choices": [
+        "Hippocampus",
+        "Amygdala",
+        "Insula",
+        "Cingulate cortex"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Zimbardo's Stanford Prison Experiment, what was the primary finding regarding the influence of assigned social roles on behavior?",
+      "choices": [
+        "Personality traits determine behavior regardless of situational context",
+        "Ordinary people can adopt cruel behaviors when assigned authoritative roles in certain environments",
+        "Prison guards are inherently more aggressive than other populations",
+        "Prisoners naturally form hierarchies based on educational background"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which therapeutic approach, developed by Aaron Beck, focuses on identifying and challenging automatic negative thoughts to improve mood and behavior?",
+      "choices": [
+        "Acceptance and commitment therapy",
+        "Cognitive therapy",
+        "Rational emotive behavior therapy",
+        "Dialectical behavior therapy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist developed the theory of operant conditioning, demonstrating how behavior can be shaped through consequences like rewards and punishments?",
+      "choices": [
+        "Ivan Pavlov",
+        "B.F. Skinner",
+        "John Watson",
+        "Edward Thorndike"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In psychology, what term describes the tendency to attribute our own successes to internal factors while blaming external factors for our failures?",
+      "choices": [
+        "Confirmation bias",
+        "Self-serving bias",
+        "Fundamental attribution error",
+        "Hindsight bias"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which developmental psychologist proposed that children progress through distinct stages of cognitive development, including the sensorimotor and concrete operational stages?",
+      "choices": [
+        "Lev Vygotsky",
+        "Jean Piaget",
+        "Lawrence Kohlberg",
+        "Erik Erikson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the phenomenon where people conform to group behavior even when they privately disagree, as demonstrated in Solomon Asch's line-judgment experiments?",
+      "choices": [
+        "Groupthink",
+        "Social facilitation",
+        "Normative conformity",
+        "Obedience to authority"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brain structure is primarily responsible for forming new long-term memories and is often damaged in cases of amnesia?",
+      "choices": [
+        "Amygdala",
+        "Hippocampus",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In psychoanalytic theory, what term describes the unconscious defense mechanism where a person attributes their own unacceptable thoughts to others?",
+      "choices": [
+        "Sublimation",
+        "Projection",
+        "Rationalization",
+        "Displacement"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which therapeutic approach, developed by Albert Ellis, proposes that irrational beliefs lead to emotional distress and can be challenged through rational disputation?",
+      "choices": [
+        "Psychodynamic therapy",
+        "Rational Emotive Behavior Therapy",
+        "Dialectical Behavior Therapy",
+        "Existential therapy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What psychological principle suggests that our memory of an event is influenced by our current emotional state and beliefs at the time of recall?",
+      "choices": [
+        "Recency effect",
+        "Mood-congruent memory",
+        "Primacy effect",
+        "Source confusion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist is famous for developing the concept of self-actualization as the highest level of human motivation in his hierarchy of needs?",
+      "choices": [
+        "Carl Rogers",
+        "Abraham Maslow",
+        "Frederic Herzberg",
+        "David McClelland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what type of psychological study do researchers randomly assign participants to either a treatment group or a control group to test causality?",
+      "choices": [
+        "Correlational study",
+        "Case study",
+        "Experimental design",
+        "Naturalistic observation"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which neurotransmitter is primarily associated with mood regulation, and low levels are hypothesized to contribute to depression?",
+      "choices": [
+        "Dopamine",
+        "Serotonin",
+        "Acetylcholine",
+        "GABA"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the term 'metacognition' refer to in cognitive psychology?",
+      "choices": [
+        "The ability to multitask effectively",
+        "Thinking about one's own thinking processes",
+        "The speed at which the brain processes information",
+        "The storage of memories in long-term memory"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which psychologist conducted the famous 'Little Albert' experiment, demonstrating classical conditioning in humans?",
+      "choices": [
+        "Ivan Pavlov",
+        "John Watson",
+        "B.F. Skinner",
+        "Edward Tolman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In social psychology, what term describes the reduced sense of personal responsibility that occurs in a group setting?",
+      "choices": [
+        "Social loafing",
+        "Deindividuation",
+        "Groupthink",
+        "Bystander effect"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which therapeutic approach emphasizes unconditional positive regard and congruence between a person's real self and ideal self?",
+      "choices": [
+        "Cognitive-behavioral therapy",
+        "Psychoanalysis",
+        "Client-centered therapy",
+        "Gestalt therapy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the psychological effect where exposure to a stimulus makes people perceive it as more favorable?",
+      "choices": [
+        "Halo effect",
+        "Mere exposure effect",
+        "Contrast effect",
+        "Anchoring bias"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In forensic psychology, what technique involves training police to conduct interviews designed to minimize false memories and increase accurate recall?",
+      "choices": [
+        "Polygraph examination",
+        "Cognitive interview",
+        "Hypnotic regression",
+        "Free association"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brain imaging technique measures changes in blood flow to identify which areas of the brain are active during specific tasks?",
+      "choices": [
+        "EEG",
+        "fMRI",
+        "PET scan",
+        "CT scan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What psychological condition characterized by persistent, unwanted thoughts and repetitive behaviors is commonly abbreviated as OCD?",
+      "choices": [
+        "Obsessive-Compulsive Disorder",
+        "Oppositional-Conduct Disorder",
+        "Occupational-Cognitive Disorder",
+        "Obsessive-Cyclical Dysfunction"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

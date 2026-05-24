@@ -1,41 +1,1011 @@
 {
   "slug": "nascar-trivia",
   "name": "NASCAR",
-  "description": "Stock car racing, the Daytona 500, Petty, Earnhardt, Gordon and the Cup.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.647Z",
   "questions": [
     {
-      "q": "Who founded NASCAR in 1948?",
+      "q": "What does NASCAR stand for?",
       "choices": [
-        "Bill France Sr.",
-        "Richard Petty",
-        "Junior Johnson",
-        "Lee Petty"
+        "National Association for Stock Car Auto Racing",
+        "National American Stock Car Association Racing",
+        "North American Stock Car Racing",
+        "National Association of Sports Car Auto Racing"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Bill France Sr.",
-        "verified": true,
-        "notes": "Founded February 21, 1948 in Daytona Beach, Florida."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is NASCAR's biggest race, held annually in February?",
-      "choices": ["Daytona 500", "Brickyard 400", "Coca-Cola 600", "Talladega"],
+      "q": "What is NASCAR's most prestigious race, held every February?",
+      "choices": [
+        "Indy 500",
+        "Daytona 500",
+        "Brickyard 400",
+        "Coca-Cola 600"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NASCAR legend, known as 'The Intimidator,' wore number 3 and died in a 2001 Daytona 500 crash?",
+      "choices": [
+        "Dale Earnhardt Sr.",
+        "Richard Petty",
+        "Bobby Allison",
+        "Davey Allison"
+      ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Held at Daytona International Speedway since 1959."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which NASCAR legend won 7 Cup Series championships and 7 Daytona 500s?",
+      "q": "Which seven-time Cup Series champion, nicknamed 'The King,' drove the #43 Petty Enterprises car?",
+      "choices": [
+        "Richard Petty",
+        "Bill Elliott",
+        "Cale Yarborough",
+        "Dale Earnhardt Sr."
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "NASCAR stock cars are broadly based on what configuration?",
+      "choices": [
+        "Mid-engine race cars",
+        "Front-engine, rear-wheel-drive American sedans/coupes",
+        "Open-wheel formula cars",
+        "Rally cars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is considered NASCAR's unofficial home, with many teams based there?",
+      "choices": [
+        "North Carolina",
+        "Florida",
+        "Georgia",
+        "Tennessee"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which oval superspeedway, the Brickyard, hosts a NASCAR race but is most famous for an open-wheel 500-miler?",
+      "choices": [
+        "Indianapolis Motor Speedway",
+        "Texas Motor Speedway",
+        "Talladega Superspeedway",
+        "Pocono Raceway"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was NASCAR officially founded as an organization?",
+      "choices": [
+        "1946",
+        "1948",
+        "1950",
+        "1952"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state hosted the very first NASCAR race?",
+      "choices": [
+        "Florida",
+        "North Carolina",
+        "Georgia",
+        "Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of vehicle does NASCAR racing primarily feature?",
+      "choices": [
+        "Formula racing cars",
+        "Stock cars resembling sedans",
+        "Open-wheel race cars",
+        "Trucks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pixar animated film is based on NASCAR racing?",
+      "choices": [
+        "Speed Racer",
+        "Cars",
+        "Turbo",
+        "Racing Dreams"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many different colored flags are used during a standard NASCAR race?",
+      "choices": [
+        "5",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does a yellow flag signify in NASCAR racing?",
+      "choices": [
+        "Race completion",
+        "Accident, debris, or weather issues",
+        "Driver penalty",
+        "Pit road violation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which term refers to the optimal driving path around a NASCAR track?",
+      "choices": [
+        "Apex line",
+        "The groove",
+        "Racing line",
+        "The cushion"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In NASCAR terminology, what is 'happy hour'?",
+      "choices": [
+        "Post-race celebration",
+        "Driver relaxation time",
+        "The last official practice session",
+        "Sponsor hospitality event"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does a pit stall refer to in NASCAR?",
+      "choices": [
+        "A penalty box for drivers",
+        "A team's designated pit stop area",
+        "A garage facility",
+        "A waiting area for fans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year were restrictor plates first introduced to NASCAR?",
+      "choices": [
+        "1985",
+        "1987",
+        "1988",
+        "1990"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary NASCAR driver was known by the nickname 'The Intimidator'?",
+      "choices": [
+        "Richard Petty",
+        "Dale Earnhardt",
+        "Bobby Allison",
+        "Cale Yarborough"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first name of NASCAR driver Yarborough, who was famous during the 1970s and 1980s?",
+      "choices": [
+        "Dale",
+        "Cale",
+        "Bill",
+        "Tom"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NASCAR driver won Rookie of the Year at age 48 in 1989?",
+      "choices": [
+        "Harry Gant",
+        "Dick Trickle",
+        "Morgan Shepherd",
+        "Ken Schrader"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What comic book character was featured on Jeff Gordon's NASCAR vehicle during the 1999 season?",
+      "choices": [
+        "Batman",
+        "Spider-Man",
+        "Superman",
+        "The Flash"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How tall is NASCAR driver Jeff Gordon?",
+      "choices": [
+        "5 foot 5 inches",
+        "5 foot 7 inches",
+        "5 foot 9 inches",
+        "6 feet"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which vehicle manufacturer did Jeff Gordon drive for during the 2004 NASCAR season?",
+      "choices": [
+        "Ford",
+        "Dodge",
+        "Chevrolet",
+        "Toyota"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did NASCAR hold its first international race outside the United States?",
+      "choices": [
+        "1950",
+        "1952",
+        "1955",
+        "1960"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which driver won the inaugural NASCAR championship in 1949?",
+      "choices": [
+        "Lee Petty",
+        "Red Byron",
+        "Tim Flock",
+        "Herb Thomas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What vehicle did Red Byron drive to win the first NASCAR championship in 1949?",
+      "choices": [
+        "Chrysler",
+        "Oldsmobile",
+        "Cadillac",
+        "Buick"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which actor provided the voice for Lightning McQueen in Pixar's Cars film?",
+      "choices": [
+        "Matthew McConaughey",
+        "Owen Wilson",
+        "John Ratzenberger",
+        "Bonnie Hunt"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was NASCAR officially founded?",
+      "choices": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to NASCAR's main headquarters?",
+      "choices": [
+        "Charlotte, North Carolina",
+        "Daytona Beach, Florida",
+        "Indianapolis, Indiana",
+        "Atlanta, Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did the NASCAR Hall of Fame building open to the public?",
+      "choices": [
+        "2008",
+        "2009",
+        "2010",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary driver was known by the nickname 'The King'?",
+      "choices": [
+        "Dale Earnhardt",
+        "Richard Petty",
+        "Cale Yarborough",
+        "Bobby Allison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color was the car driven in the TV series 'Nash Bridges'?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "White"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which actor provided the voice for the main character Lightning McQueen in Pixar's 'Cars'?",
+      "choices": [
+        "Owen Wilson",
+        "Paul Newman",
+        "John Ratzenberger",
+        "Bonnie Hunt"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was a NASCAR race first held on a paved track?",
+      "choices": [
+        "1948",
+        "1949",
+        "1950",
+        "1951"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NASCAR driver is nicknamed 'The Iceman'?",
+      "choices": [
+        "Terry Labonte",
+        "Rusty Wallace",
+        "Mark Martin",
+        "Jeff Gordon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first foreign-born driver to win a NASCAR Sprint Cup race?",
+      "choices": [
+        "Juan Pablo Montoya",
+        "Mario Andretti",
+        "Joey Logano",
+        "Kyle Larson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which manufacturer did Jeff Gordon drive for during the 2004 NASCAR season?",
+      "choices": [
+        "Ford",
+        "Dodge",
+        "Chevrolet",
+        "Toyota"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What movie starring Tom Cruise was directly inspired by NASCAR racing?",
+      "choices": [
+        "Top Gun",
+        "Days of Thunder",
+        "The Firm",
+        "Mission: Impossible"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many career wins did Dale Earnhardt record before his death in 2001?",
+      "choices": [
+        "68",
+        "72",
+        "76",
+        "80"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the area in a NASCAR facility where pit crews service and repair cars during races?",
+      "choices": [
+        "Garage",
+        "Pit road",
+        "Infield",
+        "Paddock"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary driver is credited with inventing the NASCAR window net for driver safety?",
+      "choices": [
+        "Dale Earnhardt",
+        "Richard Petty",
+        "Cale Yarborough",
+        "Bobby Allison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In NASCAR, what does the term 'groove' refer to?",
+      "choices": [
+        "The pit crew's coordination",
+        "The optimal racing line around the track",
+        "Engine vibration frequency",
+        "The spacing between cars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does it mean when a NASCAR driver is 'black flagged' during a race?",
+      "choices": [
+        "Fuel leak detected",
+        "Engine overheating",
+        "Penalty for rule violation",
+        "Qualifying disqualification"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NASCAR team is owned by Bob Jenkins?",
+      "choices": [
+        "Joe Gibbs Racing",
+        "Front Row Motorsports",
+        "Richard Childress Racing",
+        "Stewart-Haas Racing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In NASCAR racing, what is 'happy hour'?",
+      "choices": [
+        "Social time for crew members",
+        "The last official practice session before qualifying",
+        "Time allowance for pit stops",
+        "Pre-race driver briefing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a 'wind tunnel' used for in NASCAR?",
+      "choices": [
+        "Cooling the engine",
+        "Testing aerodynamic efficiency of car designs",
+        "Drying the track",
+        "Measuring fuel consumption"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which comic book character was painted on Jeff Gordon's car during the 1999 NASCAR season?",
+      "choices": [
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "Wonder Woman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city is home to NASCAR's headquarters?",
+      "choices": [
+        "Charlotte, North Carolina",
+        "Daytona Beach, Florida",
+        "Indianapolis, Indiana",
+        "Atlanta, Georgia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many members typically make up a NASCAR pit crew?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does a yellow flag indicate during a NASCAR race?",
+      "choices": [
+        "The race is ending",
+        "An accident, debris, or weather hazard is present",
+        "A driver has been disqualified",
+        "Pit road is closed"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary NASCAR driver won the Daytona 500 a record seven times?",
+      "choices": [
+        "Dale Earnhardt",
+        "Richard Petty",
+        "Jeff Gordon",
+        "Jimmie Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the metal plate in a NASCAR vehicle that sits next to the engine for safety purposes?",
+      "choices": [
+        "Bullhead",
+        "Firewall",
+        "Shear panel",
+        "Engine guard"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the first woman to compete in a NASCAR Winston Cup Series race?",
+      "choices": [
+        "Danica Patrick",
+        "Janet Guthrie",
+        "Erin Crocker",
+        "Patty Moise"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which NASCAR speedway earned the nickname 'Brasington's Folly'?",
+      "choices": [
+        "Darlington Raceway",
+        "Bristol Motor Speedway",
+        "Charlotte Motor Speedway",
+        "Martinsville Speedway"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is NASCAR's primary form of competition?",
+      "choices": [
+        "Motorcycle racing",
+        "Truck racing",
+        "Stock car racing",
+        "Open-wheel racing"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In a NASCAR vehicle, what is a fuel cell?",
+      "choices": [
+        "A battery that powers the engine",
+        "A holding tank for gasoline",
+        "An air filtration unit",
+        "A cooling system component"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which racing legend was the first winner of the NASCAR Sprint Cup Series in 1949?",
+      "choices": [
+        "Lee Petty",
+        "Red Byron",
+        "Buck Baker",
+        "Herb Thomas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which three-time NASCAR champion is known as 'The Intimidator'?",
+      "choices": [
+        "Richard Petty",
+        "Dale Earnhardt",
+        "Cale Yarborough",
+        "Bobby Allison"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term refers to the area where pit crews service and refuel the race cars during a NASCAR event?",
+      "choices": [
+        "Garage lane",
+        "Pit road",
+        "Staging area",
+        "Service zone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Pixar movie 'Cars,' which actor provided the voice for the main character Lightning McQueen?",
+      "choices": [
+        "Owen Wilson",
+        "Larry the Cable Guy",
+        "John Ratzenberger",
+        "Bonnie Hunt"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which legendary NASCAR driver recorded 76 race wins during his career?",
+      "choices": [
+        "Richard Petty",
+        "Dale Earnhardt",
+        "A.J. Foyt",
+        "Herb Thomas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which driver won the very first Cup Series (then 'Strictly Stock') race in 1949?",
+      "choices": [
+        "Red Byron",
+        "Jim Roper",
+        "Fireball Roberts",
+        "Herb Thomas"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which short-track Tennessee bullring is known as 'The Last Great Colosseum'?",
+      "choices": [
+        "Bristol Motor Speedway",
+        "Nashville Superspeedway",
+        "Martinsville Speedway",
+        "Darlington Raceway"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "NASCAR's longest-tenured (since 1949) NASCAR Cup Series venue is known as 'The Track Too Tough to Tame.' What is it?",
+      "choices": [
+        "Martinsville Speedway",
+        "Darlington Raceway",
+        "North Wilkesboro Speedway",
+        "Rockingham Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR Hall of Famer, a former moonshine runner, is credited with inventing the 'drafting' technique at Daytona?",
+      "choices": [
+        "Junior Johnson",
+        "Smokey Yunick",
+        "Cale Yarborough",
+        "Ned Jarrett"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did NASCAR implement the Car of Tomorrow (CoT) design across all Sprint Cup Series teams?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR driver achieved 200 career wins, a record that stood for over two decades?",
+      "choices": [
+        "Richard Petty",
+        "David Pearson",
+        "Dale Earnhardt",
+        "Cale Yarborough"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the points system NASCAR used from 2004 to 2006 before introducing the Chase for the Nextel Cup?",
+      "choices": [
+        "Craftsman Points",
+        "Winston Points",
+        "Nextel Points",
+        "Standard Championship Points"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At which racetrack did Dale Earnhardt Sr. experience his fatal crash during the 1995 season?",
+      "choices": [
+        "Talladega Superspeedway",
+        "Daytona International Speedway",
+        "Charlotte Motor Speedway",
+        "Atlanta Motor Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which manufacturer won the most NASCAR Cup Series manufacturer championships between 1990 and 2000?",
+      "choices": [
+        "Ford",
+        "Chevrolet",
+        "Dodge",
+        "Pontiac"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did NASCAR introduce fuel injection technology to replace carburetors in Cup Series engines?",
+      "choices": [
+        "2010",
+        "2012",
+        "2014",
+        "2016"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive Daytona 500 victories did Jimmie Johnson achieve during his career?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR driver won the most races in the 1980s with a total of 68 victories?",
+      "choices": [
+        "Bobby Labonte",
+        "Darrell Waltrip",
+        "Harry Gant",
+        "Bill Elliott"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what speed did Bill Elliott set the all-time NASCAR qualifying record at Talladega Superspeedway in 1987?",
+      "choices": [
+        "212.809 mph",
+        "214.158 mph",
+        "215.417 mph",
+        "217.392 mph"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which team owner founded DEI (Dale Earnhardt Inc.) in partnership with Dale Earnhardt Sr.?",
+      "choices": [
+        "Jack Roush",
+        "Rick Hendrick",
+        "Richard Childress",
+        "Joe Jackson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did NASCAR's points system introduce the 'Lucky Dog' rule allowing the first car a lap down to regain its lap?",
+      "choices": [
+        "2000",
+        "2003",
+        "2004",
+        "2006"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the road course located within the Charlotte Motor Speedway complex that hosts Craftsman Truck Series races?",
+      "choices": [
+        "Charlotte Roval",
+        "Charlotte Road Course",
+        "Speedway Road Course",
+        "Charlotte Circuit"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which driver won the 1999 NASCAR Cup Series championship driving the No. 18 car for Joe Gibbs Racing?",
+      "choices": [
+        "Mark Martin",
+        "Jeff Burton",
+        "Bobby Labonte",
+        "Dale Jarrett"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2006, which manufacturer debuted in the NASCAR Cup Series after a 36-year absence?",
+      "choices": [
+        "Plymouth",
+        "Dodge",
+        "AMC",
+        "Hudson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the sponsorship series that replaced Winston as NASCAR's primary title sponsor in 2003?",
+      "choices": [
+        "Nextel Cup",
+        "Craftsman Cup",
+        "Sprint Cup",
+        "Craftsman Truck Series"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which female driver became the first woman to lead laps in a NASCAR Cup Series race at the 2018 Daytona 500?",
+      "choices": [
+        "Danica Patrick",
+        "Janet Guthrie",
+        "Milka Duno",
+        "Natalie Decker"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Hendrick Motorsports win a record four championships across different drivers in the same season?",
+      "choices": [
+        "2004",
+        "2006",
+        "2009",
+        "2012"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR driver won three consecutive Cup Series championships from 2004 to 2006?",
+      "choices": [
+        "Tony Stewart",
+        "Jimmie Johnson",
+        "Kurt Busch",
+        "Matt Kenseth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the banking angle of the turns at Daytona International Speedway?",
+      "choices": [
+        "28 degrees",
+        "31 degrees",
+        "35 degrees",
+        "42 degrees"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1992 NASCAR season, which driver won the championship despite not winning a single race that year?",
+      "choices": [
+        "Alan Kulwicki",
+        "Bill Elliott",
+        "Dale Earnhardt",
+        "Harry Gant"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did NASCAR transition from a points system based on finishing position to the current Chase format for determining the championship?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR driver won the most consecutive NASCAR Cup Series championships during the 1990s?",
+      "choices": [
+        "Dale Earnhardt",
+        "Jeff Gordon",
+        "Mark Martin",
+        "Rusty Wallace"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what speed did Bill Elliott set the all-time NASCAR qualifying speed record at Talladega Superspeedway in 1987?",
+      "choices": [
+        "202.398 mph",
+        "210.364 mph",
+        "212.809 mph",
+        "215.547 mph"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which short-track racing series did NASCAR establish in 1982 to develop drivers in regional competition?",
+      "choices": [
+        "NASCAR Craftsman Truck Series",
+        "NASCAR Craftsman Racing Series",
+        "NASCAR Late Model Stock Car Series",
+        "NASCAR Whelen Modified Tour"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the Craftsman Truck Series, now the second-tier NASCAR national series, first introduced?",
+      "choices": [
+        "1993",
+        "1995",
+        "1997",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many laps comprise the Coca-Cola 600, one of NASCAR's longest races held annually at Charlotte Motor Speedway?",
+      "choices": [
+        "400 laps",
+        "500 laps",
+        "600 laps",
+        "800 laps"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which driver holds the record for the most NASCAR Cup Series victories in a single season?",
       "choices": [
         "Richard Petty",
         "Dale Earnhardt",
@@ -43,277 +1013,1008 @@
         "Jimmie Johnson"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Richard Petty",
-        "verified": true,
-        "notes": "'The King' — most career wins (200)."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which NASCAR driver, nicknamed 'The Intimidator', also won 7 Cup championships?",
+      "q": "In what year did NASCAR implement the Gen-6 car specification, representing a significant redesign of the Cup Series vehicle?",
       "choices": [
-        "Dale Earnhardt",
-        "Cale Yarborough",
-        "Bobby Allison",
-        "Tony Stewart"
+        "2011",
+        "2012",
+        "2013",
+        "2014"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR track was the site of the first-ever restrictor plate race in 1988?",
+      "choices": [
+        "Daytona International Speedway",
+        "Talladega Superspeedway",
+        "Charlotte Motor Speedway",
+        "Atlanta Motor Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the banking angle of the turns at Talladega Superspeedway, the steepest in NASCAR?",
+      "choices": [
+        "24 degrees",
+        "28 degrees",
+        "31 degrees",
+        "36 degrees"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Dale Earnhardt win his seventh and final NASCAR Cup Series championship?",
+      "choices": [
+        "1990",
+        "1991",
+        "1993",
+        "1994"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which manufacturer won the most NASCAR Cup Series manufacturer's championships between 2000 and 2010?",
+      "choices": [
+        "Dodge",
+        "Ford",
+        "Chevrolet",
+        "Toyota"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what track did Ernie Irvan suffer a career-altering crash in 1994 that nearly ended his driving career?",
+      "choices": [
+        "Bristol Motor Speedway",
+        "Michigan International Speedway",
+        "Charlotte Motor Speedway",
+        "Atlanta Motor Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the standard fuel capacity for a NASCAR Cup Series vehicle during a race?",
+      "choices": [
+        "18 gallons",
+        "22 gallons",
+        "28 gallons",
+        "35 gallons"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the NASCAR Craftsman Truck Series first compete at the Indianapolis Motor Speedway?",
+      "choices": [
+        "1998",
+        "2000",
+        "2002",
+        "2004"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which driver won the 1992 NASCAR Cup Series championship driving primarily the number 2 car?",
+      "choices": [
+        "Rusty Wallace",
+        "Alan Kulwicki",
+        "Bill Elliott",
+        "Mark Martin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum engine displacement allowed for NASCAR Cup Series engines measured in cubic inches?",
+      "choices": [
+        "427 cubic inches",
+        "455 cubic inches",
+        "500 cubic inches",
+        "535 cubic inches"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Drove the iconic #3 Goodwrench Chevrolet."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which year did Dale Earnhardt die in a final-lap crash at the Daytona 500?",
-      "choices": ["2001", "1999", "2003", "2005"],
+      "q": "In what year was the first NASCAR race held at the Las Vegas Motor Speedway in the Cup Series?",
+      "choices": [
+        "1996",
+        "1998",
+        "2000",
+        "2002"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which NASCAR track, located in Martinsville, Virginia, is the shortest race track on the circuit?",
+      "choices": [
+        "Martinsville Speedway",
+        "Richmond Raceway",
+        "Bristol Motor Speedway",
+        "Homestead-Miami Speedway"
+      ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "February 18, 2001."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which NASCAR star tied Dale Earnhardt and Richard Petty with 7 Cup championships?",
+      "q": "In what year did Tony Stewart win the NASCAR Cup Series championship with Joe Gibbs Racing?",
+      "choices": [
+        "2002",
+        "2005",
+        "2007",
+        "2011"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did NASCAR implement the Car of Tomorrow (CoT) as the primary vehicle specification for the Sprint Cup Series?",
+      "choices": [
+        "2005",
+        "2007",
+        "2008",
+        "2009"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which driver won the NASCAR Sprint Cup Series championship in 2004 driving the No. 48 car for Hendrick Motorsports?",
+      "choices": [
+        "Jeff Gordon",
+        "Jimmie Johnson",
+        "Dale Earnhardt Jr.",
+        "Mark Martin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At which track did Dale Earnhardt Sr. achieve his legendary 1987 victory while driving with a broken sternum and collarbone?",
+      "choices": [
+        "Bristol Motor Speedway",
+        "Richmond International Raceway",
+        "Martinsville Speedway",
+        "Darlington Raceway"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the NASCAR Craftsman Truck Series (then Winston Truck Series) first established?",
+      "choices": [
+        "1993",
+        "1995",
+        "1997",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which manufacturer won the NASCAR Cup Series Manufacturer's Championship in 1992, 1993, and 1994 consecutively?",
+      "choices": [
+        "Ford",
+        "Chevrolet",
+        "Pontiac",
+        "Dodge"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many consecutive NASCAR Cup Series championships did Jimmie Johnson win from 2006 to 2010?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1992, which driver became the first NASCAR Cup Series driver to exceed $10 million in career earnings?",
+      "choices": [
+        "Richard Petty",
+        "Dale Earnhardt Sr.",
+        "Bill Elliott",
+        "Darrell Waltrip"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary fuel type used in NASCAR Cup Series vehicles before the switch to Sunoco fuel in 2006?",
+      "choices": [
+        "Unleaded gasoline",
+        "Methanol",
+        "Ethanol blend",
+        "Leaded gasoline"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which driver won the 1989 NASCAR Cup Series championship in his first full season competing in the series?",
+      "choices": [
+        "Rusty Wallace",
+        "Dale Earnhardt Jr.",
+        "Ken Schrader",
+        "Alan Kulwicki"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did NASCAR introduce the Chase for the Sprint Cup (now Playoffs) format to determine the season champion?",
+      "choices": [
+        "2002",
+        "2004",
+        "2005",
+        "2007"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Richard Childress Racing driver won the 2008 NASCAR Cup Series Rookie of the Year award?",
+      "choices": [
+        "Scott Speed",
+        "Regan Smith",
+        "David Reutimann",
+        "Joey Logano"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many NASCAR Cup Series races did Richard Petty win during his career?",
+      "choices": [
+        "190",
+        "200",
+        "210",
+        "220"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1998, which driver won the Daytona 500 for the first time in his 20-year NASCAR career, ending a historic drought?",
+      "choices": [
+        "Dale Earnhardt Sr.",
+        "Dale Earnhardt Jr.",
+        "Sterling Marlin",
+        "John Andretti"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which track hosted the first NASCAR Craftsman Truck Series race in 1995?",
+      "choices": [
+        "Las Vegas Motor Speedway",
+        "Texas Motor Speedway",
+        "Kansas Speedway",
+        "Phoenix International Raceway"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did NASCAR switch from the Winston Cup naming rights to the Nextel Cup Series sponsorship?",
+      "choices": [
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which driver holds the record for the most NASCAR Cup Series Pole Positions with 126 throughout his career?",
+      "choices": [
+        "Richard Petty",
+        "David Pearson",
+        "Bill Elliott",
+        "Jeff Gordon"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 2011, which manufacturer returned to NASCAR Cup Series competition after a 40-year absence?",
+      "choices": [
+        "Chrysler",
+        "Dodge",
+        "Plymouth",
+        "AMC"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many NASCAR Cup Series races did Bill Elliott win during the 1985 season, when he set a single-season record at that time?",
+      "choices": [
+        "11",
+        "13",
+        "15",
+        "17"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which father-and-son duo both won NASCAR Cup championships, the son during the 2010s?",
+      "choices": [
+        "Dale Earnhardt Sr. and Dale Earnhardt Jr.",
+        "Ned and Dale Jarrett",
+        "Kyle and Kurt Busch",
+        "Richard and Kyle Petty"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which driver, born 1971, won four Cup Series championships (1995, 1997, 1998, 2001) and was widely credited with bringing mainstream attention to NASCAR?",
+      "choices": [
+        "Jeff Gordon",
+        "Jimmie Johnson",
+        "Tony Stewart",
+        "Kasey Kahne"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which driver won a record seven straight Cup Series championships from 2006 to 2010?",
       "choices": [
         "Jimmie Johnson",
         "Jeff Gordon",
-        "Tony Stewart",
-        "Kyle Busch"
+        "Dale Earnhardt Sr.",
+        "Tony Stewart"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Won 5 in a row 2006-2010."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which NASCAR driver hosted SNL in 2003 and won 4 Cup championships?",
-      "choices": [
-        "Jeff Gordon",
-        "Dale Earnhardt Jr.",
-        "Tony Stewart",
-        "Kyle Busch"
-      ],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Jeff Gordon",
-        "verified": true,
-        "notes": "Drove the #24 DuPont Chevrolet for Hendrick Motorsports."
-      }
-    },
-    {
-      "q": "What does it mean to be 'black flagged' in NASCAR?",
-      "choices": [
-        "Penalty — must report to pit road",
-        "Race over",
-        "Yellow caution",
-        "Top-3 leader"
-      ],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Penalty For Speeding On Pit Road",
-        "verified": true,
-        "notes": "Driver must come to pit road. Common reasons: speeding, equipment violation."
-      }
-    },
-    {
-      "q": "What does the green flag signal at a race?",
-      "choices": ["Race start / restart", "Caution", "Last lap", "Race over"],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What does the checkered flag signal?",
-      "choices": ["Race finished", "Last lap", "Caution", "Yellow flag"],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What's the name of NASCAR's top-tier series (since 2020)?",
-      "choices": [
-        "NASCAR Cup Series",
-        "Sprint Cup",
-        "Winston Cup",
-        "Nextel Cup"
-      ],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Renamed Winston→Nextel→Sprint→NASCAR Cup over the years."
-      }
-    },
-    {
-      "q": "How many laps is the Daytona 500?",
-      "choices": ["200", "100", "300", "500"],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "200 laps × 2.5-mile tri-oval = 500 miles."
-      }
-    },
-    {
-      "q": "Who was the first woman to compete in a NASCAR Cup race (1976)?",
+      "q": "Which 1976 driver became the first woman to compete in the Cup Series?",
       "choices": [
         "Janet Guthrie",
-        "Danica Patrick",
         "Shawna Robinson",
-        "Lyn St. James"
+        "Danica Patrick",
+        "Louise Smith"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Janet Guthrie",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Who is the most popular Cup-series driver, son of a NASCAR legend?",
+      "q": "Who is considered the founder of NASCAR?",
       "choices": [
-        "Dale Earnhardt Jr.",
-        "Kyle Petty",
-        "Adam Petty",
-        "Davey Allison"
+        "Bill France Sr.",
+        "Richard Petty",
+        "Smokey Yunick",
+        "Junior Johnson"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Dale Earnhardt Jr.",
-        "verified": true,
-        "notes": "Won 'Most Popular Driver' 15 years in a row."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which famous Tennessee short track is known for high-banked, half-mile racing in the NASCAR Cup Series?",
-      "choices": [
-        "Bristol Motor Speedway",
-        "Nashville Superspeedway",
-        "Richmond Raceway",
-        "Daytona International Speedway"
-      ],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: removed misleading 'smallest in NASCAR' framing (Martinsville at 0.526 mi is shorter than Bristol's 0.533 mi). Bristol is a 0.533-mile high-banked oval in Tennessee."
-      }
-    },
-    {
-      "q": "Which Alabama track is the longest oval in NASCAR (2.66 miles)?",
+      "q": "Which superspeedway in Alabama is known for pack racing and is often considered NASCAR's most unpredictable track?",
       "choices": [
         "Talladega Superspeedway",
-        "Daytona",
-        "Pocono",
-        "Indianapolis"
+        "Atlanta Motor Speedway",
+        "Dover International Speedway",
+        "Bristol Motor Speedway"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Famous for the 'Big One' — multi-car wrecks."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which NASCAR-style ride did Richard Petty's family drive (color/number)?",
+      "q": "Which NASCAR weekend-long event occurs on Memorial Day weekend each year?",
       "choices": [
-        "Petty Blue #43",
-        "Black #3",
-        "Yellow #24",
-        "Red #5"
+        "Coca-Cola 600",
+        "Daytona 500",
+        "Southern 500",
+        "Bristol Night Race"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "STP-sponsored from 1972."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "Which 2006 Will Ferrell film is a comedy about NASCAR racing?",
+      "q": "In what year was NASCAR founded?",
       "choices": [
-        "Talladega Nights",
-        "Days of Thunder",
-        "Cars",
-        "The Cannonball Run"
+        "1939",
+        "1948",
+        "1956",
+        "1962"
       ],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Subtitled 'The Ballad of Ricky Bobby.'"
-      }
+      "correct": 1,
+      "difficulty": "medium"
     },
     {
-      "q": "Approximately how many crew members go over the wall during a NASCAR pit stop?",
-      "choices": ["5 (under modern rules)", "7", "9", "11"],
-      "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Seven",
-        "verified": true,
-        "notes": "Reduced from 6+driver to 5+driver under post-2017 rules. Older Q says 7 — outdated."
-      }
-    },
-    {
-      "q": "Approximately how fast can NASCAR cars reach on superspeedways?",
+      "q": "What is the signal for the start of a NASCAR race?",
       "choices": [
-        "200+ mph",
-        "120 mph",
-        "150 mph",
-        "260 mph"
+        "Drop of the green flag",
+        "A checkered flag",
+        "A yellow caution",
+        "A horn blast"
       ],
       "correct": 0,
-      "category": "NASCAR",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "NASCAR",
-        "verified": true,
-        "notes": "Restrictor plates limit Daytona/Talladega to ~200 mph; without restrictors, top speeds would be ~225+."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR driver is Dale Earnhardt Sr.'s son and was a longtime fan-favorite until retiring in 2017?",
+      "choices": [
+        "Dale Earnhardt Jr.",
+        "Kerry Earnhardt",
+        "Kyle Petty",
+        "Tony Stewart"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "NASCAR's three national touring series are the Cup Series, the Xfinity Series, and which other?",
+      "choices": [
+        "Craftsman Truck Series",
+        "GT Series",
+        "Rookie Series",
+        "Formula Series"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In NASCAR, what is the primary purpose of a restrictor plate on an engine?",
+      "choices": [
+        "To limit fuel consumption during races",
+        "To reduce engine horsepower and control vehicle speed",
+        "To prevent tire wear on high-speed tracks",
+        "To regulate pit crew communication"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR driver achieved 200 career wins, the most in the sport's history?",
+      "choices": [
+        "Dale Earnhardt",
+        "Jeff Gordon",
+        "Richard Petty",
+        "Jimmie Johnson"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did NASCAR transition from the Winston Cup Series name to the Craftsman Truck Series?",
+      "choices": [
+        "2002",
+        "2004",
+        "2007",
+        "2010"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the racing line that allows a driver to navigate a turn with the best speed and grip?",
+      "choices": [
+        "The apex",
+        "The groove",
+        "The racing line",
+        "The racing surface"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which prestigious NASCAR track is located in Daytona, Florida and hosts the season-opening Daytona 500?",
+      "choices": [
+        "Charlotte Motor Speedway",
+        "Daytona International Speedway",
+        "Indianapolis Motor Speedway",
+        "Bristol Motor Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In NASCAR pit stops, how many crew members are typically allowed on pit road during a tire change?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the yellow flag indicate to drivers during a NASCAR race?",
+      "choices": [
+        "Race has been won",
+        "Caution period due to an incident on track",
+        "Driver has committed a penalty",
+        "All drivers must pit immediately"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR driver, known as 'The Intimidator,' won seven championships and 76 races before his fatal 1994 accident?",
+      "choices": [
+        "Cale Yarborough",
+        "Dale Earnhardt",
+        "Richard Petty",
+        "David Pearson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In NASCAR's points system, how many bonus points does the race winner typically receive?",
+      "choices": [
+        "3 points",
+        "5 points",
+        "10 points",
+        "15 points"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary racing surface at the first NASCAR championship race in 1949?",
+      "choices": [
+        "Paved asphalt",
+        "Concrete",
+        "Beach sand",
+        "Dirt"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR team won five consecutive championships from 2004 to 2008?",
+      "choices": [
+        "Joe Gibbs Racing",
+        "Hendrick Motorsports",
+        "Roush Fenway Racing",
+        "Richard Childress Racing"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What safety feature did NASCAR mandate for all drivers following the 1994 death of Dale Earnhardt?",
+      "choices": [
+        "Reinforced steering wheels",
+        "Head-and-neck restraint devices",
+        "Additional rollbar padding",
+        "Impact-absorbing seat designs"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In NASCAR, what is 'pitting' primarily used for during a race?",
+      "choices": [
+        "Aggressive driving maneuvers against opponents",
+        "Fuel refilling, tire changes, and repairs",
+        "Signaling other drivers on the track",
+        "Adjusting the broadcast camera angles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which legendary NASCAR driver known as 'The King' retired with 200 career victories?",
+      "choices": [
+        "Buddy Baker",
+        "Richard Petty",
+        "Bobby Allison",
+        "Darrell Waltrip"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does it mean when a driver is 'lapped' during a NASCAR race?",
+      "choices": [
+        "Their car has suffered damage requiring repairs",
+        "They have fallen one or more full laps behind the race leader",
+        "Their pit crew has been penalized",
+        "They have led the most laps in the race"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did NASCAR first introduce the 'Chase for the Sprint Cup' playoff format?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR track is famous for its high-banked 31-degree turns and is nicknamed 'The World's Fastest Half-Mile'?",
+      "choices": [
+        "Bristol Motor Speedway",
+        "Martinsville Speedway",
+        "Richmond Raceway",
+        "Las Vegas Motor Speedway"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is 'loose' referring to when a NASCAR driver reports their car handling is loose?",
+      "choices": [
+        "The engine is producing excessive vibration",
+        "The rear tires have insufficient grip, causing oversteer",
+        "The fuel tank needs immediate refilling",
+        "The pit crew has not secured the equipment properly"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR driver won Rookie of the Year in 2001 and would go on to win four championships?",
+      "choices": [
+        "Jimmie Johnson",
+        "Kevin Harvick",
+        "Joey Logano",
+        "Kyle Busch"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In NASCAR, what does 'drafting' allow drivers to accomplish on oval tracks?",
+      "choices": [
+        "Increase fuel efficiency without losing speed",
+        "Reduce aerodynamic drag by following closely behind another vehicle",
+        "Improve tire grip on wet track surfaces",
+        "Communicate with their pit crew more effectively"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the first NASCAR race held at the Daytona International Speedway?",
+      "choices": [
+        "1957",
+        "1959",
+        "1961",
+        "1963"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which manufacturer did Dale Earnhardt Sr. primarily drive for during his most successful years in NASCAR?",
+      "choices": [
+        "Ford",
+        "Chevrolet",
+        "Dodge",
+        "Plymouth"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many times did Richard Petty win the Daytona 500 during his NASCAR career?",
+      "choices": [
+        "5",
+        "7",
+        "10",
+        "13"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the red flag signify during a NASCAR race?",
+      "choices": [
+        "Caution condition ahead",
+        "Race must stop immediately",
+        "Pit road is closed",
+        "Final lap approaching"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which legendary driver was nicknamed 'The King'?",
+      "choices": [
+        "Dale Earnhardt Sr.",
+        "Richard Petty",
+        "Bobby Allison",
+        "Cale Yarborough"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary purpose of a restrictor plate in NASCAR?",
+      "choices": [
+        "Improve fuel efficiency",
+        "Reduce engine horsepower",
+        "Increase tire grip",
+        "Enhance driver safety"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Dale Earnhardt Jr. win the Daytona 500 in consecutive years?",
+      "choices": [
+        "2002 and 2003",
+        "2003 and 2004",
+        "2004 and 2005",
+        "2005 and 2006"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which track is known as the 'Monster Mile' in NASCAR?",
+      "choices": [
+        "Las Vegas Motor Speedway",
+        "Dover Motor Speedway",
+        "Kansas Speedway",
+        "Atlanta Motor Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What nationality was driver Juan Pablo Montoya before joining NASCAR?",
+      "choices": [
+        "Mexican",
+        "Colombian",
+        "Brazilian",
+        "Argentine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Jimmie Johnson win his first Cup Series championship?",
+      "choices": [
+        "2002",
+        "2004",
+        "2006",
+        "2008"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which pit crew member is responsible for directing the driver during pit stops?",
+      "choices": [
+        "Spotter",
+        "Crew Chief",
+        "Jack Man",
+        "Tire Carrier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the banking angle at the Daytona International Speedway in the turns?",
+      "choices": [
+        "12 degrees",
+        "20 degrees",
+        "31 degrees",
+        "42 degrees"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which car number is most famously associated with Dale Earnhardt Sr.'s legacy?",
+      "choices": [
+        "24",
+        "88",
+        "3",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did NASCAR first race at the Las Vegas Motor Speedway?",
+      "choices": [
+        "2005",
+        "2007",
+        "2009",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does a black flag indicate in NASCAR racing?",
+      "choices": [
+        "Mechanical failure detected",
+        "Driver disqualification",
+        "Lightning strike warning",
+        "Tire failure on track"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which driver won the NASCAR Rookie of the Year award in 1992?",
+      "choices": [
+        "Jeff Gordon",
+        "Jimmy Spencer",
+        "Bobby Hamilton",
+        "Joe Nemechek"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the qualifying race held before the Daytona 500?",
+      "choices": [
+        "The Clash",
+        "The Duels",
+        "The Shootout",
+        "The Challenge"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did NASCAR begin using the current Gen 6 car platform?",
+      "choices": [
+        "2011",
+        "2013",
+        "2015",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which female driver was the first to win a NASCAR Cup Series race?",
+      "choices": [
+        "Danica Patrick",
+        "Erin Crocker",
+        "Janet Guthrie",
+        "Patty Moise"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did NASCAR officially form as an organization?",
+      "choices": [
+        "1945",
+        "1947",
+        "1949",
+        "1951"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What safety equipment was mandated across NASCAR in 2001 to protect drivers' necks and heads during impacts?",
+      "choices": [
+        "HANS device",
+        "Neck collar",
+        "Head restraint system",
+        "Cervical guard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Bill France Sr. hand over NASCAR leadership to his son Bill France Jr.?",
+      "choices": [
+        "1968",
+        "1970",
+        "1972",
+        "1975"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which female driver became the first woman to compete in a NASCAR Winston Cup Series race in 1976?",
+      "choices": [
+        "Patty Moise",
+        "Janet Guthrie",
+        "Shawna Robinson",
+        "Danica Patrick"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In NASCAR terminology, what does 'the groove' refer to?",
+      "choices": [
+        "The optimal racing line around the track",
+        "The gap between pit crew members",
+        "The engine's power band",
+        "The spacing between cars in a draft"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which NASCAR speedway was famously called 'Brasington's Folly' when it first opened?",
+      "choices": [
+        "Charlotte Motor Speedway",
+        "Darlington Raceway",
+        "Bristol Motor Speedway",
+        "Martinsville Speedway"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Daytona 500 first broadcast in its entirety on television?",
+      "choices": [
+        "1976",
+        "1979",
+        "1982",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color flag is waved to signal the winner at the finish line in NASCAR races?",
+      "choices": [
+        "Green",
+        "White",
+        "Checkered",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which legendary driver recorded 76 career NASCAR race wins throughout his professional racing career?",
+      "choices": [
+        "Richard Petty",
+        "Dale Earnhardt",
+        "Bobby Allison",
+        "Darrell Waltrip"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which hotel in Daytona Beach was NASCAR officially founded?",
+      "choices": [
+        "Streamline Hotel",
+        "Daytona Beach Hotel",
+        "Ocean Center Hotel",
+        "Fortnight Hotel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

@@ -1,209 +1,4286 @@
 {
   "slug": "general-knowledge-trivia",
   "name": "General Knowledge",
-  "description": "A grab bag of geography, culture, literature, and random facts",
-  "processedAt": "2026-04-16T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.553Z",
   "questions": [
     {
-      "q": "What is the smallest country in the world by area?",
-      "choices": ["Monaco", "San Marino", "Liechtenstein", "Vatican City"],
-      "correct": 3,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Vatican City", "verified": true, "notes": "~0.44 km² (110 acres). Enclosed within Rome." }
-    },
-    {
-      "q": "Which U.S. city is commonly known as 'The Windy City'?",
-      "choices": ["Boston", "Chicago", "San Francisco", "Denver"],
+      "q": "What is the hardest natural substance on Earth?",
+      "choices": [
+        "Granite",
+        "Diamond",
+        "Titanium",
+        "Quartz"
+      ],
       "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Chicago", "verified": true, "notes": "Nickname predates 1900; origin debated (politics vs weather)." }
+      "difficulty": "easy"
     },
     {
-      "q": "New York City's most famous nickname is what piece of fruit?",
-      "choices": ["The Big Peach", "The Big Apple", "The Big Orange", "The Big Pineapple"],
+      "q": "In what year did the Titanic sink?",
+      "choices": [
+        "1905",
+        "1912",
+        "1918",
+        "1923"
+      ],
       "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "The Big Apple", "verified": true, "notes": "Popularized by NYC tourism campaign in the 1970s." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which U.S. state is nicknamed the 'Lone Star State'?",
-      "choices": ["Alaska", "Montana", "Arizona", "Texas"],
-      "correct": 3,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Texas", "verified": true, "notes": "References the single star on the Texas flag, symbolizing independence." }
-    },
-    {
-      "q": "What is the largest hot desert in the world?",
-      "choices": ["Arabian Desert", "Gobi Desert", "Kalahari Desert", "Sahara Desert"],
-      "correct": 3,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Sahara Desert", "verified": true, "notes": "~9.2 million km². Antarctica is larger but is a cold desert." }
-    },
-    {
-      "q": "Lesotho is unusual because it is entirely surrounded by which other country?",
-      "choices": ["Mozambique", "Botswana", "South Africa", "Zimbabwe"],
+      "q": "Who painted the Mona Lisa?",
+      "choices": [
+        "Michelangelo",
+        "Raphael",
+        "Leonardo da Vinci",
+        "Donatello"
+      ],
       "correct": 2,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "South Africa", "verified": true, "notes": "One of only three countries completely enclosed by another (with Vatican City and San Marino)." }
+      "difficulty": "easy"
     },
     {
-      "q": "Argentina gets its name from the Latin word 'argentum,' which refers to which element?",
-      "choices": ["Gold", "Silver", "Iron", "Copper"],
+      "q": "What sport is played at Wimbledon?",
+      "choices": [
+        "Cricket",
+        "Tennis",
+        "Golf",
+        "Polo"
+      ],
       "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Argentina", "verified": true, "notes": "Spanish explorers expected to find silver there." }
-    },
-    {
-      "q": "Which country's flag features an eagle perched on a cactus eating a serpent?",
-      "choices": ["Ecuador", "Mexico", "Guatemala", "Peru"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Mexico", "verified": true, "notes": "Based on an Aztec legend about founding Tenochtitlan." }
-    },
-    {
-      "q": "As of 2024, how many member states are in the European Union?",
-      "choices": ["25", "27", "29", "31"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "27", "verified": true, "notes": "28 before Brexit (UK left Jan 2020). Croatia was the last to join (2013)." }
-    },
-    {
-      "q": "In which city was the RMS Titanic built?",
-      "choices": ["Liverpool", "Southampton", "Belfast", "Glasgow"],
-      "correct": 2,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Belfast", "verified": true, "notes": "Built by Harland and Wolff. Launched May 31, 1911." }
-    },
-    {
-      "q": "Despite its name, the famous Spanish Riding School is located in which European capital?",
-      "choices": ["Madrid", "Vienna", "Lisbon", "Budapest"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "hard",
-      "source": { "original_a": "Vienna", "verified": true, "notes": "'Spanish' refers to Spanish horse bloodlines. Founded 1572." }
-    },
-    {
-      "q": "The Viennese dish Wiener Schnitzel takes its name from which city?",
-      "choices": ["Zurich", "Munich", "Berlin", "Vienna"],
-      "correct": 3,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Vienna", "verified": true, "notes": "'Wiener' = Viennese. Traditionally made with veal." }
-    },
-    {
-      "q": "The Blue Nile and White Nile converge to form the Nile in which African capital city?",
-      "choices": ["Addis Ababa", "Cairo", "Khartoum", "Nairobi"],
-      "correct": 2,
-      "category": "General Knowledge",
-      "difficulty": "hard",
-      "source": { "original_a": "Khartoum", "verified": true, "notes": "Capital of Sudan. The confluence is called al-Mogran." }
-    },
-    {
-      "q": "The city of Reims is at the heart of which famous French wine-producing region?",
-      "choices": ["Bordeaux", "Burgundy", "Champagne", "Loire Valley"],
-      "correct": 2,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Champagne", "verified": true, "notes": "Reims Cathedral is where French kings were crowned." }
-    },
-    {
-      "q": "The tango, a passionate partner dance, originated in which South American country?",
-      "choices": ["Brazil", "Chile", "Colombia", "Argentina"],
-      "correct": 3,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Argentina", "verified": true, "notes": "Developed in Buenos Aires in the late 19th century." }
-    },
-    {
-      "q": "Luzon is the largest and most populous island in which country made up of over 7,000 islands?",
-      "choices": ["Indonesia", "Philippines", "Japan", "Malaysia"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Philippines", "verified": true, "notes": "Manila, the capital, is on Luzon." }
-    },
-    {
-      "q": "Walt Disney's famous mouse was nearly given which different first name before 'Mickey' was chosen?",
-      "choices": ["Mortimer", "Herbert", "Walter", "Bernard"],
-      "correct": 0,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Mortimer", "verified": true, "notes": "Legend says Walt's wife Lillian suggested Mickey instead." }
-    },
-    {
-      "q": "Who wrote 'Frankenstein,' first published in 1818?",
-      "choices": ["Charlotte Brontë", "Mary Shelley", "Emily Dickinson", "Jane Austen"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Mary Shelley", "verified": true, "notes": "Full title: Frankenstein; or, The Modern Prometheus. Shelley was 20 when published." }
-    },
-    {
-      "q": "Who wrote the mystery novel 'Murder on the Orient Express'?",
-      "choices": ["Arthur Conan Doyle", "Agatha Christie", "Dorothy L. Sayers", "P.D. James"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Agatha Christie", "verified": true, "notes": "Published 1934. Features detective Hercule Poirot." }
+      "difficulty": "easy"
     },
     {
       "q": "Who wrote 'To Kill a Mockingbird'?",
-      "choices": ["Truman Capote", "Harper Lee", "Flannery O'Connor", "John Steinbeck"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Harper Lee", "verified": true, "notes": "Published 1960. Won the Pulitzer Prize in 1961." }
+      "choices": [
+        "Harper Lee",
+        "F. Scott Fitzgerald",
+        "John Steinbeck",
+        "Mark Twain"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which poet and civil rights activist wrote the memoir 'I Know Why the Caged Bird Sings'?",
-      "choices": ["Toni Morrison", "Maya Angelou", "Alice Walker", "Zora Neale Hurston"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Maya Angelou", "verified": true, "notes": "Published 1969. First of seven autobiographies." }
-    },
-    {
-      "q": "The opening line 'Call me Ishmael' comes from which classic American novel?",
-      "choices": ["The Great Gatsby", "Moby-Dick", "Huckleberry Finn", "The Scarlet Letter"],
-      "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Moby Dick", "verified": true, "notes": "By Herman Melville, published 1851." }
-    },
-    {
-      "q": "The self-governing Faroe Islands are a territory of which Scandinavian country?",
-      "choices": ["Norway", "Sweden", "Denmark", "Iceland"],
+      "q": "Which painting features a woman with a mysterious smile?",
+      "choices": [
+        "Girl with a Pearl Earring",
+        "Whistler's Mother",
+        "Mona Lisa",
+        "The Birth of Venus"
+      ],
       "correct": 2,
-      "category": "General Knowledge",
-      "difficulty": "medium",
-      "source": { "original_a": "Denmark", "verified": true, "notes": "18 islands between Norway and Iceland. Population ~54,000." }
+      "difficulty": "easy"
     },
     {
-      "q": "'Baile Átha Cliath' is the name in Irish for which European capital city?",
-      "choices": ["Edinburgh", "Dublin", "Cardiff", "Belfast"],
+      "q": "What year did the Titanic sink?",
+      "choices": [
+        "1912",
+        "1910",
+        "1905",
+        "1915"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'Murder on the Orient Express'?",
+      "choices": [
+        "Ian Fleming",
+        "P.D. James",
+        "Arthur Conan Doyle",
+        "Agatha Christie"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Jane Austen novel features Mr. Darcy?",
+      "choices": [
+        "Emma",
+        "Persuasion",
+        "Sense and Sensibility",
+        "Pride and Prejudice"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What glass shape can be seen outside the Louvre in Paris?",
+      "choices": [
+        "Pyramid",
+        "Cube",
+        "Sphere",
+        "Dome"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Uncle Sam is a symbol representing which country?",
+      "choices": [
+        "Canada",
+        "United Kingdom",
+        "United States",
+        "France"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is closest to the Sun?",
+      "choices": [
+        "Mars",
+        "Earth",
+        "Venus",
+        "Mercury"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest country in the world by area?",
+      "choices": [
+        "Monaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vatican City"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. city is commonly known as 'The Windy City'?",
+      "choices": [
+        "Boston",
+        "Chicago",
+        "San Francisco",
+        "Denver"
+      ],
       "correct": 1,
-      "category": "General Knowledge",
-      "difficulty": "hard",
-      "source": { "original_a": "Dublin", "verified": true, "notes": "Means 'town of the hurdled ford.' Dublin derives from Dubh Linn ('black pool')." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "New York City's most famous nickname is what piece of fruit?",
+      "choices": [
+        "The Big Peach",
+        "The Big Apple",
+        "The Big Orange",
+        "The Big Pineapple"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. state is nicknamed the 'Lone Star State'?",
+      "choices": [
+        "Alaska",
+        "Montana",
+        "Arizona",
+        "Texas"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country's flag features an eagle perched on a cactus eating a serpent?",
+      "choices": [
+        "Ecuador",
+        "Mexico",
+        "Guatemala",
+        "Peru"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Viennese dish Wiener Schnitzel takes its name from which city?",
+      "choices": [
+        "Zurich",
+        "Munich",
+        "Berlin",
+        "Vienna"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The tango, a passionate partner dance, originated in which South American country?",
+      "choices": [
+        "Brazil",
+        "Chile",
+        "Colombia",
+        "Argentina"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote 'Frankenstein,' first published in 1818?",
+      "choices": [
+        "Charlotte Brontë",
+        "Mary Shelley",
+        "Emily Dickinson",
+        "Jane Austen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who wrote the mystery novel 'Murder on the Orient Express'?",
+      "choices": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Dorothy L. Sayers",
+        "P.D. James"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "In which Italian city would you find the Bridge of Sighs and a network of famous canals?",
-      "choices": ["Florence", "Naples", "Venice", "Rome"],
+      "choices": [
+        "Florence",
+        "Naples",
+        "Venice",
+        "Rome"
+      ],
       "correct": 2,
-      "category": "General Knowledge",
-      "difficulty": "easy",
-      "source": { "original_a": "Venice", "verified": true, "notes": "Bridge of Sighs (Ponte dei Sospiri) connects the Doge's Palace to the prison." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which candy is NOT made by Mars?",
+      "choices": [
+        "Snickers",
+        "M&M's",
+        "Almond Joy",
+        "Twix"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which is the capital of Spain?",
+      "choices": [
+        "Paris",
+        "Barcelona",
+        "Madrid",
+        "Lisboa"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do sailors call the front of a boat?",
+      "choices": [
+        "Starboard",
+        "Bow",
+        "Port",
+        "Stern"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the antagonist group in Danganronpa Another Episode: Ultra Despair Girls?",
+      "choices": [
+        "Warriors of Despair",
+        "Warriors of Hope",
+        "The Ultimate Despair",
+        "The Monokubs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does VR stand for?",
+      "choices": [
+        "Visual Recognition",
+        "Very Real",
+        "Virtual Reality",
+        "Voice Recognition"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On a dartboard, what number is directly opposite No. 1?",
+      "choices": [
+        "20",
+        "12",
+        "19",
+        "15"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Terry Gilliam was an animator that worked with which British comedy group?",
+      "choices": [
+        "Monty Python",
+        "The Penny Dreadfuls",
+        "The League of Gentlemen‎",
+        "The Goodies‎"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
+      "choices": [
+        "Tiger",
+        "Gorilla",
+        "Panda",
+        "Crocodile"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The drug cartel run by Pablo Escobar originated in which South American city?",
+      "choices": [
+        "Quito",
+        "Medellín",
+        "Cali",
+        "Bogotá"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In past times, what would a gentleman keep in his fob pocket?",
+      "choices": [
+        "Money",
+        "Notebook",
+        "Watch",
+        "Keys"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many letters are there in the English alphabet?",
+      "choices": [
+        "24",
+        "23",
+        "26",
+        "28"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is depicted on the US hundred dollar bill?",
+      "choices": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "Benjamin Franklin"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "\"A3\", \"B1\", and \"Legal\" are typical names of sizes for what object?",
+      "choices": [
+        "Paper",
+        "Phone screens",
+        "Airplanes",
+        "Law books"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many cards are there in a standard deck of playing cards?",
+      "choices": [
+        "52",
+        "64",
+        "40",
+        "32"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the English language, what is the name of the \"&\" character?",
+      "choices": [
+        "Eightslash",
+        "Ampersand",
+        "Obelus ",
+        "And Sign"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+      "choices": [
+        "Helicopter",
+        "Jet",
+        "Stealth Blimp",
+        "Space Capsule"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is H2O?",
+      "choices": [
+        "Oxygen",
+        "Water",
+        "Hydrogen",
+        "None"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Canadian $1 coin is colloquially known as a what?",
+      "choices": [
+        "Boolie",
+        "Moodie",
+        "Loonie",
+        "Foolie"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is considered the \"Father of Modern Philosophy\"?",
+      "choices": [
+        "René Descartes",
+        "Antoine Lavoiser",
+        "Plato",
+        "Albert Einstein"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who was the 1st President of Mexico?",
+      "choices": [
+        "Benito Juárez",
+        "Vicente Guerrero",
+        "Guadalupe Victoria",
+        "Miguel Hidalgo Y Costilla"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is not the host of a program on NPR?",
+      "choices": [
+        "Ben Shapiro",
+        "Ira Glass",
+        "Terry Gross",
+        "Peter Sagal"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the origin of the quote \"What doesn't kill you makes you stronger\"?",
+      "choices": [
+        " G. Gordon Liddy",
+        "Christopher Hitchens",
+        "Kelly Clarkson",
+        "Friedrich Nietzsche"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many letters are in the English alphabet?",
+      "choices": [
+        "26",
+        "17",
+        "30",
+        "5"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nuts are used in the production of marzipan?",
+      "choices": [
+        "Pistachios",
+        "Walnuts",
+        "Peanuts",
+        "Almonds"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In DC comics where does the Green Arrow (Oliver Queen) live?",
+      "choices": [
+        "Gotham City",
+        "Central City",
+        "Metropolis",
+        "Star City"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest living species of penguin?",
+      "choices": [
+        "King",
+        "Adele",
+        "Gentoo",
+        "Emperor"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country, not including Japan, has the most people of Japanese descent?",
+      "choices": [
+        "China",
+        "Brazil",
+        "South Korea",
+        "United States of America"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did Ghana gain independence?",
+      "choices": [
+        "1960",
+        "1957",
+        "1958",
+        "1947"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the extra pedal on a manual or standard transmission car?",
+      "choices": [
+        "Parking Brake",
+        "Booster",
+        "Shifter",
+        "Clutch"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is the IATA code for Manchester Airport?",
+      "choices": [
+        "EGLL",
+        "EGCC",
+        "LHR",
+        "MAN"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many furlongs are there in a mile?",
+      "choices": [
+        "Four",
+        "Eight",
+        "Two",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the youngest person to receive a Nobel Prize?",
+      "choices": [
+        "Werner Heisenberg",
+        "Lawrence Bragg",
+        "Malala Yousafzai",
+        "Yasser Arafat"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "If you are caught \"Goldbricking\", what are you doing wrong?",
+      "choices": [
+        "Stealing",
+        "Cheating",
+        "Smoking",
+        "Slacking"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the company in Lethal Company?",
+      "choices": [
+        "Lethal Robotics",
+        "Planet Scrap Co.",
+        "The Company",
+        "Gordian Shipping Co."
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sign of the zodiac is represented by the Crab?",
+      "choices": [
+        "Libra",
+        "Cancer",
+        "Virgo",
+        "Sagittarius"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Area 51 is located in which US state?",
+      "choices": [
+        "Arizona",
+        "Nevada",
+        "New Mexico",
+        "Utah"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which restaurant's mascot is a clown?",
+      "choices": [
+        "Whataburger",
+        "Burger King",
+        "McDonald's",
+        "Sonic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Five dollars is worth how many nickels?",
+      "choices": [
+        "50",
+        "100",
+        "25",
+        "69"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Poland in Polish?",
+      "choices": [
+        "Polszka",
+        "Póland",
+        "Polska",
+        "Pupcia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the first book of the Old Testament?",
+      "choices": [
+        "Leviticus",
+        "Exodus",
+        "Genesis",
+        "Numbers"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the profession of Elon Musk's mom, Maye Musk?",
+      "choices": [
+        "Musician",
+        "Model",
+        "Professor",
+        "Biologist"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the main Character from the Series: Dead Space?",
+      "choices": [
+        "Commander Shepard",
+        "Ellen Ripley",
+        "Isaac Clarke",
+        "Captain Kirk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+      "choices": [
+        "Noah's Ark",
+        "Fat Man",
+        "Spruce Goose",
+        "Trojan Horse"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The American company \"Campbell's\" is most well known for making what food product?",
+      "choices": [
+        "Soft drinks",
+        "Sausages",
+        "Chocolate",
+        "Canned soups"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these is NOT considered to be a colour that makes up the rainbow?",
+      "choices": [
+        "Pink",
+        "Orange",
+        "Blue",
+        "Violet"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American-owned brewery led the country in sales by volume in 2015?",
+      "choices": [
+        "Boston Beer Company",
+        "Anheuser Busch",
+        "D. G. Yuengling and Son, Inc",
+        "Miller Coors"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The file hosting service, \"Google Drive\" was launched on what day?",
+      "choices": [
+        "January 12, 2014",
+        "April 24, 2012",
+        "January 20, 2010",
+        "November 14, 2008"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the French word for \"fish\"?",
+      "choices": [
+        "fiche",
+        "mer",
+        "escargot",
+        "poisson"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When one is \"envious\", they are said to be what color?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+      "choices": [
+        "Stomach",
+        "Liver",
+        "Intestines",
+        "Heart"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+      "choices": [
+        "Swiss Air",
+        "TWA",
+        "British Airways",
+        "Air France"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Earth is located in which galaxy?",
+      "choices": [
+        "The Galaxy Note",
+        "The Mars Galaxy",
+        "The Black Hole",
+        "The Milky Way Galaxy"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which one of the following rhythm games was made by Harmonix?",
+      "choices": [
+        "Meat Beat Mania",
+        "Guitar Hero Live",
+        "Rock Band",
+        "Dance Dance Revolution"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In a standard Gregorian calendar, how many months begin with the letter 'J'?",
+      "choices": [
+        "Two",
+        "Five",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In \"Shrek\", what comedic actor voices Donkey?",
+      "choices": [
+        "Eddie Murphy",
+        "Richard Pryor",
+        "Bernie Mac",
+        "Chris Rock"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In blood typing, the (+) and (-) marker after an A, B, AB, or O is called Rh factor. Which of the following is the source of its discovery?",
+      "choices": [
+        "Rhesus Monkeys",
+        "Rheumatism Patients",
+        "Rhizomes",
+        "Red-Haired People"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What zodiac sign is represented by a pair of scales?",
+      "choices": [
+        "Aries",
+        "Sagittarius",
+        "Libra",
+        "Capricorn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest organ of the human body?",
+      "choices": [
+        "large Intestine",
+        "Liver",
+        "Skin",
+        "Heart"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is not an Ivy League University?",
+      "choices": [
+        "Stanford",
+        "Harvard",
+        "Princeton",
+        "University of Pennsylvania"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the three astronauts of the Apollo 11 spaceflight did NOT walk on the moon?",
+      "choices": [
+        "None of them",
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Michael Collins"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which one of these is not a typical European sword design?",
+      "choices": [
+        "Ulfberht",
+        "Scimitar",
+        "Falchion",
+        "Flamberge"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was Pong released?",
+      "choices": [
+        "November 29, 1972",
+        "November 29, 1970",
+        "December 14, 1974",
+        "March 29, 2017"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the perimeter of a circle more commonly known as?",
+      "choices": [
+        "Radius",
+        "Arc",
+        "Diameter",
+        "Circumference"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American president appears on a one dollar bill?",
+      "choices": [
+        "Benjamin Franklin",
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "George Washington"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which is the second largest native language spoken in Spain by numbers of speakers?",
+      "choices": [
+        "Catalan",
+        "French",
+        "Spanish",
+        "Portuguese"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The word \"dozen\" usually refers to a group of how many objects?",
+      "choices": [
+        "20",
+        "10",
+        "12",
+        "6"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+      "choices": [
+        "Bill Gates",
+        "Richard Branson",
+        "Alan Sugar",
+        "Donald Trump"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What style of beer will typically have a higher than average hop content?",
+      "choices": [
+        "Extra Special Bitter",
+        "Stout",
+        "Scotch Ale",
+        "India Pale Ale"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country has had prime ministers named Eden, Major, Peel, Law, Brown and Heath?",
+      "choices": [
+        "New Zealand",
+        "Canada",
+        "Australia",
+        "United Kingdom"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+      "choices": [
+        "Ulysses Grant",
+        "Thomas Jefferson",
+        "John Quincy Adams",
+        "Martin Van Buren"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which sign of the zodiac comes between Virgo and Scorpio?",
+      "choices": [
+        "Gemini",
+        "Capricorn",
+        "Libra",
+        "Taurus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these fast-food chains is NOT mainly known to sell pizza?",
+      "choices": [
+        "Domino's",
+        "Papa John's",
+        "Wendy's",
+        "Little Caesars"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What alcoholic drink is made from molasses?",
+      "choices": [
+        "Whisky",
+        "Vodka",
+        "Rum",
+        "Gin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following nations was NOT a belligerent in World War I?",
+      "choices": [
+        "Portugal",
+        "Greece",
+        "Romania",
+        "Denmark"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+      "choices": [
+        "The Dream Team",
+        "The Bushwhackers",
+        "Demolition",
+        "The British Bulldogs"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What machine element is located in the center of fidget spinners?",
+      "choices": [
+        "Axles",
+        "Belts",
+        "Gears",
+        "Bearings"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the famous Papa John's last name?",
+      "choices": [
+        "Chowder",
+        "Williams",
+        "ANDERSON",
+        "Schnatter"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In \"Katamari Damacy\", you control a character known as:",
+      "choices": [
+        "Fujio",
+        "The Prince",
+        "Ichigo ",
+        "Foomin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": " Which chemical element, number 11 in the Periodic table, has the symbol Na?",
+      "choices": [
+        "Nitrogen",
+        "Carbon",
+        "Sodium",
+        "Lead"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "If you are traveling at a speed of 80 mph, how long will it take you to drive 80 miles?",
+      "choices": [
+        "50 minutes",
+        "90 minutes",
+        "30 minutes",
+        "60 minutes"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the alcoholic beverage made from potatoes or grains that originates from Poland and Russia?",
+      "choices": [
+        "Vodka",
+        "Sake",
+        "Rum",
+        "Absinthe"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Quran is the holy book of which Abrahamic religion?",
+      "choices": [
+        "Rastafarianism",
+        "Islam",
+        "Judaism",
+        "Christianity"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following presidents is not on Mount Rushmore?",
+      "choices": [
+        "Thomas Jefferson",
+        "Abraham Lincoln",
+        "Theodore Roosevelt",
+        "John F. Kennedy"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Antibiotics are generally taken to combat what?",
+      "choices": [
+        "Viruses",
+        "Migraines",
+        "Muscular pains",
+        "Bacterial infections"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is \"dabbing\"?",
+      "choices": [
+        "A language",
+        "A dance",
+        "A sport",
+        "A medical procedure"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does a funambulist walk on?",
+      "choices": [
+        "Balls",
+        "Broken Glass",
+        "A Tight Rope",
+        "The Moon"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Waluigi's first appearance was in what game?",
+      "choices": [
+        "Mario Party (N64)",
+        "Mario Tennis 64 (N64)",
+        "Wario Land: Super Mario Land 3",
+        "Super Smash Bros. Ultimate"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the currency of India and Pakistan as well as a few other Asian countries?",
+      "choices": [
+        "Rupee",
+        "Riyal",
+        "Peso",
+        "Dinar"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the Playstation 3 released?",
+      "choices": [
+        "July 16, 2006",
+        "November 11, 2006",
+        "December 25, 2007",
+        "January 8, 2007"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the nickname of the US state of California?",
+      "choices": [
+        "Golden State",
+        "Sunshine State",
+        "Bay State",
+        "Treasure State"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who played General Aladeen in The Dictator?",
+      "choices": [
+        "Sacha Baron Cohen",
+        "James Franco",
+        "Leonardo Dicaprio",
+        "Johnny Depp"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country does sushi & karaoke come from?",
+      "choices": [
+        "Vietnam",
+        "China",
+        "Japan",
+        "South Korea"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Jewish New Year?",
+      "choices": [
+        "Succoss",
+        "New Year",
+        "Rosh Hashanah",
+        "Elul"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which language is most widely spoken in Switzerland?",
+      "choices": [
+        "Swiss",
+        "German",
+        "Italian",
+        "French"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the poker hand containing three of a kind and a pair?",
+      "choices": [
+        "Full House",
+        "Straight",
+        "Flush",
+        "High card"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What organ of the body produces bile?",
+      "choices": [
+        "Pancreas",
+        "Liver",
+        "Stomach",
+        "Gallbladder"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these holidays is NOT usually celebrated in the month of December?",
+      "choices": [
+        "Christmas",
+        "Hanukkah",
+        "Thanksgiving",
+        "Kwanzaa"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do sailors call the right side of a boat?",
+      "choices": [
+        "Bow",
+        "Stern",
+        "Starboard",
+        "Port"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The tale of Robin Hood originates from which country?",
+      "choices": [
+        "Scotland",
+        "France",
+        "Portugal",
+        "England"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "choices": [
+        "Pen",
+        "Cellphone",
+        "Sword",
+        "Key"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Cynophobia the fear of?",
+      "choices": [
+        "Birds",
+        "Dogs",
+        "Flying",
+        "Germs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What fruit is a traditional ingredient of a Black Forest Gateau?",
+      "choices": [
+        "Apricots",
+        "Cherries",
+        "Apples",
+        "Raisins"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The buried remains of which English explorer of Australia were found in London  in January 2019? ",
+      "choices": [
+        "Matthew Flinders",
+        "Abel Tasman",
+        "Dirk Hartog",
+        "William Bourke"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Flag of the European Union has how many stars on it?",
+      "choices": [
+        "10",
+        "14",
+        "12",
+        "16"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has the Union Jack in its flag?",
+      "choices": [
+        "Hong Kong",
+        "New Zealand",
+        "South Africa",
+        "Canada"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Hyundai Motor Company was founded in which country?",
+      "choices": [
+        "Russia",
+        "Japan",
+        "South Korea",
+        "China"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these colours is NOT featured in the logo for Google?",
+      "choices": [
+        "Yellow",
+        "Green",
+        "Pink",
+        "Blue"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the letters in the GMT time zone stand for?",
+      "choices": [
+        "Glasgow Man Time",
+        "General Median Time",
+        "Greenwich Mean Time",
+        "Global Meridian Time"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do the letters of the fast food chain KFC stand for?",
+      "choices": [
+        "Kibbled Freaky Cow",
+        "Kiwi Food Cut",
+        "Kentucky Fresh Cheese",
+        "Kentucky Fried Chicken"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country developed the AK-47 assault rifle?",
+      "choices": [
+        "Israel",
+        "Iran",
+        "Poland",
+        "Soviet Union"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Canada stop producing the penny?",
+      "choices": [
+        "2012",
+        "2011",
+        "2010",
+        "2013"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where is the train station \"Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch\"?",
+      "choices": [
+        "Moldova",
+        "Czech Republic",
+        "Denmark",
+        "Wales"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the most frequently used letter in the english alphabet?",
+      "choices": [
+        "A",
+        "E",
+        "O",
+        "I"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Red Vines is a brand of what type of candy?",
+      "choices": [
+        "Chocolate",
+        "Licorice",
+        "Lollipop",
+        "Bubblegum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the first ever London Underground line to be built?",
+      "choices": [
+        "Victoria Line",
+        "Bakerloo Line",
+        "Circle Line",
+        "Metropolitan Line"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Spanish word for \"donkey\"?",
+      "choices": [
+        "Burro",
+        "Perro",
+        "Caballo",
+        "Toro"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are Panama hats made out of?",
+      "choices": [
+        "Silk",
+        "Flax",
+        "Straw",
+        "Hemp"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following landmarks is not located in New York City?",
+      "choices": [
+        "Times Square",
+        "Central Park",
+        "Lincoln Memorial",
+        "Empire State Building"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
+      "choices": [
+        "Transformers",
+        "Rubik’s Cube",
+        "Cabbage Patch Kids",
+        "Care Bears"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following blood component forms a plug at the site of injuries?",
+      "choices": [
+        "Platelets",
+        "Red blood cells",
+        "Blood plasma",
+        "White blood cells"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What company owns Outlook?",
+      "choices": [
+        "Yahoo",
+        "Apple",
+        "Microsoft",
+        "Google"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to the nursery rhyme, what fruit did Little Jack Horner pull out of his Christmas pie?",
+      "choices": [
+        "Plum",
+        "Peach",
+        "Pear",
+        "Apple"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following card games revolves around numbers and basic math?",
+      "choices": [
+        "Go Fish",
+        "Twister",
+        "Uno",
+        "Munchkin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Tasmania?",
+      "choices": [
+        "An Australian State",
+        "A Psychological Disorder",
+        "The Name of a Warner Brothers Cartoon Character",
+        "A flavor of Ben and Jerry's ice-cream"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the 'S' stand for in the abbreviation SIM, as in SIM card? ",
+      "choices": [
+        "Single",
+        "Solid",
+        "Subscriber",
+        "Secure"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Of the following months, which has the most amount of days?",
+      "choices": [
+        "April",
+        "December",
+        "September",
+        "November "
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the closest planet to our solar system's sun?",
+      "choices": [
+        "Earth",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Gouda cheese is from which European country?",
+      "choices": [
+        "Belgium",
+        "France",
+        "The Netherlands",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How would one say goodbye in Spanish?",
+      "choices": [
+        "Au Revoir",
+        "Salir",
+        " Hola",
+        "Adiós"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many colors are there in a rainbow?",
+      "choices": [
+        "8",
+        "10",
+        "7",
+        "9"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the shortest month of the year?",
+      "choices": [
+        "April",
+        "February",
+        "September",
+        "December"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the full meaning of RAM?",
+      "choices": [
+        "Random Assist Memory",
+        "Ram",
+        "Rand Assist Mandate",
+        "Random Access Memory"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Half-Life, what is the name of the alien that attaches to heads?",
+      "choices": [
+        "Bullsquid",
+        "Facehugger",
+        "Vortigaunt",
+        "Headcrab"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do sailors call the back of a boat?",
+      "choices": [
+        "Starboard",
+        "Bow",
+        "Stern",
+        "Port"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which cardinal direction does the Sun rise from?",
+      "choices": [
+        "East",
+        "North",
+        "West",
+        "South"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of NASA’s most famous space telescope?",
+      "choices": [
+        "Millenium Falcon",
+        "Hubble Space Telescope",
+        "Death Star",
+        "Big Eye"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When someone is cowardly, they are said to have what color belly?",
+      "choices": [
+        "Yellow",
+        "Green",
+        "Red",
+        "Blue"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to the Book of Genesis in the Old Testament, how many days did it take God to create the world?",
+      "choices": [
+        "One",
+        "Six",
+        "Seven",
+        "Twelve"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the name of Sqiudward's bad painting in the Spongebob episode \"Artist Unknown?\"",
+      "choices": [
+        "Rippy Bits",
+        "Tilted Perspectives",
+        "Bold and Brash",
+        "Squidward en Repose"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What element has the chemical symbol Kr?",
+      "choices": [
+        "Kerosine",
+        "Curium",
+        "Krypton",
+        "Kineticium"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Why is the night sky dark? ",
+      "choices": [
+        "The universe is finite in age and size",
+        "Dust clouds absorb light ",
+        "Quantum mechanics",
+        "Redshift doesn't let us see distant stars "
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What word represents the letter 'T' in the NATO phonetic alphabet?",
+      "choices": [
+        "Taxi",
+        "Target",
+        "Turkey",
+        "Tango"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the first ever chocolate bar, in 1847?",
+      "choices": [
+        "John Cadbury",
+        "Joseph Fry",
+        "John Tyler",
+        "Andrew Johnson"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In aerodynamics, which force pushes an object upwards?",
+      "choices": [
+        "Drag",
+        "Weight",
+        "Lift",
+        "Thrust"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When someone is inexperienced they are said to be what color?",
+      "choices": [
+        "Red",
+        "Green",
+        "Blue",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "According to Sherlock Holmes, \"If you eliminate the impossible, whatever remains, however improbable, must be the...\"",
+      "choices": [
+        "Source",
+        "Answer",
+        "Truth",
+        "Cause"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What step in cellular respiration forms ATP?",
+      "choices": [
+        "Glycolysis",
+        "Calvin Cycle",
+        "Pyruvate Oxidation",
+        "Oxidative Phosphorylation"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many syllables make up a haiku?",
+      "choices": [
+        "17",
+        "21",
+        "15",
+        "10"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country has the longest coastline in the world?",
+      "choices": [
+        "Australia",
+        "Russia",
+        "Canada",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of New Zealand?",
+      "choices": [
+        "Auckland",
+        "Christchurch",
+        "Wellington",
+        "Queenstown"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ocean is the smallest?",
+      "choices": [
+        "Indian",
+        "Atlantic",
+        "Southern",
+        "Arctic"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was Walt Disney's original name for Mickey Mouse?",
+      "choices": [
+        "Ferdinand",
+        "Herbert",
+        "Mortimer",
+        "Chester"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Titanic was built in which UK city?",
+      "choices": [
+        "Southampton",
+        "Liverpool",
+        "Belfast",
+        "Glasgow"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who slew the Gorgon Medusa in Greek mythology?",
+      "choices": [
+        "Perseus",
+        "Achilles",
+        "Hercules",
+        "Theseus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Despite its name, the famous Spanish Riding School is located in which European capital?",
+      "choices": [
+        "Madrid",
+        "Vienna",
+        "Lisbon",
+        "Budapest"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Blue Nile and White Nile converge to form the Nile in which African capital city?",
+      "choices": [
+        "Addis Ababa",
+        "Cairo",
+        "Khartoum",
+        "Nairobi"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "'Baile Átha Cliath' is the name in Irish for which European capital city?",
+      "choices": [
+        "Edinburgh",
+        "Dublin",
+        "Cardiff",
+        "Belfast"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following languages does NOT use gender as a part of its grammar?",
+      "choices": [
+        "Polish",
+        "Danish",
+        "German",
+        "Turkish"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year was Queen Elizabeth II born?",
+      "choices": [
+        "1930",
+        "1929",
+        "1923",
+        "1926"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year was the RoboSapien toy robot released?",
+      "choices": [
+        "2000",
+        "2001",
+        "2004",
+        "2006"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Sciophobia is the fear of what?",
+      "choices": [
+        "Eating",
+        "Transportation",
+        "Bright lights",
+        "Shadows"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following is an existing family in \"The Sims\"?",
+      "choices": [
+        "The Family",
+        "The Proud Family",
+        "The Simoleon Family",
+        "The Goth Family"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following chemicals are found in eggplant seeds?",
+      "choices": [
+        "Psilocybin",
+        "Mescaline",
+        "Nicotine",
+        "Cyanide"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the romanized Arabic word for \"moon\"?",
+      "choices": [
+        "Qamar",
+        "Kawkab",
+        "Shams",
+        "Najma"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+      "choices": [
+        "Bank of China",
+        "OCBC",
+        "Standard Chartered",
+        "HSBC"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In flight systems, what does the initialism \"TCAS\" stand for?",
+      "choices": [
+        "Traffic Communication Alert System",
+        "Traffic Collision Avoidance System",
+        "Traffic Call-sign Abbreviation System",
+        "Traffic Configuration Alignment System"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the third country to have a McDonald's restaurant?",
+      "choices": [
+        "Costa Rica",
+        "France",
+        "Japan",
+        "Australia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Swedish word \"Grunka\" means what in English?",
+      "choices": [
+        "Thing",
+        "Place",
+        "Pineapple",
+        "People"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In \"Battle Cats\", what is Moneko / MISS Moneko's critical percentage rate?",
+      "choices": [
+        "20%",
+        "15%",
+        "10%",
+        "25%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which product did Nokia, the telecommunications company, originally sell?",
+      "choices": [
+        "Computers",
+        "Processors",
+        "Phones",
+        "Paper"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does the Latin phrase \"Veni, vidi, vici\" translate into English?",
+      "choices": [
+        "See no evil, hear no evil, speak no evil",
+        "I came, I saw, I conquered",
+        "Life, liberty, and happiness",
+        "Past, present, and future"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before the 19th Century, the \"Living Room\" was originally called the...",
+      "choices": [
+        "Sitting Room",
+        "Parlor",
+        "Open Room",
+        "Loft"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Named after the mallow flower, mauve is a shade of what?",
+      "choices": [
+        "Red",
+        "Pink",
+        "Purple",
+        "Brown"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these cities does NOT have a United States Minting location?",
+      "choices": [
+        "Philidelphia, PA",
+        "St. Louis, MO",
+        "West Point, NY",
+        "San Fransisco, CA"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the most commonly used noun in the English language?",
+      "choices": [
+        "Home",
+        "Time",
+        "Man",
+        "Water"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who founded the Khan Academy?",
+      "choices": [
+        "Kitt Khan",
+        "Sal Khan",
+        "Ben Khan",
+        "Adel Khan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Chartreuse is a color between yellow and what?",
+      "choices": [
+        "Red",
+        "Black",
+        "Green",
+        "Purple"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
+      "choices": [
+        "Ed Sheeran - I See Fire",
+        "a-ha - Take On Me",
+        "Coldplay - Midnight",
+        "Marvin Gaye - Sexual Healing"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of dog is 'Handsome Dan', the mascot of Yale University?",
+      "choices": [
+        "Yorkshire Terrier",
+        "Pug",
+        "Bulldog",
+        "Boxer"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The words \"bungalow\" and \"shampoo\" originate from the languages of which country?",
+      "choices": [
+        "Papua New Guinea",
+        "India",
+        "China",
+        "Ethiopia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The word \"astasia\" means which of the following?",
+      "choices": [
+        "The inability to make decisions",
+        "A feverish desire to rip one's clothes off",
+        "The inability to stand up",
+        "The inability to concentrate on anything"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Where is Apple Inc. headquartered?",
+      "choices": [
+        "Santa Monica, CA",
+        "Redmond, Washington",
+        "Redwood City, California",
+        "Cupertino, California"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Where in La Coruña (Spain) is the headquarters of \"Inditex\", the biggest fashion group in the world?",
+      "choices": [
+        "Mugía",
+        "Órdenes",
+        "Arteijo",
+        "Sanjenjo"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
+      "choices": [
+        "Jack McCauley",
+        "Nate Mitchell",
+        "Andrew Scott Reisse",
+        "Palmer Luckey"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many notes are there on a standard grand piano?",
+      "choices": [
+        "108",
+        "88",
+        "78",
+        "98"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these anatomical terms refers to the tail end of the creature?",
+      "choices": [
+        "Proximal",
+        "Coronal",
+        "Caudal",
+        "Ventral"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the MMO RPG \"Realm of the Mad God\", what dungeon is widely considered to be the most difficult?",
+      "choices": [
+        "The Puppet Master's Theater",
+        "The Tomb of the Acient's",
+        "The Shatter's",
+        "Snake Pit"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "To which language family does Kazakh belong?",
+      "choices": [
+        "Indo-European",
+        "Uralic",
+        "Mongolic",
+        "Turkic"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In linguistics, which of the following is not one of the Gricean Maxims under the Cooperative Principal?",
+      "choices": [
+        "Quality",
+        "Length",
+        "Manner",
+        "Relation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Panama Canal was officially opened by which US president?",
+      "choices": [
+        "Woodrow Wilson",
+        "Theodore Roosevelt",
+        "Herbert Hoover",
+        "Calvin Coolidge"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these Indian languages is not part of the Indo-European language family?",
+      "choices": [
+        "Tamil",
+        "Urdu",
+        "Hindi",
+        "Punjabi"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the romanized Chinese word for \"airplane\"?",
+      "choices": [
+        "Qiche",
+        "Feiji",
+        "Zongxian",
+        "Huojian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
+      "choices": [
+        "Nickel",
+        "Iron",
+        "Silver",
+        "Copper"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+      "choices": [
+        "2 Months",
+        "1 Month",
+        "1 Week",
+        "3 Weeks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Nephelococcygia is the practice of doing what?",
+      "choices": [
+        "Finding shapes in clouds",
+        "Sleeping with your eyes open",
+        "Swimming in freezing water",
+        "Breaking glass with your voice"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+      "choices": [
+        "Victoria",
+        "Charles II",
+        "George VI",
+        "Edward VIII"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which film star has his statue in Leicester Square?",
+      "choices": [
+        "Alfred Hitchcock",
+        "Rowan Atkinson ",
+        "Charlie Chaplin",
+        "Paul Newman"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Quadrangularis Reversum is best described as which of the following?",
+      "choices": [
+        "A geometric theorem",
+        "A chess move",
+        "A building in Oxford University",
+        "A percussion instrument"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which one of these Swedish companies was founded in 1943?",
+      "choices": [
+        "H & M",
+        "Clas Ohlson",
+        "IKEA",
+        "Lindex"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The word \"abulia\" means which of the following?",
+      "choices": [
+        "A feverish desire to rip one's clothes off",
+        "The inability to concentrate on anything",
+        "The inability to make decisions",
+        "The inability to stand up"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When was \"YouTube\" founded?",
+      "choices": [
+        "July 19, 2009",
+        "September 12, 2005",
+        "May 22, 2004",
+        "February 14, 2005"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In \"Resident Evil 3\", how many inventory slots does Jill have at the start of the game?",
+      "choices": [
+        "6",
+        "12",
+        "8",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the airspeed velocity of an unladen swallow?",
+      "choices": [
+        "24 MPH",
+        "20 MPH",
+        "15 MPH",
+        "200 MPH"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Originally another word for poppy, coquelicot is a shade of what?",
+      "choices": [
+        "Pink",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the currency used in Ethiopia?",
+      "choices": [
+        "Rand",
+        "Dirham",
+        "U.S. Dollar",
+        "Birr"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Buddhist philosophy, what is the Sanskrit term for the state of perfect peace and freedom from suffering that represents the ultimate goal?",
+      "choices": [
+        "Karma",
+        "Nirvana",
+        "Dharma",
+        "Samsara"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African country was formerly known as Rhodesia until its independence and renaming in 1980?",
+      "choices": [
+        "Zambia",
+        "Zimbabwe",
+        "Botswana",
+        "Namibia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the mathematical constant approximately equal to 2.71828, commonly used in calculus and natural logarithms?",
+      "choices": [
+        "Phi",
+        "Euler's number",
+        "Pi",
+        "Tau"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In classical architecture, what is the term for the triangular space at the end of a pitched roof, bounded by the eaves and gable?",
+      "choices": [
+        "Cornice",
+        "Pediment",
+        "Frieze",
+        "Entablature"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian composer wrote the ballet score for 'The Rite of Spring,' which famously sparked a riot at its 1913 Paris premiere?",
+      "choices": [
+        "Pyotr Ilyich Tchaikovsky",
+        "Igor Stravinsky",
+        "Sergei Prokofiev",
+        "Nikolai Rimsky-Korsakov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical symbol for the element with atomic number 79, historically prized and used as currency?",
+      "choices": [
+        "Ag",
+        "Au",
+        "Cu",
+        "Pt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In typography, what term describes the small decorative lines that extend from the ends of letters in fonts like Times New Roman?",
+      "choices": [
+        "Kerning",
+        "Leading",
+        "Serifs",
+        "Ligatures"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Roman orator and statesman delivered the Catilinarian Orations against the conspiracy of Lucius Sergius Catilina?",
+      "choices": [
+        "Cato the Elder",
+        "Marcus Tullius Cicero",
+        "Julius Caesar",
+        "Pompey the Great"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In ornithology, what specialized structure do woodpeckers possess in their skulls that absorbs shock and protects their brains during rapid pecking?",
+      "choices": [
+        "Pneumatic bone",
+        "Spongy cartilage",
+        "Cerebrospinal fluid cushion",
+        "Elastic ligament"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the thin, transparent membrane that covers the front of the eye, distinct from the iris and lens?",
+      "choices": [
+        "Sclera",
+        "Cornea",
+        "Vitreous humor",
+        "Choroid"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In geology, what term describes a large underground cavern or chamber, typically formed by the dissolution of soluble rock like limestone?",
+      "choices": [
+        "Grotto",
+        "Pothole",
+        "Karst",
+        "Speleothem"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Nobel Prize-winning physicist developed the uncertainty principle, a fundamental concept in quantum mechanics?",
+      "choices": [
+        "Erwin Schrödinger",
+        "Werner Heisenberg",
+        "Wolfgang Pauli",
+        "Max Born"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In musicology, what is the term for a piece composed as a movement of a larger work, often performed independently?",
+      "choices": [
+        "Nocturne",
+        "Intermezzo",
+        "Rondo",
+        "Scherzo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the legislative body in Iceland, one of the world's oldest parliaments, established in 930 AD?",
+      "choices": [
+        "Storting",
+        "Althing",
+        "Rigsdag",
+        "Sejm"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mycology, what term describes fungi that form a symbiotic relationship with plant roots, aiding nutrient absorption?",
+      "choices": [
+        "Saprophytic",
+        "Parasitic",
+        "Mycorrhizal",
+        "Endophytic"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which late 18th-century French anatomist is credited with developing the classification system for human racial types based on skull measurements?",
+      "choices": [
+        "Jean-Baptiste Lamarck",
+        "Johann Friedrich Blumenbach",
+        "Carl Linnaeus",
+        "Georges Cuvier"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In philosophy, what is the name of the thought experiment in which a sealed box contains a cat that may or may not be dead, illustrating quantum superposition?",
+      "choices": [
+        "Zeno's Paradox",
+        "Schrödinger's Cat",
+        "The Ship of Theseus",
+        "Berkeley's Problem"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the decorative Islamic geometric or floral pattern used in architecture and art, derived from the Arabic word meaning 'to interweave'?",
+      "choices": [
+        "Tessellation",
+        "Arabesque",
+        "Frieze",
+        "Trompe-l'oeil"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mathematics, what is the name of the sequence in which each term is the sum of the two preceding ones, famously illustrated by rabbit population growth?",
+      "choices": [
+        "Catalan sequence",
+        "Fibonacci sequence",
+        "Lucas sequence",
+        "Pell sequence"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which European city served as the capital of the Austro-Hungarian Empire and is home to St. Stephen's Cathedral with its distinctive tile roof?",
+      "choices": [
+        "Prague",
+        "Vienna",
+        "Budapest",
+        "Krakow"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian author wrote 'Crime and Punishment,' a psychological novel published in 1866 exploring guilt and redemption?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Anton Chekhov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which European capital city is the Sagrada Família basilica, a UNESCO World Heritage site designed by Antoni Gaudí?",
+      "choices": [
+        "Madrid",
+        "Barcelona",
+        "Lisbon",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chemical element has the atomic number 79 and is commonly used in jewelry and currency?",
+      "choices": [
+        "Silver",
+        "Platinum",
+        "Gold",
+        "Palladium"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Greek mythology, what is the name of the river that souls must cross to reach the underworld, ferried by Charon?",
+      "choices": [
+        "River Styx",
+        "River Acheron",
+        "River Lethe",
+        "River Cocytus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Prussian military strategist and theorist wrote 'On War,' a foundational text on military philosophy published in 1832?",
+      "choices": [
+        "Otto von Bismarck",
+        "Carl von Clausewitz",
+        "Helmuth von Moltke",
+        "Alfred von Schlieffen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the architectural style of the 14th-16th centuries characterized by pointed arches, ribbed vaults, and flying buttresses?",
+      "choices": [
+        "Baroque",
+        "Romanesque",
+        "Gothic",
+        "Renaissance"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African nation was formerly known as Rhodesia until its independence in 1980?",
+      "choices": [
+        "Zambia",
+        "Zimbabwe",
+        "Botswana",
+        "Malawi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In linguistics, what term describes a word that has lost its original meaning and is now used in a different sense?",
+      "choices": [
+        "Homonym",
+        "Semantic shift",
+        "Metonymy",
+        "Synecdoche"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist created the 'Blue Period' of his early career, producing melancholic works between 1901 and 1904?",
+      "choices": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Juan Gris"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the scientific name for the study of ancient forms of life preserved in rock, such as fossils?",
+      "choices": [
+        "Mineralogy",
+        "Paleontology",
+        "Archaeology",
+        "Stratigraphy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English philosopher and physician wrote 'An Essay Concerning Human Understanding,' published in 1689?",
+      "choices": [
+        "Thomas Hobbes",
+        "John Locke",
+        "David Hume",
+        "René Descartes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1945, which conference brought together Churchill, Roosevelt, and Stalin to discuss post-World War II Europe?",
+      "choices": [
+        "Potsdam Conference",
+        "Munich Conference",
+        "Yalta Conference",
+        "Tehran Conference"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish conquistador led the expedition that first circumnavigated the globe, though he died before its completion in 1522?",
+      "choices": [
+        "Hernán Cortés",
+        "Francisco Pizarro",
+        "Ferdinand Magellan",
+        "Bartolomeu Dias"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical compound H₂O₂, commonly used as a disinfectant and bleaching agent?",
+      "choices": [
+        "Hydrogen peroxide",
+        "Hydrogen dioxide",
+        "Hydroxide peroxide",
+        "Hydroperoxide"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Renaissance sculptor created the marble statue 'David,' completed in 1504?",
+      "choices": [
+        "Donatello",
+        "Gian Lorenzo Bernini",
+        "Michelangelo",
+        "Andrea del Verrocchio"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In astronomy, what is the phenomenon called when a celestial body passes directly between the Sun and Earth, blocking sunlight?",
+      "choices": [
+        "Occultation",
+        "Eclipse",
+        "Transit",
+        "Conjunction"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which treaty, signed in 1919, officially ended World War I and imposed reparations on Germany?",
+      "choices": [
+        "Treaty of Versailles",
+        "Treaty of Brest-Litovsk",
+        "Treaty of Paris",
+        "Treaty of Trianon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term in botany describes a plant that completes its life cycle in two years, producing leaves in the first year and flowers in the second?",
+      "choices": [
+        "Perennial",
+        "Biennial",
+        "Annual",
+        "Ephemeral"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which medieval political arrangement granted land to vassals in exchange for military service and loyalty?",
+      "choices": [
+        "Manorialism",
+        "Feudalism",
+        "Serfdom",
+        "Fiefdom"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 18th-century French mathematician and philosopher is credited with the phrase 'Cogito, ergo sum' and developed Cartesian coordinates?",
+      "choices": [
+        "René Descartes",
+        "Jean-Paul Sartre",
+        "Blaise Pascal",
+        "Denis Diderot"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which planet has the most moons?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many bones are in the adult human body?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "256"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What element does 'O' represent on the periodic table?",
+      "choices": [
+        "Osmium",
+        "Oxygen",
+        "Oganesson",
+        "Olivine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote 'Frankenstein'?",
+      "choices": [
+        "H.G. Wells",
+        "Bram Stoker",
+        "Edgar Allan Poe",
+        "Mary Shelley"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which art movement did Picasso help develop around 1911?",
+      "choices": [
+        "Impressionism",
+        "Expressionism",
+        "Cubism",
+        "Surrealism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Impressionist movement started in which country?",
+      "choices": [
+        "France",
+        "Spain",
+        "Italy",
+        "Netherlands"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the first woman to win a Nobel Prize?",
+      "choices": [
+        "Marie Curie",
+        "Jane Addams",
+        "Rosalind Franklin",
+        "Dorothy Hodgkin"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which novel begins with 'Call me Ishmael'?",
+      "choices": [
+        "Robinson Crusoe",
+        "Treasure Island",
+        "The Old Man and the Sea",
+        "Moby Dick"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The tango originated in which country?",
+      "choices": [
+        "Argentina",
+        "Spain",
+        "Brazil",
+        "Cuba"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the colorful Hindu festival featuring powdered pigments?",
+      "choices": [
+        "Holi",
+        "Navratri",
+        "Pongal",
+        "Diwali"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Shinto is the native religion of which country?",
+      "choices": [
+        "China",
+        "Thailand",
+        "Japan",
+        "Korea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who composed the Fifth Symphony?",
+      "choices": [
+        "Mozart",
+        "Bach",
+        "Tchaikovsky",
+        "Beethoven"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which legendary creature was half-man, half-bull in Greek mythology?",
+      "choices": [
+        "Hydra",
+        "Medusa",
+        "Minotaur",
+        "Centaur"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lesotho is unusual because it is entirely surrounded by which other country?",
+      "choices": [
+        "Mozambique",
+        "Botswana",
+        "South Africa",
+        "Zimbabwe"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Argentina gets its name from the Latin word 'argentum,' which refers to which element?",
+      "choices": [
+        "Gold",
+        "Silver",
+        "Iron",
+        "Copper"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "As of 2024, how many member states are in the European Union?",
+      "choices": [
+        "25",
+        "27",
+        "29",
+        "31"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city was the RMS Titanic built?",
+      "choices": [
+        "Liverpool",
+        "Southampton",
+        "Belfast",
+        "Glasgow"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The city of Reims is at the heart of which famous French wine-producing region?",
+      "choices": [
+        "Bordeaux",
+        "Burgundy",
+        "Champagne",
+        "Loire Valley"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Luzon is the largest and most populous island in which country made up of over 7,000 islands?",
+      "choices": [
+        "Indonesia",
+        "Philippines",
+        "Japan",
+        "Malaysia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Walt Disney's famous mouse was nearly given which different first name before 'Mickey' was chosen?",
+      "choices": [
+        "Mortimer",
+        "Herbert",
+        "Walter",
+        "Bernard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which poet and civil rights activist wrote the memoir 'I Know Why the Caged Bird Sings'?",
+      "choices": [
+        "Toni Morrison",
+        "Maya Angelou",
+        "Alice Walker",
+        "Zora Neale Hurston"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The opening line 'Call me Ishmael' comes from which classic American novel?",
+      "choices": [
+        "The Great Gatsby",
+        "Moby-Dick",
+        "Huckleberry Finn",
+        "The Scarlet Letter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The self-governing Faroe Islands are a territory of which Scandinavian country?",
+      "choices": [
+        "Norway",
+        "Sweden",
+        "Denmark",
+        "Iceland"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What are the tallest twin buildings in the world, with a height of 1,483 ft (451.9 m)?",
+      "choices": [
+        "Petronas Twin Towers, Malaysia",
+        "Palm Towers, Qatar",
+        "Huaguoyuan Towers, China",
+        "Emirates Towers, United Arab Emirates"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the General Mills Corporation's monster cereals was the last to be released in the 1970's?",
+      "choices": [
+        "Franken Berry",
+        "Boo-Berry",
+        "Fruit Brute",
+        "Count Chocula"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the founder of \"The Lego Group\"?",
+      "choices": [
+        " Gerhardt Kirk Christiansen",
+        " Jens Niels Christiansen",
+        "Kirstine Christiansen",
+        "Ole Kirk Christiansen"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Only 9% of US Households owned a television in ",
+      "choices": [
+        "1913",
+        "1965",
+        "1950",
+        "1969"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Macintosh has named six of its operating systems after big cats. What big cat did Macintosh name their 2007 release after? ",
+      "choices": [
+        "Tiger",
+        "Leopard",
+        "Panther",
+        "Puma"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In a 1994 CBS interview, Microsoft co-founder Bill Gates performed what unusual trick on camera?",
+      "choices": [
+        "Standing on his head",
+        "Jumping over an office chair",
+        "Jumping backwards over a desk",
+        "Typing on a keyboard during a handstand"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+      "choices": [
+        "4",
+        "3",
+        "6",
+        "5"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the \"G\" mean in \"G-Man\"?",
+      "choices": [
+        "Going",
+        "Government",
+        "Geronimo",
+        "Ghost"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which river flows through the Scottish city of Glasgow?",
+      "choices": [
+        "Dee",
+        "Clyde",
+        "Tay",
+        "Tweed"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the highest number of Michelin stars a restaurant can receive?",
+      "choices": [
+        "Four",
+        "Six",
+        "Five",
+        "Three"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The lesser-known continuation of the saying \"Curiosity killed the cat...\" is:",
+      "choices": [
+        "\"...which taught it not to do that.\"",
+        "\"...but death by the truth is better than ignorance.\"",
+        "\"...and the silent mouse remained thereat.\"",
+        "\"...but satisfaction brought it back.\""
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Astraphobia is the irrational fear of what?",
+      "choices": [
+        "Wind",
+        "Thunder",
+        "Snow",
+        "Rain"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the German word for \"spoon\"?",
+      "choices": [
+        "Gabel",
+        "Löffel",
+        "Messer",
+        "Essstäbchen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
+      "choices": [
+        "Zifeng Tower, China",
+        "Al Hamra Tower, Kuwait",
+        "Trump Intl. Hotel & Tower, United States",
+        "Petronas Twin Towers, Malaysia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+      "choices": [
+        "Skirt",
+        "Rhobes",
+        "Dress",
+        "Kilt"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is real haggis made of?",
+      "choices": [
+        "Sheep's Heart, Liver and Lungs",
+        "Whole Sheep",
+        "Sheep's Liver, Kidneys and Eyes",
+        "Sheep's Heart, Kidneys and Lungs"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Scotch whisky and Drambuie make up which cocktail?",
+      "choices": [
+        "Manhattan",
+        "Sex on the Beach",
+        "Rusty Nail",
+        "Screwdriver"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was Hubba Bubba first introduced?",
+      "choices": [
+        "1979",
+        "1972",
+        "1984",
+        "1980"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which is the most popular spoken language in the Southern Hemisphere?",
+      "choices": [
+        "Spanish",
+        "French",
+        "Portuguese",
+        "English "
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Earl Grey tea is black tea flavoured with what?",
+      "choices": [
+        "Lavender",
+        "Vanilla",
+        "Honey",
+        "Bergamot oil"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was Apple Inc. founded?",
+      "choices": [
+        "1974",
+        "1978",
+        "1980",
+        "1976"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is a dead mall?",
+      "choices": [
+        "A mall that has been condemed",
+        "A mall with high vacancy rates or low consumer foot traffic",
+        "A mall after business hours",
+        "A mall with no stores"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the romanized Japanese word for \"university\"?",
+      "choices": [
+        "Shokudou",
+        "Jimusho",
+        "Toshokan",
+        "Daigaku"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What direction does the Statue of Liberty face?",
+      "choices": [
+        "Southeast",
+        "Southwest",
+        "Northwest",
+        "Northeast"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following buildings is example of a structure primarily built in the Art Deco architectural style?",
+      "choices": [
+        "Niagara Mohawk Building",
+        "Taipei 101",
+        "One Detroit Center",
+        "Westendstrasse 1"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the star sign of someone born on Valentines day?",
+      "choices": [
+        "Pisces",
+        "Scorpio",
+        "Aquarius",
+        "Capricorn"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A statue of Charles Darwin sits in what London museum?",
+      "choices": [
+        "Science Museum",
+        "Natural History Museum",
+        "British Museum",
+        "Tate"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the currency of Poland?",
+      "choices": [
+        "Ruble",
+        "Złoty",
+        "Krone",
+        "Euro"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is a \"dakimakura\"?",
+      "choices": [
+        "A word used to describe two people who truly love each other",
+        "A body pillow",
+        "A Chinese meal, essentially composed of fish",
+        "A yoga posture"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was WhatsApp founded?",
+      "choices": [
+        "2012",
+        "2007",
+        "2009",
+        "2010"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Italian word for \"tomato\"?",
+      "choices": [
+        "Pomodoro",
+        "Cipolla",
+        "Aglio",
+        "Peperoncino"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "After how many years would you celebrate your crystal anniversary?",
+      "choices": [
+        "25",
+        "20",
+        "10",
+        "15"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famed architect, who died in 2019 aged 102, designed the glass pyramid at the Louvre museum in Paris?",
+      "choices": [
+        "Wang Shu",
+        "Pascale Guédot",
+        "Frank Gehry",
+        "I. M. Pei"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is NOT one of Aesop's fables?",
+      "choices": [
+        "The Fox and the Grapes",
+        "The Tortoise and the Hare",
+        "The Fox and the Hound",
+        "The Frog and the Ox"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was the first Apple iPod introduced?",
+      "choices": [
+        "1998",
+        "1999",
+        "2000",
+        "2001"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which month is Black History Month in the US?",
+      "choices": [
+        "February",
+        "November",
+        "May",
+        "August"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A doctor with a PhD is a doctor of what?",
+      "choices": [
+        "Physical Therapy",
+        "Philosophy",
+        "Phrenology",
+        "Psychology"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+      "choices": [
+        "Post hoc ergo propter hoc",
+        "Ad hominem",
+        "Argumentum ad populum",
+        "Tu quoque"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who invented Pastafarianism?",
+      "choices": [
+        "Bill Nye",
+        "Bobby Henderson",
+        "Zach Soldi",
+        "Eric Tignor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country has the most Trappist breweries?",
+      "choices": [
+        "France",
+        "Belgium",
+        "Netherlands",
+        "USA"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The term \"scientist\" was coined in which year?",
+      "choices": [
+        "1942",
+        "1933",
+        "1833",
+        "1796"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the United States' CDC, one in how many Americans die annually due to smoking?",
+      "choices": [
+        "Ten",
+        "Five",
+        "One hundred",
+        "Twenty"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was McDonald's founded?",
+      "choices": [
+        "1964",
+        "1951",
+        "1955",
+        "1947"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In a standard set of playing cards, which is the only king without a moustache?",
+      "choices": [
+        "Hearts",
+        "Spades",
+        "Clubs",
+        "Diamonds"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the real name of viral internet meme Grumpy Cat?",
+      "choices": [
+        "Tardar Sauce",
+        "Maru",
+        "Colonel Meow",
+        "Lil Bub"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?",
+      "choices": [
+        "Ninja",
+        "Samurai",
+        "Shinobi",
+        "Shogun"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the official language in Barcelona beside Spanish?",
+      "choices": [
+        "French",
+        "Catalan",
+        " Galician",
+        "Basque"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The website \"Shut Up & Sit Down\" reviews which form of media?",
+      "choices": [
+        "Video Games",
+        "Board Games",
+        "Television Shows",
+        "Films"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Apple co-founder Steve Jobs died from complications of which form of cancer?",
+      "choices": [
+        "Bone",
+        "Pancreatic",
+        "Liver",
+        "Stomach"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where did the pineapple plant originate?",
+      "choices": [
+        "Europe",
+        "South America",
+        "Asia",
+        "Hawaii"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country drives on the left side of the road?",
+      "choices": [
+        "Japan",
+        "China",
+        "Germany",
+        "Russia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What character was once considered to be the 27th letter of the alphabet?",
+      "choices": [
+        "Ampersand",
+        "Interrobang",
+        "Pilcrow",
+        "Tilde"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+      "choices": [
+        "Harvard University",
+        "Columbia University",
+        "Yale University",
+        "Princeton University"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the height of Kingda Ka, the tallest roller coaster in the world from 2005 to 2024?",
+      "choices": [
+        "429 ft",
+        "456 ft",
+        "396 ft",
+        "500 ft"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the unit of currency in Laos?",
+      "choices": [
+        "Konra",
+        "Ruble",
+        "Dollar",
+        "Kip"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest rapid transit system in the world by number of stations, with 472 stations in operation?",
+      "choices": [
+        "Berlin U-Bahn",
+        "London Underground",
+        "Shanghai Metro",
+        "New York City Subway"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain has the highest peak in Europe?",
+      "choices": [
+        "Shkhara, Georgia",
+        "Mount Elbrus, Russia",
+        "Mont Blanc, France",
+        "Mount Ararat, Turkey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "This field is sometimes known as “The Dismal Science.”",
+      "choices": [
+        "Politics",
+        "Economics",
+        "Physics",
+        "Philosophy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the last letter of the Greek alphabet?",
+      "choices": [
+        "Kappa",
+        "Omega",
+        "Epsilon",
+        "Mu"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which language is NOT Indo-European?",
+      "choices": [
+        "Russian",
+        "Greek",
+        "Hungarian",
+        "Latvian"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Whose greyscale face is on the kappa emoticon on Twitch?",
+      "choices": [
+        "Justin DeSeno",
+        "Jimmy DeSeno",
+        "Josh DeSeno",
+        "John DeSeno"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In ancient Greece, if your job were a \"hippeus\" which of these would you own?",
+      "choices": [
+        "Weave",
+        "Guitar",
+        "Horse",
+        "Boat"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What year was Walt Disney born?",
+      "choices": [
+        "1902",
+        "1901",
+        "1903",
+        "1900"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What do the Dutch call their language?",
+      "choices": [
+        "Hollander",
+        "Nederlands",
+        "Deutsch",
+        "Dansk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to the BBPA, what is the most common pub name in the UK?",
+      "choices": [
+        "Red Lion",
+        "Royal Oak",
+        "King's Head",
+        "White Hart"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+      "choices": [
+        "David Childs",
+        "Michael Arad",
+        "Bjarke Ingels",
+        "Fumihiko Maki"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain has the highest peak in North America?",
+      "choices": [
+        "Mount Saint Elias, US/Canada border",
+        "Mount Logan, Canada",
+        "Denali, USA",
+        "Pico de Orizaba, Mexico"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country was the 1992 Summer Olympics Games held?",
+      "choices": [
+        "Korea",
+        "USA",
+        "Russia",
+        "Spain"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "If a person's hair is described as 'Titian', what colour is it?",
+      "choices": [
+        "Red",
+        "Blonde",
+        "Black",
+        "Brunette"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "All Souls and Merton are constituent colleges of what university?",
+      "choices": [
+        "Leeds",
+        "Cambridge",
+        "Manchester",
+        "Oxford"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What English word means to \"think deeply\"?",
+      "choices": [
+        "Condensate",
+        "Constipate",
+        "Contemplate",
+        "Confiscate"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rolex is a company that specializes in what type of product?",
+      "choices": [
+        "Sports equipment",
+        "Computers",
+        "Watches",
+        "Cars"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+      "choices": [
+        "Asus",
+        "Hewlett-Packard",
+        "Dell",
+        "Toshiba"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the destination of the missing flight MH370?",
+      "choices": [
+        "Beijing",
+        "Kuala Lumpur",
+        "Singapore",
+        "Tokyo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Halley's Comet, which will not appear again until the year 2061, previously approach Earth?",
+      "choices": [
+        "1942",
+        "1909",
+        "1986",
+        "2001"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which essential condiment is also known as Japanese horseradish?",
+      "choices": [
+        "Mentsuyu",
+        "Ponzu",
+        "Karashi",
+        "Wasabi "
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the original name of the search engine \"Google\"?",
+      "choices": [
+        "BackRub",
+        "Netscape Navigator",
+        "SearchPro",
+        "CatMassage"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The early part of which decade, did the Goth Subculture begin?",
+      "choices": [
+        "1980s",
+        "2000s",
+        "1970s",
+        "1990s"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the Swedish word for \"window\"?",
+      "choices": [
+        "Ruta",
+        "Fönster",
+        "Hål",
+        "Skärm"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Out of these four buildings, which one is the tallest, with a height of 1,250 ft (381 m)?",
+      "choices": [
+        "Gevora Hotal, United Arab Emirates",
+        "Empire State Building, United States",
+        "Federation Tower, Russia",
+        "Bank of China Tower, Hong Kong"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What nation produces roughly 40% of the world’s vanilla?",
+      "choices": [
+        "China",
+        "Mexico",
+        "Madagascar",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these is the name of a Japanese system of alternative medicine, literally meaning \"finger pressure\"?",
+      "choices": [
+        "Ikigai",
+        "Majime",
+        "Shiatsu",
+        "Ukiyo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What fast food chain has the most locations globally? ",
+      "choices": [
+        "Starbucks",
+        "Subway",
+        "McDonalds",
+        "KFC"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following correctly describes Japanese word order?",
+      "choices": [
+        "Verb Object Subject",
+        "Subject Object Verb",
+        "Verb Subject Object",
+        "Subject Verb Object"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "\"Gum arabic\" is a natural gum consisting of the hardened sap of which tree species?",
+      "choices": [
+        "Eucalyptus",
+        "Acacia",
+        "Ficus",
+        "Palm"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the very first video uploaded to YouTube?",
+      "choices": [
+        "Her new puppy from great grandpa vern.",
+        "Me at the zoo",
+        "carrie rides a truck",
+        "tribute"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most-visited website out of these options?",
+      "choices": [
+        "Wikipedia",
+        "Google",
+        "Facebook",
+        "YouTube"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Amsterdam Centraal station is twinned with what station?",
+      "choices": [
+        "Frankfurt (Main) Hauptbahnhof",
+        "Paris Gare du Nord",
+        "London Liverpool Street",
+        "Brussels Midi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+      "choices": [
+        "Gothic Revival",
+        "Modernism",
+        "Baroque",
+        "Neoclassical"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where does water from Poland Spring water bottles come from?",
+      "choices": [
+        "Bavaria, Poland",
+        "Masovia, Poland",
+        "Maine, United States",
+        "Hesse, Germany"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Mountain Dew's original slogan?",
+      "choices": [
+        "Yahoo! Mountain Dew... It'll tickle your innards!",
+        "Get' that barefoot feelin' drinkin' Mountain Dew",
+        "Give Me A Dew",
+        "Do The Dew"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When was the Declaration of Independence approved by the Second Continental Congress?",
+      "choices": [
+        "June 4, 1776",
+        "July 2, 1776",
+        "July 4, 1776",
+        "May 4, 1776"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+      "choices": [
+        "Flamenco",
+        "Mariachi",
+        "Fiestas",
+        "Bullfighting"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these companies does NOT manufacture automobiles?",
+      "choices": [
+        "Nissan",
+        "Ducati",
+        "Fiat",
+        "GMC"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What alcoholic drink is mainly made from juniper berries?",
+      "choices": [
+        "Vodka",
+        "Rum",
+        "Tequila",
+        "Gin"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following carbonated soft drinks were introduced first?",
+      "choices": [
+        "Dr. Pepper",
+        "Sprite",
+        "Mountain Dew",
+        "Coca-Cola"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the average life span of a garden ant?",
+      "choices": [
+        "15 years",
+        "3 years",
+        "1 week",
+        "24 hours"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Directly between the Washington Monument and the Reflecting Pool is a memorial to which war?",
+      "choices": [
+        "American Revolutionary War",
+        "Vietnam War",
+        "World War II",
+        "American Civil War"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bob and Mike Bryan were well known brothers in which sport?",
+      "choices": [
+        "Football",
+        "Tennis",
+        "Basketball",
+        "Baseball"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

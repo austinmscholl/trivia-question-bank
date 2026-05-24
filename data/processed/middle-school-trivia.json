@@ -1,259 +1,2053 @@
 {
   "slug": "middle-school-trivia",
   "name": "Middle School",
-  "description": "The science, geography, and pop-culture facts you should remember from middle school.",
-  "processedAt": "2026-05-06T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.633Z",
   "questions": [
     {
-      "q": "What is the largest mammal on Earth?",
-      "choices": ["African Elephant", "Blue Whale", "Sperm Whale", "Giraffe"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Blue Whale",
-        "verified": true,
-        "notes": "Up to ~30 m long; ~180 tonnes."
-      }
-    },
-    {
-      "q": "Who is the British author of the 'Harry Potter' book series?",
-      "choices": ["J.R.R. Tolkien", "C.S. Lewis", "J.K. Rowling", "Roald Dahl"],
-      "correct": 2,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "J.K. Rowling",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the world's tallest building?",
-      "choices": ["Empire State Building", "Burj Khalifa", "Shanghai Tower", "Taipei 101"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Burj Khalifa",
-        "verified": true,
-        "notes": "828 m (2,717 ft); located in Dubai."
-      }
-    },
-    {
-      "q": "What is the fastest land animal on Earth?",
-      "choices": ["Lion", "Cheetah", "Antelope", "Greyhound"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cheetah",
-        "verified": true,
-        "notes": "Top speed about 70 mph (112 km/h)."
-      }
-    },
-    {
-      "q": "What does 'DNA' stand for?",
+      "q": "What is the smallest unit of matter that makes up all substances on Earth?",
       "choices": [
-        "Dual Nucleic Acid",
-        "Direct Nucleotide Array",
-        "Deoxyribonucleic Acid",
-        "Differential Nucleic Atom"
+        "Molecule",
+        "Atom",
+        "Electron",
+        "Nucleus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system orbits closest to the Sun?",
+      "choices": [
+        "Venus",
+        "Mercury",
+        "Earth",
+        "Mars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain range contains Mount Everest, the tallest mountain on Earth?",
+      "choices": [
+        "Alps",
+        "Rocky Mountains",
+        "Himalayas",
+        "Andes"
       ],
       "correct": 2,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Deoxyribonucleic Acid",
-        "verified": true,
-        "notes": "Double-helix structure described by Watson and Crick in 1953."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which scientist developed the theories of special and general relativity?",
-      "choices": ["Isaac Newton", "Niels Bohr", "Albert Einstein", "Stephen Hawking"],
+      "q": "What currency is used in Japan?",
+      "choices": [
+        "Won",
+        "Yuan",
+        "Yen",
+        "Rupee"
+      ],
       "correct": 2,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Albert Einstein",
-        "verified": true,
-        "notes": "Special relativity (1905); general relativity (1915)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the largest planet in our solar system?",
-      "choices": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "q": "Which scientist is credited with inventing the telephone?",
+      "choices": [
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Benjamin Franklin"
+      ],
       "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Jupiter",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the planet closest to the Sun?",
-      "choices": ["Venus", "Mercury", "Earth", "Mars"],
+      "q": "How many bones are in the average adult human body?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
       "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Mercury",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which planet is nicknamed the 'Red Planet'?",
-      "choices": ["Venus", "Mars", "Jupiter", "Mercury"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Mars",
-        "verified": true,
-        "notes": "Iron oxide gives the surface its rusty color."
-      }
-    },
-    {
-      "q": "How many planets are in our solar system (since Pluto's reclassification)?",
-      "choices": ["7", "8", "9", "10"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Eight",
-        "verified": true,
-        "notes": "Pluto reclassified as a 'dwarf planet' in 2006 by the IAU."
-      }
-    },
-    {
-      "q": "What is the smallest country in the world by area?",
-      "choices": ["Monaco", "Nauru", "Vatican City", "San Marino"],
+      "q": "What is the hardest natural gemstone found on Earth?",
+      "choices": [
+        "Sapphire",
+        "Emerald",
+        "Diamond",
+        "Ruby"
+      ],
       "correct": 2,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Vatican City",
-        "verified": true,
-        "notes": "About 0.49 km² / 110 acres."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who is credited with inventing the telephone (with patent issued 1876)?",
+      "q": "Which U.S. state is famous for its beaches, oranges, and theme parks?",
+      "choices": [
+        "California",
+        "Hawaii",
+        "Florida",
+        "Texas"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What causes the Earth to experience different seasons?",
+      "choices": [
+        "Distance from the Sun",
+        "The tilt of Earth's axis",
+        "Moon's gravity",
+        "Solar flares"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which continent is the smallest by land area?",
+      "choices": [
+        "Antarctica",
+        "Europe",
+        "Australia",
+        "South America"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process by which plants convert sunlight into energy?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Osmosis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who invented the electric light bulb?",
+      "choices": [
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "Thomas Edison",
+        "Benjamin Franklin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which animal is the fastest land animal on Earth?",
+      "choices": [
+        "Lion",
+        "Gazelle",
+        "Cheetah",
+        "Antelope"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the four primary colors used in color printing?",
+      "choices": [
+        "Red, Blue, Yellow, Green",
+        "Cyan, Magenta, Yellow, Black",
+        "Red, Yellow, Blue, White",
+        "Orange, Purple, Green, Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which European country is famous for the Eiffel Tower?",
+      "choices": [
+        "Germany",
+        "Italy",
+        "France",
+        "Spain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest country in Asia by population?",
+      "choices": [
+        "India",
+        "Indonesia",
+        "China",
+        "Japan"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which mountain range runs along the western coast of South America?",
+      "choices": [
+        "Rockies",
+        "Himalayas",
+        "Andes",
+        "Alps"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system is known for its distinctive red color?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Mercury",
+        "Saturn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the chemical formula for the water you drink?",
+      "choices": [
+        "H2O",
+        "CO2",
+        "O2",
+        "H2O2"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which gas do plants absorb from the atmosphere to grow?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Helium"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what temperature in Celsius does water boil at sea level?",
+      "choices": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest unit of matter called?",
+      "choices": [
+        "Molecule",
+        "Cell",
+        "Atom",
+        "Electron"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What force keeps objects from floating into space?",
+      "choices": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Inertia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the study of living organisms called?",
+      "choices": [
+        "Geology",
+        "Astronomy",
+        "Biology",
+        "Botany"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Eiffel Tower built in Paris?",
+      "choices": [
+        "1879",
+        "1889",
+        "1899",
+        "1909"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which gas do we exhale that plants need to survive?",
+      "choices": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon Dioxide",
+        "Hydrogen"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary color of grass?",
+      "choices": [
+        "Yellow",
+        "Green",
+        "Blue",
+        "Brown"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest animal ever known to have lived on Earth?",
+      "choices": [
+        "African Elephant",
+        "Blue Whale",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Eiffel Tower completed in Paris?",
+      "choices": [
+        "1875",
+        "1889",
+        "1901",
+        "1910"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which element has the chemical symbol O on the periodic table?",
+      "choices": [
+        "Osmium",
+        "Oxygen",
+        "Oganesson",
+        "Onium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What force keeps planets orbiting around the sun?",
+      "choices": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Centrifugal force"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which year marked the end of World War II?",
+      "choices": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous aviator disappeared while attempting to fly around the world in 1937?",
+      "choices": [
+        "Charles Lindbergh",
+        "Amelia Earhart",
+        "Chuck Yeager",
+        "Howard Hughes"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which astronaut was the first person to walk on the Moon?",
+      "choices": [
+        "Buzz Aldrin",
+        "John Glenn",
+        "Neil Armstrong",
+        "Alan Bean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many colors are traditionally said to be in a rainbow?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which nurse revolutionized healthcare during the Crimean War?",
+      "choices": [
+        "Clara Barton",
+        "Florence Nightingale",
+        "Dorothea Dix",
+        "Mary Seacole"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who discovered penicillin by accident in 1928?",
+      "choices": [
+        "Louis Pasteur",
+        "Alexander Fleming",
+        "Edward Jenner",
+        "Jonas Salk"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many strings does a standard French horn have?",
+      "choices": [
+        "3",
+        "6",
+        "0",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shares the longest international border with the United States?",
+      "choices": [
+        "Mexico",
+        "Canada",
+        "Cuba",
+        "Bahamas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which organ pumps blood throughout your entire body?",
+      "choices": [
+        "Lungs",
+        "Heart",
+        "Brain",
+        "Stomach"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many colors are in a rainbow?",
+      "choices": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which physicist developed the theory of relativity?",
+      "choices": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Galileo Galilei"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many degrees are in a complete circle?",
+      "choices": [
+        "180 degrees",
+        "270 degrees",
+        "360 degrees",
+        "450 degrees"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is the smallest in the world by area?",
+      "choices": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ocean borders the eastern coast of the United States?",
+      "choices": [
+        "Pacific Ocean",
+        "Arctic Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What invisible force causes objects to fall toward Earth?",
+      "choices": [
+        "Magnetism",
+        "Friction",
+        "Gravity",
+        "Air resistance"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which gas makes up most of Earth's atmosphere?",
+      "choices": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the light bulb invented?",
+      "choices": [
+        "1869",
+        "1879",
+        "1889",
+        "1899"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the largest continent by area?",
+      "choices": [
+        "Africa",
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many sides does a square have?",
+      "choices": [
+        "Three",
+        "Four",
+        "Five",
+        "Six"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney princess rides on a magic carpet?",
+      "choices": [
+        "Belle",
+        "Cinderella",
+        "Jasmine",
+        "Ariel"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which instrument is used to measure temperature?",
+      "choices": [
+        "Barometer",
+        "Thermometer",
+        "Speedometer",
+        "Odometer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the boiling point of water at sea level, measured in Celsius?",
+      "choices": [
+        "90°C",
+        "100°C",
+        "110°C",
+        "125°C"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many bones does an average adult human have in their body?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Roman Emperor famously crossed the Rubicon River in 49 BCE, triggering a civil war that would transform the republic?",
+      "choices": [
+        "Augustus Caesar",
+        "Julius Caesar",
+        "Nero",
+        "Pompey"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Berlin Wall fall, marking the symbolic end of the Cold War in Europe?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British Prime Minister served during the Falkland Islands War in 1982 and was known for her unwavering resolve?",
+      "choices": [
+        "Margaret Thatcher",
+        "Edward Heath",
+        "James Callaghan",
+        "Harold Macmillan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Edison's development of the practical incandescent light bulb occurred in which year?",
+      "choices": [
+        "1876",
+        "1879",
+        "1882",
+        "1885"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Roman statesman and orator, known for his speeches against Mark Antony, was assassinated in 43 BCE?",
+      "choices": [
+        "Cato the Elder",
+        "Marcus Cicero",
+        "Seneca",
+        "Pliny the Younger"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The volcanic eruption of Mount Vesuvius in 79 AD preserved which Roman city in a layer of ash and pumice?",
+      "choices": [
+        "Herculaneum",
+        "Pompeii",
+        "Baiae",
+        "Oplontis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which philosopher served as tutor to Alexander the Great and founded his own school called the Lyceum?",
+      "choices": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Zeno"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Alexander Fleming's discovery of penicillin in 1928 resulted from contaminated bacterial cultures left unwashed over which time period?",
+      "choices": [
+        "A weekend",
+        "A two-week vacation",
+        "A month-long absence",
+        "An overnight incubation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The United States Constitution was primarily authored by which Founding Father, earning him the title 'Father of the Constitution'?",
+      "choices": [
+        "Thomas Jefferson",
+        "James Madison",
+        "Alexander Hamilton",
+        "Benjamin Franklin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which African nation contains the majority of the Amazon Rainforest and is the largest country in South America by area?",
+      "choices": [
+        "Peru",
+        "Colombia",
+        "Brazil",
+        "Venezuela"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Red Sea, which separates Africa from Asia, is bordered to the west by which country's coastline?",
+      "choices": [
+        "Saudi Arabia",
+        "Egypt",
+        "Israel",
+        "Sudan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical formula for nitrogen gas, which comprises approximately 78% of Earth's atmosphere?",
+      "choices": [
+        "N",
+        "NO₂",
+        "N₂",
+        "NH₃"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many chambers does the human heart contain, and how many of these are ventricles?",
+      "choices": [
+        "Two chambers, one ventricle",
+        "Three chambers, two ventricles",
+        "Four chambers, two ventricles",
+        "Four chambers, three ventricles"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many bones are present in the human adult skeleton?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which crystalline form of carbon is the hardest known naturally occurring material on the Mohs scale?",
+      "choices": [
+        "Graphite",
+        "Charcoal",
+        "Diamond",
+        "Fullerene"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The longest international land border in the world is shared between which two countries?",
+      "choices": [
+        "United States and Mexico",
+        "United States and Canada",
+        "China and Russia",
+        "France and Spain"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Asian country is home to over a billion speakers of Mandarin Chinese as a first language?",
+      "choices": [
+        "Taiwan",
+        "Singapore",
+        "China",
+        "Vietnam"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The process by which plants convert sunlight, water, and carbon dioxide into glucose is called what?",
+      "choices": [
+        "Cellular respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Chemosynthesis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ocean-dwelling mammal is the largest animal ever known to have existed and produces calls exceeding 188 decibels?",
+      "choices": [
+        "Sperm whale",
+        "Humpback whale",
+        "Blue whale",
+        "Fin whale"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Renaissance polymath designed flying machines and painted the Mona Lisa despite never publishing most of his scientific work?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient wonder of the world stood on the Greek island of Rhodes and was built to honor the sun god Helios?",
+      "choices": [
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria",
+        "Temple of Zeus",
+        "Hanging Gardens of Babylon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what century did the invention of the printing press by Johannes Gutenberg transform the spread of knowledge across Europe?",
+      "choices": [
+        "15th century",
+        "14th century",
+        "16th century",
+        "13th century"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which element, with atomic number 79, is highly valued as precious metal and does not tarnish or corrode?",
+      "choices": [
+        "Gold",
+        "Silver",
+        "Platinum",
+        "Copper"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the vast Russian empire that stretched from Eastern Europe to the Pacific Ocean until 1991?",
+      "choices": [
+        "Soviet Union",
+        "Tsarist Russia",
+        "Muscovy",
+        "Russian Federation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British prime minister declared war on Nazi Germany in 1939 and served throughout World War II?",
+      "choices": [
+        "Winston Churchill",
+        "Neville Chamberlain",
+        "Stanley Baldwin",
+        "Anthony Eden"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fossil fuel formed from ancient plant material compressed over millions of years is primarily composed of carbon?",
+      "choices": [
+        "Coal",
+        "Natural gas",
+        "Petroleum",
+        "Uranium"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many novels in the Harry Potter series were published between 1997 and 2007?",
+      "choices": [
+        "7",
+        "6",
+        "8",
+        "9"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American president issued the Emancipation Proclamation in 1863?",
+      "choices": [
+        "Abraham Lincoln",
+        "Andrew Johnson",
+        "Ulysses S. Grant",
+        "Rutherford B. Hayes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What does DNA stand for, the molecule that carries genetic instructions for life?",
+      "choices": [
+        "Deoxyribonucleic Acid",
+        "Deoxynuclear Acid",
+        "Diribonucleic Acid",
+        "Deoxyribose Nucleotide Assembly"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mathematician developed the theory of evolution by natural selection after his voyage on the HMS Beagle?",
+      "choices": [
+        "Charles Darwin",
+        "Alfred Russel Wallace",
+        "Thomas Huxley",
+        "Jean-Baptiste Lamarck"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Berlin Wall fall, marking a symbolic end to the Cold War division of Germany?",
+      "choices": [
+        "1989",
+        "1985",
+        "1991",
+        "1987"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the largest moon of Jupiter, and the largest moon in the entire solar system?",
+      "choices": [
+        "Ganymede",
+        "Callisto",
+        "Europa",
+        "Titan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French chemist discovered the element radium and won two Nobel Prizes for her scientific work?",
+      "choices": [
+        "Marie Curie",
+        "Irène Joliot-Curie",
+        "Hedy Lamarr",
+        "Rosalind Franklin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Australia, a city purpose-built in the early 20th century?",
+      "choices": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which mountain range contains Mount Everest and separates South Asia from Central Asia?",
+      "choices": [
+        "The Himalayas",
+        "The Andes",
+        "The Rockies",
+        "The Alps"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the United States Declaration of Independence formally announce separation from British rule?",
+      "choices": [
+        "1776",
+        "1775",
+        "1783",
+        "1774"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Shakespeare's 'Romeo and Juliet', which city serves as the setting for the feuding families?",
+      "choices": [
+        "Venice",
+        "Verona",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chemical element has the atomic number 1 and is the most abundant element in the universe?",
+      "choices": [
+        "Helium",
+        "Hydrogen",
+        "Carbon",
+        "Nitrogen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the RMS Titanic sink after striking an iceberg?",
+      "choices": [
+        "1910",
+        "1912",
+        "1915",
+        "1920"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which theoretical physicist developed the theory of relativity and the equation E=mc²?",
+      "choices": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which author created the character Harry Potter and wrote a seven-book series beginning in 1997?",
+      "choices": [
+        "Stephenie Meyer",
+        "J.K. Rowling",
+        "Rick Riordan",
+        "Veronica Roth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At standard atmospheric pressure, at what temperature in Celsius does water boil?",
+      "choices": [
+        "80°C",
+        "90°C",
+        "100°C",
+        "110°C"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Great Lake is the largest by surface area?",
+      "choices": [
+        "Lake Superior",
+        "Lake Michigan",
+        "Lake Huron",
+        "Lake Erie"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which century did the Industrial Revolution begin in Great Britain?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "18th century",
+        "19th century"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of the eight planets in our solar system has the most moons?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What gas comprises approximately 78% of Earth's atmosphere?",
+      "choices": [
+        "Oxygen",
+        "Argon",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which document, drafted by James Madison, established the framework for the U.S. government?",
+      "choices": [
+        "The Declaration of Independence",
+        "The Bill of Rights",
+        "The U.S. Constitution",
+        "The Articles of Confederation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of energy is stored in the chemical bonds of food?",
+      "choices": [
+        "Kinetic energy",
+        "Potential energy",
+        "Chemical energy",
+        "Thermal energy"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which river is the longest in Africa and flows through eleven countries?",
+      "choices": [
+        "Congo River",
+        "Niger River",
+        "Zambezi River",
+        "Nile River"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the American Civil War begin?",
+      "choices": [
+        "1859",
+        "1861",
+        "1863",
+        "1865"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum number of electrons that can occupy the second electron shell of an atom?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President served the longest tenure in office, spanning multiple decades?",
+      "choices": [
+        "Thomas Jefferson",
+        "Franklin D. Roosevelt",
+        "George Washington",
+        "Theodore Roosevelt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what temperature in Fahrenheit does water freeze at sea level?",
+      "choices": [
+        "0°F",
+        "32°F",
+        "64°F",
+        "100°F"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which blood type is considered the universal donor for transfusions?",
+      "choices": [
+        "AB positive",
+        "O negative",
+        "A positive",
+        "B negative"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Library of Alexandria, one of history's greatest centers of learning, suffer its final destruction?",
+      "choices": [
+        "48 BCE",
+        "391 CE",
+        "642 CE",
+        "1453 CE"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which planet in our solar system has the most moons as of the latest astronomical observations?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Neptune",
+        "Uranus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of true echolocation similar to dolphins and bats?",
+      "choices": [
+        "Shrews",
+        "Hedgehogs",
+        "Tenrecs",
+        "Opossums"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek mathematician is credited with proving the Pythagorean theorem, though the relationship predated him?",
+      "choices": [
+        "Archimedes",
+        "Euclid",
+        "Pythagoras",
+        "Thales"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only continent that does not have an active volcano?",
+      "choices": [
+        "Europe",
+        "Australia",
+        "North America",
+        "South America"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which kingdom contains organisms that are prokaryotic and often found in extreme environments?",
+      "choices": [
+        "Protista",
+        "Archaea",
+        "Bacteria",
+        "Fungi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Napoleonic Wars, which naval battle in 1805 gave Britain decisive control of the seas for decades?",
+      "choices": [
+        "Battle of the Nile",
+        "Battle of Trafalgar",
+        "Battle of Copenhagen",
+        "Battle of the Glorious First of June"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the thin layer between Earth's crust and outer core?",
+      "choices": [
+        "Lithosphere",
+        "Mesosphere",
+        "Asthenosphere",
+        "Mantle"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which photosynthetic pigment absorbs light most efficiently in the blue and red wavelengths?",
+      "choices": [
+        "Chlorophyll A",
+        "Chlorophyll B",
+        "Carotenoid",
+        "Xanthophyll"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary document that established the separation of powers in the U.S. government?",
+      "choices": [
+        "The Declaration of Independence",
+        "The Bill of Rights",
+        "The Constitution",
+        "The Federalist Papers"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which logarithmic scale is used to measure the acidity or alkalinity of a substance?",
+      "choices": [
+        "Richter Scale",
+        "pH Scale",
+        "Mohs Scale",
+        "Decibel Scale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mitosis, what is the name of the protein structure that connects sister chromatids during cell division?",
+      "choices": [
+        "Centriole",
+        "Centromere",
+        "Spindle fiber",
+        "Kinetochore"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which empire built Machu Picchu, the mountain citadel hidden in the Andes?",
+      "choices": [
+        "Aztec Empire",
+        "Inca Empire",
+        "Maya Empire",
+        "Olmec Empire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What fraction of an iceberg typically remains submerged below the ocean surface due to buoyancy?",
+      "choices": [
+        "One-third",
+        "One-half",
+        "Two-thirds",
+        "Nine-tenths"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the nine symphonies and is famous for creating music while deaf?",
+      "choices": [
+        "Wolfgang Mozart",
+        "Ludwig van Beethoven",
+        "Joseph Haydn",
+        "Johann Brahms"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scientist's experiments with X-rays led to the discovery of radioactivity, earning her two Nobel Prizes in different scientific fields?",
+      "choices": [
+        "Marie Curie",
+        "Lise Meitner",
+        "Rosalind Franklin",
+        "Ernest Rutherford"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Berlin Wall fall, symbolizing the beginning of the end for the Cold War division of Europe?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which organ in the human body produces insulin to regulate blood glucose levels?",
+      "choices": [
+        "Liver",
+        "Pancreas",
+        "Thyroid",
+        "Kidney"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Rosetta Stone, discovered in 1799, was instrumental in deciphering which ancient written language?",
+      "choices": [
+        "Sumerian cuneiform",
+        "Hieroglyphics",
+        "Linear A",
+        "Phoenician script"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Eiffel Tower completed and first opened to the public?",
+      "choices": [
+        "1887",
+        "1889",
+        "1891",
+        "1893"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system appears distinctly reddish in color due to iron oxide on its surface?",
+      "choices": [
+        "Venus",
+        "Jupiter",
+        "Mars",
+        "Mercury"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary language spoken by over one billion people worldwide?",
+      "choices": [
+        "Spanish",
+        "English",
+        "Mandarin Chinese",
+        "Hindi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which South American mountain range is the longest in the world?",
+      "choices": [
+        "Sierra Madre",
+        "Andes",
+        "Rockies",
+        "Atlas"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical symbol for the element oxygen on the periodic table?",
+      "choices": [
+        "Os",
+        "O",
+        "Ox",
+        "Oy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney animated character loses a glass slipper at a royal ball?",
+      "choices": [
+        "Snow White",
+        "Cinderella",
+        "Aurora",
+        "Belle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which land animal is capable of running at speeds greater than 100 kilometers per hour?",
+      "choices": [
+        "Lion",
+        "Antelope",
+        "Cheetah",
+        "Gazelle"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of energy is stored in food and released when your body breaks it down?",
+      "choices": [
+        "Kinetic energy",
+        "Chemical energy",
+        "Thermal energy",
+        "Electrical energy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British monarch ruled during the time of the Spanish Armada in 1588?",
+      "choices": [
+        "Elizabeth I",
+        "Mary I",
+        "Henry VIII",
+        "Edward VI"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which river is the longest on the African continent?",
+      "choices": [
+        "Congo River",
+        "Zambezi River",
+        "Nile River",
+        "Niger River"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest island in the world?",
+      "choices": [
+        "Australia",
+        "Borneo",
+        "Greenland",
+        "New Guinea"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what country did the Industrial Revolution primarily begin in the late 1700s?",
+      "choices": [
+        "France",
+        "Germany",
+        "Great Britain",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient Greek philosopher tutored Alexander the Great?",
+      "choices": [
+        "Socrates",
+        "Plato",
+        "Aristotle",
+        "Pythagoras"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which continent is also a country and the smallest inhabited continent?",
+      "choices": [
+        "Asia",
+        "Australia",
+        "Antarctica",
+        "Europe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What invisible force causes objects to fall toward Earth and keeps planets in orbit?",
+      "choices": [
+        "Magnetism",
+        "Gravity",
+        "Friction",
+        "Inertia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Chinese emperor ordered the construction of the Great Wall and unified China through military conquest during the 3rd century BCE?",
+      "choices": [
+        "Kublai Khan",
+        "Qin Shi Huang",
+        "Ming Hongwu",
+        "Han Wudi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Thomas Edison develop the first practical incandescent light bulb?",
+      "choices": [
+        "1876",
+        "1879",
+        "1881",
+        "1885"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which institution did James Madison primarily shape through his role as a founding father?",
+      "choices": [
+        "The Declaration of Independence",
+        "The U.S. Constitution",
+        "The Federalist Papers",
+        "The Bill of Rights alone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which war in American history was primarily fought over the question of slavery?",
+      "choices": [
+        "The Revolutionary War",
+        "The War of 1812",
+        "The Civil War",
+        "The Spanish-American War"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Alexander Fleming's discovery of penicillin resulted from what laboratory oversight?",
+      "choices": [
+        "Leaving bacteria samples in sunlight",
+        "Forgetting to clean moldy petri dishes",
+        "Spilling chemicals on cultures",
+        "Failing to seal test tubes properly"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ocean covers more surface area than all the continents combined?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Pacific Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ship did Charles Darwin sail aboard to conduct his observations on evolution?",
+      "choices": [
+        "HMS Victory",
+        "HMS Endeavour",
+        "HMS Beagle",
+        "HMS Resolution"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state has the largest total area?",
+      "choices": [
+        "Texas",
+        "California",
+        "Montana",
+        "Alaska"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Andes mountain range runs primarily through which continent?",
+      "choices": [
+        "Africa",
+        "Asia",
+        "South America",
+        "North America"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain range contains Mount Everest, the highest peak on Earth?",
+      "choices": [
+        "Rockies",
+        "Alps",
+        "Himalayas",
+        "Andes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What chemical compound serves as the genetic blueprint for life in most organisms?",
+      "choices": [
+        "Ribonucleic Acid",
+        "Deoxyribonucleic Acid",
+        "Adenosine Triphosphate",
+        "Amino Acid"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which continent has the largest population of any continent on Earth?",
+      "choices": [
+        "Africa",
+        "South America",
+        "Europe",
+        "Asia"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which South African leader became known for dismantling apartheid and promoting reconciliation?",
+      "choices": [
+        "F.W. de Klerk",
+        "Nelson Mandela",
+        "Desmond Tutu",
+        "Oliver Tambo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which year marked the beginning of World War I?",
+      "choices": [
+        "1912",
+        "1914",
+        "1916",
+        "1918"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Equator divides Earth into which two regions?",
+      "choices": [
+        "Eastern and Western hemispheres",
+        "Northern and Southern hemispheres",
+        "Tropics and poles",
+        "Continents and oceans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What element on the periodic table has the chemical symbol 'Au'?",
+      "choices": [
+        "Silver",
+        "Aluminum",
+        "Gold",
+        "Argon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. border is the longest international border in the world?",
+      "choices": [
+        "Mexico-U.S. border",
+        "Canada-U.S. border",
+        "U.S.-Caribbean border",
+        "Alaska-Russia border"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which organ in your body filters waste from your blood and produces urine?",
+      "choices": [
+        "Liver",
+        "Kidney",
+        "Pancreas",
+        "Gallbladder"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the muscular tube that carries food from your mouth to your stomach?",
+      "choices": [
+        "Trachea",
+        "Esophagus",
+        "Intestine",
+        "Bronchus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mountain range contains Mount Everest, the world's tallest peak?",
+      "choices": [
+        "Rocky Mountains",
+        "Andes",
+        "Himalayas",
+        "Alps"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wrote the novel 'Pride and Prejudice' in the early 19th century?",
+      "choices": [
+        "Charlotte Brontë",
+        "Jane Austen",
+        "George Eliot",
+        "Mary Shelley"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of energy is stored in a stretched rubber band?",
+      "choices": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Potential energy",
+        "Nuclear energy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance artist is famous for painting the Sistine Chapel ceiling?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Raphael",
+        "Michelangelo",
+        "Donatello"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the main ingredient in cement, which is used to make concrete?",
+      "choices": [
+        "Sand",
+        "Lime",
+        "Gravel",
+        "Clay"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American president is depicted on the one-dollar bill?",
+      "choices": [
+        "Thomas Jefferson",
+        "George Washington",
+        "Abraham Lincoln",
+        "Benjamin Franklin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the supercontinent that existed millions of years ago?",
+      "choices": [
+        "Eurasia",
+        "Pangaea",
+        "Gondwana",
+        "Laurasia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which element has the atomic number 1 and is the lightest element?",
+      "choices": [
+        "Helium",
+        "Hydrogen",
+        "Lithium",
+        "Beryllium"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the scientific term for the study of rocks and minerals?",
+      "choices": [
+        "Astronomy",
+        "Botany",
+        "Geology",
+        "Meteorology"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical process by which plants convert sunlight into stored energy?",
+      "choices": [
+        "Respiration",
+        "Photosynthesis",
+        "Fermentation",
+        "Combustion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many bones are found in the adult human body?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which element has the chemical symbol Ag and is commonly used in jewelry?",
+      "choices": [
+        "Gold",
+        "Aluminum",
+        "Silver",
+        "Copper"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. Civil War general famously said 'I came, I saw, I conquered' while crossing the Rubicon?",
+      "choices": [
+        "Julius Caesar",
+        "Abraham Lincoln",
+        "Robert E. Lee",
+        "Ulysses S. Grant"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What percentage of Earth's atmosphere is made up of nitrogen gas?",
+      "choices": [
+        "21%",
+        "45%",
+        "78%",
+        "92%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which inventor developed the telephone in the late 1870s?",
       "choices": [
         "Thomas Edison",
         "Alexander Graham Bell",
         "Nikola Tesla",
-        "Guglielmo Marconi"
+        "Benjamin Franklin"
       ],
       "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Alexander Graham Bell",
-        "verified": true,
-        "notes": "Disputes exist (Antonio Meucci, Elisha Gray); Bell received the U.S. patent."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "What chemical element has the symbol 'Au'?",
-      "choices": ["Aluminum", "Argon", "Gold", "Silver"],
+      "q": "What is the fastest land animal on Earth?",
+      "choices": [
+        "Lion",
+        "Greyhound",
+        "Cheetah",
+        "Pronghorn Antelope"
+      ],
       "correct": 2,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Gold",
-        "verified": true,
-        "notes": "From Latin 'aurum.'"
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "What chemical element has the symbol 'Ag'?",
-      "choices": ["Silver", "Argon", "Aluminum", "Gold"],
-      "correct": 0,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Ag",
-        "verified": true,
-        "notes": "From Latin 'argentum.'"
-      }
-    },
-    {
-      "q": "Approximately what gas makes up the largest portion of Earth's atmosphere (78%)?",
-      "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "q": "Which ancient empire constructed the Colosseum in Rome?",
+      "choices": [
+        "Greek Empire",
+        "Roman Empire",
+        "Persian Empire",
+        "Ottoman Empire"
+      ],
       "correct": 1,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Nitrogen",
-        "verified": true,
-        "notes": "Oxygen is about 21%; argon is about 1%."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "At what temperature in Celsius does water boil at sea level?",
-      "choices": ["50°C", "100°C", "150°C", "212°C"],
+      "q": "Which British Prime Minister led the country during World War II?",
+      "choices": [
+        "Neville Chamberlain",
+        "Winston Churchill",
+        "Clement Attlee",
+        "Stanley Baldwin"
+      ],
       "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "100°C",
-        "verified": true,
-        "notes": "212°F."
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "How many bones are in the typical adult human body?",
-      "choices": ["186", "206", "246", "300"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "206",
-        "verified": true,
-        "notes": "Babies are born with about 270; many fuse during childhood."
-      }
-    },
-    {
-      "q": "What is the powerhouse organelle of the cell?",
-      "choices": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
-      "correct": 1,
-      "category": "Middle School",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mitochondria",
-        "verified": true,
-        "notes": "Where ATP is produced via cellular respiration."
-      }
-    },
-    {
-      "q": "What is the process by which plants convert sunlight, water, and carbon dioxide into food?",
-      "choices": ["Respiration", "Transpiration", "Photosynthesis", "Pollination"],
+      "q": "How many colors are traditionally found in a rainbow?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
       "correct": 2,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Photosynthesis",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "medium"
     },
     {
-      "q": "In what year did the RMS Titanic sink on its maiden voyage?",
-      "choices": ["1900", "1912", "1925", "1939"],
+      "q": "In which year did World War II end?",
+      "choices": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. state is known for its beaches, citrus fruit, and major theme parks?",
+      "choices": [
+        "California",
+        "Texas",
+        "Florida",
+        "Hawaii"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest organ in the human body by mass?",
+      "choices": [
+        "Brain",
+        "Heart",
+        "Liver",
+        "Skin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country contains the Amazon Rainforest, home to roughly 10% of Earth's species?",
+      "choices": [
+        "Peru",
+        "Colombia",
+        "Brazil",
+        "Venezuela"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Florence Nightingale establish modern nursing practices during the Crimean War?",
+      "choices": [
+        "1842",
+        "1853",
+        "1865",
+        "1878"
+      ],
       "correct": 1,
-      "category": "Middle School",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Titanic",
-        "verified": true,
-        "notes": "Hit an iceberg April 14, 1912; sank early April 15."
-      }
+      "difficulty": "medium"
+    },
+    {
+      "q": "At what temperature in Celsius does water transition from liquid to gas?",
+      "choices": [
+        "50°C",
+        "75°C",
+        "100°C",
+        "125°C"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
     }
   ]
 }

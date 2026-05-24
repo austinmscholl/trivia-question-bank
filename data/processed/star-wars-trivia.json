@@ -1,185 +1,2867 @@
 {
   "slug": "star-wars-trivia",
   "name": "Star Wars",
-  "description": "A galaxy far, far away: characters, planets, and lightsabers",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.737Z",
   "questions": [
     {
-      "q": "According to his own boast, how many forms of communication is C-3PO fluent in?",
-      "choices": ["Over 1 million", "Over 3 million", "Over 6 million", "Over 9 million"],
+      "q": "Who's the golden droid fluent in six million ways to stress out?",
+      "choices": [
+        "Lando Calrissian",
+        "Rey",
+        "C3P0",
+        "Luke Skywalker"
+      ],
       "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "C3P0", "verified": true, "notes": "audit-corrected 2026-05-09: prefixed choices with 'Over' to match canonical line 'over six million forms of communication'. Built by a young Anakin Skywalker on Tatooine." }
+      "difficulty": "easy"
     },
     {
-      "q": "What color is Mace Windu's lightsaber, famously requested by actor Samuel L. Jackson?",
-      "choices": ["Blue", "Green", "Purple", "Red"],
-      "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Purple", "verified": true, "notes": "Jackson wanted to find himself in the crowded battle scenes." }
+      "q": "Who played the wrinkly Sith Lord who skipped moisturizer forever?",
+      "choices": [
+        "The Emperor",
+        "Chewbacca",
+        "Luke Skywalker",
+        "Lando Calrissian"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the snow creature that attacks Luke on the ice planet Hoth in 'The Empire Strikes Back'?",
-      "choices": ["Dewback", "Wampa", "Rancor", "Sarlacc"],
+      "q": "Who beeped his way into galactic fame as the little round droid?",
+      "choices": [
+        "R2D2",
+        "Mace Windu",
+        "Palpatine",
+        "Grogu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which space slug used to be planned as a dude in a vest?",
+      "choices": [
+        "Yoda",
+        "Kylo Ren",
+        "Jabba The Hutt",
+        "Finn"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which senator turned Sith Lord loves lightning and secret identities?",
+      "choices": [
+        "Han Solo",
+        "Princess Leia",
+        "General Grievous",
+        "Chancellor Palpatine"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color saber did Samuel L. Jackson personally request?",
+      "choices": [
+        "Han Solo",
+        "Purple",
+        "Boba Fett",
+        "Padme Amidala"
+      ],
       "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Wampa", "verified": true, "notes": "Native to Hoth. Luke escapes by using the Force to retrieve his lightsaber." }
+      "difficulty": "easy"
     },
     {
-      "q": "What creature does Han Solo cut open to keep Luke warm in freezing temperatures on Hoth?",
-      "choices": ["Bantha", "Dewback", "Tauntaun", "Reek"],
+      "q": "What fluffy beast doubled as Luke's emergency sleeping bag?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Padme Amidala",
+        "Chewbacca",
+        "Tauntaun"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coughing cyborg general snatched Palpatine?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Palpatine",
+        "Anakin Skywalker",
+        "General Grievous"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What Sith name did crispy Anakin go by after the fall?",
+      "choices": [
+        "Darth Vader",
+        "Lando Calrissian",
+        "Grogu",
+        "Palpatine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Sith alias sounds?",
+      "choices": [
+        "General Grievous",
+        "Princess Leia",
+        "Darth Sidious",
+        "Darth Vader"
+      ],
       "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Tauntaun", "verified": true, "notes": "Famous line: 'And I thought they smelled bad on the outside.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "What is Count Dooku's secret Sith alias?",
-      "choices": ["Darth Plagueis", "Darth Tyranus", "Darth Revan", "Darth Bane"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "hard",
-      "source": { "original_a": "Darth Tyranus", "verified": true, "notes": "Apprentice to Darth Sidious (Palpatine). Played by Christopher Lee." }
+      "q": "Which pointy-headed Jedi somehow stayed under the meme radar?",
+      "choices": [
+        "Ki-Adi-Mundi",
+        "Finn",
+        "Mace Windu",
+        "Jabba the Hutt"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "What is Emperor Palpatine's Sith name?",
-      "choices": ["Darth Vader", "Darth Sidious", "Darth Plagueis", "Darth Maul"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Darth Sidious", "verified": true, "notes": "Was Chancellor of the Galactic Republic, then Emperor of the Galactic Empire." }
-    },
-    {
-      "q": "In 'Attack of the Clones,' who severs Anakin Skywalker's right arm?",
-      "choices": ["Darth Maul", "General Grievous", "Count Dooku", "Asajj Ventress"],
+      "q": "Which stormtrooper does Luke cosplay as after the Falcon's capture?",
+      "choices": [
+        "Ahsoka Tano",
+        "Yoda",
+        "TK-421",
+        "Luke Skywalker"
+      ],
       "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Count Dooku", "verified": true, "notes": "During the duel on Geonosis. Dooku later has his head cut off by Anakin in Revenge of the Sith." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who rallies the rebels before the Death Star party?",
+      "choices": [
+        "Kylo Ren",
+        "Jan Dodonna",
+        "Anakin Skywalker",
+        "Princess Leia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who zaps Palpatine so hard he turns into a raisin?",
+      "choices": [
+        "Luke Skywalker",
+        "Mace Windu",
+        "R2-D2",
+        "C-3PO"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "Who fires the torpedo that destroys the Death Star in 'A New Hope'?",
-      "choices": ["Han Solo", "Wedge Antilles", "Luke Skywalker", "Biggs Darklighter"],
+      "choices": [
+        "Han Solo",
+        "Wedge Antilles",
+        "Luke Skywalker",
+        "Biggs Darklighter"
+      ],
       "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "easy",
-      "source": { "original_a": "Luke Skywalker", "verified": true, "notes": "Famous 'Use the Force, Luke' moment from Obi-Wan's spirit." }
-    },
-    {
-      "q": "Which bounty hunter confronts Han Solo in the Mos Eisley Cantina?",
-      "choices": ["Boba Fett", "Greedo", "Bossk", "IG-88"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Greedo", "verified": true, "notes": "Rodian bounty hunter working for Jabba. The 'Han shot first' debate lives here." }
-    },
-    {
-      "q": "Who adopts baby Leia at the end of 'Revenge of the Sith'?",
-      "choices": ["Owen Lars", "Bail Organa", "Mon Mothma", "Yoda"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Bail Organa", "verified": true, "notes": "Senator of Alderaan. Leia becomes Princess Leia Organa." }
-    },
-    {
-      "q": "What creatures kidnap R2-D2 on Tatooine in 'A New Hope'?",
-      "choices": ["Tusken Raiders", "Jawas", "Ewoks", "Gungans"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "The Jawas", "verified": true, "notes": "They then sell R2 and C-3PO to Owen Lars. Speak Jawaese, famously saying 'Utinni!'" }
-    },
-    {
-      "q": "As a slave child on Tatooine, who built C-3PO from scrap parts?",
-      "choices": ["Obi-Wan Kenobi", "Anakin Skywalker", "Han Solo", "Luke Skywalker"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Anakin", "verified": true, "notes": "Shown in 'The Phantom Menace.' Built to help his mother Shmi." }
-    },
-    {
-      "q": "Which cyborg general commands the Separatist droid army in 'Revenge of the Sith'?",
-      "choices": ["Grand Moff Tarkin", "General Grievous", "Admiral Ackbar", "Captain Phasma"],
-      "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "General Grievous", "verified": true, "notes": "Kaleesh origin. Voiced by Matthew Wood. Wields 4 lightsabers at once." }
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of Han Solo's ship, the 'fastest hunk of junk in the galaxy'?",
-      "choices": ["Ghost", "Millennium Falcon", "Razor Crest", "Ebon Hawk"],
+      "choices": [
+        "Ghost",
+        "Millennium Falcon",
+        "Razor Crest",
+        "Ebon Hawk"
+      ],
       "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "easy",
-      "source": { "original_a": "Han Solo", "verified": true, "notes": "Won from Lando Calrissian in a sabacc game. Made the Kessel Run in '12 parsecs.'" }
+      "difficulty": "easy"
     },
     {
       "q": "What is the home planet of Luke Skywalker?",
-      "choices": ["Naboo", "Coruscant", "Tatooine", "Dagobah"],
+      "choices": [
+        "Naboo",
+        "Coruscant",
+        "Tatooine",
+        "Dagobah"
+      ],
       "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "easy",
-      "source": { "original_a": "Owen", "verified": true, "notes": "Desert planet with two suns. Also Anakin's home." }
-    },
-    {
-      "q": "On which swamp planet does Yoda live in exile, training Luke?",
-      "choices": ["Hoth", "Endor", "Dagobah", "Kashyyyk"],
-      "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Yoda", "verified": true, "notes": "Where Luke sees the vision in the cave in 'Empire Strikes Back.'" }
-    },
-    {
-      "q": "In 'A New Hope,' which stormtrooper's armor does Luke wear while infiltrating the Death Star?",
-      "choices": ["TK-421", "FN-2187", "CT-7567", "TB-1138"],
-      "correct": 0,
-      "category": "Star Wars",
-      "difficulty": "hard",
-      "source": { "original_a": "TK-421", "verified": true, "notes": "FN-2187 became Finn in the sequel trilogy." }
-    },
-    {
-      "q": "Which actor physically portrayed Darth Vader in the original trilogy (the voice being James Earl Jones's)?",
-      "choices": ["Peter Mayhew", "Kenny Baker", "David Prowse", "Anthony Daniels"],
-      "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Darth Vader", "verified": true, "notes": "Prowse was a British bodybuilder. Never knew his voice would be dubbed." }
+      "difficulty": "easy"
     },
     {
       "q": "Which furry species of forest-dwellers help the Rebels defeat the Empire on Endor?",
-      "choices": ["Wookiees", "Jawas", "Ewoks", "Gungans"],
+      "choices": [
+        "Wookiees",
+        "Jawas",
+        "Ewoks",
+        "Gungans"
+      ],
       "correct": 2,
-      "category": "Star Wars",
-      "difficulty": "easy",
-      "source": { "original_a": "Luke Skywalker", "verified": true, "notes": "'Return of the Jedi' (1983). They worship C-3PO as a god." }
+      "difficulty": "easy"
     },
     {
-      "q": "Who played Chancellor Palpatine (and Emperor Palpatine) throughout the Star Wars film saga?",
-      "choices": ["Ian McDiarmid", "Christopher Lee", "Peter Cushing", "Max von Sydow"],
+      "q": "What is the name of Luke Skywalker's home planet?",
+      "choices": [
+        "Tatooine",
+        "Naboo",
+        "Alderaan",
+        "Endor"
+      ],
       "correct": 0,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "The Emperor", "verified": true, "notes": "Played Palpatine from 'Return of the Jedi' (1983) through 'The Rise of Skywalker' (2019)." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of Luke Skywalker's uncle, who raises him on Tatooine?",
-      "choices": ["Cliegg Lars", "Owen Lars", "Biggs Darklighter", "Ben Lars"],
+      "q": "Which character is Han Solo frozen in carbonite at the end of The Empire Strikes Back?",
+      "choices": [
+        "Luke Skywalker",
+        "Leia Organa",
+        "Han Solo",
+        "Chewbacca"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What species is Chewbacca?",
+      "choices": [
+        "Ewok",
+        "Wookiee",
+        "Gungan",
+        "Twi'lek"
+      ],
       "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "medium",
-      "source": { "original_a": "Owen", "verified": true, "notes": "Married to Aunt Beru. Step-brother to Anakin via marriage. Killed by stormtroopers." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Jedi Master trains Luke Skywalker in the original trilogy?",
+      "choices": [
+        "Yoda",
+        "Mace Windu",
+        "Qui-Gon Jinn",
+        "Obi-Wan Kenobi"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Han Solo's starship?",
+      "choices": [
+        "X-Wing",
+        "Millennium Falcon",
+        "TIE Fighter",
+        "Star Destroyer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is the forest moon where the Ewoks live?",
+      "choices": [
+        "Hoth",
+        "Dagobah",
+        "Endor",
+        "Mustafar"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Yoda's lightsaber?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Luke Skywalker's father?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker",
+        "Mace Windu",
+        "Qui-Gon Jinn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the droid that beeps and whistles throughout the original trilogy?",
+      "choices": [
+        "C-3PO",
+        "R2-D2",
+        "BB-8",
+        "K-2SO"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character says 'May the Force be with you'?",
+      "choices": [
+        "Only Jedi",
+        "Only Sith",
+        "Multiple characters across the films",
+        "Only Obi-Wan Kenobi"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary weapon of the Jedi Order?",
+      "choices": [
+        "Blaster",
+        "Lightsaber",
+        "Staff",
+        "Crossbow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is completely destroyed by the Death Star in A New Hope?",
+      "choices": [
+        "Tatooine",
+        "Alderaan",
+        "Naboo",
+        "Hoth"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What species is Jabba, the crime lord encountered in Return of the Jedi?",
+      "choices": [
+        "Rodian",
+        "Hutt",
+        "Sullustan",
+        "Mon Calamari"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Princess Leia's biological father?",
+      "choices": [
+        "Luke Skywalker",
+        "Han Solo",
+        "Anakin Skywalker",
+        "Obi-Wan Kenobi"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the ice planet where the Rebel Alliance establishes a base in The Empire Strikes Back?",
+      "choices": [
+        "Tatooine",
+        "Dagobah",
+        "Hoth",
+        "Bespin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character famously says 'I am your father'?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Darth Vader",
+        "Emperor Palpatine",
+        "Yoda"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Anakin Skywalker's Sith alter ego?",
+      "choices": [
+        "Count Dooku",
+        "Darth Maul",
+        "Darth Vader",
+        "Palpatine"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which alien species operates the pod racing competition on Tatooine?",
+      "choices": [
+        "Jawas",
+        "Gungans",
+        "Ewoks",
+        "Tusken Raiders"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Luke's Uncle who raises him on Tatooine?",
+      "choices": [
+        "Owen Lars",
+        "Anakin Skywalker",
+        "Obi-Wan Kenobi",
+        "Mace Windu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which film features the Battle of Endor with the Ewoks?",
+      "choices": [
+        "A New Hope",
+        "The Empire Strikes Back",
+        "Return of the Jedi",
+        "The Force Awakens"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Han Solo's iconic starship?",
+      "choices": [
+        "X-Wing Fighter",
+        "Millennium Falcon",
+        "TIE Fighter",
+        "Star Destroyer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is the ice-covered setting for The Empire Strikes Back?",
+      "choices": [
+        "Tatooine",
+        "Hoth",
+        "Dagobah",
+        "Endor"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Luke Skywalker's lightsaber in the original trilogy?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Purple"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the wise Jedi Master that trains Luke on Dagobah?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Count Dooku",
+        "Yoda",
+        "Mace Windu"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In A New Hope, what is the name of the evil galactic superweapon?",
+      "choices": [
+        "Star Destroyer",
+        "Death Star",
+        "Imperial Cruiser",
+        "TIE Fighter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which actor portrayed Darth Vader in the original trilogy films?",
+      "choices": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "David Prowse",
+        "James Earl Jones"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Princess Leia's home planet?",
+      "choices": [
+        "Naboo",
+        "Coruscant",
+        "Alderaan",
+        "Endor"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many main saga films are in the Skywalker series?",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Return of the Jedi, what species are the small furry creatures that help defeat the Empire?",
+      "choices": [
+        "Jawas",
+        "Ewoks",
+        "Wookiees",
+        "Gungans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Anakin Skywalker's wife in the prequel trilogy?",
+      "choices": [
+        "Ahsoka Tano",
+        "Padmé Amidala",
+        "Rey",
+        "Leia Organa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the bounty hunter who works for Darth Vader in The Empire Strikes Back?",
+      "choices": [
+        "Bossk",
+        "IG-88",
+        "Boba Fett",
+        "Cad Bane"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet is destroyed by the Death Star in A New Hope?",
+      "choices": [
+        "Mustafar",
+        "Alderaan",
+        "Scarif",
+        "Jedha"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Luke Skywalker's twin sister?",
+      "choices": [
+        "Ahsoka",
+        "Leia",
+        "Jyn",
+        "Sabine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the rank of Grand Moff Tarkin in the Empire?",
+      "choices": [
+        "Commander",
+        "General",
+        "Governor",
+        "Admiral"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which creature does Han Solo encounter in Cloud City that tries to attack him?",
+      "choices": [
+        "Rancor",
+        "Sarlacc",
+        "Mynock",
+        "Wampa"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the desert planet where Luke Skywalker grows up?",
+      "choices": [
+        "Geonosis",
+        "Tatooine",
+        "Jakku",
+        "Scarif"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who betrays the Jedi and helps Emperor Palpatine rise to power in Revenge of the Sith?",
+      "choices": [
+        "Count Dooku",
+        "Anakin Skywalker",
+        "Obi-Wan Kenobi",
+        "Yoda"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the mystical energy source that Jedi use to gain their powers?",
+      "choices": [
+        "The Dark Side",
+        "The Force",
+        "Midi-chlorians",
+        "The Dark Energy"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In The Empire Strikes Back, what happens to Han Solo at the end of the film?",
+      "choices": [
+        "He is frozen in carbonite",
+        "He is captured by the Empire",
+        "He escapes to the Outer Rim",
+        "He sacrifices himself to save Luke"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which desert planet does Luke Skywalker grow up?",
+      "choices": [
+        "Hoth",
+        "Bespin",
+        "Tatooine",
+        "Endor"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Darth Vader's real name before his transformation?",
+      "choices": [
+        "Anakin Skywalker",
+        "Obi-Wan Kenobi",
+        "Palpatine",
+        "Mace Windu"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does R2-D2 stand for?",
+      "choices": [
+        "Robot 2 Droid",
+        "It is not an acronym—just a designation",
+        "Repair 2 Digital",
+        "Robotic 2 Data"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Jedi Master trains Luke Skywalker on the swamp planet Dagobah?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Yoda",
+        "Mace Windu",
+        "Qui-Gon Jinn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Princess Leia's home planet?",
+      "choices": [
+        "Coruscant",
+        "Naboo",
+        "Alderaan",
+        "Endor"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who kills Mufasa—wait, we mean, who decapitates Jango Fett?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Mace Windu",
+        "Anakin Skywalker",
+        "Count Dooku"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What floating city in the clouds does Lando Calrissian rule?",
+      "choices": [
+        "Mos Eisley",
+        "Cloud City",
+        "Coruscant",
+        "Bespin Station"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which movie introduces the character Yoda for the first time?",
+      "choices": [
+        "A New Hope",
+        "The Empire Strikes Back",
+        "Return of the Jedi",
+        "The Phantom Menace"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the forest moon where the final battle occurs in Return of the Jedi?",
+      "choices": [
+        "Tatooine",
+        "Dagobah",
+        "Endor",
+        "Kashyyyk"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Anakin Skywalker's mother?",
+      "choices": [
+        "Padmé Amidala",
+        "Shmi Skywalker",
+        "Leia Organa",
+        "Mon Mothma"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Luke lose during his lightsaber duel with Darth Vader?",
+      "choices": [
+        "His leg",
+        "His hand",
+        "His arm",
+        "His eye"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which stormtrooper disguise does Luke use to infiltrate the Death Star?",
+      "choices": [
+        "TK-421",
+        "CT-5555",
+        "BB-8",
+        "FN-2187"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Sith Lord who rules the Empire in the original trilogy?",
+      "choices": [
+        "Count Dooku",
+        "Darth Maul",
+        "Emperor Palpatine",
+        "General Grievous"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the gunslinger character that travels with Luke and Obi-Wan?",
+      "choices": [
+        "Lando Calrissian",
+        "Han Solo",
+        "Boba Fett",
+        "Cad Bane"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What creature does Chewbacca belong to the species of?",
+      "choices": [
+        "Ewok",
+        "Wookiee",
+        "Tusken Raider",
+        "Gungan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In A New Hope, what is the name of the first Death Star's weakness that allows Luke to destroy it?",
+      "choices": [
+        "A thermal exhaust port",
+        "A shield generator",
+        "A power core",
+        "A command center"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year was the original Star Wars film (A New Hope) released?",
+      "choices": [
+        "1975",
+        "1977",
+        "1979",
+        "1980"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the ice planet where the Rebel Alliance establishes their base in 'The Empire Strikes Back'?",
+      "choices": [
+        "Dagobah",
+        "Hoth",
+        "Endor",
+        "Bespin"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character gives Luke Skywalker his father's lightsaber in 'A New Hope'?",
+      "choices": [
+        "Yoda",
+        "Obi-Wan Kenobi",
+        "Mace Windu",
+        "Qui-Gon Jinn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Han Solo's ship?",
+      "choices": [
+        "X-Wing Fighter",
+        "Millennium Falcon",
+        "TIE Fighter",
+        "Star Destroyer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which actor portrayed Darth Vader in the original trilogy?",
+      "choices": [
+        "Mark Hamill",
+        "Harrison Ford",
+        "David Prowse",
+        "James Earl Jones"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many eyes does Jabba the Hutt have?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is R2-D2's primary function?",
+      "choices": [
+        "Protocol droid",
+        "Astromech droid",
+        "Battle droid",
+        "Medical droid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On which planet do Luke Skywalker's aunt and uncle live?",
+      "choices": [
+        "Naboo",
+        "Coruscant",
+        "Tatooine",
+        "Geonosis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Mace Windu's lightsaber?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Purple",
+        "Green"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character is revealed to be Leia Organa's biological father?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker",
+        "Han Solo",
+        "Bail Organa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the forest moon where the final battle of 'Return of the Jedi' takes place?",
+      "choices": [
+        "Kashyyyk",
+        "Dagobah",
+        "Endor",
+        "Tatooine"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many films comprise the original Star Wars trilogy released between 1977 and 1983?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is C-3PO's primary specialization?",
+      "choices": [
+        "Starship repair",
+        "Protocol and languages",
+        "Military strategy",
+        "Medical diagnosis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the original Star Wars trilogy, what is the name of the small droid that carries the Death Star plans and accompanies Luke throughout his journey?",
+      "choices": [
+        "C-3PO",
+        "R2-D2",
+        "BB-8",
+        "K-2SO"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who raised Luke on sand and disappointment?",
+      "choices": [
+        "Padme Amidala",
+        "C-3PO",
+        "Rey",
+        "Owen"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who played the only Jedi bold enough to rock a purple saber?",
+      "choices": [
+        "Mace Windu",
+        "Lando Calrissian",
+        "Kylo Ren",
+        "Grogu"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which slimy villain was originally meant to be human?",
+      "choices": [
+        "Boba Fett",
+        "Jabba The Hutt",
+        "Kylo Ren",
+        "Grogu"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who adopts baby Leia after Padmé's tearjerker exit?",
+      "choices": [
+        "Bail Organa",
+        "Mace Windu",
+        "Palpatine",
+        "Luke Skywalker"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who built C3P0 out of spare parts and childhood innocence?",
+      "choices": [
+        "Boba Fett",
+        "Anakin",
+        "Chewbacca",
+        "Princess Leia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who zapped and kidnapped the droids on Tatooine?",
+      "choices": [
+        "Jabba the Hutt",
+        "The Jawas",
+        "C-3PO",
+        "Kylo Ren"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Count Dooku's secret Sith alias?",
+      "choices": [
+        "Darth Plagueis",
+        "Darth Tyranus",
+        "Darth Revan",
+        "Darth Bane"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'A New Hope,' which stormtrooper's armor does Luke wear while infiltrating the Death Star?",
+      "choices": [
+        "TK-421",
+        "FN-2187",
+        "CT-7567",
+        "TB-1138"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
     },
     {
       "q": "Who was originally meant to be a human character before being reimagined as a giant slug-like alien?",
-      "choices": ["Boba Fett", "Jabba the Hutt", "Greedo", "Jawa"],
+      "choices": [
+        "Boba Fett",
+        "Jabba the Hutt",
+        "Greedo",
+        "Jawa"
+      ],
       "correct": 1,
-      "category": "Star Wars",
-      "difficulty": "hard",
-      "source": { "original_a": "Jabba The Hutt", "verified": true, "notes": "Originally filmed with actor Declan Mulholland in a vest, but the scene was cut from 'A New Hope.'" }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Empire Strikes Back, what is the exact atmospheric designation of Cloud City that Lando reveals to Han Solo?",
+      "choices": [
+        "Bespin Gas Giant, Platform 327",
+        "Bespin, a gas giant in the Anoat sector",
+        "Bespin Station, Cloud Layer 9",
+        "Bespin Mining Colony, Sector 12"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrayed General Grievous in both Attack of the Clones and Revenge of the Sith through motion capture and voice acting?",
+      "choices": [
+        "Ian McDiarmid",
+        "Matthew Wood",
+        "David Benioff",
+        "Joel Edgerton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Ewok village elder who initially sentences Han, Luke, and Chewie to execution in Return of the Jedi?",
+      "choices": [
+        "Chief Chirpa",
+        "Logray",
+        "Teebo",
+        "Paploo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Revenge of the Sith, on which Jedi temple's steps does Anakin kill younglings during Order 66?",
+      "choices": [
+        "The Jedi Archives on Coruscant",
+        "The Jedi Temple's main entrance on Coruscant",
+        "The Jedi Sanctuary on Kashyyyk",
+        "The Jedi Vault on Ilum"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the working title for Return of the Jedi before Lucasfilm decided on the final name?",
+      "choices": [
+        "Blue Harvest",
+        "Revenge of the Jedi",
+        "The Jedi's Return",
+        "The Last Battle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actress played Padmé Amidala's handmaiden Sabé, who posed as the Queen in The Phantom Menace?",
+      "choices": [
+        "Keira Knightley",
+        "Natalie Portman",
+        "Bonnie Piesse",
+        "Amy Allen"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Phantom Menace, what is Anakin Skywalker's precise Midichlorian count as measured by the Jedi Council?",
+      "choices": [
+        "Over 15,000",
+        "Around 12,000",
+        "Approximately 20,000",
+        "Nearly 18,000"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What species is Admiral Ackbar, the Mon Calamari commander of the Rebel Alliance fleet in Return of the Jedi?",
+      "choices": [
+        "Quarren",
+        "Mon Calamari",
+        "Sullustan",
+        "Bothan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sith Lord does Obi-Wan Kenobi face in a lightsaber duel on Naboo in The Phantom Menace?",
+      "choices": [
+        "Darth Maul",
+        "Count Dooku",
+        "General Grievous",
+        "Asajj Ventress"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Attack of the Clones, what is the name of the droid factory planet where the Clone Army is manufactured?",
+      "choices": [
+        "Geonosis",
+        "Mustafar",
+        "Kamino",
+        "Utapau"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the registration number of the Millennium Falcon as displayed in A New Hope?",
+      "choices": [
+        "SW-0001",
+        "YT-1300 492727ZED",
+        "SW-1977",
+        "FF-0098"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Empire Strikes Back, what creature does Han Solo hide the Millennium Falcon inside of on an asteroid field?",
+      "choices": [
+        "A space slug",
+        "An exogorth",
+        "A mynock swarm",
+        "An asteroid creature"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Jedi Master's lightsaber does Luke Skywalker recover from a cyborg arm in Cloud City?",
+      "choices": [
+        "Obi-Wan Kenobi's",
+        "Anakin Skywalker's",
+        "Yoda's",
+        "Mace Windu's"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Jabba the Hutt's major-domo, the beaked alien majordomo who stands beside him in Return of the Jedi?",
+      "choices": [
+        "Bib Fortuna",
+        "Salacious Crumb",
+        "8D8",
+        "Ponda Baba"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Revenge of the Sith, what is the name of the Wookiee homeworld where Yoda fights Clone Troopers?",
+      "choices": [
+        "Kashyyyk",
+        "Mustafar",
+        "Utapau",
+        "Mygeeto"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer, known for iconic film scores, created the original Star Wars theme and all prequel trilogy music?",
+      "choices": [
+        "Hans Zimmer",
+        "John Williams",
+        "Jerry Goldsmith",
+        "Michael Giacchino"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Attack of the Clones, what is the name of the clone template—the original Mandalorian bounty hunter whose DNA was used for all clones?",
+      "choices": [
+        "Boba Fett",
+        "Jango Fett",
+        "Cad Bane",
+        "Aurra Sing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Imperial officer who betrays the Rebellion's location on Hoth in The Empire Strikes Back?",
+      "choices": [
+        "General Maximilian Veers",
+        "Admiral Ozzel",
+        "Commander Needa",
+        "Captain Khurgee"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In A New Hope, what are the exact coordinates of the Death Star's weakness that the Rebels exploit in the final trench run?",
+      "choices": [
+        "North Pole thermal exhaust port",
+        "Thermal exhaust port leading directly to the main reactor",
+        "Deflection shield generators on the north ridge",
+        "Main power generator at sector 7G"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which creature species does Yoda belong to, a species whose full name is never officially revealed in the original trilogy?",
+      "choices": [
+        "Dagobahn",
+        "Jedi species",
+        "An unnamed humanoid species native to Dagobah",
+        "Yaddle's kind"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Empire Strikes Back, what is the three-word phrase that Lando uses to betray Han Solo to Darth Vader?",
+      "choices": [
+        "I am sorry",
+        "He's no good to me dead",
+        "I had no choice",
+        "This is regrettable"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Clone Wars veteran did Anakin Skywalker execute in the Jedi Temple during Order 66?",
+      "choices": [
+        "Ki-Adi-Mundi",
+        "Stass Allie",
+        "Jaro Tapal",
+        "Coleman Kcaj"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Ewok village leader who befriends Luke Skywalker in Return of the Jedi?",
+      "choices": [
+        "Teebo",
+        "Chief Chirpa",
+        "Logray",
+        "Paploo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Attack of the Clones, on which Separatist-controlled planet does Anakin first meet with Count Dooku?",
+      "choices": [
+        "Geonosis",
+        "Mustafar",
+        "Utapau",
+        "Hypori"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the spice that makes the Kessel Run famous and profitable in the Star Wars universe?",
+      "choices": [
+        "Coaxium",
+        "Glitterstim",
+        "Andris",
+        "Ryll"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Jedi Master serves as the Supreme Chancellor's bodyguard and has a personal vendetta against Palpatine?",
+      "choices": [
+        "Yoda",
+        "Mace Windu",
+        "Ki-Adi-Mundi",
+        "Agen Kolar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the designation of the first Death Star's primary laser targeting system in A New Hope?",
+      "choices": [
+        "Superlaser array",
+        "Primary weapon system",
+        "Meridian targeting array",
+        "Primary ignition sequence"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Phantom Menace, what species is Sebulba, Anakin's rival in the podrace?",
+      "choices": [
+        "Toong",
+        "Dug",
+        "Neimodian",
+        "Nemoidian"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Imperial officer commands the Star Destroyer that pursues Leia's vessel at the beginning of A New Hope?",
+      "choices": [
+        "Admiral Ozzel",
+        "General Veers",
+        "Captain Needa",
+        "Captain Khurgee"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the bounty hunter known as Jango Fett in Attack of the Clones?",
+      "choices": [
+        "Jango Fett",
+        "Tor Vizsla",
+        "Pre Vizsla",
+        "Boba Fett"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Empire Strikes Back, which Rebel base does the Galactic Empire locate and attack at the film's midpoint?",
+      "choices": [
+        "Yavin 4",
+        "Hoth",
+        "Endor",
+        "Dagobah"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the nightclub in Mos Eisley where Obi-Wan meets Han Solo?",
+      "choices": [
+        "The Cantina",
+        "Chalmun's Spaceport Cantina",
+        "The Mos Eisley Tavern",
+        "The Spaceport Bar"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which senator from Naboo becomes Anakin Skywalker's secret wife in Attack of the Clones?",
+      "choices": [
+        "Sabe",
+        "Jar Jar Binks",
+        "Padmé Amidala",
+        "Pooja Naberrie"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specialized craft does Han Solo pilot to escape the Empire at the end of The Empire Strikes Back?",
+      "choices": [
+        "X-Wing Starfighter",
+        "TIE Bomber",
+        "Cloud Car",
+        "Slave I"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Return of the Jedi, what is the name of the Rebel Alliance's flagship during the final battle?",
+      "choices": [
+        "Executor",
+        "Mon Mothma",
+        "Home One",
+        "Admiral Ackbar"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Jedi Master trained Anakin Skywalker as his apprentice in the prequel trilogy?",
+      "choices": [
+        "Yoda",
+        "Obi-Wan Kenobi",
+        "Mace Windu",
+        "Ki-Adi-Mundi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In A New Hope, what is the name of the desert planet where Luke Skywalker grows up?",
+      "choices": [
+        "Tatooine",
+        "Geonosis",
+        "Scarif",
+        "Jakku"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Imperial general leads the assault on the Rebel base on Hoth in The Empire Strikes Back?",
+      "choices": [
+        "Admiral Ackbar",
+        "General Veers",
+        "Captain Needa",
+        "Admiral Ozzel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the ancient Sith Lord whose tomb is discovered in The Force Awakens expanded materials?",
+      "choices": [
+        "Darth Krayt",
+        "Darth Nihilus",
+        "Darth Plagueis",
+        "Darth Revan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Revenge of the Sith, on which volcanic planet does the final lightsaber duel between Anakin and Obi-Wan take place?",
+      "choices": [
+        "Geonosis",
+        "Mustafar",
+        "Utapau",
+        "Kashyyyk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Empire Strikes Back,' what is the name of the ice cave creature that Luke encounters on Hoth before discovering it is actually the Millennium Falcon?",
+      "choices": [
+        "Wampa",
+        "Tauntaun",
+        "Mynock",
+        "Rancor"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrayed Grand Admiral Thrawn in the live-action 'Ahsoka' series released in 2023?",
+      "choices": [
+        "Lars Mikkelsen",
+        "Mark Hamill",
+        "Giancarlo Esposito",
+        "Andy Serkis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On which moon does the climactic battle of 'Return of the Jedi' take place, featuring the shield generator and Ewok forces?",
+      "choices": [
+        "Endor",
+        "Yavin",
+        "Dagobah",
+        "Scarif"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the real name of the character known as Darth Maul before his fall to the dark side?",
+      "choices": [
+        "Maul",
+        "Darth Sidious",
+        "Savage Opress",
+        "Assajj Ventress"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Attack of the Clones,' what is the name of the clone template from whom all clone troopers are created?",
+      "choices": [
+        "Jango Fett",
+        "Boba Fett",
+        "Cad Bane",
+        "Aurra Sing"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sith Lord is revealed to be Anakin Skywalker's biological father through midi-chlorian manipulation?",
+      "choices": [
+        "Darth Plagueis",
+        "Darth Maul",
+        "Count Dooku",
+        "Darth Krayt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the designation of the clone trooper who serves as commander of the 501st Legion under Anakin Skywalker?",
+      "choices": [
+        "CT-5555",
+        "CT-5552",
+        "CT-5556",
+        "CT-5554"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original trilogy, which Imperial officer commands the Star Destroyer 'Executor'?",
+      "choices": [
+        "Admiral Piett",
+        "General Veers",
+        "Moff Jerjerrod",
+        "Commander Cody"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Ewok village chieftain who befriends Luke and Han in 'Return of the Jedi'?",
+      "choices": [
+        "Chief Chirpa",
+        "Teebo",
+        "Wicket",
+        "Logray"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which extinct Force-sensitive species created the ancient Jedi temples and artifacts studied by the Jedi Order?",
+      "choices": [
+        "The Builders",
+        "The Architects",
+        "The Celestials",
+        "The First Ones"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Phantom Menace,' what is the name of the podrace commentator with the distinctive two-headed appearance?",
+      "choices": [
+        "Fode and Beed",
+        "Watto",
+        "Sebulba",
+        "Dud Bolt"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Han Solo's Wookiee co-pilot and first mate aboard the Millennium Falcon?",
+      "choices": [
+        "Chewbacca",
+        "Tarfful",
+        "Lowbacca",
+        "Ralrracheen"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrays Din Djarin, the protagonist of 'The Mandalorian' series?",
+      "choices": [
+        "Pedro Pascal",
+        "Oscar Isaac",
+        "Adam Driver",
+        "Oscar Issac"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Force-sensitive artifact that Moff Gideon wields in 'The Mandalorian' finale?",
+      "choices": [
+        "Darksaber",
+        "Nightsister blade",
+        "Praetorian guard weapon",
+        "Beskar spear"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'Revenge of the Sith,' on which lava planet does Anakin Skywalker battle Obi-Wan Kenobi?",
+      "choices": [
+        "Mustafar",
+        "Tatooine",
+        "Geonosis",
+        "Utapau"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Bounty Hunters' Guild contact who employs Din Djarin throughout 'The Mandalorian'?",
+      "choices": [
+        "Peli Motto",
+        "Greef Karga",
+        "Cara Dune",
+        "Moff Gideon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character is revealed to be the biological daughter of Din Djarin and Omera in 'The Mandalorian' expanded canon?",
+      "choices": [
+        "Grogu does not have a biological daughter revealed",
+        "Moff Gideon's daughter",
+        "A clone created by Imperial remnants",
+        "A Force-sensitive orphan from Tatooine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Book of Boba Fett,' which character returns as a major antagonist seeking revenge against the crime syndicates of Tatooine?",
+      "choices": [
+        "Boba Fett",
+        "Din Djarin",
+        "Cad Bane",
+        "Fennec Shand"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the official designation of the clone army created on Kamino to serve the Galactic Republic?",
+      "choices": [
+        "Grand Army of the Republic",
+        "Imperial Stormtrooper Corps",
+        "Clone Trooper Legion",
+        "Republic Defense Force"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Empire Strikes Back, what is the designated designation of the trash compactor on the Death Star that nearly kills our heroes?",
+      "choices": [
+        "3263827",
+        "2847391",
+        "4729183",
+        "5184629"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrayed Bail Organa, Leia's adoptive father, in the prequel trilogy?",
+      "choices": [
+        "Jimmy Smits",
+        "Samuel L. Jackson",
+        "Terence Stamp",
+        "Christopher Lee"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In A Phantom Menace reference that contradicts established canon, which celestial body is mistakenly listed as a moon of Naboo on a star chart?",
+      "choices": [
+        "Endor",
+        "Tatooine",
+        "Geonosis",
+        "Mustafar"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Count Dooku's Sith title, which also serves as his official dark side alias?",
+      "choices": [
+        "Darth Tyranus",
+        "Darth Sidious",
+        "Darth Maul",
+        "Darth Plagueis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many parsecs does Han Solo claim the Millennium Falcon completed the Kessel Run in during the original film?",
+      "choices": [
+        "12",
+        "15",
+        "10",
+        "8"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Jedi Master executes Jango Fett with his lightsaber on Geonosis?",
+      "choices": [
+        "Mace Windu",
+        "Kit Fisto",
+        "Ki-Adi-Mundi",
+        "Plo Koon"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On which volcanic planet does Obi-Wan confront Anakin Skywalker after his fall to the dark side?",
+      "choices": [
+        "Mustafar",
+        "Coruscant",
+        "Kashyyyk",
+        "Utapau"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Return of the Jedi, on which forest moon is the shield generator for the second Death Star located?",
+      "choices": [
+        "Endor",
+        "Dagobah",
+        "Scarif",
+        "Wobani"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor provided the original voice for Darth Maul in The Phantom Menace?",
+      "choices": [
+        "Peter Serafinowicz",
+        "Ian McDiarmid",
+        "Andrew Secombe",
+        "Mark Hamill"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What species are the native inhabitants of Endor who assist the Rebellion in Return of the Jedi?",
+      "choices": [
+        "Ewoks",
+        "Jawas",
+        "Gungans",
+        "Tusken Raiders"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Attack of the Clones, which mining colony does Anakin Skywalker discover enslaved his mother?",
+      "choices": [
+        "Tatooine",
+        "Geonosis",
+        "Ryloth",
+        "Dantooine"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which droid does Princess Leia entrust with the Death Star plans at the beginning of A New Hope?",
+      "choices": [
+        "R2-D2",
+        "C-3PO",
+        "BB-8",
+        "K-2SO"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the cloud city that Lando Calrissian administers in The Empire Strikes Back?",
+      "choices": [
+        "Cloud City",
+        "Bespin Station",
+        "Lando's Refuge",
+        "Floating Citadel"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Revenge of the Sith, above which planet does the opening space battle sequence take place?",
+      "choices": [
+        "Coruscant",
+        "Geonosis",
+        "Mustafar",
+        "Kashyyyk"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which member of the original trilogy cast won an Academy Award for Best Supporting Actress?",
+      "choices": [
+        "Carrie Fisher",
+        "Alec Guinness",
+        "Peter Mayhew",
+        "Denis Lawson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Yoda's primary method of teaching Luke Skywalker about the Force on Dagobah?",
+      "choices": [
+        "Practical trials and riddles",
+        "Holographic lectures",
+        "Ancient texts and scrolls",
+        "Meditation chambers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In The Empire Strikes Back, which bounty hunter successfully freezes Han Solo in carbonite?",
+      "choices": [
+        "Boba Fett",
+        "Jango Fett",
+        "Bossk",
+        "IG-88"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrays Anakin Skywalker in the prequel trilogy films?",
+      "choices": [
+        "Hayden Christensen",
+        "Mark Hamill",
+        "David Prowse",
+        "Jake Lloyd"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Return of the Jedi, what disguise does Princess Leia adopt to infiltrate Jabba the Hutt's palace?",
+      "choices": [
+        "Bounty hunter",
+        "Cargo inspector",
+        "Diplomatic envoy",
+        "Palace dancer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Wookiee homeworld where Order 66 results in a tragic confrontation in Revenge of the Sith?",
+      "choices": [
+        "Kashyyyk",
+        "Mustafar",
+        "Ryloth",
+        "Felucia"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who played the loyal fuzzball with a growl and a big heart?",
+      "choices": [
+        "Han Solo",
+        "Chewbacca",
+        "Count Dooku",
+        "Yoda"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who rocked a cape and charisma as Lando?",
+      "choices": [
+        "Lando Calrissian",
+        "Princess Leia",
+        "Mace Windu",
+        "Jabba the Hutt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who wore the Vader suit?",
+      "choices": [
+        "Darth Vader",
+        "Yoda",
+        "Princess Leia",
+        "C-3PO"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who's the blaster-toting rogue with serious nerf-herder vibes?",
+      "choices": [
+        "Mace Windu",
+        "Han Solo",
+        "Luke Skywalker",
+        "Count Dooku"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who's the Jedi farm boy with family drama and a surprising kiss?",
+      "choices": [
+        "Darth Vader",
+        "Han Solo",
+        "Luke Skywalker",
+        "Count Dooku"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who voiced the horned Sith with major anger issues?",
+      "choices": [
+        "Kylo Ren",
+        "Darth Maul",
+        "Han Solo",
+        "R2-D2"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who played the Jedi master with the ultimate high ground?",
+      "choices": [
+        "Anakin Skywalker",
+        "Padme Amidala",
+        "Yoda",
+        "Obi-Wan Kenobi"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What snow beast treated Luke?",
+      "choices": [
+        "Wampa",
+        "Obi-Wan Kenobi",
+        "Darth Vader",
+        "Han Solo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What did Luke do with Vader's armor in a dramatic campfire goodbye?",
+      "choices": [
+        "Jabba the Hutt",
+        "Padme Amidala",
+        "Burns It",
+        "Mace Windu"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What's Count Dooku's stage name?",
+      "choices": [
+        "Palpatine",
+        "General Grievous",
+        "Darth Tyranus",
+        "Han Solo"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to his own boast, how many forms of communication is C-3PO fluent in?",
+      "choices": [
+        "1 million",
+        "3 million",
+        "6 million",
+        "9 million"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is Mace Windu's lightsaber, famously requested by actor Samuel L. Jackson?",
+      "choices": [
+        "Blue",
+        "Green",
+        "Purple",
+        "Red"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the snow creature that attacks Luke on the ice planet Hoth in 'The Empire Strikes Back'?",
+      "choices": [
+        "Dewback",
+        "Wampa",
+        "Rancor",
+        "Sarlacc"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What creature does Han Solo cut open to keep Luke warm in freezing temperatures on Hoth?",
+      "choices": [
+        "Bantha",
+        "Dewback",
+        "Tauntaun",
+        "Reek"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Emperor Palpatine's Sith name?",
+      "choices": [
+        "Darth Vader",
+        "Darth Sidious",
+        "Darth Plagueis",
+        "Darth Maul"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Attack of the Clones,' who severs Anakin Skywalker's right arm?",
+      "choices": [
+        "Darth Maul",
+        "General Grievous",
+        "Count Dooku",
+        "Asajj Ventress"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bounty hunter confronts Han Solo in the Mos Eisley Cantina?",
+      "choices": [
+        "Boba Fett",
+        "Greedo",
+        "Bossk",
+        "IG-88"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who adopts baby Leia at the end of 'Revenge of the Sith'?",
+      "choices": [
+        "Owen Lars",
+        "Bail Organa",
+        "Mon Mothma",
+        "Yoda"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What creatures kidnap R2-D2 on Tatooine in 'A New Hope'?",
+      "choices": [
+        "Tusken Raiders",
+        "Jawas",
+        "Ewoks",
+        "Gungans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "As a slave child on Tatooine, who built C-3PO from scrap parts?",
+      "choices": [
+        "Obi-Wan Kenobi",
+        "Anakin Skywalker",
+        "Han Solo",
+        "Luke Skywalker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cyborg general commands the Separatist droid army in 'Revenge of the Sith'?",
+      "choices": [
+        "Grand Moff Tarkin",
+        "General Grievous",
+        "Admiral Ackbar",
+        "Captain Phasma"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which swamp planet does Yoda live in exile, training Luke?",
+      "choices": [
+        "Hoth",
+        "Endor",
+        "Dagobah",
+        "Kashyyyk"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which actor physically portrayed Darth Vader in the original trilogy (the voice being James Earl Jones's)?",
+      "choices": [
+        "Peter Mayhew",
+        "Kenny Baker",
+        "David Prowse",
+        "Anthony Daniels"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who played Chancellor Palpatine (and Emperor Palpatine) throughout the Star Wars film saga?",
+      "choices": [
+        "Ian McDiarmid",
+        "Christopher Lee",
+        "Peter Cushing",
+        "Max von Sydow"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Luke Skywalker's uncle, who raises him on Tatooine?",
+      "choices": [
+        "Cliegg Lars",
+        "Owen Lars",
+        "Biggs Darklighter",
+        "Ben Lars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Star Wars film does Anakin Skywalker lose his arm to Count Dooku during a lightsaber duel?",
+      "choices": [
+        "The Phantom Menace",
+        "Attack of the Clones",
+        "Revenge of the Sith",
+        "A New Hope"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the bounty hunter who is frozen in carbonite at the end of The Empire Strikes Back?",
+      "choices": [
+        "Boba Fett",
+        "Han Solo",
+        "Lando Calrissian",
+        "Cad Bane"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Jedi Master wields a purple lightsaber and confronts Chancellor Palpatine in his office?",
+      "choices": [
+        "Yoda",
+        "Obi-Wan Kenobi",
+        "Mace Windu",
+        "Ki-Adi-Mundi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What desert planet is the home world of Luke Skywalker and Anakin Skywalker's mother?",
+      "choices": [
+        "Geonosis",
+        "Tatooine",
+        "Mustafar",
+        "Jakku"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Return of the Jedi, what species are the inhabitants of the forest moon of Endor who aid the Rebellion?",
+      "choices": [
+        "Ewoks",
+        "Jawas",
+        "Gungans",
+        "Wookiees"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the spice that is mined on the desert planet Arrakis and is highly sought after in the Star Wars universe?",
+      "choices": [
+        "Tibanna gas",
+        "Kessel spice",
+        "Corellia extract",
+        "Beskar ore"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character serves as the Supreme Leader of the First Order in the sequel trilogy?",
+      "choices": [
+        "General Hux",
+        "Kylo Ren",
+        "Snoke",
+        "Captain Phasma"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Han Solo's Millennium Falcon co-pilot, a Wookiee from Kashyyyk?",
+      "choices": [
+        "Chewbacca",
+        "Wookiee warrior",
+        "Tarfful",
+        "Lowbacca"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Phantom Menace, what is the name of the underwater city where Jar Jar Binks originates?",
+      "choices": [
+        "Otoh Gunga",
+        "Naboo Palace",
+        "Theed",
+        "Gungan Plains"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sith Lord appears as a hologram to give orders to Darth Vader throughout the original trilogy?",
+      "choices": [
+        "Darth Maul",
+        "Count Dooku",
+        "Emperor Palpatine",
+        "Darth Krayt"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the ice planet where the Rebel Alliance establishes a base in The Empire Strikes Back?",
+      "choices": [
+        "Hoth",
+        "Bespin",
+        "Endor",
+        "Starkiller Base"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the ancient Jedi temple that serves as the seat of the Jedi Order on Coruscant?",
+      "choices": [
+        "Jedi Enclave",
+        "Jedi Temple",
+        "Temple of Light",
+        "Senate Building"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is revealed to be Anakin Skywalker's father through the Force in The Empire Strikes Back?",
+      "choices": [
+        "Count Dooku",
+        "Obi-Wan Kenobi",
+        "Darth Vader",
+        "Emperor Palpatine"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Attack of the Clones, what is the name of the clone army created for the Republic on the planet Kamino?",
+      "choices": [
+        "Stormtrooper Legion",
+        "Clone Troopers",
+        "Imperial Army",
+        "Droid Army"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the criminal organization led by Jabba the Hutt in The Return of the Jedi?",
+      "choices": [
+        "The Spice Syndicate",
+        "Black Sun",
+        "Jabba's Palace Gang",
+        "The Hutt Cartel"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Academy-trained starfighter pilot becomes the lead member of Rogue Squadron and later a general in the Rebellion?",
+      "choices": [
+        "Wedge Antilles",
+        "Biggs Darklighter",
+        "Porkins",
+        "Derek Klivian"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Force Awakens, what is the name of the desert planet where Rey meets Luke Skywalker's lightsaber?",
+      "choices": [
+        "Tatooine",
+        "Jakku",
+        "Scarif",
+        "Pasaana"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the acronym AT-AT stand for in the context of Imperial war machines?",
+      "choices": [
+        "Advanced Tactical Attack Transport",
+        "All Terrain Armored Transport",
+        "Armored Turbo Attack Truck",
+        "Advanced Terrain Artillery Tank"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet serves as the capital world of the Galactic Republic and later the Galactic Empire?",
+      "choices": [
+        "Naboo",
+        "Coruscant",
+        "Chandrila",
+        "Alderaan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'A New Hope,' what is the name of the spaceport on Tatooine where Luke and Obi-Wan first meet Han Solo?",
+      "choices": [
+        "Mos Eisley",
+        "Mos Entha",
+        "Anchorhead",
+        "Beggar's Canyon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet serves as the hidden base for the Rebel Alliance in 'The Empire Strikes Back'?",
+      "choices": [
+        "Dagobah",
+        "Hoth",
+        "Bespin",
+        "Endor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Han Solo's Wookiee co-pilot?",
+      "choices": [
+        "Wookiee",
+        "Chewbacca",
+        "Tarfful",
+        "Salacious Crumb"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Phantom Menace,' what is the name of the young slave boy who becomes Anakin Skywalker?",
+      "choices": [
+        "Anakin Lars",
+        "Anakin Cloudrunner",
+        "Anakin Skywalker",
+        "This is a trick—he was never a slave"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What bounty hunter does Jabba the Hutt employ to capture Han Solo in 'Return of the Jedi'?",
+      "choices": [
+        "Boba Fett",
+        "Cad Bane",
+        "Aurra Sing",
+        "Bossk"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Attack of the Clones,' what is the designation of the clone army created for the Republic?",
+      "choices": [
+        "Clone Force 99",
+        "The Grand Army of the Republic",
+        "Stormtroopers",
+        "Imperial Legion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is revealed to be Luke and Leia's father in 'The Empire Strikes Back'?",
+      "choices": [
+        "Anakin Skywalker",
+        "Mace Windu",
+        "Darth Vader",
+        "The Emperor"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the droid protocol expert who accompanies Chewbacca throughout most of the original trilogy?",
+      "choices": [
+        "C-3PO",
+        "R2-D2",
+        "BB-8",
+        "K-2SO"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the prequel films, what is Padmé Amidala's primary title before she becomes a senator?",
+      "choices": [
+        "Queen of Naboo",
+        "Princess of Naboo",
+        "Duchess of Theed",
+        "Governor of the Core"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sith Lord is Anakin Skywalker's master in 'Revenge of the Sith'?",
+      "choices": [
+        "Count Dooku",
+        "Darth Sidious",
+        "Darth Maul",
+        "General Grievous"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Luke Skywalker's moisture farm on Tatooine?",
+      "choices": [
+        "The Homestead",
+        "Lars Farm",
+        "Skywalker Ranch",
+        "Twin Suns Farm"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'A New Hope,' what is the primary weakness of the first Death Star that allows the Rebellion to destroy it?",
+      "choices": [
+        "An unshielded thermal exhaust port",
+        "A faulty power generator",
+        "An exposed reactor core",
+        "Inadequate tractor beam strength"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet is Yoda's home during his self-imposed exile in 'The Empire Strikes Back'?",
+      "choices": [
+        "Kashyyyk",
+        "Dagobah",
+        "Tatooine",
+        "Mustafar"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Phantom Menace,' what is the name of the underwater city inhabited by the Gungans?",
+      "choices": [
+        "Theed",
+        "Otoh Gunga",
+        "Naboo City",
+        "Mos Espa"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the primary antagonist and Supreme Leader of the First Order in the sequel trilogy?",
+      "choices": [
+        "Kylo Ren",
+        "General Hux",
+        "Supreme Leader Snoke",
+        "Captain Phasma"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'Return of the Jedi,' what species are the small creatures who aid the Rebels against the Empire on the forest moon?",
+      "choices": [
+        "Jawas",
+        "Ewoks",
+        "Wookiees",
+        "Gungans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is revealed to be a Force-sensitive scavenger from Jakku in 'The Force Awakens'?",
+      "choices": [
+        "Rey",
+        "Finn",
+        "Poe Dameron",
+        "Maz Kanata"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the original trilogy, what is the name of the criminal organization led by Jabba the Hutt?",
+      "choices": [
+        "The Bounty Hunters Guild",
+        "The Hutt Cartel",
+        "The Smugglers' Alliance",
+        "Black Sun"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the hyperspace route that Han Solo famously claims to have used to shorten his trip in 'A New Hope'?",
+      "choices": [
+        "The Kessel Run",
+        "The Outer Rim Route",
+        "The Hyperlane Express",
+        "The Smuggler's Path"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In A New Hope, what is the name of the cantina on Tatooine where Luke and Obi-Wan meet Han Solo?",
+      "choices": [
+        "The Spaceport Lounge",
+        "Mos Eisley Cantina",
+        "The Jedi's Rest",
+        "The Smuggler's Den"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Lando Calrissian's official title when Luke first encounters him in The Empire Strikes Back?",
+      "choices": [
+        "Admiral of the Fleet",
+        "Baron Administrator",
+        "Governor of Cloud City",
+        "Imperial Commander"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Jedi Master trains Luke Skywalker in the ways of the Force on Dagobah?",
+      "choices": [
+        "Yoda",
+        "Mace Windu",
+        "Ki-Adi-Mundi",
+        "Agen Kolar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Han Solo's ship that he uses throughout the original trilogy?",
+      "choices": [
+        "X-Wing Fighter",
+        "Slave I",
+        "Millennium Falcon",
+        "TIE Interceptor"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Phantom Menace, what is the name of the young slave boy who becomes a pod racer?",
+      "choices": [
+        "Anakin Skywalker",
+        "Sebulba",
+        "Teedo",
+        "Watto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the desert planet where Rey first encounters BB-8 in The Force Awakens?",
+      "choices": [
+        "Jakku",
+        "Tatooine",
+        "Geonosis",
+        "Scarif"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Attack of the Clones, Anakin Skywalker and Padmé Amidala fall in love on which planet?",
+      "choices": [
+        "Naboo",
+        "Geonosis",
+        "Coruscant",
+        "Mustafar"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What species is Yoda, the legendary Jedi Master?",
+      "choices": [
+        "Human",
+        "Ewok",
+        "Unknown alien species",
+        "Gungan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Revenge of the Sith, on which volcanic planet does the final confrontation between Anakin and Obi-Wan occur?",
+      "choices": [
+        "Tatooine",
+        "Mustafar",
+        "Geonosis",
+        "Kashyyyk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Chewbacca's homeworld?",
+      "choices": [
+        "Tatooine",
+        "Endor",
+        "Kashyyyk",
+        "Scarif"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Return of the Jedi, what species comprises the majority of the inhabitants of Endor?",
+      "choices": [
+        "Jawas",
+        "Ewoks",
+        "Gungans",
+        "Trandoshans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the title of the Supreme Leader of the First Order in The Force Awakens?",
+      "choices": [
+        "Supreme Chancellor",
+        "Emperor",
+        "Leader",
+        "Supreme Dictator"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Empire Strikes Back, what creature attacks Luke Skywalker in the ice caves of Hoth?",
+      "choices": [
+        "Rancor",
+        "Tauntaun",
+        "Wampa",
+        "Sarlacc"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the clone army's control mechanism implanted in the brain of each soldier?",
+      "choices": [
+        "Inhibitor chip",
+        "Compliance module",
+        "Bio-processor",
+        "Neural implant"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In A New Hope, what is the name of the trash compactor creature that attempts to kill Luke and Leia?",
+      "choices": [
+        "Sarlacc",
+        "Dianoga",
+        "Wampa",
+        "Rancor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sith Lord is revealed to be Darth Sidious in The Phantom Menace?",
+      "choices": [
+        "Count Dooku",
+        "Darth Maul",
+        "Palpatine",
+        "General Grievous"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Last Jedi, what is the name of the salt-covered planet that serves as a Rebel base?",
+      "choices": [
+        "Crait",
+        "Scarif",
+        "Jedha",
+        "Wobani"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary weapon system of the Death Star in A New Hope?",
+      "choices": [
+        "Laser cannons",
+        "Superlaser",
+        "Plasma cannon",
+        "Thermal detonator"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Force Awakens, what is the name of the ex-stormtrooper who becomes part of the Resistance?",
+      "choices": [
+        "Poe Dameron",
+        "Finn",
+        "Rey",
+        "Maz Kanata"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Empire Strikes Back, what is the name of the ice planet where the Rebel Alliance establishes their secret base?",
+      "choices": [
+        "Hoth",
+        "Endor",
+        "Bespin",
+        "Jakku"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character loses his hand to Anakin Skywalker during their lightsaber duel on Geonosis in Attack of the Clones?",
+      "choices": [
+        "Mace Windu",
+        "Count Dooku",
+        "Obi-Wan Kenobi",
+        "Kit Fisto"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What species do Leia, Luke, and Han encounter as the native inhabitants of the forest moon of Endor in Return of the Jedi?",
+      "choices": [
+        "Ewoks",
+        "Gungans",
+        "Wookiees",
+        "Tusken Raiders"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

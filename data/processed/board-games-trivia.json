@@ -1,279 +1,2152 @@
 {
   "slug": "board-games-trivia",
   "name": "Board Games",
-  "description": "Monopoly, Scrabble, Chess, Catan, and the dice-and-paper classics.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.442Z",
   "questions": [
     {
-      "q": "In Monopoly (US edition), what's the first property after GO?",
+      "q": "Which strategic board game has you plotting and firing torpedoes at your opponent's sneaky warships?",
       "choices": [
-        "Mediterranean Avenue",
-        "Baltic Avenue",
-        "Reading Railroad",
-        "Oriental Avenue"
+        "Monopoly",
+        "Battleship",
+        "Checkers",
+        "Codenames"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color dazzles in the \"Science & Technology\" category of Trivial Pursuit: Genus II Edition – think high - tech vibes?",
+      "choices": [
+        "board",
+        "Settlers of Catan",
+        "Blue",
+        "Boggle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Caught speeding around the Monopoly board? How much is the fine to break free from jail?",
+      "choices": [
+        "rounds",
+        "score",
+        "Pandemic",
+        "£50"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In chess, which is a characteristic of the King's Gambit?",
+      "choices": [
+        "Moving the king on the 2nd move",
+        "Castling kingside",
+        "Sacrificing a pawn",
+        "Sacrificing the king for a queen"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many spaces are there on a standard Monopoly board?",
+      "choices": [
+        "36",
+        "28",
+        "40",
+        "55"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is NOT a class in Dungeons and Dragons 5e?",
+      "choices": [
+        "Paladin ",
+        "Bard",
+        "Fighter ",
+        "Engineer "
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?",
+      "choices": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many dice are used in the game of Yahtzee?",
+      "choices": [
+        "Five",
+        "Six",
+        "Eight",
+        "Four"
       ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Old Kent Road",
-        "verified": true,
-        "notes": "UK edition equivalent: Old Kent Road."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "How much money does each player start with in standard Monopoly?",
-      "choices": ["$1,500", "$1,000", "$2,000", "$2,500"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "£1,500",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many dice are used to play Monopoly?",
-      "choices": ["2", "1", "3", "4"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "2",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which two letters are the highest-scoring tiles (10 points each) in Scrabble?",
-      "choices": ["Q and Z", "X and J", "J and K", "K and X"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Q and Z",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: reworded for clarity; Q and Z are both worth 10 points."
-      }
-    },
-    {
-      "q": "How many tiles does each player keep on their rack in Scrabble?",
-      "choices": ["7", "5", "8", "10"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Board Games",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many squares are on a standard chess board?",
-      "choices": ["64", "100", "81", "49"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Board Games",
-        "verified": true,
-        "notes": "8×8 grid."
-      }
-    },
-    {
-      "q": "Which color moves first in chess?",
-      "choices": ["White", "Black", "Either", "Coin flip"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "White",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which chess piece is also called the 'castle'?",
-      "choices": ["Rook", "Bishop", "Knight", "Queen"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Rook",
-        "verified": true,
-        "notes": "Moves in straight lines."
-      }
-    },
-    {
-      "q": "Which chess piece moves only diagonally?",
-      "choices": ["Bishop", "Rook", "Knight", "Queen"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Diagonally",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "In Clue/Cluedo, what are the 6 weapons (US edition)?",
+      "q": "Which one of these is not a real game in the Dungeons & Dragons series?",
       "choices": [
-        "Knife, candlestick, revolver, rope, lead pipe, wrench",
-        "Knife, candlestick, gun, dagger, axe, rope",
-        "Knife, candlestick, revolver, rope, hammer, wrench",
-        "Knife, candlestick, dagger, rope, lead pipe, wrench"
+        "Dungeons & Dragons 3.5th edition",
+        "Extreme Dungeons & Dragons",
+        "Advanced Dungeons & Dragons 2nd edition",
+        "Advanced Dungeons & Dragons"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The board game Monopoly takes its street names from which real American city?",
+      "choices": [
+        "Atlantic City, New Jersey",
+        "Charleston, South Carolina",
+        "Duluth, Minnesota",
+        "Las Vegas, Nevada"
       ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Cluedo",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which 1995 board game has players colonizing an island with sheep, wood, brick, wheat, and ore?",
-      "choices": ["Catan (Settlers of Catan)", "Risk", "Carcassonne", "Ticket to Ride"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Board Games",
-        "verified": true,
-        "notes": "Designed by Klaus Teuber."
-      }
-    },
-    {
-      "q": "Which game has players battling for world domination across continents?",
-      "choices": ["Risk", "Stratego", "Diplomacy", "Axis & Allies"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Board Games",
-        "verified": true,
-        "notes": "Originally released 1957 as 'La Conquête du Monde.'"
-      }
-    },
-    {
-      "q": "What's the goal of Connect 4?",
+      "q": "Which of these games includes the phrase \"Do not pass Go, do not collect $200\"?",
       "choices": [
-        "Get four discs in a row (any direction)",
-        "Get four discs vertically only",
-        "Empty the grid first",
-        "Create a 2×2 square"
+        "Monopoly",
+        "Coppit",
+        "Pay Day",
+        "Cluedo"
       ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Red and Yellow",
-        "verified": true,
-        "notes": "Horizontal, vertical, or diagonal."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which classic board game involves climbing ladders and sliding down snakes (or chutes)?",
+      "q": "In a standard game of Monopoly, what colour are the two cheapest properties?",
       "choices": [
-        "Snakes and Ladders / Chutes and Ladders",
+        "Blue",
+        "Green",
+        "Brown",
+        "Yellow"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many dots are on a single die?",
+      "choices": [
+        "18",
+        "24",
+        "15",
+        "21"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many pieces are there on the board at the start of a game of chess?",
+      "choices": [
+        "32",
+        "36",
+        "20",
+        "16"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these board games do NOT utilize standard 6-sided dice?",
+      "choices": [
+        "Monopoly",
+        "Risk",
+        "The Game of Life",
+        "Snakes and Ladders"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "When was the board game Twister, released to the public?",
+      "choices": [
+        "January 1969",
+        "February 1966",
+        "April 1966",
+        "September 1965"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "On a standard Monopoly board, which square is diagonally opposite 'Go'? ",
+      "choices": [
+        "Go to Jail",
+        "Jail",
+        "The Electric Company",
+        "Free Parking"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",
+      "choices": [
+        "Strength",
+        "Wisdom",
+        "Dexterity",
+        "Speed"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In board games, an additional or ammended rule that applies to a certain group or place is informally known as a \"what\" rule?",
+      "choices": [
+        "House",
+        "Extra",
+        "Change",
+        "Custom"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year was the pen and paper RPG \"Deadlands\" released?",
+      "choices": [
+        "1993",
+        "1996",
+        "2003",
+        "1999"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Carcassonne is based on which French town?",
+      "choices": [
+        "Clermont-Ferrand",
+        "Marseille",
+        "Carcassonne",
+        "Paris"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, how much money does each player start with at the beginning of the game?",
+      "choices": [
+        "$1,000",
+        "$1,500",
+        "$2,000",
+        "$2,500"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the objective of the board game Checkers?",
+      "choices": [
+        "Capture all opponent pieces",
+        "Reach the opposite side of the board",
+        "Control the center squares",
+        "Block all opponent moves"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Scrabble, what is the highest point value a single letter tile can have?",
+      "choices": [
+        "8 points",
+        "10 points",
+        "12 points",
+        "15 points"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which board game features a spinning wheel and has players move around a board collecting life tiles?",
+      "choices": [
         "Candy Land",
+        "The Game of Life",
         "Sorry!",
         "Trouble"
       ],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Snakes and Ladders",
-        "verified": true,
-        "notes": "Origin: ancient India (Moksha Patam)."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "In what game do players sketch words while teammates guess?",
-      "choices": ["Pictionary", "Charades", "Cranium", "Dixit"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Pictionary",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which 2-player naval game uses peg-board grids hidden behind a divider?",
-      "choices": ["Battleship", "Stratego", "Naval Quest", "Sea War"],
-      "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Battleship",
-        "verified": true,
-        "notes": "First Hasbro release: 1967 (was a paper game earlier)."
-      }
-    },
-    {
-      "q": "In Trivial Pursuit, what shape pieces fill in your scoring wheel?",
+      "q": "In Chess, how many pieces does each player have at the start of a game?",
       "choices": [
-        "Wedges (pie slices)",
-        "Squares",
-        "Circles",
-        "Stars"
+        "12 pieces",
+        "16 pieces",
+        "18 pieces",
+        "20 pieces"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are the expensive properties on a standard Monopoly board?",
+      "choices": [
+        "Red",
+        "Dark Blue",
+        "Green",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Cluedo (Clue), how many suspect cards are included in the original game?",
+      "choices": [
+        "4 suspects",
+        "5 suspects",
+        "6 suspects",
+        "7 suspects"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the board game where players draw and guess each other's pictures?",
+      "choices": [
+        "Boggle",
+        "Pictionary",
+        "Balderdash",
+        "Codenames"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Snakes and Ladders, what do ladders represent in the game?",
+      "choices": [
+        "Shortcuts to advance faster",
+        "Penalties that slow you down",
+        "Good deeds that help you progress",
+        "Ways to skip turns"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many categories of questions are in the classic edition of Trivial Pursuit?",
+      "choices": [
+        "4 categories",
+        "5 categories",
+        "6 categories",
+        "7 categories"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Candyland, what is the final destination players try to reach?",
+      "choices": [
+        "Candy Castle",
+        "Chocolate Mountain",
+        "Gumdrop Palace",
+        "Lollipop Land"
       ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Board Games",
-        "verified": true,
-        "notes": "Six wedges = six categories."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What's the goal of Jenga?",
+      "q": "What do you win in Monopoly by being the last player with money remaining?",
       "choices": [
-        "Don't be the player who topples the tower",
+        "A trophy",
+        "The game",
+        "All property deeds",
+        "Extra cash"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Risk, what does a player need to do to conquer a territory?",
+      "choices": [
+        "Roll higher than the opponent",
+        "Answer a trivia question",
+        "Move all pieces there",
+        "Pay money to claim it"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which board game is known for its spinning top with the word 'Trouble' written on it?",
+      "choices": [
+        "Pop-O-Matic Bubble",
+        "Trouble",
+        "Spinning Top",
+        "Whirlwind"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Backgammon, how many checkers does each player start with?",
+      "choices": [
+        "12 checkers",
+        "14 checkers",
+        "15 checkers",
+        "16 checkers"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main objective of the board game Jenga?",
+      "choices": [
+        "Answer trivia questions",
+        "Remove blocks without toppling the tower",
+        "Race around the board",
+        "Collect the most cards"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Battleship, what grid size does each player use to place their ships?",
+      "choices": [
+        "8x8 grid",
+        "10x10 grid",
+        "12x12 grid",
+        "15x15 grid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Dominoes, what is a domino tile typically made of?",
+      "choices": [
+        "Wood or plastic",
+        "Bone or ebony",
+        "Paper or cardboard",
+        "Metal or stone"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What board game involves players buying and trading properties to become wealthy?",
+      "choices": [
+        "Risk",
+        "Monopoly",
+        "Clue",
+        "Sorry!"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Connect Four, how many pieces in a row do you need to win?",
+      "choices": [
+        "3 pieces",
+        "4 pieces",
+        "5 pieces",
+        "6 pieces"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Monopoly, what is the color of the cheapest properties on the board?",
+      "choices": [
+        "Brown",
+        "Light Blue",
+        "Purple",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many sides does a standard die have?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Chess, which piece can only move diagonally?",
+      "choices": [
+        "Knight",
+        "Bishop",
+        "Queen",
+        "Pawn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the objective of the game Checkers?",
+      "choices": [
+        "Checkmate your opponent's king",
+        "Capture all of your opponent's pieces",
+        "Reach the opposite end of the board",
+        "Move your pieces in a specific pattern"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Candy Land, what is the name of the final destination players try to reach?",
+      "choices": [
+        "Gumdrop Mountain",
+        "Candy Castle",
+        "Lollipop Woods",
+        "Chocolate River"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many players can typically play a standard game of Monopoly?",
+      "choices": [
+        "2 to 4",
+        "3 to 6",
+        "2 to 8",
+        "4 to 10"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you collect in Scrabble to score points?",
+      "choices": [
+        "Tiles",
+        "Cards",
+        "Tokens",
+        "Coins"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the game Risk, what do players attempt to do?",
+      "choices": [
         "Build the tallest tower",
-        "Stack all 54 blocks fastest",
-        "Knock the tower over"
+        "Conquer continents and territories",
+        "Collect the most cards",
+        "Reach the center of the board"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What board game features a spinning wheel and the phrase 'Wheel! Of! Fortune!'?",
+      "choices": [
+        "Trivial Pursuit",
+        "Wheel of Fortune",
+        "Game of Life",
+        "Trouble"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Cluedo, how many suspect characters are there in the original game?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the board game where players move around buying and renting properties?",
+      "choices": [
+        "Clue",
+        "Monopoly",
+        "Risk",
+        "Sorry"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Battleship, how many ships does each player typically place on their board?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "9"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the winning condition in Connect Four?",
+      "choices": [
+        "Get five in a row",
+        "Get four in a row",
+        "Capture all opponent pieces",
+        "Reach the top of the board"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Jenga, what do players try to avoid doing?",
+      "choices": [
+        "Dropping all their tiles",
+        "Making the tower collapse",
+        "Running out of moves",
+        "Losing all their pieces"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many tiles does each player start with in a standard game of Scrabble?",
+      "choices": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Guess Who, what type of question are players supposed to ask?",
+      "choices": [
+        "Yes or no questions about appearance",
+        "Multiple choice questions",
+        "Open-ended questions",
+        "True or false questions"
       ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Board Games",
-        "verified": true,
-        "notes": "Each player removes a block and places it on top."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What's the 4-color, board-walking game with eponymous Sweet King (Lord Licorice's nemesis)?",
-      "choices": ["Candy Land", "Chutes and Ladders", "Trouble", "Sorry!"],
+      "q": "What is the highest-value property on a standard Monopoly board?",
+      "choices": [
+        "Mayfair",
+        "Park Lane",
+        "The Strand",
+        "Piccadilly"
+      ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Candy Land",
-        "verified": true,
-        "notes": "Designed 1948 by Eleanor Abbott."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which abstract strategy game from ancient China uses black and white stones on a 19×19 grid?",
-      "choices": ["Go", "Mahjong", "Xiangqi", "Shogi"],
+      "q": "In the game Snakes and Ladders, what do ladders allow you to do?",
+      "choices": [
+        "Climb up the board quickly",
+        "Move backward safely",
+        "Skip a turn",
+        "Roll the die again"
+      ],
       "correct": 0,
-      "category": "Board Games",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Backgammon",
-        "verified": true,
-        "notes": "Backgammon is also ancient but uses dice on a 24-point board."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the objective of the game Ludo?",
+      "choices": [
+        "Create words from letters",
+        "Be the first to move all pieces home",
+        "Capture opponent pieces",
+        "Reach a specific score"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In Chess, which piece is worth the most points besides the King?",
+      "choices": [
+        "Rook",
+        "Queen",
+        "Knight",
+        "Bishop"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Monopoly, what is the cheapest property you can purchase?",
+      "choices": [
+        "Old Kent Road",
+        "Whitechapel Road",
+        "The Angel Islington",
+        "Pentonville Road"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many wedge-shaped pieces must a player collect to win a standard game of Trivial Pursuit?",
+      "choices": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the board game Cluedo, how many different rooms are part of the game's mansion that players must investigate?",
+      "choices": [
+        "6",
+        "9",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the objective in the strategy board game Battleship?",
+      "choices": [
+        "Collect the most treasure on an island",
+        "Locate and sink your opponent's hidden warships",
+        "Race to reach a destination before your opponent",
+        "Answer trivia questions to move around the board"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who are the dynamic duo behind the creation of Trivial Pursuit – move over Batman and Robin?",
+      "choices": [
+        "tokens",
+        "Sorry",
+        "Scott Abbott and Chris Haney",
+        "Chutes and Ladders"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Where does Liverpool Street Station make its grand entrance on the Monopoly board?",
+      "choices": [
+        "Between the green and dark blue properties",
+        "Codenames",
+        "turns",
+        "Connect Four"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In standard Monopoly, what's the rent if you land on Park Place with no houses?",
+      "choices": [
+        "$50",
+        "$45",
+        "$30",
+        "$35"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which card is on the cover of the Beta rulebook of \"Magic: The Gathering\"?",
+      "choices": [
+        "Rock Hydra",
+        "Island",
+        "Elvish Archers",
+        "Bog Wraith"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Magic: The Gathering, what card's flavor text is \"Catch!\"?",
+      "choices": [
+        "Lava Axe",
+        "Ember Shot",
+        "Throwing Knife",
+        "Stone-Throwing Devils"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Dice Tower network of board game podcasts and videos is run by which individual?",
+      "choices": [
+        "Uncle Pennybags",
+        "Jason LeVine",
+        "Tom Vasel",
+        "Borth Sampson"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pokemon is #39 in the National Pokedex?",
+      "choices": [
+        "Jigglypuff",
+        "Psyduck",
+        "Pikachu",
+        "Fearow"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the development code name for the \"Weatherlight\" expansion for \"Magic: The Gathering\", released in 1997?",
+      "choices": [
+        "Mocha Latte",
+        "Decaf",
+        "Frappuccino",
+        "Macchiato"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many rooms are there, not including the hallways and the set of stairs, in the board game \"Clue\"?",
+      "choices": [
+        "10",
+        "9",
+        "6",
+        "1"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
+      "choices": [
+        "Resisting",
+        "Shielding",
+        "Intercepting",
+        "Blocking"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ability from the \"Magic: The Gathering\" Scars of Mirrodin expansion involves having at least three artifacts in play?",
+      "choices": [
+        "Metalcraft",
+        "Living Weapon",
+        "Imprint",
+        "Affinity"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
+      "choices": [
+        "Magic",
+        "Magic Clash",
+        "Mana Duels",
+        "Mana Clash"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the world's oldest board game?",
+      "choices": [
+        "Go",
+        "Chess",
+        "Checkers",
+        "Senet"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these cities is NOT featured in the Pandemic board game?",
+      "choices": [
+        "Berlin",
+        "Lagos",
+        "Karachi",
+        "Ho Chi Minh City"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The board game \"Ra\" was designed by which designer? ",
+      "choices": [
+        "Uwe Rosenburg",
+        "Allison Kline",
+        "Bruno Cathala",
+        "Reiner Knizia"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
+      "choices": [
+        "$220",
+        "$160",
+        "$180",
+        "$200"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The board game \"Monopoly\" is a variation of what board game?",
+      "choices": [
+        "Property Feud",
+        "The Monopolist's Game",
+        "Territorial Dispute",
+        "The Landlord's Game"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character class in Dungeons and Dragons 5th edition gains it's powers from making a pact with a being of higher power?",
+      "choices": [
+        "Warlock",
+        "Wizard",
+        "Sorceror",
+        "Cleric"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What Magic: The Gathering card's flavor text is just 'Ribbit.'?",
+      "choices": [
+        "Turn to Frog",
+        "Frogmite",
+        "Bloated Toad",
+        "Spore Frog"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Magic: The Gathering, what was a tribute card to Jamie Wakefield's late wife Marilyn, who loved horses?",
+      "choices": [
+        "Vryn Wingmare",
+        "Loyal Pegasus",
+        "Timbermare",
+        "Sungrace Pegasus"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Some of the \"Fallen Empires\" cards from \"Magic: The Gathering\" were misprinted on the backs of which other card game?",
+      "choices": [
+        "Yu-Gi-Oh",
+        "Pokemon",
+        "Wyvern",
+        "Dominion"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the development code name for the \"Urza's Destiny\" expansion for \"Magic: The Gathering\", released in 1999?",
+      "choices": [
+        "Burrito",
+        "Enchilada",
+        "Taquito",
+        "Chimichanga"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the sum of all the tiles in a standard box of Scrabble?",
+      "choices": [
+        "177",
+        "197",
+        "187",
+        "207"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these cards from \"Magic: The Gathering\" has a flavor text that begins with \"Oi oi oi\"?",
+      "choices": [
+        "Uthden Troll",
+        "Albino Troll",
+        "Lotleth Troll",
+        "Harvester Troll"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What do you declare in Rīchi Mahjong when you've drawn your winning tile?",
+      "choices": [
+        "Kan",
+        "Tsumo",
+        "Ron",
+        "Rīchi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the most challenging monster in the Dungeons & Dragons 5th Edition Monster Manual?",
+      "choices": [
+        "Tarrasque",
+        "Displacer Beast",
+        "Lich",
+        "Beholder"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which board game was first released on February 6th, 1935?",
+      "choices": [
+        "Risk",
+        "Clue",
+        "Monopoly",
+        "Candy Land"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+      "choices": [
+        "Revenant",
+        "Beast of Burden",
+        "Lightning Dragon",
+        "Dirtcowl Wurm"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1975 release of Trivial Pursuit, how many category wedges must a player collect to win the game?",
+      "choices": [
+        "Four",
+        "Five",
+        "Six",
+        "Seven"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum score a player can achieve by playing a single tile in Scrabble without any board multipliers?",
+      "choices": [
+        "48 points",
+        "50 points",
+        "45 points",
+        "52 points"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Chess, which piece can move both orthogonally and diagonally any number of squares?",
+      "choices": [
+        "Queen",
+        "King",
+        "Bishop",
+        "Rook"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year was the board game Cluedo first released in the United Kingdom?",
+      "choices": [
+        "1947",
+        "1949",
+        "1951",
+        "1953"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, which property is the most expensive to purchase on the standard British board?",
+      "choices": [
+        "Mayfair",
+        "Park Lane",
+        "The Strand",
+        "Fleet Street"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many dots appear on a standard double-six domino tile when both ends are visible?",
+      "choices": [
+        "12 dots",
+        "13 dots",
+        "14 dots",
+        "15 dots"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the board game Backgammon, what is the total number of pieces each player begins the game with?",
+      "choices": [
+        "12 pieces",
+        "14 pieces",
+        "15 pieces",
+        "16 pieces"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German board game, released in 1995, is widely credited as the catalyst for the modern Eurogame movement?",
+      "choices": [
+        "Catan",
+        "Carcassonne",
+        "The Settlers of Catan",
+        "Torres"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Risk, how many armies does a player receive at the start of the game when playing with six players?",
+      "choices": [
+        "15 armies",
+        "18 armies",
+        "20 armies",
+        "25 armies"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum number of tiles required to form a valid word in Scrabble?",
+      "choices": [
+        "One tile",
+        "Two tiles",
+        "Three tiles",
+        "Four tiles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Battleship, what is the length of the smallest ship that must be placed on the board?",
+      "choices": [
+        "2 pegs",
+        "3 pegs",
+        "4 pegs",
+        "5 pegs"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient board game, originating in Persia around the 6th century, is considered the direct ancestor of modern Chess?",
+      "choices": [
+        "Chaturanga",
+        "Shatranj",
+        "Tafl",
+        "Senet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the board game Pandemic, how many disease cubes must accumulate on a single city to cause an outbreak?",
+      "choices": [
+        "Two cubes",
+        "Three cubes",
+        "Four cubes",
+        "Five cubes"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the exact retail price in British pounds of the properties Park Lane and Mayfair combined on the standard Monopoly board?",
+      "choices": [
+        "£650",
+        "£700",
+        "£750",
+        "£800"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Go, what is the name of the traditional wooden board on which the game is played, divided into 19×19 lines?",
+      "choices": [
+        "Goban",
+        "Katanagai",
+        "Ashiato",
+        "Ichigoseki"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Ticket to Ride, how many locomotives are required to claim a railway route of five city spaces?",
+      "choices": [
+        "Three locomotives",
+        "Four locomotives",
+        "Five locomotives",
+        "Six locomotives"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British board game, first released in 1974, requires players to navigate a career path and family milestones?",
+      "choices": [
+        "The Game of Life",
+        "Career",
+        "Careers",
+        "Life Path"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the abstract strategy game Hex, on which type of grid is the board constructed?",
+      "choices": [
+        "Square grid",
+        "Hexagonal grid",
+        "Triangular grid",
+        "Pentagonal grid"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Codenames, how many words appear on the game board during each round of play?",
+      "choices": [
+        "16 words",
+        "20 words",
+        "24 words",
+        "25 words"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the maximum hand size a player can hold in the board game Ticket to Ride without penalty?",
+      "choices": [
+        "Four cards",
+        "Five cards",
+        "Six cards",
+        "Seven cards"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Chess, what is the maximum number of pieces a single pawn can theoretically promote to during one game?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the classic game Scrabble, which two letters appear exactly once in the tile set and are worth 1 point each?",
+      "choices": [
+        "A and E",
+        "I and O",
+        "A and I",
+        "E and T"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the special move in Chess where the king moves two squares and the rook moves to the square the king crossed?",
+      "choices": [
+        "En passant",
+        "Castling",
+        "Promotion",
+        "Fianchetto"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly's original UK version, what is the cost to purchase the Strand property?",
+      "choices": [
+        "£120",
+        "£140",
+        "£160",
+        "£180"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Trivial Pursuit, how many category pie slices must a player collect to win the game?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the total point value of all the letter tiles in a standard Scrabble game?",
+      "choices": [
+        "752",
+        "811",
+        "864",
+        "927"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Cluedo, how many rooms are on the traditional game board?",
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the board game Battleship, what is the length of the longest ship in the standard fleet?",
+      "choices": [
+        "3 squares",
+        "4 squares",
+        "5 squares",
+        "6 squares"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Chess, a knight on which color square can never land on a square of the same color?",
+      "choices": [
+        "It can land on both colors equally",
+        "White",
+        "Black",
+        "The color depends on which knight"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Monopoly, if you land exactly on Free Parking, what do you receive according to the official rules?",
+      "choices": [
+        "£50",
+        "£100",
+        "Nothing",
+        "£200"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the highest-scoring single tile in Scrabble when placed on a triple letter score?",
+      "choices": [
+        "Q worth 30 points",
+        "Z worth 30 points",
+        "X worth 30 points",
+        "K worth 30 points"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1935 version of Monopoly, which property was originally named 'B & O Railroad'?",
+      "choices": [
+        "Reading Railroad",
+        "Pennsylvania Railroad",
+        "Short Line",
+        "Baltimore and Ohio Railroad"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Pictionary, how many seconds does a team typically have to guess a drawing in standard gameplay?",
+      "choices": [
+        "30 seconds",
+        "45 seconds",
+        "60 seconds",
+        "90 seconds"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Chess, what is the term for a position where a player has no legal moves but is not in check?",
+      "choices": [
+        "Checkmate",
+        "Stalemate",
+        "Deadlock",
+        "Gridlock"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Clue/Cluedo, how many suspect cards are in the original game deck?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the board game Risk, how many armies does a player receive at the start of the game with 3 players?",
+      "choices": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Scrabble, what is the minimum number of points required to make a opening move from the center square?",
+      "choices": [
+        "15 points",
+        "18 points",
+        "20 points",
+        "25 points"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these streets is playing hide and seek by NOT being a red property in Monopoly?",
+      "choices": [
+        "Coventry Street",
+        "dice",
+        "Risk",
+        "score"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these sneaky streets doesn't belong on the traditional Monopoly map?",
+      "choices": [
+        "Settlers of Catan",
+        "Checkers",
+        "Battleship",
+        "Mile End Road"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Back in the OG Scrabble days, what fiery red squares on the board gave your word scores a turbo boost?",
+      "choices": [
+        "Sorry",
+        "Operation",
+        "pawns",
+        "Triple word score"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the slick name of Monopoly's latest 'standard' edition?",
+      "choices": [
+        "Chess",
+        "Clue",
+        "Here and Now",
+        "Battleship"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Color your Connect 4 strategy: What hues are the discs that drop into the grid?",
+      "choices": [
+        "Candy Land",
+        "Red and Yellow",
+        "rounds",
+        "turns"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the undercover name of the Trivial Pursuit game before it hit the shelves – hint: it's a classic quiz show trio?",
+      "choices": [
+        "cards",
+        "Settlers of Catan",
+        "\"What? Where? When?\"",
+        "Stratego"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Looking to buy low in Monopoly? Which property is the bargain of the bunch?",
+      "choices": [
+        "Old Kent Road",
+        "Checkers",
+        "Pandemic",
+        "Life"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What special square doubles the power of your entire word's score when your tiles land on it?",
+      "choices": [
+        "Clue",
+        "Double word score",
+        "pawns",
+        "Pandemic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which whodunit board game do you sleuth your way to solving a dastardly murder?",
+      "choices": [
+        "Cluedo",
+        "Mousetrap",
+        "cards",
+        "Trivial Pursuit"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which mystery game lets you brandish weapons like a rope and a lead pipe in your quest to crack the case?",
+      "choices": [
+        "pawns",
+        "Chess",
+        "timer",
+        "Cluedo"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which sweet-as-sugar racing board game features a sugary stop at Gum Drop Mountain?",
+      "choices": [
+        "Stratego",
+        "Candy Land",
+        "Operation",
+        "Sorry"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which doodling board game do you sketch away while your team tries to decode your artistic masterpieces?",
+      "choices": [
+        "Pandemic",
+        "Scrabble",
+        "Pictionary",
+        "Settlers of Catan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ancient game, rumored to be the OG of board games, has been around since, well, forever?",
+      "choices": [
+        "Backgammon",
+        "Othello",
+        "Sorry",
+        "Trivial Pursuit"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which inquisitive board game do you ask your opponent questions to unveil their mysterious character's secret identity?",
+      "choices": [
+        "Risk",
+        "Pandemic",
+        "Guess Who",
+        "dice"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which classic board game has you climbing ladders to victory and sliding down snakes into shenanigans?",
+      "choices": [
+        "timer",
+        "Ticket to Ride",
+        "Snakes and Ladders",
+        "Candy Land"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following tabletop games is the oldest?",
+      "choices": [
+        "Mahjong",
+        "Go",
+        "Shogi",
+        "Chess"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What letter is used to refer to blue mana in the card game Magic The Gathering?",
+      "choices": [
+        "E",
+        "L",
+        "B",
+        "U"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In \"Magic: The Gathering\", what instant card has the highest converted mana cost?",
+      "choices": [
+        "Assert Authority",
+        "Vitalizing Wind",
+        " Chant of Vitu-Ghazi",
+        "Blinkmoth Infusion"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many points is the Z tile worth in Scrabble?",
+      "choices": [
+        "10",
+        "6",
+        "5",
+        "8"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",
+      "choices": [
+        "Chance",
+        "Water Works",
+        "Community Chest",
+        "Electric Company"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was world chess champion between 1894 and 1921",
+      "choices": [
+        "Emanuel Lasker",
+        "Bobby Fischer",
+        "Wilhelm Steinitz",
+        "José Raúl Capablanca"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type is \"Magic Drain\" in Yugioh! Trading Card Game?",
+      "choices": [
+        "Normal Trap",
+        "Counter Trap",
+        "Field Spell",
+        "Quick-Play Spell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the card game Magic: the Gathering first introduced?",
+      "choices": [
+        "1987",
+        "2003",
+        "1998",
+        "1993"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In \"Magic: The Gathering\", during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",
+      "choices": [
+        "Purple",
+        "Brown",
+        "Pink",
+        "Orange"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Chess, the Queen has the combined movement of which two pieces?",
+      "choices": [
+        "Knight and Bishop",
+        "Bishop and Rook",
+        "Rook and King",
+        "King and Knight"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the main character in the VHS tape included in the board game Nightmare?",
+      "choices": [
+        "The Monster",
+        "The Nightmare",
+        "The Gatekeeper",
+        "The Kryptkeeper"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the first official world chess champion?",
+      "choices": [
+        "Emanuel Lasker",
+        "Bobby Fischer",
+        "Wilhelm Steinitz",
+        "José Raúl Capablanca"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The board game, Nightmare was released in what year?",
+      "choices": [
+        "1989",
+        "1992",
+        "1991",
+        "1995"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following characters is not in the board game Clue?",
+      "choices": [
+        "Miss Scarlet",
+        "Reverend Green",
+        "Mister Indigo",
+        "Colonel Mustard"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Yu-Gi-Oh, how does a player perform an Xyz Summon?",
+      "choices": [
+        "Overlay at least 2 Monsters of the Same Level",
+        "Banish A Number of Monsters From Your Hand And Deck",
+        "Activate a Spell and Send Monsters to the Graveyard",
+        "Add the Monsters' Levels Together to Match the Xyz Monster"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In poker, \"EV\" means what?",
+      "choices": [
+        "Equity Variation",
+        "Equity Value",
+        "Equivalent Variation",
+        "Expected Value"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What special item did the creators of Cards Against Humanity ship for their Black Friday pack?",
+      "choices": [
+        "A Card Expansion",
+        "Cat Urine",
+        "A Racist Toy",
+        "Bull Feces"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Europa Universalis is a strategy video game based on which French board game?",
+      "choices": [
+        "Europe and the Universe",
+        "Power in Europe",
+        "Europa!",
+        "Europa Universalis"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What happens when you roll 3 doubles in a row in Monopoly?",
+      "choices": [
+        "Pay $200",
+        "Go to jail",
+        "Move to Free Parking",
+        "Get paid $200"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?",
+      "choices": [
+        "300 Million",
+        "100 Million",
+        "450 Million",
+        "1 Billion"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is not a color of mana in Magic: The Gathering?",
+      "choices": [
+        "Yellow",
+        "Blue",
+        "Green",
+        "White"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",
+      "choices": [
+        "1",
+        "3",
+        "7",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly, what is the cost to purchase a railroad station?",
+      "choices": [
+        "£100",
+        "£150",
+        "£200",
+        "£250"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many points is the letter 'Z' worth in Scrabble?",
+      "choices": [
+        "8 points",
+        "10 points",
+        "12 points",
+        "15 points"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the board game Cluedo, which room is located in the corner opposite the Kitchen?",
+      "choices": [
+        "Ballroom",
+        "Study",
+        "Lounge",
+        "Hall"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many standard pieces does each player control at the start of a Chess game?",
+      "choices": [
+        "12 pieces",
+        "16 pieces",
+        "20 pieces",
+        "24 pieces"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Trivial Pursuit, how many category-specific wedges must a player collect to win?",
+      "choices": [
+        "4 wedges",
+        "5 wedges",
+        "6 wedges",
+        "7 wedges"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the minimum number of players required to play a standard game of Backgammon?",
+      "choices": [
+        "1 player",
+        "2 players",
+        "3 players",
+        "4 players"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Battleship, how many battleships does each player place on their game board?",
+      "choices": [
+        "1 battleship",
+        "2 battleships",
+        "3 battleships",
+        "4 battleships"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Connect Four, on which row do players drop their discs to begin playing?",
+      "choices": [
+        "Bottom row",
+        "Top row",
+        "Middle row",
+        "Any row"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly, how much money does a player receive when they pass or land on the Go square?",
+      "choices": [
+        "£100",
+        "£150",
+        "£200",
+        "£250"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the English equivalent of the Prussian game that inspired the modern board game Risk?",
+      "choices": [
+        "Conquest",
+        "Strategy",
+        "Weltkrieg",
+        "Empire"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In The Game of Life, players spin a spinner to determine how many spaces to move forward each turn. What is the highest number on a standard Life spinner?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Scrabble, what is the maximum number of tiles a player can have on their rack at any time during normal play?",
+      "choices": [
+        "5 tiles",
+        "7 tiles",
+        "9 tiles",
+        "10 tiles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Cluedo, how many suspect cards are included in a standard game?",
+      "choices": [
+        "4 suspects",
+        "5 suspects",
+        "6 suspects",
+        "7 suspects"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Chess, what is the only piece that can move in an L-shaped pattern?",
+      "choices": [
+        "Bishop",
+        "Knight",
+        "Queen",
+        "Rook"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly, what is the name of the property that costs £60 to purchase and is the cheapest property on the board?",
+      "choices": [
+        "Whitehall",
+        "Northumberland Avenue",
+        "Old Kent Road",
+        "Bow Street"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Snakes and Ladders, how many columns of squares does a standard game board contain?",
+      "choices": [
+        "8 columns",
+        "9 columns",
+        "10 columns",
+        "12 columns"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Dominoes, what is the highest pip value on a standard double domino tile in a traditional set?",
+      "choices": [
+        "4 pips",
+        "6 pips",
+        "8 pips",
+        "12 pips"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Stratego, how many pieces does each player control at the beginning of the game?",
+      "choices": [
+        "36 pieces",
+        "38 pieces",
+        "40 pieces",
+        "42 pieces"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Parcheesi, how many safe zones are located on the game board?",
+      "choices": [
+        "4 zones",
+        "6 zones",
+        "8 zones",
+        "12 zones"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Ludo, what is the minimum number of moves a piece must make to exit the starting zone?",
+      "choices": [
+        "1 move",
+        "3 moves",
+        "6 moves",
+        "Any number"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Scrabble, what is the point value of the letter Q?",
+      "choices": [
+        "8 points",
+        "10 points",
+        "12 points",
+        "15 points"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many sides does each territory have in the classic board game Risk?",
+      "choices": [
+        "4 sides",
+        "5 sides",
+        "6 sides",
+        "7 sides"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Cluedo, how many suspect characters are players trying to identify in a standard game?",
+      "choices": [
+        "4 characters",
+        "5 characters",
+        "6 characters",
+        "8 characters"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the maximum number of players that can participate in a standard game of Ticket to Ride?",
+      "choices": [
+        "3 players",
+        "4 players",
+        "5 players",
+        "6 players"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Monopoly, landing on Free Parking results in which action?",
+      "choices": [
+        "You collect $500",
+        "You collect $200",
+        "Nothing happens",
+        "You lose a turn"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the board game Catan, what resource is represented by a brick token?",
+      "choices": [
+        "Ore",
+        "Lumber",
+        "Clay",
+        "Grain"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many tiles are in a standard domino set used for the game Dominoes?",
+      "choices": [
+        "24 tiles",
+        "28 tiles",
+        "32 tiles",
+        "36 tiles"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the board game Cluedo, what is the name of the character who is the game's butler and appears on the instruction cards?",
+      "choices": [
+        "Mr. Wadsworth",
+        "Colonel Mustard",
+        "Mrs. White",
+        "Professor Plum"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

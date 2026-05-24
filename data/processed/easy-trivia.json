@@ -1,269 +1,1580 @@
 {
   "slug": "easy-trivia",
   "name": "Easy",
-  "description": "General knowledge questions for warmups — geography, science, and the basics.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.508Z",
   "questions": [
     {
-      "q": "How many colors are in a rainbow (ROYGBIV)?",
-      "choices": ["7", "5", "9", "6"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Seven",
-        "verified": true,
-        "notes": "Red, Orange, Yellow, Green, Blue, Indigo, Violet."
-      }
+      "q": "How many strings does a standard acoustic guitar have?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which country launched the first human into space (1961)?",
+      "q": "How many minutes are in a full week?",
       "choices": [
-        "Soviet Union (Russia)",
-        "USA",
+        "10,080",
+        "7,200",
+        "14,400",
+        "8,640"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest unit of life?",
+      "choices": [
+        "Atom",
+        "Molecule",
+        "Cell",
+        "Tissue"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What year did World War II end in Europe?",
+      "choices": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what sport is the Stanley Cup awarded?",
+      "choices": [
+        "Basketball",
+        "American Football",
+        "Ice Hockey",
+        "Baseball"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Harry Potter series, what is the name of Harry's best friend who has red hair?",
+      "choices": [
+        "Ron Weasley",
+        "Draco Malfoy",
+        "Neville Longbottom",
+        "Seamus Finnigan"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color are the stars on the American flag?",
+      "choices": [
+        "White",
+        "Blue",
+        "Red",
+        "Gold"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Disney movie features a clownfish named Marlin searching for his son?",
+      "choices": [
+        "Finding Nemo",
+        "Finding Dory",
+        "The Little Mermaid",
+        "Aquaman"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In chess, how many squares are on a standard board?",
+      "choices": [
+        "64",
+        "81",
+        "49",
+        "100"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the movie Frozen, what is the name of Elsa's sister?",
+      "choices": [
+        "Anna",
+        "Aurora",
+        "Belle",
+        "Ariel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which band released the album 'Abbey Road' in 1969?",
+      "choices": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Who",
+        "Pink Floyd"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Olympic Games, how many rings are on the Olympic symbol?",
+      "choices": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In a standard baseball game, how many innings are typically played from start to finish?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of animal is an albatross?",
+      "choices": [
+        "Fish",
+        "Bird",
+        "Mammal",
+        "Reptile"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what temperature in Fahrenheit does water boil at sea level?",
+      "choices": [
+        "100°F",
+        "180°F",
+        "212°F",
+        "250°F"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for plants that produce seeds enclosed within fruits?",
+      "choices": [
+        "Gymnosperm",
+        "Angiosperm",
+        "Pteridophyte",
+        "Bryophyte"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do you call a group of crows?",
+      "choices": [
+        "A flock",
+        "A murder",
+        "A colony",
+        "A parliament"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many colors are in a traditional rainbow?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the technical name for a lie detector machine?",
+      "choices": [
+        "Barometer",
+        "Polygraph",
+        "Seismograph",
+        "Thermograph"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of a five-sided polygon?",
+      "choices": [
+        "Hexagon",
+        "Pentagon",
+        "Octagon",
+        "Quadrilateral"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the real name of the mountain known as the Matterhorn?",
+      "choices": [
+        "Mount Blanc",
+        "Mont Cervin",
+        "Gran Paradiso",
+        "Breithorn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many meters are contained in one kilometer?",
+      "choices": [
+        "100",
+        "500",
+        "1000",
+        "10000"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is it called in tennis when a player wins four points without the opponent scoring any?",
+      "choices": [
+        "A set",
+        "A love game",
+        "A shutout",
+        "A break"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many planets orbit the Sun in our solar system?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which land animal is the fastest runner on Earth?",
+      "choices": [
+        "Lion",
+        "Gazelle",
+        "Cheetah",
+        "Antelope"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the green pigment in plants that enables photosynthesis?",
+      "choices": [
+        "Carotenoid",
+        "Chlorophyll",
+        "Anthocyanin",
+        "Xanthophyll"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is famous for its IKEA furniture brand?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Sweden",
+        "Finland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did President Abraham Lincoln issue the Emancipation Proclamation?",
+      "choices": [
+        "1860",
+        "1861",
+        "1862",
+        "1863"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country shares its name with a type of pepper and a musical style?",
+      "choices": [
+        "Peru",
+        "Chile",
+        "Mexico",
+        "Colombia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Harry Potter's white owl?",
+      "choices": [
+        "Scabbers",
+        "Crookshanks",
+        "Hedwig",
+        "Buckbeak"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the smallest species of hummingbird?",
+      "choices": [
+        "Ruby-throated Hummingbird",
+        "Bee Hummingbird",
+        "Giant Hummingbird",
+        "Anna's Hummingbird"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system is the largest by mass?",
+      "choices": [
+        "Saturn",
+        "Neptune",
+        "Jupiter",
+        "Uranus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the chemical symbol for oxygen on the periodic table?",
+      "choices": [
+        "Os",
+        "O",
+        "Ox",
+        "On"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many colors appear in a traditional rainbow?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did World War II end?",
+      "choices": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which South American country is shaped like a long, narrow strip along the Pacific coast?",
+      "choices": [
+        "Peru",
+        "Chile",
+        "Ecuador",
+        "Colombia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the French greeting that literally translates to 'good day'?",
+      "choices": [
+        "Au revoir",
+        "Bonjour",
+        "Salut",
+        "Bonsoir"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which planet in our solar system is known as the 'Red Planet' due to iron oxide on its surface?",
+      "choices": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the Titanic sink after colliding with an iceberg in the North Atlantic?",
+      "choices": [
+        "1912",
+        "1898",
+        "1920",
+        "1905"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the chemical symbol for the element that powers nuclear reactors and atomic bombs?",
+      "choices": [
+        "Ur",
+        "Un",
+        "U",
+        "Ut"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Renaissance artist painted the ceiling of the Sistine Chapel between 1508 and 1512?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Berlin Wall fall, symbolizing the beginning of the Cold War's end?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the classical piece known as 'Moonlight Sonata'?",
+      "choices": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Franz Joseph Haydn"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Gutenberg printing press revolutionize the spread of information in Europe?",
+      "choices": [
+        "1440",
+        "1455",
+        "1465",
+        "1470"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Danish physicist won the Nobel Prize in Physics for his model of atomic structure?",
+      "choices": [
+        "Werner Heisenberg",
+        "Niels Bohr",
+        "Max Planck",
+        "Erwin Schrödinger"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of true sustained flight?",
+      "choices": [
+        "Flying squirrel",
+        "Sugar glider",
+        "Bat",
+        "Flying fish"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Wright brothers achieve the first powered, controlled airplane flight?",
+      "choices": [
+        "1900",
+        "1903",
+        "1906",
+        "1910"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian author wrote 'Crime and Punishment,' one of literature's most influential novels?",
+      "choices": [
+        "Leo Tolstoy",
+        "Fyodor Dostoevsky",
+        "Ivan Turgenev",
+        "Nikolai Gogol"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the second-largest planet in our solar system by diameter?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Neptune",
+        "Uranus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Library of Alexandria, one of history's greatest repositories of knowledge, suffer its final major destruction?",
+      "choices": [
+        "48 BCE",
+        "391 CE",
+        "642 CE",
+        "800 CE"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which physicist formulated the theory of special relativity in 1905?",
+      "choices": [
+        "Max Planck",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Paul Dirac"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the most spoken language in the world by total number of native speakers?",
+      "choices": [
+        "English",
+        "Spanish",
+        "Mandarin Chinese",
+        "Hindi"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ottoman sultan commissioned the construction of the Blue Mosque in Istanbul in the 17th century?",
+      "choices": [
+        "Suleiman the Magnificent",
+        "Ahmed I",
+        "Mehmed II",
+        "Selim I"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the periodic table, what is the atomic number of gold?",
+      "choices": [
+        "77",
+        "79",
+        "81",
+        "75"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which prehistoric monument in England was likely constructed around 3000 BCE for ceremonial purposes?",
+      "choices": [
+        "Hadrian's Wall",
+        "Stonehenge",
+        "The White Cliffs",
+        "Hadrian's Fort"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only continent without an active volcano?",
+      "choices": [
+        "Antarctica",
+        "Australia",
+        "Europe",
+        "Africa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American playwright penned 'A Streetcar Named Desire' and won the Pulitzer Prize for Drama twice during his career?",
+      "choices": [
+        "Arthur Miller",
+        "Tennessee Williams",
+        "Edward Albee",
+        "William Inge"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only mammal capable of true echolocation, using ultrasonic frequencies to navigate in complete darkness?",
+      "choices": [
+        "Dolphin",
+        "Bat",
+        "Shrew",
+        "Elephant"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Berlin Wall fall, marking a pivotal moment in the end of the Cold War?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chemical element, with atomic number 79, has been prized as currency and jewelry for millennia?",
+      "choices": [
+        "Silver",
+        "Platinum",
+        "Gold",
+        "Copper"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the largest moon of Saturn, notable for having a thick atmosphere and liquid methane lakes on its surface?",
+      "choices": [
+        "Enceladus",
+        "Titan",
+        "Rhea",
+        "Iapetus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist famously cut off a portion of his own ear in 1888 during a mental health crisis?",
+      "choices": [
+        "Paul Gauguin",
+        "Henri de Toulouse-Lautrec",
+        "Vincent van Gogh",
+        "Paul Cézanne"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In mathematics, what name is given to a polygon with exactly eight sides and eight angles?",
+      "choices": [
+        "Hexagon",
+        "Octagon",
+        "Decagon",
+        "Dodecagon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ancient Greek mathematician is famous for the theorem relating the sides of a right triangle?",
+      "choices": [
+        "Euclid",
+        "Archimedes",
+        "Pythagoras",
+        "Thales"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary language spoken in Brazil, distinguishing it from most other South American nations?",
+      "choices": [
+        "Spanish",
+        "Portuguese",
+        "French",
+        "Dutch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British monarch reigned for 63 years, the longest reign in British history until recently?",
+      "choices": [
+        "George III",
+        "Victoria",
+        "Edward VII",
+        "George V"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the innermost layer of Earth's atmosphere, where most weather phenomena occur?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the famous orchestral work 'The Planets,' with movements named after celestial bodies?",
+      "choices": [
+        "Claude Debussy",
+        "Gustav Holst",
+        "Igor Stravinsky",
+        "Maurice Ravel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1969, which space mission first landed humans on the Moon?",
+      "choices": [
+        "Gemini 11",
+        "Apollo 11",
+        "Skylab 2",
+        "Apollo 10"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French philosopher is known for the statement 'I think, therefore I am'?",
+      "choices": [
+        "Jean-Paul Sartre",
+        "René Descartes",
+        "Blaise Pascal",
+        "Michel Foucault"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which island nation in Southeast Asia was formerly known as Siam until 1939?",
+      "choices": [
+        "Myanmar",
+        "Laos",
+        "Thailand",
+        "Cambodia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the protein in red blood cells that binds to oxygen and carries it throughout the body?",
+      "choices": [
+        "Myoglobin",
+        "Hemoglobin",
+        "Albumin",
+        "Fibrinogen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which treaty, signed in 1648, ended the Thirty Years' War in Europe?",
+      "choices": [
+        "Treaty of Westphalia",
+        "Treaty of Augsburg",
+        "Peace of Callias",
+        "Treaty of Utrecht"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only living mammal that lays eggs rather than giving live birth?",
+      "choices": [
+        "Platypus",
+        "Echidna",
+        "Both platypus and echidna",
+        "Koala"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which novel by George Orwell depicts a totalitarian regime symbolized by 'Big Brother'?",
+      "choices": [
+        "Animal Farm",
+        "1984",
+        "Brave New World",
+        "Fahrenheit 451"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary chemical compound responsible for the blue coloration in the petals of most blue flowers?",
+      "choices": [
+        "Anthocyanin",
+        "Carotenoid",
+        "Chlorophyll",
+        "Xanthophyll"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which planet in our solar system has the most moons as of current astronomical records?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Berlin Wall fall, marking a pivotal moment in Cold War history?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1993"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist cut off his own ear during a mental health crisis in 1888?",
+      "choices": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec",
+        "Edvard Munch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only letter that does not appear on the periodic table of elements?",
+      "choices": [
+        "J",
+        "Q",
+        "X",
+        "Z"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Shakespeare play does the character Rosalind disguise herself as a man named Ganymede?",
+      "choices": [
+        "Twelfth Night",
+        "As You Like It",
+        "The Merchant of Venice",
+        "Much Ado About Nothing"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the deepest part of Earth's oceans known as?",
+      "choices": [
+        "The Mariana Trench",
+        "The Challenger Deep",
+        "The Tonga Trench",
+        "The Philippine Trench"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which element has the highest melting point of all known substances at standard pressure?",
+      "choices": [
+        "Tungsten",
+        "Carbon",
+        "Rhenium",
+        "Osmium"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year was the first successful airplane flight by the Wright brothers?",
+      "choices": [
+        "1901",
+        "1903",
+        "1905",
+        "1907"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which composer wrote the four-movement orchestral work 'The Four Seasons'?",
+      "choices": [
+        "Georg Friedrich Händel",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the hardest naturally occurring substance on Earth?",
+      "choices": [
+        "Corundum",
+        "Diamond",
+        "Moissanite",
+        "Sapphire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which country was the invention of the printing press with movable type first developed?",
+      "choices": [
+        "Germany",
+        "Italy",
         "China",
         "France"
       ],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Russia",
-        "verified": true,
-        "notes": "Yuri Gagarin, April 12, 1961."
-      }
+      "correct": 2,
+      "difficulty": "hard"
     },
     {
-      "q": "What's the largest ocean on Earth?",
-      "choices": ["Pacific", "Atlantic", "Indian", "Arctic"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "The Pacific Ocean",
-        "verified": true,
-        "notes": "Covers ~30% of Earth's surface."
-      }
-    },
-    {
-      "q": "What's the world's longest river (by most measures)?",
-      "choices": ["Nile", "Amazon", "Yangtze", "Mississippi"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Easy",
-        "verified": true,
-        "notes": "Some scientists argue Amazon is longer; Nile officially recognized at ~6,650 km."
-      }
-    },
-    {
-      "q": "In what European city is the Eiffel Tower located?",
-      "choices": ["Paris", "Rome", "London", "Madrid"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Paris",
-        "verified": true,
-        "notes": "Built 1887-1889 for the World's Fair."
-      }
-    },
-    {
-      "q": "What is the capital of China?",
-      "choices": ["Beijing", "Shanghai", "Hong Kong", "Taipei"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Beijing",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the capital of Brazil?",
-      "choices": ["Brasília", "Rio de Janeiro", "São Paulo", "Salvador"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Brasília",
-        "verified": true,
-        "notes": "Designated capital in 1960; Rio was former capital."
-      }
-    },
-    {
-      "q": "The Grand Canyon is in which U.S. state?",
-      "choices": ["Arizona", "Utah", "Colorado", "Nevada"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Arizona",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the deepest known place in the ocean?",
+      "q": "What is the speed of light in vacuum, rounded to the nearest hundred million meters per second?",
       "choices": [
+        "2 hundred million m/s",
+        "3 hundred million m/s",
+        "4 hundred million m/s",
+        "5 hundred million m/s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which is the second-longest river in the world by length?",
+      "choices": [
+        "Yangtze River",
+        "Amazon River",
+        "Congo River",
+        "Nile River"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Roman numerals, what does the letter 'M' represent?",
+      "choices": [
+        "500",
+        "1000",
+        "100",
+        "50"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the only species of great ape native to Asia?",
+      "choices": [
+        "Gorilla",
+        "Orangutan",
+        "Chimpanzee",
+        "Bonobo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Russian Revolution topple the Tsarist regime?",
+      "choices": [
+        "1915",
+        "1917",
+        "1919",
+        "1921"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which element on the periodic table has the atomic number 79 and is commonly used in jewelry?",
+      "choices": [
+        "Silver",
+        "Gold",
+        "Platinum",
+        "Copper"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the capital of Australia, often confused with Sydney by those unfamiliar with Australian geography?",
+      "choices": [
+        "Sydney",
+        "Canberra",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British author wrote the James Bond spy novels starting with 'Casino Royale' in 1953?",
+      "choices": [
+        "Graham Greene",
+        "Ian Fleming",
+        "Le Carré",
+        "Len Deighton"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Berlin Wall fall, marking a symbolic end to the Cold War?",
+      "choices": [
+        "1987",
+        "1989",
+        "1991",
+        "1985"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which scientist developed the theory of evolution by natural selection, published in 'On the Origin of Species' in 1859?",
+      "choices": [
+        "Jean-Baptiste Lamarck",
+        "Charles Darwin",
+        "Alfred Wallace",
+        "Thomas Huxley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the 1997 film that featured the sinking of the RMS Titanic, what was the name of the fictional third-class passenger played by Leonardo DiCaprio?",
+      "choices": [
+        "Jack Dawson",
+        "James Dawson",
+        "Jack Morrison",
+        "Joseph Dawson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Soviet cosmonaut became the first human to travel to space in 1961 aboard Vostok 1?",
+      "choices": [
+        "Valentina Tereshkova",
+        "Yuri Gagarin",
+        "Sergei Korolev",
+        "Alexei Leonov"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Titanic sink after hitting an iceberg in the North Atlantic?",
+      "choices": [
+        "1912",
+        "1905",
+        "1920",
+        "1898"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which element on the periodic table has the chemical symbol 'Au'?",
+      "choices": [
+        "Gold",
+        "Silver",
+        "Aluminum",
+        "Argon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In American football, how many points is a touchdown worth?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "5"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which author wrote 'Pride and Prejudice'?",
+      "choices": [
+        "Jane Austen",
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "George Eliot"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Titanic movie starring Leonardo DiCaprio premiere in theaters?",
+      "choices": [
+        "1997",
+        "1996",
+        "1998",
+        "1995"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ocean is the deepest on Earth?",
+      "choices": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is home to the Great Wall, one of the world's most iconic structures?",
+      "choices": [
+        "China",
+        "India",
+        "Japan",
+        "Korea"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In chess, how many squares are on a standard chessboard?",
+      "choices": [
+        "64",
+        "81",
+        "100",
+        "49"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the first modern Olympic Games take place?",
+      "choices": [
+        "1896",
+        "1900",
+        "1888",
+        "1904"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Shakespeare play features the character Othello, a Moorish general?",
+      "choices": [
+        "Othello",
+        "Macbeth",
+        "Hamlet",
+        "King Lear"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system is known for its prominent ring system?",
+      "choices": [
+        "Saturn",
+        "Jupiter",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Berlin Wall fall, ending the division of East and West Berlin?",
+      "choices": [
+        "1989",
+        "1985",
+        "1991",
+        "1987"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British author wrote the Sherlock Holmes detective series?",
+      "choices": [
+        "Arthur Conan Doyle",
+        "Agatha Christie",
+        "Roald Dahl",
+        "C.S. Lewis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which movie won the Academy Award for Best Picture in 1995, set during the sinking of a famous ship?",
+      "choices": [
+        "Titanic",
+        "The English Patient",
+        "Braveheart",
+        "Sense and Sensibility"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Scandinavian country is home to the Northern Lights phenomenon?",
+      "choices": [
+        "Norway",
+        "Denmark",
+        "Germany",
+        "Poland"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Chernobyl nuclear disaster occur in Ukraine?",
+      "choices": [
+        "1986",
+        "1984",
+        "1988",
+        "1982"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the largest mammal currently living on Earth?",
+      "choices": [
+        "Blue whale",
+        "African elephant",
+        "Giraffe",
+        "Hippopotamus"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist is famous for cutting off his own ear?",
+      "choices": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Frida Kahlo",
+        "Salvador Dalí"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the first iPhone become available to consumers?",
+      "choices": [
+        "2007",
+        "2005",
+        "2009",
+        "2008"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance polymath painted the Mona Lisa?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the deepest ocean on Earth?",
+      "choices": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many bones does an adult human body typically have?",
+      "choices": [
+        "206",
+        "186",
+        "226",
+        "196"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which South American country is known for being the world's largest coffee producer?",
+      "choices": [
+        "Brazil",
+        "Colombia",
+        "Peru",
+        "Ecuador"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical symbol for the element sodium on the periodic table?",
+      "choices": [
+        "So",
+        "Sd",
+        "Na",
+        "S"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many bones does an adult human skeleton typically contain?",
+      "choices": [
+        "186",
+        "206",
+        "226",
+        "246"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ocean trench is the deepest point in Earth's oceans?",
+      "choices": [
+        "Tonga Trench",
+        "Philippine Trench",
         "Mariana Trench",
-        "Puerto Rico Trench",
-        "Java Trench",
-        "Tonga Trench"
+        "Kuril-Kamchatka Trench"
       ],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Mariana Trench",
-        "verified": true,
-        "notes": "Challenger Deep is ~36,000 ft below sea level."
-      }
+      "correct": 2,
+      "difficulty": "medium"
     },
     {
-      "q": "What chemical symbol represents oxygen on the periodic table?",
-      "choices": ["O", "Ox", "On", "OG"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "O",
-        "verified": true,
-        "notes": "Atomic number 8."
-      }
-    },
-    {
-      "q": "What chemical symbol represents gold?",
-      "choices": ["Au", "Go", "Gd", "Ag"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Au",
-        "verified": true,
-        "notes": "From the Latin 'aurum.'"
-      }
-    },
-    {
-      "q": "What chemical symbol represents sodium?",
-      "choices": ["Na", "So", "Sd", "Nm"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Na",
-        "verified": true,
-        "notes": "From the Latin 'natrium.'"
-      }
-    },
-    {
-      "q": "What process do plants use to convert sunlight into energy?",
+      "q": "Which pigment in plant cells is primarily responsible for their green color?",
       "choices": [
-        "Photosynthesis",
-        "Respiration",
-        "Mitosis",
-        "Fermentation"
+        "Xanthophyll",
+        "Carotenoid",
+        "Chlorophyll",
+        "Anthocyanin"
       ],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Photosynthesis",
-        "verified": true,
-        "notes": ""
-      }
+      "correct": 2,
+      "difficulty": "medium"
     },
     {
-      "q": "What green pigment is essential for photosynthesis?",
-      "choices": ["Chlorophyll", "Carotene", "Hemoglobin", "Melanin"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Chlorophyll",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What's the basic structural unit of all living things?",
-      "choices": ["Cell", "Atom", "Molecule", "Tissue"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cell",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How do you say 'hello' in French?",
-      "choices": ["Bonjour", "Merci", "Au revoir", "Salut"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Bonjour",
-        "verified": true,
-        "notes": "'Salut' is informal hi/bye."
-      }
-    },
-    {
-      "q": "How many senses do humans traditionally have?",
-      "choices": ["5", "4", "6", "7"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Sight, hearing, taste, smell, touch",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which country is famous for IKEA furniture?",
-      "choices": ["Sweden", "Norway", "Denmark", "Finland"],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Sweden",
-        "verified": true,
-        "notes": "Founded 1943 by Ingvar Kamprad."
-      }
-    },
-    {
-      "q": "Which English town was the birthplace of William Shakespeare?",
+      "q": "What is the capital city of Brazil, known for its distinctive modernist architecture?",
       "choices": [
-        "Stratford-upon-Avon",
-        "London",
-        "Oxford",
-        "Canterbury"
+        "Rio de Janeiro",
+        "Salvador",
+        "Brasília",
+        "Belo Horizonte"
       ],
-      "correct": 0,
-      "category": "Easy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Stratford-upon-Avon",
-        "verified": true,
-        "notes": "Born April 1564."
-      }
+      "correct": 2,
+      "difficulty": "medium"
     },
     {
-      "q": "Which is the largest desert in the world by area, including polar deserts?",
-      "choices": ["Antarctic", "Sahara", "Arabian", "Gobi"],
+      "q": "In which year did Russia launch Sputnik 1, the first artificial satellite?",
+      "choices": [
+        "1955",
+        "1957",
+        "1959",
+        "1961"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which animal holds the record for the fastest land speed among all species?",
+      "choices": [
+        "Pronghorn antelope",
+        "Cheetah",
+        "Greyhound",
+        "Lion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical compound responsible for the salty taste in table salt?",
+      "choices": [
+        "KCl",
+        "NaCl",
+        "CaCl",
+        "MgCl"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which marine mammal is actually a dolphin despite having 'whale' in its name?",
+      "choices": [
+        "Beluga whale",
+        "Orca whale",
+        "Narwhal whale",
+        "Sperm whale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many colors are traditionally recognized in a rainbow spectrum?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many elements are currently listed on the modern periodic table?",
+      "choices": [
+        "106",
+        "112",
+        "118",
+        "124"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What geometric shape has exactly five sides?",
+      "choices": [
+        "Hexagon",
+        "Pentagon",
+        "Heptagon",
+        "Octagon"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In golf, what is the primary objective of the game?",
+      "choices": [
+        "Hit the ball the farthest",
+        "Complete a hole in the fewest strokes",
+        "Hit the most balls",
+        "Keep the ball in the air longest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the chemical symbol for gold on the periodic table?",
+      "choices": [
+        "Go",
+        "Gd",
+        "Au",
+        "Ag"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which reality television show pioneered the survival competition format?",
+      "choices": [
+        "The Amazing Race",
+        "Survivor",
+        "Fear Factor",
+        "The Bachelor"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is a collective noun for a group of crows?",
+      "choices": [
+        "A flock",
+        "A murder",
+        "A swarm",
+        "A colony"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Disney animated film features the character Woody, a cowboy action figure?",
+      "choices": [
+        "A Bug's Life",
+        "Toy Story",
+        "Finding Nemo",
+        "Cars"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which planet in our solar system is known for its prominent ring system visible from Earth with a telescope?",
+      "choices": [
+        "Jupiter",
+        "Saturn",
+        "Uranus",
+        "Neptune"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which U.S. state is the Grand Canyon located?",
+      "choices": [
+        "Utah",
+        "Colorado",
+        "Arizona",
+        "Nevada"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the most spoken language in the world by number of native speakers?",
+      "choices": [
+        "English",
+        "Spanish",
+        "Mandarin Chinese",
+        "Hindi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which flightless bird native to New Zealand is named after a fruit and is now critically endangered?",
+      "choices": [
+        "Kiwi",
+        "Takahe",
+        "Weka",
+        "Kakapo"
+      ],
       "correct": 0,
-      "category": "Easy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Antarctica",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: clarified question to specify 'including polar deserts' to avoid hot/cold ambiguity. A desert is defined by precipitation, not temperature; Antarctica gets ~2 inches/year. Sahara is the largest *hot* desert."
-      }
+      "difficulty": "medium"
     }
   ]
 }

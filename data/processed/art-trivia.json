@@ -1,273 +1,3263 @@
 {
   "slug": "art-trivia",
   "name": "Art",
-  "description": "Famous paintings, sculptures, artists, and museums",
-  "processedAt": "2026-04-17T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.416Z",
   "questions": [
     {
-      "q": "Who painted the Mona Lisa, also known as La Gioconda?",
-      "choices": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Caravaggio"],
+      "q": "Which artist is famous for cutting off his ear?",
+      "choices": [
+        "Michelangelo",
+        "Vincent van Gogh",
+        "Rembrandt",
+        "Salvador Dali"
+      ],
       "correct": 1,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Leonardo da Vinci",
-        "verified": true,
-        "notes": "Painted c. 1503–1519; hangs in the Louvre in Paris."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "'The Starry Night' (1889) was painted by which Dutch Post-Impressionist?",
-      "choices": ["Rembrandt", "Johannes Vermeer", "Vincent van Gogh", "Piet Mondrian"],
+      "q": "Who painted The Starry Night?",
+      "choices": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso"
+      ],
       "correct": 2,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Van Gogh",
-        "verified": true,
-        "notes": "Painted from memory at the Saint-Paul-de-Mausole asylum."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "From what material was Michelangelo's statue of David carved?",
-      "choices": ["Bronze", "Marble", "Limestone", "Granite"],
+      "q": "Who sculpted the statue of David?",
+      "choices": [
+        "Donatello",
+        "Michelangelo",
+        "Auguste Rodin",
+        "Gian Lorenzo Bernini"
+      ],
       "correct": 1,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Marble",
-        "verified": true,
-        "notes": "Carved from a single block of Carrara marble between 1501 and 1504."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Frida Kahlo, famous for her surrealist self-portraits, was from which country?",
-      "choices": ["Spain", "Argentina", "Cuba", "Mexico"],
+      "q": "Which artist painted the late 15th century mural 'The Last Supper'?",
+      "choices": [
+        "Piero della Francesca",
+        "Leonardo da Vinci",
+        "Luca Pacioli",
+        "Paolo Uccello"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who painted \"Swans Reflecting Elephants\", \"Sleep\", and \"The Persistence of Memory\"?",
+      "choices": [
+        "Jackson Pollock",
+        "Vincent van Gogh",
+        "Edgar Degas",
+        "Salvador Dali"
+      ],
       "correct": 3,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Frida Kahlo",
-        "verified": true,
-        "notes": "Born in Coyoacán, Mexico in 1907."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the first name of Norwegian artist Munch, who painted 'The Scream'?",
-      "choices": ["Eduard", "Edvard", "Erik", "Edmund"],
-      "correct": 1,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Edvard",
-        "verified": true,
-        "notes": "Edvard Munch created several versions between 1893 and 1910."
-      }
-    },
-    {
-      "q": "Who painted 'The Last Supper' on the wall of a Milan convent refectory?",
-      "choices": ["Raphael", "Michelangelo", "Leonardo da Vinci", "Giotto"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Leonardo da Vinci",
-        "verified": true,
-        "notes": "Painted 1495–1498 at Santa Maria delle Grazie in Milan."
-      }
-    },
-    {
-      "q": "The Solomon R. Guggenheim Museum, with its famous spiral interior, is located in which city?",
-      "choices": ["Washington DC", "Chicago", "New York", "Los Angeles"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "New York",
-        "verified": true,
-        "notes": "On Fifth Avenue in Manhattan; designed by Frank Lloyd Wright, opened 1959."
-      }
-    },
-    {
-      "q": "Pablo Picasso's mural-sized anti-war painting 'Guernica' was created in response to an event during which decade?",
-      "choices": ["1920s", "1930s", "1940s", "1950s"],
-      "correct": 1,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1930s",
-        "verified": true,
-        "notes": "Painted in 1937 after the bombing of the Basque town of Guernica during the Spanish Civil War."
-      }
-    },
-    {
-      "q": "How many figures appear in Grant Wood's famous painting 'American Gothic'?",
-      "choices": ["One", "Two", "Three", "Four"],
-      "correct": 1,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "2",
-        "verified": true,
-        "notes": "A man holding a pitchfork and a woman in front of a white farmhouse (1930)."
-      }
-    },
-    {
-      "q": "Which Spanish Surrealist, famed for a flamboyant mustache, painted 'The Persistence of Memory' with its melting clocks?",
-      "choices": ["Joan Miró", "Pablo Picasso", "Salvador Dalí", "Diego Velázquez"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dali",
-        "verified": true,
-        "notes": "Painted 1931; now at MoMA in New York."
-      }
-    },
-    {
-      "q": "Which French Impressionist produced the series of 'Water Lilies' paintings at his garden in Giverny?",
-      "choices": ["Auguste Renoir", "Édouard Manet", "Claude Monet", "Camille Pissarro"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Monet",
-        "verified": true,
-        "notes": "About 250 oil paintings depicting his flower garden at Giverny."
-      }
-    },
-    {
-      "q": "Which French artist's pointillist masterpiece 'A Sunday on La Grande Jatte' uses thousands of tiny dots of color?",
-      "choices": ["Paul Cézanne", "Georges Seurat", "Paul Signac", "Henri Matisse"],
-      "correct": 1,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Seurat",
-        "verified": true,
-        "notes": "Painted 1884–1886; a foundational Neo-Impressionist work."
-      }
-    },
-    {
-      "q": "Which Italian Renaissance painter depicted the goddess of love emerging from the sea on a shell in 'The Birth of Venus'?",
-      "choices": ["Botticelli", "Raphael", "Titian", "Masaccio"],
+      "q": "What is a fundamental element of the Gothic style of architecture?",
+      "choices": [
+        "pointed arch",
+        "façades surmounted by a pediment ",
+        "internal frescoes",
+        "coffered ceilings"
+      ],
       "correct": 0,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Botticelli",
-        "verified": true,
-        "notes": "Painted c. 1485; now at the Uffizi in Florence."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Johannes Vermeer, painter of 'Girl with a Pearl Earring', came from which country?",
-      "choices": ["Belgium", "France", "Netherlands", "Germany"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Vermeer",
-        "verified": true,
-        "notes": "Born and worked in Delft during the Dutch Golden Age."
-      }
-    },
-    {
-      "q": "Which Dutch master painted the massive group portrait known as 'The Night Watch' in 1642?",
-      "choices": ["Jan Vermeer", "Frans Hals", "Rembrandt", "Pieter de Hooch"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Rembrandt",
-        "verified": true,
-        "notes": "Full title 'Militia Company of District II under the Command of Captain Frans Banninck Cocq'; hangs at the Rijksmuseum."
-      }
-    },
-    {
-      "q": "Which British sculptor created the towering 'Angel of the North' in Gateshead?",
-      "choices": ["Henry Moore", "Antony Gormley", "Rachel Whiteread", "Anish Kapoor"],
-      "correct": 1,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Gormley",
-        "verified": true,
-        "notes": "Unveiled 1998; 20 metres tall with a 54-metre wingspan."
-      }
-    },
-    {
-      "q": "Which French Post-Impressionist painter left Paris for Tahiti in 1891 to create works inspired by Polynesian life?",
-      "choices": ["Henri Matisse", "Paul Cézanne", "Paul Gauguin", "Henri de Toulouse-Lautrec"],
-      "correct": 2,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Gauguin",
-        "verified": true,
-        "notes": "Gauguin spent most of his later years in French Polynesia."
-      }
-    },
-    {
-      "q": "Andy Warhol's breakthrough 1962 exhibition featured paintings of which everyday product?",
-      "choices": ["Coca-Cola bottles", "Campbell's Soup cans", "Brillo boxes", "Heinz ketchup"],
-      "correct": 1,
-      "category": "Art",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1962",
-        "verified": true,
-        "notes": "Shown at the Ferus Gallery in Los Angeles in July 1962."
-      }
-    },
-    {
-      "q": "What do the initials 'L.S.' stand for in the name of Salford painter L.S. Lowry?",
-      "choices": ["Laurence Stephen", "Lionel Samuel", "Luther Sidney", "Leonard Stanley"],
+      "q": "What is another name for La Gioconda / La Joconde?",
+      "choices": [
+        "The Mona Lisa",
+        "The Starry Night",
+        "Sunflowers",
+        "The Girl with a Pearl Earring"
+      ],
       "correct": 0,
-      "category": "Art",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Laurence Stephen",
-        "verified": true,
-        "notes": "Famous for matchstick figures in industrial northern English scenes."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Gustav Klimt's gold-leafed painting 'The Kiss' is displayed in which European capital?",
-      "choices": ["Berlin", "Prague", "Vienna", "Budapest"],
+      "q": "Which Van Gogh painting depicts the view from his asylum in Saint-Rémy-de-Provence in southern France?",
+      "choices": [
+        "The Starry Night",
+        "The Sower with Setting Sun",
+        "Wheatfields with Crows",
+        "The Church at Auvers"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who painted the biblical fresco The Creation of Adam?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Rembrandt",
+        "Caravaggio",
+        "Michelangelo"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the Japanese art of folding paper into decorative shapes and figures?",
+      "choices": [
+        "Ukiyo-e",
+        "Sumi-e",
+        "Haiku",
+        "Origami"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the world's oldest known piece of fiction?",
+      "choices": [
+        "Rosetta Stone",
+        "Code of Hammurabi",
+        "Epic of Gilgamesh",
+        "Papyrus of Ani"
+      ],
       "correct": 2,
-      "category": "Art",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Vienna",
-        "verified": true,
-        "notes": "Held at the Österreichische Galerie Belvedere."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "The ancient Greek sculpture 'Venus de Milo' depicts which goddess?",
-      "choices": ["Artemis", "Aphrodite", "Athena", "Hera"],
+      "q": "Who painted the Sistine Chapel?",
+      "choices": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Raphael",
+        "Pablo Picasso"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which painting was not made by Vincent Van Gogh?",
+      "choices": [
+        "Starry Night",
+        "Café Terrace at Night",
+        "Bedroom In Arles",
+        "The Ninth Wave"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": " What color is produced by mixing black and white?",
+      "choices": [
+        "Grey",
+        "Brown",
+        "White",
+        "Black"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian Renaissance sculptor carved the massive statue of David from a single block of marble?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Donatello",
+        "Raphael"
+      ],
       "correct": 1,
-      "category": "Art",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Aphrodite",
-        "verified": true,
-        "notes": "Known to the Greeks as Aphrodite (Roman: Venus); now at the Louvre."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Leonardo da Vinci's 'Salvator Mundi' became the most expensive painting ever sold at auction in 2017, fetching approximately what price?",
-      "choices": ["$150 million", "$250 million", "$450 million", "$1 billion"],
+      "q": "What was the primary subject of Claude Monet's famous series of paintings created in his garden?",
+      "choices": [
+        "Sunflowers",
+        "Water lilies",
+        "Haystacks",
+        "Poppy fields"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which European city is Leonardo da Vinci's 'The Last Supper' permanently displayed?",
+      "choices": [
+        "Rome",
+        "Florence",
+        "Milan",
+        "Venice"
+      ],
       "correct": 2,
-      "category": "Art",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Leonardo da Vinci",
-        "verified": true,
-        "notes": "Sold for $450.3 million at Christie's New York in November 2017."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous painting technique uses small dots of color placed side by side to create an image?",
+      "choices": [
+        "Chiaroscuro",
+        "Pointillism",
+        "Glazing",
+        "Impasto"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color palette dominated Pablo Picasso's artwork during his early 'Blue Period'?",
+      "choices": [
+        "Warm oranges and reds",
+        "Bright primary colors",
+        "Shades of blue and gray",
+        "Earth tones and browns"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish artist painted 'The Persistence of Memory' featuring melting clocks?",
+      "choices": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Juan Gris"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the Mona Lisa by Leonardo da Vinci get stolen from the Louvre?",
+      "choices": [
+        "1903",
+        "1911",
+        "1925",
+        "1947"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dutch painter is famous for his self-portraits and lived during the 17th century?",
+      "choices": [
+        "Vermeer",
+        "Rembrandt",
+        "Frans Hals",
+        "Jacob van Ruisdael"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the ancient Greek column style featuring ornate spiral scrolls at the top?",
+      "choices": [
+        "Doric",
+        "Ionic",
+        "Corinthian",
+        "Tuscan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous museum in New York City houses the iconic spiral rotunda designed by Frank Lloyd Wright?",
+      "choices": [
+        "The Metropolitan Museum of Art",
+        "The Guggenheim Museum",
+        "MoMA",
+        "The Whitney Museum"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What everyday objects did Andy Warhol famously use as subjects for his pop art in the 1960s?",
+      "choices": [
+        "Comic books",
+        "Soup cans and celebrity portraits",
+        "Vintage cars",
+        "Old photographs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mexican artist was known for painting self-portraits and scenes of her own pain and recovery?",
+      "choices": [
+        "Diego Rivera",
+        "Frida Kahlo",
+        "David Alfaro Siqueiros",
+        "Rufino Tamayo"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the painting 'Nighthawks' by Edward Hopper, what type of establishment is depicted?",
+      "choices": [
+        "A movie theater",
+        "A diner",
+        "A bookstore",
+        "A train station"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British artist is famous for the painting 'The Fighting Temeraire' depicting a naval ship?",
+      "choices": [
+        "John Constable",
+        "J.M.W. Turner",
+        "Thomas Gainsborough",
+        "George Stubbs"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the art movement characterized by geometric shapes and a rejection of realistic representation?",
+      "choices": [
+        "Cubism",
+        "Romanticism",
+        "Realism",
+        "Baroque"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which color did Vincent van Gogh prominently feature in his series of sunflower paintings?",
+      "choices": [
+        "Bright red",
+        "Deep purple",
+        "Golden yellow",
+        "Electric blue"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who created the famous work 'The Son of Man' featuring a man with an apple obscuring his face?",
+      "choices": [
+        "Salvador Dalí",
+        "René Magritte",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Japanese artist is famous for the woodblock print 'The Great Wave off Kanagawa'?",
+      "choices": [
+        "Utamaro",
+        "Hiroshige",
+        "Hokusai",
+        "Kunisada"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What material did Auguste Rodin primarily use to create his famous sculptures?",
+      "choices": [
+        "Marble",
+        "Bronze",
+        "Wood",
+        "Stone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country was the art movement known as the Bauhaus founded in the early 20th century?",
+      "choices": [
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dutch Post-Impressionist artist is famous for cutting off part of his own ear in 1888?",
+      "choices": [
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Henri de Toulouse-Lautrec",
+        "Paul Cézanne"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What everyday object did Andy Warhol famously paint in his 1962 pop art series?",
+      "choices": [
+        "Campbell's soup cans",
+        "Coca-Cola bottles",
+        "Dollar bills",
+        "Light bulbs"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which European country was the Renaissance art movement primarily centered?",
+      "choices": [
+        "France",
+        "Spain",
+        "Italy",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which surrealist artist was known for his distinctive upturned mustache and dreamlike paintings?",
+      "choices": [
+        "René Magritte",
+        "Salvador Dalí",
+        "Max Ernst",
+        "Joan Miró"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Michelangelo's famous sculpture of a biblical figure carved from marble?",
+      "choices": [
+        "Apollo",
+        "David",
+        "Moses",
+        "Adam"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British artist is known for his colorful swimming pool paintings from the 1960s?",
+      "choices": [
+        "Francis Bacon",
+        "Lucian Freud",
+        "David Hockney",
+        "Peter Blake"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Pablo Picasso paint 'Les Demoiselles d'Avignon,' a work considered foundational to Cubism?",
+      "choices": [
+        "1897",
+        "1905",
+        "1907",
+        "1912"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which artist is famous for painting water lilies from his garden in Giverny?",
+      "choices": [
+        "Auguste Renoir",
+        "Claude Monet",
+        "Pierre-Auguste Cézanne",
+        "Alfred Sisley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What country was Joan Miró, the abstract surrealist painter, born in?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "Catalonia",
+        "France"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which artist created 'Nighthawks,' a famous painting depicting a late-night diner?",
+      "choices": [
+        "Jackson Pollock",
+        "Edward Hopper",
+        "Grant Wood",
+        "Thomas Hart Benton"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary artistic movement associated with Jackson Pollock's drip paintings?",
+      "choices": [
+        "Dadaism",
+        "Cubism",
+        "Abstract Expressionism",
+        "Futurism"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous painting by Edvard Munch depicts a figure with hands to face in existential anguish?",
+      "choices": [
+        "The Persistence of Memory",
+        "The Scream",
+        "Girl with a Pearl Earring",
+        "Wanderer Above the Sea of Fog"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which city did Leonardo da Vinci paint the 'Mona Lisa' during the Renaissance?",
+      "choices": [
+        "Venice",
+        "Milan",
+        "Florence",
+        "Rome"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dutch painter, known for geometric abstractions, created works featuring primary colors and black grid lines?",
+      "choices": [
+        "Paul Klee",
+        "Piet Mondrian",
+        "Theo van Doesburg",
+        "Kurt Schwitters"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What artistic technique involves applying paint with a palette knife to create thick, textured brushstrokes?",
+      "choices": [
+        "Glazing",
+        "Stippling",
+        "Impasto",
+        "Chiaroscuro"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American artist created silkscreen prints of celebrities like Marilyn Monroe in the 1960s?",
+      "choices": [
+        "Robert Rauschenberg",
+        "Andy Warhol",
+        "Jasper Johns",
+        "Roy Lichtenstein"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the painting by Grant Wood featuring a farmer and his daughter with a house in the background?",
+      "choices": [
+        "Main Street America",
+        "Rural Life",
+        "American Gothic",
+        "Farm Portraits"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which movement in art history emphasized emotion, nature, and imagination in reaction to Neoclassicism?",
+      "choices": [
+        "Baroque",
+        "Romanticism",
+        "Realism",
+        "Neoclassicism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who painted the ceiling of the Sistine Chapel with biblical scenes?",
+      "choices": [
+        "Raphael",
+        "Donato Bramante",
+        "Michelangelo",
+        "Leonardo da Vinci"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which art movement, originating in early 20th-century Spain and France, broke down objects into geometric shapes?",
+      "choices": [
+        "Expressionism",
+        "Cubism",
+        "Fauvism",
+        "Dadaism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which art movement did artists use small dots of color to create images?",
+      "choices": [
+        "Impressionism",
+        "Pointillism",
+        "Cubism",
+        "Expressionism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous artist cut off part of his own ear?",
+      "choices": [
+        "Paul Klee",
+        "Vincent van Gogh",
+        "Edvard Munch",
+        "Henri Matisse"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American artist is known for drip painting and abstract expressionism?",
+      "choices": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Willem de Kooning",
+        "Barnett Newman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous painting by Edvard Munch featuring a distressed figure on a bridge?",
+      "choices": [
+        "The Anxiety",
+        "The Scream",
+        "The Suffering",
+        "The Fear"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which French artist is most associated with painting water lilies and Japanese bridges?",
+      "choices": [
+        "Paul Cézanne",
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Alfred Sisley"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century was the Mona Lisa painted by Leonardo da Vinci?",
+      "choices": [
+        "15th century",
+        "16th century",
+        "17th century",
+        "18th century"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Mexican artist created self-portraits and was married to Diego Rivera?",
+      "choices": [
+        "María Izquierdo",
+        "Frida Kahlo",
+        "Remedios Varo",
+        "Leonora Carrington"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What material did Michelangelo primarily use to sculpt the statue of David?",
+      "choices": [
+        "Bronze",
+        "Limestone",
+        "Marble",
+        "Granite"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which art period followed the Renaissance in Europe?",
+      "choices": [
+        "Medieval",
+        "Baroque",
+        "Romantic",
+        "Neoclassical"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish artist is most famous for founding the Cubist movement?",
+      "choices": [
+        "Juan Gris",
+        "Pablo Picasso",
+        "Georges Braque",
+        "Juan Miró"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary subject of Andy Warhol's famous Campbell's Soup series?",
+      "choices": [
+        "Abstract shapes",
+        "Soup cans",
+        "Celebrity portraits",
+        "Flowers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British artist is known for his colorful paintings of splattered paint and geometric patterns?",
+      "choices": [
+        "David Hockney",
+        "Bridget Riley",
+        "Damien Hirst",
+        "Tracey Emin"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which museum can you find Vincent van Gogh's 'Sunflowers' painting?",
+      "choices": [
+        "Louvre Museum",
+        "National Gallery London",
+        "Van Gogh Museum",
+        "Uffizi Gallery"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which art style emphasized emotion, imagination, and individualism in the 18th and 19th centuries?",
+      "choices": [
+        "Neoclassicism",
+        "Romanticism",
+        "Realism",
+        "Symbolism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who sculpted 'The Thinker,' one of the most iconic sculptures in art history?",
+      "choices": [
+        "Auguste Rodin",
+        "Gian Lorenzo Bernini",
+        "Antonio Canova",
+        "Henry Moore"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What painting technique involves layering translucent colors to create depth?",
+      "choices": [
+        "Impasto",
+        "Glazing",
+        "Stippling",
+        "Sfumato"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dutch master is famous for paintings of domestic interiors and the use of light?",
+      "choices": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Jacob van Ruisdael"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the famous sculpture of a woman without arms in the Louvre Museum?",
+      "choices": [
+        "Venus of Willendorf",
+        "Venus de Milo",
+        "Winged Victory",
+        "The Birth of Venus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which famous Italian Renaissance artist painted the ceiling of the Sistine Chapel?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Donatello"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Vincent van Gogh, the post-impressionist painter, was born in which country?",
+      "choices": [
+        "France",
+        "Belgium",
+        "Netherlands",
+        "Germany"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What artistic movement was Pablo Picasso a founding figure of?",
+      "choices": [
+        "Surrealism",
+        "Cubism",
+        "Fauvism",
+        "Dadaism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Jackson Pollock is best known for pioneering which artistic technique?",
+      "choices": [
+        "Pointillism",
+        "Abstract Expressionism",
+        "Op Art",
+        "Kinetic Art"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dutch painter created 'Starry Night'?",
+      "choices": [
+        "Jan Vermeer",
+        "Vincent van Gogh",
+        "Rembrandt",
+        "Frans Hals"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Frida Kahlo, the Mexican artist, is particularly famous for painting what subject matter?",
+      "choices": [
+        "Landscapes",
+        "Still lifes",
+        "Self-portraits",
+        "Historical events"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The British artist J.M.W. Turner was best known for his paintings of what?",
+      "choices": [
+        "Portraits",
+        "Religious scenes",
+        "Seascapes and landscapes",
+        "Urban city life"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Claude Monet, the Impressionist master, created a famous series of paintings depicting what subject?",
+      "choices": [
+        "Water lilies",
+        "Haystacks",
+        "Cathedrals",
+        "Gardens"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which ancient Greek sculptor is famous for creating the statue of David during the Renaissance?",
+      "choices": [
+        "Phidias",
+        "Michelangelo",
+        "Donatello",
+        "Ghiberti"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Rembrandt, the Dutch Golden Age master, was known for his skillful use of what in his paintings?",
+      "choices": [
+        "Bright colors",
+        "Light and shadow",
+        "Gold leaf",
+        "Perspective techniques"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Grant Wood's 'American Gothic' features two figures standing in front of what type of building?",
+      "choices": [
+        "Church",
+        "Farmhouse",
+        "Colonial mansion",
+        "Barn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Georgia O'Keeffe is famous for her paintings of what natural subject?",
+      "choices": [
+        "Mountains",
+        "Flowers",
+        "Ocean waves",
+        "Desert rocks"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Spanish artist, known for Cubism, had a wife and muse named Gala who often appeared in his works?",
+      "choices": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Juan Gris"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Andy Warhol's famous silkscreen series depicted which product's cans?",
+      "choices": [
+        "Heinz Ketchup",
+        "Campbell's Soup",
+        "Coca-Cola",
+        "Pepsi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The 'Birth of Venus' is a famous Renaissance painting by which Italian artist?",
+      "choices": [
+        "Michelangelo",
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Raphael"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Impressionist painter is famous for his paintings of haystacks at different times of day?",
+      "choices": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The artist Henri Matisse led which early 20th-century art movement known for bold, bright colors?",
+      "choices": [
+        "Cubism",
+        "Expressionism",
+        "Fauvism",
+        "Futurism"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which British artist is famous for his abstract compositions using primary colors and black lines?",
+      "choices": [
+        "Henry Moore",
+        "Barbara Hepworth",
+        "Piet Mondrian",
+        "Ben Nicholson"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Wassily Kandinsky is credited with pioneering which type of art in the early 20th century?",
+      "choices": [
+        "Figurative art",
+        "Abstract art",
+        "Photorealism",
+        "Kinetic sculpture"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Norwegian artist painted 'The Scream', one of the most recognizable paintings in art history?",
+      "choices": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Egon Schiele",
+        "James Ensor"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which American pop artist is famous for painting Campbell's soup cans and became an icon of the pop art movement in the 1960s?",
+      "choices": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "James Pollock",
+        "Robert Rauschenberg"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Vincent van Gogh's famous painting 'The Starry Night' can be viewed at which major museum in New York?",
+      "choices": [
+        "The Guggenheim",
+        "The Metropolitan Museum of Art",
+        "The Museum of Modern Art",
+        "The Whitney Museum"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Dutch painter is renowned for his geometric abstract works featuring primary colors and black grid lines?",
+      "choices": [
+        "Piet Mondrian",
+        "Wassily Kandinsky",
+        "Joan Miró",
+        "Max Ernst"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "The Smithsonian Institution, one of the world's largest museum complexes, is located in which U.S. capital city?",
+      "choices": [
+        "New York",
+        "Washington, D.C.",
+        "Boston",
+        "Philadelphia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What nationality was the famous artist Pablo Picasso?",
+      "choices": [
+        "Spanish",
+        "Italian",
+        "German",
+        "French"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year did Albrecht Dürer create the painting \"The Young Hare\"?",
+      "choices": [
+        "1502",
+        "1702",
+        "1602",
+        "1402"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which art movement was Pablo Picasso known for co-founding?",
+      "choices": [
+        "Cubism",
+        "Expressionism",
+        "Impressionism",
+        "Futurism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which of these is not an additional variation of the color purple?",
+      "choices": [
+        "Byzantium",
+        "Palatinate",
+        "Kobicha",
+        "Pomp and Power"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the major distinction between the English and French Gothic styles of architecture?",
+      "choices": [
+        "Fan vaulting",
+        "Pinnacles",
+        "Hemispherical Domes",
+        "Gargoyles"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "How many paint and pastel versions of \"The Scream\" is Norwegian painter Edvard Munch believed to have produced?",
+      "choices": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What year was the Mona Lisa finished?",
+      "choices": [
+        "1523",
+        "1511",
+        "1504",
+        "1487"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who painted \"American Gothic\"?",
+      "choices": [
+        "Grant Wood",
+        "Anita Malfatti",
+        "Pablo Picasso",
+        "Marc Chagall"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Albrecht Dürer's birthplace and place of death were in...",
+      "choices": [
+        "Bamberg",
+        "Augsburg",
+        "Nürnberg",
+        "Berlin"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the first successful and commercially viable photographic technique?",
+      "choices": [
+        "The Daguerreotype",
+        "The Turin Shroud",
+        "Collodion process",
+        "Kodachrome film"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Paul Gauguin moved to which country in 1895?",
+      "choices": [
+        "France",
+        "Atuona",
+        "Lithuania",
+        "Tahiti"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When was Salvador Dali's painting, \"The Persistence of Memory,\" completed?",
+      "choices": [
+        "1931",
+        "1929",
+        "1934",
+        "1932"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The painting \"Guernica\" by Pablo Picasso expressed emotions of dread in response to which war?",
+      "choices": [
+        "The Crimean War",
+        "Spanish-American War",
+        "Spanish Civil War",
+        "World War I"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Painter Piet Mondrian (1872 - 1944) was a part of what movement?",
+      "choices": [
+        "Cubism",
+        "Impressionism",
+        "Neoplasticism",
+        "Precisionism"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What nationality was the famous artist Van Gogh?",
+      "choices": [
+        "Polish",
+        "French",
+        "Russian",
+        "Dutch"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What French sculptor designed the Statue of Liberty? ",
+      "choices": [
+        "Auguste Rodin",
+        "Jean-Léon Gérôme",
+        "Henri Matisse",
+        "Frédéric Auguste Bartholdi"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The painting \"The Starry Night\" by Vincent van Gogh was part of which art movement?",
+      "choices": [
+        "Impressionism",
+        "Romanticism",
+        "Post-Impressionism",
+        "Neoclassical"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Marcel Duchamp submit his controversial readymade 'Fountain,' a porcelain urinal signed 'R. Mutt,' to the Society of Independent Artists exhibition?",
+      "choices": [
+        "1915",
+        "1917",
+        "1919",
+        "1921"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Renaissance painter created the fresco cycle 'The Legend of the True Cross' in the Basilica of San Francesco in Arezzo?",
+      "choices": [
+        "Giotto di Bondone",
+        "Piero della Francesca",
+        "Luca Signorelli",
+        "Andrea del Castagno"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the artistic technique where pigment is mixed into wet plaster to create a mural, practiced extensively by Michelangelo?",
+      "choices": [
+        "Tempera",
+        "Fresco",
+        "Encaustic",
+        "Grisaille"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian avant-garde artist founded the Suprematist movement and created the iconic 'Black Square' composition in 1915?",
+      "choices": [
+        "Wassily Kandinsky",
+        "Kazimir Malevich",
+        "El Lissitzky",
+        "Alexander Rodchenko"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Impressionist movement gain its name after Claude Monet's painting 'Impression, Sunrise' was ridiculed by critics?",
+      "choices": [
+        "1872",
+        "1874",
+        "1876",
+        "1878"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Spanish artist collaborated with filmmaker Luis Buñuel and created the surrealist paintings 'The Elephants' and 'Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening'?",
+      "choices": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Juan Gris",
+        "Oscar Domínguez"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary artistic movement in the Netherlands during the 1920s-1930s, characterized by geometric abstraction and primary colors, exemplified by Piet Mondrian?",
+      "choices": [
+        "Fauvism",
+        "De Stijl",
+        "Cubism",
+        "Constructivism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baroque painter from Crete, known for his distinctive style of elongated figures and spiritual intensity, created 'View of Toledo' and numerous religious compositions?",
+      "choices": [
+        "Caravaggio",
+        "El Greco",
+        "Diego Velázquez",
+        "Peter Paul Rubens"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city is the Uffizi Gallery, one of the world's foremost art museums containing masterworks from the Renaissance, located?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What sculpture technique, perfecting during the Hellenistic period and involving the representation of the human figure in a state of repose or movement, is exemplified by Polyclitus's 'Doryphoros'?",
+      "choices": [
+        "Contrapposto",
+        "Chiaroscuro",
+        "Impasto",
+        "Sfumato"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American painter of the Hudson River School created vast romantic landscapes including 'Kindred Spirits' and 'The Oxbow'?",
+      "choices": [
+        "Frederic Edwin Church",
+        "Thomas Cole",
+        "Albert Bierstadt",
+        "Asher Brown Durand"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who was the Dutch Golden Age painter best known for his dramatic use of light and shadow (chiaroscuro) in biblical and mythological scenes, including 'The Night Watch'?",
+      "choices": [
+        "Jan Vermeer",
+        "Rembrandt van Rijn",
+        "Frans Hals",
+        "Aelbert Cuyp"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which art movement, emerging in post-World War II New York, emphasized spontaneous, automatic, or subconscious creation and included artists like Jackson Pollock and Mark Rothko?",
+      "choices": [
+        "Photorealism",
+        "Abstract Expressionism",
+        "Op Art",
+        "Color Field Painting"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the marble statue carved by Michelangelo between 1501 and 1504, depicting the biblical hero in classical contrapposto stance?",
+      "choices": [
+        "Pietà",
+        "David",
+        "Moses",
+        "Saint Peter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British artist, known for his Pop Art works incorporating commercial imagery and mechanical reproduction techniques, created 'A Bigger Splash' in 1967?",
+      "choices": [
+        "Richard Hamilton",
+        "David Hockney",
+        "Peter Blake",
+        "Joe Tilson"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Caravaggio's 'The Calling of Saint Matthew,' what specific detail in the painting's composition emphasizes the divine moment of spiritual awakening?",
+      "choices": [
+        "A beam of light entering through a window",
+        "An angel descending from heaven",
+        "Matthew rising from his seat",
+        "The presence of Roman soldiers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Symbolist painter created the haunting images 'The Scream' and 'Madonna,' known for his explorations of anxiety and psychological turmoil?",
+      "choices": [
+        "Gustav Klimt",
+        "Edvard Munch",
+        "Odilon Redon",
+        "Gustave Moreau"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What artistic technique, developed in Florence during the 15th century by Filippo Brunelleschi, revolutionized the representation of three-dimensional space on flat surfaces?",
+      "choices": [
+        "Atmospheric perspective",
+        "Linear perspective",
+        "Aerial perspective",
+        "Isometric perspective"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian Constructivist artist designed revolutionary graphic works and theatrical sets, including 'Beat the Whites with the Red Wedge'?",
+      "choices": [
+        "Natalia Goncharova",
+        "Liubov Popova",
+        "El Lissitzky",
+        "Alexander Rodchenko"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year was the Armory Show held in New York, introducing American audiences to European modernist movements including Cubism and Fauvism?",
+      "choices": [
+        "1911",
+        "1913",
+        "1915",
+        "1917"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Renaissance painter created 'St. George and the Dragon' featuring dynamic movement and dramatic lighting characteristic of Mannerism?",
+      "choices": [
+        "Tintoretto",
+        "Titian",
+        "Veronese",
+        "Bronzino"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Leonardo da Vinci's 'The Last Supper,' what primary color dominates Jesus's robe?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Purple",
+        "White"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Dutch Golden Age painter specialized in intimate domestic interior scenes and is known for his masterful use of light in works like 'Girl with a Pearl Earring'?",
+      "choices": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Jacob van Ruisdael"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Salvador Dalí's 1937 surrealist work 'The Burning ___' features a melting elephant as its central motif. What is the missing word?",
+      "choices": [
+        "Giraffe",
+        "Elephant",
+        "Desert",
+        "Landscape"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which artist's 1907 painting 'Les Demoiselles d'Avignon' is widely considered a proto-Cubist work that revolutionized modern art?",
+      "choices": [
+        "Georges Braque",
+        "Pablo Picasso",
+        "Juan Gris",
+        "Fernand Léger"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mark Rothko, known for his color field paintings, was born under what surname?",
+      "choices": [
+        "Rothstein",
+        "Rothkowitz",
+        "Rothschild",
+        "Rothman"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which decade did Pablo Picasso create 'Guernica,' his monumental response to the bombing of a Basque town?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1940s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Frida Kahlo suffered from polio as a child and later from injuries sustained in which type of accident?",
+      "choices": [
+        "Train derailment",
+        "Bus collision",
+        "Horse fall",
+        "Car accident"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Dutch master's 1642 painting 'The Night Watch' exemplifies his innovative use of chiaroscuro and dynamic composition?",
+      "choices": [
+        "Rembrandt",
+        "Jan van Goyen",
+        "Aelbert Cuyp",
+        "Meindert Hobbema"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Canaletto, the 18th-century master of vedute paintings, hailed from which Italian city?",
+      "choices": [
+        "Florence",
+        "Rome",
+        "Venice",
+        "Milan"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Van Gogh's 'The Starry Night Over The Rhone' was painted in which year?",
+      "choices": [
+        "1886",
+        "1888",
+        "1890",
+        "1892"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "During his lifetime, Vincent van Gogh sold approximately how many paintings?",
+      "choices": [
+        "One",
+        "Five",
+        "Twelve",
+        "Twenty-three"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British artist achieved prominence in the 1960s with his pool and water-themed paintings like 'A Bigger Splash'?",
+      "choices": [
+        "Lucian Freud",
+        "David Hockney",
+        "Francis Bacon",
+        "Bridget Riley"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Mondrian's geometric abstract compositions, pioneered in the early 20th century, were part of which avant-garde movement?",
+      "choices": [
+        "De Stijl",
+        "Constructivism",
+        "Dadaism",
+        "Futurism"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major art movement of the 19th century, championed by painters like Renoir and Monet, emphasized the effects of light and color?",
+      "choices": [
+        "Romanticism",
+        "Impressionism",
+        "Realism",
+        "Symbolism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Salvador Dalí claimed to be the reincarnation of which family member?",
+      "choices": [
+        "His father",
+        "His dead brother",
+        "His grandfather",
+        "His uncle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Metropolitan Museum of Art in New York acquire Constantin Brancusi's 'Fish' sculpture from 1926?",
+      "choices": [
+        "1989",
+        "1996",
+        "2001",
+        "1984"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Thomas Lawrence painted the royal portrait 'Portrait of George IV' in which year?",
+      "choices": [
+        "1820",
+        "1840",
+        "1835",
+        "1825"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Egyptian-born abstract painter, associated with color field painting, is known for his large-scale canvases and tragic personal history?",
+      "choices": [
+        "Cy Twombly",
+        "Barnett Newman",
+        "Mark Rothko",
+        "Robert Motherwell"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Jan van Eyck, the pioneering 15th-century Flemish master, is credited with perfecting which painting technique that allowed for unprecedented detail and luminosity?",
+      "choices": [
+        "Tempera on wood",
+        "Oil painting",
+        "Fresco",
+        "Egg tempera"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Jackson Pollock create 'Drip Painting No. 5', establishing his signature abstract expressionist technique?",
+      "choices": [
+        "1947",
+        "1950",
+        "1948",
+        "1952"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Renaissance sculptor created the bronze doors of the Florence Baptistry known as the 'Gates of Paradise'?",
+      "choices": [
+        "Donatello",
+        "Lorenzo Ghiberti",
+        "Luca della Robbia",
+        "Andrea del Verrocchio"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Frida Kahlo paint 'The Two Fridas', her largest and most ambitious work?",
+      "choices": [
+        "1943",
+        "1945",
+        "1947",
+        "1949"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pre-Raphaelite painter created 'Ophelia' (1851-52), depicting the tragic Shakespearean character drowning?",
+      "choices": [
+        "John Everett Millais",
+        "Dante Gabriel Rossetti",
+        "William Holman Hunt",
+        "Edward Burne-Jones"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What pigment, derived from the lapis lazuli stone, was the most expensive blue available to Medieval and Renaissance painters?",
+      "choices": [
+        "Prussian Blue",
+        "Ultramarine",
+        "Indigo",
+        "Cerulean"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which city did the Dada movement originate during World War I?",
+      "choices": [
+        "Berlin",
+        "Paris",
+        "Zurich",
+        "Vienna"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Japanese artist is credited with pioneering the woodblock print technique known as ukiyo-e?",
+      "choices": [
+        "Hokusai",
+        "Hiroshige",
+        "Moronobu Hishikawa",
+        "Utamaro"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the sculptural technique in which figures project from a flat background but are not fully three-dimensional?",
+      "choices": [
+        "Bas-relief",
+        "Intaglio",
+        "Chasing",
+        "Repoussé"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Futurist painter created 'Unique Forms of Continuity in Space', now a symbol of Italian design?",
+      "choices": [
+        "Giacomo Balla",
+        "Umberto Boccioni",
+        "Filippo Tommaso Marinetti",
+        "Gino Severini"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Andy Warhol create his iconic Campbell's Soup Cans silkscreen series?",
+      "choices": [
+        "1960",
+        "1962",
+        "1964",
+        "1966"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German Expressionist artist severed part of his own ear in December 1888?",
+      "choices": [
+        "Egon Schiele",
+        "Emil Nolde",
+        "Ernst Ludwig Kirchner",
+        "No artist; this myth originated with Van Gogh"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What ancient Roman fresco technique involves applying pigment to wet plaster?",
+      "choices": [
+        "Tempera",
+        "Fresco secco",
+        "Buon fresco",
+        "Encaustic"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian avant-garde artist founded Suprematism and created the iconic 'Black Square' in 1915?",
+      "choices": [
+        "Wassily Kandinsky",
+        "Kazimir Malevich",
+        "El Lissitzky",
+        "Alexander Rodchenko"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which decade did the Art Deco movement reach its peak as a dominant design aesthetic?",
+      "choices": [
+        "1910s",
+        "1920s-1930s",
+        "1940s",
+        "1950s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Baroque painter is famous for his dramatic use of chiaroscuro and religious themes, including 'The Calling of Saint Matthew'?",
+      "choices": [
+        "Artemisia Gentileschi",
+        "Caravaggio",
+        "Diego Velázquez",
+        "Peter Paul Rubens"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical name for the artistic process of etching a design into a metal plate using acid?",
+      "choices": [
+        "Aquatint",
+        "Engraving",
+        "Etching",
+        "Lithography"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American artist is known for drip paintings and created works like 'Number 31, 1950'?",
+      "choices": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Willem de Kooning",
+        "Robert Motherwell"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the Impressionist movement effectively begin with Claude Monet's 'Impression, Sunrise'?",
+      "choices": [
+        "1870",
+        "1872",
+        "1874",
+        "1876"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which conceptual artist created the piece 'One and Three Chairs' (1965), exploring the nature of representation?",
+      "choices": [
+        "Sol LeWitt",
+        "Donald Judd",
+        "Joseph Kosuth",
+        "Carl Andre"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Northern Renaissance painter is credited with perfecting the oil painting technique in the 15th century?",
+      "choices": [
+        "Jan van Eyck",
+        "Rogier van der Weyden",
+        "Hieronymus Bosch",
+        "Albrecht Dürer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Renaissance sculptor created the bronze doors of the Florence Baptistry featuring detailed narrative relief panels completed in the early 15th century?",
+      "choices": [
+        "Donatello",
+        "Lorenzo Ghiberti",
+        "Andrea del Verrocchio",
+        "Luca della Robbia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did Francisco Goya paint 'Saturn Devouring His Son,' one of the Black Paintings created on the walls of his Spanish home?",
+      "choices": [
+        "1819",
+        "1823",
+        "1808",
+        "1815"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which French Impressionist painter's obsessive study of haystacks resulted in a series of over 30 paintings depicting the same subject under different lighting conditions?",
+      "choices": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Alfred Sisley",
+        "Frédéric Bazille"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary artistic movement that Georg Grosz championed through his sharp, satirical drawings and paintings in 1920s Germany?",
+      "choices": [
+        "Expressionism",
+        "New Objectivity",
+        "Futurism",
+        "Constructivism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Flemish painter of the 16th century is known for his fantastical landscapes and invented worlds, including works like 'The Garden of Earthly Delights'?",
+      "choices": [
+        "Pieter Bruegel the Elder",
+        "Hieronymus Bosch",
+        "Jan van Eyck",
+        "Roger van der Weyden"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In David Hockney's iconic painting 'A Bigger Splash' from 1967, which Californian city serves as the setting for this modernist representation of leisure?",
+      "choices": [
+        "San Francisco",
+        "San Diego",
+        "Los Angeles",
+        "Santa Barbara"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which abstract artist developed the technique of drip painting, allowing paint to fall from above onto canvas laid flat on the ground?",
+      "choices": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Franz Kline",
+        "Willem de Kooning"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific technique did Jan van Eyck pioneer that involved the use of oil-based pigments, revolutionizing Northern European painting in the 15th century?",
+      "choices": [
+        "Sfumato",
+        "Glazing",
+        "Impasto",
+        "Chiaroscuro"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Russian avant-garde artist created the 'Black Square' in 1915, a radical abstract work that marked a departure from representational art?",
+      "choices": [
+        "Wassily Kandinsky",
+        "Kazimir Malevich",
+        "El Lissitzky",
+        "Alexander Rodchenko"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Caravaggio's 'The Calling of Saint Matthew,' the dramatic beam of light illuminating the saint's face originates from which direction within the composition?",
+      "choices": [
+        "Upper left",
+        "Upper right",
+        "Lower center",
+        "From behind the viewer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Dutch Golden Age painter specialized in intimate domestic interiors and is known for his masterful handling of light through windows, with only about 34 confirmed paintings surviving?",
+      "choices": [
+        "Frans Hals",
+        "Johannes Vermeer",
+        "Gabriel Metsu",
+        "Pieter de Hooch"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the primary subject matter that dominated the artistic output of the Vienna Succession artist Gustav Klimt during the early 1900s?",
+      "choices": [
+        "Religious allegory",
+        "Symbolic female figures with decorative gold leaf",
+        "Landscape impressionism",
+        "Neoclassical portraiture"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Futurist artist created the sculpture 'Unique Forms of Continuity in Space' in 1913, celebrating movement and dynamism?",
+      "choices": [
+        "Umberto Boccioni",
+        "Giacomo Balla",
+        "Filippo Tommaso Marinetti",
+        "Carlo Carrà"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which European city did the De Stijl movement originate, with artists like Theo van Doesburg and Piet Mondrian rejecting representation for pure abstraction?",
+      "choices": [
+        "Berlin",
+        "Amsterdam",
+        "Paris",
+        "Vienna"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which female Surrealist painter created intricate works featuring botanical and zoological imagery, often exploring themes of identity and the subconscious?",
+      "choices": [
+        "Dorothea Tanning",
+        "Leonora Carrington",
+        "Kay Sage",
+        "Remedios Varo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the name of the artistic collective founded by Joseph Beuys in 1962 that promoted artistic and social experimentation through collective action?",
+      "choices": [
+        "Fluxus",
+        "Situationist International",
+        "Zero",
+        "Art & Language"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American regionalist painter created 'Nighthawks' in 1942, depicting isolated figures in an urban diner bathed in artificial light?",
+      "choices": [
+        "Grant Wood",
+        "Thomas Hart Benton",
+        "Edward Hopper",
+        "Reginald Marsh"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of art history, what does 'alla prima' refer to as a painting technique?",
+      "choices": [
+        "Layering paint over multiple sessions",
+        "Completing a painting in one session with wet paint",
+        "Using only primary colors",
+        "Painting on a prepared white ground"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which feminist artist created the multimedia installation 'The Dinner Party' in the 1970s, honoring women's contributions to history through place settings and embroidery?",
+      "choices": [
+        "Judy Chicago",
+        "Barbara Kruger",
+        "Cindy Sherman",
+        "Jenny Holzer"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the artistic technique used extensively by Pointillist painters, involving the application of small, distinct dots of pure color to create optical mixing?",
+      "choices": [
+        "Stippling",
+        "Divisionism",
+        "Glazing",
+        "Scumbling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In his 1907 painting 'Les Demoiselles d'Avignon,' Pablo Picasso depicted figures from which Parisian location?",
+      "choices": [
+        "A brothel on Avignon Street",
+        "The Avignon Bridge",
+        "A cabaret in the Avignon district",
+        "An artists' colony in Provence"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian Renaissance artist developed the mathematical principle of linear perspective that fundamentally transformed Western painting?",
+      "choices": [
+        "Masaccio",
+        "Filippo Brunelleschi",
+        "Paolo Uccello",
+        "Sandro Botticelli"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 'The Raft of the Medusa,' which Romantic painter memorialized a real maritime disaster from 1816 involving the French frigate Méduse?",
+      "choices": [
+        "Eugène Delacroix",
+        "Théodore Géricault",
+        "Jean-Louis David",
+        "Caspar David Friedrich"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who painted \"The Scream\"?",
+      "choices": [
+        "Henri Matisse",
+        "Picasso",
+        "Vincent Van Gogh",
+        "Edvard Munch"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which time signature is commonly known as “Cut Time?”",
+      "choices": [
+        "3/4",
+        "2/2",
+        "4/4",
+        "6/8"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who painted the epic mural Guernica?",
+      "choices": [
+        "Henri Matisse",
+        "Pablo Picasso",
+        "Francisco Goya",
+        "Leonardo da Vinci"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist's style was to use small different colored dots to create a picture?",
+      "choices": [
+        "Paul Cézanne",
+        "Georges Seurat",
+        "Henri Rousseau",
+        "Vincent Van Gogh"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist’s studio was known as 'The Factory'?",
+      "choices": [
+        "Andy Warhol",
+        "Roy Lichtenstein",
+        "David Hockney",
+        "Peter Blake"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who painted the painting \"Nighthawks\"?",
+      "choices": [
+        "Vincent van Gogh",
+        "Salvador Dali",
+        "Johannes Vermeer",
+        "Edward Hopper"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What were Marcel Duchamp's readymades?",
+      "choices": [
+        "a series focused on color and light as opposed to line and shape",
+        "a group of identical steel boxes jutting from the wall ",
+        "utilitarian objects elevated to the status of art",
+        "paintings with a barely visible outlined square"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which one of these colors are not featured in Mondrian's Broadway Boogie-Woogie?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which one of these paintings is not by Caspar David Friedrich?",
+      "choices": [
+        "The Sea of Ice",
+        "The Black Sea",
+        "The Monk by the Sea",
+        "Wanderer above the Sea of Fog"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What nationality was the surrealist painter Salvador Dali?",
+      "choices": [
+        "Portuguese",
+        "Italian",
+        "Spanish",
+        "French"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In \"Last Supper\" by Leonardo Da Vinci, what two colors were the robes worn by Jesus?",
+      "choices": [
+        "Red and Yellow",
+        "Red and Black",
+        "Red and White",
+        "Red and Blue"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Greek sculptor designed the Athena Parthenos statue inside the Parthenon?",
+      "choices": [
+        "Scopas",
+        "Phidias",
+        "Praxiteles",
+        "Hesiod"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these paintings did Johannes Vermeer not paint?",
+      "choices": [
+        "The Milkmaid",
+        "Bacchus",
+        "The Lacemaker",
+        "Girl with a Pearl Earring"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who designed the Chupa Chups logo?",
+      "choices": [
+        "Pablo Picasso",
+        "Andy Warhol",
+        "Salvador Dali",
+        "Vincent van Gogh"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these are the name of a famous marker brand?",
+      "choices": [
+        "Dopix",
+        "Copic",
+        "Marx",
+        "Cofix"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist painted “The Treachery of Images,” a painting of a pipe with the description \"this is not a pipe\"?",
+      "choices": [
+        "Magritte",
+        "Munch ",
+        "Matisse",
+        "Modigliani"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance artist completed the frescoes of the Sistine Chapel ceiling between 1508 and 1512?",
+      "choices": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Botticelli"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technique did Georges Seurat pioneer, involving the application of small dots of color to create a complete image?",
+      "choices": [
+        "Sfumato",
+        "Chiaroscuro",
+        "Pointillism",
+        "Impasto"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Pablo Picasso paint 'Guernica' in response to the bombing of a Basque town?",
+      "choices": [
+        "1935",
+        "1937",
+        "1939",
+        "1941"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dutch master is famous for his use of dramatic lighting and shadow, known as chiaroscuro, in works like 'The Night Watch'?",
+      "choices": [
+        "Jan Vermeer",
+        "Rembrandt",
+        "Frans Hals",
+        "Peter Bruegel"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary subject matter of Anselm Kiefer's large-scale installation and mixed-media works?",
+      "choices": [
+        "Industrial machinery",
+        "Memory and German history",
+        "Abstract mathematics",
+        "Botanical specimens"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American artist's 1962 exhibition at the Ferus Gallery in Los Angeles first showcased mass-produced Campbell's Soup cans?",
+      "choices": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "James Rosenquist",
+        "Claes Oldenburg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'The Birth of Venus,' painted by Botticelli around 1485, the goddess emerges from what natural element?",
+      "choices": [
+        "A river",
+        "A lake",
+        "The sea",
+        "A fountain"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist's 'Water Lilies' series consists of approximately 250 paintings created between 1890 and 1926?",
+      "choices": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Alfred Sisley",
+        "Berthe Morisot"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What artistic movement did Wassily Kandinsky help pioneer, emphasizing the use of color and form independent of visual reality?",
+      "choices": [
+        "Futurism",
+        "Dadaism",
+        "Abstract Expressionism",
+        "Abstraction"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish Surrealist painter is known for his melting clocks and dreamlike landscapes in 'The Persistence of Memory'?",
+      "choices": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Federico García Lorca",
+        "Juan Gris"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What material did Henry Moore primarily use for his monumental abstract sculptures throughout his career?",
+      "choices": [
+        "Bronze and stone",
+        "Fiberglass and resin",
+        "Steel and concrete",
+        "Wood and clay"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mexican artist is famous for her self-portraits and paintings featuring Mexican folk art imagery and surrealist elements?",
+      "choices": [
+        "Diego Rivera",
+        "Frida Kahlo",
+        "David Alfaro Siqueiros",
+        "Remedios Varo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Jackson Pollock create 'Autumn Rhythm,' one of his most celebrated abstract expressionist drip paintings?",
+      "choices": [
+        "1948",
+        "1950",
+        "1952",
+        "1954"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which printmaking technique, favored by Albrecht Dürer, uses a metal plate where an image is incised with a hard-pointed needle?",
+      "choices": [
+        "Lithography",
+        "Etching",
+        "Engraving",
+        "Woodcut"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the dominant color in Yves Klein's 'International Monochrome Blue,' a work created in 1960?",
+      "choices": [
+        "Prussian blue",
+        "International Klein Blue",
+        "Cerulean blue",
+        "Ultramarine blue"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British sculptor created 'The Angel of the North,' a steel figure standing 20 meters tall in Gateshead?",
+      "choices": [
+        "Henry Moore",
+        "Barbara Hepworth",
+        "Antony Gormley",
+        "Richard Serra"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Baroque period, which Italian architect and sculptor designed the ornate colonnade surrounding St. Peter's Square?",
+      "choices": [
+        "Gian Lorenzo Bernini",
+        "Francesco Borromini",
+        "Carlo Maderno",
+        "Michelangelo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which art movement, originating in early 20th century France, featured fragmented forms and multiple perspectives in a single composition?",
+      "choices": [
+        "Fauvism",
+        "Cubism",
+        "Expressionism",
+        "Constructivism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the title of Edvard Munch's 1893 painting depicting a solitary figure expressing existential angst on a bridge?",
+      "choices": [
+        "The Scream",
+        "Anxiety",
+        "The Anguish",
+        "The Cry"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which museum in Florence houses Michelangelo's marble sculpture 'David,' created between 1501 and 1504?",
+      "choices": [
+        "Uffizi Gallery",
+        "Accademia Gallery",
+        "Bargello",
+        "Palazzo Pitti"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Italian city did Caravaggio create his dramatic masterpiece 'The Calling of Saint Matthew'?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Florence",
+        "Naples"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dutch Golden Age painter created 'Girl with a Pearl Earring' in the 17th century?",
+      "choices": [
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Jan Steen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What artistic movement did Pablo Picasso and Georges Braque pioneer in the early 1900s?",
+      "choices": [
+        "Fauvism",
+        "Cubism",
+        "Futurism",
+        "Dadaism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Vincent van Gogh paint 'The Starry Night' while residing in Saint-Rémy-de-Provence?",
+      "choices": [
+        "1887",
+        "1889",
+        "1891",
+        "1893"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist is known for the abstract drip painting technique that revolutionized modern art in the 1940s?",
+      "choices": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Willem de Kooning",
+        "Barnett Newman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary subject matter of William Turner's landscape paintings from the Romantic era?",
+      "choices": [
+        "Urban architecture",
+        "Light and atmosphere",
+        "Religious scenes",
+        "Botanical studies"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance artist sculpted the marble statue 'David,' now housed in the Accademia Gallery in Florence?",
+      "choices": [
+        "Donatello",
+        "Michelangelo",
+        "Bernini",
+        "Cellini"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which country was the Impressionist movement primarily developed during the late 19th century?",
+      "choices": [
+        "Italy",
+        "Spain",
+        "France",
+        "Netherlands"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist created 'The Persistence of Memory' with its iconic melting clocks?",
+      "choices": [
+        "René Magritte",
+        "Salvador Dalí",
+        "Max Ernst",
+        "Joan Miró"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What technique did Georges Seurat employ in paintings like 'A Sunday on La Grande Jatte,' using small dots of color?",
+      "choices": [
+        "Impasto",
+        "Chiaroscuro",
+        "Pointillism",
+        "Sfumato"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Flemish painter is famous for 'The Garden of Earthly Delights,' a triptych filled with surreal imagery?",
+      "choices": [
+        "Jan van Eyck",
+        "Rogier van der Weyden",
+        "Hieronymus Bosch",
+        "Pieter Bruegel the Elder"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What architectural innovation did Gustave Eiffel's iron framework design represent for the 1889 Paris Exposition?",
+      "choices": [
+        "Gothic revival",
+        "Industrial modernism",
+        "Art Deco style",
+        "Neoclassical order"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which artist founded the De Stijl movement and created abstract compositions using primary colors and geometric forms?",
+      "choices": [
+        "Wassily Kandinsky",
+        "Piet Mondrian",
+        "Theo van Doesburg",
+        "Kurt Schwitters"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Sandro Botticelli's 'The Birth of Venus,' what shell does the goddess emerge from?",
+      "choices": [
+        "Conch shell",
+        "Scallop shell",
+        "Clam shell",
+        "Oyster shell"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese artist created iconic woodblock prints including 'The Great Wave off Kanagawa'?",
+      "choices": [
+        "Hokusai",
+        "Hiroshige",
+        "Utamaro",
+        "Sharaku"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What art movement was characterized by artists like Andy Warhol reproducing commercial images and consumer products?",
+      "choices": [
+        "Op Art",
+        "Pop Art",
+        "Kinetic Art",
+        "Minimalism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish Baroque painter created 'Las Meninas,' a complex composition featuring a royal court scene?",
+      "choices": [
+        "El Greco",
+        "Diego Velázquez",
+        "Bartolomé Murillo",
+        "Jusepe de Ribera"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What revolutionary art style did Wassily Kandinsky pioneer by divorcing visual art from representation?",
+      "choices": [
+        "Constructivism",
+        "Abstract art",
+        "Suprematism",
+        "Rayonism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which sculptor created 'The Thinker,' a bronze figure now famously associated with philosophical contemplation?",
+      "choices": [
+        "Auguste Rodin",
+        "Émile-Antoine Bourdelle",
+        "Aristide Maillol",
+        "Henri Gaudier-Brzeska"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the Bauhaus school, founded by Walter Gropius, begin its influential design and art education program?",
+      "choices": [
+        "1917",
+        "1919",
+        "1921",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Pablo Picasso paint 'Guernica,' his monumental response to the bombing of a Basque town?",
+      "choices": [
+        "1935",
+        "1937",
+        "1939",
+        "1941"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which art movement, emphasizing spontaneous creation and the artist's gesture, emerged prominently in 1950s New York?",
+      "choices": [
+        "Cubism",
+        "Expressionism",
+        "Abstract Expressionism",
+        "Dadaism"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary subject matter depicted in most of Claude Monet's 'Water Lilies' series?",
+      "choices": [
+        "The Seine River in Paris",
+        "His garden pond at Giverny",
+        "The canals of Venice",
+        "A Japanese lake landscape"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Renaissance artist is credited with developing linear perspective, a mathematical approach to depicting depth on a flat surface?",
+      "choices": [
+        "Michelangelo",
+        "Brunelleschi",
+        "Donatello",
+        "Botticelli"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the pointillist technique, what is the primary method by which color is applied to the canvas?",
+      "choices": [
+        "Broad brushstrokes",
+        "Tiny dots placed side by side",
+        "Palette knife application",
+        "Spray painting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dutch Golden Age painter is famous for his dramatic use of light and shadow, known as chiaroscuro?",
+      "choices": [
+        "Jan Vermeer",
+        "Rembrandt van Rijn",
+        "Peter Paul Rubens",
+        "Frans Hals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the sculptural medium that Michelangelo famously 'released' David from in 1504?",
+      "choices": [
+        "Bronze",
+        "Marble",
+        "Limestone",
+        "Terracotta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which surrealist artist created dreamlike works featuring melting clocks and distorted landscapes?",
+      "choices": [
+        "Joan Miró",
+        "Salvador Dalí",
+        "Max Ernst",
+        "André Breton"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 'American Gothic' by Grant Wood, what object does the male figure hold that has become iconic to the painting?",
+      "choices": [
+        "A rifle",
+        "A rake",
+        "A pitchfork",
+        "A hammer"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which color palette dominated Picasso's artistic output during his 'Blue Period,' roughly from 1901 to 1904?",
+      "choices": [
+        "Greens and yellows",
+        "Reds and oranges",
+        "Blues and cooler tones",
+        "Warm earth tones"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Impressionist painter specialized in capturing the effects of light on haystacks across different times of day and seasons?",
+      "choices": [
+        "Claude Monet",
+        "Pierre-Auguste Renoir",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary characteristic of the Baroque art movement in terms of style and composition?",
+      "choices": [
+        "Minimalism and simplicity",
+        "Drama, movement, and ornate detail",
+        "Geometric abstraction",
+        "Flat perspective and bright colors"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mexican artist, known for self-portraits exploring identity and physical pain, was married to Diego Rivera?",
+      "choices": [
+        "María Izquierdo",
+        "Frida Kahlo",
+        "Leonora Carrington",
+        "Remedios Varo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What artistic technique involves creating an image by arranging small pieces of colored glass, stone, or tile called tesserae?",
+      "choices": [
+        "Fresco",
+        "Mosaic",
+        "Inlay",
+        "Marquetry"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Flemish painter of the 15th century is known for 'The Ghent Altarpiece' and pioneering oil painting techniques?",
+      "choices": [
+        "Hans Memling",
+        "Jan van Eyck",
+        "Rogier van der Weyden",
+        "Petrus Christus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Paris museum can you view the largest collection of works by Claude Monet, including his 'Water Lilies'?",
+      "choices": [
+        "The Louvre",
+        "Musée Picasso",
+        "Musée de l'Orangerie",
+        "Centre Pompidou"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which abstract artist is credited with creating one of the first purely abstract paintings titled 'Composition VII'?",
+      "choices": [
+        "Piet Mondrian",
+        "Wassily Kandinsky",
+        "Kazimir Malevich",
+        "Paul Klee"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary subject of Anselm Kiefer's artwork, often involving history, memory, and the German landscape?",
+      "choices": [
+        "Still life and portraiture",
+        "Industrial machinery",
+        "Historical and spiritual themes",
+        "Urban street scenes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian Baroque painter created the 'Calling of Saint Matthew,' using dramatic lighting to emphasize the biblical moment?",
+      "choices": [
+        "Caravaggio",
+        "Artemisia Gentileschi",
+        "Gian Lorenzo Bernini",
+        "Andrea Pozzo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What artistic movement, originating in early 20th century France, sought to depict the emotional essence of subjects rather than accurate representation?",
+      "choices": [
+        "Futurism",
+        "Fauvism",
+        "Cubism",
+        "Dadaism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Dutch Golden Age painter is famous for his dramatic use of light and shadow, exemplified in works like 'The Night Watch'?",
+      "choices": [
+        "Rembrandt van Rijn",
+        "Johannes Vermeer",
+        "Frans Hals",
+        "Jacob van Ruisdael"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Italian city can visitors view Michelangelo's 'David' at the Galleria dell'Accademia?",
+      "choices": [
+        "Rome",
+        "Florence",
+        "Venice",
+        "Milan"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Mexican artist painted 'The Two Fridas,' a self-portrait featuring two versions of herself holding a single heart?",
+      "choices": [
+        "Diego Rivera",
+        "Frida Kahlo",
+        "David Alfaro Siqueiros",
+        "Remedios Varo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What artistic technique, developed in the 15th century by Jan van Eyck, uses layers of transparent glazes to create luminous colors?",
+      "choices": [
+        "Tempera painting",
+        "Oil painting",
+        "Fresco",
+        "Encaustic"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American Abstract Expressionist painter is known for his 'drip paintings,' such as 'No. 5, 1948'?",
+      "choices": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Willem de Kooning",
+        "Barnett Newman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Caravaggio's 'The Calling of Saint Matthew,' what profession does Matthew abandon when summoned by Jesus?",
+      "choices": [
+        "Fisherman",
+        "Tax collector",
+        "Merchant",
+        "Scribe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Russian avant-garde artist created the abstract composition 'Black Square' in 1915?",
+      "choices": [
+        "Wassily Kandinsky",
+        "Kazimir Malevich",
+        "El Lissitzky",
+        "Alexander Rodchenko"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the artistic movement founded by André Breton in 1924, emphasizing the unconscious mind and dream imagery?",
+      "choices": [
+        "Dadaism",
+        "Surrealism",
+        "Futurism",
+        "Constructivism"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Japanese woodblock artist created the series 'Thirty-Six Views of Mount Fuji' during the Edo period?",
+      "choices": [
+        "Hiroshige",
+        "Hokusai",
+        "Utamaro",
+        "Sharaku"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Edvard Munch's 'The Scream,' what architectural structure is depicted in the background of the composition?",
+      "choices": [
+        "Church spire",
+        "Bridge railing",
+        "City clock tower",
+        "Factory chimney"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Pre-Raphaelite painter created 'Ophelia,' depicting the tragic Shakespearean character drowning among flowers?",
+      "choices": [
+        "John Everett Millais",
+        "Dante Gabriel Rossetti",
+        "William Holman Hunt",
+        "James Whistler"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color dominates Mark Rothko's chapel paintings, created in the 1960s for a spiritual contemplation space?",
+      "choices": [
+        "Deep purple",
+        "Crimson red",
+        "Dark maroon",
+        "Navy blue"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian Renaissance sculptor created the bronze doors of the Florence Baptistry, revolutionizing perspective in relief sculpture?",
+      "choices": [
+        "Donatello",
+        "Lorenzo Ghiberti",
+        "Luca della Robbia",
+        "Andrea del Verrocchio"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which year did Pablo Picasso and Georges Braque develop Cubism, fragmenting objects into geometric forms?",
+      "choices": [
+        "1905",
+        "1907",
+        "1909",
+        "1911"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which contemporary British-Indian sculptor is renowned for creating massive public installations exploring themes of void and infinity?",
+      "choices": [
+        "Anish Kapoor",
+        "Richard Serra",
+        "Antony Gormley",
+        "Rachel Whiteread"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary subject matter of the Bayeux Tapestry, an 11th-century embroidered textile?",
+      "choices": [
+        "Religious biblical narratives",
+        "The Norman Conquest of England",
+        "Medieval hunting scenes",
+        "Royal family genealogy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American Pop artist created silkscreen prints of celebrities and consumer products like Campbell's Soup cans?",
+      "choices": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "James Rosenquist",
+        "Claes Oldenburg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Peter Bruegel the Elder's 'Landscape with the Fall of Icarus,' what is conspicuously absent from the composition despite being the painting's supposed focal point?",
+      "choices": [
+        "The sun",
+        "Water",
+        "Icarus prominently displayed",
+        "Mountains"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which art movement of the 1960s emphasized simple geometric shapes and industrial materials as a reaction against Abstract Expressionism?",
+      "choices": [
+        "Kinetic Art",
+        "Minimalism",
+        "Op Art",
+        "Light and Space"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which British landscape painter of the 18th century is famous for his atmospheric paintings of nature, including 'Dedham Vale'?",
+      "choices": [
+        "Thomas Gainsborough",
+        "John Constable",
+        "Joseph Mallord William Turner",
+        "Richard Wilson"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Spanish artist, known for his surrealist melting clocks and dreamlike landscapes, created 'The Persistence of Memory' in 1931?",
+      "choices": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Juan Gris"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The Dutch Golden Age painter Vermeer is famous for a painting depicting a young woman wearing an exotic turban and an enormous pearl earring. What is this work commonly called?",
+      "choices": [
+        "Girl with a Pearl Necklace",
+        "Girl with a Pearl Earring",
+        "Woman in Blue Reading a Letter",
+        "The Lacemaker"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American abstract expressionist artist is known for his large-scale color field paintings and drip technique, creating works like 'Number 5, 1948'?",
+      "choices": [
+        "Mark Rothko",
+        "Jackson Pollock",
+        "Willem de Kooning",
+        "Barnett Newman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Frida Kahlo, the iconic Mexican artist, frequently incorporated which animal into her self-portraits as a symbol of her pain and resilience?",
+      "choices": [
+        "A jaguar",
+        "A monkey",
+        "A parrot",
+        "A deer"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
     }
   ]
 }

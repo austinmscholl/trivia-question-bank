@@ -1,269 +1,2306 @@
 {
   "slug": "beer-trivia",
   "name": "Beer",
-  "description": "Brews, breweries, ingredients, and beer culture",
-  "processedAt": "2026-04-16T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.429Z",
   "questions": [
     {
-      "q": "Which beer style was first brewed in the Bohemian city of Plzeň in 1842?",
-      "choices": ["Porter", "Hefeweizen", "Pilsner", "Kölsch"],
-      "correct": 2,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "Which legendary beer style was born in the Czech Republic in 1842 and still slays?",
-        "original_a": "Pilsner",
-        "verified": true,
-        "notes": "Josef Groll brewed the first batch October 5, 1842 at what is now Pilsner Urquell Brewery."
-      }
-    },
-    {
-      "q": "Founded in 1040, which Bavarian brewery is widely recognized as the world's oldest continuously operating brewery?",
-      "choices": ["Guinness", "Weihenstephan", "Weltenburg Abbey", "Stella Artois"],
-      "correct": 1,
-      "category": "Beer",
-      "difficulty": "hard",
-      "source": {
-        "original_q": "Which brewery has been crafting beer since before Shakespeare could spell \"ale\"?",
-        "original_a": "Weihenstephan Brewery",
-        "verified": true,
-        "notes": "Licensed by the City of Freising in 1040. Weltenburg Abbey (1050) also claims the title."
-      }
-    },
-    {
-      "q": "First held in 1982 and now based in Denver, what is the largest ticketed beer festival in the United States?",
-      "choices": ["Oktoberfest USA", "Great American Beer Festival", "Craft Brewers Conference", "National Homebrew Competition"],
-      "correct": 1,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "What beer-lover's dream event turns Denver into hop heaven once a year?",
-        "original_a": "Great American Beer Festival",
-        "verified": true,
-        "notes": "Founded by Charlie Papazian; started in Boulder 1982, moved to Denver 1984. Hosted by Brewers Association."
-      }
-    },
-    {
-      "q": "By global consumption volume, what is the most widely consumed alcoholic beverage in the world?",
-      "choices": ["Wine", "Spirits", "Beer", "Cider"],
-      "correct": 2,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "What fizzy drink has claimed the global throne as the world's most sipped alcohol?",
-        "original_a": "Beer",
-        "verified": true,
-        "notes": "Beer accounts for roughly 75% of global alcohol consumption by volume."
-      }
-    },
-    {
-      "q": "By volume, what is the main ingredient in beer?",
-      "choices": ["Malt", "Hops", "Yeast", "Water"],
-      "correct": 3,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "What ingredient makes up most of your beer-besides your weekend plans?",
-        "original_a": "Water",
-        "verified": true,
-        "notes": "Typically 90-95% of beer is water."
-      }
-    },
-    {
-      "q": "Which ingredient provides most of beer's bitterness and aromatic character?",
-      "choices": ["Barley", "Malt", "Hops", "Yeast"],
-      "correct": 2,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "What tiny green cone gives beer its signature bite and makes IPA fans feel superior?",
-        "original_a": "Hops",
-        "verified": true,
-        "notes": "Humulus lupulus. Alpha acids provide bitterness; essential oils provide aroma."
-      }
-    },
-    {
-      "q": "Which beer ingredient is primarily responsible for the beverage's color, body, and fermentable sugars?",
-      "choices": ["Hops", "Water", "Yeast", "Malt"],
-      "correct": 3,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "What ingredient is beer's main flavor artist-handling color, taste, and good vibes?",
-        "original_a": "Malt",
-        "verified": true,
-        "notes": "Kilning/roasting level of malt determines color from pale gold to jet black."
-      }
-    },
-    {
-      "q": "In brewing, which step converts the starches in malted grain into fermentable sugars?",
-      "choices": ["Lautering", "Boiling", "Mashing", "Sparging"],
-      "correct": 2,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "What magical step in brewing turns starch into sugar-basically beer's fairy godmother moment?",
-        "original_a": "Mashing",
-        "verified": true,
-        "notes": "Enzymes (amylase) break down starch at 148-158°F during the mash."
-      }
-    },
-    {
-      "q": "The word 'lager' comes from the German verb 'lagern.' What does it mean?",
-      "choices": ["To boil", "To filter", "To store", "To ferment"],
-      "correct": 2,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "What German word means \"to store,\" like what you tell yourself every time you buy a 6-pack for \"later\"?",
-        "original_a": "Lagern",
-        "verified": true,
-        "notes": "Lagers are cold-stored (lagered) for weeks to months during conditioning."
-      }
-    },
-    {
-      "q": "Which yeast species is used for top-fermentation in ales?",
-      "choices": ["Saccharomyces pastorianus", "Brettanomyces bruxellensis", "Saccharomyces cerevisiae", "Lactobacillus brevis"],
-      "correct": 2,
-      "category": "Beer",
-      "difficulty": "hard",
-      "source": {
-        "original_q": "What yeast floats to the top like a drama queen during fermentation?",
-        "original_a": "Saccharomyces cerevisiae",
-        "verified": true,
-        "notes": "S. pastorianus is the lager yeast. Brettanomyces is used in wild/sour ales."
-      }
-    },
-    {
-      "q": "What does the beer-style abbreviation 'IPA' stand for?",
-      "choices": ["Imperial Pale Ale", "India Pale Ale", "Infused Pale Ale", "Irish Pale Ale"],
-      "correct": 1,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "Which beer style is like a hop explosion in your mouth, in the best way possible?",
-        "original_a": "India Pale Ale (IPA)",
-        "verified": true,
-        "notes": "Originally brewed in England for export to British India in the 18th-19th centuries."
-      }
-    },
-    {
-      "q": "On a beer label, what does 'IBU' stand for?",
-      "choices": ["International Bitterness Units", "Imperial Brewing Units", "Index of Beer Uniformity", "Ingredient Balance Unit"],
+      "q": "What is the primary grain used in most beer production?",
+      "choices": [
+        "Barley",
+        "Wheat",
+        "Rice",
+        "Corn"
+      ],
       "correct": 0,
-      "category": "Beer",
-      "difficulty": "easy",
-      "source": {
-        "original_q": "What's the scale that tells you how bitter your beer-and maybe your ex-is?",
-        "original_a": "International Bitterness Units (IBU)",
-        "verified": true,
-        "notes": "Measures iso-alpha acids from hops. Typical range: 5 (light lager) to 100+ (double IPA)."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Belgian beer style undergoes spontaneous fermentation using wild, airborne yeast?",
-      "choices": ["Saison", "Dubbel", "Lambic", "Witbier"],
+      "q": "Which country is credited with brewing beer as early as 3000 BC?",
+      "choices": [
+        "Egypt",
+        "Mesopotamia",
+        "China",
+        "Greece"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the plant that gives beer its bitter flavor?",
+      "choices": [
+        "Hops",
+        "Barley",
+        "Yeast",
+        "Malt"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style originated in the Czech Republic and is known for its golden color?",
+      "choices": [
+        "Stout",
+        "Pilsner",
+        "Porter",
+        "IPA"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for the liquid extracted from grains during the brewing process?",
+      "choices": [
+        "Wort",
+        "Must",
+        "Brine",
+        "Stock"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is characterized by a dark color and rich, roasted flavor?",
+      "choices": [
+        "Lager",
+        "Pilsner",
+        "Stout",
+        "Blonde Ale"
+      ],
       "correct": 2,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "What beer is brewed with wild yeast and a wild heart in Belgium?",
-        "original_a": "Lambic",
-        "verified": true,
-        "notes": "Brewed in the Pajottenland region near Brussels. Coolship exposed to open air overnight."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which German beer style gets its smoky flavor from malt dried over an open flame?",
-      "choices": ["Dunkel", "Kölsch", "Altbier", "Rauchbier"],
+      "q": "What type of yeast is commonly used in ale production?",
+      "choices": [
+        "Saccharomyces pastorianus",
+        "Saccharomyces cerevisiae",
+        "Brettanomyces bruxellensis",
+        "Candida albicans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brewery in Bavaria has been continuously brewing beer since 1040 AD?",
+      "choices": [
+        "Hofbräuhaus",
+        "Weihenstephan Brewery",
+        "Paulaner Brewery",
+        "Ayinger Brewery"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the term 'mashing' refer to in beer brewing?",
+      "choices": [
+        "Crushing the hops",
+        "Mixing grains with hot water to convert starches to sugars",
+        "Fermenting the yeast",
+        "Filtering the final product"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is brewed with wild yeast and originates from Belgium?",
+      "choices": [
+        "Lambic",
+        "Weizen",
+        "Saison",
+        "Tripel"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary difference between lagers and ales?",
+      "choices": [
+        "The type of grain used",
+        "The fermentation temperature and yeast type",
+        "The hop variety",
+        "The color of the beer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is known for its light body and low alcohol content?",
+      "choices": [
+        "Barleywine",
+        "Session Beer",
+        "Imperial Stout",
+        "Doppelbock"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the term 'ABV' stand for on a beer label?",
+      "choices": [
+        "Alcohol by Volume",
+        "Ale Base Variety",
+        "Adjusted Bitterness Value",
+        "Acidic Base Volatile"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style has a smoky flavor and originates from Germany?",
+      "choices": [
+        "Märzen",
+        "Rauchbier",
+        "Dunkelweizen",
+        "Kellerbier"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What scale measures the bitterness of beer from hops?",
+      "choices": [
+        "Richter Scale",
+        "International Bitterness Units",
+        "Mohs Scale",
+        "pH Scale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is brewed with wheat and typically has a cloudy appearance?",
+      "choices": [
+        "Pilsner",
+        "Weizen",
+        "Porter",
+        "Amber Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the process where beer is heated to kill bacteria?",
+      "choices": [
+        "Carbonation",
+        "Pasteurization",
+        "Fermentation",
+        "Lagering"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is typically lower in alcohol and designed for easy drinking?",
+      "choices": [
+        "Barleywine",
+        "Imperial Porter",
+        "Pale Lager",
+        "Russian Imperial Stout"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient, besides water, grain, and hops, is essential to beer production?",
+      "choices": [
+        "Sugar",
+        "Yeast",
+        "Salt",
+        "Spices"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is rich, strong, and often has a dark brown color?",
+      "choices": [
+        "Pilsner",
+        "Porter",
+        "Blonde Ale",
+        "Cream Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary grain used in most traditional beer production?",
+      "choices": [
+        "Wheat",
+        "Barley",
+        "Corn",
+        "Rice"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is credited with inventing the modern pilsner beer style in 1842?",
+      "choices": [
+        "Germany",
+        "Austria",
+        "Czech Republic",
+        "Belgium"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the plant whose flowers are commonly used to flavor and preserve beer?",
+      "choices": [
+        "Chamomile",
+        "Hops",
+        "Lavender",
+        "Thyme"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Stout and porter are both dark beers, but which one typically has a higher alcohol content?",
+      "choices": [
+        "Porter",
+        "Stout",
+        "They are equal",
+        "Neither has significant alcohol"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of yeast is used in ales and ferments at the top of the brewing vessel?",
+      "choices": [
+        "Saccharomyces pastorianus",
+        "Saccharomyces cerevisiae",
+        "Brettanomyces",
+        "Lactobacillus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Lambic beer, traditionally brewed in Belgium, is known for being fermented using what method?",
+      "choices": [
+        "Cultured yeast",
+        "Wild yeast",
+        "No yeast",
+        "Bacterial fermentation only"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What scale is used to measure the bitterness level of beer?",
+      "choices": [
+        "pH Scale",
+        "Richter Scale",
+        "International Bitterness Units",
+        "Alcohol Proof Scale"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these beer styles originated in Bavaria, Germany?",
+      "choices": [
+        "IPA",
+        "Weissbier",
+        "Cream Ale",
+        "Pale Lager"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the brewing process where grains are steeped in hot water to extract sugars?",
+      "choices": [
+        "Fermentation",
+        "Carbonation",
+        "Mashing",
+        "Hopping"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "A session beer is primarily characterized by what attribute?",
+      "choices": [
+        "Very high alcohol content",
+        "Low alcohol content and drinkability",
+        "Extremely bitter flavor",
+        "Served only in summer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is traditionally brewed using smoked malt, giving it a campfire-like flavor?",
+      "choices": [
+        "Rauchbier",
+        "Dunkelweizen",
+        "Märzen",
+        "Kellerbier"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is IPA short for in beer terminology?",
+      "choices": [
+        "International Pale Ale",
+        "India Pale Ale",
+        "Infused Pale Ale",
+        "Imperial Pale Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Wheat beer, also known as weizen in German, is typically brewed with what percentage of wheat?",
+      "choices": [
+        "5-10%",
+        "25-40%",
+        "50-70%",
+        "90%+"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brewing ingredient is responsible for the foam or head on top of a freshly poured beer?",
+      "choices": [
+        "Water",
+        "Proteins and carbonation",
+        "Hops",
+        "Food coloring"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What temperature range is typical for lager fermentation?",
+      "choices": [
+        "65-75°F",
+        "45-55°F",
+        "85-95°F",
+        "100-110°F"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country has a beer culture so significant that it hosts the famous Oktoberfest celebration?",
+      "choices": [
+        "Austria",
+        "Belgium",
+        "Germany",
+        "Czech Republic"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Pale ale and pale lager differ primarily in what aspect of their brewing?",
+      "choices": [
+        "Barley type used",
+        "Yeast type and fermentation temperature",
+        "Hop variety",
+        "Water source"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the bitter compound found in hops that provides the distinctive sharp taste in many beers?",
+      "choices": [
+        "Tannins",
+        "Alpha acids",
+        "Esters",
+        "Phenols"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style, with roots in English brewing tradition, is known for being cask-conditioned without filtration?",
+      "choices": [
+        "Real Ale",
+        "Mild Ale",
+        "Barley Wine",
+        "Burton Ale"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary difference between a porter and a stout in terms of malt usage?",
+      "choices": [
+        "Porters use more hops",
+        "Stouts use more roasted malt",
+        "Porters are heavier",
+        "There is no difference"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these beer styles is known for being dark, roasted, and coffee-like?",
+      "choices": [
+        "Pilsner",
+        "Stout",
+        "Wheat Beer",
+        "Pale Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What part of the hop plant is used to flavor and preserve beer?",
+      "choices": [
+        "The root",
+        "The stem",
+        "The cone",
+        "The leaf"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient is responsible for the fizz in beer?",
+      "choices": [
+        "Hops",
+        "Carbon dioxide",
+        "Wheat",
+        "Sugar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is brewed with wheat and often served with a citrus slice?",
+      "choices": [
+        "Stout",
+        "Wheat Beer",
+        "Porter",
+        "IPA"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the microorganism that converts sugars into alcohol during brewing?",
+      "choices": [
+        "Bacteria",
+        "Yeast",
+        "Mold",
+        "Fungus"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is characterized by being light, crisp, and highly drinkable?",
+      "choices": [
+        "Barleywine",
+        "Pale Lager",
+        "Imperial Stout",
+        "Sour Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does the term 'IPA' stand for?",
+      "choices": [
+        "International Pale Ale",
+        "India Pale Ale",
+        "Irish Pale Ale",
+        "Imperial Pale Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is known for being fermented with wild yeast and having a spontaneous origin?",
+      "choices": [
+        "Pilsner",
+        "Lambic",
+        "Cream Ale",
+        "Porter"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary difference between ale and lager?",
+      "choices": [
+        "The color of the beer",
+        "The type of yeast and fermentation temperature",
+        "The country of origin",
+        "The alcohol content"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style contains lactose sugar and has a creamy, dessert-like taste?",
+      "choices": [
+        "Pale Ale",
+        "Milk Stout",
+        "Wheat Beer",
+        "Blonde Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process called when crushed grains are soaked in hot water to extract sugars?",
+      "choices": [
+        "Boiling",
+        "Mashing",
+        "Fermenting",
+        "Conditioning"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is famous for brewing wheat beers with Belgian yeast characteristics?",
+      "choices": [
+        "Germany",
+        "United Kingdom",
+        "Belgium",
+        "Ireland"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What beer style is known for its very high alcohol content and complex flavor profile?",
+      "choices": [
+        "Session Ale",
+        "Barleywine",
+        "Cream Ale",
+        "Kolsch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is traditionally smoked and has a campfire-like flavor?",
+      "choices": [
+        "Porter",
+        "Stout",
+        "Rauchbier",
+        "Brown Ale"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a 'session beer' typically defined by?",
+      "choices": [
+        "High alcohol content",
+        "Low alcohol content and drinkability",
+        "Dark color",
+        "Presence of fruit flavors"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which brewing ingredient provides bitterness and aroma to beer?",
+      "choices": [
+        "Yeast",
+        "Water",
+        "Hops",
+        "Grain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the dark beer style that is less heavy than stout?",
+      "choices": [
+        "Pale Ale",
+        "Porter",
+        "Barleywine",
+        "Pilsner"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is known for being fruity and spicy with Belgian origins?",
+      "choices": [
+        "Pale Lager",
+        "Belgian Ale",
+        "Cream Ale",
+        "Blonde Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What ingredient in beer provides its bitter flavor and aroma?",
+      "choices": [
+        "Malt",
+        "Hops",
+        "Yeast",
+        "Water"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style originated in the Czech Republic and is known for its golden color and crisp taste?",
+      "choices": [
+        "Lager",
+        "Pilsner",
+        "Stout",
+        "Wheat beer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What microorganism is responsible for fermenting beer and converting sugars into alcohol?",
+      "choices": [
+        "Bacteria",
+        "Yeast",
+        "Mold",
+        "Algae"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which dark beer style is known for its thick, creamy head and roasted flavor?",
+      "choices": [
+        "Porter",
+        "Stout",
+        "Barleywine",
+        "Rauchbier"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary grain used to make most beers?",
+      "choices": [
+        "Wheat",
+        "Corn",
+        "Barley",
+        "Rice"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is brewed in India and known for its high hop content and bold bitterness?",
+      "choices": [
+        "Session Ale",
+        "India Pale Ale",
+        "Cream Ale",
+        "Blonde Ale"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of fermentation process is used to create lager beers?",
+      "choices": [
+        "Top fermentation at warm temperatures",
+        "Bottom fermentation at cold temperatures",
+        "Open-air fermentation",
+        "Barrel fermentation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which beer style is typically lower in alcohol content and designed to be consumed in larger quantities?",
+      "choices": [
+        "Imperial Stout",
+        "Session Beer",
+        "Barleywine",
+        "Double IPA"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process called when beer is stored at cold temperatures for an extended period to improve flavor?",
+      "choices": [
+        "Hopping",
+        "Lagering",
+        "Carbonation",
+        "Pasteurization"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which German beer style has a distinctly smoky flavor reminiscent of a campfire?",
+      "choices": [
+        "Dunkelweizen",
+        "Rauchbier",
+        "Kellerbier",
+        "Märzen"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What grain is commonly used in wheat beers to give them their cloudy appearance and smooth taste?",
+      "choices": [
+        "Oats",
+        "Rye",
+        "Wheat",
+        "Spelt"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the enzyme responsible for converting starches into fermentable sugars during the mashing process in beer production?",
+      "choices": [
+        "Amylase",
+        "Protease",
+        "Lipase",
+        "Cellulase"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Belgian beer style is characterized by spontaneous fermentation using wild Saccharomyces cerevisiae and Brettanomyces strains?",
+      "choices": [
+        "Trappist Ale",
+        "Lambic",
+        "Witbier",
+        "Dubbel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary difference between a lager and an ale, in terms of yeast behavior during fermentation?",
+      "choices": [
+        "Lagers use top-fermenting yeast; ales use bottom-fermenting yeast",
+        "Lagers use bottom-fermenting yeast that prefers cooler temperatures; ales use top-fermenting yeast that prefers warmer temperatures",
+        "Ales ferment faster than lagers",
+        "Lagers contain more hop bitterness than ales"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In beer chemistry, what does the acronym IBU specifically measure?",
+      "choices": [
+        "International Beer Units",
+        "Isomerized Bittering Units",
+        "International Bitterness Units",
+        "Indexed Brew Uniformity"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German beer purity law, enacted in 1516, originally restricted beer ingredients to water, barley, and hops?",
+      "choices": [
+        "Pilsner Decree",
+        "Reinheitsgebot",
+        "Braurecht",
+        "Biersteuer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What yeast strain is traditionally used in the production of Belgian Trappist ales and is known for producing complex fruity esters?",
+      "choices": [
+        "Saccharomyces pastorianus",
+        "Saccharomyces cerevisiae",
+        "Brettanomyces lambicus",
+        "Lactobacillus delbrueckii"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which English ale style, traditionally brewed in Burton-on-Trent, is known for its high mineral sulfate content which enhances hop bitterness?",
+      "choices": [
+        "English Brown Ale",
+        "Burton Ale",
+        "English Bitter",
+        "Pale Ale"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the German smoked beer style traditionally brewed in Bamberg using smoked malts from beechwood?",
+      "choices": [
+        "Dunkelweizen",
+        "Rauchbier",
+        "Märzen",
+        "Kellerbier"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of beer fermentation, what is the term for the period when yeast rapidly consumes oxygen and begins multiplication?",
+      "choices": [
+        "Primary fermentation",
+        "Lag phase",
+        "Secondary fermentation",
+        "Conditioning phase"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beer ingredient contains alpha acids and beta acids that contribute both bitterness and aroma to the final product?",
+      "choices": [
+        "Malt",
+        "Yeast",
+        "Hops",
+        "Water"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary grain used in the production of Scotch whisky-like barleywine ales, which typically exceed 10% ABV?",
+      "choices": [
+        "Wheat",
+        "Rye",
+        "Barley",
+        "Corn"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In beer production, what is the process called when hot water is added to crushed malt to activate enzymes and convert starches to sugars?",
+      "choices": [
+        "Sparging",
+        "Mashing",
+        "Lautering",
+        "Boiling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which North American beer style, popularized in the 1980s, is characterized by aggressive hopping and citrus or pine notes exceeding 40 IBUs?",
+      "choices": [
+        "American Amber Ale",
+        "American IPA",
+        "American Wheat",
+        "American Brown Ale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the hazy layer of dead yeast cells and proteins that settles at the bottom of a beer fermentation vessel?",
+      "choices": [
+        "Trub",
+        "Lees",
+        "Krausen",
+        "Sediment"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Czech city is historically recognized as the birthplace of the pilsner beer style in the 19th century?",
+      "choices": [
+        "Prague",
+        "Brno",
+        "Plzeň",
+        "Český Krumlov"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In beer tasting terminology, what does the term 'diacetyl' refer to, and why is its presence typically considered a flaw in most beer styles?",
+      "choices": [
+        "A hop compound that adds bitterness; it masks fruit flavors",
+        "A byproduct of yeast metabolism that creates a buttery or butterscotch flavor; it's considered undesirable in most styles",
+        "A type of malt that adds sweetness; it clogs the fermentation process",
+        "An enzyme that prevents proper carbonation; it causes flatness"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beer style, originating in Vienna, Austria, is characterized by a reddish-amber color and a balance of malt sweetness with moderate hop bitterness?",
+      "choices": [
+        "Märzen",
+        "Vienna Lager",
+        "Czech Pilsner",
+        "Munich Dunkel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum alcohol by volume threshold required for a beer to be classified as a barleywine according to most brewing standards?",
+      "choices": [
+        "8% ABV",
+        "10% ABV",
+        "12% ABV",
+        "15% ABV"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the brewing process, what is the specific purpose of the sparge step that follows the mash?",
+      "choices": [
+        "To kill remaining bacteria with heat",
+        "To add additional hops for aroma",
+        "To rinse the grain bed with hot water to extract remaining sugars",
+        "To cool the wort before fermentation"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which London-based brewery, founded in 1722, is historically credited with pioneering the porter beer style through the use of roasted malts?",
+      "choices": [
+        "Fuller's Brewery",
+        "Guinness Brewery",
+        "Anchor Brewing Company",
+        "Ralph Harwood's Brewery"
+      ],
       "correct": 3,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which beer tastes like it just walked out of a barbecue?",
-        "original_a": "Rauchbier",
-        "verified": true,
-        "notes": "From Bamberg, Bavaria. 'Rauch' = smoke in German. Schlenkerla is the famous example."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which Belgian wheat beer is traditionally brewed with coriander and orange peel?",
-      "choices": ["Tripel", "Witbier", "Quadrupel", "Dubbel"],
+      "q": "What is the primary yeast strain used in traditional German lager fermentation, and at what temperature range does it typically perform optimally?",
+      "choices": [
+        "Saccharomyces pastorianus, 8-14°C",
+        "Saccharomyces cerevisiae, 18-25°C",
+        "Brettanomyces bruxellensis, 12-20°C",
+        "Lactobacillus delbrueckii, 15-30°C"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beer style, originating from the Lambic region of Belgium, relies on spontaneous fermentation from wild airborne microorganisms rather than cultured yeast?",
+      "choices": [
+        "Saison",
+        "Lambic",
+        "Trappist Ale",
+        "Blonde Ale"
+      ],
       "correct": 1,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which beer pops with bubbles, citrus, and spice-and could double as brunch's best friend?",
-        "original_a": "Belgian Witbier",
-        "verified": true,
-        "notes": "Hoegaarden is the classic example. 'Wit' = white in Dutch/Flemish."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which variety of stout gets its characteristic sweetness from the addition of lactose?",
-      "choices": ["Oatmeal stout", "Milk stout", "Imperial stout", "Dry stout"],
-      "correct": 1,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which dessert-like beer is brewed with lactose and tastes like it's giving you a hug?",
-        "original_a": "Milk Stout",
-        "verified": true,
-        "notes": "Also called sweet stout or cream stout. Lactose is unfermentable by brewer's yeast."
-      }
-    },
-    {
-      "q": "Which beer style's name combines a grain and a wine, reflecting its unusually high alcohol content?",
-      "choices": ["Doppelbock", "Tripel", "Barleywine", "Malt liquor"],
+      "q": "The International Bitterness Units scale measures hop bitterness in beer. At what IBU threshold does a beer typically transition from 'moderate bitterness' to 'assertively bitter'?",
+      "choices": [
+        "Around 20-30 IBU",
+        "Around 40-50 IBU",
+        "Around 70-100 IBU",
+        "Around 15-25 IBU"
+      ],
       "correct": 2,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which bold beer has a high ABV and is often aged like fine whiskey?",
-        "original_a": "Barleywine",
-        "verified": true,
-        "notes": "Typically 8-12% ABV. English and American substyles. Often cellar-aged."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What term describes beers intentionally brewed at lower alcohol levels for extended, comfortable drinking?",
-      "choices": ["Light beer", "Session beer", "Near beer", "Small beer"],
-      "correct": 1,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which beer is like your chill buddy-low alcohol, easy to hang with all night?",
-        "original_a": "Session beer",
-        "verified": true,
-        "notes": "Generally under 5% ABV. Term traces to British 'drinking sessions' during WWI work breaks."
-      }
-    },
-    {
-      "q": "Which dark English beer style, popular since the 1700s, features roasted malt flavors and was a favorite of London's river and street porters?",
-      "choices": ["Stout", "Brown ale", "Porter", "Mild ale"],
+      "q": "Weihenstephan Brewery, located in Bavaria, holds the distinction of being one of the world's oldest continuously operating breweries. In what year did it receive its brewing license?",
+      "choices": [
+        "1516",
+        "1602",
+        "1456",
+        "1723"
+      ],
       "correct": 2,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which brew has deep, roasted vibes and shows up at trivia night like it owns the place?",
-        "original_a": "Porter",
-        "verified": true,
-        "notes": "Originated in London early 1700s. Named for street and river porters who drank it."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which beer style uses rye grain to add a distinctive spicy, peppery character?",
-      "choices": ["Wheat beer", "Rye beer", "Oat stout", "Corn lager"],
+      "q": "What is the term for the resting period during lager production where the beer is stored at near-freezing temperatures to allow flavors to mature and clarify?",
+      "choices": [
+        "Lagering",
+        "Mashing",
+        "Conditioning",
+        "Carbonation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In brewing chemistry, which of the following minerals, when present in high concentrations in brewing water, enhances the perception of bitterness from hops?",
+      "choices": [
+        "Sodium chloride",
+        "Calcium sulfate",
+        "Magnesium bicarbonate",
+        "Potassium nitrate"
+      ],
       "correct": 1,
-      "category": "Beer",
-      "difficulty": "medium",
-      "source": {
-        "original_q": "Which beer brings the spice with rye and a little bite in every sip?",
-        "original_a": "Rye Beer",
-        "verified": true,
-        "notes": "German Roggenbier is the traditional example. American rye IPAs are a modern variant."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Reinheitsgebot, or German Beer Purity Law of 1516, originally restricted beer ingredients in Bavaria to water, barley, and which other ingredient?",
+      "choices": [
+        "Wheat",
+        "Hops",
+        "Rye",
+        "Oats"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beer style, characterized by its high alcohol content and malty complexity, shares its name with a fortified wine and is traditionally aged for extended periods?",
+      "choices": [
+        "Imperial Stout",
+        "Barleywine",
+        "Old Ale",
+        "English Strong Ale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of beer tasting, what is the term for volatile aromatic compounds produced during fermentation that contribute fruity, floral, or spicy notes?",
+      "choices": [
+        "Tannins",
+        "Esters",
+        "Phenols",
+        "Aldehydes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'head' or foam on a freshly poured beer is primarily composed of protein and carbohydrates derived from which grain component?",
+      "choices": [
+        "The grain hull",
+        "The grain endosperm",
+        "The grain embryo",
+        "The malt extract"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Belgian beer style, traditionally brewed by Trappist monks, is known for multiple strength levels designated by color or number and often features spicy or fruity characteristics?",
+      "choices": [
+        "Abbey Ale",
+        "Trappist Ale",
+        "Dubbel/Tripel",
+        "Belgian Dark Ale"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What enzymatic process occurs during the mashing step of beer production, where complex carbohydrates are broken down into fermentable sugars?",
+      "choices": [
+        "Proteolysis",
+        "Starch conversion",
+        "Gluconeogenesis",
+        "Glycolysis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Great American Beer Festival, held annually in Denver since 1982, organizes its competitions into how many distinct beer style categories?",
+      "choices": [
+        "Approximately 50 categories",
+        "Approximately 90 categories",
+        "Approximately 150 categories",
+        "Approximately 200 categories"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In beer chemistry, the measurement of 'apparent attenuation' refers to what percentage calculation between original and final gravity readings?",
+      "choices": [
+        "Percentage of hops utilized by the yeast",
+        "Percentage of sugar consumed by yeast during fermentation",
+        "Percentage of protein remaining in the final beer",
+        "Percentage of color reduction through aging"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American beer style, developed in the Pacific Northwest in the 1980s-1990s, is defined by high hop bitterness and aroma while using pale malts as its base?",
+      "choices": [
+        "American Pale Ale",
+        "American IPA",
+        "American Amber Ale",
+        "American Barley Wine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The process of 'dry hopping'—adding hops during or after fermentation rather than during the boil—was historically associated with which beer style for preservation purposes?",
+      "choices": [
+        "English Bitter",
+        "India Pale Ale",
+        "Pale Lager",
+        "Belgian Tripel"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the layer of spent grain and other solids that forms during the mashing process and serves as a natural filter during lautering?",
+      "choices": [
+        "The grain bed",
+        "The malt layer",
+        "The sediment cap",
+        "The filter cake"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German beer style, traditionally brewed in Munich, features a reddish-brown color and a malty sweetness balanced with subtle spice notes from noble hops?",
+      "choices": [
+        "Kellerbier",
+        "Dunkel",
+        "Märzen",
+        "Helles"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of beer sensory evaluation, what is the distinction between 'bittering units' (IBU) and 'perceived bitterness' in a finished beer?",
+      "choices": [
+        "They are identical measurements expressed differently",
+        "IBU is measured objectively; perceived bitterness is subjective and affected by malt sweetness, body, and other factors",
+        "Perceived bitterness is always higher than the IBU measurement",
+        "IBU measures only the alpha acids from hops; perceived bitterness includes all bitter compounds"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The 'noble hops' traditionally used in German and Czech lagers are characterized by which qualities?",
+      "choices": [
+        "High alpha acid content and intense citrus aromatics",
+        "Low alpha acid content, refined herbal or floral aromatics, and low cohumulone percentage",
+        "Medium alpha acid content and fruity fermentation byproducts",
+        "Very high bittering potential and earthy, pine-forward characteristics"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary fermentation temperature range for lager yeast, which distinguishes it from ale fermentation?",
+      "choices": [
+        "55-77°F (13-25°C)",
+        "48-55°F (9-13°C)",
+        "77-86°F (25-30°C)",
+        "86-95°F (30-35°C)"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Belgian abbey brewery, established in 1216, is the world's oldest continuously operating brewery?",
+      "choices": [
+        "Rochefort Brewery",
+        "Weihenstephan Abbey",
+        "Orval Brewery",
+        "Chimay Brewery"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the production of beer, what is the process called when crushed malt is steeped in hot water to extract sugars?",
+      "choices": [
+        "Kilning",
+        "Mashing",
+        "Lautering",
+        "Sparging"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What yeast species is responsible for the distinctive phenolic and fruity esters in Belgian Trappist ales?",
+      "choices": [
+        "Saccharomyces pastorianus",
+        "Saccharomyces cerevisiae",
+        "Brettanomyces bruxellensis",
+        "Lactobacillus delbrueckii"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German brewing regulation, enacted in 1516, originally restricted beer ingredients to only water, barley, and hops?",
+      "choices": [
+        "Bier Gesetz",
+        "Reinheitsgebot",
+        "Brauerei Ordnung",
+        "Gärungsgesetz"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the layer of proteins and hop resins that settles during the cooling phase after the boil in beer production?",
+      "choices": [
+        "Hot break",
+        "Cold break",
+        "Trub",
+        "Krausen"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In IBU calculations, what does the utilization rate depend on most significantly?",
+      "choices": [
+        "The color of the final beer",
+        "The gravity of the wort and boil time",
+        "The brewery's location",
+        "The age of the hops"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hop variety, bred in the Hallertau region of Bavaria, has been cultivated since at least the 8th century?",
+      "choices": [
+        "Saaz",
+        "Hallertauer Mittelfrüh",
+        "Tettnanger",
+        "Spalt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the foam that rises to the top of fermenting ale during active fermentation?",
+      "choices": [
+        "Lees",
+        "Krausen",
+        "Trub",
+        "Sediment"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which style of beer, originating in Leipzig, Germany, is characterized by a sharp lactic acid sourness from Lactobacillus infection?",
+      "choices": [
+        "Gose",
+        "Berliner Weisse",
+        "Kellerbier",
+        "Zwickelbier"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What grain, when used as an adjunct in American lagers, contributes a corn-like sweetness and lighter body?",
+      "choices": [
+        "Rice",
+        "Maize",
+        "Oats",
+        "Rye"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In barrel-aging beer, which wood compound is responsible for the vanilla, coconut, and caramel notes in the final product?",
+      "choices": [
+        "Tannins",
+        "Lignin",
+        "Vanillin",
+        "Cellulose"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British beer style combines the alcohol content of a barleywine with the hopping profile of a pale ale?",
+      "choices": [
+        "Imperial IPA",
+        "English Strong Ale",
+        "Old Ale",
+        "Cask Ale"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for wild yeast strains used in spontaneously fermented Belgian beers, particularly lambics?",
+      "choices": [
+        "Brettanomyces",
+        "Pediococcus",
+        "Saccharomyces",
+        "All of the above contribute"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of beer, what does the term 'attenuation' measure?",
+      "choices": [
+        "The bitterness level of the final beer",
+        "The percentage of fermentable sugars consumed by yeast",
+        "The color intensity of the beer",
+        "The carbonation level in the beer"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of malt, dried at high temperatures, imparts deep brown or black color and roasted flavors to stouts and porters?",
+      "choices": [
+        "Crystal malt",
+        "Chocolate malt",
+        "Roasted barley",
+        "Munich malt"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary microorganism responsible for the sour flavor in Berliner Weisse beer?",
+      "choices": [
+        "Saccharomyces cerevisiae",
+        "Lactobacillus",
+        "Pediococcus",
+        "Acetobacter"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In hop chemistry, which aromatic compound group is responsible for the pine and citrus notes in IPA beers?",
+      "choices": [
+        "Polyphenols",
+        "Terpenes",
+        "Esters",
+        "Thiols"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cask-conditioned ale style from Burton-on-Trent, England, became the template for India Pale Ales due to its hop preservation qualities?",
+      "choices": [
+        "Porter",
+        "Pale Ale",
+        "Barley Wine",
+        "Mild Ale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the process in which beer is exposed to oxygen immediately after fermentation to promote flavor development in certain styles?",
+      "choices": [
+        "Conditioning",
+        "Oxidation",
+        "Aging",
+        "Chilling"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary wild yeast species responsible for the characteristic funky, sour profile in traditional lambic beers from Belgium?",
+      "choices": [
+        "Brettanomyces bruxellensis",
+        "Saccharomyces pastorianus",
+        "Lactobacillus delbrueckii",
+        "Pediococcus pentosus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the brewing process, what is the name of the step where crushed malted grains are steeped in hot water to convert starches into fermentable sugars?",
+      "choices": [
+        "Lautering",
+        "Mashing",
+        "Sparging",
+        "Kilning"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which German beer style, traditionally brewed with smoked malt from beechwood, originates from the Franconia region and carries a distinctly campfire-like aroma?",
+      "choices": [
+        "Kellerbier",
+        "Rauchbier",
+        "Märzen",
+        "Dunkelweizen"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the International Bitterness Unit (IBU) scale designed to quantify in beer?",
+      "choices": [
+        "Alcohol content by volume",
+        "The perceived bitterness from alpha acids in hops",
+        "The color intensity of the brew",
+        "The body and mouthfeel characteristics"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Belgian brewing tradition involves the addition of specific microorganisms and spontaneous fermentation to achieve its complex, vinous character?",
+      "choices": [
+        "Trappist ale fermentation",
+        "Lambic and gueuze production",
+        "Abbey ale conditioning",
+        "Saison dry hopping"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In beer brewing, what is the term for the protein-rich sediment that settles at the bottom of the fermenter after yeast has completed its work?",
+      "choices": [
+        "Trub",
+        "Krausen",
+        "Lees",
+        "Spent grain"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hop variety, first cultivated in the Hallertau region of Bavaria, is historically considered the original noble hop and remains essential in pilsner brewing?",
+      "choices": [
+        "Saaz",
+        "Hallertau Mittelfrueh",
+        "Tettnang",
+        "Spalt"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What enzymatic process occurs during the mashing stage that allows brewers to control the final beer's body and fermentability by adjusting water temperature?",
+      "choices": [
+        "Starch gelatinization",
+        "Protein conversion",
+        "Enzymatic hydrolysis of starches and proteins",
+        "Maillard reaction"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British cask ale tradition, where beer is served directly from wooden casks at cellar temperature without carbonation, is codified by the Campaign for Real Ale (CAMRA)?",
+      "choices": [
+        "Cask-conditioned ale",
+        "Real ale",
+        "Cask strength ale",
+        "Barrel-aged ale"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of beer fermentation, what is the distinction between top-fermenting and bottom-fermenting yeast strains in terms of their settling behavior and optimal temperature ranges?",
+      "choices": [
+        "Top-fermenting yeast rises during fermentation and prefers cooler temperatures; bottom-fermenting sinks and prefers warmer temperatures",
+        "Top-fermenting yeast sinks during fermentation and prefers warmer temperatures; bottom-fermenting rises and prefers cooler temperatures",
+        "Top-fermenting yeast rises during fermentation and prefers warmer temperatures; bottom-fermenting sinks and prefers cooler temperatures",
+        "There is no difference in settling behavior, only in temperature preference"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which beer style originated in the Czech Republic and became famous for its golden color and crisp, clean profile?",
+      "choices": [
+        "Pilsner",
+        "Märzen",
+        "Helles",
+        "Dunkel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary bittering agent in beer that also contributes to its aroma and flavor?",
+      "choices": [
+        "Yeast",
+        "Hops",
+        "Grain",
+        "Water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brewing process converts starches in grain into fermentable sugars?",
+      "choices": [
+        "Boiling",
+        "Mashing",
+        "Pitching",
+        "Conditioning"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A barleywine typically contains what alcohol by volume range?",
+      "choices": [
+        "4-6%",
+        "8-15%",
+        "2-4%",
+        "6-8%"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of yeast ferments at the top of the brewing vessel and is commonly used in ales?",
+      "choices": [
+        "Saccharomyces pastorianus",
+        "Saccharomyces cerevisiae",
+        "Brettanomyces bruxellensis",
+        "Lactobacillus delbrueckii"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes a beer with low alcohol content, typically below 4% ABV, designed for extended social drinking?",
+      "choices": [
+        "Session beer",
+        "Light beer",
+        "Mild ale",
+        "Table beer"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which German beer style is traditionally smoked using beechwood and originates from Bamberg?",
+      "choices": [
+        "Dunkelweizen",
+        "Rauchbier",
+        "Kellerbier",
+        "Helles Bock"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Porter and stout are both dark beers, but stout typically contains what additional ingredient?",
+      "choices": [
+        "Extra hops",
+        "Roasted barley",
+        "Wheat",
+        "Honey"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What Belgian beer style is brewed with wheat and often flavored with coriander and orange peel?",
+      "choices": [
+        "Trappist ale",
+        "Witbier",
+        "Dubbel",
+        "Saison"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brewing step involves boiling the wort with hops to extract bitterness and flavor compounds?",
+      "choices": [
+        "Sparging",
+        "Lautering",
+        "The boil",
+        "Whirlpooling"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A lambic beer ferments using wild yeast and bacteria, making it characteristically what flavor?",
+      "choices": [
+        "Sweet and malty",
+        "Sour and funky",
+        "Bitter and hoppy",
+        "Smooth and creamy"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ingredient in beer provides fermentable sugars and is derived from grains like barley and wheat?",
+      "choices": [
+        "Hops",
+        "Malt",
+        "Yeast",
+        "Water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for beer served directly from the cask without pasteurization or filtration?",
+      "choices": [
+        "Draft beer",
+        "Real ale",
+        "Cask ale",
+        "Live beer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "IPA stands for India Pale Ale—what characteristic makes it distinct from other pale ales?",
+      "choices": [
+        "Lower alcohol content",
+        "Higher hop content",
+        "Darker color",
+        "Added fruit flavors"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beer style was originally brewed by Trappist monks in Belgium and remains protected by designation?",
+      "choices": [
+        "Abbey ale",
+        "Trappist ale",
+        "Monastic ale",
+        "Cloister ale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference between lager and ale fermentation?",
+      "choices": [
+        "Temperature and yeast type",
+        "Grain used",
+        "Hop variety",
+        "Water source"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A märzen beer was traditionally brewed in which month and stored for consumption later in the year?",
+      "choices": [
+        "January",
+        "March",
+        "September",
+        "November"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which measurement indicates the gravity or strength potential of beer before fermentation?",
+      "choices": [
+        "Final gravity",
+        "Original gravity",
+        "Specific gravity",
+        "Apparent gravity"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the residual sweetness in finished beer called?",
+      "choices": [
+        "Malt profile",
+        "Final gravity",
+        "Residual sugar",
+        "Sweetness factor"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hop variety is known for its citrus and pine characteristics and is commonly used in American IPAs?",
+      "choices": [
+        "Saaz",
+        "Cascade",
+        "Goldings",
+        "Fuggle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient that gives beer its bitter flavor and aroma?",
+      "choices": [
+        "Barley",
+        "Hops",
+        "Yeast",
+        "Water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beer style is traditionally brewed in Bavaria and known for its light color and crisp taste?",
+      "choices": [
+        "Pilsner",
+        "Hefeweizen",
+        "Dunkelweizen",
+        "Märzen"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does IBU stand for in the context of measuring beer flavor?",
+      "choices": [
+        "International Beer Units",
+        "International Bitterness Units",
+        "Integrated Brewing Understanding",
+        "International Beer Understandings"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Porter and Stout are both dark beers, but which one typically has a more pronounced roasted coffee flavor?",
+      "choices": [
+        "Porter",
+        "Stout",
+        "They taste identical",
+        "Neither has coffee notes"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In Belgian brewing, which microorganism is responsible for the unique fruity and spicy flavors in many Belgian ales?",
+      "choices": [
+        "Bacteria",
+        "Saccharomyces yeast",
+        "Belgian yeast strain",
+        "Mold"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What fermentation temperature range is typically used for lager beers?",
+      "choices": [
+        "60-75°F",
+        "48-58°F",
+        "75-85°F",
+        "40-50°F"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which German beer style is smoked using beechwood and originated in the Franconia region?",
+      "choices": [
+        "Dunkelweizen",
+        "Rauchbier",
+        "Kellerbier",
+        "Märzen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lambic beer, a wild fermented Belgian style, is traditionally fermented with what type of yeast?",
+      "choices": [
+        "Cultured lager yeast",
+        "Wild airborne yeast",
+        "Wine yeast",
+        "Sake yeast"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the approximate alcohol content range for a typical Barleywine?",
+      "choices": [
+        "4-6% ABV",
+        "8-12% ABV",
+        "6-8% ABV",
+        "12-15% ABV"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which ingredient is added to Milk Stout to give it a creamy, sweet character?",
+      "choices": [
+        "Cream",
+        "Lactose sugar",
+        "Milk powder",
+        "Condensed milk"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In beer brewing, what is the term for the solid particles that settle at the bottom of the fermentation vessel?",
+      "choices": [
+        "Husk",
+        "Trub",
+        "Sediment",
+        "Lees"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country is credited with brewing beer as early as 3000 BCE according to historical records?",
+      "choices": [
+        "Germany",
+        "Belgium",
+        "Mesopotamia/Sumer",
+        "Egypt"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the traditional German beer served unfiltered and unpasteurized directly from the cellar?",
+      "choices": [
+        "Kellerbier",
+        "Märzen",
+        "Helles",
+        "Dunkel"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major brewing nation is most associated with Pilsner-style beer production?",
+      "choices": [
+        "Germany",
+        "Czech Republic",
+        "Belgium",
+        "Austria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1516, Bavaria established the Reinheitsgebot, a purity law limiting beer ingredients to which three items?",
+      "choices": [
+        "Hops, wheat, yeast",
+        "Barley, water, yeast",
+        "Water, barley, hops",
+        "Malt, hops, yeast"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beer style is known for using a blend of pale malts and producing a light, slightly sweet flavor profile?",
+      "choices": [
+        "Cream Ale",
+        "Pale Lager",
+        "Blonde Ale",
+        "Mild Ale"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the process called when hops are added to boiling wort at the end of the boil for aroma rather than bitterness?",
+      "choices": [
+        "Bittering",
+        "Flavor hopping",
+        "Aroma hopping",
+        "Whirlpool hopping"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fruit is most commonly added to fruit beers and helps balance the sweetness with acidity?",
+      "choices": [
+        "Strawberry",
+        "Cherry",
+        "Raspberry",
+        "Peach"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What British beer style is characterized by low alcohol content, dark color, and sweet, full-bodied flavor?",
+      "choices": [
+        "Brown Ale",
+        "Mild Ale",
+        "Porter",
+        "Bitter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In beer terminology, what does 'attenuation' refer to?",
+      "choices": [
+        "The reduction of hop bitterness over time",
+        "The yeast's ability to convert sugars to alcohol",
+        "The clarification of beer through filtering",
+        "The carbonation level of the final product"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In beer brewing, what is the name of the process where crushed grains are soaked in hot water to convert starches into fermentable sugars?",
+      "choices": [
+        "Lautering",
+        "Mashing",
+        "Kilning",
+        "Sparging"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brewing ingredient is responsible for the bitter flavor and preservative qualities in most beers?",
+      "choices": [
+        "Yeast",
+        "Malt",
+        "Hops",
+        "Water"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference between ale and lager beers in terms of fermentation?",
+      "choices": [
+        "Ale uses bottom-fermenting yeast at cool temperatures; lager uses top-fermenting yeast at warm temperatures",
+        "Ale uses top-fermenting yeast at warm temperatures; lager uses bottom-fermenting yeast at cool temperatures",
+        "Ales are always darker than lagers",
+        "Lagers contain more hops than ales"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Weihenstephan, one of the world's oldest breweries, is located in which country?",
+      "choices": [
+        "Belgium",
+        "Germany",
+        "Czech Republic",
+        "Austria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the abbreviation IBU stand for on beer labels and menus?",
+      "choices": [
+        "International Brewing Units",
+        "International Bitterness Units",
+        "Integrated Beer Uniformity",
+        "Imperial Brewed Unfiltered"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beer style, originating in Germany, is characterized by a smoky, bacon-like flavor from smoked malts?",
+      "choices": [
+        "Dunkelweizen",
+        "Rauchbier",
+        "Märzen",
+        "Hefeweizen"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the liquid extracted from grains during the mashing process that becomes beer after fermentation?",
+      "choices": [
+        "Must",
+        "Wort",
+        "Mash",
+        "Ferment"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Pilsner beer originated in which Czech city during the 19th century?",
+      "choices": [
+        "Plzeň",
+        "Prague",
+        "Brno",
+        "Ceské Budějovice"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In beer brewing, what is the primary purpose of the boiling stage in the brewing process?",
+      "choices": [
+        "To cool the wort to fermentation temperature",
+        "To extract color and flavor from hops, and to sterilize the wort",
+        "To activate the yeast for fermentation",
+        "To separate proteins from the liquid"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following beer styles typically has the highest alcohol content by volume?",
+      "choices": [
+        "Pilsner",
+        "IPA",
+        "Barleywine",
+        "Porter"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the foam or bubbles that form on top of beer during the fermentation process?",
+      "choices": [
+        "Krausen",
+        "Trub",
+        "Spent grain",
+        "Hop pellets"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Belgian Trappist beers are brewed by monks in monasteries. How many officially recognized Trappist breweries are located in Belgium?",
+      "choices": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the grain typically used as the base malt in most beer styles?",
+      "choices": [
+        "Chocolate malt",
+        "Crystal malt",
+        "Pale malt",
+        "Black malt"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which beer style is known for its distinctive fruity and spicy esters from Belgian yeast strains?",
+      "choices": [
+        "American Lager",
+        "Belgian Ale",
+        "English Brown Ale",
+        "Irish Red Ale"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the beer industry, what term describes the process of removing yeast and other sediments from finished beer before packaging?",
+      "choices": [
+        "Filtration",
+        "Carbonation",
+        "Pasteurization",
+        "Lagering"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which American city is known as the craft beer capital and hosts the Great American Beer Festival annually?",
+      "choices": [
+        "San Francisco, California",
+        "Portland, Oregon",
+        "Denver, Colorado",
+        "Seattle, Washington"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the bitter compounds in hops that contribute to a beer's bitterness?",
+      "choices": [
+        "Tannins",
+        "Isohumulones",
+        "Phenols",
+        "Esters"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "IPA stands for India Pale Ale. What historical reason led to the development of this beer style?",
+      "choices": [
+        "To appeal to the Indian royal courts",
+        "To preserve beer during long ocean voyages to India with extra hops and alcohol",
+        "To compete with Indian spice trade merchants",
+        "To honor the Indian brewing traditions"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is NOT a typical characteristic of a stout beer?",
+      "choices": [
+        "Dark color from roasted malts",
+        "Full, creamy body",
+        "Light, crisp, refreshing taste",
+        "Coffee and chocolate flavor notes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What percentage of a beer's composition is typically water?",
+      "choices": [
+        "Around 50%",
+        "Around 75%",
+        "Around 90%",
+        "Around 95%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the pilsner beer style first brewed in the Czech Republic, establishing the foundation for modern pale lagers?",
+      "choices": [
+        "1842",
+        "1856",
+        "1823",
+        "1871"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following ingredients is responsible for the bitter and aromatic characteristics most prominently featured in IPA beers?",
+      "choices": [
+        "Malt",
+        "Hops",
+        "Yeast",
+        "Water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The International Bitterness Units scale measures the intensity of bitterness in beer. What do brewers call the range of IBU values considered typical for a standard American IPA?",
+      "choices": [
+        "40-60 IBU",
+        "60-100 IBU",
+        "1-20 IBU",
+        "100-150 IBU"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Lambic beers, traditionally brewed in Belgium, are characterized by fermentation with what type of microorganism?",
+      "choices": [
+        "Cultured brewer's yeast",
+        "Wild yeast and bacteria naturally present in the air",
+        "Laboratory-isolated lager yeast",
+        "Imported wine yeast"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary difference in fermentation between ale and lager beers?",
+      "choices": [
+        "Ales ferment at warmer temperatures with top-fermenting yeast; lagers ferment cooler with bottom-fermenting yeast",
+        "Ales use wild yeast; lagers use only cultured yeast",
+        "Ales ferment for one week; lagers ferment for several months",
+        "Ales contain more hops; lagers contain more malt"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Rauchbier, a traditional smoked beer style originating from Bamberg, Germany, gets its distinctive character from what process?",
+      "choices": [
+        "Adding liquid smoke during fermentation",
+        "Using malt that has been smoked over beechwood fires",
+        "Fermenting in oak barrels previously used for whiskey",
+        "Aging the beer in smokehouses"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these beer styles is typically brewed with wheat as a primary grain, resulting in a cloudy appearance and fruity-spiced notes?",
+      "choices": [
+        "Scotch Ale",
+        "Hefeweizen",
+        "Brown Ale",
+        "Porter"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary ingredient by weight that comprises most beers, making up roughly 85-90% of the final product?",
+      "choices": [
+        "Malt",
+        "Hops",
+        "Water",
+        "Yeast"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Session beers are defined by having a lower alcohol content. What is the typical ABV range for a session beer?",
+      "choices": [
+        "2.0-3.5% ABV",
+        "3.5-5.0% ABV",
+        "5.0-7.0% ABV",
+        "7.0-9.0% ABV"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Witbier, a Belgian white beer style, traditionally includes which of the following ingredients in addition to wheat and barley?",
+      "choices": [
+        "Coriander and orange peel",
+        "Juniper and cardamom",
+        "Vanilla and cinnamon",
+        "Clove and nutmeg"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
     }
   ]
 }

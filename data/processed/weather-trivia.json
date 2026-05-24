@@ -1,289 +1,1393 @@
 {
   "slug": "weather-trivia",
   "name": "Weather",
-  "description": "Tornadoes, hurricanes, clouds, climate — meteorology trivia.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.782Z",
   "questions": [
     {
-      "q": "What is the difference between weather and climate?",
+      "q": "What is the term for a place's long - term weather personality?",
       "choices": [
-        "Weather is short-term; climate is long-term",
-        "Weather is hot; climate is cold",
-        "Weather is local; climate is global",
-        "They mean the same thing"
+        "heat index",
+        "pressure",
+        "Climate",
+        "temperature"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which weather phenomenon is brought to you by thunderclouds on steroids - also known as 'supercells'?",
+      "choices": [
+        "cyclone",
+        "avalanche",
+        "Tornado",
+        "blizzard"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term do weather pros use when stuff falls from the sky that isn't sunshine or regrets?",
+      "choices": [
+        "Water",
+        "wind speed",
+        "cirrostratus",
+        "altostratus"
       ],
       "correct": 0,
-      "category": "Weather",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Climate is long-term weather averages."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What wind speed (sustained) does a storm need to be classified as a hurricane?",
-      "choices": ["74 mph or higher", "39 mph or higher", "100 mph or higher", "30 mph or higher"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "74mph",
-        "verified": true,
-        "notes": "Saffir-Simpson Cat 1 starts at 74 mph (~119 km/h)."
-      }
-    },
-    {
-      "q": "What is the strongest tier on the Saffir-Simpson Hurricane Wind Scale?",
-      "choices": ["Category 5", "Category 6", "Category 4", "Category 10"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Cat 5 = 157+ mph sustained winds."
-      }
-    },
-    {
-      "q": "What scale rates tornado intensity?",
+      "q": "Which two words best describe the climate in the tropical rainforest zone?",
       "choices": [
-        "Enhanced Fujita (EF) Scale",
-        "Saffir-Simpson Scale",
+        "Hot and wet",
+        "fog",
+        "humidity",
+        "wind chill"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color chills in the center of every rainbow party?",
+      "choices": [
+        "wind speed",
+        "cumulonimbus",
+        "climate",
+        "Green"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the calm, eerie center of a hurricane called?",
+      "choices": [
+        "Eye",
+        "Celsius",
+        "weather vane",
+        "dew point"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what height do meteorologists sneakily take a temp check?",
+      "choices": [
+        "Doppler radar",
+        "thunderstorm",
+        "drought",
+        "1m 30s"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the calm, circular area at the center of a hurricane?",
+      "choices": [
+        "The Core",
+        "The Eye",
+        "The Void",
+        "The Center"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which season of the year brings the most dramatic temperature and daylight changes in most temperate regions?",
+      "choices": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What weather phenomenon requires both sunshine and rain to occur simultaneously in order to form?",
+      "choices": [
+        "Tornado",
+        "Rainbow",
+        "Thunder",
+        "Hail"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what wind speed does the Beaufort Scale classify weather as hurricane-force conditions?",
+      "choices": [
+        "Above 39 mph",
+        "Above 55 mph",
+        "Above 74 mph",
+        "Above 100 mph"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What natural force is primarily responsible for creating wind in the Earth's atmosphere?",
+      "choices": [
+        "The Moon's gravity",
+        "The Sun's heat",
+        "Ocean currents",
+        "The Earth's rotation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these countries is known to have the world's rainiest location by annual precipitation?",
+      "choices": [
+        "Japan",
+        "Colombia",
+        "United States",
+        "India"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What instrument is used to measure atmospheric pressure and help predict weather changes?",
+      "choices": [
+        "Thermometer",
+        "Barometer",
+        "Anemometer",
+        "Hygrometer"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which region of the Earth do you typically find consistently hot and humid weather year-round?",
+      "choices": [
+        "The Poles",
+        "The Equator",
+        "The Mountains",
+        "The Deserts"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process of predicting future weather conditions called?",
+      "choices": [
+        "Weather tracking",
+        "Climate modeling",
+        "Weather forecasting",
+        "Atmospheric analysis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What happens to most people who are struck directly by lightning during a thunderstorm?",
+      "choices": [
+        "They gain electrical powers",
+        "They are usually killed",
+        "They become temporarily immune",
+        "They recover fully within hours"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which celestial body rises in the eastern sky each morning and is responsible for heating the Earth?",
+      "choices": [
+        "The Moon",
+        "The Sun",
+        "Venus",
+        "Mars"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do meteorologists call weather conditions that are significantly more severe or unusual than normal patterns?",
+      "choices": [
+        "Unusual weather",
+        "Extreme weather",
+        "Abnormal conditions",
+        "Rare patterns"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Where should you seek shelter during severe winter weather to protect yourself from cold and wind?",
+      "choices": [
+        "In your car",
+        "Under a bridge",
+        "Inside a building",
+        "In a tent"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What term describes strong, forceful wind that moves with a noticeable chill to it?",
+      "choices": [
+        "Blustery",
+        "Gusty",
+        "Bitter",
+        "Harsh"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which year did the United Kingdom experience an exceptionally dry period with very little rainfall?",
+      "choices": [
+        "1970",
+        "1976",
+        "1982",
+        "1988"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the repeating cycle of weather patterns throughout the year called?",
+      "choices": [
+        "Weather loop",
+        "Climate cycle",
+        "Seasons",
+        "Annual pattern"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which weather phenomenon is characterized by rotating columns of air that can cause severe damage?",
+      "choices": [
+        "Hailstorm",
+        "Tornado",
+        "Blizzard",
+        "Thunderstorm"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a detailed weather map that shows atmospheric conditions and pressure systems called?",
+      "choices": [
+        "Climate chart",
+        "Synoptic chart",
+        "Pressure map",
+        "Temperature grid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Northern Hemisphere, where is the area of low pressure typically located when wind blows at your back?",
+      "choices": [
+        "To your right",
+        "To your left",
+        "Behind you",
+        "Below you"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What frozen form of precipitation has never been recorded as a regular weather occurrence in Singapore?",
+      "choices": [
+        "Sleet",
+        "Hail",
+        "Snow",
+        "Freezing rain"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the calm, clear area at the center of a hurricane?",
+      "choices": [
+        "The eye",
+        "The core",
+        "The hub",
+        "The vortex"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country experiences more tornadoes than any other nation in the world?",
+      "choices": [
+        "Canada",
+        "United States",
+        "Australia",
+        "Argentina"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What two weather elements must be present in the sky at the same time to create a rainbow?",
+      "choices": [
+        "Wind and clouds",
+        "Sunlight and rain",
+        "Cold air and moisture",
+        "High pressure and low pressure"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "At what minimum wind speed, in miles per hour, does a storm officially become a hurricane?",
+      "choices": [
+        "60 mph",
+        "74 mph",
+        "88 mph",
+        "100 mph"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the layer of Earth's atmosphere where most weather occurs?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of cloud typically forms very high in the sky, between 20,000 and 40,000 feet?",
+      "choices": [
+        "Cumulus",
+        "Stratus",
+        "Cirrus",
+        "Cumulonimbus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term meteorologists use to describe water that condenses on surfaces during cool nights?",
+      "choices": [
+        "Frost",
+        "Dew",
+        "Mist",
+        "Condensation"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which weather phenomenon is characterized by rotating columns of air that extend from thunderstorms to the ground?",
+      "choices": [
+        "Dust devil",
+        "Tornado",
+        "Waterspout",
+        "Derecho"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the process by which water changes from a liquid to a gas in the atmosphere?",
+      "choices": [
+        "Condensation",
+        "Precipitation",
+        "Evaporation",
+        "Sublimation"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In the Northern Hemisphere, if you stand with the wind at your back, where is the low pressure system located?",
+      "choices": [
+        "To your right",
+        "To your left",
+        "Behind you",
+        "Directly above you"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the scale used to measure wind speed and its effects on land and sea?",
+      "choices": [
+        "Richter Scale",
         "Beaufort Scale",
-        "Richter Scale"
+        "Fujita Scale",
+        "Saffir-Simpson Scale"
       ],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "EF0-EF5; replaced original Fujita Scale in 2007."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What cloud type is associated with thunderstorms and produces hail?",
-      "choices": ["Cumulonimbus", "Cirrus", "Stratus", "Altocumulus"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cumulonimbus",
-        "verified": true,
-        "notes": "Tall, vertical-development storm clouds."
-      }
-    },
-    {
-      "q": "Which cloud type appears as thin, wispy 'mare's tails' high in the sky?",
-      "choices": ["Cirrus", "Cumulus", "Stratus", "Nimbostratus"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Cirrus",
-        "verified": true,
-        "notes": "Highest clouds, made of ice crystals."
-      }
-    },
-    {
-      "q": "Which atmospheric phenomenon causes a rainbow?",
+      "q": "Which type of cloud is known for producing hail and severe thunderstorms?",
       "choices": [
-        "Sunlight refracting through water droplets",
-        "Clouds reflecting moonlight",
-        "Light hitting the ozone layer",
-        "Static electricity"
+        "Altocumulus",
+        "Cumulonimbus",
+        "Stratocumulus",
+        "Cirrocumulus"
       ],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Sun and rain",
-        "verified": true,
-        "notes": "Refraction + internal reflection + dispersion."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What U.S. region is known as 'Tornado Alley'?",
+      "q": "What is the term for the prediction of future atmospheric conditions?",
       "choices": [
-        "Central Great Plains (TX, OK, KS, NE)",
-        "Florida coast",
-        "Pacific Northwest",
-        "New England"
+        "Weather modeling",
+        "Weather forecasting",
+        "Climate analysis",
+        "Atmospheric projection"
       ],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Includes Texas, Oklahoma, Kansas, Nebraska — extending into Iowa, Missouri, SD."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of the thin layer of frozen rain droplets known as 'frozen rain'?",
-      "choices": ["Sleet", "Hail", "Snow", "Freezing rain"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Sleet = ice pellets that freeze before hitting ground; freezing rain = liquid that freezes on impact."
-      }
-    },
-    {
-      "q": "What instrument measures atmospheric pressure?",
-      "choices": ["Barometer", "Anemometer", "Thermometer", "Hygrometer"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Anemometer = wind speed; hygrometer = humidity."
-      }
-    },
-    {
-      "q": "What instrument measures wind speed?",
-      "choices": ["Anemometer", "Barometer", "Thermometer", "Hygrometer"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the name of the boundary where two air masses meet, often producing storms?",
-      "choices": ["Front", "Boundary", "Wall", "Edge"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Cold front, warm front, occluded front, stationary front."
-      }
-    },
-    {
-      "q": "What type of front is associated with sudden temperature drops + thunderstorms?",
-      "choices": ["Cold front", "Warm front", "Stationary front", "Occluded front"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Cold air pushes under warm air, lifting it rapidly."
-      }
-    },
-    {
-      "q": "What is the term for the calm, clear region at the center of a hurricane?",
-      "choices": ["Eye", "Heart", "Calm", "Center"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Eye",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: removed inaccurate 'stationary' descriptor (the eye moves with the storm); the eye is the calm, clear region at a tropical cyclone's center."
-      }
-    },
-    {
-      "q": "Which deadly Pacific weather phenomenon is the equivalent of an Atlantic hurricane?",
-      "choices": ["Typhoon", "Tornado", "Cyclone", "Monsoon"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Same storm, different name by region. Indian Ocean = 'cyclone.'"
-      }
-    },
-    {
-      "q": "What 1900 hurricane killed 6,000-12,000 people in Texas — the deadliest U.S. natural disaster?",
+      "q": "What electrical discharge occurs in the sky during a thunderstorm?",
       "choices": [
-        "Galveston Hurricane",
-        "Hurricane Andrew",
-        "Hurricane Camille",
-        "1928 Okeechobee"
+        "Thunder",
+        "Lightning",
+        "Static",
+        "Electrical storm surge"
       ],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "September 8, 1900. Galveston, Texas was nearly wiped off the map."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which 2005 hurricane devastated New Orleans?",
-      "choices": ["Katrina", "Rita", "Wilma", "Ike"],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Made landfall August 29, 2005. ~1,800 deaths."
-      }
-    },
-    {
-      "q": "What is thunder's cause?",
+      "q": "Which of these is NOT a form of precipitation?",
       "choices": [
-        "Air rapidly expanding from lightning's heat",
-        "Clouds colliding",
-        "Sound of rain hitting clouds",
-        "Wind shear"
+        "Snow",
+        "Sleet",
+        "Dew",
+        "Hail"
       ],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "Lightning superheats air to ~30,000K, causing rapid expansion → shockwave."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Approximately how fast does sound (thunder) travel through air?",
+      "q": "What is the minimum sustained wind speed in miles per hour required for a tropical cyclone to be classified as a hurricane according to the Saffir-Simpson scale?",
       "choices": [
-        "~1 mile every 5 seconds",
-        "Same speed as light",
-        "~10 miles per second",
-        "~1 km per minute"
+        "64 mph",
+        "74 mph",
+        "96 mph",
+        "110 mph"
       ],
-      "correct": 0,
-      "category": "Weather",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Weather",
-        "verified": true,
-        "notes": "~1,125 ft/s. Count 5 sec between flash and thunder = 1 mile away."
-      }
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "Which 1859 solar storm — strong enough to send sparks from telegraph wires — is called the largest solar event in recorded history?",
+      "q": "Which cloud genus is composed entirely of ice crystals and typically forms above 20,000 feet in the troposphere?",
       "choices": [
-        "Carrington Event",
-        "Halloween Storm",
-        "Bastille Day Event",
-        "Maunder Minimum"
+        "Altocumulus",
+        "Cirrus",
+        "Stratus",
+        "Cumulus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Northern Hemisphere, if you stand facing the wind, where is the center of the low-pressure system located relative to your position?",
+      "choices": [
+        "Behind you",
+        "To your right",
+        "To your left",
+        "Directly above you"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon occurs when warm, moist air is forced to rise over a mountain range, causing precipitation on the windward side and dry conditions on the leeward side?",
+      "choices": [
+        "Orographic lift and rain shadow effect",
+        "Föhn wind creation",
+        "Albedo enhancement",
+        "Convective divergence"
       ],
       "correct": 0,
-      "category": "Weather",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "The Carrington event",
-        "verified": true,
-        "notes": "September 1-2, 1859. Named after astronomer Richard Carrington."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which atmospheric layer contains the ozone layer and experiences temperature inversion, where temperature increases with altitude?",
+      "choices": [
+        "Troposphere",
+        "Mesosphere",
+        "Stratosphere",
+        "Thermosphere"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the boundary layer between two air masses of different temperatures and densities?",
+      "choices": [
+        "Isobar",
+        "Front",
+        "Isotherm",
+        "Trough"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In meteorology, what unit is used to measure atmospheric pressure, equivalent to 1/760th of standard atmospheric pressure at sea level?",
+      "choices": [
+        "Pascal",
+        "Torr",
+        "Millibar",
+        "Dyne"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which global wind system, located between 30° and 60° latitude, is responsible for the dominant westerly winds in temperate regions?",
+      "choices": [
+        "Trade winds",
+        "Polar easterlies",
+        "Westerlies",
+        "Doldrums"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the warm, dry wind that descends the lee side of mountain ranges, particularly common in the Alpine regions?",
+      "choices": [
+        "Sirocco",
+        "Föhn wind",
+        "Mistral",
+        "Chinook"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which instrument, developed by Wilhelm Schmidt, uses the evaporation of water from a porous surface to measure atmospheric moisture?",
+      "choices": [
+        "Hygrometer",
+        "Atmometer",
+        "Psychrometer",
+        "Nephoscope"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the formation of a cumulonimbus cloud, what is the term for the anvil-shaped top that spreads out due to wind shear at the tropopause?",
+      "choices": [
+        "Overshooting top",
+        "Anvil cloud",
+        "Pileus",
+        "Mammatus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary mechanism by which the Gulf Stream influences the climate of Western Europe, making it warmer than other regions at similar latitudes?",
+      "choices": [
+        "Heat transport via ocean currents",
+        "Increased solar radiation",
+        "Reduced atmospheric pressure",
+        "Enhanced albedo effect"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which weather phenomenon, characterized by a rotating column of air that connects a cumulonimbus cloud to the ground, has wind speeds exceeding 200 mph in the most violent cases?",
+      "choices": [
+        "Waterspout",
+        "Tornado",
+        "Derecho",
+        "Haboob"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the minimum duration of wind speed exceeding 35 knots required for a weather event to be classified as a gale according to maritime meteorology?",
+      "choices": [
+        "At least 10 minutes",
+        "At least 1 minute",
+        "Sustained over an hour",
+        "No minimum duration requirement"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the study of atmospheric thermodynamics, what is the adiabatic lapse rate for dry air in the troposphere, expressed in degrees Celsius per kilometer?",
+      "choices": [
+        "5.5°C/km",
+        "9.8°C/km",
+        "6.5°C/km",
+        "3.3°C/km"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of air mass, originating over cold oceanic regions, brings cool, moist conditions when it moves over land?",
+      "choices": [
+        "Continental polar",
+        "Maritime tropical",
+        "Maritime polar",
+        "Continental tropical"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What phenomenon, involving the interaction between the atmosphere and ocean surface, occurs every 2-7 years and significantly affects global weather patterns?",
+      "choices": [
+        "Atlantic Multidecadal Oscillation",
+        "El Niño Southern Oscillation",
+        "Pacific Decadal Oscillation",
+        "North Atlantic Oscillation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In cloud microphysics, what is the term for the process by which water droplets in a cloud collide and coalesce to form larger droplets?",
+      "choices": [
+        "Nucleation",
+        "Collision-coalescence",
+        "Bergeron process",
+        "Condensation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which high-altitude jet stream, located above the subtropical ridge at approximately 30° latitude, typically has wind speeds exceeding 100 knots?",
+      "choices": [
+        "Polar jet stream",
+        "Subtropical jet stream",
+        "Low-level jet",
+        "Arctic jet stream"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the theoretical maximum intensity of a tropical cyclone determined by, based on the sea surface temperature and atmospheric conditions?",
+      "choices": [
+        "Barometric pressure alone",
+        "Wind shear magnitude",
+        "Potential intensity equation",
+        "Latitude position"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what wind speed in miles per hour does the Beaufort Scale classify a wind event as hurricane-force?",
+      "choices": [
+        "64 mph",
+        "74 mph",
+        "84 mph",
+        "94 mph"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carrington Event of 1859 resulted in damage to which technology that was widespread at the time?",
+      "choices": [
+        "Telegraph systems",
+        "Railway signals",
+        "Gas street lamps",
+        "Telephone exchanges"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what altitude in meters do meteorological temperature measurements standardly occur?",
+      "choices": [
+        "0.5 meters",
+        "1.5 meters",
+        "2.5 meters",
+        "3.5 meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cloud type exists at altitudes between 5,000 and 13,000 meters and appears in thin, wispy formations?",
+      "choices": [
+        "Cumulus",
+        "Cirrostratus",
+        "Altostratus",
+        "Stratocumulus"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the steady prevailing winds located between 30 and 60 degrees latitude in both hemispheres?",
+      "choices": [
+        "Jet streams",
+        "Westerlies",
+        "Doldrums",
+        "Monsoons"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Great Miami Hurricane make landfall in Florida, causing significant damage to the region?",
+      "choices": [
+        "1920",
+        "1926",
+        "1935",
+        "1945"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phenomenon of dewpoint is reached when air becomes saturated at what relative humidity percentage?",
+      "choices": [
+        "75%",
+        "85%",
+        "95%",
+        "100%"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which meteorological scale measures atmospheric pressure differences and is used to predict wind speeds near low-pressure systems?",
+      "choices": [
+        "Richter Scale",
+        "Isobaric Scale",
+        "Bergeron Scale",
+        "Pressure Gradient Scale"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary mechanism by which a supercell thunderstorm develops rotating updrafts capable of producing tornadoes?",
+      "choices": [
+        "Wind shear interaction",
+        "Dry line convergence",
+        "Cold pool dynamics",
+        "Mesocyclone formation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the Northern Hemisphere, the jet stream typically migrates to which direction during summer months?",
+      "choices": [
+        "Southward",
+        "Northward",
+        "Eastward",
+        "Westward"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phenomenon known as virga occurs when precipitation falls from clouds but does what before reaching the surface?",
+      "choices": [
+        "Evaporates",
+        "Freezes",
+        "Refracts",
+        "Accumulates"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which ocean basin produces the most intense tropical cyclones globally based on historical records?",
+      "choices": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Northwest Pacific Ocean",
+        "South Pacific Ocean"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Föhn wind effect occurs when air descends a mountain slope and experiences what type of temperature change?",
+      "choices": [
+        "Adiabatic cooling",
+        "Adiabatic warming",
+        "Latent heating",
+        "Radiative cooling"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the technical term for the boundary between two air masses of different temperatures and moisture content?",
+      "choices": [
+        "Isobar",
+        "Front",
+        "Isotherm",
+        "Convergence zone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The UK experienced an exceptional drought in which year, with rainfall significantly below normal levels?",
+      "choices": [
+        "1974",
+        "1976",
+        "1978",
+        "1982"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which type of lightning originates from the ground and strikes upward toward storm clouds?",
+      "choices": [
+        "Cloud-to-ground",
+        "Cloud-to-cloud",
+        "Positive lightning",
+        "Triggered lightning"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The phenomenon of graupel forms when supercooled cloud droplets freeze onto what type of ice particle?",
+      "choices": [
+        "Hail stone",
+        "Snow crystal",
+        "Ice pellet",
+        "Rime"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which atmospheric layer is characterized by decreasing temperature with increasing altitude and contains approximately 80% of the atmosphere's mass?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Saffir-Simpson Scale measures hurricane intensity using which primary observable indicator?",
+      "choices": [
+        "Barometric pressure",
+        "Sustained wind speed",
+        "Rainfall amount",
+        "Storm surge height"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the persistent high-pressure zone located near 30 degrees latitude that produces arid climates?",
+      "choices": [
+        "Subtropical High",
+        "Polar High",
+        "Thermal High",
+        "Dynamic High"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Carrington Event of 1859 caused widespread disruption to telegraph systems across the world. What astronomical phenomenon was responsible for this geomagnetic storm?",
+      "choices": [
+        "A coronal mass ejection from the Sun",
+        "A collision between Earth and an asteroid",
+        "A reversal of Earth's magnetic poles",
+        "A massive solar eclipse lasting several days"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Meteorologists measure temperature at a standard height of 1.5 meters above ground level. What is the primary reason for this standardized measurement height?",
+      "choices": [
+        "To minimize the influence of ground heat radiation and ensure consistent global comparisons",
+        "Because it is the average height of a human's head",
+        "To avoid interference from low-level wind turbulence",
+        "Because weather stations are typically installed on poles of that exact height"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which clouds like to keep it low, under 2,000m?",
+      "choices": [
+        "hygrometer",
+        "Stratocumulus",
+        "Fahrenheit",
+        "Kelvin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which clouds float way up high between 5,000m and 13,000m?",
+      "choices": [
+        "altostratus",
+        "Cirrostratus",
+        "altocumulus",
+        "cumulus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Standing in the Northern Hemisphere with wind at your back - where's the low pressure hiding?",
+      "choices": [
+        "To your left",
+        "Fahrenheit",
+        "flood",
+        "blizzard"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What solar storm from 1859 was so wild it made telegraphs go rogue?",
+      "choices": [
+        "The Carrington event",
+        "monsoon",
+        "cyclone",
+        "wind chill"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When the weather is significantly different from the usual playlist of sunshine and rain, it's called what?",
+      "choices": [
+        "Extreme weather",
+        "anemometer",
+        "drought",
+        "tsunami"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "If the forecast says wind is 'veering', which way is it turning - clockwise or chaos?",
+      "choices": [
+        "pressure",
+        "Moving Clockwise",
+        "Fujita scale",
+        "tornado"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What high - tech gadget helps you figure out how tall the clouds are showing off?",
+      "choices": [
+        "Doppler radar",
+        "Cloud height",
+        "thunderstorm",
+        "temperature"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which clouds throw hail as precipitation?",
+      "choices": [
+        "cirrus",
+        "Cumulonimbus",
+        "cumulus",
+        "altocumulus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two weather conditions need to team up like a buddy - cop movie to create a rainbow?",
+      "choices": [
+        "tornado",
+        "thermometer",
+        "Sun and rain",
+        "Kelvin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "When the weather goes way off script from the usual?",
+      "choices": [
+        "anemometer",
+        "Beaufort scale",
+        "Extreme weather",
+        "rain gauge"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Trying to predict whether it'll be a beach day or umbrella day is known as weather what?",
+      "choices": [
+        "dew point",
+        "fog",
+        "Forecasting",
+        "drought"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The rising of what in the Eastern sky is nature's daily alarm clock?",
+      "choices": [
+        "hurricane",
+        "thunderstorm",
+        "stratus",
+        "Sun"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What will a direct lightning strike probably do to a person?",
+      "choices": [
+        "temperature",
+        "cyclone",
+        "Kill them",
+        "warm front"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the layer of Earth's atmosphere where most weather occurs?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Beaufort Scale, what aspect of weather does the numerical rating measure?",
+      "choices": [
+        "Temperature variations",
+        "Wind speed",
+        "Precipitation intensity",
+        "Barometric pressure"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of cloud formation typically indicates fair weather and appears fluffy and white?",
+      "choices": [
+        "Cumulonimbus",
+        "Cumulus",
+        "Stratus",
+        "Altostratus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the calm, relatively clear area at the center of a hurricane called?",
+      "choices": [
+        "The vortex",
+        "The core",
+        "The eye",
+        "The nucleus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "A rainbow forms when sunlight refracts through water droplets in the air. What angle of sunlight typically produces the most vivid rainbow?",
+      "choices": [
+        "42 degrees",
+        "90 degrees",
+        "60 degrees",
+        "30 degrees"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these cloud types is classified as a high-altitude cloud, typically found above 20,000 feet?",
+      "choices": [
+        "Stratocumulus",
+        "Altocumulus",
+        "Cirrus",
+        "Nimbostratus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes the process of predicting future atmospheric conditions based on current weather data?",
+      "choices": [
+        "Weather modeling",
+        "Weather forecasting",
+        "Meteorological analysis",
+        "Climate projection"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Northern Hemisphere, if you stand with the wind at your back, in which direction is the low-pressure system typically located?",
+      "choices": [
+        "To your right",
+        "To your left",
+        "Behind you",
+        "In front of you"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary cause of wind formation in the atmosphere?",
+      "choices": [
+        "Rotation of the Earth",
+        "Differences in air pressure",
+        "Ocean currents",
+        "Solar radiation alone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major geomagnetic storm in 1859 caused disruptions to telegraph systems across the globe?",
+      "choices": [
+        "The Aurora Event",
+        "The Carrington Event",
+        "The Solar Flare Incident",
+        "The Magnetic Storm of 1859"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is dew point in meteorology?",
+      "choices": [
+        "The lowest temperature expected for the day",
+        "The temperature at which air becomes saturated and water condenses",
+        "The point where precipitation begins to fall",
+        "The optimal temperature for cloud formation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of these locations is least likely to experience tropical cyclones?",
+      "choices": [
+        "The Bay of Bengal",
+        "The Caribbean Sea",
+        "Cape Horn",
+        "The Western Pacific"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What phenomenon occurs when cold and warm air masses collide in the atmosphere?",
+      "choices": [
+        "Convection",
+        "Front formation",
+        "Inversion",
+        "Sublimation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How is the intensity of a hurricane typically measured on the Saffir-Simpson scale?",
+      "choices": [
+        "By barometric pressure only",
+        "By wind speed",
+        "By rainfall amounts",
+        "By storm surge height"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for the quantity of water vapor present in the air, expressed as a percentage?",
+      "choices": [
+        "Absolute humidity",
+        "Relative humidity",
+        "Specific humidity",
+        "Saturation humidity"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of lightning is most common and typically occurs between a cloud and the ground?",
+      "choices": [
+        "Ball lightning",
+        "Sheet lightning",
+        "Cloud-to-ground lightning",
+        "Intra-cloud lightning"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of the jet stream in global weather patterns?",
+      "choices": [
+        "To create hurricanes",
+        "To transport warm air to polar regions",
+        "To guide high and low-pressure systems across continents",
+        "To prevent precipitation"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In meteorology, what does an occluded front represent?",
+      "choices": [
+        "A warm front overtaking a cold front",
+        "A cold front overtaking a warm front",
+        "Two fronts moving in parallel",
+        "A stationary front that has become active"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which region of Earth typically experiences the most stable weather year-round?",
+      "choices": [
+        "Polar regions",
+        "Mid-latitudes",
+        "The equatorial zone",
+        "Coastal areas"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the meteorological term for a severe weather condition where visibility is reduced by blowing snow?",
+      "choices": [
+        "Whiteout",
+        "Blizzard",
+        "Ground blizzard",
+        "Snow squall"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the calm, central region of a hurricane where winds are light and skies may even clear?",
+      "choices": [
+        "The core",
+        "The eye",
+        "The vortex",
+        "The chamber"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At what approximate height above ground level do meteorologists standardize temperature measurements?",
+      "choices": [
+        "2 meters",
+        "1.5 meters",
+        "5 meters",
+        "10 meters"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which layer of Earth's atmosphere is responsible for producing most weather phenomena like clouds, rain, and storms?",
+      "choices": [
+        "Stratosphere",
+        "Troposphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What international scale measures wind speed by observing effects on land and sea, ranging from 0 to 12?",
+      "choices": [
+        "Saffir-Simpson Scale",
+        "Richter Scale",
+        "Beaufort Scale",
+        "Fujita Scale"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which type of cloud typically forms at the highest altitude and appears as wispy, feathery formations?",
+      "choices": [
+        "Cumulus",
+        "Stratus",
+        "Cirrus",
+        "Altocumulus"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What optical phenomenon occurs when sunlight refracts through water droplets suspended in the air following rainfall?",
+      "choices": [
+        "Halo",
+        "Mirage",
+        "Rainbow",
+        "Aurora"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the Northern Hemisphere, if you stand with the wind at your back, on which side will the low-pressure system typically be located?",
+      "choices": [
+        "To your right",
+        "To your left",
+        "Directly behind you",
+        "Directly in front of you"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What meteorological term describes the sound produced when lightning superheats air, causing it to expand rapidly?",
+      "choices": [
+        "Lightning crack",
+        "Thunder",
+        "Sonic boom",
+        "Atmospheric burst"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which steady wind system near the equator was historically crucial for ocean navigation and trade routes?",
+      "choices": [
+        "Jet streams",
+        "Trade winds",
+        "Westerlies",
+        "Polar easterlies"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

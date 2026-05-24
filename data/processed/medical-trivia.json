@@ -1,294 +1,1349 @@
 {
   "slug": "medical-trivia",
-  "name": "Medical & Anatomy",
-  "description": "Heart, brain, blood types, diseases, and the body's basic operating manual.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "name": "Medical",
+  "processedAt": "2026-05-24T20:43:43.627Z",
   "questions": [
     {
-      "q": "What's the largest organ in the human body?",
-      "choices": ["Skin", "Liver", "Lungs", "Brain"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Skin",
-        "verified": true,
-        "notes": "About 16% of body weight, 2 sq m of surface area."
-      }
-    },
-    {
-      "q": "What's the largest internal organ?",
-      "choices": ["Liver", "Heart", "Lungs", "Stomach"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "About 3 lbs in adults."
-      }
-    },
-    {
-      "q": "What's the largest artery in the body?",
+      "q": "What is the medical term for abnormally high blood pressure?",
       "choices": [
-        "Aorta",
-        "Carotid",
-        "Pulmonary",
-        "Femoral"
-      ],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "The aorta",
-        "verified": true,
-        "notes": "Carries oxygenated blood from the heart's left ventricle."
-      }
-    },
-    {
-      "q": "What blood type is the 'universal donor' for whole blood?",
-      "choices": ["O negative", "AB positive", "O positive", "A negative"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "O negative",
-        "verified": true,
-        "notes": "AB+ is the universal recipient."
-      }
-    },
-    {
-      "q": "What's the medical term for high blood pressure?",
-      "choices": [
-        "Hypertension",
         "Hypotension",
-        "Tachycardia",
-        "Bradycardia"
-      ],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Hypertension",
-        "verified": true,
-        "notes": "Hypotension = low BP. Tachycardia = fast heart rate."
-      }
-    },
-    {
-      "q": "What disease is caused by Vitamin C deficiency?",
-      "choices": ["Scurvy", "Rickets", "Beriberi", "Pellagra"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Scurvy",
-        "verified": true,
-        "notes": "Once common in sailors. James Lind found the cure (citrus) in 1747."
-      }
-    },
-    {
-      "q": "What's the common name for the clavicle?",
-      "choices": ["Collarbone", "Shinbone", "Tailbone", "Cheekbone"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Collarbone",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "How many bones are in the adult human body?",
-      "choices": ["206", "186", "226", "300"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "Babies are born with about 270; many fuse together over time."
-      }
-    },
-    {
-      "q": "What organ is affected by hepatitis?",
-      "choices": ["Liver", "Kidney", "Stomach", "Heart"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Liver",
-        "verified": true,
-        "notes": "'Hepar' is Greek for liver."
-      }
-    },
-    {
-      "q": "What's the medical term for the kneecap?",
-      "choices": ["Patella", "Tibia", "Femur", "Fibula"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "Tibia = shinbone. Femur = thighbone."
-      }
-    },
-    {
-      "q": "Which organ produces insulin?",
-      "choices": ["Pancreas", "Liver", "Spleen", "Kidney"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "Specifically beta cells in the islets of Langerhans."
-      }
-    },
-    {
-      "q": "Which condition is characterized by the hardening and narrowing of the arteries?",
-      "choices": [
-        "Atherosclerosis",
         "Hypertension",
-        "Embolism",
-        "Aneurysm"
+        "Arrhythmia",
+        "Tachycardia"
       ],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Atherosclerosis",
-        "verified": true,
-        "notes": "Major contributor to heart attacks and strokes."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "What's the main function of red blood cells?",
+      "q": "Which bone in the human body is the longest?",
       "choices": [
+        "Tibia",
+        "Humerus",
+        "Femur",
+        "Fibula"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many chambers does a healthy human heart have?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for the clavicle?",
+      "choices": [
+        "Shinbone",
+        "Collarbone",
+        "Kneecap",
+        "Breastbone"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which organ produces insulin in the human body?",
+      "choices": [
+        "Liver",
+        "Pancreas",
+        "Thyroid",
+        "Adrenal gland"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for a heart attack?",
+      "choices": [
+        "Stroke",
+        "Myocardial infarction",
+        "Cardiac arrest",
+        "Angina pectoris"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which muscle is primarily responsible for breathing?",
+      "choices": [
+        "Intercostal muscle",
+        "Diaphragm",
+        "Pectoralis major",
+        "Trapezius"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for nearsightedness?",
+      "choices": [
+        "Hyperopia",
+        "Myopia",
+        "Astigmatism",
+        "Presbyopia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of cancer affects blood and bone marrow?",
+      "choices": [
+        "Melanoma",
+        "Leukemia",
+        "Lymphoma",
+        "Carcinoma"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What condition is characterized by an abnormal lateral curvature of the spine?",
+      "choices": [
+        "Kyphosis",
+        "Lordosis",
+        "Scoliosis",
+        "Stenosis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for inflammation of the liver?",
+      "choices": [
+        "Gastritis",
+        "Hepatitis",
+        "Nephritis",
+        "Pancreatitis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What membrane surrounds and protects the heart?",
+      "choices": [
+        "Pleura",
+        "Pericardium",
+        "Peritoneum",
+        "Myocardium"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary function of the alveoli in the lungs?",
+      "choices": [
+        "Filter air",
+        "Produce mucus",
+        "Gas exchange",
+        "Regulate temperature"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which type of joint is the knee?",
+      "choices": [
+        "Ball-and-socket joint",
+        "Pivot joint",
+        "Hinge joint",
+        "Gliding joint"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main function of the small intestine?",
+      "choices": [
+        "Store waste",
+        "Absorb nutrients",
+        "Produce acid",
+        "Filter blood"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for kidney stones?",
+      "choices": [
+        "Nephrolithiasis",
+        "Nephritis",
+        "Pyelonephritis",
+        "Glomerulonephritis"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for the condition caused by an allergic reaction to pollen?",
+      "choices": [
+        "Common cold",
+        "Influenza",
+        "Hay fever",
+        "Bronchitis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which condition occurs when the body's immune system attacks its own tissues?",
+      "choices": [
+        "Immunodeficiency",
+        "Autoimmune disease",
+        "Allergic reaction",
+        "Infection"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for the hardening and narrowing of arteries?",
+      "choices": [
+        "Aneurysm",
+        "Atherosclerosis",
+        "Thrombosis",
+        "Embolism"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for the tube that carries air to the lungs?",
+      "choices": [
+        "Esophagus",
+        "Trachea",
+        "Bronchus",
+        "Pharynx"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which organ in the human body produces insulin?",
+      "choices": [
+        "Liver",
+        "Pancreas",
+        "Thyroid",
+        "Kidney"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which vitamin is synthesized in the skin when exposed to sunlight?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correct": 3,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which bone is the longest in the human body?",
+      "choices": [
+        "Tibia",
+        "Humerus",
+        "Femur",
+        "Fibula"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What disease results from a deficiency of Vitamin C?",
+      "choices": [
+        "Rickets",
+        "Scurvy",
+        "Beriberi",
+        "Pellagra"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the common name for the medical condition varicella?",
+      "choices": [
+        "Measles",
+        "Chickenpox",
+        "Mumps",
+        "Rubella"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which muscle is primarily responsible for enabling breathing?",
+      "choices": [
+        "Intercostal muscle",
+        "Diaphragm",
+        "Trapezius",
+        "Latissimus dorsi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for a nosebleed?",
+      "choices": [
+        "Hemoptysis",
+        "Epistaxis",
+        "Hematuria",
+        "Melena"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What medical term describes inflammation of the joints?",
+      "choices": [
+        "Bursitis",
+        "Arthritis",
+        "Tendonitis",
+        "Myositis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which organ is responsible for producing bile?",
+      "choices": [
+        "Pancreas",
+        "Gallbladder",
+        "Liver",
+        "Stomach"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What medical term describes abnormally low blood sugar?",
+      "choices": [
+        "Hyperglycemia",
+        "Hypoglycemia",
+        "Glycosuria",
+        "Ketosis"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the main function of red blood cells?",
+      "choices": [
+        "Fight infections",
         "Transport oxygen",
-        "Fight infection",
         "Clot blood",
-        "Filter waste"
+        "Produce antibodies"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for the thigh bone?",
+      "choices": [
+        "Tibia",
+        "Femur",
+        "Patella",
+        "Fibula"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the bone located in the upper arm?",
+      "choices": [
+        "Radius",
+        "Humerus",
+        "Ulna",
+        "Tibia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which muscle is primarily responsible for the breathing process?",
+      "choices": [
+        "Intercostal muscle",
+        "Diaphragm",
+        "Pectoralis major",
+        "Latissimus dorsi"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What type of blood is considered a universal donor?",
+      "choices": [
+        "O positive",
+        "O negative",
+        "AB negative",
+        "A positive"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which part of the eye controls how much light enters?",
+      "choices": [
+        "Pupil",
+        "Cornea",
+        "Iris",
+        "Lens"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What vitamin does the human skin produce when exposed to sunlight?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for inflammation of the joints?",
+      "choices": [
+        "Bursitis",
+        "Tendinitis",
+        "Arthritis",
+        "Myositis"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which vitamin deficiency causes the disease scurvy?",
+      "choices": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin B12"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for the tube through which air passes into the lungs?",
+      "choices": [
+        "Esophagus",
+        "Bronchus",
+        "Trachea",
+        "Larynx"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which enzyme deficiency causes glycogen storage disease type I, also known as Von Gierke disease?",
+      "choices": [
+        "Glucose-6-phosphatase",
+        "Glycogen phosphorylase",
+        "Acid alpha-glucosidase",
+        "Debranching enzyme"
       ],
       "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Transport oxygen",
-        "verified": true,
-        "notes": "Via hemoglobin."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What's the iron-containing protein in red blood cells?",
-      "choices": ["Hemoglobin", "Myoglobin", "Albumin", "Fibrinogen"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which part of the brain controls balance and coordination?",
+      "q": "What is the name of the protein in red blood cells that binds carbon monoxide with an affinity approximately 200 times greater than oxygen?",
       "choices": [
-        "Cerebellum",
-        "Cerebrum",
-        "Brain stem",
+        "Myoglobin",
+        "Hemoglobin",
+        "Cytochrome c oxidase",
+        "Carbonic anhydrase"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the renin-angiotensin-aldosterone system, which organ produces renin in response to decreased blood pressure?",
+      "choices": [
+        "Adrenal cortex",
+        "Juxtaglomerular cells of the kidney",
+        "Anterior pituitary",
         "Hypothalamus"
       ],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "Latin for 'little brain.'"
-      }
+      "correct": 1,
+      "difficulty": "hard"
     },
     {
-      "q": "What's the smallest bone in the human body?",
+      "q": "What is the medical term for the abnormal accumulation of cerebrospinal fluid within the ventricles of the brain?",
       "choices": [
-        "Stapes (in the ear)",
-        "Pinky distal phalanx",
-        "Hyoid",
-        "Lacrimal"
+        "Edema cerebri",
+        "Hydrocephalus",
+        "Syringomyelia",
+        "Arnold-Chiari malformation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which neurotransmitter hypothesis suggests that depression results from insufficient activity of serotonin and norepinephrine in the central nervous system?",
+      "choices": [
+        "Dopamine hypothesis",
+        "GABA hypothesis",
+        "Monoamine hypothesis",
+        "Glutamate hypothesis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the protein found in amyloid plaques that accumulates in Alzheimer's disease?",
+      "choices": [
+        "Tau protein",
+        "Amyloid-beta peptide",
+        "Prion protein",
+        "Alpha-synuclein"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In electrocardiography, which wave represents ventricular repolarization?",
+      "choices": [
+        "P wave",
+        "QRS complex",
+        "T wave",
+        "U wave"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the connective tissue layer that surrounds individual muscle fibers?",
+      "choices": [
+        "Epimysium",
+        "Perimysium",
+        "Endomysium",
+        "Sarcolemma"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cytochrome P450 enzyme is responsible for the metabolism of approximately 25% of all drugs in clinical use?",
+      "choices": [
+        "CYP2D6",
+        "CYP3A4",
+        "CYP2C9",
+        "CYP1A2"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the medical term for the backward flow of stomach contents into the esophagus due to lower esophageal sphincter incompetence?",
+      "choices": [
+        "Dysphagia",
+        "Achalasia",
+        "Gastroesophageal reflux",
+        "Esophagitis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In immunology, which type of cell presents antigens to helper T cells via MHC class II molecules?",
+      "choices": [
+        "Cytotoxic T lymphocytes",
+        "Antigen-presenting cells",
+        "Natural killer cells",
+        "B lymphocytes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the small blood vessels in the kidneys where ultrafiltration occurs?",
+      "choices": [
+        "Arterioles",
+        "Glomeruli",
+        "Collecting ducts",
+        "Peritubular capillaries"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which genetic condition is characterized by mutations in the CFTR gene, leading to abnormally thick mucus production?",
+      "choices": [
+        "Cystic fibrosis",
+        "Alpha-1 antitrypsin deficiency",
+        "Emphysema",
+        "Bronchiectasis"
       ],
       "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "About 3 mm long. One of the three middle ear ossicles (malleus, incus, stapes)."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What's the longest bone in the human body?",
+      "q": "What is the name of the hormone produced by the posterior pituitary that promotes water reabsorption in the kidneys?",
       "choices": [
-        "Femur (thigh)",
-        "Tibia",
-        "Fibula",
-        "Humerus"
+        "Oxytocin",
+        "Antidiuretic hormone",
+        "Prolactin",
+        "Growth hormone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In cardiovascular pathology, what is the medical term for necrosis of heart muscle tissue following obstruction of coronary blood flow?",
+      "choices": [
+        "Myocarditis",
+        "Myocardial infarction",
+        "Pericarditis",
+        "Arrhythmia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which lobe of the cerebral cortex is primarily responsible for executive function and motor control?",
+      "choices": [
+        "Temporal lobe",
+        "Parietal lobe",
+        "Frontal lobe",
+        "Occipital lobe"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the protein in muscle cells that stores oxygen and is structurally similar to hemoglobin?",
+      "choices": [
+        "Hemoglobin",
+        "Myoglobin",
+        "Tropomyosin",
+        "Troponin"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which phase of the cell cycle do sister chromatids separate during meiosis?",
+      "choices": [
+        "Prophase I",
+        "Metaphase I",
+        "Anaphase II",
+        "Telophase I"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the medical term for an abnormally high level of bilirubin in the blood, causing yellowing of the skin and sclera?",
+      "choices": [
+        "Hepatomegaly",
+        "Jaundice",
+        "Cirrhosis",
+        "Cholestasis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which nerve is responsible for the motor innervation of the diaphragm, the primary muscle of respiration?",
+      "choices": [
+        "Vagus nerve",
+        "Phrenic nerve",
+        "Intercostal nerves",
+        "Hypoglossal nerve"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which enzyme deficiency causes Gaucher disease, the most common lysosomal storage disorder?",
+      "choices": [
+        "Glucocerebrosidase",
+        "Hexosaminidase A",
+        "Acid lipase",
+        "Arylsulfatase A"
       ],
       "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "About 19 inches in adult males on average."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "Which essential vitamin does sunlight help your body produce?",
-      "choices": ["D", "C", "B12", "K"],
-      "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "UVB radiation triggers synthesis in skin."
-      }
-    },
-    {
-      "q": "What scoring scale measures consciousness from 3 (deeply unconscious) to 15 (alert)?",
+      "q": "What is the name of the protein responsible for oxygen transport in red blood cells that becomes abnormal in sickle cell disease?",
       "choices": [
-        "Glasgow Coma Scale",
-        "APGAR",
-        "MoCA",
-        "Bishop Score"
+        "Hemoglobin S",
+        "Myoglobin",
+        "Transferrin",
+        "Ceruloplasmin"
       ],
       "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": "Used widely in trauma assessment."
-      }
+      "difficulty": "hard"
     },
     {
-      "q": "What does 'CPR' stand for?",
+      "q": "In the Frank-Starling mechanism, what physiological property of cardiac muscle is being described?",
       "choices": [
-        "Cardiopulmonary Resuscitation",
-        "Cardiac Patient Recovery",
-        "Cardio-Pulse Restart",
-        "Cardiopulmonary Reflex"
+        "The relationship between ventricular filling and stroke volume",
+        "The rate of electrical impulse conduction",
+        "The sympathetic nervous system's effect on heart rate",
+        "The parasympathetic regulation of coronary blood flow"
       ],
       "correct": 0,
-      "category": "Medical & Anatomy",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Medical & Anatomy",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cranial nerve is responsible for the gag reflex afferent pathway?",
+      "choices": [
+        "Glossopharyngeal nerve",
+        "Trigeminal nerve",
+        "Vagus nerve",
+        "Facial nerve"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary mechanism of action of ACE inhibitors in treating hypertension?",
+      "choices": [
+        "Inhibition of angiotensin-converting enzyme reduces angiotensin II production",
+        "Direct blockade of alpha-1 adrenergic receptors",
+        "Inhibition of renin release from the juxtaglomerular cells",
+        "Increased nitric oxide synthesis in endothelial cells"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In obstructive sleep apnea, which anatomical structure's collapse during sleep most commonly causes airway obstruction?",
+      "choices": [
+        "Soft palate and posterior pharyngeal wall",
+        "Epiglottis",
+        "Vocal cords",
+        "Laryngeal inlet"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the protein that, when mutated, causes cystic fibrosis?",
+      "choices": [
+        "Cystic fibrosis transmembrane conductance regulator",
+        "CFTR kinase",
+        "Mucin-1 protein",
+        "Sodium chloride transporter"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which zone of the adrenal cortex produces aldosterone?",
+      "choices": [
+        "Zona glomerulosa",
+        "Zona fasciculata",
+        "Zona reticularis",
+        "Zona medullaris"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the diagnostic test that measures the pressure gradient across the mitral valve to assess severity of mitral stenosis?",
+      "choices": [
+        "Cardiac catheterization with hemodynamic measurement",
+        "Electrocardiography",
+        "Chest X-ray with barium study",
+        "Cardiac MRI with strain imaging"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Crohn's disease, which layer of the gastrointestinal tract is characteristically affected?",
+      "choices": [
+        "All layers, with transmural inflammation",
+        "Mucosa and submucosa only",
+        "Submucosa and muscularis only",
+        "Serosa only"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the visual field defect that occurs in homonymous hemianopsia?",
+      "choices": [
+        "Loss of the same half of the visual field in both eyes",
+        "Loss of the central visual field in both eyes",
+        "Loss of peripheral vision in one eye only",
+        "Alternating field defects between the two eyes"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which HLA antigen is most strongly associated with ankylosing spondylitis?",
+      "choices": [
+        "HLA-B27",
+        "HLA-DR4",
+        "HLA-A3",
+        "HLA-DQ2"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the nerve plexus formed from spinal cord segments C5-T1 that supplies the upper extremity?",
+      "choices": [
+        "Brachial plexus",
+        "Lumbar plexus",
+        "Cervical plexus",
+        "Sacral plexus"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the renin-angiotensin-aldosterone system, where is angiotensinogen produced?",
+      "choices": [
+        "Liver",
+        "Kidneys",
+        "Adrenal glands",
+        "Lungs"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary pathophysiological feature of diabetic ketoacidosis that distinguishes it from hyperglycemic hyperosmolar state?",
+      "choices": [
+        "Severe metabolic acidosis with elevated ketones",
+        "Mild acidosis with normal ketone levels",
+        "Respiratory alkalosis with elevated glucose",
+        "Metabolic alkalosis with decreased insulin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which chromosome contains the gene responsible for Huntington's disease?",
+      "choices": [
+        "Chromosome 4",
+        "Chromosome 17",
+        "Chromosome 21",
+        "Chromosome X"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the conduction system of the heart, which structure represents the main delay in electrical propagation?",
+      "choices": [
+        "Atrioventricular node",
+        "Sinoatrial node",
+        "Bundle of His",
+        "Purkinje fibers"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the mechanism by which statins reduce cholesterol synthesis?",
+      "choices": [
+        "Inhibition of HMG-CoA reductase",
+        "Inhibition of PCSK9 protease",
+        "Sequestration of bile acids",
+        "Increased hepatic LDL receptor expression alone"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which autoantibody is most specific for primary biliary cirrhosis?",
+      "choices": [
+        "Anti-mitochondrial antibody",
+        "Anti-smooth muscle antibody",
+        "Anti-liver-kidney microsomal antibody",
+        "Anti-nuclear antibody"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Marfan syndrome, which fibrous protein is defective due to the pathogenic mutation?",
+      "choices": [
+        "Fibrillin-1",
+        "Collagen type I",
+        "Elastin",
+        "Keratin"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which enzyme deficiency causes acute intermittent porphyria, characterized by neurovisceral symptoms and abdominal pain?",
+      "choices": [
+        "Porphobilinogen deaminase",
+        "Δ-aminolevulinic acid synthase",
+        "Ferrochelatase",
+        "Uroporphyrinogen III synthase"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the protein that builds up in the brain of Alzheimer's disease patients, forming plaques between neurons?",
+      "choices": [
+        "Tau protein",
+        "Amyloid-beta",
+        "Prion protein",
+        "Alpha-synuclein"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In cardiac physiology, which node is responsible for the primary pacemaker function of the heart under normal conditions?",
+      "choices": [
+        "Atrioventricular node",
+        "Sinoatrial node",
+        "Bundle of His",
+        "Purkinje node"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which autoimmune condition results in the destruction of the islets of Langerhans in the pancreas, leading to insulin deficiency?",
+      "choices": [
+        "Type 2 diabetes mellitus",
+        "Type 1 diabetes mellitus",
+        "Gestational diabetes",
+        "Neonatal diabetes"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which hormone is responsible for regulating blood glucose levels by facilitating cellular uptake of glucose?",
+      "choices": [
+        "Glucagon",
+        "Insulin",
+        "Cortisol",
+        "Epinephrine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following conditions results from the hardening and narrowing of arteries due to plaque buildup?",
+      "choices": [
+        "Atherosclerosis",
+        "Aneurysm",
+        "Thrombosis",
+        "Embolism"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for inflammation of the liver, commonly caused by viral infection?",
+      "choices": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Pancreatitis",
+        "Gastritis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cranial nerve is responsible for transmitting visual information from the eyes to the brain?",
+      "choices": [
+        "Optic nerve (CN II)",
+        "Oculomotor nerve (CN III)",
+        "Trigeminal nerve (CN V)",
+        "Vestibulocochlear nerve (CN VIII)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is the primary mineral involved in bone formation and muscle contraction?",
+      "choices": [
+        "Magnesium",
+        "Phosphorus",
+        "Calcium",
+        "Potassium"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for abnormally low levels of red blood cells or hemoglobin in the blood?",
+      "choices": [
+        "Polycythemia",
+        "Thrombocytopenia",
+        "Anemia",
+        "Leukopenia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which enzyme, produced by the pancreas, breaks down carbohydrates in the small intestine?",
+      "choices": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the membrane that surrounds and protects the lungs?",
+      "choices": [
+        "Pericardium",
+        "Peritoneum",
+        "Pleura",
+        "Dura mater"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following blood types is considered a universal donor?",
+      "choices": [
+        "AB+",
+        "AB-",
+        "O+",
+        "O-"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for the condition in which the lens of the eye becomes cloudy, impairing vision?",
+      "choices": [
+        "Astigmatism",
+        "Cataract",
+        "Hyperopia",
+        "Presbyopia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which part of the brain is primarily responsible for regulating body temperature, hunger, and thirst?",
+      "choices": [
+        "Cerebellum",
+        "Hypothalamus",
+        "Thalamus",
+        "Brainstem"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the protein in muscle tissue that allows muscles to contract?",
+      "choices": [
+        "Keratin",
+        "Collagen",
+        "Actin",
+        "Elastin"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hormone is produced by the adrenal glands and helps the body respond to stress?",
+      "choices": [
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline (Epinephrine)",
+        "Progesterone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for the inflammation of the joints characterized by pain, swelling, and stiffness?",
+      "choices": [
+        "Arthralgia",
+        "Arthritis",
+        "Tendonitis",
+        "Bursitis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following is the primary function of white blood cells?",
+      "choices": [
+        "Transport oxygen",
+        "Clot blood",
+        "Fight infection and disease",
+        "Store glucose"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the tube that carries urine from the kidneys to the bladder?",
+      "choices": [
+        "Urethra",
+        "Ureter",
+        "Nephron",
+        "Glomerulus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gland in the endocrine system produces thyroid hormones that regulate metabolism?",
+      "choices": [
+        "Pituitary gland",
+        "Thyroid gland",
+        "Pineal gland",
+        "Parathyroid gland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for abnormally high levels of cholesterol in the blood?",
+      "choices": [
+        "Hyperglycemia",
+        "Hypercholesterolemia",
+        "Hypertriglyceridemia",
+        "Hyperlipidemia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hormone is primarily responsible for regulating blood glucose levels?",
+      "choices": [
+        "Glucagon",
+        "Insulin",
+        "Cortisol",
+        "Adrenaline"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for the inflammation of the liver?",
+      "choices": [
+        "Hepatitis",
+        "Cirrhosis",
+        "Pancreatitis",
+        "Gastritis"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which blood vessel carries deoxygenated blood from the heart to the lungs?",
+      "choices": [
+        "Pulmonary artery",
+        "Pulmonary vein",
+        "Coronary artery",
+        "Carotid artery"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which cranial nerve is responsible for facial movement and expression?",
+      "choices": [
+        "Trigeminal nerve",
+        "Facial nerve",
+        "Glossopharyngeal nerve",
+        "Vagus nerve"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What condition results from a deficiency of vitamin B12?",
+      "choices": [
+        "Scurvy",
+        "Pellagra",
+        "Pernicious anemia",
+        "Beriberi"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hormone is produced by the thyroid gland and regulates metabolic rate?",
+      "choices": [
+        "Parathyroid hormone",
+        "Thyroxine",
+        "Calcitonin",
+        "TSH"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for the surgical removal of the appendix?",
+      "choices": [
+        "Cholecystectomy",
+        "Colostomy",
+        "Appendectomy",
+        "Gastrectomy"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which organ produces most of the body's antibodies?",
+      "choices": [
+        "Thymus gland",
+        "Spleen",
+        "Bone marrow",
+        "Lymph nodes"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the bundle of nerve fibers that connects the brain hemispheres?",
+      "choices": [
+        "Cerebellum",
+        "Corpus callosum",
+        "Thalamus",
+        "Pons"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which enzyme in the stomach breaks down proteins during digestion?",
+      "choices": [
+        "Amylase",
+        "Pepsin",
+        "Lipase",
+        "Maltase"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bone forms the back of the skull?",
+      "choices": [
+        "Frontal bone",
+        "Occipital bone",
+        "Temporal bone",
+        "Parietal bone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary function of the thymus gland?",
+      "choices": [
+        "Produce insulin",
+        "Develop T-lymphocytes",
+        "Store calcium",
+        "Regulate temperature"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for the inflammation of the kidney?",
+      "choices": [
+        "Cystitis",
+        "Nephrits",
+        "Nephritis",
+        "Ureteritis"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for joint stiffness, particularly in the morning?",
+      "choices": [
+        "Spasticity",
+        "Rigidity",
+        "Contracture",
+        "Ankylosis"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which gland produces melatonin, regulating sleep-wake cycles?",
+      "choices": [
+        "Pituitary gland",
+        "Pineal gland",
+        "Adrenal gland",
+        "Salivary gland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the tube that carries urine from the kidney to the bladder?",
+      "choices": [
+        "Urethra",
+        "Ureter",
+        "Nephron",
+        "Glomerulus"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hormone does the pancreas produce to regulate blood glucose levels?",
+      "choices": [
+        "Glucagon",
+        "Insulin",
+        "Cortisol",
+        "Thyroxine"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the medical term for the fluid that cushions the brain and spinal cord?",
+      "choices": [
+        "Synovial fluid",
+        "Cerebrospinal fluid",
+        "Plasma",
+        "Lymph"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which of the following conditions results from a deficiency of intrinsic factor, leading to impaired vitamin B12 absorption?",
+      "choices": [
+        "Pernicious anemia",
+        "Sickle cell anemia",
+        "Aplastic anemia",
+        "Hemolytic anemia"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which hormone is primarily responsible for regulating blood glucose levels by facilitating cellular uptake of sugar?",
+      "choices": [
+        "Glucagon",
+        "Insulin",
+        "Cortisol",
+        "Adrenaline"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

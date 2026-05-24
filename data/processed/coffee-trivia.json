@@ -1,41 +1,51 @@
 {
   "slug": "coffee-trivia",
   "name": "Coffee",
-  "description": "Beans, brews, and baristas — from Kaldi's goats in Ethiopia to the global chains of today.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.475Z",
   "questions": [
     {
       "q": "The two primary species of commercial coffee bean are Arabica and which other?",
-      "choices": ["Liberica", "Robusta", "Excelsa", "Catuai"],
+      "choices": [
+        "Liberica",
+        "Robusta",
+        "Excelsa",
+        "Catuai"
+      ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "C. arabica and C. robusta beans", "verified": true, "notes": "Arabica is ~60% of global supply." }
+      "difficulty": "easy"
     },
     {
       "q": "Which country is the world's largest coffee producer by volume?",
-      "choices": ["Colombia", "Vietnam", "Brazil", "Ethiopia"],
+      "choices": [
+        "Colombia",
+        "Vietnam",
+        "Brazil",
+        "Ethiopia"
+      ],
       "correct": 2,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "Brazil", "verified": true, "notes": "Brazil has led global production for 150+ years." }
+      "difficulty": "easy"
     },
     {
       "q": "A shot of espresso diluted with hot water is commonly called what?",
-      "choices": ["Macchiato", "Cappuccino", "Americano", "Flat White"],
+      "choices": [
+        "Macchiato",
+        "Cappuccino",
+        "Americano",
+        "Flat White"
+      ],
       "correct": 2,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "Caffè Americano", "verified": true, "notes": "Named by American soldiers diluting European espresso." }
+      "difficulty": "easy"
     },
     {
       "q": "In which country is the global coffee chain Starbucks headquartered?",
-      "choices": ["Canada", "United Kingdom", "United States", "Australia"],
+      "choices": [
+        "Canada",
+        "United Kingdom",
+        "United States",
+        "Australia"
+      ],
       "correct": 2,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Seattle, Washington — founded 1971." }
+      "difficulty": "easy"
     },
     {
       "q": "The beans that become coffee start life as fruit. What are those fruits called?",
@@ -46,151 +56,733 @@
         "Coffee pods"
       ],
       "correct": 0,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "Fruits of the coffee tree, grown in tropical regions like Southeast Asia and South America", "verified": true, "notes": "The 'bean' is actually the seed of the cherry." }
+      "difficulty": "easy"
     },
     {
       "q": "Which traditional espresso-based drink layers equal espresso, steamed milk, and milk foam?",
-      "choices": ["Macchiato", "Cappuccino", "Mocha", "Cortado"],
+      "choices": [
+        "Macchiato",
+        "Cappuccino",
+        "Mocha",
+        "Cortado"
+      ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Named after the Capuchin friars' robes." }
+      "difficulty": "easy"
     },
     {
       "q": "Caffeine is a stimulant that primarily blocks which neurotransmitter receptor?",
-      "choices": ["Dopamine", "Adenosine", "Serotonin", "Acetylcholine"],
+      "choices": [
+        "Dopamine",
+        "Adenosine",
+        "Serotonin",
+        "Acetylcholine"
+      ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "easy",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Blocking adenosine receptors keeps you feeling alert." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Ethiopian goatherd is legendarily said to have discovered coffee's stimulating effect?",
-      "choices": ["Kaldi", "Abebe", "Hakim", "Solomon"],
-      "correct": 0,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Kaldi", "verified": true, "notes": "The legend is 9th-century." }
-    },
-    {
-      "q": "In what century did coffee first spread into the Islamic world?",
-      "choices": ["13th", "15th", "17th", "19th"],
+      "q": "Which country consumed the most coffee per capita as of the early 2020s?",
+      "choices": [
+        "Sweden",
+        "Finland",
+        "Norway",
+        "Denmark"
+      ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "15th century", "verified": true, "notes": "First documented in Yemen's Sufi monasteries." }
+      "difficulty": "easy"
     },
     {
-      "q": "Where did the first coffeehouse in Europe open in 1647?",
-      "choices": ["Paris", "Vienna", "Venice", "London"],
+      "q": "What is the small metal pot traditionally used to brew Turkish coffee called?",
+      "choices": [
+        "Ibrik",
+        "Cezve",
+        "Mocha pot",
+        "Pourover"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of the following is the most commonly grown coffee bean species worldwide?",
+      "choices": [
+        "Robusta",
+        "Arabica",
+        "Liberica",
+        "Excelsa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Middle Eastern country did coffee houses first become popular during the 1400s?",
+      "choices": [
+        "Saudi Arabia",
+        "Yemen",
+        "Turkey",
+        "Lebanon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are coffee beans called before they undergo the roasting process?",
+      "choices": [
+        "Raw beans",
+        "Green beans",
+        "White beans",
+        "Unripe beans"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country was the world's largest coffee producer by volume in 2021?",
+      "choices": [
+        "Colombia",
+        "Vietnam",
+        "Brazil",
+        "Indonesia"
+      ],
       "correct": 2,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Venice", "verified": true, "notes": "London's first coffeehouse followed in 1652." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which iconic American drip-coffee innovation was introduced by Nestlé in 1938?",
+      "q": "What is the name of the decaffeination method that uses only hot water and no chemicals?",
       "choices": [
-        "Folgers Coffee",
-        "Nescafé instant coffee",
-        "Keurig pods",
-        "Cold brew"
-      ],
-      "correct": 1,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Instant coffee", "verified": true, "notes": "Developed for the Brazilian government to preserve surplus beans." }
-    },
-    {
-      "q": "Which unbelievably expensive coffee involves beans passing through the digestive tract of a civet?",
-      "choices": [
-        "Kopi Luwak",
-        "Jamaica Blue Mountain",
-        "Kona Peaberry",
-        "Gesha"
+        "Swiss water process",
+        "CO2 extraction",
+        "Ethyl acetate method",
+        "Solvent process"
       ],
       "correct": 0,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Kopi Luwak coffee", "verified": true, "notes": "Produced mostly in Indonesia and the Philippines." }
+      "difficulty": "easy"
     },
     {
-      "q": "Robusta beans contain how much more caffeine than Arabica, approximately?",
+      "q": "Which coffee preparation method involves passing hot water through ground coffee in a paper or metal filter?",
       "choices": [
-        "About the same",
-        "10-20% more",
-        "About twice as much (~2x)",
-        "About 5x more"
+        "French press",
+        "Pour over",
+        "Turkish method",
+        "Espresso machine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the luxurious coffee variety that passes through an elephant's digestive system before processing?",
+      "choices": [
+        "Kopi luwak",
+        "Black ivory coffee",
+        "Mountain water coffee",
+        "Estate reserve"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How long do Coffea arabica cherries typically take to fully ripen on the plant?",
+      "choices": [
+        "Three to four months",
+        "Six to eight months",
+        "Ten to twelve months",
+        "Two to three months"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coffee drink is made by combining espresso with steamed milk and a layer of milk foam?",
+      "choices": [
+        "Cappuccino",
+        "Americano",
+        "Latte",
+        "Macchiato"
       ],
       "correct": 2,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Robusta beans", "verified": true, "notes": "audit-corrected 2026-05-09: Robusta ~2.2-2.7% vs Arabica ~1.2-1.5% caffeine — roughly 2x, not 3x. Distractors retuned." }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name for coffee beans that have been harvested but not yet roasted?",
+      "q": "What is the main active compound in coffee that provides its stimulating effect?",
+      "choices": [
+        "Theobromine",
+        "Caffeine",
+        "Tannin",
+        "Chlorogenic acid"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In coffee farming, what is the practice of growing coffee plants under the shade of taller trees called?",
+      "choices": [
+        "Canopy farming",
+        "Shade-grown coffee",
+        "Forest cultivation",
+        "Tree-paired growing"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which of these coffee drinks is traditionally served in Italy as a strong, concentrated shot?",
+      "choices": [
+        "Lungo",
+        "Ristretto",
+        "Espresso",
+        "Cortado"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the term for a coffee blend made from beans sourced from multiple different origins?",
+      "choices": [
+        "Mixed roast",
+        "Blended coffee",
+        "Origin blend",
+        "Composite coffee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which natural drying method for coffee involves laying cherries on tables or patios to dry under the sun?",
+      "choices": [
+        "Wet process",
+        "Fermentation method",
+        "Dry process",
+        "Mechanical drying"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What common nickname for a regular cup of coffee has unclear historical origins but remains popular in America?",
+      "choices": [
+        "Cup of Joe",
+        "Regular brew",
+        "Standard coffee",
+        "Plain jane"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coffee beverage combines espresso with hot water to create a milder, longer drink?",
+      "choices": [
+        "Long black",
+        "Americano",
+        "Lungo",
+        "Diluted espresso"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the global coffee market reach an estimated value of approximately $495.50 billion?",
+      "choices": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Asian country is known for producing Kopi Luwak, one of the world's most expensive coffees?",
+      "choices": [
+        "Vietnam",
+        "Thailand",
+        "Indonesia",
+        "Philippines"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the smooth espresso-based drink made with steamed milk?",
+      "choices": [
+        "Cappuccino",
+        "Caffè latte",
+        "Macchiato",
+        "Americano"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country is the world's largest coffee producer?",
+      "choices": [
+        "Colombia",
+        "Vietnam",
+        "Brazil",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are unroasted coffee beans called?",
       "choices": [
         "Raw beans",
         "Green coffee beans",
-        "Soft beans",
-        "Cherry beans"
+        "White beans",
+        "Dried beans"
       ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Green coffee beans", "verified": true, "notes": "Greenish color; shelf-stable for roasting." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which method traps grinds below a plunger while hot water steeps?",
+      "q": "Which brewing method uses gravity to drip hot water through ground coffee into a pot below?",
       "choices": [
-        "Pour-over",
-        "Aeropress",
         "French press",
-        "Moka pot"
+        "Drip brewing",
+        "Pour over",
+        "Espresso machine"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the aromatic oil in coffee beans responsible for their distinctive smell?",
+      "choices": [
+        "Caffeine oil",
+        "Caffeol",
+        "Arabica oil",
+        "Roast essence"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which stimulating compound in coffee is known for boosting alertness and energy?",
+      "choices": [
+        "Tannins",
+        "Caffeine",
+        "Chlorogenic acid",
+        "Caramel"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the small pot with a long handle traditionally used to brew Turkish coffee?",
+      "choices": [
+        "Ibrik",
+        "Cezve",
+        "Mokha",
+        "Dallah"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which Middle Eastern country did coffee drinking become popular during the 1400s?",
+      "choices": [
+        "Saudi Arabia",
+        "Yemen",
+        "Turkey",
+        "Lebanon"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the thick, creamy layer that forms on top of a freshly pulled espresso shot?",
+      "choices": [
+        "Foam",
+        "Crema",
+        "Froth",
+        "Bloom"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coffee species is known for preferring high-altitude growing regions in Latin America?",
+      "choices": [
+        "Robusta",
+        "Arabica",
+        "Liberica",
+        "Excelsa"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the ultra-luxury coffee processed through a civet's digestive system?",
+      "choices": [
+        "Black ivory coffee",
+        "Kopi Luwak",
+        "Aged coffee",
+        "Fermented coffee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian city hosted Europe's first official coffeehouse in 1647?",
+      "choices": [
+        "Rome",
+        "Milan",
+        "Venice",
+        "Florence"
       ],
       "correct": 2,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Coarse grind", "verified": true, "notes": "French press — aka 'cafetière.'" }
+      "difficulty": "easy"
     },
     {
-      "q": "What chemical reaction browns coffee beans during roasting and gives them their flavor?",
+      "q": "What is the name of the historic Ottoman-era coffeehouse that operated in Constantinople?",
       "choices": [
-        "Caramelization only",
-        "Maillard reaction",
-        "Fermentation",
-        "Saponification"
+        "Kiva Han",
+        "Topkapi Cafe",
+        "Sultan's Brew",
+        "Ottoman House"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which grinding size is finest and typically used for Turkish coffee?",
+      "choices": [
+        "Medium grind",
+        "Fine grind",
+        "Powder-fine grind",
+        "Coarse grind"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What decaffeination method uses only water and no chemicals?",
+      "choices": [
+        "Solvent extraction",
+        "Swiss water process",
+        "CO2 method",
+        "Ethyl acetate method"
       ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Caramelization also contributes, but the Maillard reaction is dominant." }
+      "difficulty": "easy"
     },
     {
-      "q": "Which stovetop coffee maker, invented in Italy in 1933, uses steam pressure to push water upward through a filter basket?",
-      "choices": ["Chemex", "Moka pot", "Bialetti", "Siphon brewer"],
+      "q": "Which cold coffee beverage brewed with extended steeping produces a naturally less bitter flavor?",
+      "choices": [
+        "Iced espresso",
+        "Cold brew coffee",
+        "Chilled latte",
+        "Frappuccino"
+      ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Invented by Alfonso Bialetti in Italy. Bialetti is the brand; Moka pot is the type." }
+      "difficulty": "easy"
     },
     {
-      "q": "Turkish-style coffee is traditionally prepared in what type of small pot?",
-      "choices": ["Cezve (ibrik)", "Moka pot", "Chemex", "Siphon"],
+      "q": "What coffee processing method involves soaking beans in water to remove the fruit layer?",
+      "choices": [
+        "Dry process",
+        "Wet process",
+        "Semi-washed process",
+        "Natural process"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which botanical genus contains the plants that produce coffee beans?",
+      "choices": [
+        "Theobroma",
+        "Coffea",
+        "Camellia",
+        "Ilex"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a double shot of espresso served as a single concentrated drink called?",
+      "choices": [
+        "Long black",
+        "Ristretto",
+        "Lungo",
+        "Americano"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which high-altitude specialty coffee uses elephants to process and digest the beans?",
+      "choices": [
+        "Kopi Luwak",
+        "Black ivory coffee",
+        "Mountain grown coffee",
+        "Aged reserve coffee"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name for coffee served without any milk or sugar?",
+      "choices": [
+        "Black coffee",
+        "Pure coffee",
+        "Straight espresso",
+        "Naked coffee"
+      ],
       "correct": 0,
-      "category": "Coffee",
-      "difficulty": "medium",
-      "source": { "original_a": "Turkish coffee", "verified": true, "notes": "Long-handled copper or brass pot; Ottoman origin." }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coffee bean variety contains significantly more caffeine than Arabica beans?",
+      "choices": [
+        "Robusta",
+        "Liberica",
+        "Excelsa",
+        "Bourbon"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the creamy foam layer that forms on top of a freshly pulled espresso shot called?",
+      "choices": [
+        "Crema",
+        "Foam",
+        "Head",
+        "Bloom"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which grind size is recommended for use in a French press?",
+      "choices": [
+        "Coarse",
+        "Medium",
+        "Fine",
+        "Extra fine"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the ideal grind size for a standard drip coffee maker?",
+      "choices": [
+        "Medium",
+        "Coarse",
+        "Fine",
+        "Super coarse"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In which country did the modern coffee culture first develop during the 15th century?",
+      "choices": [
+        "Yemen",
+        "Turkey",
+        "Ethiopia",
+        "Saudi Arabia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Southeast Asian country is famous for producing Black Ivory coffee, made from beans processed through elephant digestive systems?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Indonesia",
+        "Laos"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Kopi Luwak coffee made from?",
+      "choices": [
+        "Beans processed through a civet's digestive system",
+        "Beans grown at extreme altitudes",
+        "Beans fermented in honey",
+        "Beans roasted with spices"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country was the world's largest producer of coffee beans in 2021?",
+      "choices": [
+        "Brazil",
+        "Vietnam",
+        "Colombia",
+        "Indonesia"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is cold brew coffee made by doing?",
+      "choices": [
+        "Soaking coarse grounds in cold water for an extended period",
+        "Chilling hot coffee quickly",
+        "Blending ice with espresso",
+        "Steaming cold milk with coffee"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what century did European countries first begin consuming coffee at scale?",
+      "choices": [
+        "17th century",
+        "16th century",
+        "18th century",
+        "15th century"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is a blend of coffee made from beans of different origins called?",
+      "choices": [
+        "Blended coffee",
+        "Mixed coffee",
+        "Combined coffee",
+        "Composite coffee"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which coffee processing method involves washing and soaking the beans in water?",
+      "choices": [
+        "Wet process",
+        "Dry process",
+        "Semi-washed process",
+        "Honey process"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the plant species from which coffee beans are harvested?",
+      "choices": [
+        "Coffea",
+        "Caffe",
+        "Cafea",
+        "Coffeana"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Approximately how many liters of water are required to produce one kilogram of roasted coffee?",
+      "choices": [
+        "26,400 liters",
+        "2,640 liters",
+        "13,200 liters",
+        "5,280 liters"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which farming practice involves growing coffee alongside food crops during the plant's early development?",
+      "choices": [
+        "Intercropping",
+        "Companion planting",
+        "Mixed farming",
+        "Polyculture rotation"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary psychoactive compound in coffee that provides the energy boost?",
+      "choices": [
+        "Caffeine",
+        "Theophylline",
+        "Tannins",
+        "Chlorogenic acid"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which decaffeination method uses only hot water and no chemical solvents?",
+      "choices": [
+        "Swiss water process",
+        "Carbon dioxide process",
+        "Solvent extraction",
+        "Osmotic process"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What traditional beverage was commonly served alongside coffee in early coffeehouses of Constantinople?",
+      "choices": [
+        "Tea",
+        "Wine",
+        "Chocolate",
+        "Sherbet"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Italian drink is typically served as a small, concentrated shot and often consumed after meals?",
+      "choices": [
+        "Espresso",
+        "Americano",
+        "Macchiato",
+        "Ristretto"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What grind size is ideal for standard drip coffee makers?",
+      "choices": [
+        "Fine grind",
+        "Medium grind",
+        "Coarse grind",
+        "Extra coarse grind"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What do coffee farmers call coffee beans before they undergo the roasting process?",
+      "choices": [
+        "Raw beans",
+        "Dried beans",
+        "Green coffee beans",
+        "Unprocessed beans"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which country produced approximately 30% of the world's coffee beans in 2021?",
+      "choices": [
+        "Colombia",
+        "Brazil",
+        "Vietnam",
+        "Indonesia"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "Which Yemeni port city gave its name to a coffee drink blended with chocolate?",
-      "choices": ["Sana'a", "Taiz", "Aden", "Mokha"],
+      "choices": [
+        "Sana'a",
+        "Taiz",
+        "Aden",
+        "Mokha"
+      ],
       "correct": 3,
-      "category": "Coffee",
-      "difficulty": "hard",
-      "source": { "original_a": "Mokha", "verified": true, "notes": "Mocha is named for the port of Mokha (al-Mukha) on the Red Sea." }
+      "difficulty": "hard"
     },
     {
       "q": "Coffee was famously banned or restricted in Europe by which 17th-century figure who later (legend says) 'baptized' it as a Christian drink?",
@@ -201,9 +793,7 @@
         "Frederick the Great"
       ],
       "correct": 0,
-      "category": "Coffee",
-      "difficulty": "hard",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Around 1600; legend that he blessed it after tasting." }
+      "difficulty": "hard"
     },
     {
       "q": "Which coffee roast level produces the darkest, shiniest beans — often called 'Italian' or 'French'?",
@@ -214,17 +804,1492 @@
         "Dark roast"
       ],
       "correct": 3,
-      "category": "Coffee",
-      "difficulty": "hard",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "Dark roasts have less caffeine and acidity than light." }
+      "difficulty": "hard"
     },
     {
       "q": "Decaffeinated coffee was invented in 1903 by a German merchant named Ludwig Roselius. He marketed it under what brand name?",
-      "choices": ["Sanka", "Kaffee Hag", "Maxwell House", "Nescafé"],
+      "choices": [
+        "Sanka",
+        "Kaffee Hag",
+        "Maxwell House",
+        "Nescafé"
+      ],
       "correct": 1,
-      "category": "Coffee",
-      "difficulty": "hard",
-      "source": { "original_a": "Coffee", "verified": true, "notes": "'Kaffee Hag' in Germany; 'Sanka' in France and the U.S." }
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which year did the Ottoman Empire establish the first coffeehouse in Constantinople, marking the beginning of coffee culture in the Mediterranean region?",
+      "choices": [
+        "1453",
+        "1555",
+        "1623",
+        "1687"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the traditional Middle Eastern coffee pot, typically made of copper or brass, used in the preparation of Turkish coffee?",
+      "choices": [
+        "Ibrik",
+        "Cezve",
+        "Both Ibrik and Cezve are correct",
+        "Dallah"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many liters of water are required to produce one kilogram of roasted coffee beans, accounting for irrigation and processing?",
+      "choices": [
+        "4,000 liters",
+        "12,600 liters",
+        "26,400 liters",
+        "42,000 liters"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which coffee varietal, comprising approximately 60% of global coffee production, is known for its higher caffeine content and stronger, more bitter flavor profile?",
+      "choices": [
+        "Arabica",
+        "Robusta",
+        "Liberica",
+        "Excelsa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Black Ivory Coffee, and in which Southeast Asian country is it exclusively produced?",
+      "choices": [
+        "Coffee fermented in oak barrels; produced in Vietnam",
+        "Coffee processed through elephant digestion; produced in Thailand",
+        "Coffee grown at extreme altitudes; produced in Laos",
+        "Coffee treated with activated charcoal; produced in Cambodia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country produced approximately 40% of the world's coffee supply as of 2023, making it the dominant global producer?",
+      "choices": [
+        "Colombia",
+        "Brazil",
+        "Indonesia",
+        "Ethiopia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the context of coffee processing, what is the 'dry process' method, and which continent primarily relies on this technique?",
+      "choices": [
+        "Fermentation in water; primarily used in Central America",
+        "Sun-drying whole coffee cherries; primarily used in Africa",
+        "Machine separation of beans; primarily used in Asia",
+        "Rapid heat treatment; primarily used in South America"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which decaffeination method, developed in 1901 by Ludwig Roselius, uses a chemical solvent to extract caffeine from green coffee beans?",
+      "choices": [
+        "Water process",
+        "Carbon dioxide process",
+        "Solvent process",
+        "Swiss water process"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the thin layer of golden-brown foam that forms on top of a freshly pulled espresso shot called?",
+      "choices": [
+        "Bloom",
+        "Crema",
+        "Emulsion",
+        "Extraction"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which major coffee-producing country in East Africa is often credited as the birthplace of coffee and maintains the largest genetic diversity of Arabica beans?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Ethiopia",
+        "Tanzania"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In coffee cupping—the professional tasting practice—what specific temperature in Celsius is hot water typically maintained to ensure consistent evaluation?",
+      "choices": [
+        "75–80 °C",
+        "90–96 °C",
+        "110–115 °C",
+        "125–130 °C"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What agricultural practice involves growing coffee plants under the canopy of taller trees, which provides shade and preserves biodiversity?",
+      "choices": [
+        "Monoculture spacing",
+        "Shade-grown cultivation",
+        "Intercropping rotation",
+        "Agroforestry integration"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which international certification organization, founded in 1997, focuses on ensuring fair prices and ethical labor practices in global coffee production?",
+      "choices": [
+        "Rainforest Alliance",
+        "Fair Trade International",
+        "UTZ Certified",
+        "4C Association"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary chemical compound in coffee responsible for its stimulant effects, and at what temperature in Celsius does it remain stable without degrading?",
+      "choices": [
+        "Chlorogenic acid; 150 °C",
+        "Caffeine; 200 °C",
+        "Quinic acid; 175 °C",
+        "Trigonelline; 225 °C"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which decade did instant coffee, invented by Nestlé, first become commercially available to the mass market?",
+      "choices": [
+        "1920s",
+        "1930s",
+        "1950s",
+        "1960s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the term for the initial expansion and release of gases from coffee grounds when hot water is first poured, crucial to the brewing process?",
+      "choices": [
+        "Extraction",
+        "Bloom",
+        "Degassing",
+        "Carbonation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country hosted the first International Coffee Organization conference in 1963, establishing global standards for coffee trade?",
+      "choices": [
+        "Brazil",
+        "Colombia",
+        "Italy",
+        "Kenya"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the washed process of coffee preparation, what is the primary purpose of fermentation in water tanks before the final rinse?",
+      "choices": [
+        "To increase caffeine content",
+        "To remove the mucilage layer from the coffee cherry",
+        "To enhance the roasting process",
+        "To reduce acidity in the bean"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage of the world's coffee production was certified by Fair Trade organizations in 2015, approximately?",
+      "choices": [
+        "0.8%",
+        "3.2%",
+        "8.5%",
+        "15.7%"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cold brewing method, popularized in Japan and gaining prominence in the United States since 2010, produces a smooth coffee with significantly lower acidity?",
+      "choices": [
+        "Flash chilling",
+        "Immersion cold brew",
+        "Nitrogen infusion",
+        "Cryogenic extraction"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nestlé introduce instant coffee as a commercial product?",
+      "choices": [
+        "1935",
+        "1938",
+        "1942",
+        "1945"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which port city in Yemen served as the primary export hub for Ethiopian coffee beans during the 17th and 18th centuries?",
+      "choices": [
+        "Aden",
+        "Mokha",
+        "Salalah",
+        "Hodeidah"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the traditional Middle Eastern coffee pot used for brewing Turkish coffee?",
+      "choices": [
+        "Finjan",
+        "Cezve",
+        "Dallah",
+        "Ibrik"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country produced approximately 40% of the world's coffee supply as of 2023?",
+      "choices": [
+        "Colombia",
+        "Brazil",
+        "Vietnam",
+        "Indonesia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which Italian city did Europe's first official coffeehouse open in 1647?",
+      "choices": [
+        "Rome",
+        "Venice",
+        "Florence",
+        "Naples"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the thin layer of foam that forms on top of a freshly pulled espresso shot called?",
+      "choices": [
+        "Micro-foam",
+        "Crema",
+        "Bloom",
+        "Emulsion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Middle Eastern country is credited with initiating the widespread consumption of coffee as a beverage in the 1400s?",
+      "choices": [
+        "Saudi Arabia",
+        "Turkey",
+        "Yemen",
+        "Lebanon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage of global coffee sales were certified as fair trade in 2005?",
+      "choices": [
+        "0.51%",
+        "2.3%",
+        "5.1%",
+        "8.7%"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Robusta-producing country is located in Southeast Asia and ranks second globally in coffee production volume?",
+      "choices": [
+        "Thailand",
+        "Vietnam",
+        "Laos",
+        "Cambodia"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In shade-grown coffee cultivation, which type of vegetation is used to provide canopy coverage over coffee plants?",
+      "choices": [
+        "Banana plants exclusively",
+        "Native forest trees",
+        "Plastic shade cloth",
+        "Corn stalks"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the scientific name for the coffee species that accounts for approximately 60% of global coffee production?",
+      "choices": [
+        "Coffea robusta",
+        "Coffea arabica",
+        "Coffea liberica",
+        "Coffea canephora"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which religious order in the Islamic tradition is historically credited with early adoption and promotion of coffee consumption during spiritual practices?",
+      "choices": [
+        "Naqshbandi",
+        "Shadhili",
+        "Qadiri",
+        "Mevlevi"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What term describes coffee that has been processed by passing through an animal's digestive system before roasting?",
+      "choices": [
+        "Kopi luwak",
+        "Black ivory",
+        "Cascara brew",
+        "Fermented arabica"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which British colonial officer documented the extensive Yemeni coffee trade in the early 19th century?",
+      "choices": [
+        "Captain William Haines",
+        "Sir Henry Rawlinson",
+        "Colonel Edward Despard",
+        "Captain Edward Teach"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage of the world's coffee consumption occurs in industrialized nations?",
+      "choices": [
+        "Approximately 70%",
+        "Approximately 85%",
+        "Over 90%",
+        "Approximately 60%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which coffee species is notably more disease-resistant than its arabica counterpart but typically produces a stronger, more bitter flavor profile?",
+      "choices": [
+        "Coffea liberica",
+        "Coffea robusta",
+        "Coffea stenophylla",
+        "Coffea maurtiania"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In specialty coffee culture, what term describes the initial brief wetting of coffee grounds before full water saturation during brewing?",
+      "choices": [
+        "Pre-wet",
+        "Bloom",
+        "Saturation",
+        "Expansion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which caffeine-related health concern has been historically debated in medical literature regarding coffee consumption?",
+      "choices": [
+        "Increased bone density",
+        "Elevated blood pressure and cardiovascular effects",
+        "Enhanced kidney function",
+        "Improved liver metabolism"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What brewing method, popular in Scandinavian countries, involves pouring hot water over coffee grounds in a cloth or metal filter suspended above a cup?",
+      "choices": [
+        "Turkish brewing",
+        "Pour-over drip",
+        "Cowboy coffee",
+        "Percolation"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which altitudinal range in coffee-growing regions is generally associated with higher-quality arabica bean development?",
+      "choices": [
+        "500-1000 meters",
+        "1200-2200 meters",
+        "2500-3000 meters",
+        "3500+ meters"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fungal disease, scientifically known as Hemileia vastatrix, devastated global coffee crops throughout the 19th and 20th centuries?",
+      "choices": [
+        "Coffee leaf rust",
+        "Bean blight fungus",
+        "Arabica wilt syndrome",
+        "Robusta stem rot"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Nestlé introduce instant coffee to the commercial market, marking a major shift in home beverage preparation?",
+      "choices": [
+        "1901",
+        "1938",
+        "1956",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Swiss Water Process, a chemical-free decaffeination method, relies primarily on which substance to remove caffeine from green coffee beans?",
+      "choices": [
+        "Ethyl acetate",
+        "Hot water",
+        "Liquid carbon dioxide",
+        "Methylene chloride"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Italian city is credited with establishing Europe's first documented coffeehouse in 1647?",
+      "choices": [
+        "Rome",
+        "Milan",
+        "Venice",
+        "Florence"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage of global coffee trade held fair trade certification in 2005, reflecting limited adoption of ethical sourcing at that time?",
+      "choices": [
+        "0.51%",
+        "3.2%",
+        "7.8%",
+        "12.4%"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Kiva Han, established in Constantinople during the 16th century, is historically significant as one of the world's first establishments dedicated to serving which beverage?",
+      "choices": [
+        "Tea exclusively",
+        "Coffee and tea",
+        "Coffee exclusively",
+        "Spiced wine and coffee"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sufi religious order is documented as one of the earliest communities to adopt coffee consumption as part of spiritual and devotional practices?",
+      "choices": [
+        "Naqshbandi order",
+        "Shadhili order",
+        "Qadiri order",
+        "Mevlevi order"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In coffee processing, the wet method (also called washed process) involves fermentation in what primary medium?",
+      "choices": [
+        "Saltwater tanks",
+        "Water channels",
+        "Oil-based solutions",
+        "Dry air chambers"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Coffea canephiora, commonly known by what name, exhibits superior disease resistance and contains approximately 50% more caffeine than its counterpart species?",
+      "choices": [
+        "Arabica",
+        "Robusta",
+        "Liberica",
+        "Excelsa"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which country's coffee production fundamentally transformed global supply chains during the 18th century, establishing itself as the world's largest producer by the 1850s?",
+      "choices": [
+        "Colombia",
+        "Ethiopia",
+        "Brazil",
+        "Indonesia"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Turkish coffee, characterized by its fine powder consistency and unfiltered preparation, traditionally employs which type of grind size?",
+      "choices": [
+        "Extra coarse",
+        "Fine (powder-like)",
+        "Medium",
+        "Cold brew grind"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The global coffee industry was valued at approximately how many billions of dollars in 2023?",
+      "choices": [
+        "$245.75 billion",
+        "$495.50 billion",
+        "$325.80 billion",
+        "$175.40 billion"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what century did Yemen emerge as the primary hub for early coffee cultivation and the development of coffeehouse culture in the Islamic world?",
+      "choices": [
+        "14th century",
+        "15th century",
+        "16th century",
+        "17th century"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "When utilizing a French press brewing method, which grind consistency allows proper immersion while preventing sediment from passing through the metal filter?",
+      "choices": [
+        "Fine grind",
+        "Medium-fine grind",
+        "Coarse grind",
+        "Extra-fine espresso grind"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The CO2 supercritical fluid extraction method for decaffeination operates at what approximate pressure range?",
+      "choices": [
+        "5-10 bar",
+        "20-30 bar",
+        "75-300 bar",
+        "500+ bar"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which storage material is recommended as optimal for preserving ground coffee's freshness and preventing oxidation and moisture absorption?",
+      "choices": [
+        "Plastic bags with ziplock seals",
+        "Ceramic, glass, or non-reactive metal containers",
+        "Paper envelopes with wax coating",
+        "Clear glass jars exposed to light"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Coffee cherries that have been harvested and dried but not yet roasted are referred to by what industry standard term?",
+      "choices": [
+        "Raw coffee",
+        "Green coffee beans",
+        "Parchment coffee",
+        "Hull coffee"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which decaffeination process, developed in Switzerland, removes caffeine using only water and activated charcoal without chemical solvents?",
+      "choices": [
+        "Methylene chloride method",
+        "Ethyl acetate method",
+        "Swiss Water Process",
+        "Supercritical CO2 method"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Arabica coffee plants thrive at elevations typically ranging between which altitudes for optimal flavor development?",
+      "choices": [
+        "500-1,000 meters above sea level",
+        "800-2,200 meters above sea level",
+        "2,500-3,500 meters above sea level",
+        "3,800-4,500 meters above sea level"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The espresso-based drink known as caffè latte traditionally contains espresso combined with steamed milk in approximately what ratio?",
+      "choices": [
+        "1:1 espresso to milk",
+        "1:3 espresso to milk",
+        "1:2 espresso to milk",
+        "2:1 espresso to milk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which fungal pathogen devastated coffee plantations across Ceylon (modern-day Sri Lanka) in the 1870s, causing the island to shift its primary crop away from coffee?",
+      "choices": [
+        "Hemileia vastatrix",
+        "Fusarium solani",
+        "Colletotrichum kahawae",
+        "Phoma costarricensis"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 17th-century Ottoman coffee culture, what was the primary role of the kahveci başı, a position of considerable authority within the Sultan's court?",
+      "choices": [
+        "Master of the imperial coffee house and keeper of bean inventory",
+        "Chief military strategist during wartime",
+        "Ambassador to European trading nations",
+        "Overseer of the Sultan's harem"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Central American nation, once the world's second-largest coffee producer in the early 20th century, experienced a severe decline in coffee output following the 1950 revolution?",
+      "choices": [
+        "Haiti",
+        "Guatemala",
+        "El Salvador",
+        "Costa Rica"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The specialty coffee grading system uses spectroscopy to measure bean density and color. What term describes unroasted beans that meet the lowest commercial quality standards?",
+      "choices": [
+        "Green coffee beans",
+        "Defective grade coffee",
+        "Sample-grade beans",
+        "Raw processing beans"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which cultivation method, which involves growing coffee plants beneath a canopy of taller trees, significantly reduces the habitat destruction caused by traditional sun-exposed plantations?",
+      "choices": [
+        "Shade-grown coffee",
+        "Intercropped coffee",
+        "Terraced coffee farming",
+        "Hydroponic coffee cultivation"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The legendary origin story of coffee involves an Ethiopian goat herder named Kaldi who observed his animals becoming unusually energetic after consuming berries from a particular plant. In what historical period is this legend typically dated?",
+      "choices": [
+        "9th century CE",
+        "15th century CE",
+        "5th century CE",
+        "12th century CE"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Ethiopian goatherd is legendarily said to have discovered coffee's stimulating effect?",
+      "choices": [
+        "Kaldi",
+        "Abebe",
+        "Hakim",
+        "Solomon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what century did coffee first spread into the Islamic world?",
+      "choices": [
+        "13th",
+        "15th",
+        "17th",
+        "19th"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Where did the first coffeehouse in Europe open in 1647?",
+      "choices": [
+        "Paris",
+        "Vienna",
+        "Venice",
+        "London"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which iconic American drip-coffee innovation was introduced by Nestlé in 1938?",
+      "choices": [
+        "Folgers Coffee",
+        "Nescafé instant coffee",
+        "Keurig pods",
+        "Cold brew"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which unbelievably expensive coffee involves beans passing through the digestive tract of a civet?",
+      "choices": [
+        "Kopi Luwak",
+        "Jamaica Blue Mountain",
+        "Kona Peaberry",
+        "Gesha"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Robusta beans contain how much more caffeine than Arabica, approximately?",
+      "choices": [
+        "About the same",
+        "10-20% more",
+        "40-50% more",
+        "About 3x more"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name for coffee beans that have been harvested but not yet roasted?",
+      "choices": [
+        "Raw beans",
+        "Green coffee beans",
+        "Soft beans",
+        "Cherry beans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which method traps grinds below a plunger while hot water steeps?",
+      "choices": [
+        "Pour-over",
+        "Aeropress",
+        "French press",
+        "Moka pot"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What chemical reaction browns coffee beans during roasting and gives them their flavor?",
+      "choices": [
+        "Caramelization only",
+        "Maillard reaction",
+        "Fermentation",
+        "Saponification"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which stovetop coffee maker, invented in Italy in 1933, uses steam pressure to push water upward through a filter basket?",
+      "choices": [
+        "Chemex",
+        "Moka pot",
+        "Bialetti",
+        "Siphon brewer"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Turkish-style coffee is traditionally prepared in what type of small pot?",
+      "choices": [
+        "Cezve (ibrik)",
+        "Moka pot",
+        "Chemex",
+        "Siphon"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which African country is the world's largest producer of coffee beans as of 2023?",
+      "choices": [
+        "Ethiopia",
+        "Kenya",
+        "Uganda",
+        "Tanzania"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the coffee species that contains approximately 40-50% more caffeine than Arabica?",
+      "choices": [
+        "Coffea robusta",
+        "Coffea liberica",
+        "Coffea excelsa",
+        "Coffea stenophylla"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Italian city did Europe's first documented coffeehouse open in 1647?",
+      "choices": [
+        "Venice",
+        "Rome",
+        "Florence",
+        "Milan"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for coffee beans in their raw, unroasted state?",
+      "choices": [
+        "Green coffee beans",
+        "White coffee beans",
+        "Raw coffee beans",
+        "Blank coffee beans"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which brewing method became the dominant style in American households by the early 2000s?",
+      "choices": [
+        "Drip coffee makers",
+        "French press",
+        "Turkish coffee",
+        "Espresso machines"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Black Ivory coffee primarily known for in its production process?",
+      "choices": [
+        "Being digested and processed by elephants",
+        "Being roasted at extremely high temperatures",
+        "Being grown only in volcanic soil",
+        "Being hand-picked at night"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country's coffee farmers established Brazil as the global leader in coffee production during the 1700s?",
+      "choices": [
+        "Portugal",
+        "Spain",
+        "France",
+        "the Netherlands"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary active compound in coffee that provides its stimulating effect?",
+      "choices": [
+        "Caffeine",
+        "Theophylline",
+        "Tannins",
+        "Chlorogenic acid"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In traditional African coffee processing, what method involves drying beans on raised surfaces in the sun?",
+      "choices": [
+        "Sun drying on raised beds",
+        "Fermentation tanks",
+        "Mechanical drum drying",
+        "Underground composting"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What percentage of global coffee sales was certified fair trade in 2005?",
+      "choices": [
+        "Less than 1%",
+        "Between 5-10%",
+        "Between 10-15%",
+        "Between 20-25%"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Middle Eastern country is credited with initiating the widespread coffee-drinking tradition in the 1400s?",
+      "choices": [
+        "Yemen",
+        "Saudi Arabia",
+        "Turkey",
+        "Syria"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What agricultural technique allows coffee plants to grow alongside food crops for mutual benefit?",
+      "choices": [
+        "Intercropping",
+        "Monoculture rotation",
+        "Companion planting",
+        "Strip farming"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fungal disease has historically caused major crop failures in coffee plantations worldwide?",
+      "choices": [
+        "Coffee leaf rust (Hemileia vastatrix)",
+        "Powdery mildew",
+        "Anthracnose",
+        "Root rot fungus"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the environmentally sustainable farming method where coffee grows beneath a natural canopy of trees?",
+      "choices": [
+        "Shade-grown coffee",
+        "Forest intercropping",
+        "Canopy rotation",
+        "Tree-shaded farming"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coffee grind size is finest and traditionally used in Turkish coffee preparation?",
+      "choices": [
+        "Turkish grind (powder-fine)",
+        "Extra coarse grind",
+        "Medium-fine grind",
+        "French press grind"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the concentrated coffee beverage created by forcing hot water through finely ground beans under pressure?",
+      "choices": [
+        "Espresso",
+        "Americano",
+        "Long black",
+        "Ristretto"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coffee species, native to Central and South America, is prized for its complex flavor profile?",
+      "choices": [
+        "Arabica (Coffea arabica)",
+        "Robusta (Coffea robusta)",
+        "Liberica (Coffea liberica)",
+        "Excelsa (Coffea excelsa)"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the estimated global market value of the coffee industry in 2023?",
+      "choices": [
+        "Approximately $495 billion",
+        "Approximately $250 billion",
+        "Approximately $750 billion",
+        "Approximately $150 billion"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which espresso-based drink traditionally combines espresso with steamed milk and a layer of milk foam?",
+      "choices": [
+        "Cappuccino",
+        "Latte",
+        "Macchiato",
+        "Cortado"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes coffee created by blending beans from multiple origins or roasts together?",
+      "choices": [
+        "Coffee blend",
+        "Mixed roast",
+        "Composite coffee",
+        "Hybrid brew"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country was the world's largest coffee producer as of 2023?",
+      "choices": [
+        "Colombia",
+        "Brazil",
+        "Vietnam",
+        "Ethiopia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the aromatic oil compound responsible for coffee's distinctive smell?",
+      "choices": [
+        "Caffeol",
+        "Chlorogenic acid",
+        "Arabinose",
+        "Trigonelline"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At approximately what temperature in Celsius do coffee beans begin the roasting process?",
+      "choices": [
+        "150°C",
+        "200°C",
+        "250°C",
+        "300°C"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which decaffeination method uses only hot water and no chemicals?",
+      "choices": [
+        "Carbon dioxide process",
+        "Swiss water process",
+        "Ethyl acetate process",
+        "Methylene chloride process"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coffee bean variety contains approximately 40-50% more caffeine than Arabica beans?",
+      "choices": [
+        "Liberica",
+        "Robusta",
+        "Excelsa",
+        "Typica"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the term for coffee beans before they have been roasted?",
+      "choices": [
+        "Raw beans",
+        "Green coffee beans",
+        "Unroasted coffee",
+        "Fresh coffee beans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. coffee drink is made by diluting espresso with hot water?",
+      "choices": [
+        "Lungo",
+        "Café Americano",
+        "Flat white",
+        "Macchiato"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In the 15th century, coffee was primarily consumed in which geographical region?",
+      "choices": [
+        "Southeast Asia",
+        "Central America",
+        "The Middle East and North Africa",
+        "Northern Europe"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which fungal pathogen has historically caused major coffee crop losses worldwide?",
+      "choices": [
+        "Fusarium oxysporum",
+        "Hemileia vastatrix",
+        "Botrytis cinerea",
+        "Phytophthora infestans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What grind size is recommended for use in a French press coffee maker?",
+      "choices": [
+        "Fine grind",
+        "Medium grind",
+        "Coarse grind",
+        "Extra fine grind"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coffee cultivation method preserves forest ecosystems and supports migratory bird populations?",
+      "choices": [
+        "Monoculture farming",
+        "Shade-grown coffee",
+        "Wet processing",
+        "Fermented roasting"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In traditional Ottoman coffeehouses during the 15th-16th centuries, which two beverages were typically served together?",
+      "choices": [
+        "Coffee and wine",
+        "Coffee and tea",
+        "Coffee and chocolate",
+        "Coffee and mint water"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which African country experienced a severe coffee industry crisis in the 1990s that devastated its economy?",
+      "choices": [
+        "Kenya",
+        "Uganda",
+        "Rwanda",
+        "Cameroon"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Italian preparation method is traditionally served as a small, strong shot with a layer of crema on top?",
+      "choices": [
+        "Ristretto",
+        "Espresso",
+        "Lungo",
+        "Affogato"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sufi Muslim order is historically credited with using coffee to maintain alertness during spiritual night vigils?",
+      "choices": [
+        "Naqshbandi order",
+        "Shadhili order",
+        "Qadiriyya order",
+        "Mevlevi order"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which specialty coffee is created by feeding coffee cherries to Asian elephants before processing?",
+      "choices": [
+        "Kopi luwak",
+        "Black Ivory coffee",
+        "Geisha coffee",
+        "Hawaiian Kona"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. city is known for hosting the annual Coffee Break Festival to celebrate coffee culture?",
+      "choices": [
+        "Seattle, Washington",
+        "Portland, Oregon",
+        "Stoughton, Wisconsin",
+        "San Francisco, California"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major coffee chain was among the first to widely offer and promote fair trade certified beans?",
+      "choices": [
+        "Dunkin'",
+        "Starbucks",
+        "Peet's Coffee",
+        "Tim Hortons"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which century did coffee become widely popular among European aristocracy and merchants?",
+      "choices": [
+        "15th century",
+        "17th century",
+        "19th century",
+        "21st century"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country was the world's leading coffee producer as of 2023?",
+      "choices": [
+        "Colombia",
+        "Vietnam",
+        "Brazil",
+        "Ethiopia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the decaffeination method that uses water and organic solvents without chemicals?",
+      "choices": [
+        "Carbon dioxide extraction",
+        "Swiss water process",
+        "Solvent-free steaming",
+        "Freeze-dry method"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which legendary Ethiopian figure is credited with discovering the energizing properties of coffee?",
+      "choices": [
+        "Menelik II",
+        "Kaldi",
+        "Haile Selassie",
+        "Tewodros II"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Kopi Luwak coffee notable for involving in its production?",
+      "choices": [
+        "Fermentation in oak barrels",
+        "Passage through a civet's digestive system",
+        "Hand-sorting by monks",
+        "Aging in volcanic caves"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which coffee bean variety contains approximately 40-50% more caffeine than Arabica?",
+      "choices": [
+        "Liberica",
+        "Excelsa",
+        "Robusta",
+        "Typica"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Nestlé introduce instant coffee to the commercial market?",
+      "choices": [
+        "1920",
+        "1938",
+        "1955",
+        "1972"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the traditional name for Middle Eastern coffee houses that became centers of social gathering?",
+      "choices": [
+        "Kahvehane",
+        "Kiva Han",
+        "Qahwah bar",
+        "Coffee caravanserai"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which grind size is optimal for use in a French press to achieve proper extraction?",
+      "choices": [
+        "Extra fine",
+        "Fine",
+        "Coarse",
+        "Extra coarse"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Black Ivory coffee is processed through the digestive system of which animal?",
+      "choices": [
+        "Civet cats",
+        "Elephants",
+        "Weasels",
+        "Raccoons"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term describes coffee made from a blend of beans from different regions or varieties?",
+      "choices": [
+        "Single-origin coffee",
+        "Blended coffee",
+        "Mixed roast",
+        "Composite brew"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately what percentage of the world's coffee consumption occurs in industrialized nations?",
+      "choices": [
+        "Over 50%",
+        "Over 70%",
+        "Over 90%",
+        "Nearly 100%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the small traditional pot called that is used to brew Turkish coffee?",
+      "choices": [
+        "Ibrik",
+        "Cezve",
+        "Finjan",
+        "Dallah"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How long does it typically take for Coffea arabica berries to fully ripen after flowering?",
+      "choices": [
+        "Two to three months",
+        "Six to eight months",
+        "Twelve months",
+        "Eighteen months"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In 1647, Europe's first official coffeehouse opened in which Italian city?",
+      "choices": [
+        "Rome",
+        "Milan",
+        "Venice",
+        "Florence"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What brewing method involves steeping coarse coffee grounds in cold water for an extended period?",
+      "choices": [
+        "Pour-over brewing",
+        "Espresso extraction",
+        "Cold brew",
+        "Turkish brewing"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which country experienced a severe coffee crisis in the 1990s linked to price collapse and economic instability?",
+      "choices": [
+        "Kenya",
+        "Rwanda",
+        "Uganda",
+        "Burundi"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What term refers to coffee beans before they have been roasted?",
+      "choices": [
+        "Raw beans",
+        "Dried beans",
+        "Green coffee beans",
+        "Unprocessed beans"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which scientific technique uses light beams to assess the roasting level of coffee beans?",
+      "choices": [
+        "Chromatography",
+        "Spectroscopy",
+        "Densitometry",
+        "Calorimetry"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

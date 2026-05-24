@@ -1,329 +1,1151 @@
 {
   "slug": "memorial-day-trivia",
   "name": "Memorial Day",
-  "description": "U.S. holiday honoring fallen service members — Decoration Day, poppies, and Arlington.",
-  "processedAt": "2026-05-07T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.629Z",
   "questions": [
     {
-      "q": "On what day is U.S. Memorial Day observed?",
+      "q": "In which year did the Civil War end?",
       "choices": [
-        "Last Monday of May",
-        "First Monday of May",
-        "May 30 always",
-        "Last Friday of May"
+        "1863",
+        "1865",
+        "1867",
+        "1861"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Memorial Day",
-        "verified": true,
-        "notes": "Set by the Uniform Monday Holiday Act, effective 1971."
-      }
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the bugle call traditionally played at military funerals and memorial services?",
+      "choices": [
+        "Reveille",
+        "Taps",
+        "Assembly",
+        "To the Colors"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which flower is traditionally associated with remembrance of fallen soldiers on Memorial Day?",
+      "choices": [
+        "Roses",
+        "Poppies",
+        "Lilies",
+        "Daisies"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What time does the National Moment of Remembrance occur each Memorial Day?",
+      "choices": [
+        "12:00 p.m.",
+        "2:00 p.m.",
+        "3:00 p.m.",
+        "5:00 p.m."
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which state is known as the birthplace of Memorial Day?",
+      "choices": [
+        "Virginia",
+        "Pennsylvania",
+        "New York",
+        "Massachusetts"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
       "q": "What was Memorial Day originally called?",
       "choices": [
+        "Honor Day",
         "Decoration Day",
-        "Veterans Day",
-        "Soldiers' Sunday",
-        "Remembrance Day"
+        "Soldier's Day",
+        "Veterans Day"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Decoration Day",
-        "verified": true,
-        "notes": "Renamed to Memorial Day; officially federal in 1967, holiday since 1971."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Memorial Day was originally created to honor soldiers who died in which war?",
+      "q": "Which organization first promoted a national holiday for decorating the graves of fallen soldiers?",
       "choices": [
-        "U.S. Civil War",
-        "World War I",
-        "American Revolution",
-        "Vietnam War"
+        "American Legion",
+        "Veterans of Foreign Wars",
+        "Grand Army of the Republic",
+        "Disabled American Veterans"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "U.S. Civil War",
-        "verified": true,
-        "notes": "Began in 1868 by the Grand Army of the Republic (Union veterans)."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "What flower is traditionally worn on Memorial Day in remembrance of fallen soldiers?",
-      "choices": ["Red poppy", "Red rose", "White carnation", "Blue iris"],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Poppies",
-        "verified": true,
-        "notes": "Inspired by John McCrae's WWI poem 'In Flanders Fields.'"
-      }
-    },
-    {
-      "q": "Which 1915 WWI poem inspired the poppy tradition?",
+      "q": "Which southern state was the first to officially commemorate the federal holiday of Memorial Day?",
       "choices": [
-        "In Flanders Fields",
-        "The Charge of the Light Brigade",
-        "Anthem for Doomed Youth",
-        "Dulce et Decorum Est"
+        "Louisiana",
+        "Mississippi",
+        "Georgia",
+        "South Carolina"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "'In Flanders Fields' by John McCrae",
-        "verified": true,
-        "notes": "Canadian Lt-Col McCrae, 1915. 'In Flanders fields the poppies blow / Between the crosses, row on row.'"
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which town is officially recognized as the 'birthplace of Memorial Day'?",
-      "choices": [
-        "Waterloo, New York",
-        "Gettysburg, Pennsylvania",
-        "Charleston, South Carolina",
-        "Boalsburg, Pennsylvania"
-      ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Waterloo, New York",
-        "verified": true,
-        "notes": "Designated by President Lyndon B. Johnson in 1966."
-      }
-    },
-    {
-      "q": "Where is the Tomb of the Unknown Soldier?",
-      "choices": [
-        "Arlington National Cemetery, Virginia",
-        "Lincoln Memorial, DC",
-        "Mount Rushmore, SD",
-        "West Point, NY"
-      ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Virginia",
-        "verified": true,
-        "notes": "Guarded 24/7/365 since 1937 by Tomb Sentinels."
-      }
-    },
-    {
-      "q": "Whose plantation was Arlington National Cemetery built on?",
-      "choices": [
-        "Robert E. Lee",
-        "George Washington",
-        "Thomas Jefferson",
-        "Ulysses S. Grant"
-      ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Robert E. Lee",
-        "verified": true,
-        "notes": "Confiscated during the Civil War; the first burial was in 1864."
-      }
-    },
-    {
-      "q": "Which famous race is held on Memorial Day weekend each year?",
-      "choices": [
-        "Indianapolis 500",
-        "Daytona 500",
-        "Kentucky Derby",
-        "Boston Marathon"
-      ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Indianapolis 500",
-        "verified": true,
-        "notes": "Held the Sunday before Memorial Day since 1911."
-      }
-    },
-    {
-      "q": "What bugle call is traditionally played at military funerals?",
-      "choices": ["Taps", "Reveille", "Last Post", "Charge"],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Taps",
-        "verified": true,
-        "notes": "24 notes; composed during the Civil War in 1862."
-      }
-    },
-    {
-      "q": "What time of day is the National Moment of Remembrance observed on Memorial Day?",
-      "choices": [
-        "3 p.m. local time",
-        "Noon",
-        "9 a.m.",
-        "Sunset"
-      ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "3 p.m. local time",
-        "verified": true,
-        "notes": "Established by the National Moment of Remembrance Act, 2000."
-      }
-    },
-    {
-      "q": "Memorial Day is widely considered the 'unofficial start' of which season?",
-      "choices": ["Summer", "Spring", "Fall", "Winter"],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Summer",
-        "verified": true,
-        "notes": "Labor Day (first Monday of September) is the unofficial end."
-      }
-    },
-    {
-      "q": "Which woman, known as the 'Angel of the Battlefield', founded the American Red Cross in 1881?",
+      "q": "Who was the woman credited with starting the tradition of wearing red poppies on Memorial Day?",
       "choices": [
         "Clara Barton",
+        "Moina Michael",
         "Florence Nightingale",
-        "Dorothea Dix",
-        "Mary Edwards Walker"
+        "Dorothea Dix"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Clara Barton",
-        "verified": true,
-        "notes": "Civil War nurse turned humanitarian."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "How does the U.S. flag fly on Memorial Day?",
+      "q": "What significant monument stands at Arlington National Cemetery and honors unidentified fallen soldiers?",
       "choices": [
-        "Half-staff until noon, then full",
-        "Full-staff all day",
-        "Half-staff all day",
-        "Inverted"
+        "The Lincoln Memorial",
+        "The Vietnam Veterans Memorial",
+        "The Tomb of the Unknown",
+        "The War Memorial"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Memorial Day",
-        "verified": true,
-        "notes": "Custom: half-staff dawn-noon (mourning), then full-staff (remembrance)."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "Which Union general's General Order No. 11 in 1868 first proclaimed Decoration Day?",
+      "q": "Which city hosted the oldest continuous Memorial Day parade?",
       "choices": [
-        "John A. Logan",
-        "Ulysses S. Grant",
-        "William Sherman",
-        "George Meade"
+        "Boston, Massachusetts",
+        "Doylestown, Pennsylvania",
+        "Philadelphia, Pennsylvania",
+        "New York, New York"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "John A. Logan",
-        "verified": true,
-        "notes": "Commander-in-Chief of the Grand Army of the Republic."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which year did Memorial Day become a federal holiday?",
-      "choices": ["1971", "1865", "1968", "1922"],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Memorial Day",
-        "verified": true,
-        "notes": "Became official in 1971 via Uniform Monday Holiday Act."
-      }
-    },
-    {
-      "q": "Which UK observance is similar to Memorial Day, held on the Sunday closest to November 11?",
+      "q": "Which woman served as a battlefield nurse during the Civil War and later founded the American Red Cross?",
       "choices": [
-        "Remembrance Sunday",
-        "Veterans' Day",
-        "Armistice Day",
-        "Mother's Day"
+        "Louisa May Alcott",
+        "Clara Barton",
+        "Mary Ann Bickerdyke",
+        "Harriet Tubman"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Memorial Day",
-        "verified": true,
-        "notes": "British wear poppy pins for the season; observe 2 minutes silence at 11am."
-      }
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
-      "q": "Which U.S. holiday — November 11 — is distinct from Memorial Day, honoring all military veterans (living)?",
+      "q": "What percentage of Americans travel by car on Memorial Day weekend?",
       "choices": [
-        "Veterans Day",
-        "Armed Forces Day",
-        "Memorial Day",
-        "Independence Day"
+        "65%",
+        "75%",
+        "88%",
+        "95%"
       ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Memorial Day",
-        "verified": true,
-        "notes": "Memorial Day = those who DIED in service; Veterans Day = ALL who served."
-      }
+      "correct": 2,
+      "difficulty": "easy"
     },
     {
-      "q": "How many U.S. service members have been killed in action across all wars?",
+      "q": "Which president signed the National Moment of Remembrance Act?",
       "choices": [
-        "~1.3 million",
-        "~500,000",
-        "~3 million",
-        "~750,000"
-      ],
-      "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Memorial Day",
-        "verified": true,
-        "notes": "Approximately 1.3 million KIA across all U.S. wars; Civil War alone is ~620,000."
-      }
-    },
-    {
-      "q": "Which president signed the National Moment of Remembrance Act in 2000?",
-      "choices": [
+        "George H. W. Bush",
         "Bill Clinton",
         "George W. Bush",
+        "Barack Obama"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What two items are most commonly used by Americans to remember fallen soldiers?",
+      "choices": [
+        "Wreaths and candles",
+        "Flags and flowers",
+        "Ribbons and medals",
+        "Photos and letters"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which major auto racing event traditionally takes place on Memorial Day weekend?",
+      "choices": [
+        "Daytona 500",
+        "Indianapolis 500",
+        "Coca-Cola 600",
+        "Brickyard 400"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Tomb of the Unknowns dedicated at Arlington National Cemetery?",
+      "choices": [
+        "1918",
+        "1921",
+        "1925",
+        "1930"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "How many American service members have died in all U.S. military conflicts combined?",
+      "choices": [
+        "Approximately 500,000",
+        "Approximately 1.1 million",
+        "Approximately 2 million",
+        "Approximately 3 million"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which city was the first to manufacture artificial poppies in 1924 due to a shortage of natural ones?",
+      "choices": [
+        "Philadelphia, Pennsylvania",
+        "Pittsburgh, Pennsylvania",
+        "Boston, Massachusetts",
+        "Detroit, Michigan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What war originally prompted the creation of Memorial Day?",
+      "choices": [
+        "American Revolutionary War",
+        "War of 1812",
+        "American Civil War",
+        "Spanish-American War"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was Memorial Day first observed as a national holiday?",
+      "choices": [
+        "1865",
+        "1868",
+        "1872",
+        "1875"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which general is generally credited with founding Memorial Day?",
+      "choices": [
+        "Ulysses S. Grant",
+        "John A. Logan",
+        "Robert E. Lee",
+        "William Tecumseh Sherman"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What flower is traditionally worn or displayed on Memorial Day to honor fallen soldiers?",
+      "choices": [
+        "Roses",
+        "Lilies",
+        "Poppies",
+        "Daisies"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which poem by John McCrae inspired Americans to wear poppies in remembrance of war casualties?",
+      "choices": [
+        "The Raven",
+        "In Flanders Fields",
+        "O Captain! My Captain!",
+        "Drummer Boy of Shiloh"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of the largest national cemetery in the United States?",
+      "choices": [
+        "Arlington National Cemetery",
+        "Calverton National Cemetery",
+        "Golden Gate National Cemetery",
+        "Fort Sam Houston National Cemetery"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which New York city is known as the birthplace of Memorial Day?",
+      "choices": [
+        "Syracuse",
+        "Buffalo",
+        "Waterloo",
+        "Rochester"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous Washington D.C. monument was dedicated on Memorial Day?",
+      "choices": [
+        "Washington Monument",
+        "Lincoln Memorial",
+        "Jefferson Memorial",
+        "World War II Memorial"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Arlington National Cemetery was built on land that was formerly a plantation owned by whom?",
+      "choices": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Robert E. Lee",
+        "James Madison"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What war did the United States originally honor on the first Memorial Day?",
+      "choices": [
+        "American Revolutionary War",
+        "War of 1812",
+        "American Civil War",
+        "Spanish-American War"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year was the Tomb of the Unknown Soldier dedicated at Arlington National Cemetery?",
+      "choices": [
+        "1919",
+        "1921",
+        "1923",
+        "1925"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which U.S. president signed the National Moment of Remembrance Act in 2000?",
+      "choices": [
         "George H.W. Bush",
-        "Ronald Reagan"
+        "Bill Clinton",
+        "George W. Bush",
+        "Barack Obama"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What famous motorcycle rally occurs in Washington D.C. each Memorial Day weekend?",
+      "choices": [
+        "The Thunder Run",
+        "The Rolling Thunder Run",
+        "The Patriot Ride",
+        "The Freedom Rally"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Pennsylvania city hosts the oldest continuous Memorial Day parade in America?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Doylestown",
+        "Harrisburg"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What percentage of Americans travel by car during the Memorial Day weekend?",
+      "choices": [
+        "65%",
+        "76%",
+        "88%",
+        "95%"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was Memorial Day originally called before it became known by its current name?",
+      "choices": [
+        "Soldier's Day",
+        "Decoration Day",
+        "Remembrance Day",
+        "Veterans Day"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did the federal government officially designate the holiday as 'Memorial Day' rather than 'Decoration Day'?",
+      "choices": [
+        "1954",
+        "1967",
+        "1971",
+        "1978"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Civil War veteran senator fought to restore Memorial Day to May 30 and continued this advocacy until his death in 2012?",
+      "choices": [
+        "Daniel Inouye",
+        "John McCain",
+        "Strom Thurmond",
+        "Bob Dole"
       ],
       "correct": 0,
-      "category": "Memorial Day",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bill Clinton",
-        "verified": true,
-        "notes": "Signed December 28, 2000."
-      }
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the original name of the holiday now known as Memorial Day, which was first observed in 1868?",
+      "choices": [
+        "Soldiers' Day",
+        "Decoration Day",
+        "Veterans' Remembrance",
+        "Fallen Heroes Day"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pennsylvania city was the first to manufacture artificial poppy flowers in 1924 when natural poppies became scarce?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Harrisburg",
+        "Allentown"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who established the American Red Cross after serving as a battlefield nurse during the Civil War, earning the title 'Angel of the Battlefield'?",
+      "choices": [
+        "Dorothea Dix",
+        "Clara Barton",
+        "Sally Tompkins",
+        "Louisa May Alcott"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Before becoming the largest national cemetery, Arlington National Cemetery was a plantation owned by which Confederate general?",
+      "choices": [
+        "Braxton Bragg",
+        "Robert E. Lee",
+        "Joseph Johnston",
+        "James Longstreet"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what specific time does the National Moment of Remembrance occur each Memorial Day across the United States?",
+      "choices": [
+        "12:00 p.m. local time",
+        "1:00 p.m. local time",
+        "3:00 p.m. local time",
+        "Sunset local time"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which poem by John McCrae, published in 1915, directly inspired the tradition of wearing red poppies for Memorial Day?",
+      "choices": [
+        "The Soldier",
+        "In Flanders Fields",
+        "Futility",
+        "Anthem for Doomed Youth"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What annual biker rally held in Washington, D.C. on Memorial Day weekend aims to raise awareness for prisoners of war and missing soldiers?",
+      "choices": [
+        "Sturgis Run",
+        "Rolling Thunder Run",
+        "Freedom Ride",
+        "Veterans' Rally"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which state was Memorial Day first officially adopted as a state holiday before gaining federal recognition?",
+      "choices": [
+        "Ohio",
+        "Massachusetts",
+        "Michigan",
+        "New York"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which woman initiated the tradition of wearing red poppies as a memorial to fallen soldiers after World War I?",
+      "choices": [
+        "Helen Keller",
+        "Eleanor Roosevelt",
+        "Moina Michael",
+        "Anna Jarvis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Pennsylvania town hosts what is recognized as the oldest continuously held Memorial Day parade?",
+      "choices": [
+        "Gettysburg",
+        "Doylestown",
+        "Bethlehem",
+        "Valley Forge"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The original 1868 ceremony to decorate fallen soldiers' graves was organized by which Civil War veterans' organization?",
+      "choices": [
+        "Grand Army of the Republic",
+        "Republic Civil War Veterans' Organization",
+        "Union Veterans' League",
+        "Soldiers' Memorial Association"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What percentage increase in automobile-related fatalities typically occurs during Memorial Day weekend compared to other weekends?",
+      "choices": [
+        "6%",
+        "9%",
+        "12%",
+        "15%"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Approximately how many American military personnel have died in combat across all U.S. wars and conflicts through the 21st century?",
+      "choices": [
+        "850,000",
+        "1.1 million",
+        "1.5 million",
+        "2 million"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which auto racing event, traditionally held over Memorial Day weekend, has been run annually since 1911?",
+      "choices": [
+        "Daytona 500",
+        "Indianapolis 500",
+        "Coca-Cola 600",
+        "Brickyard 400"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Florida city became recognized as the top Memorial Day weekend travel destination among American tourists?",
+      "choices": [
+        "Miami",
+        "Tampa",
+        "Orlando",
+        "Key West"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In which ancient conflict did the Greeks practice one of the earliest known traditions of honoring fallen soldiers?",
+      "choices": [
+        "Greco-Persian Wars",
+        "Peloponnesian War",
+        "Trojan War",
+        "Macedonian Wars"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the formal name of the monument at Arlington National Cemetery that honors unidentified soldiers who died in service?",
+      "choices": [
+        "Monument to the Unknown",
+        "Tomb of the Unknown Soldier",
+        "Memorial to the Nameless",
+        "Eternal Flame Monument"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. President who served as a military general famously stated, 'I hate war as only a soldier who has lived it can'?",
+      "choices": [
+        "George Washington",
+        "Ulysses S. Grant",
+        "Dwight D. Eisenhower",
+        "George H.W. Bush"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did the federal government officially adopt the name 'Memorial Day' to replace 'Decoration Day'?",
+      "choices": [
+        "1954",
+        "1967",
+        "1971",
+        "1978"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which general's former plantation in Virginia became the location of Arlington National Cemetery?",
+      "choices": [
+        "Ulysses S. Grant",
+        "Robert E. Lee",
+        "Stonewall Jackson",
+        "Jefferson Davis"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the attendance figure for the first organized Memorial Day observance at Arlington National Cemetery in 1868?",
+      "choices": [
+        "Approximately 5,000",
+        "Approximately 20,000",
+        "Approximately 50,000",
+        "Approximately 100,000"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which poem by a Canadian poet inspired the widespread adoption of poppies as a memorial symbol following World War I?",
+      "choices": [
+        "'The Soldier' by Rupert Brooke",
+        "'In Flanders Fields' by John McCrae",
+        "'The Death-Bed' by Wilfred Owen",
+        "'War Poetry' by Siegfried Sassoon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In 1924, which industrial city became the first to manufacture artificial poppies when natural flowers became scarce?",
+      "choices": [
+        "Detroit, Michigan",
+        "Pittsburgh, Pennsylvania",
+        "Cleveland, Ohio",
+        "Chicago, Illinois"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Moina Michael, who popularized the red poppy tradition, was inspired by which poem when she made her famous pledge?",
+      "choices": [
+        "'In Flanders Fields'",
+        "'The Poppy'",
+        "'Flowers of War'",
+        "'Red Remembrance'"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What military bugle composition, standardized for all U.S. military funerals and memorial services, was originally composed in 1862?",
+      "choices": [
+        "Reveille",
+        "Taps",
+        "Last Post",
+        "The Last Farewell"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which organization, founded in 1867, was the first to formally call for a national day to honor fallen soldiers by decorating their graves?",
+      "choices": [
+        "Grand Army of the Republic",
+        "Union Army Veterans Association",
+        "National Civil War Memorial Fund",
+        "American Legion"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "On what specific date was the Tomb of the Unknown Soldier dedicated at Arlington National Cemetery?",
+      "choices": [
+        "November 11, 1920",
+        "November 11, 1921",
+        "May 30, 1921",
+        "May 30, 1922"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which New York city is officially recognized as the birthplace of Memorial Day due to its 1866 observance?",
+      "choices": [
+        "Waterloo",
+        "Gettysburg",
+        "New York City",
+        "Buffalo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The Veterans of Foreign Wars organization runs which fundraising program that distributes poppy pins and supports veterans?",
+      "choices": [
+        "The Poppy Fund",
+        "The Buddy Poppy Program",
+        "The Veteran's Flower Initiative",
+        "The Memorial Poppy Campaign"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "At what specific time each Memorial Day does the National Moment of Remembrance officially take place across the United States?",
+      "choices": [
+        "12:00 p.m. (noon)",
+        "2:00 p.m.",
+        "3:00 p.m.",
+        "5:00 p.m."
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which southern state was the first to officially commemorate Memorial Day as a state holiday following the Civil War?",
+      "choices": [
+        "Mississippi",
+        "Virginia",
+        "Georgia",
+        "South Carolina"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "General John A. Logan, credited as the founder of Memorial Day, issued his famous proclamation in what year?",
+      "choices": [
+        "1866",
+        "1867",
+        "1868",
+        "1869"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which U.S. president formally designated the last Monday in May as Memorial Day through federal legislation?",
+      "choices": [
+        "Lyndon B. Johnson",
+        "Richard Nixon",
+        "Dwight D. Eisenhower",
+        "John F. Kennedy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which American city is officially recognized as the birthplace of Memorial Day?",
+      "choices": [
+        "Arlington, Virginia",
+        "Waterloo, New York",
+        "Richmond, Virginia",
+        "Washington, D.C."
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did the federal government officially adopt the name 'Memorial Day' for the holiday?",
+      "choices": [
+        "1954",
+        "1967",
+        "1971",
+        "1888"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which organization first called for decorating the shrines of fallen soldiers on May 30, 1868?",
+      "choices": [
+        "American Legion",
+        "Veterans of Foreign Wars",
+        "Grand Army of the Republic",
+        "Sons of Union Veterans"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Arlington National Cemetery before it became a military burial ground?",
+      "choices": [
+        "A federal courthouse",
+        "Robert E. Lee's plantation",
+        "A Civil War hospital",
+        "A former prison camp"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous wartime poem inspired the tradition of wearing and planting red poppies on Memorial Day?",
+      "choices": [
+        "The Charge of the Light Brigade",
+        "In Flanders Fields",
+        "For the Fallen",
+        "The Soldier"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many Americans died during the Civil War, the conflict Memorial Day originally honored?",
+      "choices": [
+        "About 360,000",
+        "About 480,000",
+        "About 620,000",
+        "About 750,000"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "At what time each Memorial Day does the National Moment of Remembrance take place?",
+      "choices": [
+        "12:00 p.m. local time",
+        "1:00 p.m. local time",
+        "3:00 p.m. local time",
+        "5:00 p.m. local time"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which organization is responsible for the Buddy Poppy program that funds veterans and their families?",
+      "choices": [
+        "American Veterans Committee",
+        "Veterans of Foreign Wars",
+        "Military Order of the Purple Heart",
+        "Disabled American Veterans"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does the Rolling Thunder motorcycle run primarily aim to raise awareness about?",
+      "choices": [
+        "Vehicle safety during holiday weekends",
+        "Prisoners of war and missing-in-action soldiers",
+        "Donations for military hospitals",
+        "Memorial Day parade participation"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which southern state was the first to officially commemorate what would become the federal Memorial Day holiday?",
+      "choices": [
+        "Georgia",
+        "Mississippi",
+        "South Carolina",
+        "Virginia"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "According to studies, by what percentage do automobile-related deaths increase over Memorial Day weekend compared to other weekends?",
+      "choices": [
+        "Approximately 6%",
+        "Approximately 12%",
+        "Approximately 18%",
+        "Approximately 25%"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. president and World War II veteran famously said: 'I hate war as only a soldier who has lived it can'?",
+      "choices": [
+        "John F. Kennedy",
+        "Harry Truman",
+        "Dwight Eisenhower",
+        "George H.W. Bush"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Early Memorial Day speeches during the Reconstruction era often emphasized what principle?",
+      "choices": [
+        "Military superiority",
+        "Sectional reconciliation",
+        "Industrial progress",
+        "Westward expansion"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which memorial on the Washington D.C. National Mall was the first to be inaugurated?",
+      "choices": [
+        "Lincoln Memorial",
+        "World War II Memorial",
+        "Vietnam Veterans Memorial",
+        "Korean War Veterans Memorial"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "For approximately how many years after the Civil War did Memorial Day primarily honor only Civil War soldiers?",
+      "choices": [
+        "About 50 years",
+        "About 100 years",
+        "About 75 years",
+        "About 125 years"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which senator and decorated World War II veteran fought until his death in 2012 to restore Memorial Day to May 30?",
+      "choices": [
+        "Daniel Inouye",
+        "John McCain",
+        "Bob Dole",
+        "John Warner"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What two items are most traditionally used by Americans to remember fallen soldiers on Memorial Day?",
+      "choices": [
+        "Wreaths and ribbons",
+        "Flags and flowers",
+        "Candles and bells",
+        "Uniforms and medals"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Many Americans regard Memorial Day weekend as marking the beginning of which season?",
+      "choices": [
+        "Spring",
+        "Fall",
+        "Summer",
+        "Winter"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many hot dogs do Americans consume between Memorial Day and Labor Day?",
+      "choices": [
+        "3 billion",
+        "5 billion",
+        "7 billion",
+        "9 billion"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Civil War general's former plantation became the grounds of Arlington National Cemetery?",
+      "choices": [
+        "Ulysses S. Grant",
+        "Robert E. Lee",
+        "William Tecumseh Sherman",
+        "George Pickett"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was Memorial Day originally called before receiving its current name in 1967?",
+      "choices": [
+        "Soldiers Day",
+        "Veterans Day",
+        "Decoration Day",
+        "Fallen Heroes Day"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which organization is generally credited with founding Memorial Day as a national observance?",
+      "choices": [
+        "American Legion",
+        "Veterans of Foreign Wars",
+        "Grand Army of the Republic",
+        "Sons of Union Veterans"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What city is officially recognized as the birthplace of Memorial Day?",
+      "choices": [
+        "Washington, D.C.",
+        "Gettysburg, Pennsylvania",
+        "Waterloo, New York",
+        "Richmond, Virginia"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which New York city hosts the oldest continuously held Memorial Day parade in the United States?",
+      "choices": [
+        "Buffalo",
+        "Doylestown",
+        "Syracuse",
+        "Ithaca"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "President Dwight D. Eisenhower, who expressed deep anti-war sentiments, served primarily in which conflict?",
+      "choices": [
+        "Spanish-American War",
+        "World War I",
+        "World War II",
+        "Korean War"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which woman served as a Civil War battlefield nurse and later founded the American Red Cross?",
+      "choices": [
+        "Dorothea Dix",
+        "Clara Barton",
+        "Louisa May Alcott",
+        "Sally Tompkins"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who initiated the tradition of wearing red poppies as a symbol of remembrance on Memorial Day?",
+      "choices": [
+        "Clara Barton",
+        "John A. Logan",
+        "Moina Michael",
+        "George M. Cohan"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year was the Tomb of the Unknowns formally dedicated at Arlington National Cemetery?",
+      "choices": [
+        "1918",
+        "1921",
+        "1926",
+        "1930"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What bugle call is played at all military funerals and memorial services nationwide?",
+      "choices": [
+        "Reveille",
+        "First Call",
+        "Taps",
+        "Assembly"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which major motorsports event is traditionally held on Memorial Day weekend?",
+      "choices": [
+        "Daytona 500",
+        "Indianapolis 500",
+        "Coca-Cola 600",
+        "Brickyard 400"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What percentage increase in automobile-related casualties occurs during the Memorial Day weekend period?",
+      "choices": [
+        "5%",
+        "8%",
+        "12%",
+        "18%"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which city manufactured the first artificial poppies in 1924 when natural supplies were scarce?",
+      "choices": [
+        "Philadelphia",
+        "Pittsburgh",
+        "Detroit",
+        "Cleveland"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Approximately how many Americans have died in all military conflicts in which the United States has participated?",
+      "choices": [
+        "500,000",
+        "750,000",
+        "1.1 million",
+        "2 million"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which Pennsylvania city was the oldest continuously held Memorial Day parade first established?",
+      "choices": [
+        "Philadelphia",
+        "Doylestown",
+        "Pittsburgh",
+        "Gettysburg"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }

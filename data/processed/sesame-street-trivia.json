@@ -1,249 +1,2295 @@
 {
   "slug": "sesame-street-trivia",
   "name": "Sesame Street",
-  "description": "Big Bird, Elmo, Oscar, Cookie Monster — the longest-running children's show on TV.",
-  "processedAt": "2026-05-09T00:00:00Z",
-  "status": "pilot",
+  "processedAt": "2026-05-24T20:43:43.716Z",
   "questions": [
     {
       "q": "What color is Elmo's fur?",
-      "choices": ["Blue", "Red", "Yellow", "Green"],
-      "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Red",
-        "verified": true,
-        "notes": ""
-      }
+      "choices": [
+        "Red",
+        "Orange",
+        "Pink",
+        "Blue"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
-      "q": "Which Muppet lives in a trash can on Sesame Street?",
-      "choices": ["Telly Monster", "Cookie Monster", "Oscar the Grouch", "Grover"],
+      "q": "Which grumpy Muppet lives in a trash can?",
+      "choices": [
+        "Elmo",
+        "Bert",
+        "Oscar the Grouch",
+        "Cookie Monster"
+      ],
       "correct": 2,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Oscar the Grouch",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Muppet famously chants 'C is for Cookie'?",
+      "choices": [
+        "Cookie Monster",
+        "Big Bird",
+        "Grover",
+        "Elmo"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What kind of bird is Big Bird?",
+      "choices": [
+        "A canary",
+        "An ostrich-like yellow bird",
+        "A flamingo",
+        "An eagle"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the Count's signature obsession on Sesame Street?",
+      "choices": [
+        "Counting",
+        "Singing",
+        "Dancing",
+        "Cooking"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Big Bird's imaginary (later real) furry friend who's a woolly creature?",
+      "choices": [
+        "Snuffleupagus (Snuffy)",
+        "Telly Monster",
+        "Grover",
+        "Herry Monster"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Grover, the lovable, blue-furred Muppet?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Yellow",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Ernie's rubber bath toy that he frequently sings about?",
+      "choices": [
+        "Rubber Duckie",
+        "Bathtime Billy",
+        "Squeaky Toy",
+        "Water Buddy"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Elmo, one of the most recognizable characters on Sesame Street?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Pink",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Sesame Street character is known for his love of counting?",
+      "choices": [
+        "Big Bird",
+        "The Count",
+        "Bert",
+        "Oscar the Grouch"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "What color is Oscar the Grouch?",
-      "choices": ["Brown", "Orange", "Green", "Gray"],
+      "choices": [
+        "Brown",
+        "Yellow",
+        "Green",
+        "Gray"
+      ],
       "correct": 2,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Green",
-        "verified": true,
-        "notes": "Oscar was actually orange in Sesame Street's first season; switched to green in Season 2."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the primary occupation of Grover besides being a superhero?",
+      "choices": [
+        "Teacher",
+        "Waiter",
+        "Mailman",
+        "Chef"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What musical instrument does Bert play?",
+      "choices": [
+        "Trumpet",
+        "Violin",
+        "Oboe",
+        "Clarinet"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Big Bird's elderly nest maid?",
+      "choices": [
+        "Granny Bird",
+        "Aunt Bird",
+        "Miss Feathers",
+        "Mrs. Nest"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of Big Bird's teddy bear?",
-      "choices": ["Snuggles", "Buddy", "Radar", "Boo"],
-      "correct": 2,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Radar",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "A persistent urban legend (denied by Sesame Workshop) claims Bert and Ernie were named after which two characters from 'It's a Wonderful Life'?",
-      "choices": ["The angel Clarence and Uncle Billy", "Bert the cop and Ernie the cab driver", "George Bailey and Mr. Potter", "Sam Wainwright and Harry Bailey"],
+      "choices": [
+        "Snuffy",
+        "Radar",
+        "Fluffy",
+        "Woody"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bert the cop and Ernie the cab driver",
-        "verified": true,
-        "notes": "audit-corrected 2026-05-09: framed as urban legend explicitly. Head writer Jon Stone said the names came from looking at the prototype puppets; Sesame Workshop and Jerry Juhl have denied the It's a Wonderful Life connection, though the matching names persist as folklore."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Sesame Street character is famous for his love of cookies?",
-      "choices": ["Cookie Monster", "Grover", "Elmo", "Bert"],
+      "q": "Which Sesame Street character teaches dance lessons?",
+      "choices": [
+        "Abby Cadabby",
+        "Zoe",
+        "Rosita",
+        "Prairie Dawn"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Super Grover?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Orange",
+        "Purple"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Cookie Monster's mother call herself?",
+      "choices": [
+        "Mama Cookie",
+        "Muncha Lisa",
+        "Cookie Mama",
+        "Mrs. Monster"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What pet does Bert have?",
+      "choices": [
+        "A pigeon named Bernice",
+        "A cat named Bert's Friend",
+        "A parrot named Pete",
+        "A chicken named Clara"
+      ],
       "correct": 0,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Cookie Monster",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What color is Grover?",
-      "choices": ["Red", "Blue", "Purple", "Yellow"],
+      "q": "What is Zoe's favorite toy?",
+      "choices": [
+        "Rubber Duckie",
+        "Mimi",
+        "Toy Telephone",
+        "Blocks"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Blue",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which musical instrument does Hoots the Owl play?",
+      "choices": [
+        "Trumpet",
+        "Saxophone",
+        "Trombone",
+        "Flute"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the original goal of creating Sesame Street?",
+      "choices": [
+        "To entertain preschoolers with comedy",
+        "To teach children about animals",
+        "To prepare children for school, especially those from low-income families",
+        "To promote toy sales"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the puppeteer and creator of the Muppet characters?",
+      "choices": [
+        "Frank Oz",
+        "Jim Henson",
+        "Jerry Nelson",
+        "Kevin Clash"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character on Sesame Street has a lamb named Ovejita?",
+      "choices": [
+        "Big Bird",
+        "Murray",
+        "Gordon",
+        "Alan"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Big Bird's cousin's name?",
+      "choices": [
+        "Little Bird",
+        "Abelardo",
+        "Birdie",
+        "Small Bird"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What languages does Rosita speak on Sesame Street?",
+      "choices": [
+        "Spanish only",
+        "English and French",
+        "English and Spanish",
+        "Spanish and Portuguese"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who operates the Sesame Street News Flash segments?",
+      "choices": [
+        "Big Bird",
+        "Kermit the Frog",
+        "The Count",
+        "Grover"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
     },
     {
       "q": "What is the name of Oscar the Grouch's pet worm?",
-      "choices": ["Wormy", "Slimey", "Squiggle", "Doodle"],
-      "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Slimey",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "What is the name of Bert's pet pigeon?",
-      "choices": ["Bernice", "Beatrice", "Birdie", "Petunia"],
+      "choices": [
+        "Slimey",
+        "Wormy",
+        "Squirm",
+        "Grime"
+      ],
       "correct": 0,
-      "category": "Sesame Street",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Bernice",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "What is the name of Elmo's pet goldfish?",
-      "choices": ["Bubbles", "Goldie", "Dorothy", "Fishie"],
-      "correct": 2,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Dorothy",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "In what year did Sesame Street first air?",
-      "choices": ["1965", "1969", "1972", "1975"],
+      "q": "What color is Zoe's skin on Sesame Street?",
+      "choices": [
+        "Red",
+        "Orange",
+        "Yellow",
+        "Pink"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "1969",
-        "verified": true,
-        "notes": "Premiered November 10, 1969 on PBS."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who co-created Sesame Street?",
-      "choices": ["Jim Henson and Frank Oz", "Joan Ganz Cooney and Lloyd Morrisett", "Fred Rogers and Frank Capra", "Walt Disney and Roy Disney"],
+      "q": "Which character is famous for always carrying a rubber ducky?",
+      "choices": [
+        "Bert",
+        "Ernie",
+        "Elmo",
+        "Cookie Monster"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Joan Ganz Cooney and Lloyd Morrisett",
-        "verified": true,
-        "notes": "Cooney was a TV producer; Morrisett was a Carnegie Corp. executive who co-founded the Children's Television Workshop."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Who designed and originally puppeteered the Muppets?",
-      "choices": ["Jim Henson", "Frank Oz", "Caroll Spinney", "Kevin Clash"],
+      "q": "Who is the author of 'The Monster at the End of This Book' on Sesame Street?",
+      "choices": [
+        "Cookie Monster",
+        "Super Grover",
+        "Elmo",
+        "The Count"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What magical object does Abby Cadabby use to cast spells?",
+      "choices": [
+        "A wand",
+        "A hat",
+        "A crystal ball",
+        "A book"
+      ],
       "correct": 0,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Jim Henson",
-        "verified": true,
-        "notes": ""
-      }
-    },
-    {
-      "q": "Which puppeteer played Big Bird (and Oscar the Grouch) for nearly 50 years?",
-      "choices": ["Frank Oz", "Jim Henson", "Caroll Spinney", "Kevin Clash"],
-      "correct": 2,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Caroll Spinney until 2018, then Matt Vogel",
-        "verified": true,
-        "notes": "Spinney played both characters from 1969 to 2018."
-      }
-    },
-    {
-      "q": "What is Big Bird's best friend's full name?",
-      "choices": ["Mr. Snuffleupagus", "Mr. Mammoth", "Mr. Snufflewell", "Mr. Tufflesnuff"],
-      "correct": 0,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Snuffy",
-        "verified": true,
-        "notes": "Aloysius Snuffleupagus, called 'Snuffy' for short. A woolly-mammoth-like creature."
-      }
+      "difficulty": "easy"
     },
     {
       "q": "What instrument does Hoots the Owl play?",
-      "choices": ["Trumpet", "Saxophone", "Harmonica", "Guitar"],
+      "choices": [
+        "Trumpet",
+        "Saxophone",
+        "Clarinet",
+        "Flute"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "hard",
-      "source": {
-        "original_a": "Saxophone",
-        "verified": true,
-        "notes": ""
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which Muppet narrates 'The Monster at the End of This Book'?",
-      "choices": ["Cookie Monster", "Telly", "Elmo", "Grover"],
-      "correct": 3,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "Grover",
-        "verified": true,
-        "notes": "Loveable, furry old Grover begs the reader not to turn the page — only to find himself at the end."
-      }
-    },
-    {
-      "q": "What is Ernie's most beloved bath-time song?",
-      "choices": ["Splash, Splash", "Rubber Duckie", "Sing", "Bath Time Boogie"],
+      "q": "What kind of animal is Mr. Snuffleupagus?",
+      "choices": [
+        "An elephant",
+        "A woolly mammoth",
+        "A bear",
+        "A giraffe"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "\"Rubber Duckie\"",
-        "verified": true,
-        "notes": "Released 1970; reached #16 on the Billboard Hot 100."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which two languages does Rosita speak on Sesame Street?",
-      "choices": ["English and French", "English and Spanish", "English and Italian", "English and Portuguese"],
+      "q": "Which Muppet character lives in a garbage can?",
+      "choices": [
+        "Bert",
+        "Oscar the Grouch",
+        "Telly Monster",
+        "Ernie"
+      ],
       "correct": 1,
-      "category": "Sesame Street",
-      "difficulty": "medium",
-      "source": {
-        "original_a": "English and Spanish",
-        "verified": true,
-        "notes": "Full name: Rosita, La Monstrua de las Cuevas."
-      }
+      "difficulty": "easy"
     },
     {
-      "q": "Which character is famous for counting everything in sight, often punctuated with thunderclaps?",
-      "choices": ["Count von Count", "Telly Monster", "Bert", "Snuffy"],
+      "q": "What color is Abby Cadabby's hair?",
+      "choices": [
+        "Purple",
+        "Blue",
+        "Pink",
+        "Red"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who lives in a castle on Sesame Street?",
+      "choices": [
+        "Big Bird",
+        "The Count",
+        "Oscar the Grouch",
+        "Cookie Monster"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Telly Monster's favorite shape?",
+      "choices": [
+        "Square",
+        "Circle",
+        "Triangle",
+        "Rectangle"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Bert's skin?",
+      "choices": [
+        "Orange",
+        "Yellow",
+        "Brown",
+        "Blue"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who are Bert and Ernie named after?",
+      "choices": [
+        "Real people from New York",
+        "Characters from 'It's a Wonderful Life'",
+        "The show's producers",
+        "Famous comedians"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What are the Yip Yips also known as?",
+      "choices": [
+        "The Martians",
+        "The Visitors",
+        "The Space Travelers",
+        "The Aliens"
+      ],
       "correct": 0,
-      "category": "Sesame Street",
-      "difficulty": "easy",
-      "source": {
-        "original_a": "Counting",
-        "verified": true,
-        "notes": "A vampire-themed Muppet whose voice and laugh ('Ah-ah-ah!') parody Bela Lugosi's Dracula."
-      }
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Bert and Ernie's pigeon?",
+      "choices": [
+        "Tweety",
+        "Bernice",
+        "Birdie",
+        "Squab"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What does Super Grover wear on his head?",
+      "choices": [
+        "A crown",
+        "A knight's helmet",
+        "A cowboy hat",
+        "A beanie"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Big Bird's cousin?",
+      "choices": [
+        "Tweety",
+        "Abelardo",
+        "Snuffy",
+        "Radar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What was the original purpose of creating Sesame Street?",
+      "choices": [
+        "To entertain children",
+        "To help children prepare for school, especially low-income families",
+        "To teach advanced mathematics",
+        "To promote specific toys"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Big Bird's nest maid?",
+      "choices": [
+        "Maria",
+        "Granny Bird",
+        "Susan",
+        "Elmo's Mom"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Elmo's pet goldfish?",
+      "choices": [
+        "Dorothy",
+        "Nemo",
+        "Bubbles",
+        "Goldie"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which character is famous for his love of eating cookies?",
+      "choices": [
+        "Oscar the Grouch",
+        "Cookie Monster",
+        "Big Bird",
+        "Bert"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Big Bird?",
+      "choices": [
+        "Orange",
+        "White",
+        "Yellow",
+        "Brown"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Count von Count's primary passion?",
+      "choices": [
+        "Telling jokes",
+        "Counting",
+        "Playing music",
+        "Cooking"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What toy does Ernie frequently play with in his bathtub?",
+      "choices": [
+        "A toy boat",
+        "A rubber duckie",
+        "A plastic fish",
+        "A soap bubble maker"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Elmo's best friend on Sesame Street?",
+      "choices": [
+        "Big Bird",
+        "Cookie Monster",
+        "Zoe",
+        "Bert"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What magical object does Abby Cadabby carry?",
+      "choices": [
+        "A magical mirror",
+        "A wand",
+        "A crystal ball",
+        "A spellbook"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Zoe's skin?",
+      "choices": [
+        "Yellow",
+        "Red",
+        "Orange",
+        "Purple"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is the shopkeeper that runs the store on Sesame Street?",
+      "choices": [
+        "Gordon",
+        "Alan",
+        "Big Bird",
+        "Oscar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Big Bird's species?",
+      "choices": [
+        "An eagle",
+        "An ostrich",
+        "A canary-like bird",
+        "A parrot"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Oscar the Grouch's pet elephant?",
+      "choices": [
+        "Elmo",
+        "Fluffy",
+        "Snuffy",
+        "Radar"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who are the creators of Sesame Street?",
+      "choices": [
+        "Jim Henson and Frank Oz",
+        "Joan Ganz Cooney and Lloyd Morrisett",
+        "Charles Schulz and Bill Watterson",
+        "Stan Lee and Jack Kirby"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Rosita's full name?",
+      "choices": [
+        "Rosita del Campo",
+        "Rosita Maria",
+        "Rosita, La Monstrua de las Cuevas",
+        "Rosita Verde"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What toy does Zoe's character particularly love?",
+      "choices": [
+        "A rubber ball",
+        "A doll named Mimi",
+        "A music box",
+        "A spinning top"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who is Big Bird's grandmother figure on Sesame Street?",
+      "choices": [
+        "Maria",
+        "Susan",
+        "Granny Bird",
+        "Linda"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which Sesame Street character lives inside a garbage can?",
+      "choices": [
+        "Bert",
+        "Oscar the Grouch",
+        "Big Bird",
+        "Telly Monster"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What color is Elmo?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Yellow",
+        "Pink"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who runs the Fix-It Shop on Sesame Street?",
+      "choices": [
+        "Gordon and Susan",
+        "Maria and Luis",
+        "Bob and Linda",
+        "David and Maria"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Ernie's rubber toy duck called?",
+      "choices": [
+        "Ducky",
+        "Rubber Duckie",
+        "Bath Duck",
+        "Mr. Quackers"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What shape does Telly Monster have as his favorite?",
+      "choices": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Star"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Zoe's favorite doll?",
+      "choices": [
+        "Rosita",
+        "Mimi",
+        "Susan",
+        "Betty"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Which language does Rosita speak on Sesame Street?",
+      "choices": [
+        "Spanish only",
+        "English only",
+        "English and Spanish",
+        "French and English"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "Who created the Sesame Street Muppets?",
+      "choices": [
+        "Joan Ganz Cooney",
+        "Lloyd Morrisett",
+        "Jim Henson",
+        "Frank Oz"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "In what year did Sesame Street first premiere on television?",
+      "choices": [
+        "1967",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Cookie Monster's favorite food?",
+      "choices": [
+        "Pizza",
+        "Bananas",
+        "Cookies",
+        "Ice cream"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the name of Elmo's pet goldfish on Sesame Street?",
+      "choices": [
+        "Dorothy",
+        "Bubbles",
+        "Goldie",
+        "Finny"
+      ],
+      "correct": 0,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is Cookie Monster's actual real name, revealed on the show?",
+      "choices": [
+        "Sid Monster",
+        "Sammy Cookie",
+        "Sid (Sidney)",
+        "He has no other name"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Cookie Monster was famously rebranded in 2006 to acknowledge what?",
+      "choices": [
+        "Cookies are a 'sometimes food'",
+        "Cookies are healthy",
+        "He was switching to vegetables only",
+        "He was retiring"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sesame Street song asks the iconic question 'Can you tell me how to get…'?",
+      "choices": [
+        "'Sunny Day'",
+        "'Sing a Song'",
+        "'Rubber Duckie'",
+        "'C is for Cookie'"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which 2017 Sesame Street character was introduced as the show's first character with autism?",
+      "choices": [
+        "Julia",
+        "Abby Cadabby",
+        "Zoe",
+        "Rudy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Jim Henson Muppet performer originally provided the voice for Big Bird from the show's inception until 2018?",
+      "choices": [
+        "Frank Oz",
+        "Kevin Clash",
+        "Caroll Spinney",
+        "Jerry Nelson"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the residential brownstone building's proprietor who appeared on Sesame Street for over 40 years until 1982?",
+      "choices": [
+        "Mr. Hooper",
+        "Mr. Snuffleupagus",
+        "Big Bird's caretaker",
+        "The Fix-It Shop owner"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Sesame Street format, which educational institution or model directly inspired the show's curriculum structure?",
+      "choices": [
+        "Montessori schools",
+        "Kindergarten and early childhood education research",
+        "Sesame Street's own research division",
+        "Head Start programs exclusively"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character is defined as Mr. Snuffleupagus's younger sibling, introduced in 1985?",
+      "choices": [
+        "Snuffy Jr.",
+        "Alice",
+        "Baby Snuffleupagus",
+        "Little Snuff"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary occupation of Luis, one of the main human characters on Sesame Street?",
+      "choices": [
+        "Postal worker",
+        "Fix-It Shop owner",
+        "Teacher",
+        "Store clerk"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sesame Street Muppet character is known for speaking in a distinctly high-pitched voice and frequently expressing anxiety about triangles?",
+      "choices": [
+        "Bert",
+        "Telly Monster",
+        "Little Bird",
+        "Herry Monster"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what decade was Rosita, the bilingual Muppet character, first introduced to Sesame Street?",
+      "choices": [
+        "1970s",
+        "1980s",
+        "1990s",
+        "2000s"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Oscar the Grouch's can, which serves as his primary residence on Sesame Street?",
+      "choices": [
+        "The Grouch Mansion",
+        "Trash Can Number 1",
+        "It is never specifically named",
+        "The Grouch Abode"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrayed the character Gordon, one of the original human residents of Sesame Street, from 1969 to 1972?",
+      "choices": [
+        "Matt Robinson",
+        "Jon Stone",
+        "Will Lee",
+        "Bob McGrath"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the official target demographic age range for Sesame Street's original 1969 premiere?",
+      "choices": [
+        "Ages 2-4",
+        "Ages 3-5",
+        "Ages 4-6",
+        "Ages 5-8"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which organization, alongside Lloyd Morrisett, co-created Sesame Street as an educational television initiative?",
+      "choices": [
+        "The Ford Foundation",
+        "Children's Television Workshop",
+        "The Carnegie Corporation",
+        "The Department of Education"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What musical instrument does the Sesame Street character Hoots primarily perform on?",
+      "choices": [
+        "Clarinet",
+        "Trumpet",
+        "Saxophone",
+        "Trombone"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the extended Sesame Street universe, what is the name of Big Bird's pet goldfish?",
+      "choices": [
+        "Goldie",
+        "Dorothy",
+        "Bubbles",
+        "Finny"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sesame Street character is characterized by an obsessive love of the letter 'C' and frequently attempts to eat educational materials?",
+      "choices": [
+        "Abby Cadabby",
+        "Cookie Monster",
+        "Bert",
+        "Grover"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Elmo's World premiere as a spin-off segment within the main Sesame Street program?",
+      "choices": [
+        "1994",
+        "1995",
+        "1996",
+        "1997"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which longtime Sesame Street character transitioned from being performed by Frank Oz to Kevin Clash in 1984?",
+      "choices": [
+        "Bert",
+        "Ernie",
+        "Elmo",
+        "Grover"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary setting where most of the human characters on Sesame Street reside and conduct their daily activities?",
+      "choices": [
+        "A suburban neighborhood",
+        "A brownstone block in an urban setting",
+        "A fictional city center",
+        "A rural farmland community"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sesame Street character is known for his obsessive counting behavior and Transylvanian accent?",
+      "choices": [
+        "The Count",
+        "Dracula",
+        "Count Snuffleupagus",
+        "The Countess"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original Sesame Street curriculum design, which of the following was NOT a primary educational objective?",
+      "choices": [
+        "Preparation for academic skills",
+        "Development of social awareness and diversity appreciation",
+        "Advanced mathematics beyond basic numeracy",
+        "Emotional and social development"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which puppeteer took over the role of Big Bird after Caroll Spinney's retirement in 2018?",
+      "choices": [
+        "Kevin Clash",
+        "Matt Vogel",
+        "Ryan Dillon",
+        "Stephanie D'Abruzzo"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Bert's rubber-obsessed pigeon?",
+      "choices": [
+        "Beatrice",
+        "Bernice",
+        "Beatrix",
+        "Binky"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrayed Mr. Hooper, the original owner of Hooper's Store, until his death in 1982?",
+      "choices": [
+        "Will Lee",
+        "Frank Oz",
+        "Jim Henson",
+        "Jerry Nelson"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What specific film from the 1940s inspired the names of Bert and Ernie?",
+      "choices": [
+        "Casablanca",
+        "It's a Wonderful Life",
+        "Singin' in the Rain",
+        "The Maltese Falcon"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what decade was Kevin Clash replaced as the voice of Elmo?",
+      "choices": [
+        "2000s",
+        "2010s",
+        "1990s",
+        "2020s"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What type of mythical creature is Abby Cadabby on Sesame Street?",
+      "choices": [
+        "Fairy",
+        "Witch",
+        "Pixie",
+        "Sprite"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who co-created Sesame Street alongside Joan Ganz Cooney?",
+      "choices": [
+        "Jim Henson",
+        "Lloyd Morrisett",
+        "Frank Oz",
+        "Jon Stone"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the anatomical classification of Mr. Snuffleupagus?",
+      "choices": [
+        "Woolly mammoth",
+        "Elephant",
+        "Moose",
+        "Buffalo"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which human character has appeared on Sesame Street continuously since the show's first episode?",
+      "choices": [
+        "Gordon",
+        "Maria",
+        "Susan",
+        "Luis"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the title of the picture book written and narrated by Grover that features metafictional elements?",
+      "choices": [
+        "Grover's Adventures",
+        "The Monster at the End of This Book",
+        "Super Grover's Tale",
+        "Grover and the Magic Door"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Ryan Dillon assume the role of Elmo's performer from Kevin Clash?",
+      "choices": [
+        "2010",
+        "2012",
+        "2014",
+        "2011"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Big Bird's cousin who occasionally visits from South America?",
+      "choices": [
+        "Alberto",
+        "Abelardo",
+        "Antonio",
+        "Armando"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which famous puppeteer and television producer created the Muppets that appear on Sesame Street?",
+      "choices": [
+        "Frank Oz",
+        "Jim Henson",
+        "Richard Hunt",
+        "Steve Whitmire"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Cookie Monster's mother's name in Sesame Street canon?",
+      "choices": [
+        "Martha Monster",
+        "Muncha Lisa",
+        "Molly Monster",
+        "Michelle Monster"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What occupation does Grover pursue, aside from his superhero activities?",
+      "choices": [
+        "Teacher",
+        "Waiter",
+        "Shopkeeper",
+        "Bus driver"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary color of Abby Cadabby's hair?",
+      "choices": [
+        "Purple",
+        "Pink",
+        "Blue",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What bilingual approach does Rosita employ in her communication on Sesame Street?",
+      "choices": [
+        "French and English",
+        "Spanish and English",
+        "Mandarin and English",
+        "Portuguese and English"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which long-time cast member took over as the owner of Hooper's Store after Will Lee's passing?",
+      "choices": [
+        "Gordon",
+        "Alan",
+        "David",
+        "Chris"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What cherished object does Ernie frequently feature in his most iconic musical number?",
+      "choices": [
+        "A toy boat",
+        "A rubber duckie",
+        "A bath towel",
+        "A goldfish named Dorothy"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the original 1969 pilot episode of Sesame Street, which character was notably absent from the cast?",
+      "choices": [
+        "Big Bird",
+        "Oscar the Grouch",
+        "Cookie Monster",
+        "Elmo"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Fix-It Shop owner who works alongside Maria?",
+      "choices": [
+        "Luis",
+        "Gordon",
+        "David",
+        "Alan"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What breed of bird is Big Bird based on, according to the show's creators?",
+      "choices": [
+        "Ostrich",
+        "Emu",
+        "Canary",
+        "Golden Eagle"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Bert's pet pigeon's name?",
+      "choices": [
+        "Bertha",
+        "Bernice",
+        "Beatrice",
+        "Bernardine"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Muppet character is known for having an obsessive love of the number 3?",
+      "choices": [
+        "The Count",
+        "Telly Monster",
+        "Grover",
+        "Abby Cadabby"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of the Martian characters who frequently visit Sesame Street?",
+      "choices": [
+        "The Zips",
+        "The Yip Yips",
+        "The Zorks",
+        "The Bleeps"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which actor portrayed Gordon, the first main human character on Sesame Street?",
+      "choices": [
+        "Roscoe Orman",
+        "Matt Robinson",
+        "Jon Stone",
+        "Lloyd Morrisett"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the full name of the character known as Rosita?",
+      "choices": [
+        "Rosita, the Cave Monster",
+        "Rosita, La Monstrua de las Cuevas",
+        "Rosita, the Spanish Monster",
+        "Rosita, the Bilingual Beast"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In Elmo's World, what is the name of Elmo's pet goldfish?",
+      "choices": [
+        "Goldie",
+        "Dorothy",
+        "Finny",
+        "Bubbles"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which musical instrument does Bert famously play and love dearly?",
+      "choices": [
+        "Saxophone",
+        "Clarinet",
+        "Oboe",
+        "Bassoon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What color is Cookie Monster typically depicted as?",
+      "choices": [
+        "Gray",
+        "Brown",
+        "Blue",
+        "Black"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who took over as the voice of Elmo after Kevin Clash departed in 2012?",
+      "choices": [
+        "Ryan Dillon",
+        "Peter Linz",
+        "Stephanie D'Abruzzo",
+        "David Rudman"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the primary setting and geographic inspiration for Sesame Street's location?",
+      "choices": [
+        "Chicago neighborhoods",
+        "Urban areas in New York City",
+        "Los Angeles suburbs",
+        "Philadelphia streets"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character operates the Fix-It Shop and is known for his Spanish-speaking abilities?",
+      "choices": [
+        "Maria",
+        "Luis",
+        "Gordon",
+        "David"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is Telly Monster's favorite geometric shape?",
+      "choices": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Pentagon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What color is Oscar the Grouch's fur typically portrayed?",
+      "choices": [
+        "Brown",
+        "Yellow",
+        "Green",
+        "Orange"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What was the title of the first episode of Sesame Street to air in 1969?",
+      "choices": [
+        "\"Welcome to Sesame Street\"",
+        "\"Gordon Introduces Sally to Sesame Street\"",
+        "\"The First Day on the Street\"",
+        "\"Meet the Neighbors\""
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what type of establishment does Hooper's Store serve the Sesame Street community?",
+      "choices": [
+        "Bakery",
+        "General store and café",
+        "Bookshop",
+        "Hardware store"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Caroll Spinney retire from performing Big Bird after nearly 50 years with the character?",
+      "choices": [
+        "2016",
+        "2018",
+        "2019",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Bert and Ernie's pet pigeon?",
+      "choices": [
+        "Bernice",
+        "Beatrice",
+        "Berenice",
+        "Bianca"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which Sesame Street character is known for his obsession with collecting rubber ducks?",
+      "choices": [
+        "Bert",
+        "Big Bird",
+        "Ernie",
+        "Oscar the Grouch"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the full Spanish name of the bilingual Muppet character commonly known as Rosita?",
+      "choices": [
+        "Rosita del Bosque",
+        "Rosita, La Monstrua de las Cuevas",
+        "Rosita Flores",
+        "Rosita de la Calle"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In the classic Sesame Street sketch 'Muppet News Flash,' which character repeatedly failed to complete the lyrics of famous songs?",
+      "choices": [
+        "Rowlf the Dog",
+        "Don Music",
+        "Sweetums",
+        "Beauregard"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What geometric shape is Telly Monster's favorite and most obsessed with?",
+      "choices": [
+        "Circle",
+        "Square",
+        "Triangle",
+        "Pentagon"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Who succeeded Kevin Clash as the voice and puppeteer of Elmo in 2013?",
+      "choices": [
+        "Ryan Dillon",
+        "Matt Vogel",
+        "Dave Goelz",
+        "Peter Linz"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What is the name of Big Bird's teddy bear companion?",
+      "choices": [
+        "Radar",
+        "Radar O'Reilly",
+        "Snuffy",
+        "Teddy"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character on Sesame Street is a vampire with an obsession for counting?",
+      "choices": [
+        "Count von Count",
+        "The Count",
+        "Vlad the Muppet",
+        "Count Sesame"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "What magical object does Abby Cadabby use to perform her enchantments?",
+      "choices": [
+        "A crystal ball",
+        "A wand",
+        "A magic book",
+        "A magical staff"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "Which character has a pet lamb named Ovejita?",
+      "choices": [
+        "Zoe",
+        "Murray",
+        "Chris",
+        "Alan"
+      ],
+      "correct": 1,
+      "difficulty": "hard"
+    },
+    {
+      "q": "In what year did Sesame Street first premiere on TV?",
+      "choices": [
+        "1965",
+        "1969",
+        "1972",
+        "1976"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "On which U.S. public network did Sesame Street originally air?",
+      "choices": [
+        "NBC",
+        "CBS",
+        "PBS",
+        "ABC"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the puppet duo of best friends, one tall and serious, the other short and silly?",
+      "choices": [
+        "Bert and Ernie",
+        "Statler and Waldorf",
+        "Rowlf and Scooter",
+        "Kermit and Fozzie"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who created Sesame Street?",
+      "choices": [
+        "Joan Ganz Cooney and Lloyd Morrisett",
+        "Jim Henson",
+        "Fred Rogers",
+        "Hanna and Barbera"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the original Muppeteer behind Big Bird and Oscar the Grouch?",
+      "choices": [
+        "Jim Henson",
+        "Frank Oz",
+        "Caroll Spinney",
+        "Kevin Clash"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who voiced Elmo through the early 2010s, until stepping down in 2012?",
+      "choices": [
+        "Frank Oz",
+        "Kevin Clash",
+        "Jim Henson",
+        "Bill Barretta"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sesame Street character is a fairy-in-training, with pink hair and a wand?",
+      "choices": [
+        "Abby Cadabby",
+        "Zoe",
+        "Rosita",
+        "Prairie Dawn"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which bilingual Muppet speaks both English and Spanish?",
+      "choices": [
+        "Rosita",
+        "Elmo",
+        "Telly Monster",
+        "Big Bird"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What kind of pet does Bert keep, much to Ernie's confusion?",
+      "choices": [
+        "A pigeon",
+        "A goldfish",
+        "A hamster",
+        "A turtle"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Bert and Ernie were named after characters in which classic movie?",
+      "choices": [
+        "It's a Wonderful Life",
+        "Casablanca",
+        "Singin' in the Rain",
+        "The Wizard of Oz"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which longtime Sesame Street human cast member was the kindly grocer at Hooper's Store?",
+      "choices": [
+        "Mr. Hooper",
+        "Mr. Macintosh",
+        "Mr. Handford",
+        "Mr. Grocer"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did Sesame Street first air on television?",
+      "choices": [
+        "1967",
+        "1969",
+        "1971",
+        "1973"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character operates the Sesame Street News Flash segment?",
+      "choices": [
+        "Big Bird",
+        "Kermit the Frog",
+        "Guy Smiley",
+        "Gonzo"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What instrument does Hoots the Owl play on Sesame Street?",
+      "choices": [
+        "Trumpet",
+        "Clarinet",
+        "Saxophone",
+        "Trombone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Big Bird's cousin that visits from South America?",
+      "choices": [
+        "Tweety",
+        "Abelardo",
+        "Canary",
+        "Feathers"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is famous for living in a trash can on Sesame Street?",
+      "choices": [
+        "Bert",
+        "Oscar the Grouch",
+        "Ernie",
+        "Big Bird"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of animal is Mr. Snuffleupagus?",
+      "choices": [
+        "Elephant",
+        "Woolly mammoth",
+        "Anteater",
+        "Giraffe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who was the original actor that played the character Gordon on Sesame Street?",
+      "choices": [
+        "James Earl Jones",
+        "Matt Robinson",
+        "Ossie Davis",
+        "Roscoe Orman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Will Lee portrayed which business owner on Sesame Street?",
+      "choices": [
+        "Luis from the Fix-It Shop",
+        "Mr. Hooper from Hooper's Store",
+        "Gordon the Grocer",
+        "Alan the Shoe Repair Man"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What was the primary educational purpose for creating Sesame Street?",
+      "choices": [
+        "To entertain toddlers during the day",
+        "To help children prepare for school, particularly those from low-income families",
+        "To replace traditional preschool programs",
+        "To teach advanced mathematics to gifted children"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the game show hosted by Guy Smiley on Sesame Street?",
+      "choices": [
+        "Race Against Time",
+        "Beat the Time",
+        "Time Challenge",
+        "Speed Race"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two characters run the Fix-It Shop together on Sesame Street?",
+      "choices": [
+        "Gordon and Susan",
+        "Maria and Luis",
+        "Alan and Chris",
+        "David and Maria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the teddy bear that belongs to Big Bird?",
+      "choices": [
+        "Snuffy",
+        "Radar",
+        "Teddy",
+        "Friend Bear"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Zoe's primary role as a character on Sesame Street?",
+      "choices": [
+        "She is a dance teacher and performer",
+        "She is a science instructor",
+        "She runs a bakery",
+        "She is a librarian"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of alien character periodically visits Sesame Street?",
+      "choices": [
+        "Zorp",
+        "Zark",
+        "Zork",
+        "Zorb"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is known for always carrying a rubber ducky?",
+      "choices": [
+        "Bert",
+        "Ernie",
+        "Elmo",
+        "Zoe"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is Cookie Monster?",
+      "choices": [
+        "Brown",
+        "Black",
+        "Blue",
+        "Gray"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is Elmo's best friend?",
+      "choices": [
+        "Bert",
+        "Dorothy",
+        "Zoe",
+        "Abby"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color feathers does Big Bird have?",
+      "choices": [
+        "White",
+        "Orange",
+        "Yellow",
+        "Brown"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the furry red character who frequently refers to himself in the third person?",
+      "choices": [
+        "Elmo",
+        "Zoe",
+        "Abby Cadabby",
+        "Bert"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is known for living in a trash can on Sesame Street?",
+      "choices": [
+        "Big Bird",
+        "Oscar the Grouch",
+        "Cookie Monster",
+        "The Count"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Mr. Snuffleupagus's primary characteristic that made him difficult to find for many years?",
+      "choices": [
+        "He was invisible",
+        "Nobody believed Big Bird when he said he existed",
+        "He lived underground",
+        "He only appeared at night"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary educational goal that Sesame Street was originally designed to address?",
+      "choices": [
+        "Teaching advanced mathematics",
+        "Preparing children from disadvantaged backgrounds for school",
+        "Promoting foreign language skills",
+        "Developing musical talent"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What magical object does Abby Cadabby use to perform her tricks?",
+      "choices": [
+        "A wand",
+        "A spellbook",
+        "A crystal ball",
+        "A magic hat"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "How many heads does the Two-Headed Monster have?",
+      "choices": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the small yellow bird who is Big Bird's friend?",
+      "choices": [
+        "Little Bird",
+        "Tweety",
+        "Snuffy",
+        "Canary"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which character is obsessed with counting and loves numbers?",
+      "choices": [
+        "Big Bird",
+        "The Count",
+        "Super Grover",
+        "Maria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is Super Grover's body?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green",
+        "Orange"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What does Cookie Monster have an insatiable appetite for?",
+      "choices": [
+        "Milk",
+        "Vegetables",
+        "Cookies",
+        "Fruit"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the alien character who visits Sesame Street from outer space?",
+      "choices": [
+        "Zork",
+        "Zap",
+        "Zoom",
+        "Zeno"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In which city is Sesame Street set?",
+      "choices": [
+        "New York City",
+        "Los Angeles",
+        "An unspecified urban location",
+        "Chicago"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the small fairy-tale character who lives on Sesame Street and uses magic?",
+      "choices": [
+        "Abby Cadabby",
+        "Rosita",
+        "Zoe",
+        "Elmo"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which human character runs the Fix-It Shop with her husband on Sesame Street?",
+      "choices": [
+        "Susan",
+        "Maria",
+        "Linda",
+        "Gloria"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the game show that Guy Smiley is known for hosting?",
+      "choices": [
+        "Beat the Clock",
+        "Beat the Time",
+        "Win or Lose",
+        "Guess the Prize"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which Sesame Street character speaks both English and Spanish?",
+      "choices": [
+        "Elmo",
+        "Bert",
+        "Rosita",
+        "Big Bird"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What type of animal is Big Bird?",
+      "choices": [
+        "A giant canary",
+        "An ostrich",
+        "A large flamingo",
+        "A golden eagle"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Zoe's favorite doll that she carries around?",
+      "choices": [
+        "Rosie",
+        "Mimi",
+        "Lucy",
+        "Sunny"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the primary color of Telly Monster's fur?",
+      "choices": [
+        "Blue",
+        "Purple",
+        "Orange",
+        "Green"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which musical instrument does Hoots the Owl characteristically play?",
+      "choices": [
+        "Trumpet",
+        "Clarinet",
+        "Saxophone",
+        "Trombone"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of Elmo's own television series that premiered in the 1990s?",
+      "choices": [
+        "Elmo Live",
+        "Elmo's Playground",
+        "Elmo's World",
+        "Elmo Unscripted"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who is the mother of Cookie Monster in Sesame Street canon?",
+      "choices": [
+        "Nana Monster",
+        "Muncha Lisa",
+        "Mama Cookie",
+        "Clara Belle"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which famous Muppet character hosts the 'Sesame Street News Flash' segment?",
+      "choices": [
+        "Gonzo",
+        "Kermit the Frog",
+        "Miss Piggy",
+        "Fozzie Bear"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Grover's primary occupation besides being a superhero?",
+      "choices": [
+        "A baker",
+        "A waiter",
+        "A teacher",
+        "A mailman"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the color of Elmo's fur?",
+      "choices": [
+        "Orange",
+        "Red",
+        "Pink",
+        "Yellow"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What magical object does Abby Cadabby use to perform magic?",
+      "choices": [
+        "A staff",
+        "A wand",
+        "A ring",
+        "A hat"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Oscar the Grouch's primary color?",
+      "choices": [
+        "Brown",
+        "Yellow",
+        "Green",
+        "Gray"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Which two languages does Rosita primarily speak on Sesame Street?",
+      "choices": [
+        "English and French",
+        "English and Spanish",
+        "Spanish and Portuguese",
+        "English and Italian"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the alien character who occasionally visits Sesame Street?",
+      "choices": [
+        "Zorp",
+        "Zork",
+        "Zorb",
+        "Zest"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is Elmo's stated favorite food?",
+      "choices": [
+        "Goldfish crackers",
+        "Pizza",
+        "Cookies",
+        "Fruit loops"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What color is Grover typically depicted as?",
+      "choices": [
+        "Purple",
+        "Red",
+        "Blue",
+        "Orange"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What game show is hosted by the character Guy Smiley on Sesame Street?",
+      "choices": [
+        "Wheel of Letters",
+        "Beat The Time",
+        "Number Guess",
+        "Celebrity Alphabet"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "Who co-created Sesame Street along with Lloyd Morrisett?",
+      "choices": [
+        "Frank Oz",
+        "Joan Ganz Cooney",
+        "Jim Henson",
+        "Jon Stone"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What object does Ernie frequently lose or misplace in his sketches with Bert?",
+      "choices": [
+        "His soap",
+        "His rubber duckie",
+        "His toy boat",
+        "His pencil"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the character who lives in a trash can on Sesame Street?",
+      "choices": [
+        "Oscar the Grouch",
+        "Bert",
+        "Sully",
+        "Harry Monster"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "In what year did puppeteer Caroll Spinney retire from performing Big Bird, ending his 50-year tenure with the character?",
+      "choices": [
+        "2015",
+        "2018",
+        "2020",
+        "2017"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
     }
   ]
 }
