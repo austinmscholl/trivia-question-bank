@@ -1,7 +1,7 @@
 {
   "slug": "kings-and-queens-trivia",
   "name": "Kings & Queens",
-  "processedAt": "2026-05-24T20:43:43.607Z",
+  "processedAt": "2026-05-24T21:15:06.016Z",
   "questions": [
     {
       "q": "Queen Elizabeth II was married to which Prince from their wedding in 1947 until his death in 2021?",
@@ -3247,6 +3247,23 @@
       ],
       "correct": 2,
       "difficulty": "medium"
+    },
+    {
+      "q": "Which 12th-century queen consort married both Louis VII of France and later Henry II of England?",
+      "choices": [
+        "Isabella of Angoulême",
+        "Berengaria of Navarre",
+        "Eleanor of Aquitaine",
+        "Matilda of Boulogne"
+      ],
+      "correct": 2,
+      "category": "Kings & Queens",
+      "difficulty": "medium",
+      "source": {
+        "original_a": "Eleanor of Aquitaine",
+        "verified": true,
+        "notes": "audit-corrected 2026-05-09: replaced inaccurate 'Holy Land queen-consort' framing; Eleanor was queen consort of France then England, not of any Holy Land kingdom."
+      }
     }
   ]
 }

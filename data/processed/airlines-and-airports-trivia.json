@@ -1,7 +1,7 @@
 {
   "slug": "airlines-and-airports-trivia",
   "name": "Airlines & Airports",
-  "processedAt": "2026-05-24T20:43:43.405Z",
+  "processedAt": "2026-05-24T21:15:06.004Z",
   "questions": [
     {
       "q": "The three-letter airport code LAX refers to the main airport in which U.S. city?",
@@ -1674,6 +1674,23 @@
       ],
       "correct": 0,
       "difficulty": "medium"
+    },
+    {
+      "q": "Which U.S. low-cost carrier is headquartered in Dallas and famous for open boarding and free checked bags?",
+      "choices": [
+        "Spirit",
+        "Frontier",
+        "Southwest Airlines",
+        "JetBlue"
+      ],
+      "correct": 2,
+      "category": "Airlines & Airports",
+      "difficulty": "easy",
+      "source": {
+        "original_a": "Dallas",
+        "verified": true,
+        "notes": "audit-corrected 2026-05-09: removed inaccurate 'bright-yellow planes' descriptor; Southwest livery is primarily white with red/blue/yellow accents."
+      }
     }
   ]
 }
