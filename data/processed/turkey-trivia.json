@@ -8,12 +8,12 @@
     {
       "q": "Which scientific name designates the wild turkey?",
       "choices": [
-        "Meleagris gallopavo",
-        "Phasianus colchicus",
         "Gallus gallus",
-        "Meleagris ocellata"
+        "Meleagris gallopavo",
+        "Meleagris ocellata",
+        "Phasianus colchicus"
       ],
-      "correct": 0,
+      "correct": 1,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -24,8 +24,13 @@
     },
     {
       "q": "How many living species of turkey are there?",
-      "choices": ["One", "Two", "Three", "Six"],
-      "correct": 1,
+      "choices": [
+        "Three",
+        "One",
+        "Six",
+        "Two"
+      ],
+      "correct": 3,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -36,8 +41,13 @@
     },
     {
       "q": "What is a baby turkey called?",
-      "choices": ["Chick", "Poult", "Cygnet", "Eyas"],
-      "correct": 1,
+      "choices": [
+        "Chick",
+        "Eyas",
+        "Poult",
+        "Cygnet"
+      ],
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -48,8 +58,13 @@
     },
     {
       "q": "What is a male turkey called?",
-      "choices": ["Tom or Gobbler", "Drake", "Cock", "Buck"],
-      "correct": 0,
+      "choices": [
+        "Drake",
+        "Tom or Gobbler",
+        "Buck",
+        "Cock"
+      ],
+      "correct": 1,
       "category": "Turkey (the bird)",
       "difficulty": "easy",
       "source": {
@@ -60,8 +75,13 @@
     },
     {
       "q": "What is a female turkey called?",
-      "choices": ["Hen", "Pullet", "Doe", "Jill"],
-      "correct": 0,
+      "choices": [
+        "Doe",
+        "Jill",
+        "Hen",
+        "Pullet"
+      ],
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "easy",
       "source": {
@@ -72,8 +92,13 @@
     },
     {
       "q": "What is the dangling, fleshy red flap of skin under a turkey's chin called?",
-      "choices": ["Wattle", "Snood", "Caruncle", "Crest"],
-      "correct": 0,
+      "choices": [
+        "Caruncle",
+        "Crest",
+        "Snood",
+        "Wattle"
+      ],
+      "correct": 3,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -85,12 +110,12 @@
     {
       "q": "Which Founding Father reportedly preferred the turkey to the bald eagle as the U.S. national bird?",
       "choices": [
+        "John Adams",
         "George Washington",
         "Benjamin Franklin",
-        "Thomas Jefferson",
-        "John Adams"
+        "Thomas Jefferson"
       ],
-      "correct": 1,
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -119,12 +144,12 @@
     {
       "q": "Where were turkeys first domesticated, around 2,000 years ago?",
       "choices": [
+        "Pre-colonial India",
         "Pre-Columbian Mexico",
         "Roman Italy",
-        "Ancient China",
-        "Pre-colonial India"
+        "Ancient China"
       ],
-      "correct": 0,
+      "correct": 1,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -136,12 +161,12 @@
     {
       "q": "Why is the bird (Meleagris gallopavo) called 'turkey' in English?",
       "choices": [
-        "It originated in Turkey",
-        "Mistaken trade route confusion with Turkish guinea fowl",
+        "It crosses the Bosporus during migration",
         "It was named after Sultan Suleyman",
-        "It crosses the Bosporus during migration"
+        "It originated in Turkey",
+        "Mistaken trade route confusion with Turkish guinea fowl"
       ],
-      "correct": 1,
+      "correct": 3,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -154,9 +179,9 @@
       "q": "On which Thursday is U.S. Thanksgiving — when most turkeys are eaten — celebrated?",
       "choices": [
         "First Thursday of November",
-        "Last Thursday of November",
+        "Third Thursday of November",
         "Fourth Thursday of November",
-        "Third Thursday of November"
+        "Last Thursday of November"
       ],
       "correct": 2,
       "category": "Turkey (the bird)",
@@ -170,12 +195,12 @@
     {
       "q": "Approximately how many turkeys are eaten in the U.S. on Thanksgiving Day?",
       "choices": [
-        "10 million",
-        "30 million",
         "46 million",
-        "100 million"
+        "10 million",
+        "100 million",
+        "30 million"
       ],
-      "correct": 2,
+      "correct": 0,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -187,12 +212,12 @@
     {
       "q": "Which amino acid in turkey is famously (incorrectly) blamed for post-Thanksgiving sleepiness?",
       "choices": [
-        "Tryptophan",
-        "Glutamine",
         "Histidine",
-        "Lysine"
+        "Lysine",
+        "Tryptophan",
+        "Glutamine"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -203,8 +228,13 @@
     },
     {
       "q": "Roughly how fast can a wild turkey run?",
-      "choices": ["10 mph", "25 mph", "55 mph", "70 mph"],
-      "correct": 1,
+      "choices": [
+        "25 mph",
+        "10 mph",
+        "55 mph",
+        "70 mph"
+      ],
+      "correct": 0,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -216,12 +246,12 @@
     {
       "q": "Can wild turkeys fly?",
       "choices": [
+        "Yes, for hundreds of miles in migration",
         "No, they're flightless",
         "Yes, short distances",
-        "Yes, for hundreds of miles in migration",
         "Only the males"
       ],
-      "correct": 1,
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "medium",
       "source": {
@@ -250,12 +280,12 @@
     {
       "q": "Which 1967 Arlo Guthrie spoken-word holiday classic became a Thanksgiving radio tradition?",
       "choices": [
-        "Alice's Restaurant",
         "Mr. Heat Miser",
         "Snoopy's Christmas",
+        "Alice's Restaurant",
         "Frosty the Snowman"
       ],
-      "correct": 0,
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -266,8 +296,13 @@
     },
     {
       "q": "What do you call a group of turkeys?",
-      "choices": ["Flock", "Rafter", "Gaggle", "Murder"],
-      "correct": 1,
+      "choices": [
+        "Gaggle",
+        "Flock",
+        "Rafter",
+        "Murder"
+      ],
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -278,8 +313,13 @@
     },
     {
       "q": "Which U.S. state is the largest turkey producer?",
-      "choices": ["Texas", "Minnesota", "California", "North Carolina"],
-      "correct": 1,
+      "choices": [
+        "Minnesota",
+        "Texas",
+        "California",
+        "North Carolina"
+      ],
+      "correct": 0,
       "category": "Turkey (the bird)",
       "difficulty": "hard",
       "source": {
@@ -290,8 +330,13 @@
     },
     {
       "q": "What sound does a male turkey famously make to attract mates?",
-      "choices": ["Cluck", "Gobble", "Coo", "Crow"],
-      "correct": 1,
+      "choices": [
+        "Coo",
+        "Cluck",
+        "Gobble",
+        "Crow"
+      ],
+      "correct": 2,
       "category": "Turkey (the bird)",
       "difficulty": "easy",
       "source": {

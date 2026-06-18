@@ -6,23 +6,23 @@
     {
       "q": "Which vitamin is produced by your skin when exposed to sunlight?",
       "choices": [
-        "Vitamin A",
-        "Vitamin C",
         "Vitamin D",
-        "Vitamin E"
+        "Vitamin E",
+        "Vitamin A",
+        "Vitamin C"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
       "q": "Which gland produces insulin to regulate blood sugar?",
       "choices": [
+        "Pituitary",
         "Thyroid",
-        "Pancreas",
         "Adrenal",
-        "Pituitary"
+        "Pancreas"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
@@ -39,10 +39,10 @@
     {
       "q": "What is the primary role of the trachea?",
       "choices": [
-        "Digest food",
         "Transport blood",
+        "Filter waste",
         "Carry air to the lungs",
-        "Filter waste"
+        "Digest food"
       ],
       "correct": 2,
       "difficulty": "easy"
@@ -61,12 +61,12 @@
     {
       "q": "Which organ filters waste from the blood to produce urine?",
       "choices": [
-        "Bladder",
         "Kidney",
-        "Liver",
-        "Spleen"
+        "Spleen",
+        "Bladder",
+        "Liver"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
@@ -83,56 +83,56 @@
     {
       "q": "What is the muscle below the lungs that controls breathing?",
       "choices": [
+        "Trapezius",
         "Intercostal",
-        "Diaphragm",
         "Deltoid",
-        "Trapezius"
+        "Diaphragm"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
       "q": "Which enzyme in saliva begins the breakdown of starches?",
       "choices": [
         "Pepsin",
+        "Lactase",
         "Amylase",
-        "Lipase",
-        "Lactase"
+        "Lipase"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "easy"
     },
     {
       "q": "Which part of the eye focuses light onto the retina?",
       "choices": [
         "Iris",
-        "Pupil",
         "Lens",
-        "Cornea"
+        "Cornea",
+        "Pupil"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "easy"
     },
     {
       "q": "Which gas do our lungs absorb from the air we breathe?",
       "choices": [
-        "Carbon dioxide",
-        "Oxygen",
+        "Helium",
         "Nitrogen",
-        "Helium"
+        "Oxygen",
+        "Carbon dioxide"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "easy"
     },
     {
       "q": "What is the primary role of the stomach in digestion?",
       "choices": [
-        "Absorb nutrients",
         "Break down food with acid",
+        "Produce insulin",
         "Store bile",
-        "Produce insulin"
+        "Absorb nutrients"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
@@ -150,22 +150,22 @@
       "q": "Which part of the eye controls the amount of light entering?",
       "choices": [
         "Lens",
-        "Pupil",
+        "Cornea",
         "Retina",
-        "Cornea"
+        "Pupil"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
       "q": "What is the tough, outer layer of the tooth called?",
       "choices": [
-        "Dentin",
         "Enamel",
-        "Pulp",
-        "Cementum"
+        "Dentin",
+        "Cementum",
+        "Pulp"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
@@ -182,9 +182,9 @@
     {
       "q": "How many pairs of ribs are directly attached to the breastbone?",
       "choices": [
-        "5 pairs",
-        "7 pairs",
         "9 pairs",
+        "7 pairs",
+        "5 pairs",
         "11 pairs"
       ],
       "correct": 1,
@@ -227,53 +227,53 @@
       "q": "Which gas do red blood cells carry to tissues throughout the body?",
       "choices": [
         "Carbon dioxide",
-        "Nitrogen",
         "Oxygen",
+        "Nitrogen",
         "Hydrogen"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "easy"
     },
     {
       "q": "Which part of the brain controls balance and coordination?",
       "choices": [
         "Cerebrum",
-        "Cerebellum",
+        "Thalamus",
         "Brainstem",
-        "Thalamus"
+        "Cerebellum"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
       "q": "Which blood vessels carry oxygen-poor blood back to the heart?",
       "choices": [
+        "Aorta",
         "Arteries",
         "Capillaries",
-        "Veins",
-        "Aorta"
+        "Veins"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
       "q": "How many chambers does each kidney contain?",
       "choices": [
-        "One",
-        "Two",
         "Three",
-        "Four"
+        "One",
+        "Four",
+        "Two"
       ],
-      "correct": 0,
+      "correct": 1,
       "difficulty": "easy"
     },
     {
       "q": "What is the primary function of the pancreas in digestion?",
       "choices": [
-        "Store bile",
+        "Filter waste",
         "Produce digestive enzymes",
         "Absorb nutrients",
-        "Filter waste"
+        "Store bile"
       ],
       "correct": 1,
       "difficulty": "easy"
@@ -283,8 +283,8 @@
       "choices": [
         "Clavicle",
         "Scapula",
-        "Sternum",
-        "Humerus"
+        "Humerus",
+        "Sternum"
       ],
       "correct": 0,
       "difficulty": "easy"
@@ -294,8 +294,8 @@
       "choices": [
         "Hemoglobin",
         "Myoglobin",
-        "Albumin",
-        "Fibrin"
+        "Fibrin",
+        "Albumin"
       ],
       "correct": 0,
       "difficulty": "easy"
@@ -303,67 +303,67 @@
     {
       "q": "What is the name of the windpipe that carries air to the lungs?",
       "choices": [
-        "Esophagus",
-        "Trachea",
+        "Pharynx",
         "Bronchus",
-        "Pharynx"
-      ],
-      "correct": 1,
-      "difficulty": "easy"
-    },
-    {
-      "q": "Which organ produces bile to help digest fats?",
-      "choices": [
-        "Stomach",
-        "Pancreas",
-        "Liver",
-        "Gallbladder"
+        "Trachea",
+        "Esophagus"
       ],
       "correct": 2,
       "difficulty": "easy"
     },
     {
-      "q": "What is the medical term for low blood pressure?",
+      "q": "Which organ produces bile to help digest fats?",
       "choices": [
-        "Hypertension",
-        "Hypotension",
-        "Tachycardia",
-        "Arrhythmia"
+        "Gallbladder",
+        "Liver",
+        "Pancreas",
+        "Stomach"
       ],
       "correct": 1,
+      "difficulty": "easy"
+    },
+    {
+      "q": "What is the medical term for low blood pressure?",
+      "choices": [
+        "Tachycardia",
+        "Arrhythmia",
+        "Hypotension",
+        "Hypertension"
+      ],
+      "correct": 2,
       "difficulty": "easy"
     },
     {
       "q": "What is the strong connective tissue that attaches muscle to bone?",
       "choices": [
-        "Ligament",
         "Tendon",
+        "Fascia",
         "Cartilage",
-        "Fascia"
-      ],
-      "correct": 1,
-      "difficulty": "easy"
-    },
-    {
-      "q": "Which bone is commonly called the breastbone?",
-      "choices": [
-        "Sternum",
-        "Fibula",
-        "Humerus",
-        "Radius"
+        "Ligament"
       ],
       "correct": 0,
       "difficulty": "easy"
     },
     {
+      "q": "Which bone is commonly called the breastbone?",
+      "choices": [
+        "Fibula",
+        "Radius",
+        "Sternum",
+        "Humerus"
+      ],
+      "correct": 2,
+      "difficulty": "easy"
+    },
+    {
       "q": "What is the primary function of the pancreas?",
       "choices": [
-        "Filter blood",
         "Regulate blood sugar and digestion",
-        "Produce bile",
-        "Store calcium"
+        "Store calcium",
+        "Filter blood",
+        "Produce bile"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
@@ -380,12 +380,12 @@
     {
       "q": "What is the medical name for the kneecap?",
       "choices": [
+        "Fibula",
         "Femur",
         "Tibia",
-        "Patella",
-        "Fibula"
+        "Patella"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
@@ -402,10 +402,10 @@
     {
       "q": "Which blood type is considered a universal donor?",
       "choices": [
-        "AB positive",
+        "B negative",
         "O negative",
-        "A positive",
-        "B negative"
+        "AB positive",
+        "A positive"
       ],
       "correct": 1,
       "difficulty": "easy"
@@ -413,12 +413,12 @@
     {
       "q": "What is the tube that carries food from the throat to the stomach called?",
       "choices": [
-        "Trachea",
-        "Esophagus",
         "Pylorus",
-        "Duodenum"
+        "Trachea",
+        "Duodenum",
+        "Esophagus"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
@@ -437,10 +437,10 @@
       "choices": [
         "Carotid artery",
         "Femoral artery",
-        "Aorta",
-        "Pulmonary artery"
+        "Pulmonary artery",
+        "Aorta"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
@@ -448,8 +448,8 @@
       "choices": [
         "Hemoglobin",
         "Melanin",
-        "Keratin",
-        "Collagen"
+        "Collagen",
+        "Keratin"
       ],
       "correct": 1,
       "difficulty": "easy"
@@ -457,12 +457,12 @@
     {
       "q": "How many pairs of lungs does a human have?",
       "choices": [
+        "Four pairs",
         "One pair",
         "Two pairs",
-        "Three pairs",
-        "Four pairs"
+        "Three pairs"
       ],
-      "correct": 0,
+      "correct": 1,
       "difficulty": "easy"
     },
     {
@@ -479,21 +479,21 @@
     {
       "q": "What is the name of the large bone in the upper arm?",
       "choices": [
-        "Radius",
-        "Ulna",
         "Humerus",
-        "Carpals"
+        "Carpals",
+        "Ulna",
+        "Radius"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
       "q": "Which type of blood cells are responsible for fighting infections?",
       "choices": [
         "Red blood cells",
-        "Platelets",
+        "Plasma cells",
         "White blood cells",
-        "Plasma cells"
+        "Platelets"
       ],
       "correct": 2,
       "difficulty": "easy"
@@ -501,12 +501,12 @@
     {
       "q": "Which structure connects the brain's left and right hemispheres?",
       "choices": [
-        "Thalamus",
+        "Cerebellum",
         "Hypothalamus",
-        "Corpus callosum",
-        "Cerebellum"
+        "Thalamus",
+        "Corpus callosum"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
@@ -514,21 +514,21 @@
       "choices": [
         "206",
         "346",
-        "approximately 640",
-        "over 1000"
+        "over 1000",
+        "approximately 640"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
       "q": "What is the normal human body temperature in Fahrenheit?",
       "choices": [
         "96.8°F",
-        "98.6°F",
+        "102.2°F",
         "100.4°F",
-        "102.2°F"
+        "98.6°F"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "easy"
     },
     {
@@ -545,65 +545,65 @@
     {
       "q": "What is the name of the tube that connects the kidney to the bladder?",
       "choices": [
-        "Urethra",
         "Ureter",
+        "Urethra",
         "Nephron",
         "Glomerulus"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
       "q": "How many pairs of ribs do most adult humans have?",
       "choices": [
-        "10 pairs",
         "12 pairs",
         "14 pairs",
+        "10 pairs",
         "16 pairs"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "easy"
     },
     {
       "q": "The stapes, the smallest bone in the human body, is located in which anatomical structure?",
       "choices": [
-        "The inner ear",
         "The vertebral column",
-        "The wrist",
-        "The foot"
-      ],
-      "correct": 0,
-      "difficulty": "hard"
-    },
-    {
-      "q": "The loop of Henle functions primarily in which of the following processes within the nephron?",
-      "choices": [
-        "Ultrafiltration",
-        "Selective reabsorption of water and ions",
-        "Active transport of glucose",
-        "Secretion of urea"
+        "The inner ear",
+        "The foot",
+        "The wrist"
       ],
       "correct": 1,
       "difficulty": "hard"
     },
     {
+      "q": "The loop of Henle functions primarily in which of the following processes within the nephron?",
+      "choices": [
+        "Active transport of glucose",
+        "Ultrafiltration",
+        "Selective reabsorption of water and ions",
+        "Secretion of urea"
+      ],
+      "correct": 2,
+      "difficulty": "hard"
+    },
+    {
       "q": "Which cranial nerve is responsible for transmitting visual information from the retina to the brain?",
       "choices": [
+        "Trochlear nerve",
         "Optic nerve",
         "Oculomotor nerve",
-        "Trochlear nerve",
         "Abducens nerve"
       ],
-      "correct": 0,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "The bicuspid valve, also known by another name, separates which two chambers of the heart?",
       "choices": [
-        "Right atrium and right ventricle",
+        "Left ventricle and aorta",
         "Left atrium and left ventricle",
         "Right ventricle and pulmonary artery",
-        "Left ventricle and aorta"
+        "Right atrium and right ventricle"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -622,21 +622,21 @@
     {
       "q": "The glomerular filtration rate in a healthy adult human is approximately how many milliliters per minute?",
       "choices": [
-        "80-120 mL/min",
         "50-80 mL/min",
-        "120-180 mL/min",
-        "200-250 mL/min"
+        "80-120 mL/min",
+        "200-250 mL/min",
+        "120-180 mL/min"
       ],
-      "correct": 0,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "The bundle of His is a specialized conductive tissue found in which region of the heart?",
       "choices": [
-        "The sinoatrial node",
+        "The coronary sinus",
         "The interventricular septum",
-        "The atrial wall",
-        "The coronary sinus"
+        "The sinoatrial node",
+        "The atrial wall"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -644,20 +644,20 @@
     {
       "q": "In skeletal muscle contraction, which protein binds to myosin heads to initiate the power stroke?",
       "choices": [
-        "Tropomyosin",
-        "Troponin",
         "Actin",
+        "Troponin",
+        "Tropomyosin",
         "Titin"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "The mediastinum is an anatomical compartment that contains which of the following structures?",
       "choices": [
-        "Lungs only",
-        "Heart, esophagus, and major vessels",
         "Liver and pancreas",
+        "Heart, esophagus, and major vessels",
+        "Lungs only",
         "Brain and spinal cord"
       ],
       "correct": 1,
@@ -667,73 +667,73 @@
       "q": "Which bone articulates with the femur at the knee joint and bears most of the body's weight when standing?",
       "choices": [
         "Fibula",
-        "Tibia",
         "Patella",
-        "Calcaneus"
+        "Calcaneus",
+        "Tibia"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The conjunctiva is a transparent mucous membrane that lines which structures of the eye?",
       "choices": [
+        "The retina and choroid",
         "The cornea and lens",
         "The eyelids and sclera",
-        "The retina and choroid",
         "The aqueous humor and vitreous humor"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "In the brain, the substantia nigra is a region most associated with the production of which neurotransmitter?",
       "choices": [
         "Serotonin",
+        "GABA",
         "Dopamine",
-        "Acetylcholine",
-        "GABA"
+        "Acetylcholine"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The sarcolemma is a specialized membrane that forms the outer boundary of which cellular structure?",
       "choices": [
         "A neuron",
-        "An adipocyte",
         "A muscle fiber",
+        "An adipocyte",
         "A hepatocyte"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "Which lymphoid organ is responsible for filtering lymph and mounting immune responses in its germinal centers?",
       "choices": [
+        "Tonsils",
         "Thymus gland",
         "Spleen",
-        "Lymph nodes",
-        "Tonsils"
+        "Lymph nodes"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The rete testis is a network of tubules found within which reproductive structure in males?",
       "choices": [
         "Epididymis",
+        "Prostate gland",
         "Seminal vesicle",
-        "Testis",
-        "Prostate gland"
+        "Testis"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "In the respiratory system, gas exchange occurs across the thin walls of which functional structures?",
       "choices": [
-        "Bronchi",
         "Bronchioles",
+        "Bronchi",
         "Alveoli",
         "Trachea"
       ],
@@ -743,32 +743,32 @@
     {
       "q": "The zona glomerulosa is the outermost layer of which endocrine gland that produces mineralocorticoids?",
       "choices": [
-        "Thyroid gland",
         "Adrenal cortex",
         "Parathyroid gland",
-        "Anterior pituitary"
+        "Anterior pituitary",
+        "Thyroid gland"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "Which structure in the inner ear is responsible for detecting linear acceleration and head position relative to gravity?",
       "choices": [
+        "Semicircular canals",
         "Cochlea",
         "Utricle and saccule",
-        "Semicircular canals",
         "Organ of Corti"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The foramen magnum is a large opening in which bone that allows the spinal cord to connect with the brain?",
       "choices": [
-        "Temporal bone",
+        "Parietal bone",
         "Occipital bone",
         "Sphenoid bone",
-        "Parietal bone"
+        "Temporal bone"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -776,12 +776,12 @@
     {
       "q": "Which neurotransmitter is primarily involved in the regulation of mood and is targeted by selective serotonin reuptake inhibitors?",
       "choices": [
-        "Dopamine",
+        "GABA",
         "Acetylcholine",
-        "Serotonin",
-        "GABA"
+        "Dopamine",
+        "Serotonin"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
@@ -798,45 +798,45 @@
     {
       "q": "Which enzyme in the stomach lining produces hydrochloric acid and is secreted by parietal cells?",
       "choices": [
-        "Pepsinogen",
-        "Carbonic anhydrase",
         "Gastric lipase",
-        "Intrinsic factor"
-      ],
-      "correct": 1,
-      "difficulty": "hard"
-    },
-    {
-      "q": "The glomerular filtration rate in healthy adults is typically maintained at approximately how many milliliters per minute?",
-      "choices": [
-        "50 mL/min",
-        "125 mL/min",
-        "250 mL/min",
-        "400 mL/min"
-      ],
-      "correct": 1,
-      "difficulty": "hard"
-    },
-    {
-      "q": "The blood-brain barrier is primarily maintained by tight junctions between which type of cells?",
-      "choices": [
-        "Astrocytes and neurons",
-        "Microglia and oligodendrocytes",
-        "Endothelial cells and pericytes",
-        "Ependymal cells and pia mater"
+        "Intrinsic factor",
+        "Carbonic anhydrase",
+        "Pepsinogen"
       ],
       "correct": 2,
       "difficulty": "hard"
     },
     {
+      "q": "The glomerular filtration rate in healthy adults is typically maintained at approximately how many milliliters per minute?",
+      "choices": [
+        "125 mL/min",
+        "400 mL/min",
+        "250 mL/min",
+        "50 mL/min"
+      ],
+      "correct": 0,
+      "difficulty": "hard"
+    },
+    {
+      "q": "The blood-brain barrier is primarily maintained by tight junctions between which type of cells?",
+      "choices": [
+        "Ependymal cells and pia mater",
+        "Microglia and oligodendrocytes",
+        "Astrocytes and neurons",
+        "Endothelial cells and pericytes"
+      ],
+      "correct": 3,
+      "difficulty": "hard"
+    },
+    {
       "q": "Which cranial nerve is responsible for the innervation of the tongue muscles involved in swallowing and speech?",
       "choices": [
-        "Glossopharyngeal nerve",
         "Hypoglossal nerve",
         "Vagus nerve",
+        "Glossopharyngeal nerve",
         "Trigeminal nerve"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
@@ -853,21 +853,21 @@
     {
       "q": "The lacunar spaces within bone matrix contain osteocytes that communicate through microscopic channels called what?",
       "choices": [
-        "Haversian canals",
-        "Canaliculi",
+        "Volkmann canals",
         "Lacunae",
-        "Volkmann canals"
+        "Canaliculi",
+        "Haversian canals"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "Which chamber of the heart receives oxygenated blood returning from the lungs via the pulmonary veins?",
       "choices": [
-        "Right atrium",
+        "Left ventricle",
         "Right ventricle",
         "Left atrium",
-        "Left ventricle"
+        "Right atrium"
       ],
       "correct": 2,
       "difficulty": "hard"
@@ -876,11 +876,11 @@
       "q": "The photoreceptor cells in the retina that are responsible for color vision and function in bright light are called what?",
       "choices": [
         "Rods",
-        "Cones",
         "Ganglion cells",
-        "Bipolar cells"
+        "Bipolar cells",
+        "Cones"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
@@ -897,10 +897,10 @@
     {
       "q": "The primary motor cortex is located in which lobe and specifically in which anatomical structure?",
       "choices": [
-        "Temporal lobe, superior temporal gyrus",
-        "Frontal lobe, precentral gyrus",
         "Parietal lobe, postcentral gyrus",
-        "Occipital lobe, cuneus"
+        "Frontal lobe, precentral gyrus",
+        "Occipital lobe, cuneus",
+        "Temporal lobe, superior temporal gyrus"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -908,43 +908,43 @@
     {
       "q": "Which lipoprotein particle has the highest density and is most protective against cardiovascular disease?",
       "choices": [
-        "VLDL",
+        "IDL",
         "LDL",
-        "HDL",
-        "IDL"
+        "VLDL",
+        "HDL"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The basement membrane of the kidney's glomerulus is composed primarily of which type of protein matrix?",
       "choices": [
-        "Collagen type I and elastin",
-        "Collagen type IV and laminin",
         "Fibronectin and proteoglycans",
-        "Collagen type III and hyaluronic acid"
+        "Collagen type III and hyaluronic acid",
+        "Collagen type I and elastin",
+        "Collagen type IV and laminin"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "Which parasympathetic cranial nerve exits the brainstem at the cerebellopontine angle and innervates the parotid gland?",
       "choices": [
         "Trigeminal nerve",
+        "Vagus nerve",
         "Facial nerve",
-        "Glossopharyngeal nerve",
-        "Vagus nerve"
+        "Glossopharyngeal nerve"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The zona pellucida surrounding an oocyte is primarily composed of which type of glycoproteins?",
       "choices": [
         "ZP1, ZP2, and ZP3",
+        "Cadherins and integrins",
         "Zona occludens proteins",
-        "Claudins and occludin",
-        "Cadherins and integrins"
+        "Claudins and occludin"
       ],
       "correct": 0,
       "difficulty": "hard"
@@ -952,42 +952,42 @@
     {
       "q": "The autonomic nervous system is divided into the sympathetic and parasympathetic systems. Which neurotransmitter is primarily responsible for parasympathetic responses?",
       "choices": [
-        "Epinephrine",
-        "Dopamine",
+        "Serotonin",
         "Acetylcholine",
-        "Serotonin"
+        "Epinephrine",
+        "Dopamine"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "In the human eye, which layer of tissue contains the rods and cones responsible for vision?",
       "choices": [
-        "Cornea",
-        "Retina",
+        "Iris",
         "Sclera",
-        "Iris"
+        "Retina",
+        "Cornea"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The renal corpuscle, which filters blood in the kidney, consists of the glomerulus and which other structure?",
       "choices": [
+        "Collecting duct",
         "Loop of Henle",
         "Bowman's capsule",
-        "Collecting duct",
         "Distal convoluted tubule"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "Which of the seven cervical vertebrae is unique because it lacks a centrum and articulates directly with the skull?",
       "choices": [
         "Atlas",
-        "Axis",
         "Vertebra prominens",
+        "Axis",
         "Cervical 4"
       ],
       "correct": 0,
@@ -996,32 +996,32 @@
     {
       "q": "The thyroid gland produces two primary hormones. Besides thyroxine, which other hormone does it produce?",
       "choices": [
-        "Parathyroid hormone",
-        "Calcitonin",
         "Glucagon",
-        "Insulin"
+        "Insulin",
+        "Calcitonin",
+        "Parathyroid hormone"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "In cardiac physiology, which valve prevents backflow of blood from the left ventricle into the left atrium?",
       "choices": [
+        "Aortic valve",
         "Tricuspid valve",
         "Mitral valve",
-        "Aortic valve",
         "Pulmonary valve"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The human brain's cerebellum is primarily responsible for which function?",
       "choices": [
-        "Speech production",
+        "Vision processing",
         "Coordination and balance",
         "Emotional regulation",
-        "Vision processing"
+        "Speech production"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -1041,11 +1041,11 @@
       "q": "The mucociliary escalator is a defense mechanism found in which part of the respiratory system?",
       "choices": [
         "Alveoli",
+        "Diaphragm",
         "Bronchioles",
-        "Trachea and bronchi",
-        "Diaphragm"
+        "Trachea and bronchi"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
@@ -1053,184 +1053,184 @@
       "choices": [
         "IgE",
         "IgM",
-        "IgG",
-        "IgA"
+        "IgA",
+        "IgG"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The sarcomere, the basic contractile unit of skeletal muscle, extends from one Z-disc to the adjacent Z-disc. Which protein forms these Z-discs?",
       "choices": [
-        "Actin",
-        "Myosin",
+        "Tropomyosin",
         "Alpha-actinin",
-        "Tropomyosin"
+        "Actin",
+        "Myosin"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "In the human body, the osmotic pressure exerted by plasma proteins is called what?",
       "choices": [
         "Hydrostatic pressure",
-        "Oncotic pressure",
         "Turgor pressure",
-        "Capillary pressure"
+        "Capillary pressure",
+        "Oncotic pressure"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "Which of the paranasal sinuses is located within the frontal bone above the eyebrows?",
       "choices": [
-        "Maxillary sinus",
         "Sphenoid sinus",
-        "Frontal sinus",
-        "Ethmoid sinus"
+        "Maxillary sinus",
+        "Ethmoid sinus",
+        "Frontal sinus"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The blood-brain barrier is primarily maintained by which type of cell in the central nervous system?",
       "choices": [
-        "Microglia",
         "Astrocytes",
-        "Oligodendrocytes",
-        "Ependymal cells"
+        "Ependymal cells",
+        "Microglia",
+        "Oligodendrocytes"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "In the inner ear, the organ of Corti contains sensory hair cells that convert vibrations into neural signals. These hair cells sit upon which structure?",
       "choices": [
-        "Tectorial membrane",
-        "Basilar membrane",
         "Stapes",
-        "Incus"
+        "Tectorial membrane",
+        "Incus",
+        "Basilar membrane"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "Which lipoprotein is responsible for transporting cholesterol from the liver to peripheral tissues?",
       "choices": [
-        "HDL",
+        "Chylomicron",
         "VLDL",
-        "LDL",
-        "Chylomicron"
+        "HDL",
+        "LDL"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The glomerular filtration rate (GFR) is used to assess kidney function. In healthy adults, the normal GFR is approximately how many milliliters per minute per 1.73 square meters of body surface area?",
       "choices": [
-        "60-90",
-        "90-120",
+        "150-180",
         "120-150",
-        "150-180"
+        "90-120",
+        "60-90"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "Which cranial nerve is responsible for providing motor innervation to the muscles of mastication?",
       "choices": [
-        "Facial nerve (CN VII)",
-        "Trigeminal nerve (CN V)",
+        "Vagus nerve (CN X)",
         "Hypoglossal nerve (CN XII)",
-        "Vagus nerve (CN X)"
+        "Trigeminal nerve (CN V)",
+        "Facial nerve (CN VII)"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "In bone metabolism, osteoclasts are responsible for bone resorption. Which hormone promotes osteoclast activity?",
       "choices": [
         "Calcitonin",
+        "Estrogen",
         "Parathyroid hormone",
-        "Vitamin D",
-        "Estrogen"
+        "Vitamin D"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The zona fasciculata, the largest layer of the adrenal cortex, primarily secretes which class of hormones?",
       "choices": [
-        "Catecholamines",
-        "Glucocorticoids",
         "Mineralocorticoids",
-        "Androgens"
+        "Androgens",
+        "Glucocorticoids",
+        "Catecholamines"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "In the electron transport chain, which complex within the inner mitochondrial membrane is responsible for transferring electrons to cytochrome c?",
       "choices": [
         "Complex I",
-        "Complex II",
         "Complex III",
+        "Complex II",
         "Complex IV"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "The ciliary body of the eye performs which two primary functions?",
       "choices": [
-        "Producing tears and regulating pupil size",
         "Producing aqueous humor and adjusting lens shape",
+        "Producing tears and regulating pupil size",
         "Refracting light and controlling accommodation",
         "Absorbing light and generating electrical signals"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "Which nerve, a branch of the trigeminal nerve, provides sensory innervation to the lower teeth and chin?",
       "choices": [
+        "Auricular nerve",
         "Buccal nerve",
         "Inferior alveolar nerve",
-        "Lingual nerve",
-        "Auricular nerve"
+        "Lingual nerve"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The Bundle of His is a conduction pathway in the heart that branches into which two structures?",
       "choices": [
-        "Sinoatrial and atrioventricular nodes",
         "Right and left bundle branches",
-        "Purkinje fibers and ventricular muscle",
-        "Atrial and ventricular myocardium"
+        "Sinoatrial and atrioventricular nodes",
+        "Atrial and ventricular myocardium",
+        "Purkinje fibers and ventricular muscle"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "Which enzyme, found in the brush border of the small intestine, breaks down disaccharides into monosaccharides?",
       "choices": [
         "Amylase",
+        "Protease",
         "Maltase",
-        "Lipase",
-        "Protease"
+        "Lipase"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The glomus is a specialized vascular structure found in which location within the kidney?",
       "choices": [
-        "Loop of Henle",
+        "Proximal convoluted tubule",
         "Bowman's capsule",
-        "Collecting duct",
-        "Proximal convoluted tubule"
+        "Loop of Henle",
+        "Collecting duct"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -1239,11 +1239,11 @@
       "q": "Which muscle, innervated by the accessory nerve, elevates the scapula and rotates the head?",
       "choices": [
         "Rhomboid major",
-        "Trapezius",
         "Levator scapulae",
+        "Trapezius",
         "Sternocleidomastoid"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
@@ -1260,76 +1260,76 @@
     {
       "q": "In the respiratory system, which structure separates the right and left pleural cavities?",
       "choices": [
-        "Diaphragm",
-        "Mediastinum",
         "Hilum",
-        "Carina"
+        "Diaphragm",
+        "Carina",
+        "Mediastinum"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The stapes, the smallest bone in the human body, articulates with which membrane to transmit vibrations?",
       "choices": [
-        "Tympanum",
-        "Oval window",
         "Round window",
-        "Basilar membrane"
+        "Basilar membrane",
+        "Oval window",
+        "Tympanum"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "Which blood type antigen system, separate from ABO and Rh, is clinically significant in transfusion medicine and hemolytic disease?",
       "choices": [
-        "Kell system",
-        "Duffy system",
         "Kidd system",
-        "MNS system"
+        "Duffy system",
+        "MNS system",
+        "Kell system"
       ],
-      "correct": 0,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "The lamina cribrosa is a specialized region in which structure of the eye that allows passage of axons?",
       "choices": [
-        "Retina",
         "Optic nerve",
+        "Retina",
         "Cornea",
         "Lens"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "Which ligament in the knee joint prevents anterior displacement of the tibia relative to the femur?",
       "choices": [
-        "Posterior cruciate ligament",
-        "Anterior cruciate ligament",
+        "Lateral collateral ligament",
         "Medial collateral ligament",
-        "Lateral collateral ligament"
+        "Anterior cruciate ligament",
+        "Posterior cruciate ligament"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "The cauda equina is a bundle of nerve roots found in which region of the spinal canal?",
       "choices": [
         "Cervical region",
-        "Thoracic region",
         "Lumbar and sacral region",
-        "Coccygeal region"
+        "Coccygeal region",
+        "Thoracic region"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "In the lymphatic system, which organ destroys aged red blood cells and filters pathogens from blood?",
       "choices": [
-        "Thymus gland",
+        "Peyer's patches",
         "Spleen",
-        "Lymph nodes",
-        "Peyer's patches"
+        "Thymus gland",
+        "Lymph nodes"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -1337,31 +1337,31 @@
     {
       "q": "Which hormone, produced by the corpus luteum, maintains the endometrium during the luteal phase of the menstrual cycle?",
       "choices": [
+        "Luteinizing hormone",
         "Estrogen",
-        "Progesterone",
         "Follicle-stimulating hormone",
-        "Luteinizing hormone"
+        "Progesterone"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "Which enzyme is responsible for breaking down acetylcholine at the neuromuscular junction?",
       "choices": [
         "Monoamine oxidase",
-        "Acetylcholinesterase",
         "Catechol-O-methyltransferase",
+        "Acetylcholinesterase",
         "Butyrylcholinesterase"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "In the renin-angiotensin-aldosterone system, which organ produces renin in response to low blood pressure?",
       "choices": [
-        "Adrenal cortex",
-        "Juxtaglomerular cells of the kidney",
         "Posterior pituitary",
+        "Juxtaglomerular cells of the kidney",
+        "Adrenal cortex",
         "Thyroid gland"
       ],
       "correct": 1,
@@ -1371,20 +1371,20 @@
       "q": "Which cranial nerve is responsible for the gag reflex, originating from the medulla?",
       "choices": [
         "Trigeminal nerve",
-        "Facial nerve",
         "Glossopharyngeal nerve",
+        "Facial nerve",
         "Accessory nerve"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
       "q": "In the electron transport chain, which complex is responsible for pumping protons across the inner mitochondrial membrane using NADH?",
       "choices": [
-        "Complex II",
+        "Complex IV",
         "Complex I",
-        "Complex III",
-        "Complex IV"
+        "Complex II",
+        "Complex III"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -1392,21 +1392,21 @@
     {
       "q": "Which hormone secreted by the pancreas inhibits the release of glucagon and slows gastric emptying?",
       "choices": [
-        "Somatostatin",
-        "Pancreatic polypeptide",
         "Cholecystokinin",
+        "Pancreatic polypeptide",
+        "Somatostatin",
         "Secretin"
       ],
-      "correct": 0,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "What is the name of the protein fiber found in the extracellular matrix that provides tensile strength?",
       "choices": [
-        "Elastin",
+        "Proteoglycan",
         "Collagen",
-        "Fibronectin",
-        "Proteoglycan"
+        "Elastin",
+        "Fibronectin"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -1414,43 +1414,43 @@
     {
       "q": "In the blood, which lipoprotein has the highest proportion of cholesterol and is considered most atherogenic?",
       "choices": [
-        "HDL",
-        "LDL",
         "VLDL",
-        "Chylomicron"
+        "Chylomicron",
+        "LDL",
+        "HDL"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "Which bone of the inner ear amplifies vibrations from the eardrum to the oval window?",
       "choices": [
-        "Stapes",
-        "Incus",
+        "Cochlea",
         "Malleus",
-        "Cochlea"
+        "Incus",
+        "Stapes"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "In the kidney nephron, what is the name of the specialized capillary network where ultrafiltration occurs?",
       "choices": [
-        "Peritubular capillaries",
-        "Glomerulus",
         "Vasa recta",
-        "Afferent arteriole"
+        "Afferent arteriole",
+        "Glomerulus",
+        "Peritubular capillaries"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "hard"
     },
     {
       "q": "What is the name of the region of the cerebral cortex that processes language production?",
       "choices": [
-        "Wernicke's area",
+        "Temporal lobe",
         "Broca's area",
-        "Occipital lobe",
-        "Temporal lobe"
+        "Wernicke's area",
+        "Occipital lobe"
       ],
       "correct": 1,
       "difficulty": "hard"
@@ -1458,20 +1458,20 @@
     {
       "q": "In muscle contraction, which protein blocks myosin binding sites on actin in the relaxed state?",
       "choices": [
-        "Troponin",
-        "Tropomyosin",
         "Titin",
-        "Nebulin"
+        "Nebulin",
+        "Troponin",
+        "Tropomyosin"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "What is the name of the protein in the eye lens that comprises most of its mass and ensures transparency?",
       "choices": [
         "Crystallin",
-        "Keratin",
         "Elastin",
+        "Keratin",
         "Opsin"
       ],
       "correct": 0,
@@ -1480,67 +1480,67 @@
     {
       "q": "Which artery branches directly from the aorta to supply blood to the heart muscle?",
       "choices": [
-        "Pulmonary artery",
         "Coronary artery",
-        "Carotid artery",
-        "Subclavian artery"
+        "Subclavian artery",
+        "Pulmonary artery",
+        "Carotid artery"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "What is the name of the thick protein filament found in muscle sarcomeres that contains myosin heads?",
       "choices": [
         "Thin filament",
-        "Thick filament",
         "Z disc",
-        "M line"
+        "M line",
+        "Thick filament"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "hard"
     },
     {
       "q": "In the female reproductive system, which hormone triggers ovulation approximately 14 days into the menstrual cycle?",
       "choices": [
-        "Estrogen",
-        "Progesterone",
         "Luteinizing hormone",
-        "Follicle-stimulating hormone"
+        "Estrogen",
+        "Follicle-stimulating hormone",
+        "Progesterone"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "hard"
     },
     {
       "q": "Which of the following bones is located in the leg rather than the arm?",
       "choices": [
-        "Humerus",
         "Radius",
         "Femur",
+        "Humerus",
         "Ulna"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "What is the name of the smallest bone in the human body, located within the middle ear?",
       "choices": [
-        "Malleus",
-        "Incus",
         "Stapes",
-        "Vomer"
+        "Vomer",
+        "Malleus",
+        "Incus"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "Which major nerve is the longest in the human body?",
       "choices": [
-        "Radial nerve",
         "Sciatic nerve",
-        "Ulnar nerve",
-        "Femoral nerve"
+        "Femoral nerve",
+        "Radial nerve",
+        "Ulnar nerve"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
@@ -1558,19 +1558,19 @@
       "q": "Which blood vessel carries oxygen-rich blood away from the heart?",
       "choices": [
         "Vena cava",
+        "Coronary artery",
         "Pulmonary vein",
-        "Aorta",
-        "Coronary artery"
+        "Aorta"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "The esophagus connects the throat directly to which organ?",
       "choices": [
-        "Small intestine",
-        "Stomach",
         "Pancreas",
+        "Stomach",
+        "Small intestine",
         "Liver"
       ],
       "correct": 1,
@@ -1590,10 +1590,10 @@
     {
       "q": "What is the medical term for the upper chambers of the heart?",
       "choices": [
-        "Ventricles",
+        "Septum",
         "Atria",
-        "Valves",
-        "Septum"
+        "Ventricles",
+        "Valves"
       ],
       "correct": 1,
       "difficulty": "medium"
@@ -1602,33 +1602,33 @@
       "q": "Which of these is NOT one of the three layers of the skin?",
       "choices": [
         "Epidermis",
-        "Dermis",
         "Hypodermis",
-        "Keratinous layer"
+        "Keratinous layer",
+        "Dermis"
       ],
-      "correct": 3,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "At what developmental stage do human fingerprints become permanently established?",
       "choices": [
+        "By 3 months after birth",
         "By 3 months gestation",
         "By 6 months gestation",
-        "At birth",
-        "By 3 months after birth"
+        "At birth"
       ],
-      "correct": 0,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "The Eustachian tubes in your ear serve primarily to:",
       "choices": [
-        "Amplify sound waves",
         "Balance air pressure",
-        "Produce earwax",
-        "Detect balance"
+        "Amplify sound waves",
+        "Detect balance",
+        "Produce earwax"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
@@ -1636,8 +1636,8 @@
       "choices": [
         "Obliques",
         "Abs",
-        "Core",
-        "Pectorals"
+        "Pectorals",
+        "Core"
       ],
       "correct": 1,
       "difficulty": "medium"
@@ -1645,32 +1645,32 @@
     {
       "q": "The first section of the small intestine, where most chemical digestion occurs, is called the:",
       "choices": [
-        "Jejunum",
-        "Ileum",
+        "Cecum",
         "Duodenum",
-        "Cecum"
-      ],
-      "correct": 2,
-      "difficulty": "medium"
-    },
-    {
-      "q": "What is the primary function of the medulla oblongata?",
-      "choices": [
-        "Storing memories",
-        "Controlling involuntary functions like breathing and heart rate",
-        "Processing visual information",
-        "Producing hormones"
+        "Ileum",
+        "Jejunum"
       ],
       "correct": 1,
       "difficulty": "medium"
     },
     {
+      "q": "What is the primary function of the medulla oblongata?",
+      "choices": [
+        "Processing visual information",
+        "Producing hormones",
+        "Controlling involuntary functions like breathing and heart rate",
+        "Storing memories"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
       "q": "How many bones are present in the adult human hand, including the wrist?",
       "choices": [
-        "19 bones",
+        "31 bones",
         "23 bones",
         "27 bones",
-        "31 bones"
+        "19 bones"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -1678,32 +1678,32 @@
     {
       "q": "Which blood vessel type has the largest diameter in the human circulatory system?",
       "choices": [
-        "Capillary",
-        "Vein",
         "Artery",
+        "Vein",
+        "Capillary",
         "Aorta"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "What is the medical term for the lower jawbone?",
       "choices": [
         "Maxilla",
+        "Zygomatic",
         "Mandible",
-        "Temporal",
-        "Zygomatic"
+        "Temporal"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "In which organ are red blood cells primarily produced?",
       "choices": [
+        "Liver",
         "Spleen",
-        "Thymus",
         "Bone marrow",
-        "Liver"
+        "Thymus"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -1711,23 +1711,23 @@
     {
       "q": "How many chromosomes does a typical human gamete contain?",
       "choices": [
-        "23",
         "46",
         "92",
+        "23",
         "12"
       ],
-      "correct": 0,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "What is the name of the membrane that surrounds each individual muscle fiber?",
       "choices": [
-        "Epimysium",
-        "Perimysium",
         "Sarcolemma",
-        "Endomysium"
+        "Endomysium",
+        "Epimysium",
+        "Perimysium"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
@@ -1745,9 +1745,9 @@
       "q": "How many pairs of spinal nerves branch from the human spinal cord?",
       "choices": [
         "28 pairs",
-        "30 pairs",
+        "33 pairs",
         "31 pairs",
-        "33 pairs"
+        "30 pairs"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -1755,76 +1755,76 @@
     {
       "q": "What is the name of the transparent layer at the front of the eye that helps focus light?",
       "choices": [
+        "Vitreous humor",
         "Retina",
         "Iris",
-        "Cornea",
-        "Vitreous humor"
+        "Cornea"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "The smallest bones in the human body are located in which structure?",
       "choices": [
         "Spine",
-        "Middle ear",
         "Foot",
+        "Middle ear",
         "Hand"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "Which enzyme in the stomach begins the breakdown of proteins?",
       "choices": [
         "Amylase",
-        "Pepsin",
         "Lipase",
+        "Pepsin",
         "Trypsin"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "What is the medical term for the voice box located in the throat?",
-      "choices": [
-        "Pharynx",
-        "Larynx",
-        "Epiglottis",
-        "Uvula"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "What is the name of the protein that gives muscle tissue its contractile ability?",
-      "choices": [
-        "Actin and myosin",
-        "Keratin",
-        "Elastin",
-        "Fibrin"
-      ],
-      "correct": 0,
-      "difficulty": "medium"
-    },
-    {
-      "q": "The pituitary gland produces growth hormone. In which part of the brain is it located?",
-      "choices": [
-        "Cerebellum",
-        "Hypothalamus",
-        "Beneath the hypothalamus",
-        "Thalamus"
       ],
       "correct": 2,
       "difficulty": "medium"
     },
     {
+      "q": "What is the medical term for the voice box located in the throat?",
+      "choices": [
+        "Epiglottis",
+        "Pharynx",
+        "Uvula",
+        "Larynx"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the protein that gives muscle tissue its contractile ability?",
+      "choices": [
+        "Elastin",
+        "Keratin",
+        "Fibrin",
+        "Actin and myosin"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The pituitary gland produces growth hormone. In which part of the brain is it located?",
+      "choices": [
+        "Thalamus",
+        "Beneath the hypothalamus",
+        "Hypothalamus",
+        "Cerebellum"
+      ],
+      "correct": 1,
+      "difficulty": "medium"
+    },
+    {
       "q": "What is the name of the membrane that lines the inside of the stomach and secretes gastric juices?",
       "choices": [
-        "Peritoneum",
+        "Serosa",
         "Mucosa",
         "Submucosa",
-        "Serosa"
+        "Peritoneum"
       ],
       "correct": 1,
       "difficulty": "medium"
@@ -1832,32 +1832,32 @@
     {
       "q": "Which white blood cells are responsible for producing antibodies to fight infections?",
       "choices": [
-        "Neutrophils",
-        "Macrophages",
         "B lymphocytes",
-        "T lymphocytes"
+        "Neutrophils",
+        "T lymphocytes",
+        "Macrophages"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "What is the name of the tough, fibrous tissue that connects bone to bone across a joint?",
       "choices": [
-        "Tendon",
         "Cartilage",
         "Ligament",
+        "Tendon",
         "Fascia"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "Which gland produces melatonin, the hormone that regulates sleep-wake cycles?",
       "choices": [
-        "Thyroid gland",
+        "Thymus gland",
         "Adrenal gland",
         "Pineal gland",
-        "Thymus gland"
+        "Thyroid gland"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -1865,32 +1865,32 @@
     {
       "q": "What is the medical term for the loss of bone density that commonly occurs with age?",
       "choices": [
-        "Arthritis",
         "Osteoporosis",
+        "Arthritis",
         "Osteomalacia",
         "Paget's disease"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "Which bone in the human forearm is located on the thumb side when the arm is in anatomical position?",
       "choices": [
+        "Carpals",
         "Ulna",
-        "Radius",
         "Humerus",
-        "Carpals"
+        "Radius"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "The pancreas serves a dual role in the body. Besides producing digestive enzymes, what else does it regulate?",
       "choices": [
-        "Blood pressure",
-        "Blood glucose levels",
         "Kidney function",
-        "Bone density"
+        "Blood glucose levels",
+        "Bone density",
+        "Blood pressure"
       ],
       "correct": 1,
       "difficulty": "medium"
@@ -1898,109 +1898,109 @@
     {
       "q": "Which cranial nerve is responsible for controlling the muscles of facial expression?",
       "choices": [
-        "Trigeminal nerve",
         "Facial nerve",
         "Vagus nerve",
-        "Glossopharyngeal nerve"
+        "Glossopharyngeal nerve",
+        "Trigeminal nerve"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "The larynx contains vocal cords that vibrate to produce sound. How many true vocal cords does a human have?",
       "choices": [
-        "One pair",
-        "Two pairs",
         "Three pairs",
-        "Four pairs"
+        "Four pairs",
+        "One pair",
+        "Two pairs"
       ],
-      "correct": 0,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "In the small intestine, which section is primarily responsible for nutrient absorption?",
       "choices": [
         "Duodenum",
-        "Jejunum",
         "Ileum",
+        "Jejunum",
         "Cecum"
       ],
-      "correct": 1,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "The retina at the back of the eye contains two types of photoreceptor cells. What are they called?",
       "choices": [
+        "Lenses and corneas",
         "Cones and rods",
         "Bipolar and ganglion cells",
-        "Photons and electrons",
-        "Lenses and corneas"
+        "Photons and electrons"
       ],
-      "correct": 0,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "The human spine is divided into five regions. Which region contains the most vertebrae?",
       "choices": [
+        "Sacral",
         "Cervical",
-        "Thoracic",
         "Lumbar",
-        "Sacral"
+        "Thoracic"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "What is the name of the muscle that forms the floor of the pelvis and supports pelvic organs?",
       "choices": [
-        "Diaphragm",
-        "Pelvic floor muscles",
         "Rectus abdominis",
-        "Transverse abdominis"
+        "Diaphragm",
+        "Transverse abdominis",
+        "Pelvic floor muscles"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "The kidneys filter waste from the blood to produce urine. How many functional nephrons does an average human kidney contain?",
       "choices": [
-        "About 100,000",
-        "About 500,000",
         "About 1 million",
-        "About 10 million"
+        "About 100,000",
+        "About 10 million",
+        "About 500,000"
       ],
-      "correct": 2,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "The trachea branches into two main airways called what?",
       "choices": [
         "Bronchioles",
-        "Alveoli",
         "Primary bronchi",
+        "Alveoli",
         "Secondary passages"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "The epidermis, the outermost layer of skin, consists of multiple layers. Which layer contains living cells?",
       "choices": [
-        "Stratum corneum",
         "Stratum lucidum",
-        "Stratum granulosum",
-        "Stratum germinativum"
+        "Stratum germinativum",
+        "Stratum corneum",
+        "Stratum granulosum"
       ],
-      "correct": 3,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "Which of the following is NOT a true rib in the human rib cage?",
       "choices": [
-        "First rib",
+        "Sternal rib",
         "Seventh rib",
         "Floating rib",
-        "Sternal rib"
+        "First rib"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -2019,87 +2019,87 @@
     {
       "q": "What is the collective term for the lymphoid organs and tissues that defend the body against pathogens?",
       "choices": [
-        "Lymphatic system",
         "Immune system",
-        "Reticuloendothelial system",
-        "Defense network"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "The esophagus is a muscular tube that moves food to the stomach through wave-like contractions called what?",
-      "choices": [
-        "Peristalsis",
-        "Segmentation",
-        "Propulsion",
-        "Contractions"
+        "Lymphatic system",
+        "Defense network",
+        "Reticuloendothelial system"
       ],
       "correct": 0,
       "difficulty": "medium"
     },
     {
+      "q": "The esophagus is a muscular tube that moves food to the stomach through wave-like contractions called what?",
+      "choices": [
+        "Contractions",
+        "Propulsion",
+        "Segmentation",
+        "Peristalsis"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
       "q": "Which hormone is primarily produced by the pancreas to regulate blood glucose levels?",
       "choices": [
-        "Glucagon",
         "Insulin",
         "Cortisol",
-        "Thyroxine"
+        "Thyroxine",
+        "Glucagon"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "The semicircular canals are fluid-filled structures in which sensory organ?",
       "choices": [
-        "Nose",
-        "Ear",
+        "Skin",
         "Tongue",
-        "Skin"
+        "Nose",
+        "Ear"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "What is the name of the thin membrane that surrounds the lungs?",
       "choices": [
-        "Pericardium",
         "Pleura",
-        "Peritoneum",
-        "Diaphragm"
+        "Diaphragm",
+        "Pericardium",
+        "Peritoneum"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "The radius and ulna are two bones found in which part of the arm?",
       "choices": [
         "Upper arm",
-        "Forearm",
+        "Hand",
         "Wrist",
-        "Hand"
+        "Forearm"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "What is the primary function of the lymph nodes in the immune system?",
       "choices": [
-        "Produce red blood cells",
         "Filter lymph and activate immune responses",
         "Store glucose",
+        "Produce red blood cells",
         "Regulate body temperature"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "The optic nerve transmits visual information from which structure to the brain?",
       "choices": [
+        "Lens",
         "Cornea",
-        "Iris",
         "Retina",
-        "Lens"
+        "Iris"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -2108,66 +2108,66 @@
       "q": "What is the name of the protein in muscles that works with actin to enable contraction?",
       "choices": [
         "Collagen",
+        "Elastin",
         "Myosin",
-        "Keratin",
-        "Elastin"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "The eustachian tube connects the middle ear to which structure?",
-      "choices": [
-        "Inner ear",
-        "Nasopharynx",
-        "Cochlea",
-        "Oval window"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "The carpals are small bones found in which part of the body?",
-      "choices": [
-        "Ankle",
-        "Wrist",
-        "Foot",
-        "Elbow"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "What is the name of the fluid that cushions and protects the brain and spinal cord?",
-      "choices": [
-        "Synovial fluid",
-        "Cerebrospinal fluid",
-        "Interstitial fluid",
-        "Plasma"
-      ],
-      "correct": 1,
-      "difficulty": "medium"
-    },
-    {
-      "q": "The human body contains approximately how many miles of blood vessels when laid end to end?",
-      "choices": [
-        "6 miles",
-        "25 miles",
-        "60,000 miles",
-        "100,000 miles"
+        "Keratin"
       ],
       "correct": 2,
       "difficulty": "medium"
     },
     {
+      "q": "The eustachian tube connects the middle ear to which structure?",
+      "choices": [
+        "Nasopharynx",
+        "Oval window",
+        "Cochlea",
+        "Inner ear"
+      ],
+      "correct": 0,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The carpals are small bones found in which part of the body?",
+      "choices": [
+        "Elbow",
+        "Ankle",
+        "Foot",
+        "Wrist"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
+      "q": "What is the name of the fluid that cushions and protects the brain and spinal cord?",
+      "choices": [
+        "Plasma",
+        "Synovial fluid",
+        "Cerebrospinal fluid",
+        "Interstitial fluid"
+      ],
+      "correct": 2,
+      "difficulty": "medium"
+    },
+    {
+      "q": "The human body contains approximately how many miles of blood vessels when laid end to end?",
+      "choices": [
+        "25 miles",
+        "6 miles",
+        "100,000 miles",
+        "60,000 miles"
+      ],
+      "correct": 3,
+      "difficulty": "medium"
+    },
+    {
       "q": "Which structure in the inner ear is responsible for detecting head movements and maintaining balance and orientation?",
       "choices": [
-        "Cochlea",
         "Semicircular canals",
         "Oval window",
-        "Eustachian tube"
+        "Eustachian tube",
+        "Cochlea"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
@@ -2175,8 +2175,8 @@
       "choices": [
         "Between the knee and ankle",
         "Between the hip and knee",
-        "In the foot and toes",
-        "Around the heel bone"
+        "Around the heel bone",
+        "In the foot and toes"
       ],
       "correct": 0,
       "difficulty": "medium"
@@ -2184,21 +2184,21 @@
     {
       "q": "What is the largest muscle in the human body?",
       "choices": [
-        "Bicep",
         "Quadricep",
         "Gluteus maximus",
+        "Bicep",
         "Latissimus dorsi"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "easy"
     },
     {
       "q": "Which blood vessels carry blood away from the heart?",
       "choices": [
-        "Veins",
-        "Arteries",
         "Capillaries",
-        "Lymph vessels"
+        "Arteries",
+        "Lymph vessels",
+        "Veins"
       ],
       "correct": 1,
       "difficulty": "easy"
@@ -2206,34 +2206,34 @@
     {
       "q": "What is the longest bone in the human body?",
       "choices": [
-        "Tibia",
-        "Humerus",
         "Femur",
+        "Humerus",
+        "Tibia",
         "Fibula"
-      ],
-      "correct": 2,
-      "difficulty": "easy"
-    },
-    {
-      "q": "Which organ is famous for having a minimal/unknown primary function and often becomes inflamed?",
-      "choices": [
-        "Appendix",
-        "Gallbladder",
-        "Pancreas",
-        "Spleen"
       ],
       "correct": 0,
       "difficulty": "easy"
     },
     {
+      "q": "Which organ is famous for having a minimal/unknown primary function and often becomes inflamed?",
+      "choices": [
+        "Gallbladder",
+        "Appendix",
+        "Spleen",
+        "Pancreas"
+      ],
+      "correct": 1,
+      "difficulty": "easy"
+    },
+    {
       "q": "Approximately how many sweat glands does the average human have?",
       "choices": [
-        "200,000",
-        "500,000",
         "1 million",
-        "2-4 million"
+        "2-4 million",
+        "200,000",
+        "500,000"
       ],
-      "correct": 3,
+      "correct": 1,
       "difficulty": "hard"
     },
     {
@@ -2250,43 +2250,43 @@
     {
       "q": "Which chemical is released by the body during allergic reactions, causing sneezing and itching?",
       "choices": [
-        "Histamine",
         "Serotonin",
         "Dopamine",
+        "Histamine",
         "Adrenaline"
       ],
-      "correct": 0,
+      "correct": 2,
       "difficulty": "medium"
     },
     {
       "q": "What small flap of tissue prevents food from entering the windpipe during swallowing?",
       "choices": [
-        "Uvula",
-        "Larynx",
+        "Tonsil",
         "Epiglottis",
-        "Tonsil"
+        "Uvula",
+        "Larynx"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "The meninges are protective membranes that cover which organs?",
       "choices": [
+        "Kidneys",
         "Heart",
         "Lungs",
-        "Brain and spinal cord",
-        "Kidneys"
+        "Brain and spinal cord"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "The adrenal glands sit on top of which organs?",
       "choices": [
         "Heart",
-        "Lungs",
+        "Liver",
         "Kidneys",
-        "Liver"
+        "Lungs"
       ],
       "correct": 2,
       "difficulty": "medium"
@@ -2294,89 +2294,89 @@
     {
       "q": "What is the main function of the gallbladder?",
       "choices": [
-        "Produce insulin",
         "Filter blood",
         "Store bile",
+        "Produce insulin",
         "Produce hormones"
       ],
-      "correct": 2,
+      "correct": 1,
       "difficulty": "medium"
     },
     {
       "q": "Tiny finger-like projections in the small intestine that absorb nutrients are called what?",
       "choices": [
-        "Cilia",
         "Villi",
+        "Cilia",
         "Papillae",
         "Crypts"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "What is the hardest substance in the human body?",
       "choices": [
-        "Bone",
-        "Tooth enamel",
         "Cartilage",
-        "Fingernail"
+        "Fingernail",
+        "Bone",
+        "Tooth enamel"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "Which organ is the body's primary detoxification center, processing over 500 functions?",
       "choices": [
-        "Heart",
         "Liver",
         "Kidneys",
-        "Pancreas"
+        "Pancreas",
+        "Heart"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "The aorta is the body's largest what?",
       "choices": [
-        "Vein",
         "Artery",
-        "Nerve",
-        "Muscle"
+        "Vein",
+        "Muscle",
+        "Nerve"
       ],
-      "correct": 1,
+      "correct": 0,
       "difficulty": "medium"
     },
     {
       "q": "Keratin, a tough protein, is the main structural component of what?",
       "choices": [
         "Muscles",
-        "Hair, nails, skin",
+        "Organ linings",
         "Blood cells",
-        "Organ linings"
+        "Hair, nails, skin"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "Which bone group contains the sacrum, ilium, and pubis?",
       "choices": [
-        "Skull",
         "Spine",
-        "Pelvis",
-        "Rib cage"
+        "Rib cage",
+        "Skull",
+        "Pelvis"
       ],
-      "correct": 2,
+      "correct": 3,
       "difficulty": "medium"
     },
     {
       "q": "What are the Y-shaped proteins produced by the immune system to fight pathogens called?",
       "choices": [
         "Antigens",
-        "Antibodies",
+        "Antiseptics",
         "Antibiotics",
-        "Antiseptics"
+        "Antibodies"
       ],
-      "correct": 1,
+      "correct": 3,
       "difficulty": "medium"
     }
   ]
